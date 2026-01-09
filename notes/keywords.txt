@@ -38,3 +38,7 @@
 - commit
 - repository
 - staging area
+
+## Day 2 新增
+- git diff
+- git checkout
