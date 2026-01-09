@@ -33,3 +33,8 @@
 香港相关：
 - HKMA
 - Hong Kong stablecoin
+
+## Git 学习关键词
+- commit
+- repository
+- staging area
