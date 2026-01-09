@@ -15,3 +15,6 @@ stablecoin-intel/
 - 掌握 Git 版本回退
 - 学会查看文件差异
 - 理解 .gitignore 的作用
+## GitHub 集成
+- 代码已同步到 GitHub
+- 可以从任何设备访问
