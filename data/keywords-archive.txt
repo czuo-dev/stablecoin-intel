@@ -1,0 +1,35 @@
+# 稳定币行业情报关键词清单
+
+## 政策监管类
+- regulation
+- licensing
+- MiCA
+- compliance
+- 监管
+- 牌照
+- MAS
+
+## 大公司动态
+- Circle
+- Tether
+- USDC
+- PayPal PYUSD
+- Visa
+- Stripe
+- Fireblocks
+- BVNK
+
+## 融资事件
+- funding round
+- Series A/B/C
+- investment
+- 融资
+
+## 产品技术
+- cross-border payment
+- reserves
+- 跨境支付
+
+香港相关：
+- HKMA
+- Hong Kong stablecoin
