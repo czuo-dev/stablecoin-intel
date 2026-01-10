@@ -144,3 +144,9 @@ for keyword in company_keywords:
 print("\n💰 融资 / 并购类 ({} 个):".format(len(funding_keywords)))
 for keyword in funding_keywords:
     print(f"  - {keyword}")
+
+# 在最后添加总计
+total_keywords = len(policy_keywords) + len(company_keywords) + len(funding_keywords)
+print("\n" + "=" * 50)
+print(f"总计: {total_keywords} 个关键词")
+print("=" * 50)
