@@ -30,3 +30,4 @@ logs/
 # IDE
 .vscode/
 .idea/
+venv/
