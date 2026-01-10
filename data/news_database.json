@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Circle获得新加坡MAS电子货币机构牌照",
+    "source": "CoinDesk",
+    "category": "📋 政策监管",
+    "url": "https://example.com/1",
+    "added_at": "2026-01-10 17:04:26"
+  },
+  {
+    "id": 2,
+    "title": "Tether完成5亿美元战略融资",
+    "source": "The Block",
+    "category": "💰 融资并购",
+    "url": "https://example.com/2",
+    "added_at": "2026-01-10 17:04:26"
+  },
+  {
+    "id": 3,
+    "title": "PayPal的PYUSD稳定币在欧洲上线",
+    "source": "Reuters",
+    "category": "🏢 公司动态",
+    "url": "https://example.com/3",
+    "added_at": "2026-01-10 17:04:26"
+  },
+  {
+    "id": 4,
+    "title": "美国SEC主席称将加强稳定币监管",
+    "source": "Bloomberg",
+    "category": "📋 政策监管",
+    "url": "https://example.com/4",
+    "added_at": "2026-01-10 17:04:26"
+  },
+  {
+    "id": 5,
+    "title": "Visa与Circle达成战略合作",
+    "source": "Financial Times",
+    "category": "🏢 公司动态",
+    "url": "https://example.com/5",
+    "added_at": "2026-01-10 17:04:26"
+  }
+]
