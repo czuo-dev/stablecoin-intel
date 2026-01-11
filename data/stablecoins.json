@@ -1,0 +1,22 @@
+{
+  "USDC": {
+    "issuer": "Circle",
+    "market_cap": 35000000000,
+    "regulated": true,
+    "chains": [
+      "Ethereum",
+      "Solana",
+      "Polygon"
+    ]
+  },
+  "USDT": {
+    "issuer": "Tether",
+    "market_cap": 120000000000,
+    "regulated": false,
+    "chains": [
+      "Ethereum",
+      "Tron",
+      "BSC"
+    ]
+  }
+}
