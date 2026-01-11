@@ -32,3 +32,4 @@ logs/
 .idea/
 venv/
 config/api_keys.txt
+.env
