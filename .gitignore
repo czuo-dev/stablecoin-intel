@@ -31,3 +31,4 @@ logs/
 .vscode/
 .idea/
 venv/
+config/api_keys.txt
