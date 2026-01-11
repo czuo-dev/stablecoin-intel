@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Circle获得新加坡MAS支付牌照",
+    "source": "CoinDesk",
+    "date": "2025-01-10",
+    "category": "📋 政策监管",
+    "keywords": [
+      "MAS"
+    ],
+    "id": 1,
+    "added_at": "2026-01-11 15:48:58"
+  },
+  {
+    "title": "Tether完成5亿美元融资",
+    "source": "The Block",
+    "date": "2025-01-10",
+    "category": "💰 融资并购",
+    "keywords": [
+      "融资"
+    ],
+    "id": 2,
+    "added_at": "2026-01-11 15:48:58"
+  },
+  {
+    "title": "PayPal PYUSD在欧洲上线",
+    "source": "Reuters",
+    "date": "2025-01-09",
+    "category": "🏢 公司动态",
+    "keywords": [
+      "PayPal"
+    ],
+    "id": 3,
+    "added_at": "2026-01-11 15:48:58"
+  },
+  {
+    "title": "SEC加强稳定币监管",
+    "source": "Bloomberg",
+    "date": "2025-01-09",
+    "category": "📋 政策监管",
+    "keywords": [
+      "SEC"
+    ],
+    "id": 4,
+    "added_at": "2026-01-11 15:48:58"
+  }
+]
