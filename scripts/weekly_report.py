@@ -1,6 +1,74 @@
 # 稳定币情报周报生成器
 # 功能：自动生成 Markdown 格式的周报
+# 在文件开头添加
+from database_manager import get_recent_articles, get_database_stats
 
+# =========================
+# 修改数据加载函数
+# =========================
+
+def load_weekly_news():
+    """从数据库加载本周新闻"""
+    print("从数据库加载本周数据...")
+    
+    # 获取最近7天的新闻
+    weekly_news = get_recent_articles(days=7)
+    
+    print(f"✅ 加载 {len(weekly_news)} 条本周新闻")
+    
+    return weekly_news
+
+def get_weekly_stats():
+    """获取本周统计"""
+    # 从数据库获取统计
+    all_stats = get_database_stats()
+    
+    # 获取本周数据
+    weekly_news = get_recent_articles(days=7)
+    
+    # 按分类统计
+    category_count = {}
+    source_count = {}
+    
+    for news in weekly_news:
+        category = news.get('category', '未分类')
+        source = news.get('source', '未知')
+        
+        category_count[category] = category_count.get(category, 0) + 1
+        source_count[source] = source_count.get(source, 0) + 1
+    
+    return {
+        'total': len(weekly_news),
+        'categories': category_count,
+        'sources': source_count
+    }
+
+# =========================
+# 修改main函数
+# =========================
+
+def main():
+    print("=" * 60)
+    print("稳定币情报周报生成器")
+    print("=" * 60)
+    
+    # 从数据库加载数据
+    weekly_news = load_weekly_news()
+    
+    if not weekly_news:
+        print("\n⚠️  本周暂无新闻")
+        return
+    
+    # 获取统计
+    stats = get_weekly_stats()
+    
+    # 生成报告
+    report = generate_weekly_report(weekly_news, stats)
+    
+    # 保存报告
+    save_report(report)
+    
+    print("\n✅ 周报生成完成！")
 import json
 import os
 from datetime import datetime, timedelta

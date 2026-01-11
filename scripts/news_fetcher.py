@@ -1,6 +1,45 @@
 # 稳定币新闻抓取器
 # 功能：从 NewsAPI 获取真实新闻
+# 在文件开头添加导入
+from database_manager import insert_articles_batch, get_database_stats
 
+# =========================
+# 修改保存函数
+# =========================
+
+def save_news_to_database(articles):
+    """保存新闻到数据库"""
+    print("\n" + "=" * 60)
+    print("保存新闻到数据库")
+    print("=" * 60)
+    
+    # 插入数据库
+    count = insert_articles_batch(articles)
+    
+    # 显示数据库统计
+    stats = get_database_stats()
+    print(f"\n数据库现有记录: {stats['total']} 条")
+    
+    return count
+
+# =========================
+# 修改main函数
+# =========================
+
+def main():
+    # ... 前面获取新闻的代码不变 ...
+    
+    # 过滤和分类
+    filtered_news = filter_stablecoin_news(articles)
+    classified_news = classify_news(filtered_news)
+    
+    # 保存到数据库（新方式）
+    save_news_to_database(classified_news)
+    
+    # 可选：仍然保存一份JSON备份
+    # save_json_backup(classified_news)
+    
+    print("\n✅ 完成！新闻已保存到数据库")
 import requests
 import json
 import os

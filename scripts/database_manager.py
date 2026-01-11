@@ -350,6 +350,159 @@ def migrate_json_to_db(json_file):
         print(f"❌ 迁移失败: {e}")
 
 # =========================
+# 高级查询功能
+# =========================
+
+def get_trending_topics(days=7, limit=10):
+    """
+    获取热门话题
+    
+    参数:
+        days: 时间范围（天）
+        limit: 返回数量
+    """
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+    
+    # 统计关键词出现频率
+    # 这里简化处理，实际可以用更复杂的算法
+    cursor.execute('''
+        SELECT 
+            CASE 
+                WHEN title LIKE '%Circle%' THEN 'Circle'
+                WHEN title LIKE '%Tether%' OR title LIKE '%USDT%' THEN 'Tether'
+                WHEN title LIKE '%USDC%' THEN 'USDC'
+                WHEN title LIKE '%PayPal%' OR title LIKE '%PYUSD%' THEN 'PayPal'
+                WHEN title LIKE '%regulation%' OR title LIKE '%监管%' THEN 'Regulation'
+                ELSE 'Other'
+            END as topic,
+            COUNT(*) as count
+        FROM articles
+        WHERE date >= date('now', '-' || ? || ' days')
+        GROUP BY topic
+        ORDER BY count DESC
+        LIMIT ?
+    ''', (days, limit))
+    
+    results = cursor.fetchall()
+    conn.close()
+    
+    return results
+
+def get_source_comparison(days=30):
+    """
+    对比不同来源的报道数量
+    
+    参数:
+        days: 时间范围
+    """
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+    
+    cursor.execute('''
+        SELECT 
+            source,
+            COUNT(*) as total,
+            SUM(CASE WHEN category = '📋 政策监管' THEN 1 ELSE 0 END) as policy,
+            SUM(CASE WHEN category = '💰 融资并购' THEN 1 ELSE 0 END) as funding,
+            SUM(CASE WHEN category = '🏢 公司动态' THEN 1 ELSE 0 END) as company
+        FROM articles
+        WHERE date >= date('now', '-' || ? || ' days')
+        GROUP BY source
+        ORDER BY total DESC
+        LIMIT 10
+    ''', (days,))
+    
+    columns = ['source', 'total', 'policy', 'funding', 'company']
+    results = [dict(zip(columns, row)) for row in cursor.fetchall()]
+    
+    conn.close()
+    return results
+
+def get_daily_trend(days=30):
+    """
+    获取每日新闻趋势
+    
+    参数:
+        days: 天数
+    """
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+    
+    cursor.execute('''
+        SELECT 
+            date,
+            COUNT(*) as count,
+            GROUP_CONCAT(DISTINCT category) as categories
+        FROM articles
+        WHERE date >= date('now', '-' || ? || ' days')
+        GROUP BY date
+        ORDER BY date DESC
+    ''', (days,))
+    
+    columns = ['date', 'count', 'categories']
+    results = [dict(zip(columns, row)) for row in cursor.fetchall()]
+    
+    conn.close()
+    return results
+
+def get_category_timeline(category, days=30):
+    """
+    获取特定分类的时间线
+    
+    参数:
+        category: 分类名称
+        days: 天数
+    """
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+    
+    cursor.execute('''
+        SELECT 
+            date,
+            COUNT(*) as count
+        FROM articles
+        WHERE category = ?
+        AND date >= date('now', '-' || ? || ' days')
+        GROUP BY date
+        ORDER BY date DESC
+    ''', (category, days))
+    
+    results = cursor.fetchall()
+    conn.close()
+    
+    return results
+
+# =========================
+# 数据导出功能
+# =========================
+
+def export_to_csv(output_file='data/exports/articles.csv'):
+    """导出所有数据为CSV"""
+    import csv
+    
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+    
+    cursor.execute('SELECT * FROM articles ORDER BY date DESC')
+    
+    # 获取列名
+    columns = [description[0] for description in cursor.description]
+    
+    # 写入CSV
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+    
+    with open(output_file, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerow(columns)  # 写入表头
+        writer.writerows(cursor.fetchall())  # 写入数据
+    
+    conn.close()
+    
+    print(f"✅ 数据已导出到: {output_file}")
+    return output_file
+
+# =========================
 # 主程序
 # =========================
 
@@ -366,6 +519,10 @@ def main():
         print("  python database_manager.py stats                   # 查看统计")
         print("  python database_manager.py search <关键词>         # 搜索")
         print("  python database_manager.py list [数量]             # 列出最新新闻")
+        print("  python database_manager.py trending [天数]         # 热门话题")
+        print("  python database_manager.py comparison [天数]       # 来源对比")
+        print("  python database_manager.py trend [天数]            # 每日趋势")
+        print("  python database_manager.py export-csv [文件路径]   # 导出CSV")
         return
     
     command = sys.argv[1]
@@ -398,6 +555,37 @@ def main():
         for i, article in enumerate(articles, 1):
             print(f"\n{i}. {article['title']}")
             print(f"   来源: {article['source']} | 日期: {article['date']}")
+    
+    elif command == "trending":
+        days = int(sys.argv[2]) if len(sys.argv) == 3 else 7
+        topics = get_trending_topics(days)
+        
+        print(f"\n最近{days}天热门话题:")
+        for topic, count in topics:
+            print(f"  {topic:20} {count:3} 条")
+    
+    elif command == "comparison":
+        days = int(sys.argv[2]) if len(sys.argv) == 3 else 30
+        comparison = get_source_comparison(days)
+        
+        print(f"\n最近{days}天来源对比:")
+        print(f"{'来源':<20} {'总计':>6} {'政策':>6} {'融资':>6} {'公司':>6}")
+        print("-" * 60)
+        for item in comparison:
+            print(f"{item['source']:<20} {item['total']:>6} "
+                  f"{item['policy']:>6} {item['funding']:>6} {item['company']:>6}")
+    
+    elif command == "trend":
+        days = int(sys.argv[2]) if len(sys.argv) == 3 else 30
+        trend = get_daily_trend(days)
+        
+        print(f"\n最近{days}天趋势:")
+        for item in trend[:10]:  # 只显示前10天
+            print(f"  {item['date']} {item['count']:3} 条")
+    
+    elif command == "export-csv":
+        output = sys.argv[2] if len(sys.argv) == 3 else 'data/exports/articles.csv'
+        export_to_csv(output)
     
     else:
         print("❌ 无效的命令")

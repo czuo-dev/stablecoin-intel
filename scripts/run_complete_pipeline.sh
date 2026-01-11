@@ -14,6 +14,16 @@ LOG_FILE="$LOG_DIR/pipeline_$(date +%Y%m%d).log"
 # 创建日志目录（如果不存在）
 mkdir -p "$LOG_DIR"
 
+# 加载环境变量（如果有.env文件）
+if [ -f "$PROJECT_DIR/.env" ]; then
+    export $(cat "$PROJECT_DIR/.env" | xargs)
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] [INFO] 环境变量已加载"  # ✅ 直接用echo
+else
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] [INFO] 未找到.env文件，跳过通知功能"
+fi
+
+
+
 # =========================
 # 日志函数
 # =========================
@@ -107,6 +117,55 @@ if [ -f "data/news_system_db.json" ]; then
     log_info "数据库行数: $DB_SIZE"
 fi
 
+# 步骤7：生成周报（每周一运行）
+log_info "步骤7: 检查是否需要生成周报"
+WEEKDAY=$(date +%u)  # 1=周一, 7=周日
+
+if [ $WEEKDAY -eq 1 ]; then
+    log_info "今天是周一，生成周报..."
+    python scripts/weekly_report.py >> "$LOG_FILE" 2>&1
+    if [ $? -eq 0 ]; then
+        log_success "周报生成完成"
+    else
+        log_error "周报生成失败"
+    fi
+else
+    log_info "今天是周$WEEKDAY，跳过周报生成"
+fi
+
+#!/bin/bash
+# ... 前面的代码不变 ...
+
+# =========================
+# 步骤8：发送Telegram通知
+# =========================
+
+log_info "步骤8: 发送Telegram通知"
+
+WEEKDAY=$(date +%u)
+
+if [ $WEEKDAY -eq 1 ]; then
+    log_info "今天是周一，发送周报..."
+    
+    LATEST_REPORT=$(ls -t reports/weekly_report_*.md 2>/dev/null | head -1)
+    
+    if [ -f "$LATEST_REPORT" ]; then
+        python scripts/telegram_notifier.py report "$LATEST_REPORT" >> "$LOG_FILE" 2>&1
+        log_success "周报已发送到Telegram"
+    fi
+else
+    log_info "今天是周$WEEKDAY，跳过周报"
+    
+    # 每天发送简短通知
+    python scripts/telegram_notifier.py alert "稳定币情报" "今日数据收集完成" >> "$LOG_FILE" 2>&1
+fi
+
+# =========================
+# 步骤9：导出Excel
+# =========================
+
+log_info "步骤9: 导出Excel"
+python scripts/data_exporter.py data data/news_system_db.json >> "$LOG_FILE" 2>&1
 # =========================
 # 完成
 # =========================

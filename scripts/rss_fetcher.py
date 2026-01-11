@@ -1,6 +1,21 @@
 # RSS 新闻订阅器
 # 功能：从多个 RSS 源获取稳定币新闻
+# 在文件开头添加
+from database_manager import insert_articles_batch
 
+# 修改main函数的保存部分
+def main():
+    # ... RSS获取代码 ...
+    
+    # 过滤和去重
+    stablecoin_news = filter_stablecoin_news(all_news)
+    unique_news = deduplicate_news(stablecoin_news)
+    
+    # 保存到数据库
+    print("\n保存到数据库...")
+    count = insert_articles_batch(unique_news)
+    
+    print(f"\n✅ 成功保存 {count} 条新数据到数据库")
 import feedparser
 import json
 import os
