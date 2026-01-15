@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Hong Kong Grants First Stablecoin License to Circle",
+    "category": "policy",
+    "tags": [
+      "Circle",
+      "香港",
+      "HKMA"
+    ],
+    "importance": 8,
+    "confidence": 0.95
+  },
+  {
+    "title": "EU Finalizes MiCA Stablecoin Rules",
+    "category": "policy",
+    "tags": [
+      "EU",
+      "MiCA",
+      "稳定币"
+    ],
+    "importance": 8,
+    "confidence": 0.95
+  },
+  {
+    "title": "Singapore MAS Updates Stablecoin Framework",
+    "category": "policy",
+    "tags": [
+      "新加坡",
+      "MAS",
+      "稳定币"
+    ],
+    "importance": 7,
+    "confidence": 0.95
+  },
+  {
+    "title": "PayPal Expands PYUSD to European Markets",
+    "category": "company",
+    "tags": [
+      "PayPal",
+      "PYUSD",
+      "欧洲市场"
+    ],
+    "importance": 8,
+    "confidence": 0.95
+  },
+  {
+    "title": "Visa Partners with Circle on USDC Settlement",
+    "category": "company",
+    "tags": [
+      "Visa",
+      "Circle",
+      "USDC"
+    ],
+    "importance": 7,
+    "confidence": 0.9
+  },
+  {
+    "title": "Stablecoin Infrastructure Startup Raises $50M Series B",
+    "category": "funding",
+    "tags": [
+      "Bridge",
+      "融资",
+      "Sequoia Capital"
+    ],
+    "importance": 6,
+    "confidence": 0.9
+  }
+]

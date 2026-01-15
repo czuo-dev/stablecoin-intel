@@ -28,3 +28,19 @@ typing-inspection==0.4.2
 typing_extensions==4.15.0
 tzdata==2025.3
 urllib3==2.6.3
+
+# 核心依赖
+openai>=1.0.0
+requests>=2.31.0
+
+# 定时任务
+schedule>=1.2.0
+
+# 数据处理
+python-dateutil>=2.8.2
+
+# 环境变量管理（可选）
+python-dotenv>=1.0.0
+
+# 测试（可选）
+pytest>=7.4.0
