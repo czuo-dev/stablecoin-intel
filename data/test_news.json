@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Circle Receives Singapore Regulatory Approval for MiCA-Compliant Stablecoin",
+    "summary": "Circle, the issuer of USDC stablecoin, has received regulatory approval from Singapore's central bank to operate its stablecoin under the new MiCA framework. This marks a significant milestone for the company's expansion in Asia.",
+    "url": "https://example.com/news1",
+    "source": "CoinDesk",
+    "date": "2025-01-10"
+  },
+  {
+    "title": "Tether Announces $150M Investment in Emerging Markets",
+    "summary": "Tether, the world's largest stablecoin issuer, announced a $150 million investment fund focused on blockchain infrastructure in emerging markets across Africa and Southeast Asia.",
+    "url": "https://example.com/news2",
+    "source": "Bloomberg",
+    "date": "2025-01-09"
+  },
+  {
+    "title": "PayPal Expands PYUSD Stablecoin to European Markets",
+    "summary": "PayPal's PYUSD stablecoin is now available in 15 European countries, enabling cross-border payments with lower fees. The company partnered with local banks for regulatory compliance.",
+    "url": "https://example.com/news3",
+    "source": "Reuters",
+    "date": "2025-01-08"
+  }
+]

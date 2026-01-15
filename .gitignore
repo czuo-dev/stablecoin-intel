@@ -1,35 +1,27 @@
-# Mac 系统文件
-.DS_Store
-.DS_Store?
+# API Keys and sensitive data
+config.py
+*.env
+.env
 
 # Python
-*.pyc
 __pycache__/
 *.py[cod]
 *$py.class
-
-# 虚拟环境
+*.so
+.Python
 venv/
 env/
-.venv/
 
-# 配置文件（敏感信息）
-config/api-keys.txt
-config/secrets.json
-*.env
+# Data files
+data/raw/*.json
+data/processed/*.json
 
-# 日志
-logs/
-*.log
-
-# 临时文件
-*.tmp
-*.bak
-*~
+# Reports (optional - 如果不想上传报告)
+# reports/*.md
 
 # IDE
 .vscode/
 .idea/
-venv/
-config/api_keys.txt
-.env
+*.swp
+*.swo
+.DS_Store

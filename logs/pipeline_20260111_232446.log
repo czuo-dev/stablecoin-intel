@@ -1,0 +1,343 @@
+[2026-01-11 23:24:46] [INFO] ==========================================
+[2026-01-11 23:24:46] [INFO] 稳定币情报系统 - 自动化流水线
+[2026-01-11 23:24:46] [INFO] ==========================================
+[2026-01-11 23:24:46] [INFO] 步骤1: 切换到项目目录
+[2026-01-11 23:24:46] [✅ SUCCESS] 项目目录: /Users/changbaizuo_1/projects/stablecoin-intel
+[2026-01-11 23:24:46] [INFO] 步骤2: 激活虚拟环境
+[2026-01-11 23:24:46] [✅ SUCCESS] 虚拟环境已激活
+[2026-01-11 23:24:46] [INFO] 步骤3: 运行 RSS 抓取器
+============================================================
+RSS 稳定币新闻订阅器
+============================================================
+
+订阅源: 4 个
+  - CoinDesk
+  - CoinTelegraph
+  - The Block
+  - Decrypt
+
+============================================================
+开始获取 RSS 订阅
+============================================================
+正在获取 CoinDesk...
+  ⚠️  RSS 格式警告
+  ✅ 获取到 0 条内容
+正在获取 CoinTelegraph...
+  ✅ 获取到 30 条内容
+正在获取 The Block...
+  ✅ 获取到 19 条内容
+正在获取 Decrypt...
+  ✅ 获取到 20 条内容
+
+✅ 共获取 69 条内容
+
+============================================================
+过滤稳定币相关新闻
+============================================================
+  ✅ [CoinTelegraph] Here’s what happened in crypto today...
+  ✅ [CoinTelegraph] Stablecoin card adoption will be a 'big theme' of ...
+  ✅ [CoinTelegraph] Wall Street’s crypto debate is over as banks go al...
+  ✅ [The Block] Iran’s Revolutionary Guard moved $1 billion throug...
+  ✅ [The Block] Pump.fun overhauls creator fees as token launches ...
+  ✅ [The Block] The Daily: Cathie Wood says US government may soon...
+  ✅ [The Block] Rain valuation nears $2 billion after $250 million...
+  ✅ [Decrypt] ZEC Rebounds 11%! Trump says he won’t pardon Sam B...
+  ✅ [Decrypt] The ZCash situation explained! Interview with ZEC ...
+  ✅ [Decrypt] First 2026 Dip! BTC at 92K! Morgan Stanley file fo...
+  ✅ [Decrypt] Crypto is Green! Up 6-9%! Memes outperform! Pepe u...
+  ✅ [Decrypt] 2026 Crypto Predictions! Tom Lee still buying ETH!...
+  ✅ [Decrypt] OpenAI bailed out? Trump Media stock up 40%! Walle...
+  ✅ [Decrypt] Coinbase & Robinhood Big Announcements! BTC falls ...
+  ✅ [Decrypt] Big Day for Stablecoins! $200B+ price call on Hype...
+  ✅ [Decrypt] 2026 Crypto Predictions, 2025 Crypto Awards, Trump...
+  ✅ [Decrypt] Trump named Crypto Person of the Year! BTC down to...
+  ✅ [Decrypt] Bitcoin is "Digital Labubu”! Crypto Plummets! SEC ...
+
+过滤结果: 18/69 条相关新闻
+
+============================================================
+RSS 新闻列表（共 18 条）
+============================================================
+
+1. Here’s what happened in crypto today
+   来源: CoinTelegraph
+   发布: Sun, 11 Jan 2026 12:19:04 +0000
+   链接: https://cointelegraph.com/news/what-happened-in-crypto-today...
+   关键词: DAI
+
+2. Stablecoin card adoption will be a 'big theme' of 2026: Dragonfly exec
+   来源: CoinTelegraph
+   发布: Sat, 10 Jan 2026 00:46:33 +0000
+   链接: https://cointelegraph.com/news/stablecoin-card-adoption-to-t...
+   关键词: stablecoin
+
+3. Wall Street’s crypto debate is over as banks go all-in on BTC, stablecoins, tokenized cash
+   来源: CoinTelegraph
+   发布: Fri, 09 Jan 2026 21:00:00 +0000
+   链接: https://cointelegraph.com/news/wall-street-banks-crypto-etfs...
+   关键词: stablecoin
+
+4. Iran’s Revolutionary Guard moved $1 billion through UK-registered crypto exchanges, report finds
+   来源: The Block
+   发布: Sat, 10 Jan 2026 16:59:10 -0500
+   链接: https://www.theblock.co/post/385006/irans-revolutionary-guar...
+   关键词: stablecoin, USDT, Tether
+
+5. Pump.fun overhauls creator fees as token launches hit highest daily count since September
+   来源: The Block
+   发布: Fri, 09 Jan 2026 14:05:13 -0500
+   链接: https://www.theblock.co/post/384975/pump-fun-overhauls-creat...
+   关键词: DAI
+
+6. The Daily: Cathie Wood says US government may soon start buying bitcoin, Ripple secures FCA authorization, and more
+   来源: The Block
+   发布: Fri, 09 Jan 2026 13:36:40 -0500
+   链接: https://www.theblock.co/post/384974/the-daily-cathie-wood-sa...
+   关键词: DAI
+
+7. Rain valuation nears $2 billion after $250 million Series C raise for stablecoin payments firm
+   来源: The Block
+   发布: Fri, 09 Jan 2026 08:29:29 -0500
+   链接: https://www.theblock.co/post/384910/rain-valuation-nears-2-b...
+   关键词: stablecoin
+
+8. ZEC Rebounds 11%! Trump says he won’t pardon Sam Bankman-Fried! Florida revisits it’s Strategic Bitcoin Reserve!
+   来源: Decrypt
+   发布: Fri, 09 Jan 2026 17:17:12 +0000
+   链接: https://decrypt.co/videos/interviews/72tPnqPX/zec-rebounds-1...
+   关键词: stablecoin
+
+9. The ZCash situation explained! Interview with ZEC bull Mert! BTC below $90K! ZEC falls 19%!
+   来源: Decrypt
+   发布: Thu, 08 Jan 2026 17:04:56 +0000
+   链接: https://decrypt.co/videos/interviews/wmsgKRFW/the-zcash-situ...
+   关键词: stablecoin
+
+10. First 2026 Dip! BTC at 92K! Morgan Stanley file for BTC, ETH & SOL ETFs! Hyperliquid Airdrop Speculation!
+   来源: Decrypt
+   发布: Wed, 07 Jan 2026 16:14:54 +0000
+   链接: https://decrypt.co/videos/interviews/GVQVX2ND/first-2026-dip...
+   关键词: DAI
+
+... 还有 8 条
+✅ 数据已保存到 data/rss/news_20260111_232447.json
+✅ 已追加到总日志 data/rss_master_log.json
+
+============================================================
+完成！
+============================================================
+📊 本次获取: 18 条相关新闻
+📁 数据保存: data/rss/
+[2026-01-11 23:24:47] [✅ SUCCESS] RSS 抓取完成（数据已保存到数据库）
+[2026-01-11 23:24:47] [INFO] 步骤4: 运行 NewsAPI 抓取器
+/Users/changbaizuo_1/projects/stablecoin-intel/venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+============================================================
+稳定币新闻抓取器
+============================================================
+
+✅ API Key 已配置
+搜索关键词: stablecoin, USDC, USDT, Tether, Circle, stablecoin regulation
+
+============================================================
+开始抓取稳定币新闻
+============================================================
+正在搜索关键词: stablecoin
+✅ 找到 10 条新闻
+正在搜索关键词: USDC
+✅ 找到 10 条新闻
+正在搜索关键词: USDT
+✅ 找到 10 条新闻
+正在搜索关键词: Tether
+✅ 找到 9 条新闻
+正在搜索关键词: Circle
+✅ 找到 9 条新闻
+正在搜索关键词: stablecoin regulation
+✅ 找到 10 条新闻
+
+✅ 共获取 45 条不重复的新闻
+
+============================================================
+新闻列表（共 45 条）
+============================================================
+
+1. Tokenized Treasuries skyrocketed 125%, creating this “programmable cash” loop that banks are scrambling to copy
+   来源: CryptoSlate
+   发布: 2026-01-10
+   链接: https://cryptoslate.com/tokenized-treasuries-skyrocketed-125...
+   摘要: Tokenized real-world assets reached $19.72 billion on Jan. 9, the closest the market has come to the...
+
+2. New BlackRock report exposes a historic shift in crypto that leaves only one blockchain controlling the settlement layer
+   来源: CryptoSlate
+   发布: 2026-01-10
+   链接: https://cryptoslate.com/blackrock-stablecoin-ethereum-settle...
+   摘要: Stablecoins used to be a crypto convenience, a way to park dollars between trades without touching f...
+
+3. UN Taps Tether to Battle Crypto Scams and Human Trafficking
+   来源: Cryptonews
+   发布: 2026-01-10
+   链接: https://cryptonews.com/news/un-taps-tether-to-battle-crypto-...
+   摘要: Tether has partnered with the United Nations Office on Drugs and Crime to strengthen cybersecurity a...
+
+4. New Crypto Mutuum Finance (MUTM) Reports Phase 7 Progress With Halborn Audit Finalized
+   来源: GlobeNewswire
+   发布: 2026-01-10
+   链接: https://www.globenewswire.com/news-release/2026/01/10/321641...
+   摘要: DUBAI, United Arab Emirates, Jan. 10, 2026 (GLOBE NEWSWIRE) -- Mutuum Finance (MUTM)
+, a new crypto...
+
+5. Ripple gains U.K approval as ‘liquidity’ fuels XRP’s 2026 momentum
+   来源: Ambcrypto.com
+   发布: 2026-01-10
+   链接: https://ambcrypto.com/ripple-gains-u-k-approval-as-liquidity...
+   摘要: RLUSD might be at the forefront of all of Ripple's progress lately....
+
+6. What Ripple’s FCA Approval Means For XRP And Payments In The UK
+   来源: Bitcoinist
+   发布: 2026-01-10
+   链接: https://bitcoinist.com/ripple-fca-approval-on-xrp/...
+   摘要: Crypto pundit X Finance Bull has explained what Ripple’s FCA approval means for XRP and cross-border...
+
+7. Stablecoin transactions rose to record $33 trillion in 2025
+   来源: The Times of India
+   发布: 2026-01-10
+   链接: https://economictimes.indiatimes.com/markets/cryptocurrency/...
+   摘要: Stablecoin transactions surged to a record $33 trillion in 2025, driven by supportive US policy unde...
+
+8. Molly White on crypto
+   来源: Citationneeded.news
+   发布: 2026-01-10
+   链接: https://www.citationneeded.news/the-year-of-technoligarchy/...
+   摘要: "Trump’s pursuit of oil and bitcoin demonstrates how thoroughly checks on presidential power have co...
+
+9. Anti-DeFi group runs ads urging public to pressure Senators on crypto bill: Report
+   来源: Cointelegraph
+   发布: 2026-01-10
+   链接: https://cointelegraph.com/news/anti-defi-group-runs-ads-to-s...
+   摘要: An unknown lobby group is reportedly running ads on FOX, urging the public to pressure their local S...
+
+10. Crypto Market Structure Bill Update: Blockchain Association CEO Highlights Key Developments
+   来源: Bitcoinist
+   发布: 2026-01-10
+   链接: https://bitcoinist.com/blockchain-association-ceo-crypto-mar...
+   摘要: As the US Congress gears up to mark up the long-awaited crypto market structure bill on January 15, ...
+
+... 还有 35 条新闻
+✅ 原始数据已保存到 data/raw/news_20260111_232451.json
+✅ 已追加到每日日志 data/news_log_2026-01-11.txt
+
+============================================================
+抓取完成！
+============================================================
+📊 本次抓取: 45 条新闻
+📁 原始数据: data/raw/
+📝 每日日志: data/news_log_2026-01-11.txt
+[2026-01-11 23:24:51] [✅ SUCCESS] NewsAPI 抓取完成（数据已保存到数据库）
+[2026-01-11 23:24:51] [INFO] 步骤5: 数据库维护
+[2026-01-11 23:24:51] [INFO] 5.1 删除重复数据
+检查重复数据...
+✅ 没有重复数据
+[2026-01-11 23:24:51] [✅ SUCCESS] 数据去重完成
+[2026-01-11 23:24:51] [INFO] 5.2 今天是周��跳过完整维护
+[2026-01-11 23:24:51] [INFO] 步骤6: 生成统计信息
+
+============================================================
+数据库统计
+============================================================
+
+📊 总记录数: 6 条
+
+📂 按分类:
+  📋 政策监管                 3 条
+  🏢 公司动态                 2 条
+  💰 融资并购                 1 条
+
+📰 主要来源 (Top 10):
+  Bloomberg              1 条
+  CoinDesk               1 条
+  Financial Times        1 条
+  Futurism               1 条
+  Reuters                1 条
+  The Block              1 条
+
+📅 最近7天:
+  2026-01-10   1 条
+[2026-01-11 23:24:51] [INFO] 数据库大小: 28K
+[2026-01-11 23:24:51] [INFO] 数据库记录总数: 6
+[2026-01-11 23:24:51] [INFO] 步骤7: 运行数据分析
+============================================================
+稳定币新闻数据分析器
+============================================================
+✅ 加载 data/news_system_db.json: 1 条
+✅ 加载 data/news_database.json: 5 条
+
+总计: 6 条新闻
+
+============================================================
+📊 数据统计
+============================================================
+
+总新闻数: 6 条
+
+分类分布:
+  📋 政策监管                 3条  50.0% █████████████████████████
+  🏢 公司动态                 2条  33.3% ████████████████
+  💰 融资并购                 1条  16.7% ████████
+
+主要来源 (Top 10):
+  Futurism               1条  16.7%
+  CoinDesk               1条  16.7%
+  The Block              1条  16.7%
+  Reuters                1条  16.7%
+  Bloomberg              1条  16.7%
+  Financial Times        1条  16.7%
+
+最近日期:
+  2026-01-10   1条
+
+============================================================
+📅 最近 7 天分析
+============================================================
+
+新闻总数: 1 条
+日均新闻: 0.1 条
+
+============================================================
+🏷️  关键实体热度
+============================================================
+  MAS               2次 ●●
+  Circle            2次 ●●
+  Tether            1次 ●
+  PayPal            1次 ●
+  SEC               1次 ●
+  Visa              1次 ●
+
+============================================================
+🔥 趋势洞察
+============================================================
+
+1. [热门分类]
+   📋 政策监管 最活跃（3 条）
+
+2. [主要来源]
+   Futurism 报道最多（1 条）
+
+3. [热点实体]
+   MAS 被提及 2 次
+
+============================================================
+分析完成！
+============================================================
+[2026-01-11 23:24:51] [✅ SUCCESS] 数据分析完成
+[2026-01-11 23:24:51] [INFO] 步骤8: 检查是否需要生成周报
+[2026-01-11 23:24:51] [INFO] 今天是周��跳过周报生成
+[2026-01-11 23:24:51] [INFO] 步骤9: 导出Excel数据
+读取数据: data/stablecoin_intel.db
+❌ 导出失败: 'utf-8' codec can't decode byte 0x8d in position 98: invalid start byte
+[2026-01-11 23:24:52] [✅ SUCCESS] Excel导出完成
+[2026-01-11 23:24:52] [INFO] 步骤10: 清理旧日志
+[2026-01-11 23:24:52] [INFO] 保留日志文件数:        2
+[2026-01-11 23:24:52] [INFO] ==========================================
+[2026-01-11 23:24:52] [INFO] 流水线执行完成
+[2026-01-11 23:24:52] [INFO] ==========================================
+[2026-01-11 23:24:52] [✅ SUCCESS] 日志文件: /Users/changbaizuo_1/projects/stablecoin-intel/logs/pipeline_20260111_232446.log

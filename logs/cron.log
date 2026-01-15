@@ -1,0 +1,513 @@
+=== Sun Jan 11 20:05:12 +08 2026 ===
+============================================================
+RSS 稳定币新闻订阅器
+============================================================
+
+订阅源: 4 个
+  - CoinDesk
+  - CoinTelegraph
+  - The Block
+  - Decrypt
+
+============================================================
+开始获取 RSS 订阅
+============================================================
+正在获取 CoinDesk...
+  ⚠️  RSS 格式警告
+  ✅ 获取到 0 条内容
+正在获取 CoinTelegraph...
+  ✅ 获取到 30 条内容
+正在获取 The Block...
+  ✅ 获取到 19 条内容
+正在获取 Decrypt...
+  ✅ 获取到 54 条内容
+
+✅ 共获取 103 条内容
+
+============================================================
+过滤稳定币相关新闻
+============================================================
+  ✅ [CoinTelegraph] Here’s what happened in crypto today...
+  ✅ [CoinTelegraph] Stablecoin card adoption will be a 'big theme' of ...
+  ✅ [CoinTelegraph] Wall Street’s crypto debate is over as banks go al...
+  ✅ [The Block] Iran’s Revolutionary Guard moved $1 billion throug...
+  ✅ [The Block] Pump.fun overhauls creator fees as token launches ...
+  ✅ [The Block] The Daily: Cathie Wood says US government may soon...
+  ✅ [The Block] Rain valuation nears $2 billion after $250 million...
+  ✅ [Decrypt] ZEC Rebounds 11%! Trump says he won’t pardon Sam B...
+  ✅ [Decrypt] The ZCash situation explained! Interview with ZEC ...
+  ✅ [Decrypt] First 2026 Dip! BTC at 92K! Morgan Stanley file fo...
+  ✅ [Decrypt] Crypto is Green! Up 6-9%! Memes outperform! Pepe u...
+  ✅ [Decrypt] 2026 Crypto Predictions! Tom Lee still buying ETH!...
+  ✅ [Decrypt] OpenAI bailed out? Trump Media stock up 40%! Walle...
+  ✅ [Decrypt] Coinbase & Robinhood Big Announcements! BTC falls ...
+  ✅ [Decrypt] Big Day for Stablecoins! $200B+ price call on Hype...
+  ✅ [Decrypt] 2026 Crypto Predictions, 2025 Crypto Awards, Trump...
+  ✅ [Decrypt] Trump named Crypto Person of the Year! BTC down to...
+  ✅ [Decrypt] Bitcoin is "Digital Labubu”! Crypto Plummets! SEC ...
+
+过滤结果: 18/103 条相关新闻
+
+============================================================
+RSS 新闻列表（共 18 条）
+============================================================
+
+1. Here’s what happened in crypto today
+   来源: CoinTelegraph
+   发布: Sat, 10 Jan 2026 21:36:30 +0000
+   链接: https://cointelegraph.com/news/what-happened-in-crypto-today...
+   关键词: DAI
+
+2. Stablecoin card adoption will be a 'big theme' of 2026: Dragonfly exec
+   来源: CoinTelegraph
+   发布: Sat, 10 Jan 2026 00:46:33 +0000
+   链接: https://cointelegraph.com/news/stablecoin-card-adoption-to-t...
+   关键词: stablecoin
+
+3. Wall Street’s crypto debate is over as banks go all-in on BTC, stablecoins, tokenized cash
+   来源: CoinTelegraph
+   发布: Fri, 09 Jan 2026 21:00:00 +0000
+   链接: https://cointelegraph.com/news/wall-street-banks-crypto-etfs...
+   关键词: stablecoin
+
+4. Iran’s Revolutionary Guard moved $1 billion through UK-registered crypto exchanges, report finds
+   来源: The Block
+   发布: Sat, 10 Jan 2026 16:59:10 -0500
+   链接: https://www.theblock.co/post/385006/irans-revolutionary-guar...
+   关键词: stablecoin, USDT, Tether
+
+5. Pump.fun overhauls creator fees as token launches hit highest daily count since September
+   来源: The Block
+   发布: Fri, 09 Jan 2026 14:05:13 -0500
+   链接: https://www.theblock.co/post/384975/pump-fun-overhauls-creat...
+   关键词: DAI
+
+6. The Daily: Cathie Wood says US government may soon start buying bitcoin, Ripple secures FCA authorization, and more
+   来源: The Block
+   发布: Fri, 09 Jan 2026 13:36:40 -0500
+   链接: https://www.theblock.co/post/384974/the-daily-cathie-wood-sa...
+   关键词: DAI
+
+7. Rain valuation nears $2 billion after $250 million Series C raise for stablecoin payments firm
+   来源: The Block
+   发布: Fri, 09 Jan 2026 08:29:29 -0500
+   链接: https://www.theblock.co/post/384910/rain-valuation-nears-2-b...
+   关键词: stablecoin
+
+8. ZEC Rebounds 11%! Trump says he won’t pardon Sam Bankman-Fried! Florida revisits it’s Strategic Bitcoin Reserve!
+   来源: Decrypt
+   发布: Fri, 09 Jan 2026 17:17:12 +0000
+   链接: https://decrypt.co/videos/interviews/72tPnqPX/zec-rebounds-1...
+   关键词: stablecoin
+
+9. The ZCash situation explained! Interview with ZEC bull Mert! BTC below $90K! ZEC falls 19%!
+   来源: Decrypt
+   发布: Thu, 08 Jan 2026 17:04:56 +0000
+   链接: https://decrypt.co/videos/interviews/wmsgKRFW/the-zcash-situ...
+   关键词: stablecoin
+
+10. First 2026 Dip! BTC at 92K! Morgan Stanley file for BTC, ETH & SOL ETFs! Hyperliquid Airdrop Speculation!
+   来源: Decrypt
+   发布: Wed, 07 Jan 2026 16:14:54 +0000
+   链接: https://decrypt.co/videos/interviews/GVQVX2ND/first-2026-dip...
+   关键词: DAI
+
+... 还有 8 条
+✅ 数据已保存到 data/rss/news_20260111_200513.json
+✅ 已追加到总日志 data/rss_master_log.json
+
+============================================================
+完成！
+============================================================
+📊 本次获取: 18 条相关新闻
+📁 数据保存: data/rss/
+完成
+
+=== Sun Jan 11 20:39:38 +08 2026 ===
+============================================================
+RSS 稳定币新闻订阅器
+============================================================
+
+订阅源: 4 个
+  - CoinDesk
+  - CoinTelegraph
+  - The Block
+  - Decrypt
+
+============================================================
+开始获取 RSS 订阅
+============================================================
+正在获取 CoinDesk...
+  ⚠️  RSS 格式警告
+  ✅ 获取到 0 条内容
+正在获取 CoinTelegraph...
+  ✅ 获取到 30 条内容
+正在获取 The Block...
+  ✅ 获取到 19 条内容
+正在获取 Decrypt...
+  ✅ 获取到 54 条内容
+
+✅ 共获取 103 条内容
+
+============================================================
+过滤稳定币相关新闻
+============================================================
+  ✅ [CoinTelegraph] Here’s what happened in crypto today...
+  ✅ [CoinTelegraph] Stablecoin card adoption will be a 'big theme' of ...
+  ✅ [CoinTelegraph] Wall Street’s crypto debate is over as banks go al...
+  ✅ [The Block] Iran’s Revolutionary Guard moved $1 billion throug...
+  ✅ [The Block] Pump.fun overhauls creator fees as token launches ...
+  ✅ [The Block] The Daily: Cathie Wood says US government may soon...
+  ✅ [The Block] Rain valuation nears $2 billion after $250 million...
+  ✅ [Decrypt] ZEC Rebounds 11%! Trump says he won’t pardon Sam B...
+  ✅ [Decrypt] The ZCash situation explained! Interview with ZEC ...
+  ✅ [Decrypt] First 2026 Dip! BTC at 92K! Morgan Stanley file fo...
+  ✅ [Decrypt] Crypto is Green! Up 6-9%! Memes outperform! Pepe u...
+  ✅ [Decrypt] 2026 Crypto Predictions! Tom Lee still buying ETH!...
+  ✅ [Decrypt] OpenAI bailed out? Trump Media stock up 40%! Walle...
+  ✅ [Decrypt] Coinbase & Robinhood Big Announcements! BTC falls ...
+  ✅ [Decrypt] Big Day for Stablecoins! $200B+ price call on Hype...
+  ✅ [Decrypt] 2026 Crypto Predictions, 2025 Crypto Awards, Trump...
+  ✅ [Decrypt] Trump named Crypto Person of the Year! BTC down to...
+  ✅ [Decrypt] Bitcoin is "Digital Labubu”! Crypto Plummets! SEC ...
+
+过滤结果: 18/103 条相关新闻
+
+============================================================
+RSS 新闻列表（共 18 条）
+============================================================
+
+1. Here’s what happened in crypto today
+   来源: CoinTelegraph
+   发布: Sun, 11 Jan 2026 12:19:04 +0000
+   链接: https://cointelegraph.com/news/what-happened-in-crypto-today...
+   关键词: DAI
+
+2. Stablecoin card adoption will be a 'big theme' of 2026: Dragonfly exec
+   来源: CoinTelegraph
+   发布: Sat, 10 Jan 2026 00:46:33 +0000
+   链接: https://cointelegraph.com/news/stablecoin-card-adoption-to-t...
+   关键词: stablecoin
+
+3. Wall Street’s crypto debate is over as banks go all-in on BTC, stablecoins, tokenized cash
+   来源: CoinTelegraph
+   发布: Fri, 09 Jan 2026 21:00:00 +0000
+   链接: https://cointelegraph.com/news/wall-street-banks-crypto-etfs...
+   关键词: stablecoin
+
+4. Iran’s Revolutionary Guard moved $1 billion through UK-registered crypto exchanges, report finds
+   来源: The Block
+   发布: Sat, 10 Jan 2026 16:59:10 -0500
+   链接: https://www.theblock.co/post/385006/irans-revolutionary-guar...
+   关键词: stablecoin, USDT, Tether
+
+5. Pump.fun overhauls creator fees as token launches hit highest daily count since September
+   来源: The Block
+   发布: Fri, 09 Jan 2026 14:05:13 -0500
+   链接: https://www.theblock.co/post/384975/pump-fun-overhauls-creat...
+   关键词: DAI
+
+6. The Daily: Cathie Wood says US government may soon start buying bitcoin, Ripple secures FCA authorization, and more
+   来源: The Block
+   发布: Fri, 09 Jan 2026 13:36:40 -0500
+   链接: https://www.theblock.co/post/384974/the-daily-cathie-wood-sa...
+   关键词: DAI
+
+7. Rain valuation nears $2 billion after $250 million Series C raise for stablecoin payments firm
+   来源: The Block
+   发布: Fri, 09 Jan 2026 08:29:29 -0500
+   链接: https://www.theblock.co/post/384910/rain-valuation-nears-2-b...
+   关键词: stablecoin
+
+8. ZEC Rebounds 11%! Trump says he won’t pardon Sam Bankman-Fried! Florida revisits it’s Strategic Bitcoin Reserve!
+   来源: Decrypt
+   发布: Fri, 09 Jan 2026 17:17:12 +0000
+   链接: https://decrypt.co/videos/interviews/72tPnqPX/zec-rebounds-1...
+   关键词: stablecoin
+
+9. The ZCash situation explained! Interview with ZEC bull Mert! BTC below $90K! ZEC falls 19%!
+   来源: Decrypt
+   发布: Thu, 08 Jan 2026 17:04:56 +0000
+   链接: https://decrypt.co/videos/interviews/wmsgKRFW/the-zcash-situ...
+   关键词: stablecoin
+
+10. First 2026 Dip! BTC at 92K! Morgan Stanley file for BTC, ETH & SOL ETFs! Hyperliquid Airdrop Speculation!
+   来源: Decrypt
+   发布: Wed, 07 Jan 2026 16:14:54 +0000
+   链接: https://decrypt.co/videos/interviews/GVQVX2ND/first-2026-dip...
+   关键词: DAI
+
+... 还有 8 条
+✅ 数据已保存到 data/rss/news_20260111_203939.json
+✅ 已追加到总日志 data/rss_master_log.json
+
+============================================================
+完成！
+============================================================
+📊 本次获取: 18 条相关新闻
+📁 数据保存: data/rss/
+完成
+
+=== Mon Jan 12 09:00:00 +08 2026 ===
+============================================================
+RSS 稳定币新闻订阅器
+============================================================
+
+订阅源: 4 个
+  - CoinDesk
+  - CoinTelegraph
+  - The Block
+  - Decrypt
+
+============================================================
+开始获取 RSS 订阅
+============================================================
+正在获取 CoinDesk...
+  ⚠️  RSS 格式警告
+  ✅ 获取到 0 条内容
+正在获取 CoinTelegraph...
+  ✅ 获取到 30 条内容
+正在获取 The Block...
+  ✅ 获取到 19 条内容
+正在获取 Decrypt...
+  ✅ 获取到 54 条内容
+
+✅ 共获取 103 条内容
+
+============================================================
+过滤稳定币相关新闻
+============================================================
+  ✅ [CoinTelegraph] Here’s what happened in crypto today...
+  ✅ [CoinTelegraph] Stablecoin card adoption will be a 'big theme' of ...
+  ✅ [CoinTelegraph] Wall Street’s crypto debate is over as banks go al...
+  ✅ [The Block] Vitalik Buterin says decentralized stablecoins sti...
+  ✅ [The Block] Iran’s Revolutionary Guard moved $1 billion throug...
+  ✅ [The Block] Pump.fun overhauls creator fees as token launches ...
+  ✅ [The Block] The Daily: Cathie Wood says US government may soon...
+  ✅ [The Block] Rain valuation nears $2 billion after $250 million...
+  ✅ [Decrypt] ZEC Rebounds 11%! Trump says he won’t pardon Sam B...
+  ✅ [Decrypt] The ZCash situation explained! Interview with ZEC ...
+  ✅ [Decrypt] First 2026 Dip! BTC at 92K! Morgan Stanley file fo...
+  ✅ [Decrypt] Crypto is Green! Up 6-9%! Memes outperform! Pepe u...
+  ✅ [Decrypt] 2026 Crypto Predictions! Tom Lee still buying ETH!...
+  ✅ [Decrypt] OpenAI bailed out? Trump Media stock up 40%! Walle...
+  ✅ [Decrypt] Coinbase & Robinhood Big Announcements! BTC falls ...
+  ✅ [Decrypt] Big Day for Stablecoins! $200B+ price call on Hype...
+  ✅ [Decrypt] 2026 Crypto Predictions, 2025 Crypto Awards, Trump...
+  ✅ [Decrypt] Trump named Crypto Person of the Year! BTC down to...
+  ✅ [Decrypt] Bitcoin is "Digital Labubu”! Crypto Plummets! SEC ...
+
+过滤结果: 19/103 条相关新闻
+
+============================================================
+RSS 新闻列表（共 19 条）
+============================================================
+
+1. Here’s what happened in crypto today
+   来源: CoinTelegraph
+   发布: Sun, 11 Jan 2026 21:14:22 +0000
+   链接: https://cointelegraph.com/news/what-happened-in-crypto-today...
+   关键词: DAI
+
+2. Stablecoin card adoption will be a 'big theme' of 2026: Dragonfly exec
+   来源: CoinTelegraph
+   发布: Sat, 10 Jan 2026 00:46:33 +0000
+   链接: https://cointelegraph.com/news/stablecoin-card-adoption-to-t...
+   关键词: stablecoin
+
+3. Wall Street’s crypto debate is over as banks go all-in on BTC, stablecoins, tokenized cash
+   来源: CoinTelegraph
+   发布: Fri, 09 Jan 2026 21:00:00 +0000
+   链接: https://cointelegraph.com/news/wall-street-banks-crypto-etfs...
+   关键词: stablecoin
+
+4. Vitalik Buterin says decentralized stablecoins still face three unsolved problems
+   来源: The Block
+   发布: Sun, 11 Jan 2026 11:56:04 -0500
+   链接: https://www.theblock.co/post/385013/vitalik-buterin-says-dec...
+   关键词: stablecoin
+
+5. Iran’s Revolutionary Guard moved $1 billion through UK-registered crypto exchanges, report finds
+   来源: The Block
+   发布: Sat, 10 Jan 2026 16:59:10 -0500
+   链接: https://www.theblock.co/post/385006/irans-revolutionary-guar...
+   关键词: stablecoin, USDT, Tether
+
+6. Pump.fun overhauls creator fees as token launches hit highest daily count since September
+   来源: The Block
+   发布: Fri, 09 Jan 2026 14:05:13 -0500
+   链接: https://www.theblock.co/post/384975/pump-fun-overhauls-creat...
+   关键词: DAI
+
+7. The Daily: Cathie Wood says US government may soon start buying bitcoin, Ripple secures FCA authorization, and more
+   来源: The Block
+   发布: Fri, 09 Jan 2026 13:36:40 -0500
+   链接: https://www.theblock.co/post/384974/the-daily-cathie-wood-sa...
+   关键词: DAI
+
+8. Rain valuation nears $2 billion after $250 million Series C raise for stablecoin payments firm
+   来源: The Block
+   发布: Fri, 09 Jan 2026 08:29:29 -0500
+   链接: https://www.theblock.co/post/384910/rain-valuation-nears-2-b...
+   关键词: stablecoin
+
+9. ZEC Rebounds 11%! Trump says he won’t pardon Sam Bankman-Fried! Florida revisits it’s Strategic Bitcoin Reserve!
+   来源: Decrypt
+   发布: Fri, 09 Jan 2026 17:17:12 +0000
+   链接: https://decrypt.co/videos/interviews/72tPnqPX/zec-rebounds-1...
+   关键词: stablecoin
+
+10. The ZCash situation explained! Interview with ZEC bull Mert! BTC below $90K! ZEC falls 19%!
+   来源: Decrypt
+   发布: Thu, 08 Jan 2026 17:04:56 +0000
+   链接: https://decrypt.co/videos/interviews/wmsgKRFW/the-zcash-situ...
+   关键词: stablecoin
+
+... 还有 9 条
+✅ 数据已保存到 data/rss/news_20260112_090002.json
+✅ 已追加到总日志 data/rss_master_log.json
+
+============================================================
+完成！
+============================================================
+📊 本次获取: 19 条相关新闻
+📁 数据保存: data/rss/
+完成
+
+=== Tue Jan 13 09:00:01 +08 2026 ===
+============================================================
+RSS 稳定币新闻订阅器
+============================================================
+
+订阅源: 4 个
+  - CoinDesk
+  - CoinTelegraph
+  - The Block
+  - Decrypt
+
+============================================================
+开始获取 RSS 订阅
+============================================================
+正在获取 CoinDesk...
+  ⚠️  RSS 格式警告
+  ✅ 获取到 0 条内容
+正在获取 CoinTelegraph...
+  ✅ 获取到 30 条内容
+正在获取 The Block...
+  ✅ 获取到 20 条内容
+正在获取 Decrypt...
+  ✅ 获取到 57 条内容
+
+✅ 共获取 107 条内容
+
+============================================================
+过滤稳定币相关新闻
+============================================================
+  ✅ [CoinTelegraph] Here’s what happened in crypto today...
+  ✅ [CoinTelegraph] Bakkt stock surges 20% after move on stablecoin pa...
+  ✅ [CoinTelegraph] Stablecoin platform VelaFi secures $20M to scale c...
+  ✅ [CoinTelegraph] Trump-linked World Liberty brings $3.4B stablecoin...
+  ✅ [CoinTelegraph] Seventy economists urge EU to ‘let the public inte...
+  ✅ [CoinTelegraph] OKX founder defends asset freezes after user admit...
+  ✅ [CoinTelegraph] Stablecoins, sanctions and surveillance: Why 2025 ...
+  ✅ [CoinTelegraph] Tether’s role in Venezuela, Iran highlights the du...
+  ✅ [The Block] Bakkt stock rallies 20% amid plans to acquire a st...
+  ✅ [The Block] The Daily: Bitcoin and privacy coins gain as Trump...
+  ✅ [The Block] Trump-backed World Liberty moves into crypto lendi...
+  ✅ [The Block] Bernstein says window for crypto market structure ...
+  ✅ [The Block] Tether freezes $182 million in USDT tied to five T...
+  ✅ [Decrypt] Markup of Senate Crypto Market Structure Bill Push...
+  ✅ [Decrypt] Crypto Needs 'Better Decentralized Stablecoins', S...
+  ✅ [Decrypt] Bakkt Stock Jumps 18% Following Stablecoin Firm Ac...
+  ✅ [Decrypt] Trump-Backed World Liberty Financial Launches Cryp...
+  ✅ [Decrypt] Two UK-Registered Companies Moved $1B in Stablecoi...
+  ✅ [Decrypt] Polygon Foundation CEO Touts 'Benefits' of Holding...
+  ✅ [Decrypt] A16z raise $15B! Jerome Powell vs Trump! Crypto re...
+  ✅ [Decrypt] ZEC Rebounds 11%! Trump says he won’t pardon Sam B...
+  ✅ [Decrypt] The ZCash situation explained! Interview with ZEC ...
+  ✅ [Decrypt] First 2026 Dip! BTC at 92K! Morgan Stanley file fo...
+  ✅ [Decrypt] Crypto is Green! Up 6-9%! Memes outperform! Pepe u...
+  ✅ [Decrypt] 2026 Crypto Predictions! Tom Lee still buying ETH!...
+  ✅ [Decrypt] OpenAI bailed out? Trump Media stock up 40%! Walle...
+  ✅ [Decrypt] Coinbase & Robinhood Big Announcements! BTC falls ...
+  ✅ [Decrypt] Big Day for Stablecoins! $200B+ price call on Hype...
+  ✅ [Decrypt] 2026 Crypto Predictions, 2025 Crypto Awards, Trump...
+  ✅ [Decrypt] Trump named Crypto Person of the Year! BTC down to...
+
+过滤结果: 30/107 条相关新闻
+
+============================================================
+RSS 新闻列表（共 30 条）
+============================================================
+
+1. Here’s what happened in crypto today
+   来源: CoinTelegraph
+   发布: Mon, 12 Jan 2026 22:30:07 +0000
+   链接: https://cointelegraph.com/news/what-happened-in-crypto-today...
+   关键词: DAI
+
+2. Bakkt stock surges 20% after move on stablecoin payments strategy
+   来源: CoinTelegraph
+   发布: Mon, 12 Jan 2026 19:59:10 +0000
+   链接: https://cointelegraph.com/news/bakkt-acquire-stablecoin-paym...
+   关键词: stablecoin
+
+3. Stablecoin platform VelaFi secures $20M to scale cross-border settlement rails
+   来源: CoinTelegraph
+   发布: Mon, 12 Jan 2026 18:26:00 +0000
+   链接: https://cointelegraph.com/news/stablecoin-payments-velafi-20...
+   关键词: stablecoin
+
+4. Trump-linked World Liberty brings $3.4B stablecoin into crypto lending markets
+   来源: CoinTelegraph
+   发布: Mon, 12 Jan 2026 15:55:50 +0000
+   链接: https://cointelegraph.com/news/world-liberty-financial-crypt...
+   关键词: stablecoin
+
+5. Seventy economists urge EU to ‘let the public interest prevail’ on digital euro
+   来源: CoinTelegraph
+   发布: Mon, 12 Jan 2026 12:29:10 +0000
+   链接: https://cointelegraph.com/news/70-economists-eu-lawmakers-di...
+   关键词: stablecoin
+
+6. OKX founder defends asset freezes after user admits buying KYC accounts
+   来源: CoinTelegraph
+   发布: Mon, 12 Jan 2026 10:37:42 +0000
+   链接: https://cointelegraph.com/news/okx-founder-account-freeze-po...
+   关键词: stablecoin
+
+7. Stablecoins, sanctions and surveillance: Why 2025 reshaped crypto’s regulatory reality
+   来源: CoinTelegraph
+   发布: Mon, 12 Jan 2026 09:14:30 +0000
+   链接: https://cointelegraph.com/news/stablecoins-sanctions-and-sur...
+   关键词: stablecoin
+
+8. Tether’s role in Venezuela, Iran highlights the duality of stablecoins
+   来源: CoinTelegraph
+   发布: Mon, 12 Jan 2026 06:20:54 +0000
+   链接: https://cointelegraph.com/news/tether-role-venezuela-iran-hi...
+   关键词: stablecoin, Tether
+
+9. Bakkt stock rallies 20% amid plans to acquire a stablecoin infra firm founded by Bakkt’s co-CEO
+   来源: The Block
+   发布: Mon, 12 Jan 2026 16:38:34 -0500
+   链接: https://www.theblock.co/post/385191/bakkt-stock-rallies-20-a...
+   关键词: stablecoin
+
+10. The Daily: Bitcoin and privacy coins gain as Trump-Powell conflict escalates, Tether freezes $182M in USDT, Strategy makes biggest buy in six months, and more
+   来源: The Block
+   发布: Mon, 12 Jan 2026 13:31:19 -0500
+   链接: https://www.theblock.co/post/385148/the-daily-bitcoin-privac...
+   关键词: USDT, Tether, DAI
+
+... 还有 20 条
+✅ 数据已保存到 data/rss/news_20260113_090002.json
+✅ 已追加到总日志 data/rss_master_log.json
+
+============================================================
+完成！
+============================================================
+📊 本次获取: 30 条相关新闻
+📁 数据保存: data/rss/
+完成
+

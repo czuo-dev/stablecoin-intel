@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Circle Receives Singapore Regulatory Approval for MiCA-Compliant Stablecoin",
+    "summary": "Circle, the issuer of USDC stablecoin, has received regulatory approval from Singapore's central bank to operate its stablecoin under the new MiCA framework. This marks a significant milestone for the company's expansion in Asia-Pacific region.",
+    "url": "https://coindesk.com/news1",
+    "source": "CoinDesk",
+    "date": "2025-01-10"
+  },
+  {
+    "title": "Tether Announces $150M Investment in Emerging Markets",
+    "summary": "Tether, the world's largest stablecoin issuer by market cap, announced a $150 million investment fund focused on blockchain infrastructure development in emerging markets across Africa and Southeast Asia. The fund will support local startups and payment solutions.",
+    "url": "https://bloomberg.com/news2",
+    "source": "Bloomberg",
+    "date": "2025-01-09"
+  },
+  {
+    "title": "PayPal Expands PYUSD Stablecoin to European Markets",
+    "summary": "PayPal's PYUSD stablecoin is now available in 15 European countries, enabling cross-border payments with significantly lower fees compared to traditional banking systems. The company partnered with local banks to ensure regulatory compliance.",
+    "url": "https://reuters.com/news3",
+    "source": "Reuters",
+    "date": "2025-01-08"
+  },
+  {
+    "title": "Hong Kong Issues First Stablecoin License to Local Bank",
+    "summary": "Hong Kong Monetary Authority granted the first stablecoin license to a major local bank under its new regulatory framework. This represents a major milestone for Asia's crypto regulation and is expected to attract more international players to the region.",
+    "url": "https://scmp.com/news4",
+    "source": "SCMP",
+    "date": "2025-01-07"
+  },
+  {
+    "title": "Visa Partners with Circle for Direct USDC Settlement",
+    "summary": "Visa announced a strategic partnership with Circle to enable direct USDC settlement for merchants globally. The integration will reduce payment processing costs by up to 40% and provide real-time settlement capabilities for businesses.",
+    "url": "https://ft.com/news5",
+    "source": "Financial Times",
+    "date": "2025-01-06"
+  }
+]
