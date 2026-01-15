@@ -122,8 +122,6 @@ class BatchSummarizer:
                     report += f"- [{article['title']}]({article['url']})\n"
         
         return report
-# 创建增强版的generate_daily_report方法
-cat > /tmp/enhanced_report.txt << 'EOF'
 
     def generate_daily_report_with_sentiment(self, articles_by_category: Dict[str, List[Dict]]) -> str:
         """生成包含情感分析的每日报告"""
@@ -138,7 +136,7 @@ cat > /tmp/enhanced_report.txt << 'EOF'
         
         if all_articles:
             overall_sentiment = self.sentiment_analyzer.analyze_batch(all_articles)
-            report += f"## 📊 市场情绪\n\n"
+            report += "## 📊 市场情绪\n\n"
             report += f"**整体氛围**: {overall_sentiment['overall_sentiment'].upper()}\n\n"
             report += f"- 🟢 正面: {overall_sentiment['percentage']['positive']}%\n"
             report += f"- 🔴 负面: {overall_sentiment['percentage']['negative']}%\n"
@@ -184,6 +182,3 @@ cat > /tmp/enhanced_report.txt << 'EOF'
                     report += f"- {sentiment['emoji']} [{article['title']}]({article['url']})\n"
         
         return report
-EOF
-
-echo "✅ 新方法已准备好（手动添加到 batch_summarizer.py）"
