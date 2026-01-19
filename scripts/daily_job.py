@@ -1,290 +1,155 @@
 # scripts/daily_job.py
 
 """
-每日自动任务：收集新闻 → 分类 → 生成报告
+每日自动任务：收集新闻 + 整合数据
 """
 
+import json
 import os
 import sys
-import json
-import logging
 from datetime import datetime
 
-# 添加项目根目录到路径
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# Add project root to path
+project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, project_root)
 
-from config import OPENAI_API_KEY
-from src.processors.batch_summarizer import BatchSummarizer
-from src.processors.smart_classifier import SmartClassifier
-from src.processors.sentiment_analyzer import SentimentAnalyzer
-from src.processors.trend_analyzer import TrendAnalyzer
+from src.collectors.news_collector import NewsCollector
+from src.collectors.twitter_filter import TwitterFilter
+from src.collectors.data_normalizer import DataNormalizer
 
-
-class DailyJob:
-    """每日自动任务"""
+def daily_news_collection():
+    """每日新闻收集任务"""
     
-    def __init__(self):
-        # 设置日志
-        self.setup_logging()
-        
-        # 初始化处理器
-        self.logger.info("初始化处理器...")
-        self.summarizer = BatchSummarizer(OPENAI_API_KEY)
-        self.classifier = SmartClassifier(OPENAI_API_KEY)
-        self.sentiment_analyzer = SentimentAnalyzer()
-        self.trend_analyzer = TrendAnalyzer()
-        
-        # 日期
-        self.today = datetime.now().strftime('%Y-%m-%d')
-        
-        self.logger.info(f"每日任务初始化完成 - {self.today}")
+    print("=" * 70)
+    print(f"📅 每日任务开始 - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print("=" * 70 + "\n")
     
-    def setup_logging(self):
-        """配置日志"""
-        os.makedirs('logs', exist_ok=True)
-        
-        log_file = f'logs/daily_{datetime.now().strftime("%Y-%m-%d")}.log'
-        
-        logging.basicConfig(
-            level=logging.INFO,
-            format='%(asctime)s [%(levelname)s] %(message)s',
-            handlers=[
-                logging.FileHandler(log_file, encoding='utf-8'),
-                logging.StreamHandler()
-            ]
-        )
-        
-        self.logger = logging.getLogger(__name__)
+    date_str = datetime.now().strftime('%Y-%m-%d')
     
-    def load_daily_data(self) -> dict:
-        """
-        加载今天的数据
-        
-        Returns:
-            {"policy": [...], "company": [...], "funding": [...]}
-        """
-        
-        data_file = f'data/processed/categorized_news_{self.today}.json'
-        
-        if not os.path.exists(data_file):
-            self.logger.warning(f"今日数据文件不存在: {data_file}")
-            self.logger.info("尝试加载最新数据...")
-            
-            # 查找最新的数据文件
-            processed_dir = 'data/processed'
-            if os.path.exists(processed_dir):
-                files = [f for f in os.listdir(processed_dir) if f.startswith('categorized_news_')]
-                if files:
-                    latest_file = sorted(files)[-1]
-                    data_file = os.path.join(processed_dir, latest_file)
-                    self.logger.info(f"使用最新数据: {latest_file}")
-        
-        try:
-            with open(data_file, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-            
-            total = sum(len(articles) for articles in data.values())
-            self.logger.info(f"成功加载数据: {total} 篇文章")
-            
-            return data
-            
-        except Exception as e:
-            self.logger.error(f"加载数据失败: {e}")
-            return {"policy": [], "company": [], "funding": []}
+    # ===== Step 1: 收集NewsAPI数据 =====
+    print("🔍 Step 1: 收集新闻数据...")
+    collector = NewsCollector()
+    articles = collector.collect_news(days_back=1)  # 只收集最近1天
     
-    def classify_articles(self, articles_by_category: dict) -> list:
-        """
-        AI分类所有文章
-        
-        Returns:
-            分类结果列表
-        """
-        
-        all_articles = []
-        for category, articles in articles_by_category.items():
-            all_articles.extend(articles)
-        
-        if not all_articles:
-            self.logger.warning("没有文章需要分类")
-            return []
-        
-        self.logger.info(f"开始AI分类 {len(all_articles)} 篇文章...")
-        
-        try:
-            classified = self.classifier.batch_classify(all_articles, max_batch_size=10)
-            self.logger.info(f"分类完成: {len(classified)} 篇")
-            return classified
-            
-        except Exception as e:
-            self.logger.error(f"AI分类失败: {e}")
-            return []
+    if not articles:
+        print("⚠️  没有收集到新闻数据")
+        return
     
-    def analyze_sentiment(self, articles: list) -> dict:
-        """情感分析"""
-        
-        self.logger.info("开始情感分析...")
-        
-        try:
-            # 提取原始文章（从分类结果中）
-            raw_articles = [a.get("article", a) for a in articles]
-            sentiment = self.sentiment_analyzer.analyze_batch(raw_articles)
-            
-            self.logger.info(f"情感分析完成: {sentiment['overall_sentiment']}")
-            return sentiment
-            
-        except Exception as e:
-            self.logger.error(f"情感分析失败: {e}")
-            return {}
+    # 保存原始数据
+    raw_file = f'data/raw/newsapi_raw_{date_str}.json'
+    os.makedirs('data/raw', exist_ok=True)
+    with open(raw_file, 'w', encoding='utf-8') as f:
+        json.dump(articles, f, indent=2, ensure_ascii=False)
+    print(f"✅ 原始数据已保存: {raw_file}\n")
     
-    def generate_daily_report(self, articles_by_category: dict, classified_articles: list) -> str:
-        """生成每日报告"""
-        
-        self.logger.info("生成每日报告...")
-        
-        try:
-            report = self.summarizer.generate_daily_report(articles_by_category)
-            
-            # 保存报告
-            os.makedirs('reports/daily', exist_ok=True)
-            report_file = f'reports/daily/daily_brief_{self.today}.md'
-            
-            with open(report_file, 'w', encoding='utf-8') as f:
-                f.write(report)
-            
-            self.logger.info(f"报告已保存: {report_file}")
-            return report_file
-            
-        except Exception as e:
-            self.logger.error(f"生成报告失败: {e}")
-            return None
+    # ===== Step 2: 分类新闻 =====
+    print("🏷️  Step 2: 分类新闻...")
     
-    def generate_trend_analysis(self, classified_articles: list) -> str:
-        """生成趋势分析"""
-        
-        self.logger.info("生成趋势分析...")
-        
-        try:
-            report = self.trend_analyzer.generate_trend_report(classified_articles)
-            
-            # 保存报告
-            os.makedirs('reports/trends', exist_ok=True)
-            trend_file = f'reports/trends/trend_{self.today}.md'
-            
-            with open(trend_file, 'w', encoding='utf-8') as f:
-                f.write(report)
-            
-            self.logger.info(f"趋势分析已保存: {trend_file}")
-            return trend_file
-            
-        except Exception as e:
-            self.logger.error(f"趋势分析失败: {e}")
-            return None
+    categorized_news = {
+        'policy': [],
+        'company': [],
+        'funding': [],
+        'market': [],
+        'general': []
+    }
     
-    def save_classified_data(self, classified_articles: list):
-        """保存分类后的数据（供后续分析）"""
+    # 简单分类（基于标题和描述）
+    for article in articles:
+        text = (article.get('title', '') + ' ' + article.get('description', '')).lower()
         
-        os.makedirs('data/classified', exist_ok=True)
-        output_file = f'data/classified/classified_{self.today}.json'
+        categories = []
+        if any(kw in text for kw in ['regulation', 'ban', 'license', 'law', 'sec', 'compliance']):
+            categories.append('policy')
+        if any(kw in text for kw in ['partnership', 'launch', 'acquisition', 'expands', 'announces']):
+            categories.append('company')
+        if any(kw in text for kw in ['funding', 'raises', 'investment', 'million', 'billion']):
+            categories.append('funding')
+        if any(kw in text for kw in ['market', 'price', 'volume', 'trading', 'cap']):
+            categories.append('market')
         
-        try:
-            # 简化数据结构
-            simplified = []
-            for article in classified_articles:
-                simplified.append({
-                    "title": article.get("article", {}).get("title", ""),
-                    "category": article.get("primary_category", "unknown"),
-                    "tags": article.get("tags", []),
-                    "importance": article.get("importance", 5),
-                    "confidence": article.get("confidence", 0.5)
-                })
-            
-            with open(output_file, 'w', encoding='utf-8') as f:
-                json.dump(simplified, f, indent=2, ensure_ascii=False)
-            
-            self.logger.info(f"分类数据已保存: {output_file}")
-            
-        except Exception as e:
-            self.logger.error(f"保存分类数据失败: {e}")
+        if not categories:
+            categories = ['general']
+        
+        article['categories'] = categories
+        
+        # 添加到主要类别
+        main_category = categories[0]
+        categorized_news[main_category].append(article)
     
-    def run(self):
-        """运行完整的每日任务"""
-        
-        self.logger.info("="*60)
-        self.logger.info("开始每日任务")
-        self.logger.info("="*60)
-        
-        start_time = datetime.now()
-        
-        try:
-            # 1. 加载数据
-            self.logger.info("\n步骤1: 加载今日数据")
-            articles_by_category = self.load_daily_data()
-            
-            total_articles = sum(len(articles) for articles in articles_by_category.values())
-            
-            if total_articles == 0:
-                self.logger.warning("今日无新闻数据，任务结束")
-                return
-            
-            # 2. AI分类
-            self.logger.info("\n步骤2: AI智能分类")
-            classified_articles = self.classify_articles(articles_by_category)
-            
-            # 3. 情感分析
-            self.logger.info("\n步骤3: 情感分析")
-            sentiment = self.analyze_sentiment(classified_articles)
-            
-            # 4. 生成日报
-            self.logger.info("\n步骤4: 生成每日报告")
-            report_file = self.generate_daily_report(articles_by_category, classified_articles)
-            
-            # 5. 生成趋势分析
-            self.logger.info("\n步骤5: 生成趋势分析")
-            trend_file = self.generate_trend_analysis(classified_articles)
-            
-            # 6. 保存分类数据
-            self.logger.info("\n步骤6: 保存分类数据")
-            self.save_classified_data(classified_articles)
-            
-            # 统计信息
-            end_time = datetime.now()
-            duration = (end_time - start_time).total_seconds()
-            
-            self.logger.info("\n" + "="*60)
-            self.logger.info("每日任务完成")
-            self.logger.info("="*60)
-            self.logger.info(f"处理文章数: {total_articles}")
-            self.logger.info(f"耗时: {duration:.1f}秒")
-            self.logger.info(f"日报: {report_file}")
-            self.logger.info(f"趋势: {trend_file}")
-            
-            if sentiment:
-                self.logger.info(f"市场情绪: {sentiment.get('overall_sentiment', 'N/A')}")
-            
-            # 成本估算
-            api_calls = (total_articles + 9) // 10  # 批量分类
-            estimated_cost = api_calls * 0.0003
-            self.logger.info(f"预计成本: ${estimated_cost:.4f}")
-            
-            return True
-            
-        except Exception as e:
-            self.logger.error(f"每日任务执行失败: {e}", exc_info=True)
-            return False
-
-
-def main():
-    """主函数"""
-    job = DailyJob()
-    success = job.run()
+    # 保存分类数据
+    categorized_file = f'data/processed/categorized_news_{date_str}.json'
+    os.makedirs('data/processed', exist_ok=True)
+    with open(categorized_file, 'w', encoding='utf-8') as f:
+        json.dump(categorized_news, f, indent=2, ensure_ascii=False)
     
-    if success:
-        print("\n✅ 每日任务执行成功！")
-        return 0
+    print(f"✅ 分类数据已保存: {categorized_file}")
+    print(f"   分布: policy={len(categorized_news['policy'])}, "
+          f"company={len(categorized_news['company'])}, "
+          f"funding={len(categorized_news['funding'])}, "
+          f"market={len(categorized_news['market'])}\n")
+    
+    # ===== Step 3: 数据整合（如果有Twitter数据）=====
+    print("🔄 Step 3: 整合数据...")
+    
+    # 加载Twitter数据（如果存在）
+    twitter_file = f'data/raw/twitter_data_{date_str}.json'
+    if os.path.exists(twitter_file):
+        with open(twitter_file, 'r') as f:
+            raw_tweets = json.load(f)
+        print(f"✅ 加载Twitter数据: {len(raw_tweets)} 条")
+        
+        # 筛选Twitter数据
+        filter = TwitterFilter()
+        filtered_tweets = filter.filter_tweets(raw_tweets, min_score=60)
+        enriched_tweets = [filter.enrich_tweet_data(t) for t in filtered_tweets]
     else:
-        print("\n❌ 每日任务执行失败，请查看日志")
-        return 1
+        print("⚠️  未找到Twitter数据，跳过")
+        enriched_tweets = []
+    
+    # 标准化数据
+    normalizer = DataNormalizer()
+    normalized_tweets = [normalizer.normalize_tweet(t) for t in enriched_tweets]
+    
+    # 标准化新闻（从categorized_news中提取）
+    all_news = []
+    for articles_list in categorized_news.values():
+        all_news.extend(articles_list)
+    normalized_news = [normalizer.normalize_news(n) for n in all_news]
+    
+    # 合并去重
+    all_items = normalized_tweets + normalized_news
+    merged_items = normalizer.merge_and_deduplicate(all_items)
+    
+    # 保存整合数据
+    integrated_data = {
+        'date': date_str,
+        'total_items': len(merged_items),
+        'by_source': {
+            'twitter': len([i for i in merged_items if i['source_type'] == 'twitter']),
+            'news': len([i for i in merged_items if i['source_type'] == 'news'])
+        },
+        'items': merged_items
+    }
+    
+    integrated_file = f'data/processed/integrated_data_{date_str}.json'
+    with open(integrated_file, 'w', encoding='utf-8') as f:
+        json.dump(integrated_data, f, indent=2, ensure_ascii=False)
+    
+    print(f"✅ 整合数据已保存: {integrated_file}")
+    print(f"   总计: {len(merged_items)} 条\n")
+    
+    # ===== 完成 =====
+    print("=" * 70)
+    print(f"✅ 每日任务完成 - {datetime.now().strftime('%H:%M:%S')}")
+    print("=" * 70)
+    print(f"\n📊 今日数据汇总:")
+    print(f"   新闻: {len(articles)} 篇")
+    print(f"   Twitter: {len(enriched_tweets)} 条")
+    print(f"   整合后: {len(merged_items)} 条")
+    print(f"\n💾 输出文件:")
+    print(f"   - {raw_file}")
+    print(f"   - {categorized_file}")
+    print(f"   - {integrated_file}")
 
-
-if __name__ == "__main__":
-    exit(main())
+if __name__ == '__main__':
+    daily_news_collection()

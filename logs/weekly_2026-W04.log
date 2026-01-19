@@ -1,0 +1,27 @@
+2026-01-19 10:00:39,590 [INFO] 初始化周报生成器...
+2026-01-19 10:00:39,622 [INFO] 周报任务初始化完成 - 第4周
+2026-01-19 10:00:39,622 [INFO] ============================================================
+2026-01-19 10:00:39,622 [INFO] 开始周报生成任务 - 第4周
+2026-01-19 10:00:39,622 [INFO] ============================================================
+2026-01-19 10:00:39,622 [INFO] 
+步骤1: 聚合本周数据
+2026-01-19 10:00:39,623 [INFO] 
+步骤2: 生成双语周报（中文+ES）
+2026-01-19 10:00:46,738 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-19 10:00:59,432 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-19 10:01:05,695 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-19 10:01:12,634 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-19 10:01:22,992 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-19 10:01:28,126 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-19 10:01:28,132 [INFO] 
+步骤3: 保存周报文件
+2026-01-19 10:01:28,139 [INFO] 
+============================================================
+2026-01-19 10:01:28,139 [INFO] 周报生成完成
+2026-01-19 10:01:28,139 [INFO] ============================================================
+2026-01-19 10:01:28,139 [INFO] 处理文章数: 15
+2026-01-19 10:01:28,139 [INFO] 耗时: 48.5秒
+2026-01-19 10:01:28,139 [INFO] 中文版: reports/weekly/weekly_zh_2026_W04_2026-01-19.md
+2026-01-19 10:01:28,139 [INFO] ES版: reports/weekly/weekly_es_2026_W04_2026-01-19.md
+2026-01-19 10:01:28,139 [INFO] 双语版: reports/weekly/weekly_bilingual_2026_W04_2026-01-19.md
+2026-01-19 10:01:28,139 [INFO] 预计成本: $0.0060

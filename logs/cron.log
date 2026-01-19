@@ -511,3 +511,134 @@ RSS 新闻列表（共 30 条）
 📁 数据保存: data/rss/
 完成
 
+=== Mon Jan 19 09:00:00 +08 2026 ===
+============================================================
+RSS 稳定币新闻订阅器
+============================================================
+
+订阅源: 4 个
+  - CoinDesk
+  - CoinTelegraph
+  - The Block
+  - Decrypt
+
+============================================================
+开始获取 RSS 订阅
+============================================================
+正在获取 CoinDesk...
+  ⚠️  RSS 格式警告
+  ✅ 获取到 0 条内容
+正在获取 CoinTelegraph...
+  ✅ 获取到 30 条内容
+正在获取 The Block...
+  ✅ 获取到 20 条内容
+正在获取 Decrypt...
+  ✅ 获取到 55 条内容
+
+✅ 共获取 105 条内容
+
+============================================================
+过滤稳定币相关新闻
+============================================================
+  ✅ [CoinTelegraph] Here’s what happened in crypto today...
+  ✅ [CoinTelegraph] Scaramucci says stablecoin yield prohibition under...
+  ✅ [CoinTelegraph] White House threatens to pull support for crypto b...
+  ✅ [CoinTelegraph] Crypto bank Anchorage Digital eyes $400M raise wit...
+  ✅ [CoinTelegraph] Bull, base or bear? Three possible paths for crypt...
+  ✅ [CoinTelegraph] Crypto’s bank-like turn puts JPMorgan on edge...
+  ✅ [CoinTelegraph] Goldman Sachs CEO says CLARITY Act ‘has a long way...
+  ✅ [CoinTelegraph] US lender Newrez to accept crypto holdings in mort...
+  ✅ [The Block] Ethereum daily transactions surge to all-time high...
+  ✅ [The Block] Stablecoin yield fight threatens to sink CLARITY A...
+  ✅ [The Block] The Daily: Jefferies strategist drops 10% bitcoin ...
+  ✅ [Decrypt] Massive Coinbase News! Bitcoin Rips to $96,750! Fo...
+  ✅ [Decrypt] Bank of America CEO: Interest-Bearing Stablecoins ...
+  ✅ [Decrypt] Are we back? Crypto is Green! Solana Intern goes r...
+  ✅ [Decrypt] Pump & Memes HEATING up! XMR vs ZEC! How important...
+  ✅ [Decrypt] PsyopAnime Meme up 30X! Are Memes back? Monero ATH...
+  ✅ [Decrypt] A16z raise $15B! Jerome Powell vs Trump! Crypto re...
+  ✅ [Decrypt] ZEC Rebounds 11%! Trump says he won’t pardon Sam B...
+  ✅ [Decrypt] The ZCash situation explained! Interview with ZEC ...
+  ✅ [Decrypt] First 2026 Dip! BTC at 92K! Morgan Stanley file fo...
+  ✅ [Decrypt] Crypto is Green! Up 6-9%! Memes outperform! Pepe u...
+  ✅ [Decrypt] 2026 Crypto Predictions! Tom Lee still buying ETH!...
+  ✅ [Decrypt] OpenAI bailed out? Trump Media stock up 40%! Walle...
+  ✅ [Decrypt] Coinbase & Robinhood Big Announcements! BTC falls ...
+
+过滤结果: 24/105 条相关新闻
+
+============================================================
+RSS 新闻列表（共 24 条）
+============================================================
+
+1. Here’s what happened in crypto today
+   来源: CoinTelegraph
+   发布: Sun, 18 Jan 2026 22:02:38 +0000
+   链接: https://cointelegraph.com/news/what-happened-in-crypto-today...
+   关键词: DAI
+
+2. Scaramucci says stablecoin yield prohibition undermines US dollar
+   来源: CoinTelegraph
+   发布: Sun, 18 Jan 2026 20:53:09 +0000
+   链接: https://cointelegraph.com/news/scaramucci-stablecoin-yield-p...
+   关键词: stablecoin
+
+3. White House threatens to pull support for crypto bill after Coinbase standoff: Report
+   来源: CoinTelegraph
+   发布: Sat, 17 Jan 2026 06:44:04 +0000
+   链接: https://cointelegraph.com/news/white-house-considers-droppin...
+   关键词: stablecoin
+
+4. Crypto bank Anchorage Digital eyes $400M raise with IPO in sight: Report
+   来源: CoinTelegraph
+   发布: Sat, 17 Jan 2026 02:25:07 +0000
+   链接: https://cointelegraph.com/news/crypto-bank-anchorage-digital...
+   关键词: stablecoin
+
+5. Bull, base or bear? Three possible paths for crypto in 2026
+   来源: CoinTelegraph
+   发布: Fri, 16 Jan 2026 21:40:59 +0000
+   链接: https://cointelegraph.com/news/altcoin-daily-2026-crypto-out...
+   关键词: DAI
+
+6. Crypto’s bank-like turn puts JPMorgan on edge
+   来源: CoinTelegraph
+   发布: Fri, 16 Jan 2026 21:00:00 +0000
+   链接: https://cointelegraph.com/news/banks-stablecoins-etfs-crypto...
+   关键词: stablecoin
+
+7. Goldman Sachs CEO says CLARITY Act ‘has a long way to go‘
+   来源: CoinTelegraph
+   发布: Fri, 16 Jan 2026 20:42:34 +0000
+   链接: https://cointelegraph.com/news/goldman-sachs-ceo-clarity-act...
+   关键词: stablecoin
+
+8. US lender Newrez to accept crypto holdings in mortgage approval
+   来源: CoinTelegraph
+   发布: Fri, 16 Jan 2026 19:49:05 +0000
+   链接: https://cointelegraph.com/news/us-lender-newrez-crypto-holdi...
+   关键词: stablecoin
+
+9. Ethereum daily transactions surge to all-time high as gas fees fall to record lows
+   来源: The Block
+   发布: Sun, 18 Jan 2026 17:18:32 -0500
+   链接: https://www.theblock.co/post/386079/ethereum-daily-transacti...
+   关键词: DAI
+
+10. Stablecoin yield fight threatens to sink CLARITY Act as Coinbase and White House clash
+   来源: The Block
+   发布: Sat, 17 Jan 2026 18:16:41 -0500
+   链接: https://www.theblock.co/post/386061/stablecoin-yield-fight-t...
+   关键词: stablecoin
+
+... 还有 14 条
+✅ 数据已保存到 data/rss/news_20260119_090001.json
+✅ 已追加到总日志 data/rss_master_log.json
+
+============================================================
+完成！
+============================================================
+📊 本次获取: 24 条相关新闻
+📁 数据保存: data/rss/
+完成
+

@@ -1,0 +1,57 @@
+[
+  {
+    "title": "香港金管局向Circle发放首个稳定币牌照",
+    "category": "policy",
+    "tags": [
+      "Circle",
+      "香港",
+      "HKMA"
+    ],
+    "importance": 8,
+    "confidence": 0.9
+  },
+  {
+    "title": "新加坡MAS更新稳定币监管框架",
+    "category": "policy",
+    "tags": [
+      "MAS",
+      "新加坡",
+      "稳定币"
+    ],
+    "importance": 7,
+    "confidence": 0.85
+  },
+  {
+    "title": "PayPal扩展PYUSD到欧洲五国",
+    "category": "company",
+    "tags": [
+      "PayPal",
+      "PYUSD",
+      "欧洲市场"
+    ],
+    "importance": 8,
+    "confidence": 0.9
+  },
+  {
+    "title": "Visa推出基于USDC的跨境支付",
+    "category": "company",
+    "tags": [
+      "Visa",
+      "USDC",
+      "跨境支付"
+    ],
+    "importance": 7,
+    "confidence": 0.85
+  },
+  {
+    "title": "Bridge完成5000万美元B轮融资",
+    "category": "funding",
+    "tags": [
+      "Bridge",
+      "融资",
+      "Sequoia"
+    ],
+    "importance": 6,
+    "confidence": 0.8
+  }
+]
