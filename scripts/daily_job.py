@@ -9,8 +9,18 @@ import os
 import sys
 from datetime import datetime
 
-# Add project root to path
+# Add project root to path (needed for mock data check)
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+# 添加命令行参数支持
+# 检查命令行参数或项目根目录下的标志文件
+USE_MOCK_DATA = '--mock' in sys.argv or os.path.exists(os.path.join(project_root, 'USE_MOCK_MODE'))
+
+if USE_MOCK_DATA:
+    print("⚠️  使用模拟数据模式")
+    print("=" * 70)
+
+# Add project root to path
 sys.path.insert(0, project_root)
 
 from src.collectors.news_collector import NewsCollector
@@ -25,22 +35,42 @@ def daily_news_collection():
     print("=" * 70 + "\n")
     
     date_str = datetime.now().strftime('%Y-%m-%d')
+    raw_file = f'data/raw/newsapi_raw_{date_str}.json'
     
     # ===== Step 1: 收集NewsAPI数据 =====
     print("🔍 Step 1: 收集新闻数据...")
-    collector = NewsCollector()
-    articles = collector.collect_news(days_back=1)  # 只收集最近1天
     
-    if not articles:
-        print("⚠️  没有收集到新闻数据")
-        return
-    
-    # 保存原始数据
-    raw_file = f'data/raw/newsapi_raw_{date_str}.json'
-    os.makedirs('data/raw', exist_ok=True)
-    with open(raw_file, 'w', encoding='utf-8') as f:
-        json.dump(articles, f, indent=2, ensure_ascii=False)
-    print(f"✅ 原始数据已保存: {raw_file}\n")
+    if USE_MOCK_DATA:
+        # 使用模拟数据模式
+        if os.path.exists(raw_file):
+            print(f"📂 加载现有模拟数据: {raw_file}")
+            with open(raw_file, 'r', encoding='utf-8') as f:
+                articles = json.load(f)
+        else:
+            print("🎲 生成新的模拟数据...")
+            # 导入并生成模拟数据
+            sys.path.insert(0, project_root)
+            from mock_news_collector import generate_realistic_news
+            articles = generate_realistic_news()
+            # 保存模拟数据
+            os.makedirs('data/raw', exist_ok=True)
+            with open(raw_file, 'w', encoding='utf-8') as f:
+                json.dump(articles, f, indent=2, ensure_ascii=False)
+            print(f"✅ 模拟数据已保存: {raw_file}\n")
+    else:
+        # 使用真实API数据
+        collector = NewsCollector()
+        articles = collector.collect_news(days_back=1)  # 只收集最近1天
+        
+        if not articles:
+            print("⚠️  没有收集到新闻数据")
+            return
+        
+        # 保存原始数据
+        os.makedirs('data/raw', exist_ok=True)
+        with open(raw_file, 'w', encoding='utf-8') as f:
+            json.dump(articles, f, indent=2, ensure_ascii=False)
+        print(f"✅ 原始数据已保存: {raw_file}\n")
     
     # ===== Step 2: 分类新闻 =====
     print("🏷️  Step 2: 分类新闻...")
