@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>稳定币情报系统 | Stablecoin Intelligence</title>
+    <meta name="description" content="每周自动生成的稳定币行业深度分析报告，支持中英西三语">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📊</text></svg>">
+</head>
+<body>
+    <!-- 头部 -->
+    <header class="header">
+        <h1>📊 稳定币情报系统</h1>
+        <p>Stablecoin Intelligence System</p>
+        <p style="font-size: 0.95rem; margin-top: 0.5rem; opacity: 0.9;">
+            每周自动分析全球稳定币行业动态 | AI驱动的三语深度报告
+        </p>
+        
+        <div class="stats">
+            <div class="stat-item">
+                <span class="stat-number" id="total-reports">-</span>
+                <span class="stat-label">期周报</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number" id="total-news">-</span>
+                <span class="stat-label">条新闻</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number">3</span>
+                <span class="stat-label">种语言</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- 主容器 -->
+    <div class="container">
+        <!-- 语言选择 -->
+        <div class="language-switcher">
+            <button class="lang-btn active" data-lang="all">全部语言</button>
+            <button class="lang-btn" data-lang="zh">🇨🇳 中文</button>
+            <button class="lang-btn" data-lang="en">🇺🇸 English</button>
+            <button class="lang-btn" data-lang="es">🇪🇸 Español</button>
+        </div>
+
+        <!-- 周报列表 -->
+        <div id="reports-container">
+            <div class="loading">加载中</div>
+        </div>
+    </div>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+        <p>
+            <strong>Stablecoin NewsAPI | 
+            Auto-generated weekly reports<br>
+            <a href="https://github.com/czuo-dev/stablecoin-intel" 
+               style="color: var(--primary-color); text-decoration: none;">
+                GitHub Repository
+            </a>
+        </p>
+        <p style="margin-top: 1rem; font-size: 0.9rem; color: #95a5a6;">
+            Last updated: <span id="last-update">-</span>
+        </p>
+    </footer>
+
+    <script src="reports.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
