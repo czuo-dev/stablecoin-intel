@@ -1,0 +1,27 @@
+# 周报配置
+
+title:
+  zh: "稳定币行业周报"
+  en: "Stablecoin Weekly Report"
+  es: "Informe Semanal de Stablecoins"
+
+sections:
+  overview:
+    zh: "本周概览"
+    en: "Weekly Overview"
+    es: "Resumen Semanal"
+  
+  highlights:
+    zh: "重点新闻"
+    en: "Key Highlights"
+    es: "Noticias Destacadas"
+  
+  policy:
+    zh: "监管动态"
+    en: "Policy Updates"
+    es: "Actualizaciones Regulatorias"
+  
+  market:
+    zh: "市场数据"
+    en: "Market Data"
+    es: "Datos de Mercado"

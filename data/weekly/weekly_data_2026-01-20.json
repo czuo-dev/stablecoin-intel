@@ -1,0 +1,3089 @@
+{
+  "period": {
+    "start": "2026-01-14",
+    "end": "2026-01-20",
+    "days": 7
+  },
+  "stats": {
+    "total_news": 20,
+    "total_tweets": 8,
+    "total_items": 28,
+    "by_category": {
+      "company": 7,
+      "funding": 1,
+      "policy": 11,
+      "market": 1
+    }
+  },
+  "top_news": [
+    {
+      "id": "news_c4e347b5fbc0",
+      "title": "Visa Expands USDC Settlement to 60+ Countries",
+      "content": "Payment giant Visa announces major expansion of stablecoin settlement capabilities.",
+      "url": "https://example.com/news/31",
+      "source": "Reuters",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-01-20T05:49:59.846510Z",
+      "categories": [
+        "company",
+        "market"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [
+        "USDC"
+      ],
+      "quality_score": 98,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Visa Expands USDC Settlement to 60+ Countries",
+        "description": "Payment giant Visa announces major expansion of stablecoin settlement capabilities.",
+        "content": "Payment giant Visa announces major expansion of stablecoin settlement capabilities. [Full article content would be here...]",
+        "url": "https://example.com/news/31",
+        "source": {
+          "name": "Reuters",
+          "id": "reuters"
+        },
+        "author": "Editorial Team",
+        "publishedAt": "2026-01-20T05:49:59.846510Z",
+        "categories": [
+          "company",
+          "market"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [
+          "USDC"
+        ],
+        "relevance_score": 98,
+        "priority_weight": 1.5,
+        "search_keyword": "PayPal PYUSD",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_6fd64faf343c",
+      "title": "Global Stablecoin Market Cap Surpasses $180 Billion",
+      "content": "Total stablecoin market capitalization reaches new all-time high amid institutional adoption.",
+      "url": "https://example.com/news/23",
+      "source": "CoinDesk",
+      "source_type": "news",
+      "author": "Staff Writer",
+      "published_at": "2026-01-20T01:49:59.846510Z",
+      "categories": [
+        "funding",
+        "market"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [
+        "USDC",
+        "USDT"
+      ],
+      "quality_score": 98,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Global Stablecoin Market Cap Surpasses $180 Billion",
+        "description": "Total stablecoin market capitalization reaches new all-time high amid institutional adoption.",
+        "content": "Total stablecoin market capitalization reaches new all-time high amid institutional adoption. [Full article content would be here...]",
+        "url": "https://example.com/news/23",
+        "source": {
+          "name": "CoinDesk",
+          "id": "coindesk"
+        },
+        "author": "Staff Writer",
+        "publishedAt": "2026-01-20T01:49:59.846510Z",
+        "categories": [
+          "funding",
+          "market"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [
+          "USDC",
+          "USDT"
+        ],
+        "relevance_score": 98,
+        "priority_weight": 1.0,
+        "search_keyword": "USDC Circle",
+        "source_quality": "medium"
+      }
+    },
+    {
+      "id": "news_5b8e72b78ba4",
+      "title": "Hong Kong Launches HKD Stablecoin Sandbox Program",
+      "content": "HKMA invites licensed institutions to participate in pilot program for Hong Kong dollar stablecoins.",
+      "url": "https://example.com/news/33",
+      "source": "Reuters",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-01-19T07:36:23.577942Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 98,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Hong Kong Launches HKD Stablecoin Sandbox Program",
+        "description": "HKMA invites licensed institutions to participate in pilot program for Hong Kong dollar stablecoins.",
+        "content": "HKMA invites licensed institutions to participate in pilot program for Hong Kong dollar stablecoins. [Full article content would be here...]",
+        "url": "https://example.com/news/33",
+        "source": {
+          "name": "Reuters",
+          "id": "reuters"
+        },
+        "author": "Editorial Team",
+        "publishedAt": "2026-01-19T07:36:23.577942Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "Asia"
+        ],
+        "mentioned_coins": [],
+        "relevance_score": 98,
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin market",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_c4e347b5fbc0",
+      "title": "Paxos Expands Stablecoin to Solana and Polygon",
+      "content": "Regulated stablecoin issuer Paxos launches USDP on additional blockchain networks.",
+      "url": "https://example.com/news/31",
+      "source": "Reuters",
+      "source_type": "news",
+      "author": "John Smith",
+      "published_at": "2026-01-19T06:36:23.577942Z",
+      "categories": [
+        "company"
+      ],
+      "regions": [
+        "US"
+      ],
+      "mentioned_coins": [
+        "USDP"
+      ],
+      "quality_score": 98,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Paxos Expands Stablecoin to Solana and Polygon",
+        "description": "Regulated stablecoin issuer Paxos launches USDP on additional blockchain networks.",
+        "content": "Regulated stablecoin issuer Paxos launches USDP on additional blockchain networks. [Full article content would be here...]",
+        "url": "https://example.com/news/31",
+        "source": {
+          "name": "Reuters",
+          "id": "reuters"
+        },
+        "author": "John Smith",
+        "publishedAt": "2026-01-19T06:36:23.577942Z",
+        "categories": [
+          "company"
+        ],
+        "regions": [
+          "US"
+        ],
+        "mentioned_coins": [
+          "USDP"
+        ],
+        "relevance_score": 98,
+        "priority_weight": 1.0,
+        "search_keyword": "USDC Circle",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_ac4217c0eb42",
+      "title": "ECB Publishes Stablecoin Risk Assessment Report",
+      "content": "European Central Bank warns about potential systemic risks from widespread stablecoin adoption.",
+      "url": "https://example.com/news/7",
+      "source": "Reuters",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-01-19T17:49:59.846510Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "EU"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 97,
+      "engagement": 0,
+      "raw_data": {
+        "title": "ECB Publishes Stablecoin Risk Assessment Report",
+        "description": "European Central Bank warns about potential systemic risks from widespread stablecoin adoption.",
+        "content": "European Central Bank warns about potential systemic risks from widespread stablecoin adoption. [Full article content would be here...]",
+        "url": "https://example.com/news/7",
+        "source": {
+          "name": "Reuters",
+          "id": "reuters"
+        },
+        "author": "Editorial Team",
+        "publishedAt": "2026-01-19T17:49:59.846510Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "EU"
+        ],
+        "mentioned_coins": [],
+        "relevance_score": 97,
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin regulation",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_d43bb61b807d",
+      "title": "Circle Secures Payment Institution License in Singapore",
+      "content": "Circle Internet Financial has been granted a Major Payment Institution license by the Monetary Authority of Singapore (MAS).",
+      "url": "https://example.com/news/19",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-01-19T00:36:23.577942Z",
+      "categories": [
+        "company"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "mentioned_coins": [
+        "USDC"
+      ],
+      "quality_score": 97,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Circle Secures Payment Institution License in Singapore",
+        "description": "Circle Internet Financial has been granted a Major Payment Institution license by the Monetary Authority of Singapore (MAS).",
+        "content": "Circle Internet Financial has been granted a Major Payment Institution license by the Monetary Authority of Singapore (MAS). [Full article content would be here...]",
+        "url": "https://example.com/news/19",
+        "source": {
+          "name": "Cointelegraph",
+          "id": "cointelegraph"
+        },
+        "author": "Editorial Team",
+        "publishedAt": "2026-01-19T00:36:23.577942Z",
+        "categories": [
+          "company"
+        ],
+        "regions": [
+          "Asia"
+        ],
+        "mentioned_coins": [
+          "USDC"
+        ],
+        "relevance_score": 97,
+        "priority_weight": 1.5,
+        "search_keyword": "PayPal PYUSD",
+        "source_quality": "medium"
+      }
+    },
+    {
+      "id": "news_a4d7aa64aa94",
+      "title": "Brazil Approves First Licensed Stablecoin Issuer",
+      "content": "Brazilian Central Bank grants approval to local fintech for BRL-backed stablecoin issuance.",
+      "url": "https://example.com/news/2",
+      "source": "Financial Times",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-01-19T15:19:59.846510Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "LATAM"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 96,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Brazil Approves First Licensed Stablecoin Issuer",
+        "description": "Brazilian Central Bank grants approval to local fintech for BRL-backed stablecoin issuance.",
+        "content": "Brazilian Central Bank grants approval to local fintech for BRL-backed stablecoin issuance. [Full article content would be here...]",
+        "url": "https://example.com/news/2",
+        "source": {
+          "name": "Financial Times",
+          "id": "financial-times"
+        },
+        "author": "Editorial Team",
+        "publishedAt": "2026-01-19T15:19:59.846510Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "LATAM"
+        ],
+        "mentioned_coins": [],
+        "relevance_score": 96,
+        "priority_weight": 1.0,
+        "search_keyword": "Tether USDT",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_f5175f61e4ec",
+      "title": "Tether Reports Record $5.2B Net Profit in 2024",
+      "content": "Stablecoin issuer Tether announces record annual profits driven by US Treasury yields.",
+      "url": "https://example.com/news/25",
+      "source": "The Block",
+      "source_type": "news",
+      "author": "John Smith",
+      "published_at": "2026-01-19T03:36:23.577942Z",
+      "categories": [
+        "company"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [
+        "USDT"
+      ],
+      "quality_score": 96,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Tether Reports Record $5.2B Net Profit in 2024",
+        "description": "Stablecoin issuer Tether announces record annual profits driven by US Treasury yields.",
+        "content": "Stablecoin issuer Tether announces record annual profits driven by US Treasury yields. [Full article content would be here...]",
+        "url": "https://example.com/news/25",
+        "source": {
+          "name": "The Block",
+          "id": "the-block"
+        },
+        "author": "John Smith",
+        "publishedAt": "2026-01-19T03:36:23.577942Z",
+        "categories": [
+          "company"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [
+          "USDT"
+        ],
+        "relevance_score": 96,
+        "priority_weight": 1.5,
+        "search_keyword": "Tether USDT",
+        "source_quality": "medium"
+      }
+    },
+    {
+      "id": "news_82202a050ff4",
+      "title": "Global Stablecoin Market Cap Surpasses $180 Billion",
+      "content": "Total stablecoin market capitalization reaches new all-time high amid institutional adoption.",
+      "url": "https://example.com/news/20",
+      "source": "Decrypt",
+      "source_type": "news",
+      "author": "John Smith",
+      "published_at": "2026-01-19T01:06:23.577942Z",
+      "categories": [
+        "market"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [
+        "USDC",
+        "USDT"
+      ],
+      "quality_score": 96,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Global Stablecoin Market Cap Surpasses $180 Billion",
+        "description": "Total stablecoin market capitalization reaches new all-time high amid institutional adoption.",
+        "content": "Total stablecoin market capitalization reaches new all-time high amid institutional adoption. [Full article content would be here...]",
+        "url": "https://example.com/news/20",
+        "source": {
+          "name": "Decrypt",
+          "id": "decrypt"
+        },
+        "author": "John Smith",
+        "publishedAt": "2026-01-19T01:06:23.577942Z",
+        "categories": [
+          "market"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [
+          "USDC",
+          "USDT"
+        ],
+        "relevance_score": 96,
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin regulation",
+        "source_quality": "medium"
+      }
+    },
+    {
+      "id": "news_ac6fb1d43827",
+      "title": "Tether Reports Record $5.2B Net Profit in 2024",
+      "content": "Stablecoin issuer Tether announces record annual profits driven by US Treasury yields.",
+      "url": "https://example.com/news/1",
+      "source": "Reuters",
+      "source_type": "news",
+      "author": "Jane Doe",
+      "published_at": "2026-01-19T14:49:59.846510Z",
+      "categories": [
+        "company"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [
+        "USDT"
+      ],
+      "quality_score": 94,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Tether Reports Record $5.2B Net Profit in 2024",
+        "description": "Stablecoin issuer Tether announces record annual profits driven by US Treasury yields.",
+        "content": "Stablecoin issuer Tether announces record annual profits driven by US Treasury yields. [Full article content would be here...]",
+        "url": "https://example.com/news/1",
+        "source": {
+          "name": "Reuters",
+          "id": "reuters"
+        },
+        "author": "Jane Doe",
+        "publishedAt": "2026-01-19T14:49:59.846510Z",
+        "categories": [
+          "company"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [
+          "USDT"
+        ],
+        "relevance_score": 94,
+        "priority_weight": 1.5,
+        "search_keyword": "stablecoin market",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_ba7396c0c041",
+      "title": "Visa Expands USDC Settlement to 60+ Countries",
+      "content": "Payment giant Visa announces major expansion of stablecoin settlement capabilities.",
+      "url": "https://example.com/news/5",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-01-18T17:36:23.577942Z",
+      "categories": [
+        "company"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [
+        "USDC"
+      ],
+      "quality_score": 94,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Visa Expands USDC Settlement to 60+ Countries",
+        "description": "Payment giant Visa announces major expansion of stablecoin settlement capabilities.",
+        "content": "Payment giant Visa announces major expansion of stablecoin settlement capabilities. [Full article content would be here...]",
+        "url": "https://example.com/news/5",
+        "source": {
+          "name": "Cointelegraph",
+          "id": "cointelegraph"
+        },
+        "author": "Editorial Team",
+        "publishedAt": "2026-01-18T17:36:23.577942Z",
+        "categories": [
+          "company"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [
+          "USDC"
+        ],
+        "relevance_score": 94,
+        "priority_weight": 1.5,
+        "search_keyword": "Tether USDT",
+        "source_quality": "medium"
+      }
+    },
+    {
+      "id": "news_5364c3908f02",
+      "title": "Paxos Expands Stablecoin to Solana and Polygon",
+      "content": "Regulated stablecoin issuer Paxos launches USDP on additional blockchain networks.",
+      "url": "https://example.com/news/29",
+      "source": "Financial Times",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-01-20T04:49:59.846510Z",
+      "categories": [
+        "company"
+      ],
+      "regions": [
+        "US"
+      ],
+      "mentioned_coins": [
+        "USDP"
+      ],
+      "quality_score": 93,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Paxos Expands Stablecoin to Solana and Polygon",
+        "description": "Regulated stablecoin issuer Paxos launches USDP on additional blockchain networks.",
+        "content": "Regulated stablecoin issuer Paxos launches USDP on additional blockchain networks. [Full article content would be here...]",
+        "url": "https://example.com/news/29",
+        "source": {
+          "name": "Financial Times",
+          "id": "financial-times"
+        },
+        "author": "Editorial Team",
+        "publishedAt": "2026-01-20T04:49:59.846510Z",
+        "categories": [
+          "company"
+        ],
+        "regions": [
+          "US"
+        ],
+        "mentioned_coins": [
+          "USDP"
+        ],
+        "relevance_score": 93,
+        "priority_weight": 1.0,
+        "search_keyword": "USDC Circle",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_31b2b441c455",
+      "title": "IMF Proposes Global Stablecoin Regulatory Framework",
+      "content": "International Monetary Fund calls for coordinated international approach to stablecoin regulation.",
+      "url": "https://example.com/news/22",
+      "source": "Reuters",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-01-20T01:19:59.846510Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 90,
+      "engagement": 0,
+      "raw_data": {
+        "title": "IMF Proposes Global Stablecoin Regulatory Framework",
+        "description": "International Monetary Fund calls for coordinated international approach to stablecoin regulation.",
+        "content": "International Monetary Fund calls for coordinated international approach to stablecoin regulation. [Full article content would be here...]",
+        "url": "https://example.com/news/22",
+        "source": {
+          "name": "Reuters",
+          "id": "reuters"
+        },
+        "author": "Editorial Team",
+        "publishedAt": "2026-01-20T01:19:59.846510Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [],
+        "relevance_score": 90,
+        "priority_weight": 1.5,
+        "search_keyword": "stablecoin regulation",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_c4db3e6d14a9",
+      "title": "US House Financial Services Committee Advances Stablecoin Bill",
+      "content": "US House advances federal framework for stablecoin regulation.",
+      "url": "https://example.com/news/3",
+      "source": "Bloomberg",
+      "source_type": "news",
+      "author": "Jane Doe",
+      "published_at": "2026-01-18T16:36:23.577942Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "US"
+      ],
+      "mentioned_coins": [
+        "USDC",
+        "USDT"
+      ],
+      "quality_score": 89,
+      "engagement": 0,
+      "raw_data": {
+        "title": "US House Financial Services Committee Advances Stablecoin Bill",
+        "description": "US House advances federal framework for stablecoin regulation.",
+        "content": "US House advances federal framework for stablecoin regulation. [Full article content would be here...]",
+        "url": "https://example.com/news/3",
+        "source": {
+          "name": "Bloomberg",
+          "id": "bloomberg"
+        },
+        "author": "Jane Doe",
+        "publishedAt": "2026-01-18T16:36:23.577942Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "US"
+        ],
+        "mentioned_coins": [
+          "USDC",
+          "USDT"
+        ],
+        "relevance_score": 89,
+        "priority_weight": 1.5,
+        "search_keyword": "Tether USDT",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_9373d4665f8a",
+      "title": "ECB Publishes Stablecoin Risk Assessment Report",
+      "content": "European Central Bank warns about potential systemic risks from widespread stablecoin adoption.",
+      "url": "https://example.com/news/15",
+      "source": "Financial Times",
+      "source_type": "news",
+      "author": "Jane Doe",
+      "published_at": "2026-01-18T22:36:23.577942Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "EU"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 88,
+      "engagement": 0,
+      "raw_data": {
+        "title": "ECB Publishes Stablecoin Risk Assessment Report",
+        "description": "European Central Bank warns about potential systemic risks from widespread stablecoin adoption.",
+        "content": "European Central Bank warns about potential systemic risks from widespread stablecoin adoption. [Full article content would be here...]",
+        "url": "https://example.com/news/15",
+        "source": {
+          "name": "Financial Times",
+          "id": "financial-times"
+        },
+        "author": "Jane Doe",
+        "publishedAt": "2026-01-18T22:36:23.577942Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "EU"
+        ],
+        "mentioned_coins": [],
+        "relevance_score": 88,
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin regulation",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_82202a050ff4",
+      "title": "Circle Secures Payment Institution License in Singapore",
+      "content": "Circle Internet Financial has been granted a Major Payment Institution license by the Monetary Authority of Singapore (MAS).",
+      "url": "https://example.com/news/20",
+      "source": "Reuters",
+      "source_type": "news",
+      "author": "Jane Doe",
+      "published_at": "2026-01-20T00:19:59.846510Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "mentioned_coins": [
+        "USDC"
+      ],
+      "quality_score": 85,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Circle Secures Payment Institution License in Singapore",
+        "description": "Circle Internet Financial has been granted a Major Payment Institution license by the Monetary Authority of Singapore (MAS).",
+        "content": "Circle Internet Financial has been granted a Major Payment Institution license by the Monetary Authority of Singapore (MAS). [Full article content would be here...]",
+        "url": "https://example.com/news/20",
+        "source": {
+          "name": "Reuters",
+          "id": "reuters"
+        },
+        "author": "Jane Doe",
+        "publishedAt": "2026-01-20T00:19:59.846510Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "Asia"
+        ],
+        "mentioned_coins": [
+          "USDC"
+        ],
+        "relevance_score": 85,
+        "priority_weight": 1.5,
+        "search_keyword": "USDC Circle",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_ac4217c0eb42",
+      "title": "Brazil Approves First Licensed Stablecoin Issuer",
+      "content": "Brazilian Central Bank grants approval to local fintech for BRL-backed stablecoin issuance.",
+      "url": "https://example.com/news/7",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "John Smith",
+      "published_at": "2026-01-18T18:36:23.577942Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "LATAM"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 84,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Brazil Approves First Licensed Stablecoin Issuer",
+        "description": "Brazilian Central Bank grants approval to local fintech for BRL-backed stablecoin issuance.",
+        "content": "Brazilian Central Bank grants approval to local fintech for BRL-backed stablecoin issuance. [Full article content would be here...]",
+        "url": "https://example.com/news/7",
+        "source": {
+          "name": "Cointelegraph",
+          "id": "cointelegraph"
+        },
+        "author": "John Smith",
+        "publishedAt": "2026-01-18T18:36:23.577942Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "LATAM"
+        ],
+        "mentioned_coins": [],
+        "relevance_score": 84,
+        "priority_weight": 1.0,
+        "search_keyword": "PayPal PYUSD",
+        "source_quality": "medium"
+      }
+    },
+    {
+      "id": "twitter_1234567894",
+      "title": "Stablecoin trading volume hits record $100B in 24 hours. USDT dominates with 65% share.",
+      "content": "Stablecoin trading volume hits record $100B in 24 hours. USDT dominates with 65% share.",
+      "url": "https://twitter.com/circle/status/1234567894",
+      "source": "@circle",
+      "source_type": "twitter",
+      "author": "circle",
+      "published_at": "2026-01-19T03:42:57.119916Z",
+      "categories": [
+        "market"
+      ],
+      "regions": [
+        "US"
+      ],
+      "mentioned_coins": [
+        "USDT"
+      ],
+      "quality_score": 84,
+      "engagement": 2906,
+      "raw_data": {
+        "id": "1234567894",
+        "text": "Stablecoin trading volume hits record $100B in 24 hours. USDT dominates with 65% share.",
+        "author_username": "circle",
+        "author_verified": true,
+        "author_followers": 500000,
+        "created_at": "2026-01-19T03:42:57.119916Z",
+        "public_metrics": {
+          "like_count": 1284,
+          "retweet_count": 673,
+          "reply_count": 92
+        },
+        "categories": [
+          "market"
+        ],
+        "regions": [
+          "US"
+        ],
+        "mentioned_stablecoins": [
+          "USDT"
+        ],
+        "quality_score": 84,
+        "url": "https://twitter.com/circle/status/1234567894"
+      }
+    },
+    {
+      "id": "news_91c7f7c5dac5",
+      "title": "Hong Kong Launches HKD Stablecoin Sandbox Program",
+      "content": "HKMA invites licensed institutions to participate in pilot program for Hong Kong dollar stablecoins.",
+      "url": "https://example.com/news/26",
+      "source": "CoinDesk",
+      "source_type": "news",
+      "author": "Staff Writer",
+      "published_at": "2026-01-20T03:19:59.846510Z",
+      "categories": [
+        "policy",
+        "company"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 82,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Hong Kong Launches HKD Stablecoin Sandbox Program",
+        "description": "HKMA invites licensed institutions to participate in pilot program for Hong Kong dollar stablecoins.",
+        "content": "HKMA invites licensed institutions to participate in pilot program for Hong Kong dollar stablecoins. [Full article content would be here...]",
+        "url": "https://example.com/news/26",
+        "source": {
+          "name": "CoinDesk",
+          "id": "coindesk"
+        },
+        "author": "Staff Writer",
+        "publishedAt": "2026-01-20T03:19:59.846510Z",
+        "categories": [
+          "policy",
+          "company"
+        ],
+        "regions": [
+          "Asia"
+        ],
+        "mentioned_coins": [],
+        "relevance_score": 82,
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin market",
+        "source_quality": "medium"
+      }
+    },
+    {
+      "id": "news_ad72c179d27a",
+      "title": "US House Financial Services Committee Advances Stablecoin Bill",
+      "content": "US House advances federal framework for stablecoin regulation.",
+      "url": "https://example.com/news/11",
+      "source": "Wall Street Journal",
+      "source_type": "news",
+      "author": "Staff Writer",
+      "published_at": "2026-01-19T19:49:59.846510Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "US"
+      ],
+      "mentioned_coins": [
+        "USDC",
+        "USDT"
+      ],
+      "quality_score": 78,
+      "engagement": 0,
+      "raw_data": {
+        "title": "US House Financial Services Committee Advances Stablecoin Bill",
+        "description": "US House advances federal framework for stablecoin regulation.",
+        "content": "US House advances federal framework for stablecoin regulation. [Full article content would be here...]",
+        "url": "https://example.com/news/11",
+        "source": {
+          "name": "Wall Street Journal",
+          "id": "wall-street-journal"
+        },
+        "author": "Staff Writer",
+        "publishedAt": "2026-01-19T19:49:59.846510Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "US"
+        ],
+        "mentioned_coins": [
+          "USDC",
+          "USDT"
+        ],
+        "relevance_score": 78,
+        "priority_weight": 1.5,
+        "search_keyword": "Tether USDT",
+        "source_quality": "high"
+      }
+    }
+  ],
+  "all_news": [
+    {
+      "id": "news_c4e347b5fbc0",
+      "title": "Visa Expands USDC Settlement to 60+ Countries",
+      "content": "Payment giant Visa announces major expansion of stablecoin settlement capabilities.",
+      "url": "https://example.com/news/31",
+      "source": "Reuters",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-01-20T05:49:59.846510Z",
+      "categories": [
+        "company",
+        "market"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [
+        "USDC"
+      ],
+      "quality_score": 98,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Visa Expands USDC Settlement to 60+ Countries",
+        "description": "Payment giant Visa announces major expansion of stablecoin settlement capabilities.",
+        "content": "Payment giant Visa announces major expansion of stablecoin settlement capabilities. [Full article content would be here...]",
+        "url": "https://example.com/news/31",
+        "source": {
+          "name": "Reuters",
+          "id": "reuters"
+        },
+        "author": "Editorial Team",
+        "publishedAt": "2026-01-20T05:49:59.846510Z",
+        "categories": [
+          "company",
+          "market"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [
+          "USDC"
+        ],
+        "relevance_score": 98,
+        "priority_weight": 1.5,
+        "search_keyword": "PayPal PYUSD",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_6fd64faf343c",
+      "title": "Global Stablecoin Market Cap Surpasses $180 Billion",
+      "content": "Total stablecoin market capitalization reaches new all-time high amid institutional adoption.",
+      "url": "https://example.com/news/23",
+      "source": "CoinDesk",
+      "source_type": "news",
+      "author": "Staff Writer",
+      "published_at": "2026-01-20T01:49:59.846510Z",
+      "categories": [
+        "funding",
+        "market"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [
+        "USDC",
+        "USDT"
+      ],
+      "quality_score": 98,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Global Stablecoin Market Cap Surpasses $180 Billion",
+        "description": "Total stablecoin market capitalization reaches new all-time high amid institutional adoption.",
+        "content": "Total stablecoin market capitalization reaches new all-time high amid institutional adoption. [Full article content would be here...]",
+        "url": "https://example.com/news/23",
+        "source": {
+          "name": "CoinDesk",
+          "id": "coindesk"
+        },
+        "author": "Staff Writer",
+        "publishedAt": "2026-01-20T01:49:59.846510Z",
+        "categories": [
+          "funding",
+          "market"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [
+          "USDC",
+          "USDT"
+        ],
+        "relevance_score": 98,
+        "priority_weight": 1.0,
+        "search_keyword": "USDC Circle",
+        "source_quality": "medium"
+      }
+    },
+    {
+      "id": "news_ac4217c0eb42",
+      "title": "ECB Publishes Stablecoin Risk Assessment Report",
+      "content": "European Central Bank warns about potential systemic risks from widespread stablecoin adoption.",
+      "url": "https://example.com/news/7",
+      "source": "Reuters",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-01-19T17:49:59.846510Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "EU"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 97,
+      "engagement": 0,
+      "raw_data": {
+        "title": "ECB Publishes Stablecoin Risk Assessment Report",
+        "description": "European Central Bank warns about potential systemic risks from widespread stablecoin adoption.",
+        "content": "European Central Bank warns about potential systemic risks from widespread stablecoin adoption. [Full article content would be here...]",
+        "url": "https://example.com/news/7",
+        "source": {
+          "name": "Reuters",
+          "id": "reuters"
+        },
+        "author": "Editorial Team",
+        "publishedAt": "2026-01-19T17:49:59.846510Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "EU"
+        ],
+        "mentioned_coins": [],
+        "relevance_score": 97,
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin regulation",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_a4d7aa64aa94",
+      "title": "Brazil Approves First Licensed Stablecoin Issuer",
+      "content": "Brazilian Central Bank grants approval to local fintech for BRL-backed stablecoin issuance.",
+      "url": "https://example.com/news/2",
+      "source": "Financial Times",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-01-19T15:19:59.846510Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "LATAM"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 96,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Brazil Approves First Licensed Stablecoin Issuer",
+        "description": "Brazilian Central Bank grants approval to local fintech for BRL-backed stablecoin issuance.",
+        "content": "Brazilian Central Bank grants approval to local fintech for BRL-backed stablecoin issuance. [Full article content would be here...]",
+        "url": "https://example.com/news/2",
+        "source": {
+          "name": "Financial Times",
+          "id": "financial-times"
+        },
+        "author": "Editorial Team",
+        "publishedAt": "2026-01-19T15:19:59.846510Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "LATAM"
+        ],
+        "mentioned_coins": [],
+        "relevance_score": 96,
+        "priority_weight": 1.0,
+        "search_keyword": "Tether USDT",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_ac6fb1d43827",
+      "title": "Tether Reports Record $5.2B Net Profit in 2024",
+      "content": "Stablecoin issuer Tether announces record annual profits driven by US Treasury yields.",
+      "url": "https://example.com/news/1",
+      "source": "Reuters",
+      "source_type": "news",
+      "author": "Jane Doe",
+      "published_at": "2026-01-19T14:49:59.846510Z",
+      "categories": [
+        "company"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [
+        "USDT"
+      ],
+      "quality_score": 94,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Tether Reports Record $5.2B Net Profit in 2024",
+        "description": "Stablecoin issuer Tether announces record annual profits driven by US Treasury yields.",
+        "content": "Stablecoin issuer Tether announces record annual profits driven by US Treasury yields. [Full article content would be here...]",
+        "url": "https://example.com/news/1",
+        "source": {
+          "name": "Reuters",
+          "id": "reuters"
+        },
+        "author": "Jane Doe",
+        "publishedAt": "2026-01-19T14:49:59.846510Z",
+        "categories": [
+          "company"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [
+          "USDT"
+        ],
+        "relevance_score": 94,
+        "priority_weight": 1.5,
+        "search_keyword": "stablecoin market",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_5364c3908f02",
+      "title": "Paxos Expands Stablecoin to Solana and Polygon",
+      "content": "Regulated stablecoin issuer Paxos launches USDP on additional blockchain networks.",
+      "url": "https://example.com/news/29",
+      "source": "Financial Times",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-01-20T04:49:59.846510Z",
+      "categories": [
+        "company"
+      ],
+      "regions": [
+        "US"
+      ],
+      "mentioned_coins": [
+        "USDP"
+      ],
+      "quality_score": 93,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Paxos Expands Stablecoin to Solana and Polygon",
+        "description": "Regulated stablecoin issuer Paxos launches USDP on additional blockchain networks.",
+        "content": "Regulated stablecoin issuer Paxos launches USDP on additional blockchain networks. [Full article content would be here...]",
+        "url": "https://example.com/news/29",
+        "source": {
+          "name": "Financial Times",
+          "id": "financial-times"
+        },
+        "author": "Editorial Team",
+        "publishedAt": "2026-01-20T04:49:59.846510Z",
+        "categories": [
+          "company"
+        ],
+        "regions": [
+          "US"
+        ],
+        "mentioned_coins": [
+          "USDP"
+        ],
+        "relevance_score": 93,
+        "priority_weight": 1.0,
+        "search_keyword": "USDC Circle",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_31b2b441c455",
+      "title": "IMF Proposes Global Stablecoin Regulatory Framework",
+      "content": "International Monetary Fund calls for coordinated international approach to stablecoin regulation.",
+      "url": "https://example.com/news/22",
+      "source": "Reuters",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-01-20T01:19:59.846510Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 90,
+      "engagement": 0,
+      "raw_data": {
+        "title": "IMF Proposes Global Stablecoin Regulatory Framework",
+        "description": "International Monetary Fund calls for coordinated international approach to stablecoin regulation.",
+        "content": "International Monetary Fund calls for coordinated international approach to stablecoin regulation. [Full article content would be here...]",
+        "url": "https://example.com/news/22",
+        "source": {
+          "name": "Reuters",
+          "id": "reuters"
+        },
+        "author": "Editorial Team",
+        "publishedAt": "2026-01-20T01:19:59.846510Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [],
+        "relevance_score": 90,
+        "priority_weight": 1.5,
+        "search_keyword": "stablecoin regulation",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_82202a050ff4",
+      "title": "Circle Secures Payment Institution License in Singapore",
+      "content": "Circle Internet Financial has been granted a Major Payment Institution license by the Monetary Authority of Singapore (MAS).",
+      "url": "https://example.com/news/20",
+      "source": "Reuters",
+      "source_type": "news",
+      "author": "Jane Doe",
+      "published_at": "2026-01-20T00:19:59.846510Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "mentioned_coins": [
+        "USDC"
+      ],
+      "quality_score": 85,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Circle Secures Payment Institution License in Singapore",
+        "description": "Circle Internet Financial has been granted a Major Payment Institution license by the Monetary Authority of Singapore (MAS).",
+        "content": "Circle Internet Financial has been granted a Major Payment Institution license by the Monetary Authority of Singapore (MAS). [Full article content would be here...]",
+        "url": "https://example.com/news/20",
+        "source": {
+          "name": "Reuters",
+          "id": "reuters"
+        },
+        "author": "Jane Doe",
+        "publishedAt": "2026-01-20T00:19:59.846510Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "Asia"
+        ],
+        "mentioned_coins": [
+          "USDC"
+        ],
+        "relevance_score": 85,
+        "priority_weight": 1.5,
+        "search_keyword": "USDC Circle",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_91c7f7c5dac5",
+      "title": "Hong Kong Launches HKD Stablecoin Sandbox Program",
+      "content": "HKMA invites licensed institutions to participate in pilot program for Hong Kong dollar stablecoins.",
+      "url": "https://example.com/news/26",
+      "source": "CoinDesk",
+      "source_type": "news",
+      "author": "Staff Writer",
+      "published_at": "2026-01-20T03:19:59.846510Z",
+      "categories": [
+        "policy",
+        "company"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 82,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Hong Kong Launches HKD Stablecoin Sandbox Program",
+        "description": "HKMA invites licensed institutions to participate in pilot program for Hong Kong dollar stablecoins.",
+        "content": "HKMA invites licensed institutions to participate in pilot program for Hong Kong dollar stablecoins. [Full article content would be here...]",
+        "url": "https://example.com/news/26",
+        "source": {
+          "name": "CoinDesk",
+          "id": "coindesk"
+        },
+        "author": "Staff Writer",
+        "publishedAt": "2026-01-20T03:19:59.846510Z",
+        "categories": [
+          "policy",
+          "company"
+        ],
+        "regions": [
+          "Asia"
+        ],
+        "mentioned_coins": [],
+        "relevance_score": 82,
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin market",
+        "source_quality": "medium"
+      }
+    },
+    {
+      "id": "news_ad72c179d27a",
+      "title": "US House Financial Services Committee Advances Stablecoin Bill",
+      "content": "US House advances federal framework for stablecoin regulation.",
+      "url": "https://example.com/news/11",
+      "source": "Wall Street Journal",
+      "source_type": "news",
+      "author": "Staff Writer",
+      "published_at": "2026-01-19T19:49:59.846510Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "US"
+      ],
+      "mentioned_coins": [
+        "USDC",
+        "USDT"
+      ],
+      "quality_score": 78,
+      "engagement": 0,
+      "raw_data": {
+        "title": "US House Financial Services Committee Advances Stablecoin Bill",
+        "description": "US House advances federal framework for stablecoin regulation.",
+        "content": "US House advances federal framework for stablecoin regulation. [Full article content would be here...]",
+        "url": "https://example.com/news/11",
+        "source": {
+          "name": "Wall Street Journal",
+          "id": "wall-street-journal"
+        },
+        "author": "Staff Writer",
+        "publishedAt": "2026-01-19T19:49:59.846510Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "US"
+        ],
+        "mentioned_coins": [
+          "USDC",
+          "USDT"
+        ],
+        "relevance_score": 78,
+        "priority_weight": 1.5,
+        "search_keyword": "Tether USDT",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_5b8e72b78ba4",
+      "title": "Hong Kong Launches HKD Stablecoin Sandbox Program",
+      "content": "HKMA invites licensed institutions to participate in pilot program for Hong Kong dollar stablecoins.",
+      "url": "https://example.com/news/33",
+      "source": "Reuters",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-01-19T07:36:23.577942Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 98,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Hong Kong Launches HKD Stablecoin Sandbox Program",
+        "description": "HKMA invites licensed institutions to participate in pilot program for Hong Kong dollar stablecoins.",
+        "content": "HKMA invites licensed institutions to participate in pilot program for Hong Kong dollar stablecoins. [Full article content would be here...]",
+        "url": "https://example.com/news/33",
+        "source": {
+          "name": "Reuters",
+          "id": "reuters"
+        },
+        "author": "Editorial Team",
+        "publishedAt": "2026-01-19T07:36:23.577942Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "Asia"
+        ],
+        "mentioned_coins": [],
+        "relevance_score": 98,
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin market",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_c4e347b5fbc0",
+      "title": "Paxos Expands Stablecoin to Solana and Polygon",
+      "content": "Regulated stablecoin issuer Paxos launches USDP on additional blockchain networks.",
+      "url": "https://example.com/news/31",
+      "source": "Reuters",
+      "source_type": "news",
+      "author": "John Smith",
+      "published_at": "2026-01-19T06:36:23.577942Z",
+      "categories": [
+        "company"
+      ],
+      "regions": [
+        "US"
+      ],
+      "mentioned_coins": [
+        "USDP"
+      ],
+      "quality_score": 98,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Paxos Expands Stablecoin to Solana and Polygon",
+        "description": "Regulated stablecoin issuer Paxos launches USDP on additional blockchain networks.",
+        "content": "Regulated stablecoin issuer Paxos launches USDP on additional blockchain networks. [Full article content would be here...]",
+        "url": "https://example.com/news/31",
+        "source": {
+          "name": "Reuters",
+          "id": "reuters"
+        },
+        "author": "John Smith",
+        "publishedAt": "2026-01-19T06:36:23.577942Z",
+        "categories": [
+          "company"
+        ],
+        "regions": [
+          "US"
+        ],
+        "mentioned_coins": [
+          "USDP"
+        ],
+        "relevance_score": 98,
+        "priority_weight": 1.0,
+        "search_keyword": "USDC Circle",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_d43bb61b807d",
+      "title": "Circle Secures Payment Institution License in Singapore",
+      "content": "Circle Internet Financial has been granted a Major Payment Institution license by the Monetary Authority of Singapore (MAS).",
+      "url": "https://example.com/news/19",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-01-19T00:36:23.577942Z",
+      "categories": [
+        "company"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "mentioned_coins": [
+        "USDC"
+      ],
+      "quality_score": 97,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Circle Secures Payment Institution License in Singapore",
+        "description": "Circle Internet Financial has been granted a Major Payment Institution license by the Monetary Authority of Singapore (MAS).",
+        "content": "Circle Internet Financial has been granted a Major Payment Institution license by the Monetary Authority of Singapore (MAS). [Full article content would be here...]",
+        "url": "https://example.com/news/19",
+        "source": {
+          "name": "Cointelegraph",
+          "id": "cointelegraph"
+        },
+        "author": "Editorial Team",
+        "publishedAt": "2026-01-19T00:36:23.577942Z",
+        "categories": [
+          "company"
+        ],
+        "regions": [
+          "Asia"
+        ],
+        "mentioned_coins": [
+          "USDC"
+        ],
+        "relevance_score": 97,
+        "priority_weight": 1.5,
+        "search_keyword": "PayPal PYUSD",
+        "source_quality": "medium"
+      }
+    },
+    {
+      "id": "news_f5175f61e4ec",
+      "title": "Tether Reports Record $5.2B Net Profit in 2024",
+      "content": "Stablecoin issuer Tether announces record annual profits driven by US Treasury yields.",
+      "url": "https://example.com/news/25",
+      "source": "The Block",
+      "source_type": "news",
+      "author": "John Smith",
+      "published_at": "2026-01-19T03:36:23.577942Z",
+      "categories": [
+        "company"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [
+        "USDT"
+      ],
+      "quality_score": 96,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Tether Reports Record $5.2B Net Profit in 2024",
+        "description": "Stablecoin issuer Tether announces record annual profits driven by US Treasury yields.",
+        "content": "Stablecoin issuer Tether announces record annual profits driven by US Treasury yields. [Full article content would be here...]",
+        "url": "https://example.com/news/25",
+        "source": {
+          "name": "The Block",
+          "id": "the-block"
+        },
+        "author": "John Smith",
+        "publishedAt": "2026-01-19T03:36:23.577942Z",
+        "categories": [
+          "company"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [
+          "USDT"
+        ],
+        "relevance_score": 96,
+        "priority_weight": 1.5,
+        "search_keyword": "Tether USDT",
+        "source_quality": "medium"
+      }
+    },
+    {
+      "id": "news_82202a050ff4",
+      "title": "Global Stablecoin Market Cap Surpasses $180 Billion",
+      "content": "Total stablecoin market capitalization reaches new all-time high amid institutional adoption.",
+      "url": "https://example.com/news/20",
+      "source": "Decrypt",
+      "source_type": "news",
+      "author": "John Smith",
+      "published_at": "2026-01-19T01:06:23.577942Z",
+      "categories": [
+        "market"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [
+        "USDC",
+        "USDT"
+      ],
+      "quality_score": 96,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Global Stablecoin Market Cap Surpasses $180 Billion",
+        "description": "Total stablecoin market capitalization reaches new all-time high amid institutional adoption.",
+        "content": "Total stablecoin market capitalization reaches new all-time high amid institutional adoption. [Full article content would be here...]",
+        "url": "https://example.com/news/20",
+        "source": {
+          "name": "Decrypt",
+          "id": "decrypt"
+        },
+        "author": "John Smith",
+        "publishedAt": "2026-01-19T01:06:23.577942Z",
+        "categories": [
+          "market"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [
+          "USDC",
+          "USDT"
+        ],
+        "relevance_score": 96,
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin regulation",
+        "source_quality": "medium"
+      }
+    },
+    {
+      "id": "news_ba7396c0c041",
+      "title": "Visa Expands USDC Settlement to 60+ Countries",
+      "content": "Payment giant Visa announces major expansion of stablecoin settlement capabilities.",
+      "url": "https://example.com/news/5",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-01-18T17:36:23.577942Z",
+      "categories": [
+        "company"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [
+        "USDC"
+      ],
+      "quality_score": 94,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Visa Expands USDC Settlement to 60+ Countries",
+        "description": "Payment giant Visa announces major expansion of stablecoin settlement capabilities.",
+        "content": "Payment giant Visa announces major expansion of stablecoin settlement capabilities. [Full article content would be here...]",
+        "url": "https://example.com/news/5",
+        "source": {
+          "name": "Cointelegraph",
+          "id": "cointelegraph"
+        },
+        "author": "Editorial Team",
+        "publishedAt": "2026-01-18T17:36:23.577942Z",
+        "categories": [
+          "company"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [
+          "USDC"
+        ],
+        "relevance_score": 94,
+        "priority_weight": 1.5,
+        "search_keyword": "Tether USDT",
+        "source_quality": "medium"
+      }
+    },
+    {
+      "id": "news_c4db3e6d14a9",
+      "title": "US House Financial Services Committee Advances Stablecoin Bill",
+      "content": "US House advances federal framework for stablecoin regulation.",
+      "url": "https://example.com/news/3",
+      "source": "Bloomberg",
+      "source_type": "news",
+      "author": "Jane Doe",
+      "published_at": "2026-01-18T16:36:23.577942Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "US"
+      ],
+      "mentioned_coins": [
+        "USDC",
+        "USDT"
+      ],
+      "quality_score": 89,
+      "engagement": 0,
+      "raw_data": {
+        "title": "US House Financial Services Committee Advances Stablecoin Bill",
+        "description": "US House advances federal framework for stablecoin regulation.",
+        "content": "US House advances federal framework for stablecoin regulation. [Full article content would be here...]",
+        "url": "https://example.com/news/3",
+        "source": {
+          "name": "Bloomberg",
+          "id": "bloomberg"
+        },
+        "author": "Jane Doe",
+        "publishedAt": "2026-01-18T16:36:23.577942Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "US"
+        ],
+        "mentioned_coins": [
+          "USDC",
+          "USDT"
+        ],
+        "relevance_score": 89,
+        "priority_weight": 1.5,
+        "search_keyword": "Tether USDT",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_9373d4665f8a",
+      "title": "ECB Publishes Stablecoin Risk Assessment Report",
+      "content": "European Central Bank warns about potential systemic risks from widespread stablecoin adoption.",
+      "url": "https://example.com/news/15",
+      "source": "Financial Times",
+      "source_type": "news",
+      "author": "Jane Doe",
+      "published_at": "2026-01-18T22:36:23.577942Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "EU"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 88,
+      "engagement": 0,
+      "raw_data": {
+        "title": "ECB Publishes Stablecoin Risk Assessment Report",
+        "description": "European Central Bank warns about potential systemic risks from widespread stablecoin adoption.",
+        "content": "European Central Bank warns about potential systemic risks from widespread stablecoin adoption. [Full article content would be here...]",
+        "url": "https://example.com/news/15",
+        "source": {
+          "name": "Financial Times",
+          "id": "financial-times"
+        },
+        "author": "Jane Doe",
+        "publishedAt": "2026-01-18T22:36:23.577942Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "EU"
+        ],
+        "mentioned_coins": [],
+        "relevance_score": 88,
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin regulation",
+        "source_quality": "high"
+      }
+    },
+    {
+      "id": "news_ac4217c0eb42",
+      "title": "Brazil Approves First Licensed Stablecoin Issuer",
+      "content": "Brazilian Central Bank grants approval to local fintech for BRL-backed stablecoin issuance.",
+      "url": "https://example.com/news/7",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "John Smith",
+      "published_at": "2026-01-18T18:36:23.577942Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "LATAM"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 84,
+      "engagement": 0,
+      "raw_data": {
+        "title": "Brazil Approves First Licensed Stablecoin Issuer",
+        "description": "Brazilian Central Bank grants approval to local fintech for BRL-backed stablecoin issuance.",
+        "content": "Brazilian Central Bank grants approval to local fintech for BRL-backed stablecoin issuance. [Full article content would be here...]",
+        "url": "https://example.com/news/7",
+        "source": {
+          "name": "Cointelegraph",
+          "id": "cointelegraph"
+        },
+        "author": "John Smith",
+        "publishedAt": "2026-01-18T18:36:23.577942Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "LATAM"
+        ],
+        "mentioned_coins": [],
+        "relevance_score": 84,
+        "priority_weight": 1.0,
+        "search_keyword": "PayPal PYUSD",
+        "source_quality": "medium"
+      }
+    },
+    {
+      "id": "news_45b4dff41969",
+      "title": "IMF Proposes Global Stablecoin Regulatory Framework",
+      "content": "International Monetary Fund calls for coordinated international approach to stablecoin regulation.",
+      "url": "https://example.com/news/21",
+      "source": "Bloomberg",
+      "source_type": "news",
+      "author": "Jane Doe",
+      "published_at": "2026-01-19T01:36:23.577942Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 76,
+      "engagement": 0,
+      "raw_data": {
+        "title": "IMF Proposes Global Stablecoin Regulatory Framework",
+        "description": "International Monetary Fund calls for coordinated international approach to stablecoin regulation.",
+        "content": "International Monetary Fund calls for coordinated international approach to stablecoin regulation. [Full article content would be here...]",
+        "url": "https://example.com/news/21",
+        "source": {
+          "name": "Bloomberg",
+          "id": "bloomberg"
+        },
+        "author": "Jane Doe",
+        "publishedAt": "2026-01-19T01:36:23.577942Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [],
+        "relevance_score": 76,
+        "priority_weight": 1.5,
+        "search_keyword": "stablecoin regulation",
+        "source_quality": "high"
+      }
+    }
+  ],
+  "all_tweets": [
+    {
+      "id": "twitter_1234567894",
+      "title": "Stablecoin trading volume hits record $100B in 24 hours. USDT dominates with 65% share.",
+      "content": "Stablecoin trading volume hits record $100B in 24 hours. USDT dominates with 65% share.",
+      "url": "https://twitter.com/circle/status/1234567894",
+      "source": "@circle",
+      "source_type": "twitter",
+      "author": "circle",
+      "published_at": "2026-01-19T03:42:57.119916Z",
+      "categories": [
+        "market"
+      ],
+      "regions": [
+        "US"
+      ],
+      "mentioned_coins": [
+        "USDT"
+      ],
+      "quality_score": 84,
+      "engagement": 2906,
+      "raw_data": {
+        "id": "1234567894",
+        "text": "Stablecoin trading volume hits record $100B in 24 hours. USDT dominates with 65% share.",
+        "author_username": "circle",
+        "author_verified": true,
+        "author_followers": 500000,
+        "created_at": "2026-01-19T03:42:57.119916Z",
+        "public_metrics": {
+          "like_count": 1284,
+          "retweet_count": 673,
+          "reply_count": 92
+        },
+        "categories": [
+          "market"
+        ],
+        "regions": [
+          "US"
+        ],
+        "mentioned_stablecoins": [
+          "USDT"
+        ],
+        "quality_score": 84,
+        "url": "https://twitter.com/circle/status/1234567894"
+      }
+    },
+    {
+      "id": "twitter_1234567899",
+      "title": "EU MiCA regulations taking effect next month. Stablecoin issuers must comply by Feb 2025.",
+      "content": "EU MiCA regulations taking effect next month. Stablecoin issuers must comply by Feb 2025.",
+      "url": "https://twitter.com/MessariCrypto/status/1234567899",
+      "source": "@MessariCrypto",
+      "source_type": "twitter",
+      "author": "MessariCrypto",
+      "published_at": "2026-01-19T06:12:57.119916Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "US",
+        "EU"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 73,
+      "engagement": 2229,
+      "raw_data": {
+        "id": "1234567899",
+        "text": "EU MiCA regulations taking effect next month. Stablecoin issuers must comply by Feb 2025.",
+        "author_username": "MessariCrypto",
+        "author_verified": true,
+        "author_followers": 300000,
+        "created_at": "2026-01-19T06:12:57.119916Z",
+        "public_metrics": {
+          "like_count": 1145,
+          "retweet_count": 281,
+          "reply_count": 174
+        },
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "US",
+          "EU"
+        ],
+        "mentioned_stablecoins": [],
+        "quality_score": 73,
+        "url": "https://twitter.com/MessariCrypto/status/1234567899"
+      }
+    },
+    {
+      "id": "twitter_1234567903",
+      "title": "Singapore MAS approves new stablecoin framework. Big win for crypto adoption in Asia!",
+      "content": "Singapore MAS approves new stablecoin framework. Big win for crypto adoption in Asia!",
+      "url": "https://twitter.com/coinbase/status/1234567903",
+      "source": "@coinbase",
+      "source_type": "twitter",
+      "author": "coinbase",
+      "published_at": "2026-01-19T08:12:57.119916Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 71,
+      "engagement": 2228,
+      "raw_data": {
+        "id": "1234567903",
+        "text": "Singapore MAS approves new stablecoin framework. Big win for crypto adoption in Asia!",
+        "author_username": "coinbase",
+        "author_verified": true,
+        "author_followers": 5000000,
+        "created_at": "2026-01-19T08:12:57.119916Z",
+        "public_metrics": {
+          "like_count": 736,
+          "retweet_count": 593,
+          "reply_count": 102
+        },
+        "categories": [
+          "general"
+        ],
+        "regions": [
+          "Asia"
+        ],
+        "mentioned_stablecoins": [],
+        "quality_score": 71,
+        "url": "https://twitter.com/coinbase/status/1234567903"
+      }
+    },
+    {
+      "id": "twitter_1234567896",
+      "title": "Breaking: Coinbase partners with Visa for USDC settlement. Real-time payments now live.",
+      "content": "Breaking: Coinbase partners with Visa for USDC settlement. Real-time payments now live.",
+      "url": "https://twitter.com/paxos/status/1234567896",
+      "source": "@paxos",
+      "source_type": "twitter",
+      "author": "paxos",
+      "published_at": "2026-01-19T04:42:57.119916Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "US"
+      ],
+      "mentioned_coins": [
+        "USDC"
+      ],
+      "quality_score": 71,
+      "engagement": 2705,
+      "raw_data": {
+        "id": "1234567896",
+        "text": "Breaking: Coinbase partners with Visa for USDC settlement. Real-time payments now live.",
+        "author_username": "paxos",
+        "author_verified": true,
+        "author_followers": 200000,
+        "created_at": "2026-01-19T04:42:57.119916Z",
+        "public_metrics": {
+          "like_count": 1408,
+          "retweet_count": 353,
+          "reply_count": 197
+        },
+        "categories": [
+          "general"
+        ],
+        "regions": [
+          "US"
+        ],
+        "mentioned_stablecoins": [
+          "USDC"
+        ],
+        "quality_score": 71,
+        "url": "https://twitter.com/paxos/status/1234567896"
+      }
+    },
+    {
+      "id": "twitter_1234567897",
+      "title": "Hong Kong regulatory sandbox welcomes 3 new stablecoin issuers. HKD stablecoins coming soon.",
+      "content": "Hong Kong regulatory sandbox welcomes 3 new stablecoin issuers. HKD stablecoins coming soon.",
+      "url": "https://twitter.com/circle/status/1234567897",
+      "source": "@circle",
+      "source_type": "twitter",
+      "author": "circle",
+      "published_at": "2026-01-19T05:12:57.119916Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 68,
+      "engagement": 1154,
+      "raw_data": {
+        "id": "1234567897",
+        "text": "Hong Kong regulatory sandbox welcomes 3 new stablecoin issuers. HKD stablecoins coming soon.",
+        "author_username": "circle",
+        "author_verified": true,
+        "author_followers": 500000,
+        "created_at": "2026-01-19T05:12:57.119916Z",
+        "public_metrics": {
+          "like_count": 225,
+          "retweet_count": 208,
+          "reply_count": 171
+        },
+        "categories": [
+          "general"
+        ],
+        "regions": [
+          "Asia"
+        ],
+        "mentioned_stablecoins": [],
+        "quality_score": 68,
+        "url": "https://twitter.com/circle/status/1234567897"
+      }
+    },
+    {
+      "id": "twitter_1234567895",
+      "title": "PayPal PYUSD reaches $1B market cap. Impressive growth in just 6 months.",
+      "content": "PayPal PYUSD reaches $1B market cap. Impressive growth in just 6 months.",
+      "url": "https://twitter.com/paxos/status/1234567895",
+      "source": "@paxos",
+      "source_type": "twitter",
+      "author": "paxos",
+      "published_at": "2026-01-19T04:12:57.119916Z",
+      "categories": [
+        "market"
+      ],
+      "regions": [
+        "US"
+      ],
+      "mentioned_coins": [
+        "PYUSD"
+      ],
+      "quality_score": 68,
+      "engagement": 2034,
+      "raw_data": {
+        "id": "1234567895",
+        "text": "PayPal PYUSD reaches $1B market cap. Impressive growth in just 6 months.",
+        "author_username": "paxos",
+        "author_verified": true,
+        "author_followers": 200000,
+        "created_at": "2026-01-19T04:12:57.119916Z",
+        "public_metrics": {
+          "like_count": 1467,
+          "retweet_count": 261,
+          "reply_count": 15
+        },
+        "categories": [
+          "market"
+        ],
+        "regions": [
+          "US"
+        ],
+        "mentioned_stablecoins": [
+          "PYUSD"
+        ],
+        "quality_score": 68,
+        "url": "https://twitter.com/paxos/status/1234567895"
+      }
+    },
+    {
+      "id": "twitter_1234567891",
+      "title": "BREAKINGB #USDT",
+      "content": "BREAKINGB #USDT",
+      "url": "https://twitter.com/coinbase/status/1234567891",
+      "source": "@coinbase",
+      "source_type": "twitter",
+      "author": "coinbase",
+      "published_at": "2026-01-19T02:12:57.119916Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "US"
+      ],
+      "mentioned_coins": [
+        "USDT"
+      ],
+      "quality_score": 68,
+      "engagement": 2699,
+      "raw_data": {
+        "id": "1234567891",
+        "text": "BREAKINGB #USDT",
+        "author_username": "coinbase",
+        "author_verified": true,
+        "author_followers": 5000000,
+        "created_at": "2026-01-19T02:12:57.119916Z",
+        "public_metrics": {
+          "like_count": 768,
+          "retweet_count": 703,
+          "reply_count": 175
+        },
+        "categories": [
+          "general"
+        ],
+        "regions": [
+          "US"
+        ],
+        "mentioned_stablecoins": [
+          "USDT"
+        ],
+        "quality_score": 68,
+        "url": "https://twitter.com/coinbase/status/1234567891"
+      }
+    },
+    {
+      "id": "twitter_1234567890",
+      "title": "IMF report: Stablecoins pose systemic risk if not properly regulated. Calls for global standards.",
+      "content": "IMF report: Stablecoins pose systemic risk if not properly regulated. Calls for global standards.",
+      "url": "https://twitter.com/coinbase/status/1234567890",
+      "source": "@coinbase",
+      "source_type": "twitter",
+      "author": "coinbase",
+      "published_at": "2026-01-19T01:42:57.119916Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 68,
+      "engagement": 2226,
+      "raw_data": {
+        "id": "1234567890",
+        "text": "IMF report: Stablecoins pose systemic risk if not properly regulated. Calls for global standards.",
+        "author_username": "coinbase",
+        "author_verified": true,
+        "author_followers": 5000000,
+        "created_at": "2026-01-19T01:42:57.119916Z",
+        "public_metrics": {
+          "like_count": 314,
+          "retweet_count": 698,
+          "reply_count": 172
+        },
+        "categories": [
+          "general"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_stablecoins": [],
+        "quality_score": 68,
+        "url": "https://twitter.com/coinbase/status/1234567890"
+      }
+    }
+  ],
+  "by_category": {
+    "company": [
+      {
+        "id": "news_c4e347b5fbc0",
+        "title": "Visa Expands USDC Settlement to 60+ Countries",
+        "content": "Payment giant Visa announces major expansion of stablecoin settlement capabilities.",
+        "url": "https://example.com/news/31",
+        "source": "Reuters",
+        "source_type": "news",
+        "author": "Editorial Team",
+        "published_at": "2026-01-20T05:49:59.846510Z",
+        "categories": [
+          "company",
+          "market"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [
+          "USDC"
+        ],
+        "quality_score": 98,
+        "engagement": 0,
+        "raw_data": {
+          "title": "Visa Expands USDC Settlement to 60+ Countries",
+          "description": "Payment giant Visa announces major expansion of stablecoin settlement capabilities.",
+          "content": "Payment giant Visa announces major expansion of stablecoin settlement capabilities. [Full article content would be here...]",
+          "url": "https://example.com/news/31",
+          "source": {
+            "name": "Reuters",
+            "id": "reuters"
+          },
+          "author": "Editorial Team",
+          "publishedAt": "2026-01-20T05:49:59.846510Z",
+          "categories": [
+            "company",
+            "market"
+          ],
+          "regions": [
+            "Global"
+          ],
+          "mentioned_coins": [
+            "USDC"
+          ],
+          "relevance_score": 98,
+          "priority_weight": 1.5,
+          "search_keyword": "PayPal PYUSD",
+          "source_quality": "high"
+        }
+      },
+      {
+        "id": "news_ac6fb1d43827",
+        "title": "Tether Reports Record $5.2B Net Profit in 2024",
+        "content": "Stablecoin issuer Tether announces record annual profits driven by US Treasury yields.",
+        "url": "https://example.com/news/1",
+        "source": "Reuters",
+        "source_type": "news",
+        "author": "Jane Doe",
+        "published_at": "2026-01-19T14:49:59.846510Z",
+        "categories": [
+          "company"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [
+          "USDT"
+        ],
+        "quality_score": 94,
+        "engagement": 0,
+        "raw_data": {
+          "title": "Tether Reports Record $5.2B Net Profit in 2024",
+          "description": "Stablecoin issuer Tether announces record annual profits driven by US Treasury yields.",
+          "content": "Stablecoin issuer Tether announces record annual profits driven by US Treasury yields. [Full article content would be here...]",
+          "url": "https://example.com/news/1",
+          "source": {
+            "name": "Reuters",
+            "id": "reuters"
+          },
+          "author": "Jane Doe",
+          "publishedAt": "2026-01-19T14:49:59.846510Z",
+          "categories": [
+            "company"
+          ],
+          "regions": [
+            "Global"
+          ],
+          "mentioned_coins": [
+            "USDT"
+          ],
+          "relevance_score": 94,
+          "priority_weight": 1.5,
+          "search_keyword": "stablecoin market",
+          "source_quality": "high"
+        }
+      },
+      {
+        "id": "news_5364c3908f02",
+        "title": "Paxos Expands Stablecoin to Solana and Polygon",
+        "content": "Regulated stablecoin issuer Paxos launches USDP on additional blockchain networks.",
+        "url": "https://example.com/news/29",
+        "source": "Financial Times",
+        "source_type": "news",
+        "author": "Editorial Team",
+        "published_at": "2026-01-20T04:49:59.846510Z",
+        "categories": [
+          "company"
+        ],
+        "regions": [
+          "US"
+        ],
+        "mentioned_coins": [
+          "USDP"
+        ],
+        "quality_score": 93,
+        "engagement": 0,
+        "raw_data": {
+          "title": "Paxos Expands Stablecoin to Solana and Polygon",
+          "description": "Regulated stablecoin issuer Paxos launches USDP on additional blockchain networks.",
+          "content": "Regulated stablecoin issuer Paxos launches USDP on additional blockchain networks. [Full article content would be here...]",
+          "url": "https://example.com/news/29",
+          "source": {
+            "name": "Financial Times",
+            "id": "financial-times"
+          },
+          "author": "Editorial Team",
+          "publishedAt": "2026-01-20T04:49:59.846510Z",
+          "categories": [
+            "company"
+          ],
+          "regions": [
+            "US"
+          ],
+          "mentioned_coins": [
+            "USDP"
+          ],
+          "relevance_score": 93,
+          "priority_weight": 1.0,
+          "search_keyword": "USDC Circle",
+          "source_quality": "high"
+        }
+      },
+      {
+        "id": "news_c4e347b5fbc0",
+        "title": "Paxos Expands Stablecoin to Solana and Polygon",
+        "content": "Regulated stablecoin issuer Paxos launches USDP on additional blockchain networks.",
+        "url": "https://example.com/news/31",
+        "source": "Reuters",
+        "source_type": "news",
+        "author": "John Smith",
+        "published_at": "2026-01-19T06:36:23.577942Z",
+        "categories": [
+          "company"
+        ],
+        "regions": [
+          "US"
+        ],
+        "mentioned_coins": [
+          "USDP"
+        ],
+        "quality_score": 98,
+        "engagement": 0,
+        "raw_data": {
+          "title": "Paxos Expands Stablecoin to Solana and Polygon",
+          "description": "Regulated stablecoin issuer Paxos launches USDP on additional blockchain networks.",
+          "content": "Regulated stablecoin issuer Paxos launches USDP on additional blockchain networks. [Full article content would be here...]",
+          "url": "https://example.com/news/31",
+          "source": {
+            "name": "Reuters",
+            "id": "reuters"
+          },
+          "author": "John Smith",
+          "publishedAt": "2026-01-19T06:36:23.577942Z",
+          "categories": [
+            "company"
+          ],
+          "regions": [
+            "US"
+          ],
+          "mentioned_coins": [
+            "USDP"
+          ],
+          "relevance_score": 98,
+          "priority_weight": 1.0,
+          "search_keyword": "USDC Circle",
+          "source_quality": "high"
+        }
+      },
+      {
+        "id": "news_d43bb61b807d",
+        "title": "Circle Secures Payment Institution License in Singapore",
+        "content": "Circle Internet Financial has been granted a Major Payment Institution license by the Monetary Authority of Singapore (MAS).",
+        "url": "https://example.com/news/19",
+        "source": "Cointelegraph",
+        "source_type": "news",
+        "author": "Editorial Team",
+        "published_at": "2026-01-19T00:36:23.577942Z",
+        "categories": [
+          "company"
+        ],
+        "regions": [
+          "Asia"
+        ],
+        "mentioned_coins": [
+          "USDC"
+        ],
+        "quality_score": 97,
+        "engagement": 0,
+        "raw_data": {
+          "title": "Circle Secures Payment Institution License in Singapore",
+          "description": "Circle Internet Financial has been granted a Major Payment Institution license by the Monetary Authority of Singapore (MAS).",
+          "content": "Circle Internet Financial has been granted a Major Payment Institution license by the Monetary Authority of Singapore (MAS). [Full article content would be here...]",
+          "url": "https://example.com/news/19",
+          "source": {
+            "name": "Cointelegraph",
+            "id": "cointelegraph"
+          },
+          "author": "Editorial Team",
+          "publishedAt": "2026-01-19T00:36:23.577942Z",
+          "categories": [
+            "company"
+          ],
+          "regions": [
+            "Asia"
+          ],
+          "mentioned_coins": [
+            "USDC"
+          ],
+          "relevance_score": 97,
+          "priority_weight": 1.5,
+          "search_keyword": "PayPal PYUSD",
+          "source_quality": "medium"
+        }
+      },
+      {
+        "id": "news_f5175f61e4ec",
+        "title": "Tether Reports Record $5.2B Net Profit in 2024",
+        "content": "Stablecoin issuer Tether announces record annual profits driven by US Treasury yields.",
+        "url": "https://example.com/news/25",
+        "source": "The Block",
+        "source_type": "news",
+        "author": "John Smith",
+        "published_at": "2026-01-19T03:36:23.577942Z",
+        "categories": [
+          "company"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [
+          "USDT"
+        ],
+        "quality_score": 96,
+        "engagement": 0,
+        "raw_data": {
+          "title": "Tether Reports Record $5.2B Net Profit in 2024",
+          "description": "Stablecoin issuer Tether announces record annual profits driven by US Treasury yields.",
+          "content": "Stablecoin issuer Tether announces record annual profits driven by US Treasury yields. [Full article content would be here...]",
+          "url": "https://example.com/news/25",
+          "source": {
+            "name": "The Block",
+            "id": "the-block"
+          },
+          "author": "John Smith",
+          "publishedAt": "2026-01-19T03:36:23.577942Z",
+          "categories": [
+            "company"
+          ],
+          "regions": [
+            "Global"
+          ],
+          "mentioned_coins": [
+            "USDT"
+          ],
+          "relevance_score": 96,
+          "priority_weight": 1.5,
+          "search_keyword": "Tether USDT",
+          "source_quality": "medium"
+        }
+      },
+      {
+        "id": "news_ba7396c0c041",
+        "title": "Visa Expands USDC Settlement to 60+ Countries",
+        "content": "Payment giant Visa announces major expansion of stablecoin settlement capabilities.",
+        "url": "https://example.com/news/5",
+        "source": "Cointelegraph",
+        "source_type": "news",
+        "author": "Editorial Team",
+        "published_at": "2026-01-18T17:36:23.577942Z",
+        "categories": [
+          "company"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [
+          "USDC"
+        ],
+        "quality_score": 94,
+        "engagement": 0,
+        "raw_data": {
+          "title": "Visa Expands USDC Settlement to 60+ Countries",
+          "description": "Payment giant Visa announces major expansion of stablecoin settlement capabilities.",
+          "content": "Payment giant Visa announces major expansion of stablecoin settlement capabilities. [Full article content would be here...]",
+          "url": "https://example.com/news/5",
+          "source": {
+            "name": "Cointelegraph",
+            "id": "cointelegraph"
+          },
+          "author": "Editorial Team",
+          "publishedAt": "2026-01-18T17:36:23.577942Z",
+          "categories": [
+            "company"
+          ],
+          "regions": [
+            "Global"
+          ],
+          "mentioned_coins": [
+            "USDC"
+          ],
+          "relevance_score": 94,
+          "priority_weight": 1.5,
+          "search_keyword": "Tether USDT",
+          "source_quality": "medium"
+        }
+      }
+    ],
+    "funding": [
+      {
+        "id": "news_6fd64faf343c",
+        "title": "Global Stablecoin Market Cap Surpasses $180 Billion",
+        "content": "Total stablecoin market capitalization reaches new all-time high amid institutional adoption.",
+        "url": "https://example.com/news/23",
+        "source": "CoinDesk",
+        "source_type": "news",
+        "author": "Staff Writer",
+        "published_at": "2026-01-20T01:49:59.846510Z",
+        "categories": [
+          "funding",
+          "market"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [
+          "USDC",
+          "USDT"
+        ],
+        "quality_score": 98,
+        "engagement": 0,
+        "raw_data": {
+          "title": "Global Stablecoin Market Cap Surpasses $180 Billion",
+          "description": "Total stablecoin market capitalization reaches new all-time high amid institutional adoption.",
+          "content": "Total stablecoin market capitalization reaches new all-time high amid institutional adoption. [Full article content would be here...]",
+          "url": "https://example.com/news/23",
+          "source": {
+            "name": "CoinDesk",
+            "id": "coindesk"
+          },
+          "author": "Staff Writer",
+          "publishedAt": "2026-01-20T01:49:59.846510Z",
+          "categories": [
+            "funding",
+            "market"
+          ],
+          "regions": [
+            "Global"
+          ],
+          "mentioned_coins": [
+            "USDC",
+            "USDT"
+          ],
+          "relevance_score": 98,
+          "priority_weight": 1.0,
+          "search_keyword": "USDC Circle",
+          "source_quality": "medium"
+        }
+      }
+    ],
+    "policy": [
+      {
+        "id": "news_ac4217c0eb42",
+        "title": "ECB Publishes Stablecoin Risk Assessment Report",
+        "content": "European Central Bank warns about potential systemic risks from widespread stablecoin adoption.",
+        "url": "https://example.com/news/7",
+        "source": "Reuters",
+        "source_type": "news",
+        "author": "Editorial Team",
+        "published_at": "2026-01-19T17:49:59.846510Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "EU"
+        ],
+        "mentioned_coins": [],
+        "quality_score": 97,
+        "engagement": 0,
+        "raw_data": {
+          "title": "ECB Publishes Stablecoin Risk Assessment Report",
+          "description": "European Central Bank warns about potential systemic risks from widespread stablecoin adoption.",
+          "content": "European Central Bank warns about potential systemic risks from widespread stablecoin adoption. [Full article content would be here...]",
+          "url": "https://example.com/news/7",
+          "source": {
+            "name": "Reuters",
+            "id": "reuters"
+          },
+          "author": "Editorial Team",
+          "publishedAt": "2026-01-19T17:49:59.846510Z",
+          "categories": [
+            "policy"
+          ],
+          "regions": [
+            "EU"
+          ],
+          "mentioned_coins": [],
+          "relevance_score": 97,
+          "priority_weight": 1.0,
+          "search_keyword": "stablecoin regulation",
+          "source_quality": "high"
+        }
+      },
+      {
+        "id": "news_a4d7aa64aa94",
+        "title": "Brazil Approves First Licensed Stablecoin Issuer",
+        "content": "Brazilian Central Bank grants approval to local fintech for BRL-backed stablecoin issuance.",
+        "url": "https://example.com/news/2",
+        "source": "Financial Times",
+        "source_type": "news",
+        "author": "Editorial Team",
+        "published_at": "2026-01-19T15:19:59.846510Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "LATAM"
+        ],
+        "mentioned_coins": [],
+        "quality_score": 96,
+        "engagement": 0,
+        "raw_data": {
+          "title": "Brazil Approves First Licensed Stablecoin Issuer",
+          "description": "Brazilian Central Bank grants approval to local fintech for BRL-backed stablecoin issuance.",
+          "content": "Brazilian Central Bank grants approval to local fintech for BRL-backed stablecoin issuance. [Full article content would be here...]",
+          "url": "https://example.com/news/2",
+          "source": {
+            "name": "Financial Times",
+            "id": "financial-times"
+          },
+          "author": "Editorial Team",
+          "publishedAt": "2026-01-19T15:19:59.846510Z",
+          "categories": [
+            "policy"
+          ],
+          "regions": [
+            "LATAM"
+          ],
+          "mentioned_coins": [],
+          "relevance_score": 96,
+          "priority_weight": 1.0,
+          "search_keyword": "Tether USDT",
+          "source_quality": "high"
+        }
+      },
+      {
+        "id": "news_31b2b441c455",
+        "title": "IMF Proposes Global Stablecoin Regulatory Framework",
+        "content": "International Monetary Fund calls for coordinated international approach to stablecoin regulation.",
+        "url": "https://example.com/news/22",
+        "source": "Reuters",
+        "source_type": "news",
+        "author": "Editorial Team",
+        "published_at": "2026-01-20T01:19:59.846510Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [],
+        "quality_score": 90,
+        "engagement": 0,
+        "raw_data": {
+          "title": "IMF Proposes Global Stablecoin Regulatory Framework",
+          "description": "International Monetary Fund calls for coordinated international approach to stablecoin regulation.",
+          "content": "International Monetary Fund calls for coordinated international approach to stablecoin regulation. [Full article content would be here...]",
+          "url": "https://example.com/news/22",
+          "source": {
+            "name": "Reuters",
+            "id": "reuters"
+          },
+          "author": "Editorial Team",
+          "publishedAt": "2026-01-20T01:19:59.846510Z",
+          "categories": [
+            "policy"
+          ],
+          "regions": [
+            "Global"
+          ],
+          "mentioned_coins": [],
+          "relevance_score": 90,
+          "priority_weight": 1.5,
+          "search_keyword": "stablecoin regulation",
+          "source_quality": "high"
+        }
+      },
+      {
+        "id": "news_82202a050ff4",
+        "title": "Circle Secures Payment Institution License in Singapore",
+        "content": "Circle Internet Financial has been granted a Major Payment Institution license by the Monetary Authority of Singapore (MAS).",
+        "url": "https://example.com/news/20",
+        "source": "Reuters",
+        "source_type": "news",
+        "author": "Jane Doe",
+        "published_at": "2026-01-20T00:19:59.846510Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "Asia"
+        ],
+        "mentioned_coins": [
+          "USDC"
+        ],
+        "quality_score": 85,
+        "engagement": 0,
+        "raw_data": {
+          "title": "Circle Secures Payment Institution License in Singapore",
+          "description": "Circle Internet Financial has been granted a Major Payment Institution license by the Monetary Authority of Singapore (MAS).",
+          "content": "Circle Internet Financial has been granted a Major Payment Institution license by the Monetary Authority of Singapore (MAS). [Full article content would be here...]",
+          "url": "https://example.com/news/20",
+          "source": {
+            "name": "Reuters",
+            "id": "reuters"
+          },
+          "author": "Jane Doe",
+          "publishedAt": "2026-01-20T00:19:59.846510Z",
+          "categories": [
+            "policy"
+          ],
+          "regions": [
+            "Asia"
+          ],
+          "mentioned_coins": [
+            "USDC"
+          ],
+          "relevance_score": 85,
+          "priority_weight": 1.5,
+          "search_keyword": "USDC Circle",
+          "source_quality": "high"
+        }
+      },
+      {
+        "id": "news_91c7f7c5dac5",
+        "title": "Hong Kong Launches HKD Stablecoin Sandbox Program",
+        "content": "HKMA invites licensed institutions to participate in pilot program for Hong Kong dollar stablecoins.",
+        "url": "https://example.com/news/26",
+        "source": "CoinDesk",
+        "source_type": "news",
+        "author": "Staff Writer",
+        "published_at": "2026-01-20T03:19:59.846510Z",
+        "categories": [
+          "policy",
+          "company"
+        ],
+        "regions": [
+          "Asia"
+        ],
+        "mentioned_coins": [],
+        "quality_score": 82,
+        "engagement": 0,
+        "raw_data": {
+          "title": "Hong Kong Launches HKD Stablecoin Sandbox Program",
+          "description": "HKMA invites licensed institutions to participate in pilot program for Hong Kong dollar stablecoins.",
+          "content": "HKMA invites licensed institutions to participate in pilot program for Hong Kong dollar stablecoins. [Full article content would be here...]",
+          "url": "https://example.com/news/26",
+          "source": {
+            "name": "CoinDesk",
+            "id": "coindesk"
+          },
+          "author": "Staff Writer",
+          "publishedAt": "2026-01-20T03:19:59.846510Z",
+          "categories": [
+            "policy",
+            "company"
+          ],
+          "regions": [
+            "Asia"
+          ],
+          "mentioned_coins": [],
+          "relevance_score": 82,
+          "priority_weight": 1.0,
+          "search_keyword": "stablecoin market",
+          "source_quality": "medium"
+        }
+      },
+      {
+        "id": "news_ad72c179d27a",
+        "title": "US House Financial Services Committee Advances Stablecoin Bill",
+        "content": "US House advances federal framework for stablecoin regulation.",
+        "url": "https://example.com/news/11",
+        "source": "Wall Street Journal",
+        "source_type": "news",
+        "author": "Staff Writer",
+        "published_at": "2026-01-19T19:49:59.846510Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "US"
+        ],
+        "mentioned_coins": [
+          "USDC",
+          "USDT"
+        ],
+        "quality_score": 78,
+        "engagement": 0,
+        "raw_data": {
+          "title": "US House Financial Services Committee Advances Stablecoin Bill",
+          "description": "US House advances federal framework for stablecoin regulation.",
+          "content": "US House advances federal framework for stablecoin regulation. [Full article content would be here...]",
+          "url": "https://example.com/news/11",
+          "source": {
+            "name": "Wall Street Journal",
+            "id": "wall-street-journal"
+          },
+          "author": "Staff Writer",
+          "publishedAt": "2026-01-19T19:49:59.846510Z",
+          "categories": [
+            "policy"
+          ],
+          "regions": [
+            "US"
+          ],
+          "mentioned_coins": [
+            "USDC",
+            "USDT"
+          ],
+          "relevance_score": 78,
+          "priority_weight": 1.5,
+          "search_keyword": "Tether USDT",
+          "source_quality": "high"
+        }
+      },
+      {
+        "id": "news_5b8e72b78ba4",
+        "title": "Hong Kong Launches HKD Stablecoin Sandbox Program",
+        "content": "HKMA invites licensed institutions to participate in pilot program for Hong Kong dollar stablecoins.",
+        "url": "https://example.com/news/33",
+        "source": "Reuters",
+        "source_type": "news",
+        "author": "Editorial Team",
+        "published_at": "2026-01-19T07:36:23.577942Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "Asia"
+        ],
+        "mentioned_coins": [],
+        "quality_score": 98,
+        "engagement": 0,
+        "raw_data": {
+          "title": "Hong Kong Launches HKD Stablecoin Sandbox Program",
+          "description": "HKMA invites licensed institutions to participate in pilot program for Hong Kong dollar stablecoins.",
+          "content": "HKMA invites licensed institutions to participate in pilot program for Hong Kong dollar stablecoins. [Full article content would be here...]",
+          "url": "https://example.com/news/33",
+          "source": {
+            "name": "Reuters",
+            "id": "reuters"
+          },
+          "author": "Editorial Team",
+          "publishedAt": "2026-01-19T07:36:23.577942Z",
+          "categories": [
+            "policy"
+          ],
+          "regions": [
+            "Asia"
+          ],
+          "mentioned_coins": [],
+          "relevance_score": 98,
+          "priority_weight": 1.0,
+          "search_keyword": "stablecoin market",
+          "source_quality": "high"
+        }
+      },
+      {
+        "id": "news_c4db3e6d14a9",
+        "title": "US House Financial Services Committee Advances Stablecoin Bill",
+        "content": "US House advances federal framework for stablecoin regulation.",
+        "url": "https://example.com/news/3",
+        "source": "Bloomberg",
+        "source_type": "news",
+        "author": "Jane Doe",
+        "published_at": "2026-01-18T16:36:23.577942Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "US"
+        ],
+        "mentioned_coins": [
+          "USDC",
+          "USDT"
+        ],
+        "quality_score": 89,
+        "engagement": 0,
+        "raw_data": {
+          "title": "US House Financial Services Committee Advances Stablecoin Bill",
+          "description": "US House advances federal framework for stablecoin regulation.",
+          "content": "US House advances federal framework for stablecoin regulation. [Full article content would be here...]",
+          "url": "https://example.com/news/3",
+          "source": {
+            "name": "Bloomberg",
+            "id": "bloomberg"
+          },
+          "author": "Jane Doe",
+          "publishedAt": "2026-01-18T16:36:23.577942Z",
+          "categories": [
+            "policy"
+          ],
+          "regions": [
+            "US"
+          ],
+          "mentioned_coins": [
+            "USDC",
+            "USDT"
+          ],
+          "relevance_score": 89,
+          "priority_weight": 1.5,
+          "search_keyword": "Tether USDT",
+          "source_quality": "high"
+        }
+      },
+      {
+        "id": "news_9373d4665f8a",
+        "title": "ECB Publishes Stablecoin Risk Assessment Report",
+        "content": "European Central Bank warns about potential systemic risks from widespread stablecoin adoption.",
+        "url": "https://example.com/news/15",
+        "source": "Financial Times",
+        "source_type": "news",
+        "author": "Jane Doe",
+        "published_at": "2026-01-18T22:36:23.577942Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "EU"
+        ],
+        "mentioned_coins": [],
+        "quality_score": 88,
+        "engagement": 0,
+        "raw_data": {
+          "title": "ECB Publishes Stablecoin Risk Assessment Report",
+          "description": "European Central Bank warns about potential systemic risks from widespread stablecoin adoption.",
+          "content": "European Central Bank warns about potential systemic risks from widespread stablecoin adoption. [Full article content would be here...]",
+          "url": "https://example.com/news/15",
+          "source": {
+            "name": "Financial Times",
+            "id": "financial-times"
+          },
+          "author": "Jane Doe",
+          "publishedAt": "2026-01-18T22:36:23.577942Z",
+          "categories": [
+            "policy"
+          ],
+          "regions": [
+            "EU"
+          ],
+          "mentioned_coins": [],
+          "relevance_score": 88,
+          "priority_weight": 1.0,
+          "search_keyword": "stablecoin regulation",
+          "source_quality": "high"
+        }
+      },
+      {
+        "id": "news_ac4217c0eb42",
+        "title": "Brazil Approves First Licensed Stablecoin Issuer",
+        "content": "Brazilian Central Bank grants approval to local fintech for BRL-backed stablecoin issuance.",
+        "url": "https://example.com/news/7",
+        "source": "Cointelegraph",
+        "source_type": "news",
+        "author": "John Smith",
+        "published_at": "2026-01-18T18:36:23.577942Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "LATAM"
+        ],
+        "mentioned_coins": [],
+        "quality_score": 84,
+        "engagement": 0,
+        "raw_data": {
+          "title": "Brazil Approves First Licensed Stablecoin Issuer",
+          "description": "Brazilian Central Bank grants approval to local fintech for BRL-backed stablecoin issuance.",
+          "content": "Brazilian Central Bank grants approval to local fintech for BRL-backed stablecoin issuance. [Full article content would be here...]",
+          "url": "https://example.com/news/7",
+          "source": {
+            "name": "Cointelegraph",
+            "id": "cointelegraph"
+          },
+          "author": "John Smith",
+          "publishedAt": "2026-01-18T18:36:23.577942Z",
+          "categories": [
+            "policy"
+          ],
+          "regions": [
+            "LATAM"
+          ],
+          "mentioned_coins": [],
+          "relevance_score": 84,
+          "priority_weight": 1.0,
+          "search_keyword": "PayPal PYUSD",
+          "source_quality": "medium"
+        }
+      },
+      {
+        "id": "news_45b4dff41969",
+        "title": "IMF Proposes Global Stablecoin Regulatory Framework",
+        "content": "International Monetary Fund calls for coordinated international approach to stablecoin regulation.",
+        "url": "https://example.com/news/21",
+        "source": "Bloomberg",
+        "source_type": "news",
+        "author": "Jane Doe",
+        "published_at": "2026-01-19T01:36:23.577942Z",
+        "categories": [
+          "policy"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [],
+        "quality_score": 76,
+        "engagement": 0,
+        "raw_data": {
+          "title": "IMF Proposes Global Stablecoin Regulatory Framework",
+          "description": "International Monetary Fund calls for coordinated international approach to stablecoin regulation.",
+          "content": "International Monetary Fund calls for coordinated international approach to stablecoin regulation. [Full article content would be here...]",
+          "url": "https://example.com/news/21",
+          "source": {
+            "name": "Bloomberg",
+            "id": "bloomberg"
+          },
+          "author": "Jane Doe",
+          "publishedAt": "2026-01-19T01:36:23.577942Z",
+          "categories": [
+            "policy"
+          ],
+          "regions": [
+            "Global"
+          ],
+          "mentioned_coins": [],
+          "relevance_score": 76,
+          "priority_weight": 1.5,
+          "search_keyword": "stablecoin regulation",
+          "source_quality": "high"
+        }
+      }
+    ],
+    "market": [
+      {
+        "id": "news_82202a050ff4",
+        "title": "Global Stablecoin Market Cap Surpasses $180 Billion",
+        "content": "Total stablecoin market capitalization reaches new all-time high amid institutional adoption.",
+        "url": "https://example.com/news/20",
+        "source": "Decrypt",
+        "source_type": "news",
+        "author": "John Smith",
+        "published_at": "2026-01-19T01:06:23.577942Z",
+        "categories": [
+          "market"
+        ],
+        "regions": [
+          "Global"
+        ],
+        "mentioned_coins": [
+          "USDC",
+          "USDT"
+        ],
+        "quality_score": 96,
+        "engagement": 0,
+        "raw_data": {
+          "title": "Global Stablecoin Market Cap Surpasses $180 Billion",
+          "description": "Total stablecoin market capitalization reaches new all-time high amid institutional adoption.",
+          "content": "Total stablecoin market capitalization reaches new all-time high amid institutional adoption. [Full article content would be here...]",
+          "url": "https://example.com/news/20",
+          "source": {
+            "name": "Decrypt",
+            "id": "decrypt"
+          },
+          "author": "John Smith",
+          "publishedAt": "2026-01-19T01:06:23.577942Z",
+          "categories": [
+            "market"
+          ],
+          "regions": [
+            "Global"
+          ],
+          "mentioned_coins": [
+            "USDC",
+            "USDT"
+          ],
+          "relevance_score": 96,
+          "priority_weight": 1.0,
+          "search_keyword": "stablecoin regulation",
+          "source_quality": "medium"
+        }
+      }
+    ]
+  }
+}
