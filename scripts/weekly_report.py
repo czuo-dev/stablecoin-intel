@@ -1,74 +1,5 @@
-# 稳定币情报周报生成器
-# 功能：自动生成 Markdown 格式的周报
-# 在文件开头添加
-from database_manager import get_recent_articles, get_database_stats
+# weekly_report.py
 
-# =========================
-# 修改数据加载函数
-# =========================
-
-def load_weekly_news():
-    """从数据库加载本周新闻"""
-    print("从数据库加载本周数据...")
-    
-    # 获取最近7天的新闻
-    weekly_news = get_recent_articles(days=7)
-    
-    print(f"✅ 加载 {len(weekly_news)} 条本周新闻")
-    
-    return weekly_news
-
-def get_weekly_stats():
-    """获取本周统计"""
-    # 从数据库获取统计
-    all_stats = get_database_stats()
-    
-    # 获取本周数据
-    weekly_news = get_recent_articles(days=7)
-    
-    # 按分类统计
-    category_count = {}
-    source_count = {}
-    
-    for news in weekly_news:
-        category = news.get('category', '未分类')
-        source = news.get('source', '未知')
-        
-        category_count[category] = category_count.get(category, 0) + 1
-        source_count[source] = source_count.get(source, 0) + 1
-    
-    return {
-        'total': len(weekly_news),
-        'categories': category_count,
-        'sources': source_count
-    }
-
-# =========================
-# 修改main函数
-# =========================
-
-def main():
-    print("=" * 60)
-    print("稳定币情报周报生成器")
-    print("=" * 60)
-    
-    # 从数据库加载数据
-    weekly_news = load_weekly_news()
-    
-    if not weekly_news:
-        print("\n⚠️  本周暂无新闻")
-        return
-    
-    # 获取统计
-    stats = get_weekly_stats()
-    
-    # 生成报告
-    report = generate_weekly_report(weekly_news, stats)
-    
-    # 保存报告
-    save_report(report)
-    
-    print("\n✅ 周报生成完成！")
 import json
 import os
 from datetime import datetime, timedelta
@@ -81,50 +12,120 @@ from collections import Counter
 REPORT_DIR = "reports"
 
 # =========================
-# 数据加载（复用）
+# 数据加载（修复版）
 # =========================
 
 def load_all_news():
-    """加载所有新闻"""
+    """加载所有新闻 - 修复版"""
     all_news = []
-    db_files = ["data/news_system_db.json", "data/news_database.json"]
+    db_files = [
+        "data/news_system_db.json",
+        "data/news_database.json"
+    ]
     
     for db_file in db_files:
-        if os.path.exists(db_file):
-            try:
-                with open(db_file, "r", encoding="utf-8") as f:
-                    data = json.load(f)
-                    if isinstance(data, list):
-                        all_news.extend(data)
-            except:
-                pass
+        if not os.path.exists(db_file):
+            print(f"⚠️  文件不存在: {db_file}")
+            continue
+        
+        try:
+            with open(db_file, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            
+            # 处理不同的数据格式
+            if isinstance(data, list):
+                # 如果是数组，直接添加
+                all_news.extend(data)
+                print(f"✅ 加载 {db_file}: {len(data)} 条")
+            
+            elif isinstance(data, dict):
+                # 如果是对象，尝试提取 articles
+                if 'articles' in data:
+                    all_news.extend(data['articles'])
+                    print(f"✅ 加载 {db_file}: {len(data['articles'])} 条")
+                else:
+                    # 如果对象本身就是一条新闻
+                    all_news.append(data)
+                    print(f"✅ 加载 {db_file}: 1 条")
+        
+        except json.JSONDecodeError as e:
+            print(f"❌ {db_file} JSON格式错误: {e}")
+        except Exception as e:
+            print(f"❌ {db_file} 加载失败: {e}")
     
+    print(f"\n📊 总计加载: {len(all_news)} 条新闻\n")
     return all_news
 
+def normalize_news_item(news):
+    """标准化新闻数据格式"""
+    try:
+        return {
+            'title': news.get('title', '无标题'),
+            'source': news.get('source', '未知'),
+            'url': news.get('url', ''),
+            'date': news.get('date', news.get('published_at', ''))[:10],
+            'category': news.get('category', '未分类'),
+            'keywords': news.get('keywords', []),
+            'description': news.get('description', '')
+        }
+    except Exception as e:
+        print(f"⚠️  标准化数据时出错: {e}")
+        return None
+
 def filter_by_week(news_list):
-    """筛选本周的新闻"""
+    """筛选本周的新闻 - 修复版"""
     today = datetime.now()
     week_start = today - timedelta(days=today.weekday())  # 本周一
     
-    weekly_news = []
-    for news in news_list:
-        date_str = news.get("date", news.get("published_at", ""))[:10]
-        if date_str:
-            try:
-                news_date = datetime.strptime(date_str, "%Y-%m-%d")
-                if news_date >= week_start:
-                    weekly_news.append(news)
-            except:
-                pass
+    print(f"📅 筛选本周新闻（{week_start.strftime('%Y-%m-%d')} 至今）\n")
     
+    weekly_news = []
+    error_count = 0
+    
+    for news in news_list:
+        try:
+            # 标准化数据
+            normalized = normalize_news_item(news)
+            if not normalized:
+                error_count += 1
+                continue
+            
+            # 提取日期
+            date_str = normalized.get('date', '')
+            if not date_str:
+                error_count += 1
+                continue
+            
+            # 解析日期（只取前10个字符 YYYY-MM-DD）
+            date_str = date_str[:10]
+            news_date = datetime.strptime(date_str, "%Y-%m-%d")
+            
+            # 判断是否在本周
+            if news_date >= week_start:
+                weekly_news.append(normalized)
+        
+        except ValueError as e:
+            print(f"⚠️  日期格式错误: {news.get('date', 'N/A')} - {e}")
+            error_count += 1
+        except Exception as e:
+            print(f"⚠️  处理新闻时出错: {e}")
+            error_count += 1
+    
+    if error_count > 0:
+        print(f"⚠️  跳过 {error_count} 条有问题的数据\n")
+    
+    print(f"✅ 本周新闻: {len(weekly_news)} 条\n")
     return weekly_news
 
 # =========================
-# 报告生成
+# 报告生成（保持原样）
 # =========================
 
 def generate_weekly_report(news_list):
     """生成周报内容"""
+    if not news_list:
+        return "# 本周暂无新闻数据"
+    
     today = datetime.now()
     week_num = today.isocalendar()[1]
     
@@ -141,10 +142,9 @@ def generate_weekly_report(news_list):
         stats["sources"][news.get("source", "未知")] += 1
         
         # 关键词统计
-        title = news.get("title", "")
-        for word in ["Circle", "Tether", "USDC", "USDT", "MAS", "HKMA", "SEC"]:
-            if word.lower() in title.lower():
-                stats["keywords"][word] += 1
+        keywords = news.get("keywords", [])
+        for kw in keywords:
+            stats["keywords"][kw] += 1
     
     # 生成 Markdown 报告
     report = []
@@ -174,19 +174,17 @@ def generate_weekly_report(news_list):
     # 主要来源
     report.append(f"## 📰 主要来源")
     report.append(f"")
-    for source, count in stats["sources"].most_common(5):
+    for source, count in stats["sources"].most_common(10):
         report.append(f"- **{source}**: {count} 条")
     report.append(f"")
     
-    # 热点实体
-    report.append(f"## 🔥 热点实体")
-    report.append(f"")
+    # 热点关键词
     if stats["keywords"]:
+        report.append(f"## 🔥 热点关键词")
+        report.append(f"")
         for keyword, count in stats["keywords"].most_common(10):
             report.append(f"- **{keyword}**: 提及 {count} 次")
-    else:
-        report.append(f"暂无数据")
-    report.append(f"")
+        report.append(f"")
     
     # 重点新闻（按分类）
     report.append(f"## 📌 本周重点新闻")
@@ -200,17 +198,17 @@ def generate_weekly_report(news_list):
             by_category[cat] = []
         by_category[cat].append(news)
     
-    for category in ["📋 政策监管", "💰 融资并购", "🏢 公司动态"]:
-        if category in by_category:
+    for category, articles in by_category.items():
+        if articles:
             report.append(f"### {category}")
             report.append(f"")
             
             # 只显示前5条
-            for news in by_category[category][:5]:
+            for news in articles[:5]:
                 title = news.get("title", "无标题")
                 source = news.get("source", "未知")
-                date = news.get("date", news.get("published_at", ""))[:10]
-                url = news.get("url", news.get("link", ""))
+                date = news.get("date", "")
+                url = news.get("url", "")
                 
                 report.append(f"#### {title}")
                 report.append(f"")
@@ -220,24 +218,9 @@ def generate_weekly_report(news_list):
                     report.append(f"- **链接**: [{url}]({url})")
                 report.append(f"")
             
-            if len(by_category[category]) > 5:
-                report.append(f"*...还有 {len(by_category[category])-5} 条新闻*")
+            if len(articles) > 5:
+                report.append(f"*...还有 {len(articles)-5} 条新闻*")
                 report.append(f"")
-    
-    # 趋势分析
-    report.append(f"## 📈 趋势分析")
-    report.append(f"")
-    
-    # 简单的趋势判断
-    if stats["categories"]:
-        top_cat = stats["categories"].most_common(1)[0]
-        report.append(f"- 本周 **{top_cat[0]}** 类新闻最为活跃")
-    
-    if stats["keywords"]:
-        top_kw = stats["keywords"].most_common(1)[0]
-        report.append(f"- **{top_kw[0]}** 是本周最热门的话题")
-    
-    report.append(f"")
     
     # 结尾
     report.append(f"---")
@@ -273,10 +256,10 @@ def save_report(report_content):
 def main():
     print("=" * 60)
     print("稳定币情报周报生成器")
-    print("=" * 60)
+    print("=" * 60 + "\n")
     
     # 加载数据
-    print("\n加载数据...")
+    print("📂 加载数据...")
     all_news = load_all_news()
     
     if not all_news:
@@ -284,36 +267,36 @@ def main():
         return
     
     # 筛选本周
-    print("筛选本周新闻...")
+    print("🔍 筛选本周新闻...")
     weekly_news = filter_by_week(all_news)
-    print(f"✅ 本周新闻: {len(weekly_news)} 条")
     
     if not weekly_news:
         print("⚠️  本周暂无新闻")
-        return
+        # 仍然生成报告，但是空的
     
     # 生成报告
-    print("\n生成周报...")
+    print("📝 生成周报...")
     report = generate_weekly_report(weekly_news)
     
     # 保存
     filename = save_report(report)
     
-    # 显示预览
-    print("\n" + "=" * 60)
-    print("报告预览（前20行）")
-    print("=" * 60)
-    lines = report.split("\n")
-    for line in lines[:20]:
-        print(line)
-    
-    if len(lines) > 20:
-        print(f"\n... 还有 {len(lines)-20} 行")
-    
-    print("\n" + "=" * 60)
-    print("周报生成完成！")
-    print("=" * 60)
-    print(f"📄 查看完整报告: {filename}")
+    if filename:
+        # 显示预览
+        print("\n" + "=" * 60)
+        print("报告预览（前20行）")
+        print("=" * 60)
+        lines = report.split("\n")
+        for line in lines[:20]:
+            print(line)
+        
+        if len(lines) > 20:
+            print(f"\n... 还有 {len(lines)-20} 行")
+        
+        print("\n" + "=" * 60)
+        print("周报生成完成！")
+        print("=" * 60)
+        print(f"📄 查看完整报告: {filename}")
 
 if __name__ == "__main__":
     main()
