@@ -1,7 +1,23 @@
 const reports = [
     {
-        "date": "2026-01-20",
+        "date": "2026-01-21",
         "title": "稳定币行业周报 Week 1",
+        "period": "2026-01-15 至 2026-01-21",
+        "stats": {
+            "total_news": 0,
+            "total_tweets": 0,
+            "total_items": 0,
+            "by_category": {}
+        },
+        "languages": [
+            "zh",
+            "en",
+            "es"
+        ]
+    },
+    {
+        "date": "2026-01-20",
+        "title": "稳定币行业周报 Week 2",
         "period": "2026-01-14 至 2026-01-20",
         "stats": {
             "total_news": 20,
