@@ -15,7 +15,18 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from templates.prompt_templates import WeeklyReportPrompts
 from openai import OpenAI
-from config import OPENAI_API_KEY
+
+# 优先从环境变量读取 API Key（用于 GitHub Actions）
+# 如果不存在，则从 config 模块导入（用于本地开发）
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+if not OPENAI_API_KEY:
+    try:
+        from config import OPENAI_API_KEY
+    except ImportError:
+        OPENAI_API_KEY = None
+
+if not OPENAI_API_KEY:
+    raise ValueError("OPENAI_API_KEY 未设置。请在环境变量或 config.py 中设置。")
 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
