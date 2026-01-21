@@ -1,0 +1,47 @@
+name: Weekly Report
+
+on:
+  schedule:
+    # 每周五晚上 23:00 SGT = UTC 15:00
+    - cron: '0 15 * * 5'
+  
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+      
+      - name: Aggregate weekly data
+        run: |
+          python scripts/weekly_aggregator.py
+      
+      - name: Generate weekly reports
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python scripts/weekly_report_generator_v2.py
+      
+      - name: Convert to HTML and update website
+        run: |
+          python scripts/convert_to_html.py
+          python scripts/update_website.py
+      
+      - name: Commit and push
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add reports/ docs/ data/weekly/
+          git diff --staged --quiet || (git commit -m "📄 Weekly report: $(date +'%Y-%m-%d')" && git push)
