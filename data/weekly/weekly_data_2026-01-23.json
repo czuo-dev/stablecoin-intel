@@ -1,0 +1,17 @@
+{
+  "period": {
+    "start": "2026-01-17",
+    "end": "2026-01-23",
+    "days": 7
+  },
+  "stats": {
+    "total_news": 0,
+    "total_tweets": 0,
+    "total_items": 0,
+    "by_category": {}
+  },
+  "top_news": [],
+  "all_news": [],
+  "all_tweets": [],
+  "by_category": {}
+}
