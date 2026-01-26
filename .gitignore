@@ -1,9 +1,10 @@
-# API Keys and sensitive data
+# ===== API Keys and sensitive data =====
 config.py
-*.env
 .env
+*.env
+.env.*
 
-# Python
+# ===== Python =====
 __pycache__/
 *.py[cod]
 *$py.class
@@ -11,17 +12,38 @@ __pycache__/
 .Python
 venv/
 env/
+.venv/
 
-# Data files
+# ===== Temporary and backup files =====
+*.tmp
+*.temp
+*.save
+*.backup
+*.bak
+Untitled
+*~
+
+# ===== Data files (local only) =====
 data/raw/*.json
 data/processed/*.json
+data/rss/*.json
 
-# Reports (optional - 如果不想上传报告)
-# reports/*.md
-
-# IDE
+# ===== IDE =====
 .vscode/
 .idea/
 *.swp
 *.swo
 .DS_Store
+
+# ===== Logs =====
+logs/*.log
+
+# ===== Test results =====
+test_results/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ===== Cache =====
+cache/
+.cache/

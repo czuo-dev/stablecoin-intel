@@ -1,0 +1,98 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-01-26",
+  "description": "稳定币情报系统关键词配置",
+
+  "categories": {
+    "competitors": {
+      "name": "竞争对手",
+      "name_en": "Competitors",
+      "description": "主要稳定币竞争对手",
+      "companies": [
+        {"name": "Circle", "twitter": "circle", "keywords": ["Circle", "USDC"]},
+        {"name": "Tether", "twitter": "Tether_to", "keywords": ["Tether", "USDT"]},
+        {"name": "Paxos", "twitter": "paxos", "keywords": ["Paxos", "USDP", "BUSD"]},
+        {"name": "PayPal", "twitter": "PayPal", "keywords": ["PayPal", "PYUSD"]},
+        {"name": "Ripple", "twitter": "Ripple", "keywords": ["Ripple", "RLUSD"]},
+        {"name": "MakerDAO", "twitter": "MakerDAO", "keywords": ["MakerDAO", "DAI"]},
+        {"name": "Frax", "twitter": "fraboratory", "keywords": ["Frax", "FRAX"]},
+        {"name": "TrueUSD", "twitter": "tuaborations", "keywords": ["TrueUSD", "TUSD"]}
+      ]
+    },
+
+    "clients": {
+      "name": "客户进展",
+      "name_en": "Client Progress",
+      "description": "潜在客户和合作伙伴动态",
+      "companies": [
+        {"name": "Visa", "twitter": "Visa", "keywords": ["Visa stablecoin", "Visa crypto"]},
+        {"name": "Mastercard", "twitter": "Mastercard", "keywords": ["Mastercard stablecoin", "Mastercard crypto"]},
+        {"name": "Stripe", "twitter": "stripe", "keywords": ["Stripe stablecoin", "Stripe crypto"]},
+        {"name": "JPMorgan", "twitter": "jpmorgan", "keywords": ["JPMorgan stablecoin", "JPM Coin"]},
+        {"name": "Goldman Sachs", "twitter": "GoldmanSachs", "keywords": ["Goldman stablecoin"]},
+        {"name": "BlackRock", "twitter": "blackrock", "keywords": ["BlackRock stablecoin", "BlackRock tokenized"]},
+        {"name": "Fidelity", "twitter": "Fidelity", "keywords": ["Fidelity crypto", "Fidelity digital"]},
+        {"name": "BNY Mellon", "twitter": "BNYMellon", "keywords": ["BNY Mellon crypto"]}
+      ]
+    },
+
+    "industry": {
+      "name": "行业进展",
+      "name_en": "Industry Progress",
+      "description": "行业整体动态、政策监管、市场趋势",
+      "topics": [
+        {
+          "name": "监管政策",
+          "keywords": ["stablecoin regulation", "stablecoin bill", "MiCA", "stablecoin license", "stablecoin ban", "OCC stablecoin"]
+        },
+        {
+          "name": "市场动态",
+          "keywords": ["stablecoin market cap", "stablecoin adoption", "stablecoin volume", "stablecoin growth"]
+        },
+        {
+          "name": "技术发展",
+          "keywords": ["stablecoin blockchain", "stablecoin cross-chain", "stablecoin DeFi", "stablecoin yield"]
+        },
+        {
+          "name": "融资投资",
+          "keywords": ["stablecoin funding", "stablecoin investment", "stablecoin Series", "stablecoin raises"]
+        }
+      ]
+    }
+  },
+
+  "twitter_accounts": {
+    "kol": [
+      {"username": "jerallaire", "name": "Jeremy Allaire (Circle CEO)"},
+      {"username": "paoloardoino", "name": "Paolo Ardoino (Tether CTO)"},
+      {"username": "caborations", "name": "Dante Disparte (Circle)"}
+    ],
+    "media": [
+      {"username": "CoinDesk", "name": "CoinDesk"},
+      {"username": "TheBlock__", "name": "The Block"},
+      {"username": "Cointelegraph", "name": "Cointelegraph"},
+      {"username": "MessariCrypto", "name": "Messari"}
+    ],
+    "institutions": [
+      {"username": "coinaborations", "name": "Coinbase"},
+      {"username": "binance", "name": "Binance"},
+      {"username": "kaborations", "name": "Kraken"}
+    ]
+  },
+
+  "search_keywords": {
+    "primary": [
+      "stablecoin",
+      "USDC",
+      "USDT",
+      "PYUSD",
+      "stablecoins"
+    ],
+    "secondary": [
+      "digital dollar",
+      "tokenized deposit",
+      "payment stablecoin",
+      "稳定币"
+    ]
+  }
+}

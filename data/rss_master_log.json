@@ -3120,5 +3120,100 @@
         ]
       }
     ]
+  },
+  {
+    "fetch_time": "2026-01-26 09:00:03",
+    "count": 8,
+    "news": [
+      {
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 25 Jan 2026 21:48:13 +0000",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>",
+        "source": "CoinTelegraph",
+        "fetch_time": "2026-01-26 09:00:02",
+        "matched_keywords": [
+          "DAI"
+        ]
+      },
+      {
+        "title": "Cathie Wood’s ARK adds Coinbase, Circle, Bullish as crypto slides",
+        "link": "https://cointelegraph.com/news/ark-invest-buys-coinbase-circle-bullish-crypto-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sun, 25 Jan 2026 12:33:04 +0000",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cathie Wood’s ARK adds Coinbase, Circle, Bullish as crypto slides\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmY1MDQtYzc1Yi03OWVlLWI3N2ItNDQ4NmVlNjRmOGM4LmpwZw==.jpg\" /></p><p>The fourth-quarter crypto pullback hit ARK ETFs, with Coinbase emerging as the biggest drag on performance.</p>",
+        "source": "CoinTelegraph",
+        "fetch_time": "2026-01-26 09:00:02",
+        "matched_keywords": [
+          "Circle"
+        ]
+      },
+      {
+        "title": "Stablecoin yield bans could push capital offshore into ‘unregulated instruments’",
+        "link": "https://cointelegraph.com/news/stablecoin-yield-bans-push-capital-offshore-unregulated-instruments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Sat, 24 Jan 2026 12:20:53 +0000",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin yield bans could push capital offshore into ‘unregulated instruments’\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmVmYTktMjYzOS03MGY3LTg4ZDctN2I1YzMyMjc2NDhmLmpwZw==.jpg\" /></p><p>Proposed US crypto rules could push stablecoin investors toward offshore and synthetic dollar products as onshore yield options are restricted.</p>",
+        "source": "CoinTelegraph",
+        "fetch_time": "2026-01-26 09:00:02",
+        "matched_keywords": [
+          "stablecoin"
+        ]
+      },
+      {
+        "title": "Remittances ‘more important than aid’ as Africa turns to stablecoins",
+        "link": "https://cointelegraph.com/news/remittances-more-important-than-aid-africa-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "published": "Fri, 23 Jan 2026 20:56:37 +0000",
+        "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Remittances ‘more important than aid’ as Africa turns to stablecoins\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmVjM2ItNTcwOC03YTY0LWIwMTktMDUwY2QwZGM3NzAxLmpwZw==.jpg\" /></p><p>Speaking at the World Economic Forum in Davos, Switzerland, economist Vera Songwe pointed to remittances and inflation hedging as key drivers of stablecoin use across Africa.</p>",
+        "source": "CoinTelegraph",
+        "fetch_time": "2026-01-26 09:00:02",
+        "matched_keywords": [
+          "stablecoin"
+        ]
+      },
+      {
+        "title": "The Daily: Binance seeks MiCA license, what’s next for US crypto legislation, bitcoin holders realizing net losses, and more",
+        "link": "https://www.theblock.co/post/386922/the-daily-binance-seeks-mica-license-whats-next-for-us-crypto-legislation-bitcoin-holders-realizing-net-losses-and-more?utm_source=rss&utm_medium=rss",
+        "published": "Fri, 23 Jan 2026 19:02:21 -0500",
+        "summary": "<p>The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.</p>",
+        "source": "The Block",
+        "fetch_time": "2026-01-26 09:00:02",
+        "matched_keywords": [
+          "DAI"
+        ]
+      },
+      {
+        "title": "Can Stablecoins Break Free From the US Dollar?",
+        "link": "https://decrypt.co/355371/can-stablecoins-break-free-from-us-dollar",
+        "published": "Sat, 24 Jan 2026 14:01:03 +0000",
+        "summary": "Nearly all stablecoins track the U.S. dollar. Experiments with baskets and commodities show how hard that grip is to loosen.",
+        "source": "Decrypt",
+        "fetch_time": "2026-01-26 09:00:03",
+        "matched_keywords": [
+          "stablecoin"
+        ]
+      },
+      {
+        "title": "Olympic Snowboarder Turned Alleged Crypto Crime Kingpin Arrested in Mexico",
+        "link": "https://decrypt.co/355728/olympic-snowboarder-turned-alleged-crypto-crime-kingpin-arrested-mexico",
+        "published": "Fri, 23 Jan 2026 18:14:46 +0000",
+        "summary": "Ryan James Wedding was accused of using stablecoin Tether to fuel a cocaine smuggling and murder operation in Latin America and the U.S.",
+        "source": "Decrypt",
+        "fetch_time": "2026-01-26 09:00:03",
+        "matched_keywords": [
+          "stablecoin",
+          "Tether"
+        ]
+      },
+      {
+        "title": "Capital One to Acquire Fintech Company Brex for $5.15 Billion",
+        "link": "https://decrypt.co/355595/capital-one-acquire-fintech-company-brex-5-15-billion",
+        "published": "Fri, 23 Jan 2026 01:27:39 +0000",
+        "summary": "The deal brings a startup-focused spend platform with artificial intelligence and stablecoin capabilities into a major U.S. bank.",
+        "source": "Decrypt",
+        "fetch_time": "2026-01-26 09:00:03",
+        "matched_keywords": [
+          "stablecoin"
+        ]
+      }
+    ]
   }
 ]

@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>稳定币情报 - 关键词配置</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            min-height: 100vh;
+            color: #e0e0e0;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 30px 0;
+            border-bottom: 1px solid #333;
+            margin-bottom: 30px;
+        }
+
+        h1 {
+            font-size: 2rem;
+            color: #00d4ff;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            color: #888;
+            font-size: 0.9rem;
+        }
+
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+
+        .tab {
+            padding: 12px 24px;
+            background: #252545;
+            border: none;
+            border-radius: 8px;
+            color: #aaa;
+            cursor: pointer;
+            font-size: 0.95rem;
+            transition: all 0.3s;
+        }
+
+        .tab:hover {
+            background: #303060;
+        }
+
+        .tab.active {
+            background: #00d4ff;
+            color: #1a1a2e;
+            font-weight: 600;
+        }
+
+        .panel {
+            display: none;
+            background: #1e1e3f;
+            border-radius: 12px;
+            padding: 25px;
+            margin-bottom: 20px;
+        }
+
+        .panel.active {
+            display: block;
+        }
+
+        .section {
+            margin-bottom: 25px;
+        }
+
+        .section-title {
+            font-size: 1.1rem;
+            color: #00d4ff;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .section-title::before {
+            content: '';
+            width: 4px;
+            height: 20px;
+            background: #00d4ff;
+            border-radius: 2px;
+        }
+
+        .card-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 15px;
+        }
+
+        .card {
+            background: #252545;
+            border-radius: 10px;
+            padding: 15px;
+            border: 1px solid #333;
+            transition: all 0.3s;
+        }
+
+        .card:hover {
+            border-color: #00d4ff;
+            transform: translateY(-2px);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .card-title {
+            font-weight: 600;
+            color: #fff;
+        }
+
+        .card-twitter {
+            font-size: 0.8rem;
+            color: #1da1f2;
+        }
+
+        .tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+
+        .tag {
+            background: #1a1a2e;
+            padding: 4px 10px;
+            border-radius: 15px;
+            font-size: 0.75rem;
+            color: #888;
+            border: 1px solid #333;
+        }
+
+        .tag.editable {
+            cursor: pointer;
+        }
+
+        .tag.editable:hover {
+            border-color: #00d4ff;
+            color: #00d4ff;
+        }
+
+        .add-btn {
+            background: transparent;
+            border: 1px dashed #444;
+            padding: 4px 10px;
+            border-radius: 15px;
+            font-size: 0.75rem;
+            color: #666;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .add-btn:hover {
+            border-color: #00d4ff;
+            color: #00d4ff;
+        }
+
+        .keyword-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 10px;
+        }
+
+        .keyword {
+            background: #303060;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .keyword .remove {
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: #ff4757;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .input-group {
+            display: flex;
+            gap: 10px;
+            margin-top: 15px;
+        }
+
+        input[type="text"] {
+            flex: 1;
+            padding: 12px 16px;
+            border: 1px solid #333;
+            border-radius: 8px;
+            background: #1a1a2e;
+            color: #fff;
+            font-size: 0.95rem;
+        }
+
+        input[type="text"]:focus {
+            outline: none;
+            border-color: #00d4ff;
+        }
+
+        .btn {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.95rem;
+            transition: all 0.3s;
+        }
+
+        .btn-primary {
+            background: #00d4ff;
+            color: #1a1a2e;
+            font-weight: 600;
+        }
+
+        .btn-primary:hover {
+            background: #00b8e6;
+        }
+
+        .btn-secondary {
+            background: #303060;
+            color: #fff;
+        }
+
+        .btn-secondary:hover {
+            background: #404080;
+        }
+
+        .actions {
+            display: flex;
+            gap: 15px;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #333;
+        }
+
+        .json-preview {
+            background: #0d0d1a;
+            border-radius: 8px;
+            padding: 15px;
+            margin-top: 15px;
+            font-family: 'Monaco', 'Consolas', monospace;
+            font-size: 0.8rem;
+            max-height: 300px;
+            overflow: auto;
+            white-space: pre-wrap;
+            color: #8be9fd;
+        }
+
+        .status {
+            padding: 10px 20px;
+            border-radius: 8px;
+            margin-top: 15px;
+            display: none;
+        }
+
+        .status.success {
+            display: block;
+            background: rgba(0, 255, 136, 0.1);
+            border: 1px solid #00ff88;
+            color: #00ff88;
+        }
+
+        .status.error {
+            display: block;
+            background: rgba(255, 71, 87, 0.1);
+            border: 1px solid #ff4757;
+            color: #ff4757;
+        }
+
+        @media (max-width: 768px) {
+            .card-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .tabs {
+                flex-direction: column;
+            }
+
+            .tab {
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎯 稳定币情报 - 关键词配置</h1>
+            <p class="subtitle">配置监控关键词、Twitter账号和分类规则</p>
+        </header>
+
+        <div class="tabs">
+            <button class="tab active" data-tab="competitors">🏢 竞争对手</button>
+            <button class="tab" data-tab="clients">🤝 客户进展</button>
+            <button class="tab" data-tab="industry">📈 行业进展</button>
+            <button class="tab" data-tab="accounts">🐦 Twitter账号</button>
+            <button class="tab" data-tab="export">💾 导出配置</button>
+        </div>
+
+        <!-- 竞争对手 -->
+        <div class="panel active" id="competitors">
+            <div class="section">
+                <h3 class="section-title">竞争对手监控</h3>
+                <div class="card-grid" id="competitors-grid"></div>
+            </div>
+            <div class="input-group">
+                <input type="text" id="new-competitor-name" placeholder="公司名称，如: Coinbase">
+                <input type="text" id="new-competitor-twitter" placeholder="Twitter账号，如: coinbase">
+                <input type="text" id="new-competitor-keywords" placeholder="关键词，用逗号分隔">
+                <button class="btn btn-primary" onclick="addCompetitor()">+ 添加</button>
+            </div>
+        </div>
+
+        <!-- 客户进展 -->
+        <div class="panel" id="clients">
+            <div class="section">
+                <h3 class="section-title">潜在客户和合作伙伴</h3>
+                <div class="card-grid" id="clients-grid"></div>
+            </div>
+            <div class="input-group">
+                <input type="text" id="new-client-name" placeholder="公司名称">
+                <input type="text" id="new-client-twitter" placeholder="Twitter账号">
+                <input type="text" id="new-client-keywords" placeholder="关键词，用逗号分隔">
+                <button class="btn btn-primary" onclick="addClient()">+ 添加</button>
+            </div>
+        </div>
+
+        <!-- 行业进展 -->
+        <div class="panel" id="industry">
+            <div class="section">
+                <h3 class="section-title">行业关键词</h3>
+                <div id="industry-topics"></div>
+            </div>
+            <div class="section">
+                <h3 class="section-title">添加新话题</h3>
+                <div class="input-group">
+                    <input type="text" id="new-topic-name" placeholder="话题名称，如: CBDC">
+                    <input type="text" id="new-topic-keywords" placeholder="关键词，用逗号分隔">
+                    <button class="btn btn-primary" onclick="addTopic()">+ 添加话题</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Twitter账号 -->
+        <div class="panel" id="accounts">
+            <div class="section">
+                <h3 class="section-title">KOL 和意见领袖</h3>
+                <div class="keyword-list" id="kol-list"></div>
+            </div>
+            <div class="section">
+                <h3 class="section-title">媒体账号</h3>
+                <div class="keyword-list" id="media-list"></div>
+            </div>
+            <div class="section">
+                <h3 class="section-title">机构账号</h3>
+                <div class="keyword-list" id="institutions-list"></div>
+            </div>
+            <div class="input-group">
+                <select id="account-type">
+                    <option value="kol">KOL</option>
+                    <option value="media">媒体</option>
+                    <option value="institutions">机构</option>
+                </select>
+                <input type="text" id="new-account-username" placeholder="Twitter用户名">
+                <input type="text" id="new-account-name" placeholder="显示名称">
+                <button class="btn btn-primary" onclick="addAccount()">+ 添加</button>
+            </div>
+        </div>
+
+        <!-- 导出配置 -->
+        <div class="panel" id="export">
+            <div class="section">
+                <h3 class="section-title">当前配置预览</h3>
+                <div class="json-preview" id="json-preview"></div>
+            </div>
+            <div class="actions">
+                <button class="btn btn-primary" onclick="downloadConfig()">📥 下载配置文件</button>
+                <button class="btn btn-secondary" onclick="copyConfig()">📋 复制到剪贴板</button>
+                <label class="btn btn-secondary">
+                    📤 导入配置
+                    <input type="file" accept=".json" onchange="importConfig(event)" style="display:none">
+                </label>
+            </div>
+            <div class="status" id="status"></div>
+        </div>
+    </div>
+
+    <script>
+        // 默认配置
+        let config = {
+            version: "1.0",
+            last_updated: new Date().toISOString().split('T')[0],
+            categories: {
+                competitors: {
+                    name: "竞争对手",
+                    companies: [
+                        {name: "Circle", twitter: "circle", keywords: ["Circle", "USDC"]},
+                        {name: "Tether", twitter: "Tether_to", keywords: ["Tether", "USDT"]},
+                        {name: "Paxos", twitter: "paxos", keywords: ["Paxos", "USDP"]},
+                        {name: "PayPal", twitter: "PayPal", keywords: ["PayPal", "PYUSD"]}
+                    ]
+                },
+                clients: {
+                    name: "客户进展",
+                    companies: [
+                        {name: "Visa", twitter: "Visa", keywords: ["Visa stablecoin"]},
+                        {name: "Mastercard", twitter: "Mastercard", keywords: ["Mastercard stablecoin"]},
+                        {name: "Stripe", twitter: "stripe", keywords: ["Stripe stablecoin"]}
+                    ]
+                },
+                industry: {
+                    name: "行业进展",
+                    topics: [
+                        {name: "监管政策", keywords: ["stablecoin regulation", "MiCA", "stablecoin bill"]},
+                        {name: "市场动态", keywords: ["stablecoin market cap", "stablecoin adoption"]},
+                        {name: "融资投资", keywords: ["stablecoin funding", "stablecoin investment"]}
+                    ]
+                }
+            },
+            twitter_accounts: {
+                kol: [
+                    {username: "jerallaire", name: "Jeremy Allaire (Circle CEO)"},
+                    {username: "paoloardoino", name: "Paolo Ardoino (Tether CTO)"}
+                ],
+                media: [
+                    {username: "CoinDesk", name: "CoinDesk"},
+                    {username: "TheBlock__", name: "The Block"}
+                ],
+                institutions: [
+                    {username: "coinbase", name: "Coinbase"},
+                    {username: "binance", name: "Binance"}
+                ]
+            }
+        };
+
+        // 尝试从 localStorage 加载
+        const saved = localStorage.getItem('stablecoin-config');
+        if (saved) {
+            try {
+                config = JSON.parse(saved);
+            } catch (e) {}
+        }
+
+        // Tab 切换
+        document.querySelectorAll('.tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+                tab.classList.add('active');
+                document.getElementById(tab.dataset.tab).classList.add('active');
+                if (tab.dataset.tab === 'export') updatePreview();
+            });
+        });
+
+        // 渲染函数
+        function renderCompetitors() {
+            const grid = document.getElementById('competitors-grid');
+            grid.innerHTML = config.categories.competitors.companies.map((c, i) => `
+                <div class="card">
+                    <div class="card-header">
+                        <span class="card-title">${c.name}</span>
+                        <span class="card-twitter">@${c.twitter}</span>
+                    </div>
+                    <div class="tags">
+                        ${c.keywords.map(k => `<span class="tag">${k}</span>`).join('')}
+                        <button class="add-btn" onclick="editCompetitor(${i})">编辑</button>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function renderClients() {
+            const grid = document.getElementById('clients-grid');
+            grid.innerHTML = config.categories.clients.companies.map((c, i) => `
+                <div class="card">
+                    <div class="card-header">
+                        <span class="card-title">${c.name}</span>
+                        <span class="card-twitter">@${c.twitter}</span>
+                    </div>
+                    <div class="tags">
+                        ${c.keywords.map(k => `<span class="tag">${k}</span>`).join('')}
+                        <button class="add-btn" onclick="editClient(${i})">编辑</button>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function renderIndustry() {
+            const container = document.getElementById('industry-topics');
+            container.innerHTML = config.categories.industry.topics.map((t, i) => `
+                <div class="section" style="margin-bottom: 15px;">
+                    <div style="display: flex; justify-content: space-between; align-items: center;">
+                        <strong style="color: #00d4ff;">${t.name}</strong>
+                        <button class="add-btn" onclick="removeTopic(${i})">删除</button>
+                    </div>
+                    <div class="keyword-list">
+                        ${t.keywords.map(k => `<span class="keyword">${k}</span>`).join('')}
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function renderAccounts() {
+            ['kol', 'media', 'institutions'].forEach(type => {
+                const list = document.getElementById(`${type}-list`);
+                list.innerHTML = config.twitter_accounts[type].map((a, i) => `
+                    <div class="keyword">
+                        @${a.username} <small style="color:#888">(${a.name})</small>
+                        <button class="remove" onclick="removeAccount('${type}', ${i})">×</button>
+                    </div>
+                `).join('');
+            });
+        }
+
+        // 添加函数
+        function addCompetitor() {
+            const name = document.getElementById('new-competitor-name').value.trim();
+            const twitter = document.getElementById('new-competitor-twitter').value.trim();
+            const keywords = document.getElementById('new-competitor-keywords').value.split(',').map(k => k.trim()).filter(k => k);
+
+            if (name && twitter) {
+                config.categories.competitors.companies.push({name, twitter, keywords});
+                saveAndRender();
+                document.getElementById('new-competitor-name').value = '';
+                document.getElementById('new-competitor-twitter').value = '';
+                document.getElementById('new-competitor-keywords').value = '';
+            }
+        }
+
+        function addClient() {
+            const name = document.getElementById('new-client-name').value.trim();
+            const twitter = document.getElementById('new-client-twitter').value.trim();
+            const keywords = document.getElementById('new-client-keywords').value.split(',').map(k => k.trim()).filter(k => k);
+
+            if (name && twitter) {
+                config.categories.clients.companies.push({name, twitter, keywords});
+                saveAndRender();
+                document.getElementById('new-client-name').value = '';
+                document.getElementById('new-client-twitter').value = '';
+                document.getElementById('new-client-keywords').value = '';
+            }
+        }
+
+        function addTopic() {
+            const name = document.getElementById('new-topic-name').value.trim();
+            const keywords = document.getElementById('new-topic-keywords').value.split(',').map(k => k.trim()).filter(k => k);
+
+            if (name && keywords.length) {
+                config.categories.industry.topics.push({name, keywords});
+                saveAndRender();
+                document.getElementById('new-topic-name').value = '';
+                document.getElementById('new-topic-keywords').value = '';
+            }
+        }
+
+        function addAccount() {
+            const type = document.getElementById('account-type').value;
+            const username = document.getElementById('new-account-username').value.trim();
+            const name = document.getElementById('new-account-name').value.trim();
+
+            if (username && name) {
+                config.twitter_accounts[type].push({username, name});
+                saveAndRender();
+                document.getElementById('new-account-username').value = '';
+                document.getElementById('new-account-name').value = '';
+            }
+        }
+
+        function removeTopic(index) {
+            config.categories.industry.topics.splice(index, 1);
+            saveAndRender();
+        }
+
+        function removeAccount(type, index) {
+            config.twitter_accounts[type].splice(index, 1);
+            saveAndRender();
+        }
+
+        function saveAndRender() {
+            config.last_updated = new Date().toISOString().split('T')[0];
+            localStorage.setItem('stablecoin-config', JSON.stringify(config));
+            renderAll();
+        }
+
+        function renderAll() {
+            renderCompetitors();
+            renderClients();
+            renderIndustry();
+            renderAccounts();
+        }
+
+        function updatePreview() {
+            document.getElementById('json-preview').textContent = JSON.stringify(config, null, 2);
+        }
+
+        function downloadConfig() {
+            const blob = new Blob([JSON.stringify(config, null, 2)], {type: 'application/json'});
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'keywords.json';
+            a.click();
+            showStatus('✅ 配置文件已下载！请将其复制到 config/keywords.json', 'success');
+        }
+
+        function copyConfig() {
+            navigator.clipboard.writeText(JSON.stringify(config, null, 2));
+            showStatus('✅ 已复制到剪贴板！', 'success');
+        }
+
+        function importConfig(event) {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = (e) => {
+                    try {
+                        config = JSON.parse(e.target.result);
+                        saveAndRender();
+                        showStatus('✅ 配置导入成功！', 'success');
+                    } catch (err) {
+                        showStatus('❌ 配置文件格式错误', 'error');
+                    }
+                };
+                reader.readAsText(file);
+            }
+        }
+
+        function showStatus(message, type) {
+            const status = document.getElementById('status');
+            status.textContent = message;
+            status.className = 'status ' + type;
+            setTimeout(() => status.className = 'status', 3000);
+        }
+
+        // 初始化
+        renderAll();
+    </script>
+</body>
+</html>

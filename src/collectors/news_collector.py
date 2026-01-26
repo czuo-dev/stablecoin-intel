@@ -86,8 +86,9 @@ class NewsCollector:
             return []
         
         try:
-            # 控制请求频率
-            time.sleep(NEWSAPI_REQUEST_INTERVAL)
+            # 控制请求频率（只在非第一个请求时等待）
+            if self.request_count > 0:
+                time.sleep(NEWSAPI_REQUEST_INTERVAL)
             
             # 格式化日期为 YYYY-MM-DD 格式（避免HTTP/2协议错误）
             from_date = (datetime.now() - timedelta(days=days_back)).strftime('%Y-%m-%d')
@@ -107,7 +108,7 @@ class NewsCollector:
                     self.request_count += 1
                     
                     articles = response.get('articles', [])
-                    print(f"  ✓ '{keyword}': {len(articles)} 篇")
+                    # 不在这里打印，由调用者打印进度
                     
                     return articles
                     
@@ -139,11 +140,17 @@ class NewsCollector:
         
         results = {}
         
+        total_keywords = sum(len(config['keywords']) for config in self.search_strategies.values())
+        current_keyword = 0
+        
         for priority, config in self.search_strategies.items():
             print(f"📌 {priority.upper()}:")
             articles = []
             
             for keyword in config['keywords']:
+                current_keyword += 1
+                print(f"  [{current_keyword}/{total_keywords}] 搜索: '{keyword}'...", end=' ', flush=True)
+                
                 keyword_articles = self.search_with_keyword(keyword, days_back, page_size=15)
                 
                 # 为文章添加优先级权重
@@ -152,9 +159,10 @@ class NewsCollector:
                     article['search_keyword'] = keyword
                 
                 articles.extend(keyword_articles)
+                print(f"✓ {len(keyword_articles)} 篇")
             
-            results[priority] = articles
             print(f"  小计: {len(articles)} 篇\n")
+            results[priority] = articles
         
         return results
     

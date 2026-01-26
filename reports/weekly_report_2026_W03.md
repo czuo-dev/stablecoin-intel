@@ -1,38 +1,39 @@
 # 稳定币情报周报
 
 **报告周期**: 2026 年第 4 周
-**生成时间**: 2026-01-21 16:46:35
+**生成时间**: 2026-01-21 16:49:53
 
 ---
 
 ## 📊 本周概览
 
-- **新闻总数**: 46 条
-- **日均新闻**: 6.6 条
+- **新闻总数**: 61 条
+- **日均新闻**: 8.7 条
 
 ## 📂 分类分布
 
-- **📰 行业新闻**: 37 条 (80.4%)
-- **📋 政策监管**: 6 条 (13.0%)
-- **💰 融资并购**: 3 条 (6.5%)
+- **📰 行业新闻**: 49 条 (80.3%)
+- **📋 政策监管**: 6 条 (9.8%)
+- **💰 融资并购**: 4 条 (6.6%)
+- **🏢 公司动态**: 2 条 (3.3%)
 
 ## 📰 主要来源
 
+- **Bitcoinist**: 4 条
 - **New York Post**: 3 条
+- **Sporting News**: 3 条
 - **BBC News**: 2 条
-- **Bitcoinist**: 2 条
+- **GlobeNewswire**: 2 条
 - **Independent.ie**: 2 条
 - **Cointelegraph**: 2 条
-- **Sporting News**: 2 条
+- **Ambcrypto.com**: 2 条
+- **The Times of India**: 2 条
 - **International Business Times**: 1 条
-- **The Indian Express**: 1 条
-- **KCRA Sacramento**: 1 条
-- **Japan Today**: 1 条
 
 ## 🔥 热点关键词
 
+- **Circle**: 提及 4 次
 - **SEC**: 提及 3 次
-- **Circle**: 提及 3 次
 - **Tether**: 提及 2 次
 - **MAS**: 提及 1 次
 
@@ -57,6 +58,12 @@
 - **来源**: Associated Press
 - **日期**: 2026-01-20
 - **链接**: [https://apnews.com/article/nyse-tokenization-trading-platform-588b84ea6d3b4745da42d58bb80bd718](https://apnews.com/article/nyse-tokenization-trading-platform-588b84ea6d3b4745da42d58bb80bd718)
+
+#### Full Year 2025 Trading Update (unaudited)
+
+- **来源**: GlobeNewswire
+- **日期**: 2026-01-20
+- **链接**: [https://www.globenewswire.com/news-release/2026/01/20/3221324/0/en/Full-Year-2025-Trading-Update-unaudited.html](https://www.globenewswire.com/news-release/2026/01/20/3221324/0/en/Full-Year-2025-Trading-Update-unaudited.html)
 
 ### 📋 政策监管
 
@@ -124,7 +131,21 @@
 - **日期**: 2026-01-20
 - **链接**: [https://www.marca.com/en/ufc/2026/01/20/696f19bb46163fca488b45af.html](https://www.marca.com/en/ufc/2026/01/20/696f19bb46163fca488b45af.html)
 
-*...还有 32 条新闻*
+*...还有 44 条新闻*
+
+### 🏢 公司动态
+
+#### New virtual remote-work sim launches on Steam with focus tools and 100% positive reviews
+
+- **来源**: Notebookcheck.net
+- **日期**: 2026-01-20
+- **链接**: [https://www.notebookcheck.net/New-virtual-remote-work-sim-launches-on-Steam-with-focus-tools-and-100-positive-reviews.1208022.0.html](https://www.notebookcheck.net/New-virtual-remote-work-sim-launches-on-Steam-with-focus-tools-and-100-positive-reviews.1208022.0.html)
+
+#### Fernando Mendoza launches himself, Indiana over Miami | Habib
+
+- **来源**: Palm Beach Post
+- **日期**: 2026-01-20
+- **链接**: [https://www.palmbeachpost.com/story/sports/college/hurricanes/2026/01/20/cfp-fernando-mendoza-curt-cignetti-indiana-hoosiers-miami-hurricanes/88258009007/](https://www.palmbeachpost.com/story/sports/college/hurricanes/2026/01/20/cfp-fernando-mendoza-curt-cignetti-indiana-hoosiers-miami-hurricanes/88258009007/)
 
 ---
 

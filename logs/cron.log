@@ -669,3 +669,104 @@ RSS 新闻列表（共 24 条）
 2026-01-19 15:25:45 [INFO]   - data/raw/newsapi_raw_2026-01-19.json
 2026-01-19 15:25:45 [INFO]   - data/processed/categorized_news_2026-01-19.json
 2026-01-19 15:25:45 [INFO]   - data/processed/integrated_data_2026-01-19.json
+=== Mon Jan 26 09:00:00 +08 2026 ===
+============================================================
+RSS 稳定币新闻订阅器
+============================================================
+
+订阅源: 4 个
+  - CoinDesk
+  - CoinTelegraph
+  - The Block
+  - Decrypt
+
+============================================================
+开始获取 RSS 订阅
+============================================================
+正在获取 CoinDesk...
+  ⚠️  RSS 格式警告
+  ✅ 获取到 0 条内容
+正在获取 CoinTelegraph...
+  ✅ 获取到 30 条内容
+正在获取 The Block...
+  ✅ 获取到 20 条内容
+正在获取 Decrypt...
+  ✅ 获取到 35 条内容
+
+✅ 共获取 85 条内容
+
+============================================================
+过滤稳定币相关新闻
+============================================================
+  ✅ [CoinTelegraph] Here’s what happened in crypto today...
+  ✅ [CoinTelegraph] Cathie Wood’s ARK adds Coinbase, Circle, Bullish a...
+  ✅ [CoinTelegraph] Stablecoin yield bans could push capital offshore ...
+  ✅ [CoinTelegraph] Remittances ‘more important than aid’ as Africa tu...
+  ✅ [The Block] The Daily: Binance seeks MiCA license, what’s next...
+  ✅ [Decrypt] Can Stablecoins Break Free From the US Dollar?...
+  ✅ [Decrypt] Olympic Snowboarder Turned Alleged Crypto Crime Ki...
+  ✅ [Decrypt] Capital One to Acquire Fintech Company Brex for $5...
+
+过滤结果: 8/85 条相关新闻
+
+============================================================
+RSS 新闻列表（共 8 条）
+============================================================
+
+1. Here’s what happened in crypto today
+   来源: CoinTelegraph
+   发布: Sun, 25 Jan 2026 21:48:13 +0000
+   链接: https://cointelegraph.com/news/what-happened-in-crypto-today...
+   关键词: DAI
+
+2. Cathie Wood’s ARK adds Coinbase, Circle, Bullish as crypto slides
+   来源: CoinTelegraph
+   发布: Sun, 25 Jan 2026 12:33:04 +0000
+   链接: https://cointelegraph.com/news/ark-invest-buys-coinbase-circ...
+   关键词: Circle
+
+3. Stablecoin yield bans could push capital offshore into ‘unregulated instruments’
+   来源: CoinTelegraph
+   发布: Sat, 24 Jan 2026 12:20:53 +0000
+   链接: https://cointelegraph.com/news/stablecoin-yield-bans-push-ca...
+   关键词: stablecoin
+
+4. Remittances ‘more important than aid’ as Africa turns to stablecoins
+   来源: CoinTelegraph
+   发布: Fri, 23 Jan 2026 20:56:37 +0000
+   链接: https://cointelegraph.com/news/remittances-more-important-th...
+   关键词: stablecoin
+
+5. The Daily: Binance seeks MiCA license, what’s next for US crypto legislation, bitcoin holders realizing net losses, and more
+   来源: The Block
+   发布: Fri, 23 Jan 2026 19:02:21 -0500
+   链接: https://www.theblock.co/post/386922/the-daily-binance-seeks-...
+   关键词: DAI
+
+6. Can Stablecoins Break Free From the US Dollar?
+   来源: Decrypt
+   发布: Sat, 24 Jan 2026 14:01:03 +0000
+   链接: https://decrypt.co/355371/can-stablecoins-break-free-from-us...
+   关键词: stablecoin
+
+7. Olympic Snowboarder Turned Alleged Crypto Crime Kingpin Arrested in Mexico
+   来源: Decrypt
+   发布: Fri, 23 Jan 2026 18:14:46 +0000
+   链接: https://decrypt.co/355728/olympic-snowboarder-turned-alleged...
+   关键词: stablecoin, Tether
+
+8. Capital One to Acquire Fintech Company Brex for $5.15 Billion
+   来源: Decrypt
+   发布: Fri, 23 Jan 2026 01:27:39 +0000
+   链接: https://decrypt.co/355595/capital-one-acquire-fintech-compan...
+   关键词: stablecoin
+✅ 数据已保存到 data/rss/news_20260126_090003.json
+✅ 已追加到总日志 data/rss_master_log.json
+
+============================================================
+完成！
+============================================================
+📊 本次获取: 8 条相关新闻
+📁 数据保存: data/rss/
+完成
+
