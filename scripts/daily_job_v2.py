@@ -19,6 +19,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from src.collectors.news_collector import NewsCollector
 from src.collectors.data_normalizer import DataNormalizer
 from src.processors.business_classifier import BusinessClassifier
+from src.collectors.content_filter import ContentFilter
 
 # 尝试导入 TwitterAPI.io 收集器
 try:
@@ -144,32 +145,39 @@ def daily_pipeline_v2():
     normalized_news = [normalizer.normalize_news(n) for n in raw_news]
     print(f"✅ 新闻标准化: {len(normalized_news)} 条")
 
-    # 标准化 Twitter（已经是标准格式）
+    # 标准化 Twitter（保留原始字段用于过滤）
     normalized_tweets = []
     for tweet in raw_tweets:
         normalized_tweets.append({
             "title": tweet.get("text", "")[:100],
             "description": tweet.get("text", ""),
+            "text": tweet.get("text", ""),  # 保留原始文本用于过滤
             "url": tweet.get("url", ""),
             "source": f"Twitter @{tweet.get('author_username', 'unknown')}",
+            "author_username": tweet.get("author_username", ""),
             "published_at": tweet.get("created_at", ""),
             "data_type": "twitter",
+            "likes": tweet.get("likes", 0),
+            "retweets": tweet.get("retweets", 0),
+            "views": tweet.get("views", 0),
             "engagement": {
                 "likes": tweet.get("likes", 0),
                 "retweets": tweet.get("retweets", 0),
                 "views": tweet.get("views", 0)
             }
         })
-    print(f"✅ Twitter 标准化: {len(normalized_tweets)} 条")
+    print(f"✅ Twitter 标准化: {len(normalized_tweets)} 条\n")
 
-    # 合并所有数据
-    all_items = normalized_news + normalized_tweets
+    # ===== STEP 3.5: 内容质量过滤 =====
+    print("🧹 STEP 3.5: 内容质量过滤")
+    print("-" * 70)
+
+    content_filter = ContentFilter()
+    all_items = content_filter.process_all(normalized_news, normalized_tweets)
 
     if len(all_items) == 0:
         print("\n❌ 没有数据可处理，任务结束")
         return False
-
-    print(f"✅ 合并后总数据: {len(all_items)} 条\n")
 
     # ===== STEP 4: 商业智能分类 =====
     print("🧠 STEP 4: 商业智能分类（竞争对手/客户/行业）")

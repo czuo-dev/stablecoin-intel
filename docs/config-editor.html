@@ -327,6 +327,7 @@
             <button class="tab active" data-tab="competitors">🏢 竞争对手</button>
             <button class="tab" data-tab="clients">🤝 客户进展</button>
             <button class="tab" data-tab="industry">📈 行业进展</button>
+            <button class="tab" data-tab="keywords">🔍 搜索关键词</button>
             <button class="tab" data-tab="accounts">🐦 Twitter账号</button>
             <button class="tab" data-tab="export">💾 导出配置</button>
         </div>
@@ -372,6 +373,37 @@
                     <input type="text" id="new-topic-keywords" placeholder="关键词，用逗号分隔">
                     <button class="btn btn-primary" onclick="addTopic()">+ 添加话题</button>
                 </div>
+            </div>
+        </div>
+
+        <!-- 搜索关键词 -->
+        <div class="panel" id="keywords">
+            <div class="section">
+                <h3 class="section-title">主要关键词 (高优先级)</h3>
+                <p style="color: #888; font-size: 0.85rem; margin-bottom: 10px;">用于 NewsAPI 和 Twitter 搜索的核心关键词</p>
+                <div class="keyword-list" id="primary-keywords-list"></div>
+                <div class="input-group">
+                    <input type="text" id="new-primary-keyword" placeholder="输入关键词，如: stablecoin">
+                    <button class="btn btn-primary" onclick="addKeyword('primary')">+ 添加</button>
+                </div>
+            </div>
+            <div class="section">
+                <h3 class="section-title">次要关键词 (低优先级)</h3>
+                <p style="color: #888; font-size: 0.85rem; margin-bottom: 10px;">补充搜索的关键词，用于扩大覆盖范围</p>
+                <div class="keyword-list" id="secondary-keywords-list"></div>
+                <div class="input-group">
+                    <input type="text" id="new-secondary-keyword" placeholder="输入关键词，如: digital dollar">
+                    <button class="btn btn-primary" onclick="addKeyword('secondary')">+ 添加</button>
+                </div>
+            </div>
+            <div class="section" style="margin-top: 30px; padding: 15px; background: #252545; border-radius: 8px;">
+                <h4 style="color: #00d4ff; margin-bottom: 10px;">💡 关键词使用说明</h4>
+                <ul style="color: #888; font-size: 0.85rem; line-height: 1.8;">
+                    <li><strong>主要关键词</strong>：每日抓取数据时会优先搜索这些词，建议放入最核心的业务关键词</li>
+                    <li><strong>次要关键词</strong>：作为补充，确保不遗漏相关信息</li>
+                    <li>系统会自动从竞争对手、客户配置中提取关键词用于搜索</li>
+                    <li>修改后请点击"导出配置"下载 JSON 文件，替换到 config/keywords.json</li>
+                </ul>
             </div>
         </div>
 
@@ -464,6 +496,10 @@
                     {username: "coinbase", name: "Coinbase"},
                     {username: "binance", name: "Binance"}
                 ]
+            },
+            search_keywords: {
+                primary: ["stablecoin", "USDC", "USDT", "PYUSD", "stablecoin regulation"],
+                secondary: ["digital dollar", "cryptocurrency payment", "blockchain finance", "tokenized deposits"]
             }
         };
 
@@ -546,6 +582,48 @@
             });
         }
 
+        function renderKeywords() {
+            // 确保 search_keywords 存在
+            if (!config.search_keywords) {
+                config.search_keywords = { primary: [], secondary: [] };
+            }
+
+            ['primary', 'secondary'].forEach(type => {
+                const list = document.getElementById(`${type}-keywords-list`);
+                const keywords = config.search_keywords[type] || [];
+                list.innerHTML = keywords.map((k, i) => `
+                    <div class="keyword">
+                        ${k}
+                        <button class="remove" onclick="removeKeyword('${type}', ${i})">×</button>
+                    </div>
+                `).join('');
+            });
+        }
+
+        function addKeyword(type) {
+            const input = document.getElementById(`new-${type}-keyword`);
+            const keyword = input.value.trim();
+
+            if (keyword) {
+                if (!config.search_keywords) {
+                    config.search_keywords = { primary: [], secondary: [] };
+                }
+                if (!config.search_keywords[type]) {
+                    config.search_keywords[type] = [];
+                }
+                if (!config.search_keywords[type].includes(keyword)) {
+                    config.search_keywords[type].push(keyword);
+                    saveAndRender();
+                }
+                input.value = '';
+            }
+        }
+
+        function removeKeyword(type, index) {
+            config.search_keywords[type].splice(index, 1);
+            saveAndRender();
+        }
+
         // 添加函数
         function addCompetitor() {
             const name = document.getElementById('new-competitor-name').value.trim();
@@ -621,6 +699,7 @@
             renderClients();
             renderIndustry();
             renderAccounts();
+            renderKeywords();
         }
 
         function updatePreview() {
