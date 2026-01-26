@@ -1,11 +1,24 @@
 # src/collectors/news_collector.py
 
+import os
 from newsapi import NewsApiClient
 from datetime import datetime, timedelta
 from typing import List, Dict
 import time
 import urllib3
-from config import NEWSAPI_KEY, NEWSAPI_DAILY_LIMIT, NEWSAPI_REQUEST_INTERVAL
+
+# 从环境变量读取配置（兼容 GitHub Actions）
+NEWSAPI_KEY = os.getenv('NEWSAPI_KEY')
+NEWSAPI_DAILY_LIMIT = int(os.getenv('NEWSAPI_DAILY_LIMIT', '100'))
+NEWSAPI_REQUEST_INTERVAL = int(os.getenv('NEWSAPI_REQUEST_INTERVAL', '5'))
+
+# 如果环境变量没有，尝试从 config.py 读取（本地开发用）
+if not NEWSAPI_KEY:
+    try:
+        from config import NEWSAPI_KEY as CONFIG_KEY
+        NEWSAPI_KEY = CONFIG_KEY
+    except ImportError:
+        pass
 
 # 禁用HTTP/2以避免协议错误（某些服务器不支持HTTP/2）
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
