@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>稳定币情报系统 | Stablecoin Intelligence</title>
-    <meta name="description" content="每周自动生成的稳定币行业深度分析报告，支持中英西三语">
+    <meta name="description" content="每日/每周自动生成的稳定币行业深度分析报告，支持中英西三语">
     <link rel="stylesheet" href="css/style.css">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📊</text></svg>">
 </head>
@@ -14,10 +14,14 @@
         <h1>📊 稳定币情报系统</h1>
         <p>Stablecoin Intelligence System</p>
         <p style="font-size: 0.95rem; margin-top: 0.5rem; opacity: 0.9;">
-            每周自动分析全球稳定币行业动态 | AI驱动的三语深度报告
+            每日/每周自动分析全球稳定币行业动态 | AI驱动的智能报告
         </p>
-        
+
         <div class="stats">
+            <div class="stat-item">
+                <span class="stat-number" id="total-daily">-</span>
+                <span class="stat-label">期日报</span>
+            </div>
             <div class="stat-item">
                 <span class="stat-number" id="total-reports">-</span>
                 <span class="stat-label">期周报</span>
@@ -26,26 +30,36 @@
                 <span class="stat-number" id="total-news">-</span>
                 <span class="stat-label">条新闻</span>
             </div>
-            <div class="stat-item">
-                <span class="stat-number">3</span>
-                <span class="stat-label">种语言</span>
-            </div>
         </div>
     </header>
 
     <!-- 主容器 -->
     <div class="container">
-        <!-- 语言选择 -->
-        <div class="language-switcher">
-            <button class="lang-btn active" data-lang="all">全部语言</button>
-            <button class="lang-btn" data-lang="zh">🇨🇳 中文</button>
-            <button class="lang-btn" data-lang="en">🇺🇸 English</button>
-            <button class="lang-btn" data-lang="es">🇪🇸 Español</button>
+        <!-- 报告类型切换 -->
+        <div class="report-type-switcher">
+            <button class="type-btn active" data-type="daily">📅 日报</button>
+            <button class="type-btn" data-type="weekly">📊 周报</button>
         </div>
 
-        <!-- 周报列表 -->
-        <div id="reports-container">
+        <!-- 日报容器 -->
+        <div id="daily-container" class="report-section active">
             <div class="loading">加载中</div>
+        </div>
+
+        <!-- 周报容器 -->
+        <div id="weekly-container" class="report-section" style="display: none;">
+            <!-- 语言选择 -->
+            <div class="language-switcher">
+                <button class="lang-btn active" data-lang="all">全部语言</button>
+                <button class="lang-btn" data-lang="zh">🇨🇳 中文</button>
+                <button class="lang-btn" data-lang="en">🇺🇸 English</button>
+                <button class="lang-btn" data-lang="es">🇪🇸 Español</button>
+            </div>
+
+            <!-- 周报列表 -->
+            <div id="reports-container">
+                <div class="loading">加载中</div>
+            </div>
         </div>
     </div>
 
@@ -65,6 +79,7 @@
     </footer>
 
     <script src="reports.js"></script>
+    <script src="daily-reports.js"></script>
     <script src="js/main.js"></script>
 </body>
 </html>

@@ -303,7 +303,19 @@ def daily_pipeline_v2():
         with open(report_file, 'w', encoding='utf-8') as f:
             f.write(daily_report)
 
-        print(f"✅ 每日简报已生成: {report_file}\n")
+        print(f"✅ 每日简报已生成: {report_file}")
+
+        # 复制到 docs 目录供 GitHub Pages 使用
+        os.makedirs('docs/reports/daily', exist_ok=True)
+        docs_report_file = f'docs/reports/daily/daily_brief_{date_str}.md'
+        with open(docs_report_file, 'w', encoding='utf-8') as f:
+            f.write(daily_report)
+        print(f"✅ 已复制到: {docs_report_file}")
+
+        # 生成前端数据文件
+        generate_daily_reports_js(categorized_data, date_str)
+        print(f"✅ 前端数据已更新: docs/daily-reports.js\n")
+
     except Exception as e:
         print(f"⚠️  日报生成失败: {e}\n")
 
@@ -331,6 +343,93 @@ def daily_pipeline_v2():
     return True
 
 
+def generate_daily_reports_js(data: dict, date_str: str):
+    """生成前端日报数据文件 (docs/daily-reports.js)"""
+
+    # 读取现有数据
+    js_file = 'docs/daily-reports.js'
+    existing_reports = []
+
+    if os.path.exists(js_file):
+        try:
+            with open(js_file, 'r', encoding='utf-8') as f:
+                content = f.read()
+                # 提取 JSON 数组
+                start = content.find('[')
+                end = content.rfind(']') + 1
+                if start >= 0 and end > start:
+                    existing_reports = json.loads(content[start:end])
+        except Exception as e:
+            print(f"  ⚠️ 读取现有数据失败: {e}")
+
+    # 构建今日数据
+    def extract_highlights(items, max_count=3, include_threat=False):
+        """提取亮点，包含 URL 和威胁分析"""
+        highlights = []
+        for item in items[:max_count]:
+            url = item.get('url', '')
+            source = item.get('source', '')
+
+            # 如果没有 URL，尝试从 source 构建 Twitter URL
+            if not url and 'Twitter @' in source:
+                username = source.replace('Twitter @', '').strip()
+                url = f'https://twitter.com/{username}'
+
+            highlight = {
+                'title': item.get('ai_summary', item.get('title', ''))[:100],
+                'url': url,
+                'source': source
+            }
+
+            # 竞争对手包含威胁分析
+            if include_threat:
+                highlight['threat_level'] = item.get('threat_level', '')
+                highlight['impact_areas'] = item.get('impact_areas', [])
+                highlight['suggested_action'] = item.get('suggested_action', '')
+
+            highlights.append(highlight)
+        return highlights
+
+    today_report = {
+        'date': date_str,
+        'title': '稳定币行业日报',
+        'file': f'reports/daily/daily_brief_{date_str}.md',
+        'stats': {
+            'competitors': len(data.get('competitors', [])),
+            'clients': len(data.get('clients', [])),
+            'industry': len(data.get('industry', []))
+        },
+        'highlights': {
+            'competitors': extract_highlights(data.get('competitors', []), include_threat=True),
+            'clients': extract_highlights(data.get('clients', [])),
+            'industry': extract_highlights(data.get('industry', []))
+        }
+    }
+
+    # 更新或添加今日数据
+    updated = False
+    for i, report in enumerate(existing_reports):
+        if report.get('date') == date_str:
+            existing_reports[i] = today_report
+            updated = True
+            break
+
+    if not updated:
+        existing_reports.insert(0, today_report)
+
+    # 只保留最近 30 天的数据
+    existing_reports = existing_reports[:30]
+
+    # 写入文件
+    js_content = f"""// 日报数据
+// 由 daily_job_v2.py 自动生成
+const dailyReports = {json.dumps(existing_reports, indent=4, ensure_ascii=False)};
+"""
+
+    with open(js_file, 'w', encoding='utf-8') as f:
+        f.write(js_content)
+
+
 def generate_daily_brief(data: dict, date_str: str) -> str:
     """生成每日简报"""
     report = []
@@ -348,9 +447,25 @@ def generate_daily_brief(data: dict, date_str: str) -> str:
             summary = item.get("ai_summary", "")
             companies = ", ".join(item.get("mentioned_companies", []))
 
+            # 威胁分析
+            threat_level = item.get("threat_level", "")
+            impact_areas = item.get("impact_areas", [])
+            suggested_action = item.get("suggested_action", "")
+
+            threat_icon = {"high": "🔴 高", "medium": "🟡 中", "low": "🟢 低"}.get(threat_level, "")
+
             report.append(f"### {title}")
             if companies:
                 report.append(f"**涉及公司**: {companies}")
+
+            # 显示威胁分析
+            if threat_level:
+                report.append(f"\n**威胁等级**: {threat_icon}")
+            if impact_areas:
+                report.append(f"**影响领域**: {', '.join(impact_areas)}")
+            if suggested_action:
+                report.append(f"**建议行动**: {suggested_action}")
+
             if summary:
                 report.append(f"\n{summary}")
             report.append(f"\n*来源: {source}*\n")

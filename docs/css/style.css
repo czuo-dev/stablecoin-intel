@@ -73,6 +73,52 @@ body {
     padding: 2rem;
 }
 
+/* 报告类型切换 */
+.report-type-switcher {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin: 2rem 0 1rem;
+    background: var(--card-bg);
+    padding: 0.5rem;
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.type-btn {
+    flex: 1;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    background: transparent;
+    color: var(--text-secondary);
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 600;
+    transition: all 0.3s;
+}
+
+.type-btn:hover {
+    background: var(--background);
+}
+
+.type-btn.active {
+    background: var(--primary-color);
+    color: white;
+    box-shadow: 0 2px 8px rgba(0, 102, 204, 0.3);
+}
+
+.report-section {
+    display: none;
+}
+
+.report-section.active {
+    display: block;
+}
+
 /* 语言切换 */
 .language-switcher {
     display: flex;
@@ -229,5 +275,191 @@ body {
 @keyframes dots {
     0%, 20% { content: '.'; }
     40% { content: '..'; }
-   '...'; }
+    60%, 100% { content: '...'; }
+}
+
+/* 日报卡片 */
+.daily-card {
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.daily-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+}
+
+.daily-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--border);
+}
+
+.daily-date {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: var(--primary-color);
+}
+
+.daily-stats {
+    display: flex;
+    gap: 1rem;
+}
+
+.daily-stat {
+    padding: 0.3rem 0.8rem;
+    background: var(--background);
+    border-radius: 20px;
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+}
+
+.daily-sections {
+    display: grid;
+    gap: 1rem;
+}
+
+.daily-section {
+    padding: 1rem;
+    background: var(--background);
+    border-radius: 8px;
+}
+
+.daily-section-title {
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+    color: var(--text-primary);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.daily-item {
+    padding: 0.5rem 0;
+    border-bottom: 1px dashed var(--border);
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
+.daily-item:last-child {
+    border-bottom: none;
+}
+
+.daily-item-link {
+    color: var(--text-primary);
+    text-decoration: none;
+    transition: color 0.2s;
+    display: block;
+}
+
+.daily-item-link:hover {
+    color: var(--primary-color);
+    text-decoration: underline;
+}
+
+.daily-item-source {
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    margin-top: 0.25rem;
+}
+
+/* 威胁分析样式 */
+.daily-item.has-threat {
+    padding: 0.75rem 0;
+}
+
+.daily-item-threat {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-top: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.threat-badge {
+    padding: 0.2rem 0.6rem;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: 600;
+}
+
+.threat-high {
+    background: #ffebee;
+    color: #c62828;
+}
+
+.threat-medium {
+    background: #fff8e1;
+    color: #f57f17;
+}
+
+.threat-low {
+    background: #e8f5e9;
+    color: #2e7d32;
+}
+
+.impact-areas {
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+}
+
+.daily-item-action {
+    font-size: 0.8rem;
+    color: var(--primary-color);
+    margin-top: 0.4rem;
+    padding: 0.4rem 0.6rem;
+    background: #e3f2fd;
+    border-radius: 6px;
+    border-left: 3px solid var(--primary-color);
+}
+
+.daily-view-full {
+    display: block;
+    text-align: center;
+    padding: 0.75rem;
+    background: var(--primary-color);
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    margin-top: 1rem;
+    font-weight: 500;
+    transition: all 0.3s;
+}
+
+.daily-view-full:hover {
+    background: #0052a3;
+    transform: scale(1.02);
+}
+
+/* 日报为空状态 */
+.empty-state {
+    text-align: center;
+    padding: 3rem;
+    color: var(--text-secondary);
+}
+
+.empty-state-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+/* 日报分类标签颜色 */
+.section-competitors {
+    border-left: 4px solid #e74c3c;
+}
+
+.section-clients {
+    border-left: 4px solid #27ae60;
+}
+
+.section-industry {
+    border-left: 4px solid #3498db;
 }

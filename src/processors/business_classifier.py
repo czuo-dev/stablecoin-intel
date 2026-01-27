@@ -218,14 +218,27 @@ class BusinessClassifier:
 2. clients（客户进展）- 关于 {client_desc} 等交易所/金融机构采用稳定币、托管服务的动态
 3. industry（行业进展）- 关于监管政策、市场趋势、融资事件、技术发展等行业整体动态
 
-请以 JSON 格式回复：
+请以 JSON 格式回复。
+
+如果是 competitors 类别，请额外分析对我们（一家提供稳定币托管和支付基础设施的公司）的影响：
+
 {{
     "category": "competitors/clients/industry",
     "confidence": 0.0-1.0,
     "mentioned_companies": ["公司名"],
     "importance": 1-10,
-    "summary": "一句话摘要（中文）"
-}}"""
+    "summary": "一句话摘要（中文）",
+
+    // 仅 competitors 类别需要以下字段：
+    "threat_level": "high/medium/low",
+    "impact_areas": ["产品竞争", "客户争夺", "市场定价", "技术差距", "合规优势", "品牌影响"],
+    "suggested_action": "具体应对建议（中文，一句话）"
+}}
+
+注意：
+- threat_level: high=直接威胁核心业务, medium=间接影响, low=需关注但影响有限
+- impact_areas: 从列表中选择1-3个最相关的
+- 如果不是 competitors 类别，不需要 threat_level/impact_areas/suggested_action 字段"""
 
         try:
             response = self.client.chat.completions.create(
@@ -281,7 +294,11 @@ class BusinessClassifier:
             "confidence": confidence,
             "mentioned_companies": mentioned,
             "importance": 5,
-            "summary": ""
+            "summary": "",
+            # 竞争对手影响分析字段（默认值）
+            "threat_level": "",
+            "impact_areas": [],
+            "suggested_action": ""
         }
 
     def classify_batch(self, items: List[Dict], use_ai: bool = True) -> Dict[str, List[Dict]]:
@@ -320,12 +337,22 @@ class BusinessClassifier:
                 "ai_confidence": classification["confidence"],
                 "mentioned_companies": classification["mentioned_companies"],
                 "importance_score": classification["importance"],
-                "ai_summary": classification.get("summary", "")
+                "ai_summary": classification.get("summary", ""),
+                # 竞争对手影响分析
+                "threat_level": classification.get("threat_level", ""),
+                "impact_areas": classification.get("impact_areas", []),
+                "suggested_action": classification.get("suggested_action", "")
             })
 
             category = classification["category"]
             results[category].append(item)
-            print(f"✓ {classification['category_cn']}")
+
+            # 显示分类结果，竞争对手显示威胁等级
+            if category == "competitors" and classification.get("threat_level"):
+                threat_icon = {"high": "🔴", "medium": "🟡", "low": "🟢"}.get(classification["threat_level"], "⚪")
+                print(f"✓ {classification['category_cn']} {threat_icon}")
+            else:
+                print(f"✓ {classification['category_cn']}")
 
         print(f"\n📊 分类统计:")
         print(f"   竞争对手: {len(results['competitors'])} 条")
