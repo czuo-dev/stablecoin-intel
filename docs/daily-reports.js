@@ -1,6 +1,74 @@
 // 日报数据
-// 由 daily_job_v2.py 生成，或手动更新
+// 由 daily_job_v2.py 自动生成
 const dailyReports = [
+    {
+        "date": "2026-01-27",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-01-27.md",
+        "stats": {
+            "competitors": 6,
+            "clients": 0,
+            "industry": 16
+        },
+        "highlights": {
+            "competitors": [
+                {
+                    "title": "TrustLinq 提供了一种将稳定币转化为法币支付的解决方案，可能对我们的市场地位构成威胁。",
+                    "url": "https://x.com/Trustlinq/status/2015645487173701966",
+                    "source": "Twitter @Trustlinq",
+                    "threat_level": "medium",
+                    "impact_areas": [
+                        "产品竞争",
+                        "客户争夺",
+                        "合规优势"
+                    ],
+                    "suggested_action": "加强我们的产品功能和合规优势，以应对竞争。"
+                },
+                {
+                    "title": "SHRED通过集成Fireblocks的MPC托管技术提升了安全性，可能对我们的市场地位构成威胁。",
+                    "url": "https://x.com/treazweb3/status/2014865251766854137",
+                    "source": "Twitter @treazweb3",
+                    "threat_level": "medium",
+                    "impact_areas": [
+                        "产品竞争",
+                        "技术差距",
+                        "品牌影响"
+                    ],
+                    "suggested_action": "加强我们的安全技术宣传，提升品牌信任度。"
+                },
+                {
+                    "title": "市场上现有的托管和互操作性解决方案将因竞争加剧而面临更大挑战，尤其是新兴竞争者的崛起。",
+                    "url": "https://x.com/d3h3d_/status/2015554450149052695",
+                    "source": "Twitter @d3h3d_",
+                    "threat_level": "high",
+                    "impact_areas": [
+                        "产品竞争",
+                        "客户争夺",
+                        "技术差距"
+                    ],
+                    "suggested_action": "加快技术创新和提升服务质量，以应对新竞争者的挑战。"
+                }
+            ],
+            "clients": [],
+            "industry": [
+                {
+                    "title": "PYUSD的发行显示了稳定币市场的活跃度和增长潜力。",
+                    "url": "https://x.com/usdcoinprinter/status/2015905090528231817",
+                    "source": "Twitter @usdcoinprinter"
+                },
+                {
+                    "title": "PYUSD的印刷量增加反映了稳定币市场的活跃度和需求增长。",
+                    "url": "https://x.com/usdcoinprinter/status/2015889991843369366",
+                    "source": "Twitter @usdcoinprinter"
+                },
+                {
+                    "title": "数字资产托管面临独特挑战，机构正在采用先进技术保障安全性。",
+                    "url": "https://x.com/HalbornSecurity/status/2014747455078707475",
+                    "source": "Twitter @HalbornSecurity"
+                }
+            ]
+        }
+    },
     {
         "date": "2026-01-26",
         "title": "稳定币行业日报",

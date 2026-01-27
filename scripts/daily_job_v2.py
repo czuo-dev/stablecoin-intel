@@ -19,6 +19,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from src.collectors.news_collector import NewsCollector
 from src.collectors.data_normalizer import DataNormalizer
 from src.processors.business_classifier import BusinessClassifier
+from src.processors.daily_summary_generator import DailySummaryGenerator
 from src.collectors.content_filter import ContentFilter
 
 # 尝试导入 TwitterAPI.io 收集器
@@ -291,12 +292,24 @@ def daily_pipeline_v2():
 
     print(f"✅ 兼容格式已保存: {legacy_file}\n")
 
-    # ===== STEP 6: 生成每日简报 =====
-    print("📄 STEP 6: 生成每日简报")
+    # ===== STEP 6: 生成每日洞察 =====
+    print("📊 STEP 6: 生成每日洞察")
+    print("-" * 70)
+
+    insights = None
+    try:
+        summary_generator = DailySummaryGenerator(api_key=OPENAI_API_KEY)
+        insights = summary_generator.generate_daily_insights(categorized_data)
+        print("✅ 每日洞察生成完成\n")
+    except Exception as e:
+        print(f"⚠️  每日洞察生成失败: {e}\n")
+
+    # ===== STEP 7: 生成每日简报 =====
+    print("📄 STEP 7: 生成每日简报")
     print("-" * 70)
 
     try:
-        daily_report = generate_daily_brief(categorized_data, date_str)
+        daily_report = generate_daily_brief(categorized_data, date_str, insights)
 
         os.makedirs('reports/daily', exist_ok=True)
         report_file = f'reports/daily/daily_brief_{date_str}.md'
@@ -430,12 +443,29 @@ const dailyReports = {json.dumps(existing_reports, indent=4, ensure_ascii=False)
         f.write(js_content)
 
 
-def generate_daily_brief(data: dict, date_str: str) -> str:
+def generate_daily_brief(data: dict, date_str: str, insights: dict = None) -> str:
     """生成每日简报"""
     report = []
     report.append(f"# 稳定币行业日报")
     report.append(f"\n**日期**: {date_str}")
     report.append(f"\n---\n")
+
+    # 每日洞察板块
+    if insights:
+        report.append("## 📊 每日洞察\n")
+
+        competitor_summary = insights.get("competitor_summary", "")
+        industry_summary = insights.get("industry_summary", "")
+
+        if competitor_summary:
+            report.append("### 🔴 竞争对手威胁总结")
+            report.append(f"\n{competitor_summary}\n")
+
+        if industry_summary:
+            report.append("### 📈 行业趋势总结")
+            report.append(f"\n{industry_summary}\n")
+
+        report.append("---\n")
 
     # 竞争对手动态
     competitors = data.get("competitors", [])
