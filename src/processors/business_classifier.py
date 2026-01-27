@@ -332,11 +332,11 @@ class BusinessClassifier:
 
             # 合并分类结果到原始数据
             item.update({
-                "business_category": classification["category"],
-                "business_category_cn": classification["category_cn"],
-                "ai_confidence": classification["confidence"],
-                "mentioned_companies": classification["mentioned_companies"],
-                "importance_score": classification["importance"],
+                "business_category": classification.get("category", "industry"),
+                "business_category_cn": classification.get("category_cn", "行业进展"),
+                "ai_confidence": classification.get("confidence", 0.5),
+                "mentioned_companies": classification.get("mentioned_companies", []),
+                "importance_score": classification.get("importance", 5),
                 "ai_summary": classification.get("summary", ""),
                 # 竞争对手影响分析
                 "threat_level": classification.get("threat_level", ""),
@@ -344,15 +344,16 @@ class BusinessClassifier:
                 "suggested_action": classification.get("suggested_action", "")
             })
 
-            category = classification["category"]
+            category = classification.get("category", "industry")
             results[category].append(item)
 
             # 显示分类结果，竞争对手显示威胁等级
+            category_cn = classification.get("category_cn", "行业进展")
             if category == "competitors" and classification.get("threat_level"):
-                threat_icon = {"high": "🔴", "medium": "🟡", "low": "🟢"}.get(classification["threat_level"], "⚪")
-                print(f"✓ {classification['category_cn']} {threat_icon}")
+                threat_icon = {"high": "🔴", "medium": "🟡", "low": "🟢"}.get(classification.get("threat_level", ""), "⚪")
+                print(f"✓ {category_cn} {threat_icon}")
             else:
-                print(f"✓ {classification['category_cn']}")
+                print(f"✓ {category_cn}")
 
         print(f"\n📊 分类统计:")
         print(f"   竞争对手: {len(results['competitors'])} 条")
