@@ -1,13 +1,15 @@
 # src/processors/business_classifier.py
 """
-商业智能分类器
+商业智能分类器 V1.1
 将新闻/推文分为三类：竞争对手、客户进展、行业进展
+支持新配置结构：competitors.tier_0/tier_1, customers.layer_a, industry_topics
 """
 
 import os
 import json
 from typing import Dict, List, Optional
 from openai import OpenAI
+
 
 class BusinessClassifier:
     """
@@ -48,58 +50,99 @@ class BusinessClassifier:
 
         # 默认配置
         return {
-            "categories": {
-                "competitors": {
-                    "companies": [
-                        {"name": "Circle", "keywords": ["Circle", "USDC"]},
-                        {"name": "Tether", "keywords": ["Tether", "USDT"]},
-                        {"name": "Paxos", "keywords": ["Paxos", "USDP"]},
-                        {"name": "PayPal", "keywords": ["PayPal", "PYUSD"]}
-                    ]
-                },
-                "clients": {
-                    "companies": [
-                        {"name": "Visa", "keywords": ["Visa stablecoin"]},
-                        {"name": "Mastercard", "keywords": ["Mastercard stablecoin"]},
-                        {"name": "Stripe", "keywords": ["Stripe stablecoin"]}
-                    ]
-                },
-                "industry": {
-                    "topics": [
-                        {"name": "监管政策", "keywords": ["regulation", "MiCA", "stablecoin bill"]},
-                        {"name": "市场动态", "keywords": ["market cap", "adoption"]},
-                        {"name": "融资投资", "keywords": ["funding", "investment", "raises"]}
-                    ]
-                }
+            "competitors": {
+                "tier_0_custody": [
+                    {"name": "Fireblocks", "twitter": "FireblocksHQ"},
+                    {"name": "BitGo", "twitter": "BitGo"}
+                ],
+                "tier_1_payment_infra": [
+                    {"name": "OSL", "twitter": "OSL_exchange"}
+                ]
+            },
+            "customers": {
+                "layer_a": [
+                    {"name": "Vantage", "twitter": "VantageMarkets"}
+                ],
+                "context_keywords": ["stablecoin", "custody"]
             }
         }
 
     def _build_keyword_maps(self):
-        """构建关键词到分类的映射"""
+        """构建关键词到分类的映射，支持新配置结构 V1.1"""
         self.competitor_keywords = set()
         self.competitor_names = []
         self.client_keywords = set()
         self.client_names = []
         self.industry_keywords = set()
 
-        categories = self.config.get("categories", {})
+        # ========== 竞争对手 (新结构) ==========
+        competitors = self.config.get("competitors", {})
 
-        # 竞争对手关键词
-        for company in categories.get("competitors", {}).get("companies", []):
-            self.competitor_names.append(company["name"])
+        # 新结构：tier_0_custody + tier_1_payment_infra
+        for tier in ['tier_0_custody', 'tier_1_payment_infra']:
+            for company in competitors.get(tier, []):
+                name = company.get("name", "")
+                if name:
+                    self.competitor_names.append(name)
+                    self.competitor_keywords.add(name.lower())
+
+        # 兼容旧结构：categories.competitors.companies
+        old_categories = self.config.get("categories", {})
+        for company in old_categories.get("competitors", {}).get("companies", []):
+            name = company.get("name", "")
+            if name and name not in self.competitor_names:
+                self.competitor_names.append(name)
             for kw in company.get("keywords", []):
                 self.competitor_keywords.add(kw.lower())
 
-        # 客户关键词
-        for company in categories.get("clients", {}).get("companies", []):
-            self.client_names.append(company["name"])
+        # ========== 客户 (新结构) ==========
+        customers = self.config.get("customers", {})
+
+        # 新结构：layer_a
+        for company in customers.get("layer_a", []):
+            name = company.get("name", "")
+            if name:
+                self.client_names.append(name)
+                self.client_keywords.add(name.lower())
+
+        # 客户上下文关键词
+        for kw in customers.get("context_keywords", []):
+            self.client_keywords.add(kw.lower())
+
+        # 兼容旧结构：categories.clients.companies
+        for company in old_categories.get("clients", {}).get("companies", []):
+            name = company.get("name", "")
+            if name and name not in self.client_names:
+                self.client_names.append(name)
             for kw in company.get("keywords", []):
                 self.client_keywords.add(kw.lower())
 
-        # 行业关键词
-        for topic in categories.get("industry", {}).get("topics", []):
+        # ========== 行业话题 (新结构) ==========
+        industry_topics = self.config.get("industry_topics", {})
+
+        # 新结构：industry_topics with keywords_any + keywords_context
+        for topic_key, topic_config in industry_topics.items():
+            for kw in topic_config.get("keywords_any", []):
+                self.industry_keywords.add(kw.lower())
+            for kw in topic_config.get("keywords_context", []):
+                self.industry_keywords.add(kw.lower())
+
+        # 兼容旧结构：categories.industry.topics
+        for topic in old_categories.get("industry", {}).get("topics", []):
             for kw in topic.get("keywords", []):
                 self.industry_keywords.add(kw.lower())
+
+    def _get_competitor_description(self) -> str:
+        """从配置动态生成竞争对手描述"""
+        if self.competitor_names:
+            return "、".join(self.competitor_names[:8])
+        return "Fireblocks、BitGo、Copper、Anchorage 等托管/支付基础设施公司"
+
+    def _get_client_description(self) -> str:
+        """从配置动态生成客户描述"""
+        if self.client_names:
+            return "、".join(self.client_names[:8])
+        return "Vantage、WEEX、Bitunix、Antalpha 等交易所/金融机构"
 
     def _quick_classify(self, text: str) -> Optional[str]:
         """
@@ -159,16 +202,21 @@ class BusinessClassifier:
         return self._build_result("industry", content, confidence=0.5)
 
     def _ai_classify(self, title: str, description: str) -> Dict:
-        """使用 AI 进行分类"""
-        prompt = f"""分析以下稳定币行业新闻，进行分类。
+        """使用 AI 进行分类，动态生成提示词"""
+
+        # 动态生成公司列表
+        competitor_desc = self._get_competitor_description()
+        client_desc = self._get_client_description()
+
+        prompt = f"""分析以下稳定币/加密货币行业新闻，进行分类。
 
 标题: {title}
 内容: {description[:500]}
 
 请分类到以下三个类别之一：
-1. competitors（竞争对手）- 关于 Circle/USDC、Tether/USDT、Paxos、PayPal/PYUSD 等稳定币发行商的动态
-2. clients（客户进展）- 关于 Visa、Mastercard、Stripe、JPMorgan 等金融机构采用稳定币的动态
-3. industry（行业进展）- 关于监管政策、市场趋势、融资事件等行业整体动态
+1. competitors（竞争对手）- 关于 {competitor_desc} 等托管/支付基础设施公司的动态
+2. clients（客户进展）- 关于 {client_desc} 等交易所/金融机构采用稳定币、托管服务的动态
+3. industry（行业进展）- 关于监管政策、市场趋势、融资事件、技术发展等行业整体动态
 
 请以 JSON 格式回复：
 {{
@@ -291,9 +339,13 @@ class BusinessClassifier:
 if __name__ == "__main__":
     classifier = BusinessClassifier()
 
+    print("📋 配置加载测试:")
+    print(f"   竞争对手: {classifier.competitor_names}")
+    print(f"   客户: {classifier.client_names}")
+
     test_items = [
-        {"title": "Circle announces new USDC features", "description": "Circle launches cross-chain USDC"},
-        {"title": "Visa expands stablecoin settlement", "description": "Visa partners with Circle for USDC settlement"},
+        {"title": "Fireblocks announces new MPC custody solution", "description": "Fireblocks launches institutional custody"},
+        {"title": "WEEX expands stablecoin trading", "description": "WEEX adds USDC trading pairs"},
         {"title": "EU finalizes MiCA stablecoin rules", "description": "New regulations for stablecoins in Europe"}
     ]
 

@@ -1,9 +1,9 @@
 # scripts/daily_job_v2.py
 """
-每日完整数据收集和AI分析流程 V2
+每日完整数据收集和AI分析流程 V2.1
 - 使用 TwitterAPI.io 替代官方 API（成本降低96%）
 - 新分类体系：竞争对手 / 客户进展 / 行业进展
-- 支持从 config/keywords.json 读取配置
+- 支持新配置结构 V1.1：competitors.tier_0/tier_1, customers.layer_a
 """
 
 import os
@@ -47,10 +47,19 @@ def load_keywords_config():
         with open(config_path, 'r', encoding='utf-8') as f:
             return json.load(f)
 
-    # 默认配置
+    # 默认配置（新结构 V1.1）
     return {
         "search_keywords": {
-            "primary": ["stablecoin", "USDC", "USDT", "PYUSD"]
+            "primary": ["stablecoin", "USDC", "USDT", "PYUSD"],
+            "secondary": ["digital dollar", "tokenized cash"]
+        },
+        "competitors": {
+            "tier_0_custody": [{"name": "Fireblocks", "twitter": "FireblocksHQ"}],
+            "tier_1_payment_infra": [{"name": "OSL", "twitter": "OSL_exchange"}]
+        },
+        "customers": {
+            "layer_a": [{"name": "Vantage", "twitter": "VantageMarkets"}],
+            "context_keywords": ["stablecoin", "custody"]
         },
         "twitter_accounts": {
             "kol": [{"username": "jerallaire"}, {"username": "paoloardoino"}],
@@ -59,11 +68,78 @@ def load_keywords_config():
     }
 
 
+def extract_twitter_accounts(config: dict) -> list:
+    """从配置中提取所有需要监控的 Twitter 账号"""
+    accounts = []
+
+    # 1. 竞争对手账号（新结构）
+    competitors = config.get("competitors", {})
+    for tier in ['tier_0_custody', 'tier_1_payment_infra']:
+        for company in competitors.get(tier, []):
+            twitter = company.get("twitter", "")
+            if twitter and twitter not in accounts:
+                accounts.append(twitter)
+
+    # 2. 客户账号（新结构）
+    customers = config.get("customers", {})
+    for company in customers.get("layer_a", []):
+        twitter = company.get("twitter", "")
+        if twitter and twitter not in accounts:
+            accounts.append(twitter)
+
+    # 3. KOL 和媒体账号
+    for group in config.get("twitter_accounts", {}).values():
+        for acc in group:
+            username = acc.get("username", "")
+            if username and username not in accounts:
+                accounts.append(username)
+
+    # 4. 兼容旧结构
+    old_categories = config.get("categories", {})
+    for company in old_categories.get("competitors", {}).get("companies", []):
+        twitter = company.get("twitter", "")
+        if twitter and twitter not in accounts:
+            accounts.append(twitter)
+    for company in old_categories.get("clients", {}).get("companies", []):
+        twitter = company.get("twitter", "")
+        if twitter and twitter not in accounts:
+            accounts.append(twitter)
+
+    return accounts
+
+
+def extract_search_keywords(config: dict) -> list:
+    """从配置中提取搜索关键词"""
+    keywords = []
+
+    # 1. 主要和次要搜索关键词
+    search_keywords = config.get("search_keywords", {})
+    keywords.extend(search_keywords.get("primary", []))
+    keywords.extend(search_keywords.get("secondary", []))
+
+    # 2. 竞争对手公司名
+    competitors = config.get("competitors", {})
+    for tier in ['tier_0_custody', 'tier_1_payment_infra']:
+        for company in competitors.get(tier, []):
+            name = company.get("name", "")
+            if name and name not in keywords:
+                keywords.append(name)
+
+    # 3. 客户公司名
+    customers = config.get("customers", {})
+    for company in customers.get("layer_a", []):
+        name = company.get("name", "")
+        if name and name not in keywords:
+            keywords.append(name)
+
+    return keywords
+
+
 def daily_pipeline_v2():
-    """完整的每日数据处理流程 V2"""
+    """完整的每日数据处理流程 V2.1"""
 
     print("=" * 70)
-    print(f"🤖 每日情报系统 V2 - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"🤖 每日情报系统 V2.1 - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 70 + "\n")
 
     date_str = datetime.now().strftime('%Y-%m-%d')
@@ -75,6 +151,7 @@ def daily_pipeline_v2():
 
     # 加载配置
     config = load_keywords_config()
+    print(f"📋 配置版本: {config.get('version', '1.0')}\n")
 
     # ===== STEP 1: 收集 NewsAPI 数据 =====
     print("📡 STEP 1: 收集 NewsAPI 数据")
@@ -98,19 +175,17 @@ def daily_pipeline_v2():
         try:
             twitter_collector = TwitterAPIioCollector(api_key=TWITTERAPI_IO_KEY)
 
-            # 从配置获取关键词和账号
-            keywords = config.get("search_keywords", {}).get("primary", [])
-            keywords += config.get("search_keywords", {}).get("secondary", [])
+            # 从配置获取关键词和账号（使用新的提取函数）
+            keywords = extract_search_keywords(config)
+            accounts = extract_twitter_accounts(config)
 
-            accounts = []
-            for group in config.get("twitter_accounts", {}).values():
-                for acc in group:
-                    accounts.append(acc["username"])
+            print(f"   关键词: {len(keywords)} 个")
+            print(f"   账号: {len(accounts)} 个")
 
             # 收集数据
             twitter_data = twitter_collector.collect_all(
                 keywords=keywords[:10],  # 限制关键词数量控制成本
-                accounts=accounts[:10],
+                accounts=accounts[:15],  # 增加账号监控数量
                 hours_back=24
             )
 

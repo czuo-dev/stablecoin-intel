@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>稳定币情报 - 关键词配置</title>
+    <title>稳定币情报 - 关键词配置 V1.1</title>
     <style>
         * {
             margin: 0;
@@ -154,31 +154,6 @@
             border: 1px solid #333;
         }
 
-        .tag.editable {
-            cursor: pointer;
-        }
-
-        .tag.editable:hover {
-            border-color: #00d4ff;
-            color: #00d4ff;
-        }
-
-        .add-btn {
-            background: transparent;
-            border: 1px dashed #444;
-            padding: 4px 10px;
-            border-radius: 15px;
-            font-size: 0.75rem;
-            color: #666;
-            cursor: pointer;
-            transition: all 0.3s;
-        }
-
-        .add-btn:hover {
-            border-color: #00d4ff;
-            color: #00d4ff;
-        }
-
         .keyword-list {
             display: flex;
             flex-wrap: wrap;
@@ -216,7 +191,7 @@
             margin-top: 15px;
         }
 
-        input[type="text"] {
+        input[type="text"], select {
             flex: 1;
             padding: 12px 16px;
             border: 1px solid #333;
@@ -226,7 +201,7 @@
             font-size: 0.95rem;
         }
 
-        input[type="text"]:focus {
+        input[type="text"]:focus, select:focus {
             outline: none;
             border-color: #00d4ff;
         }
@@ -257,6 +232,11 @@
 
         .btn-secondary:hover {
             background: #404080;
+        }
+
+        .btn-danger {
+            background: #ff4757;
+            color: white;
         }
 
         .actions {
@@ -301,6 +281,14 @@
             color: #ff4757;
         }
 
+        .tier-label {
+            background: #404080;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.7rem;
+            margin-left: 8px;
+        }
+
         @media (max-width: 768px) {
             .card-grid {
                 grid-template-columns: 1fr;
@@ -319,59 +307,71 @@
 <body>
     <div class="container">
         <header>
-            <h1>🎯 稳定币情报 - 关键词配置</h1>
-            <p class="subtitle">配置监控关键词、Twitter账号和分类规则</p>
+            <h1>🎯 稳定币情报 - 关键词配置 V1.1</h1>
+            <p class="subtitle">配置监控关键词、竞争对手、客户和 Twitter 账号</p>
         </header>
 
         <div class="tabs">
             <button class="tab active" data-tab="competitors">🏢 竞争对手</button>
-            <button class="tab" data-tab="clients">🤝 客户进展</button>
-            <button class="tab" data-tab="industry">📈 行业进展</button>
+            <button class="tab" data-tab="customers">🤝 客户</button>
+            <button class="tab" data-tab="industry">📈 行业话题</button>
             <button class="tab" data-tab="keywords">🔍 搜索关键词</button>
             <button class="tab" data-tab="accounts">🐦 Twitter账号</button>
+            <button class="tab" data-tab="filters">🚫 过滤规则</button>
             <button class="tab" data-tab="export">💾 导出配置</button>
         </div>
 
         <!-- 竞争对手 -->
         <div class="panel active" id="competitors">
             <div class="section">
-                <h3 class="section-title">竞争对手监控</h3>
-                <div class="card-grid" id="competitors-grid"></div>
+                <h3 class="section-title">Tier 0 - 托管服务商</h3>
+                <div class="card-grid" id="tier0-grid"></div>
+            </div>
+            <div class="section">
+                <h3 class="section-title">Tier 1 - 支付基础设施</h3>
+                <div class="card-grid" id="tier1-grid"></div>
             </div>
             <div class="input-group">
-                <input type="text" id="new-competitor-name" placeholder="公司名称，如: Coinbase">
-                <input type="text" id="new-competitor-twitter" placeholder="Twitter账号，如: coinbase">
-                <input type="text" id="new-competitor-keywords" placeholder="关键词，用逗号分隔">
+                <select id="competitor-tier">
+                    <option value="tier_0_custody">Tier 0 - 托管</option>
+                    <option value="tier_1_payment_infra">Tier 1 - 支付</option>
+                </select>
+                <input type="text" id="new-competitor-name" placeholder="公司名称">
+                <input type="text" id="new-competitor-twitter" placeholder="Twitter账号">
                 <button class="btn btn-primary" onclick="addCompetitor()">+ 添加</button>
             </div>
         </div>
 
-        <!-- 客户进展 -->
-        <div class="panel" id="clients">
+        <!-- 客户 -->
+        <div class="panel" id="customers">
             <div class="section">
-                <h3 class="section-title">潜在客户和合作伙伴</h3>
-                <div class="card-grid" id="clients-grid"></div>
+                <h3 class="section-title">Layer A - 重点客户（全量监控）</h3>
+                <div class="card-grid" id="layer-a-grid"></div>
+            </div>
+            <div class="section">
+                <h3 class="section-title">上下文关键词（用于 Layer B 过滤）</h3>
+                <div class="keyword-list" id="context-keywords-list"></div>
+                <div class="input-group">
+                    <input type="text" id="new-context-keyword" placeholder="输入关键词">
+                    <button class="btn btn-primary" onclick="addContextKeyword()">+ 添加</button>
+                </div>
             </div>
             <div class="input-group">
-                <input type="text" id="new-client-name" placeholder="公司名称">
-                <input type="text" id="new-client-twitter" placeholder="Twitter账号">
-                <input type="text" id="new-client-keywords" placeholder="关键词，用逗号分隔">
-                <button class="btn btn-primary" onclick="addClient()">+ 添加</button>
+                <input type="text" id="new-customer-name" placeholder="客户名称">
+                <input type="text" id="new-customer-twitter" placeholder="Twitter账号">
+                <button class="btn btn-primary" onclick="addCustomer()">+ 添加客户</button>
             </div>
         </div>
 
-        <!-- 行业进展 -->
+        <!-- 行业话题 -->
         <div class="panel" id="industry">
-            <div class="section">
-                <h3 class="section-title">行业关键词</h3>
-                <div id="industry-topics"></div>
-            </div>
-            <div class="section">
+            <div id="industry-topics-container"></div>
+            <div class="section" style="margin-top: 20px;">
                 <h3 class="section-title">添加新话题</h3>
                 <div class="input-group">
-                    <input type="text" id="new-topic-name" placeholder="话题名称，如: CBDC">
-                    <input type="text" id="new-topic-keywords" placeholder="关键词，用逗号分隔">
-                    <button class="btn btn-primary" onclick="addTopic()">+ 添加话题</button>
+                    <input type="text" id="new-topic-key" placeholder="话题ID (英文)">
+                    <input type="text" id="new-topic-name" placeholder="话题名称">
+                    <button class="btn btn-primary" onclick="addIndustryTopic()">+ 添加话题</button>
                 </div>
             </div>
         </div>
@@ -380,30 +380,19 @@
         <div class="panel" id="keywords">
             <div class="section">
                 <h3 class="section-title">主要关键词 (高优先级)</h3>
-                <p style="color: #888; font-size: 0.85rem; margin-bottom: 10px;">用于 NewsAPI 和 Twitter 搜索的核心关键词</p>
                 <div class="keyword-list" id="primary-keywords-list"></div>
                 <div class="input-group">
-                    <input type="text" id="new-primary-keyword" placeholder="输入关键词，如: stablecoin">
+                    <input type="text" id="new-primary-keyword" placeholder="输入关键词">
                     <button class="btn btn-primary" onclick="addKeyword('primary')">+ 添加</button>
                 </div>
             </div>
             <div class="section">
                 <h3 class="section-title">次要关键词 (低优先级)</h3>
-                <p style="color: #888; font-size: 0.85rem; margin-bottom: 10px;">补充搜索的关键词，用于扩大覆盖范围</p>
                 <div class="keyword-list" id="secondary-keywords-list"></div>
                 <div class="input-group">
-                    <input type="text" id="new-secondary-keyword" placeholder="输入关键词，如: digital dollar">
+                    <input type="text" id="new-secondary-keyword" placeholder="输入关键词">
                     <button class="btn btn-primary" onclick="addKeyword('secondary')">+ 添加</button>
                 </div>
-            </div>
-            <div class="section" style="margin-top: 30px; padding: 15px; background: #252545; border-radius: 8px;">
-                <h4 style="color: #00d4ff; margin-bottom: 10px;">💡 关键词使用说明</h4>
-                <ul style="color: #888; font-size: 0.85rem; line-height: 1.8;">
-                    <li><strong>主要关键词</strong>：每日抓取数据时会优先搜索这些词，建议放入最核心的业务关键词</li>
-                    <li><strong>次要关键词</strong>：作为补充，确保不遗漏相关信息</li>
-                    <li>系统会自动从竞争对手、客户配置中提取关键词用于搜索</li>
-                    <li>修改后请点击"导出配置"下载 JSON 文件，替换到 config/keywords.json</li>
-                </ul>
             </div>
         </div>
 
@@ -417,19 +406,42 @@
                 <h3 class="section-title">媒体账号</h3>
                 <div class="keyword-list" id="media-list"></div>
             </div>
-            <div class="section">
-                <h3 class="section-title">机构账号</h3>
-                <div class="keyword-list" id="institutions-list"></div>
-            </div>
             <div class="input-group">
                 <select id="account-type">
                     <option value="kol">KOL</option>
                     <option value="media">媒体</option>
-                    <option value="institutions">机构</option>
                 </select>
                 <input type="text" id="new-account-username" placeholder="Twitter用户名">
                 <input type="text" id="new-account-name" placeholder="显示名称">
                 <button class="btn btn-primary" onclick="addAccount()">+ 添加</button>
+            </div>
+        </div>
+
+        <!-- 过滤规则 -->
+        <div class="panel" id="filters">
+            <div class="section">
+                <h3 class="section-title">排除关键词（匹配即过滤）</h3>
+                <div class="keyword-list" id="exclude-keywords-list"></div>
+                <div class="input-group">
+                    <input type="text" id="new-exclude-keyword" placeholder="输入排除关键词">
+                    <button class="btn btn-primary" onclick="addExcludeKeyword()">+ 添加</button>
+                </div>
+            </div>
+            <div class="section">
+                <h3 class="section-title">高信号关键词（降低互动阈值）</h3>
+                <div class="keyword-list" id="high-signal-list"></div>
+                <div class="input-group">
+                    <input type="text" id="new-high-signal" placeholder="输入高信号关键词">
+                    <button class="btn btn-primary" onclick="addSignalKeyword('high_signal')">+ 添加</button>
+                </div>
+            </div>
+            <div class="section">
+                <h3 class="section-title">中信号关键词</h3>
+                <div class="keyword-list" id="medium-signal-list"></div>
+                <div class="input-group">
+                    <input type="text" id="new-medium-signal" placeholder="输入中信号关键词">
+                    <button class="btn btn-primary" onclick="addSignalKeyword('medium_signal')">+ 添加</button>
+                </div>
             </div>
         </div>
 
@@ -452,37 +464,58 @@
     </div>
 
     <script>
-        // 默认配置
+        // 默认配置 V1.1
         let config = {
-            version: "1.0",
+            version: "1.1",
             last_updated: new Date().toISOString().split('T')[0],
-            categories: {
-                competitors: {
-                    name: "竞争对手",
-                    companies: [
-                        {name: "Circle", twitter: "circle", keywords: ["Circle", "USDC"]},
-                        {name: "Tether", twitter: "Tether_to", keywords: ["Tether", "USDT"]},
-                        {name: "Paxos", twitter: "paxos", keywords: ["Paxos", "USDP"]},
-                        {name: "PayPal", twitter: "PayPal", keywords: ["PayPal", "PYUSD"]}
-                    ]
+            description: "稳定币情报系统关键词配置 V1.1",
+
+            competitors: {
+                tier_0_custody: [
+                    {name: "Fireblocks", twitter: "FireblocksHQ"},
+                    {name: "BitGo", twitter: "BitGo"},
+                    {name: "Copper", twitter: "CopperHQ"},
+                    {name: "Anchorage Digital", twitter: "Anchorage"},
+                    {name: "Safeheron", twitter: "Safeheron"},
+                    {name: "Cregis", twitter: "CregisOfficial"}
+                ],
+                tier_1_payment_infra: [
+                    {name: "OSL", twitter: "OSL_exchange"},
+                    {name: "BVNK", twitter: "bvnkfinance"}
+                ]
+            },
+
+            customers: {
+                layer_a: [
+                    {name: "Vantage", twitter: "VantageMarkets"},
+                    {name: "ToolBit", twitter: "ToolBitGlobal"},
+                    {name: "WEEX", twitter: "WEEX_Official"},
+                    {name: "Bitunix", twitter: "BitunixOfficial"},
+                    {name: "Antalpha", twitter: "Antalpha_Plat"}
+                ],
+                context_keywords: ["stablecoin", "USDC", "USDT", "wallet", "custody", "payment", "settlement", "compliance", "license"]
+            },
+
+            industry_topics: {
+                stablecoin_payments: {
+                    name: "稳定币支付",
+                    keywords_any: ["stablecoin", "USDC", "USDT", "PYUSD"],
+                    keywords_context: ["payment", "settlement", "treasury"]
                 },
-                clients: {
-                    name: "客户进展",
-                    companies: [
-                        {name: "Visa", twitter: "Visa", keywords: ["Visa stablecoin"]},
-                        {name: "Mastercard", twitter: "Mastercard", keywords: ["Mastercard stablecoin"]},
-                        {name: "Stripe", twitter: "stripe", keywords: ["Stripe stablecoin"]}
-                    ]
-                },
-                industry: {
-                    name: "行业进展",
-                    topics: [
-                        {name: "监管政策", keywords: ["stablecoin regulation", "MiCA", "stablecoin bill"]},
-                        {name: "市场动态", keywords: ["stablecoin market cap", "stablecoin adoption"]},
-                        {name: "融资投资", keywords: ["stablecoin funding", "stablecoin investment"]}
-                    ]
+                regulation_licensing: {
+                    name: "监管牌照",
+                    keywords_any: ["stablecoin", "crypto"],
+                    keywords_context: ["regulation", "license", "MiCA"]
                 }
             },
+
+            twitter_event_keywords: {
+                high_signal: ["launch", "partnership", "integration", "license"],
+                medium_signal: ["expansion", "roadmap", "product"]
+            },
+
+            exclude_keywords: ["hiring", "job", "career", "webinar", "giveaway"],
+
             twitter_accounts: {
                 kol: [
                     {username: "jerallaire", name: "Jeremy Allaire (Circle CEO)"},
@@ -491,20 +524,17 @@
                 media: [
                     {username: "CoinDesk", name: "CoinDesk"},
                     {username: "TheBlock__", name: "The Block"}
-                ],
-                institutions: [
-                    {username: "coinbase", name: "Coinbase"},
-                    {username: "binance", name: "Binance"}
                 ]
             },
+
             search_keywords: {
-                primary: ["stablecoin", "USDC", "USDT", "PYUSD", "stablecoin regulation"],
-                secondary: ["digital dollar", "cryptocurrency payment", "blockchain finance", "tokenized deposits"]
+                primary: ["stablecoin", "USDC", "USDT", "PYUSD"],
+                secondary: ["digital dollar", "tokenized cash"]
             }
         };
 
         // 尝试从 localStorage 加载
-        const saved = localStorage.getItem('stablecoin-config');
+        const saved = localStorage.getItem('stablecoin-config-v1.1');
         if (saved) {
             try {
                 config = JSON.parse(saved);
@@ -524,66 +554,84 @@
 
         // 渲染函数
         function renderCompetitors() {
-            const grid = document.getElementById('competitors-grid');
-            grid.innerHTML = config.categories.competitors.companies.map((c, i) => `
+            const tier0Grid = document.getElementById('tier0-grid');
+            const tier1Grid = document.getElementById('tier1-grid');
+
+            tier0Grid.innerHTML = (config.competitors.tier_0_custody || []).map((c, i) => `
                 <div class="card">
                     <div class="card-header">
                         <span class="card-title">${c.name}</span>
                         <span class="card-twitter">@${c.twitter}</span>
                     </div>
                     <div class="tags">
-                        ${c.keywords.map(k => `<span class="tag">${k}</span>`).join('')}
-                        <button class="add-btn" onclick="editCompetitor(${i})">编辑</button>
+                        <button class="btn btn-danger" style="padding:4px 8px;font-size:0.75rem" onclick="removeCompetitor('tier_0_custody', ${i})">删除</button>
                     </div>
                 </div>
             `).join('');
-        }
 
-        function renderClients() {
-            const grid = document.getElementById('clients-grid');
-            grid.innerHTML = config.categories.clients.companies.map((c, i) => `
+            tier1Grid.innerHTML = (config.competitors.tier_1_payment_infra || []).map((c, i) => `
                 <div class="card">
                     <div class="card-header">
                         <span class="card-title">${c.name}</span>
                         <span class="card-twitter">@${c.twitter}</span>
                     </div>
                     <div class="tags">
-                        ${c.keywords.map(k => `<span class="tag">${k}</span>`).join('')}
-                        <button class="add-btn" onclick="editClient(${i})">编辑</button>
+                        <button class="btn btn-danger" style="padding:4px 8px;font-size:0.75rem" onclick="removeCompetitor('tier_1_payment_infra', ${i})">删除</button>
                     </div>
                 </div>
             `).join('');
         }
 
-        function renderIndustry() {
-            const container = document.getElementById('industry-topics');
-            container.innerHTML = config.categories.industry.topics.map((t, i) => `
-                <div class="section" style="margin-bottom: 15px;">
-                    <div style="display: flex; justify-content: space-between; align-items: center;">
-                        <strong style="color: #00d4ff;">${t.name}</strong>
-                        <button class="add-btn" onclick="removeTopic(${i})">删除</button>
+        function renderCustomers() {
+            const grid = document.getElementById('layer-a-grid');
+            grid.innerHTML = (config.customers.layer_a || []).map((c, i) => `
+                <div class="card">
+                    <div class="card-header">
+                        <span class="card-title">${c.name}</span>
+                        <span class="card-twitter">@${c.twitter}</span>
                     </div>
-                    <div class="keyword-list">
-                        ${t.keywords.map(k => `<span class="keyword">${k}</span>`).join('')}
+                    <div class="tags">
+                        <button class="btn btn-danger" style="padding:4px 8px;font-size:0.75rem" onclick="removeCustomer(${i})">删除</button>
                     </div>
+                </div>
+            `).join('');
+
+            const ctxList = document.getElementById('context-keywords-list');
+            ctxList.innerHTML = (config.customers.context_keywords || []).map((k, i) => `
+                <div class="keyword">
+                    ${k}
+                    <button class="remove" onclick="removeContextKeyword(${i})">×</button>
                 </div>
             `).join('');
         }
 
-        function renderAccounts() {
-            ['kol', 'media', 'institutions'].forEach(type => {
-                const list = document.getElementById(`${type}-list`);
-                list.innerHTML = config.twitter_accounts[type].map((a, i) => `
-                    <div class="keyword">
-                        @${a.username} <small style="color:#888">(${a.name})</small>
-                        <button class="remove" onclick="removeAccount('${type}', ${i})">×</button>
+        function renderIndustryTopics() {
+            const container = document.getElementById('industry-topics-container');
+            let html = '';
+
+            for (const [key, topic] of Object.entries(config.industry_topics || {})) {
+                html += `
+                    <div class="section" style="background:#252545;padding:15px;border-radius:8px;margin-bottom:15px;">
+                        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;">
+                            <h4 style="color:#00d4ff;">${topic.name || key}</h4>
+                            <button class="btn btn-danger" style="padding:4px 8px;font-size:0.75rem" onclick="removeIndustryTopic('${key}')">删除话题</button>
+                        </div>
+                        <div style="margin-bottom:10px;">
+                            <small style="color:#888;">keywords_any:</small>
+                            <div class="keyword-list">${(topic.keywords_any || []).map(k => `<span class="tag">${k}</span>`).join('')}</div>
+                        </div>
+                        <div>
+                            <small style="color:#888;">keywords_context:</small>
+                            <div class="keyword-list">${(topic.keywords_context || []).map(k => `<span class="tag">${k}</span>`).join('')}</div>
+                        </div>
                     </div>
-                `).join('');
-            });
+                `;
+            }
+
+            container.innerHTML = html;
         }
 
         function renderKeywords() {
-            // 确保 search_keywords 存在
             if (!config.search_keywords) {
                 config.search_keywords = { primary: [], secondary: [] };
             }
@@ -600,17 +648,128 @@
             });
         }
 
+        function renderAccounts() {
+            ['kol', 'media'].forEach(type => {
+                const list = document.getElementById(`${type}-list`);
+                list.innerHTML = (config.twitter_accounts[type] || []).map((a, i) => `
+                    <div class="keyword">
+                        @${a.username} <small style="color:#888">(${a.name})</small>
+                        <button class="remove" onclick="removeAccount('${type}', ${i})">×</button>
+                    </div>
+                `).join('');
+            });
+        }
+
+        function renderFilters() {
+            const excludeList = document.getElementById('exclude-keywords-list');
+            excludeList.innerHTML = (config.exclude_keywords || []).map((k, i) => `
+                <div class="keyword">
+                    ${k}
+                    <button class="remove" onclick="removeExcludeKeyword(${i})">×</button>
+                </div>
+            `).join('');
+
+            const highList = document.getElementById('high-signal-list');
+            highList.innerHTML = ((config.twitter_event_keywords || {}).high_signal || []).map((k, i) => `
+                <div class="keyword">
+                    ${k}
+                    <button class="remove" onclick="removeSignalKeyword('high_signal', ${i})">×</button>
+                </div>
+            `).join('');
+
+            const mediumList = document.getElementById('medium-signal-list');
+            mediumList.innerHTML = ((config.twitter_event_keywords || {}).medium_signal || []).map((k, i) => `
+                <div class="keyword">
+                    ${k}
+                    <button class="remove" onclick="removeSignalKeyword('medium_signal', ${i})">×</button>
+                </div>
+            `).join('');
+        }
+
+        // 添加函数
+        function addCompetitor() {
+            const tier = document.getElementById('competitor-tier').value;
+            const name = document.getElementById('new-competitor-name').value.trim();
+            const twitter = document.getElementById('new-competitor-twitter').value.trim();
+
+            if (name && twitter) {
+                if (!config.competitors[tier]) config.competitors[tier] = [];
+                config.competitors[tier].push({name, twitter});
+                saveAndRender();
+                document.getElementById('new-competitor-name').value = '';
+                document.getElementById('new-competitor-twitter').value = '';
+            }
+        }
+
+        function removeCompetitor(tier, index) {
+            config.competitors[tier].splice(index, 1);
+            saveAndRender();
+        }
+
+        function addCustomer() {
+            const name = document.getElementById('new-customer-name').value.trim();
+            const twitter = document.getElementById('new-customer-twitter').value.trim();
+
+            if (name && twitter) {
+                if (!config.customers.layer_a) config.customers.layer_a = [];
+                config.customers.layer_a.push({name, twitter});
+                saveAndRender();
+                document.getElementById('new-customer-name').value = '';
+                document.getElementById('new-customer-twitter').value = '';
+            }
+        }
+
+        function removeCustomer(index) {
+            config.customers.layer_a.splice(index, 1);
+            saveAndRender();
+        }
+
+        function addContextKeyword() {
+            const keyword = document.getElementById('new-context-keyword').value.trim();
+            if (keyword) {
+                if (!config.customers.context_keywords) config.customers.context_keywords = [];
+                if (!config.customers.context_keywords.includes(keyword)) {
+                    config.customers.context_keywords.push(keyword);
+                    saveAndRender();
+                }
+                document.getElementById('new-context-keyword').value = '';
+            }
+        }
+
+        function removeContextKeyword(index) {
+            config.customers.context_keywords.splice(index, 1);
+            saveAndRender();
+        }
+
+        function addIndustryTopic() {
+            const key = document.getElementById('new-topic-key').value.trim();
+            const name = document.getElementById('new-topic-name').value.trim();
+
+            if (key && name) {
+                if (!config.industry_topics) config.industry_topics = {};
+                config.industry_topics[key] = {
+                    name: name,
+                    keywords_any: [],
+                    keywords_context: []
+                };
+                saveAndRender();
+                document.getElementById('new-topic-key').value = '';
+                document.getElementById('new-topic-name').value = '';
+            }
+        }
+
+        function removeIndustryTopic(key) {
+            delete config.industry_topics[key];
+            saveAndRender();
+        }
+
         function addKeyword(type) {
             const input = document.getElementById(`new-${type}-keyword`);
             const keyword = input.value.trim();
 
             if (keyword) {
-                if (!config.search_keywords) {
-                    config.search_keywords = { primary: [], secondary: [] };
-                }
-                if (!config.search_keywords[type]) {
-                    config.search_keywords[type] = [];
-                }
+                if (!config.search_keywords) config.search_keywords = { primary: [], secondary: [] };
+                if (!config.search_keywords[type]) config.search_keywords[type] = [];
                 if (!config.search_keywords[type].includes(keyword)) {
                     config.search_keywords[type].push(keyword);
                     saveAndRender();
@@ -624,53 +783,13 @@
             saveAndRender();
         }
 
-        // 添加函数
-        function addCompetitor() {
-            const name = document.getElementById('new-competitor-name').value.trim();
-            const twitter = document.getElementById('new-competitor-twitter').value.trim();
-            const keywords = document.getElementById('new-competitor-keywords').value.split(',').map(k => k.trim()).filter(k => k);
-
-            if (name && twitter) {
-                config.categories.competitors.companies.push({name, twitter, keywords});
-                saveAndRender();
-                document.getElementById('new-competitor-name').value = '';
-                document.getElementById('new-competitor-twitter').value = '';
-                document.getElementById('new-competitor-keywords').value = '';
-            }
-        }
-
-        function addClient() {
-            const name = document.getElementById('new-client-name').value.trim();
-            const twitter = document.getElementById('new-client-twitter').value.trim();
-            const keywords = document.getElementById('new-client-keywords').value.split(',').map(k => k.trim()).filter(k => k);
-
-            if (name && twitter) {
-                config.categories.clients.companies.push({name, twitter, keywords});
-                saveAndRender();
-                document.getElementById('new-client-name').value = '';
-                document.getElementById('new-client-twitter').value = '';
-                document.getElementById('new-client-keywords').value = '';
-            }
-        }
-
-        function addTopic() {
-            const name = document.getElementById('new-topic-name').value.trim();
-            const keywords = document.getElementById('new-topic-keywords').value.split(',').map(k => k.trim()).filter(k => k);
-
-            if (name && keywords.length) {
-                config.categories.industry.topics.push({name, keywords});
-                saveAndRender();
-                document.getElementById('new-topic-name').value = '';
-                document.getElementById('new-topic-keywords').value = '';
-            }
-        }
-
         function addAccount() {
             const type = document.getElementById('account-type').value;
             const username = document.getElementById('new-account-username').value.trim();
             const name = document.getElementById('new-account-name').value.trim();
 
             if (username && name) {
+                if (!config.twitter_accounts[type]) config.twitter_accounts[type] = [];
                 config.twitter_accounts[type].push({username, name});
                 saveAndRender();
                 document.getElementById('new-account-username').value = '';
@@ -678,28 +797,61 @@
             }
         }
 
-        function removeTopic(index) {
-            config.categories.industry.topics.splice(index, 1);
-            saveAndRender();
-        }
-
         function removeAccount(type, index) {
             config.twitter_accounts[type].splice(index, 1);
             saveAndRender();
         }
 
+        function addExcludeKeyword() {
+            const keyword = document.getElementById('new-exclude-keyword').value.trim();
+            if (keyword) {
+                if (!config.exclude_keywords) config.exclude_keywords = [];
+                if (!config.exclude_keywords.includes(keyword)) {
+                    config.exclude_keywords.push(keyword);
+                    saveAndRender();
+                }
+                document.getElementById('new-exclude-keyword').value = '';
+            }
+        }
+
+        function removeExcludeKeyword(index) {
+            config.exclude_keywords.splice(index, 1);
+            saveAndRender();
+        }
+
+        function addSignalKeyword(type) {
+            const input = document.getElementById(`new-${type.replace('_', '-')}`);
+            const keyword = input.value.trim();
+
+            if (keyword) {
+                if (!config.twitter_event_keywords) config.twitter_event_keywords = {};
+                if (!config.twitter_event_keywords[type]) config.twitter_event_keywords[type] = [];
+                if (!config.twitter_event_keywords[type].includes(keyword)) {
+                    config.twitter_event_keywords[type].push(keyword);
+                    saveAndRender();
+                }
+                input.value = '';
+            }
+        }
+
+        function removeSignalKeyword(type, index) {
+            config.twitter_event_keywords[type].splice(index, 1);
+            saveAndRender();
+        }
+
         function saveAndRender() {
             config.last_updated = new Date().toISOString().split('T')[0];
-            localStorage.setItem('stablecoin-config', JSON.stringify(config));
+            localStorage.setItem('stablecoin-config-v1.1', JSON.stringify(config));
             renderAll();
         }
 
         function renderAll() {
             renderCompetitors();
-            renderClients();
-            renderIndustry();
-            renderAccounts();
+            renderCustomers();
+            renderIndustryTopics();
             renderKeywords();
+            renderAccounts();
+            renderFilters();
         }
 
         function updatePreview() {

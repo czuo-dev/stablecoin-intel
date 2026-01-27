@@ -1,4 +1,9 @@
 # src/collectors/news_collector.py
+"""
+新闻收集器 V1.1
+- 支持新配置结构：competitors.tier_0/tier_1, customers.layer_a, industry_topics
+- 支持 keywords_any + keywords_context 组合搜索
+"""
 
 import os
 import json
@@ -45,6 +50,7 @@ class NewsCollector:
     """
     新闻收集器 - 使用NewsAPI收集稳定币相关新闻
     关键词从 config/keywords.json 读取
+    支持新配置结构 V1.1
     """
 
     def __init__(self):
@@ -53,6 +59,7 @@ class NewsCollector:
         self.max_requests = NEWSAPI_DAILY_LIMIT
 
         # 从配置文件加载关键词
+        self.config = load_keywords_config()
         self.search_strategies = self._build_search_strategies()
 
         # 高质量新闻源（优先）
@@ -69,17 +76,16 @@ class NewsCollector:
     def _build_search_strategies(self) -> Dict:
         """
         从配置文件构建搜索策略
-        优先级：竞争对手 > 客户 > 行业
+        支持新配置结构 V1.1：
+        - competitors.tier_0_custody / tier_1_payment_infra
+        - customers.layer_a
+        - industry_topics with keywords_any + keywords_context
         """
-        config = load_keywords_config()
+        config = self.config
 
         # 如果配置文件中有 newsapi_search，直接使用
         if 'newsapi_search' in config:
             return config['newsapi_search']
-
-        # 否则从 categories 自动构建
-        categories = config.get('categories', {})
-        search_keywords = config.get('search_keywords', {})
 
         strategies = {
             'high_priority': {
@@ -96,41 +102,81 @@ class NewsCollector:
             }
         }
 
-        # 高优先级：竞争对手关键词
-        competitors = categories.get('competitors', {}).get('companies', [])
-        for company in competitors:
+        # ========== 高优先级：竞争对手 ==========
+        competitors = config.get('competitors', {})
+
+        # 新结构：tier_0_custody + tier_1_payment_infra
+        for tier in ['tier_0_custody', 'tier_1_payment_infra']:
+            for company in competitors.get(tier, []):
+                name = company.get('name', '')
+                if name and name not in strategies['high_priority']['keywords']:
+                    strategies['high_priority']['keywords'].append(name)
+
+        # 兼容旧结构：categories.competitors.companies
+        old_categories = config.get('categories', {})
+        for company in old_categories.get('competitors', {}).get('companies', []):
             for kw in company.get('keywords', []):
                 if kw not in strategies['high_priority']['keywords']:
                     strategies['high_priority']['keywords'].append(kw)
 
-        # 中优先级：客户关键词 + 主要搜索词
-        clients = categories.get('clients', {}).get('companies', [])
-        for company in clients:
+        # ========== 中优先级：客户 + 主要搜索词 ==========
+        customers = config.get('customers', {})
+
+        # 新结构：layer_a
+        for company in customers.get('layer_a', []):
+            name = company.get('name', '')
+            if name and name not in strategies['medium_priority']['keywords']:
+                strategies['medium_priority']['keywords'].append(name)
+
+        # 兼容旧结构：categories.clients.companies
+        for company in old_categories.get('clients', {}).get('companies', []):
             for kw in company.get('keywords', []):
                 if kw not in strategies['medium_priority']['keywords']:
                     strategies['medium_priority']['keywords'].append(kw)
 
         # 添加主要搜索关键词
+        search_keywords = config.get('search_keywords', {})
         for kw in search_keywords.get('primary', []):
             if kw not in strategies['medium_priority']['keywords']:
                 strategies['medium_priority']['keywords'].append(kw)
 
-        # 低优先级：行业话题 + 次要关键词
-        industry = categories.get('industry', {}).get('topics', [])
-        for topic in industry:
+        # ========== 低优先级：行业话题 ==========
+        industry_topics = config.get('industry_topics', {})
+
+        # 新结构：industry_topics with keywords_any + keywords_context
+        for topic_key, topic_config in industry_topics.items():
+            keywords_any = topic_config.get('keywords_any', [])
+            keywords_context = topic_config.get('keywords_context', [])
+
+            # 直接添加 keywords_any
+            for kw in keywords_any:
+                if kw not in strategies['low_priority']['keywords']:
+                    strategies['low_priority']['keywords'].append(kw)
+
+            # 生成组合搜索（keywords_any + keywords_context）
+            # 限制组合数量避免过多请求
+            for any_kw in keywords_any[:3]:
+                for ctx_kw in keywords_context[:2]:
+                    combined = f"{any_kw} {ctx_kw}"
+                    if combined not in strategies['low_priority']['keywords']:
+                        strategies['low_priority']['keywords'].append(combined)
+
+        # 兼容旧结构：categories.industry.topics
+        for topic in old_categories.get('industry', {}).get('topics', []):
             for kw in topic.get('keywords', []):
                 if kw not in strategies['low_priority']['keywords']:
                     strategies['low_priority']['keywords'].append(kw)
 
+        # 添加次要搜索关键词
         for kw in search_keywords.get('secondary', []):
             if kw not in strategies['low_priority']['keywords']:
                 strategies['low_priority']['keywords'].append(kw)
 
-        # 如果配置为空，使用默认值
+        # ========== 默认值（配置为空时使用）==========
         if not strategies['high_priority']['keywords']:
             strategies['high_priority']['keywords'] = [
-                'stablecoin regulation', 'USDC Circle', 'Tether USDT',
-                'stablecoin ban', 'stablecoin license', 'PayPal PYUSD'
+                'Fireblocks', 'BitGo', 'Copper', 'Anchorage',
+                'stablecoin custody', 'MPC wallet'
             ]
 
         if not strategies['medium_priority']['keywords']:
