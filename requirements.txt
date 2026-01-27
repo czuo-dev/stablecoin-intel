@@ -49,3 +49,4 @@ tweepy>=4.14.0
 python-dotenv>=1.0.0
 newsapi-python>=0.2.7
 markdown>=3.4.0
+python-pptx>=0.6.21
