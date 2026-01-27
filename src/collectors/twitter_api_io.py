@@ -13,6 +13,9 @@ from datetime import datetime, timedelta
 from typing import List, Dict, Optional
 import time
 
+# 默认每日预算上限（美元）
+DEFAULT_DAILY_BUDGET = 0.50  # $0.50/天
+
 class TwitterAPIioCollector:
     """
     使用 TwitterAPI.io 收集推文数据
@@ -20,13 +23,15 @@ class TwitterAPIioCollector:
     """
 
     BASE_URL = "https://api.twitterapi.io/twitter"
+    COST_PER_TWEET = 0.00015  # $0.15 / 1000 条
 
-    def __init__(self, api_key: str = None):
+    def __init__(self, api_key: str = None, daily_budget: float = None):
         """
         初始化收集器
 
         Args:
             api_key: TwitterAPI.io 的 API Key，可从环境变量 TWITTERAPI_IO_KEY 读取
+            daily_budget: 每日预算上限（美元），默认 $0.50
         """
         self.api_key = api_key or os.getenv('TWITTERAPI_IO_KEY')
         if not self.api_key:
@@ -37,9 +42,28 @@ class TwitterAPIioCollector:
             "Content-Type": "application/json"
         }
 
+        # 每日预算（从环境变量或参数读取）
+        self.daily_budget = daily_budget or float(os.getenv('TWITTER_DAILY_BUDGET', DEFAULT_DAILY_BUDGET))
+
         # 统计
         self.request_count = 0
         self.tweet_count = 0
+        self.budget_exceeded = False
+
+    def _check_budget(self) -> bool:
+        """检查是否超出预算"""
+        current_cost = self.tweet_count * self.COST_PER_TWEET
+        if current_cost >= self.daily_budget:
+            if not self.budget_exceeded:
+                print(f"\n⚠️  已达到每日预算上限 ${self.daily_budget:.2f}，停止收集")
+                self.budget_exceeded = True
+            return False
+        return True
+
+    def _get_remaining_budget(self) -> float:
+        """获取剩余预算"""
+        current_cost = self.tweet_count * self.COST_PER_TWEET
+        return max(0, self.daily_budget - current_cost)
 
     def search_tweets(self, query: str, max_results: int = 100,
                      query_type: str = "Latest") -> List[Dict]:
@@ -61,6 +85,10 @@ class TwitterAPIioCollector:
         cursor = None
 
         while len(all_tweets) < max_results:
+            # 检查预算
+            if not self._check_budget():
+                break
+
             params = {
                 "query": query,
                 "queryType": query_type
@@ -111,6 +139,10 @@ class TwitterAPIioCollector:
             推文列表
         """
         url = f"{self.BASE_URL}/user/last_tweets"
+
+        # 检查预算
+        if not self._check_budget():
+            return []
 
         params = {
             "userName": username
@@ -180,12 +212,18 @@ class TwitterAPIioCollector:
             去重后的推文列表
         """
         print(f"🐦 TwitterAPI.io: 开始收集 {len(keywords)} 个关键词...")
+        print(f"   💰 每日预算: ${self.daily_budget:.2f}")
 
         cutoff_time = datetime.utcnow() - timedelta(hours=hours_back)
         all_tweets = []
         seen_ids = set()
 
         for i, keyword in enumerate(keywords, 1):
+            # 检查预算
+            if not self._check_budget():
+                print(f"   ⏭️  跳过剩余 {len(keywords) - i + 1} 个关键词")
+                break
+
             print(f"  [{i}/{len(keywords)}] 搜索: '{keyword}'...", end=" ")
 
             tweets = self.search_tweets(keyword, max_results=max_per_keyword)
@@ -235,6 +273,11 @@ class TwitterAPIioCollector:
         all_tweets = []
 
         for i, username in enumerate(accounts, 1):
+            # 检查预算
+            if not self._check_budget():
+                print(f"   ⏭️  跳过剩余 {len(accounts) - i + 1} 个账号")
+                break
+
             print(f"  [{i}/{len(accounts)}] @{username}...", end=" ")
 
             tweets = self.get_user_tweets(username, max_results=max_per_account)
@@ -287,11 +330,14 @@ class TwitterAPIioCollector:
                 seen_ids.add(tweet["id"])
                 all_tweets.append(tweet)
 
+        current_cost = self.tweet_count * self.COST_PER_TWEET
         print("=" * 60)
         print(f"✅ 收集完成")
         print(f"   总推文: {len(all_tweets)} 条")
         print(f"   API 请求: {self.request_count} 次")
-        print(f"   预计成本: ${self.tweet_count * 0.00015:.4f}")
+        print(f"   💰 本次成本: ${current_cost:.4f} / 预算 ${self.daily_budget:.2f}")
+        if self.budget_exceeded:
+            print(f"   ⚠️  已达预算上限，部分数据未收集")
         print("=" * 60 + "\n")
 
         return {
