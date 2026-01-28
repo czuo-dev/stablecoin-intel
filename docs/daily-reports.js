@@ -2,6 +2,80 @@
 // 由 daily_job_v2.py 自动生成
 const dailyReports = [
     {
+        "date": "2026-01-28",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-01-28.md",
+        "stats": {
+            "competitors": 8,
+            "clients": 1,
+            "industry": 12
+        },
+        "highlights": {
+            "competitors": [
+                {
+                    "title": "TrustLinq 提供将稳定币转化为法币支付的服务，可能对我们的市场份额造成影响。",
+                    "url": "https://x.com/Trustlinq/status/2015645487173701966",
+                    "source": "Twitter @Trustlinq",
+                    "threat_level": "medium",
+                    "impact_areas": [
+                        "产品竞争",
+                        "客户争夺",
+                        "合规优势"
+                    ],
+                    "suggested_action": "考虑优化我们的支付基础设施和合规策略，以提升竞争力。"
+                },
+                {
+                    "title": "SHRED 通过集成 Fireblocks 的 MPC 托管技术，提升了安全性，可能对我们的市场竞争造成压力。",
+                    "url": "https://x.com/treazweb3/status/2014865251766854137",
+                    "source": "Twitter @treazweb3",
+                    "threat_level": "medium",
+                    "impact_areas": [
+                        "产品竞争",
+                        "技术差距",
+                        "品牌影响"
+                    ],
+                    "suggested_action": "加强我们的安全技术宣传，提升品牌信任度。"
+                },
+                {
+                    "title": "Fireblocks的整合提升了机构的可信度，可能影响我们在市场中的竞争地位。",
+                    "url": "https://x.com/Crypto_f_V/status/2016145495685488827",
+                    "source": "Twitter @Crypto_f_V",
+                    "threat_level": "medium",
+                    "impact_areas": [
+                        "产品竞争",
+                        "客户争夺",
+                        "品牌影响"
+                    ],
+                    "suggested_action": "加强我们的技术优势和品牌宣传，以提升市场竞争力。"
+                }
+            ],
+            "clients": [
+                {
+                    "title": "WazirX 选择 Fireblocks 作为其数字资产托管解决方案，表明其在安全性和合规性方面的重视。",
+                    "url": "https://x.com/FireblocksHQ/status/2016137036588347525",
+                    "source": "Twitter @FireblocksHQ"
+                }
+            ],
+            "industry": [
+                {
+                    "title": "Tether推出受美国监管的USAT稳定币，反映出稳定币市场的监管趋势和创新。",
+                    "url": "https://x.com/DynamoDeFi/status/2016342623665922479",
+                    "source": "Twitter @DynamoDeFi"
+                },
+                {
+                    "title": "$XPL/USDT的价格上涨19%，显示出市场的积极趋势。",
+                    "url": "https://x.com/Cryptorphic1/status/2016344606250827848",
+                    "source": "Twitter @Cryptorphic1"
+                },
+                {
+                    "title": "该新闻讨论了多方计算（MPC）在托管解决方案中的应用，反映出行业技术发展的趋势。",
+                    "url": "https://x.com/BlockGyan247/status/2016168764702966259",
+                    "source": "Twitter @BlockGyan247"
+                }
+            ]
+        }
+    },
+    {
         "date": "2026-01-27",
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-01-27.md",

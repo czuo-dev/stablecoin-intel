@@ -1,7 +1,8 @@
 # scripts/daily_job_v2.py
 """
-每日完整数据收集和AI分析流程 V2.1
+每日完整数据收集和AI分析流程 V2.2
 - 使用 TwitterAPI.io 替代官方 API（成本降低96%）
+- 新增 RSS 订阅收集（媒体 + Google News）
 - 新分类体系：竞争对手 / 客户进展 / 行业进展
 - 支持新配置结构 V1.1：competitors.tier_0/tier_1, customers.layer_a
 """
@@ -28,6 +29,13 @@ try:
     TWITTER_AVAILABLE = True
 except ImportError:
     TWITTER_AVAILABLE = False
+
+# 尝试导入 RSS 收集器
+try:
+    from src.collectors.rss_collector import RSSCollector
+    RSS_AVAILABLE = True
+except ImportError:
+    RSS_AVAILABLE = False
 
 # 加载环境变量
 load_dotenv()
@@ -137,10 +145,10 @@ def extract_search_keywords(config: dict) -> list:
 
 
 def daily_pipeline_v2():
-    """完整的每日数据处理流程 V2.1"""
+    """完整的每日数据处理流程 V2.2"""
 
     print("=" * 70)
-    print(f"🤖 每日情报系统 V2.1 - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"🤖 每日情报系统 V2.2 - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 70 + "\n")
 
     date_str = datetime.now().strftime('%Y-%m-%d')
@@ -211,6 +219,30 @@ def daily_pipeline_v2():
         elif not TWITTER_AVAILABLE:
             print("⚠️  TwitterAPI.io 模块未安装\n")
 
+    # ===== STEP 2.5: 收集 RSS 数据 =====
+    print("📡 STEP 2.5: 收集 RSS 订阅数据")
+    print("-" * 70)
+
+    raw_rss = []
+
+    if RSS_AVAILABLE:
+        try:
+            rss_collector = RSSCollector()
+            raw_rss = rss_collector.collect_all(hours_back=24)
+
+            # 保存原始 RSS 数据
+            os.makedirs('data/raw', exist_ok=True)
+            rss_file = f'data/raw/rss_{date_str}.json'
+            with open(rss_file, 'w', encoding='utf-8') as f:
+                json.dump(raw_rss, f, indent=2, ensure_ascii=False)
+
+            print(f"   已保存: {rss_file}\n")
+
+        except Exception as e:
+            print(f"⚠️  RSS 收集失败: {e}\n")
+    else:
+        print("⚠️  RSS 收集器未安装，跳过\n")
+
     # ===== STEP 3: 数据标准化 =====
     print("🔄 STEP 3: 数据标准化")
     print("-" * 70)
@@ -242,14 +274,20 @@ def daily_pipeline_v2():
                 "views": tweet.get("views", 0)
             }
         })
-    print(f"✅ Twitter 标准化: {len(normalized_tweets)} 条\n")
+    print(f"✅ Twitter 标准化: {len(normalized_tweets)} 条")
+
+    # RSS 数据已经是标准化格式，直接使用
+    print(f"✅ RSS 标准化: {len(raw_rss)} 条\n")
 
     # ===== STEP 3.5: 内容质量过滤 =====
     print("🧹 STEP 3.5: 内容质量过滤")
     print("-" * 70)
 
     content_filter = ContentFilter()
-    all_items = content_filter.process_all(normalized_news, normalized_tweets)
+
+    # 合并所有新闻类数据（NewsAPI + RSS）
+    all_news = normalized_news + raw_rss
+    all_items = content_filter.process_all(all_news, normalized_tweets)
 
     if len(all_items) == 0:
         print("\n❌ 没有数据可处理，任务结束")
@@ -341,8 +379,9 @@ def daily_pipeline_v2():
 
     print(f"\n📊 数据统计:")
     print(f"   NewsAPI: {len(raw_news)} 条")
+    print(f"   RSS: {len(raw_rss)} 条")
     print(f"   Twitter: {len(raw_tweets)} 条")
-    print(f"   总计: {total_items} 条")
+    print(f"   总计（过滤后）: {total_items} 条")
 
     print(f"\n📂 分类结果:")
     print(f"   🏢 竞争对手: {len(categorized_data.get('competitors', []))} 条")

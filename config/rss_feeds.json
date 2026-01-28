@@ -1,0 +1,79 @@
+{
+  "version": "1.1",
+  "last_updated": "2026-01-28",
+  "description": "RSS 订阅源配置 - 聚焦稳定币支付/托管赛道",
+
+  "feeds": {
+    "competitors": [
+      {
+        "name": "Fireblocks Blog",
+        "url": "https://www.fireblocks.com/feed/",
+        "category": "competitor",
+        "priority": "high"
+      }
+    ],
+
+    "industry_players": [
+      {
+        "name": "Circle Blog",
+        "url": "https://medium.com/feed/circle-blog",
+        "category": "issuer",
+        "priority": "high"
+      },
+      {
+        "name": "Stripe Blog",
+        "url": "https://stripe.com/blog/feed.rss",
+        "category": "traditional_finance",
+        "priority": "medium",
+        "filter_keywords": ["crypto", "stablecoin", "USDC", "blockchain", "payment"]
+      }
+    ],
+
+    "media": [
+      {
+        "name": "The Block",
+        "url": "https://www.theblock.co/rss.xml",
+        "category": "media",
+        "priority": "high"
+      },
+      {
+        "name": "Decrypt",
+        "url": "https://decrypt.co/feed",
+        "category": "media",
+        "priority": "medium"
+      }
+    ]
+  },
+
+  "google_news": {
+    "keywords": [
+      "stablecoin payment",
+      "stablecoin B2B",
+      "USDC enterprise",
+      "cross-border stablecoin",
+      "stablecoin license",
+      "stablecoin regulation Hong Kong",
+      "stablecoin regulation Singapore",
+      "crypto custody institution",
+      "stablecoin settlement",
+      "USDC payment partnership"
+    ],
+    "max_results_per_keyword": 10
+  },
+
+  "filters": {
+    "must_contain_any": [
+      "stablecoin", "USDC", "USDT", "PYUSD",
+      "crypto", "digital asset", "blockchain",
+      "custody", "payment", "settlement",
+      "tokenized", "cross-border", "regulation",
+      "license", "compliance"
+    ],
+    "exclude_keywords": [
+      "price prediction", "pump", "dump", "bullish", "bearish",
+      "moon", "crash", "trading signal", "buy now", "sell now",
+      "airdrop", "giveaway", "meme coin", "memecoin",
+      "Bitcoin price", "BTC price", "ETH price", "Ethereum price"
+    ]
+  }
+}
