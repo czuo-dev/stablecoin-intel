@@ -512,6 +512,7 @@ def generate_daily_brief(data: dict, date_str: str, insights: dict = None) -> st
         report.append("## 🏢 竞争对手动态\n")
         for item in competitors[:5]:
             title = item.get("title", "")[:80]
+            url = item.get("url", "")
             source = item.get("source", "")
             summary = item.get("ai_summary", "")
             companies = ", ".join(item.get("mentioned_companies", []))
@@ -523,7 +524,11 @@ def generate_daily_brief(data: dict, date_str: str, insights: dict = None) -> st
 
             threat_icon = {"high": "🔴 高", "medium": "🟡 中", "low": "🟢 低"}.get(threat_level, "")
 
-            report.append(f"### {title}")
+            # 标题带链接
+            if url:
+                report.append(f"### [{title}]({url})")
+            else:
+                report.append(f"### {title}")
             if companies:
                 report.append(f"**涉及公司**: {companies}")
 
@@ -545,10 +550,15 @@ def generate_daily_brief(data: dict, date_str: str, insights: dict = None) -> st
         report.append("\n## 🤝 客户进展\n")
         for item in clients[:5]:
             title = item.get("title", "")[:80]
+            url = item.get("url", "")
             source = item.get("source", "")
             summary = item.get("ai_summary", "")
 
-            report.append(f"### {title}")
+            # 标题带链接
+            if url:
+                report.append(f"### [{title}]({url})")
+            else:
+                report.append(f"### {title}")
             if summary:
                 report.append(f"\n{summary}")
             report.append(f"\n*来源: {source}*\n")
@@ -559,10 +569,15 @@ def generate_daily_brief(data: dict, date_str: str, insights: dict = None) -> st
         report.append("\n## 📈 行业进展\n")
         for item in industry[:5]:
             title = item.get("title", "")[:80]
+            url = item.get("url", "")
             source = item.get("source", "")
             summary = item.get("ai_summary", "")
 
-            report.append(f"### {title}")
+            # 标题带链接
+            if url:
+                report.append(f"### [{title}]({url})")
+            else:
+                report.append(f"### {title}")
             if summary:
                 report.append(f"\n{summary}")
             report.append(f"\n*来源: {source}*\n")
