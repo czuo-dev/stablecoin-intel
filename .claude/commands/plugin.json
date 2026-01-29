@@ -1,0 +1,27 @@
+{
+  "name": "stablecoin-intel-commands",
+  "description": "稳定币情报系统自定义命令",
+  "version": "1.0.0",
+  "commands": [
+    {
+      "name": "daily-report",
+      "description": "手动生成今日的稳定币行业日报",
+      "path": "daily-report.md"
+    },
+    {
+      "name": "test-sources",
+      "description": "测试所有数据源的连通性和状态",
+      "path": "test-sources.md"
+    },
+    {
+      "name": "add-competitor",
+      "description": "添加新的竞争对手到监控列表",
+      "path": "add-competitor.md"
+    },
+    {
+      "name": "add-rss",
+      "description": "添加新的 RSS 订阅源",
+      "path": "add-rss.md"
+    }
+  ]
+}
