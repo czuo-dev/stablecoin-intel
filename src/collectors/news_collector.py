@@ -187,12 +187,12 @@ class NewsCollector:
 
         if not strategies['medium_priority']['keywords']:
             strategies['medium_priority']['keywords'] = [
-                'stablecoin', 'USDC', 'USDT', 'PYUSD', 'stablecoin market'
+                'stablecoin', 'USDC', 'USDT', 'stablecoin market'
             ]
 
         if not strategies['low_priority']['keywords']:
             strategies['low_priority']['keywords'] = [
-                'cryptocurrency payment', 'blockchain finance', 'digital dollar'
+                'cryptocurrency payment', 'blockchain finance'
             ]
 
         return strategies

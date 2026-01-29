@@ -102,6 +102,56 @@ class DailySummaryGenerator:
 
         return self._call_ai(prompt)
 
+    def generate_industry_subcategory_summary(
+        self,
+        industry_by_subcategory: Dict[str, List[Dict]],
+        subcategory_order: List[str],
+        focus_regions: List[str],
+    ) -> str:
+        """
+        按子类生成行业进展的小类总结，供简报在细分类之前展示。
+        对监管牌照子类强调与 focus_regions（如香港、新加坡、巴林）相关的内容。
+
+        Args:
+            industry_by_subcategory: 已按 industry_subcategory 分组的 {sub_key: [items]}
+            subcategory_order: 子类顺序（如 custody_mpc_risk, regulation_licensing, ...）
+            focus_regions: 关注地区列表，如 ["香港", "新加坡", "巴林"]
+
+        Returns:
+            Markdown 段落，每子类一行：**子类名**：1-2 句小结
+        """
+        if not industry_by_subcategory:
+            return ""
+
+        parts = []
+        for sub_key in subcategory_order:
+            items = industry_by_subcategory.get(sub_key, [])
+            if not items:
+                continue
+            section_name = items[0].get("industry_subcategory_name", sub_key)
+            if sub_key == "regulation_licensing" and focus_regions:
+                regions_str = "、".join(focus_regions)
+                section_name = f"监管牌照（含{regions_str}）"
+            # 最多取 3 条
+            lines = []
+            for item in items[:3]:
+                title = (item.get("title") or "")[:80]
+                summary = item.get("ai_summary") or ""
+                lines.append(f"- {title}" + (f"\n  摘要: {summary}" if summary else ""))
+            parts.append((section_name, "\n".join(lines)))
+
+        if not parts:
+            return ""
+
+        prompt = """你是一位稳定币/托管行业分析师。请根据以下「行业进展」各子类的若干条新闻，为每个子类写 1-2 句中文小结。
+监管牌照子类请强调与香港、新加坡、巴林等主要牌照地相关的内容。
+输出格式：每行一个子类，格式为 **子类名**：小结内容。不要编号、不要总标题，直接输出多行。"""
+
+        for section_name, block in parts:
+            prompt += f"\n\n【{section_name}】\n{block}"
+
+        return self._call_ai(prompt)
+
     def generate_daily_insights(self, data: Dict) -> Dict[str, str]:
         """
         生成完整的每日洞察

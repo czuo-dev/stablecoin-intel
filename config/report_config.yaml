@@ -1,4 +1,7 @@
-# 周报配置
+# 周报与日报共用配置
+
+company_name: "Cobo"
+focus_regions: ["香港", "新加坡", "巴林"]
 
 title:
   zh: "稳定币行业周报"

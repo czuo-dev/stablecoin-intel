@@ -63,7 +63,7 @@
 
   "filters": {
     "must_contain_any": [
-      "stablecoin", "USDC", "USDT", "PYUSD",
+      "stablecoin", "USDC", "USDT",
       "crypto", "digital asset", "blockchain",
       "custody", "payment", "settlement",
       "tokenized", "cross-border", "regulation",

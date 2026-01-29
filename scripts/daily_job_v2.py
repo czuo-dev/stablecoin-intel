@@ -59,8 +59,8 @@ def load_keywords_config():
     # 默认配置（新结构 V1.1）
     return {
         "search_keywords": {
-            "primary": ["stablecoin", "USDC", "USDT", "PYUSD"],
-            "secondary": ["digital dollar", "tokenized cash"]
+            "primary": ["stablecoin", "USDC", "USDT"],
+            "secondary": ["cross-border payment crypto"]
         },
         "competitors": {
             "tier_0_custody": [{"name": "Fireblocks", "twitter": "FireblocksHQ"}],
@@ -159,10 +159,10 @@ def filter_clients_by_allowlist(categorized_data: dict, keywords_config: dict) -
 
 # 行业子类在简报中的输出顺序
 INDUSTRY_SUBCATEGORY_ORDER = [
-    "regulation_licensing",
-    "funding_mna",
-    "stablecoin_payments",
     "custody_mpc_risk",
+    "regulation_licensing",
+    "stablecoin_payments",
+    "funding_mna",
     "other",
 ]
 
@@ -439,6 +439,24 @@ def daily_pipeline_v2():
     try:
         summary_generator = DailySummaryGenerator(api_key=OPENAI_API_KEY)
         insights = summary_generator.generate_daily_insights(categorized_data)
+        # 行业进展小类总结（按子类分组后生成，供简报先展示再进入细分类）
+        industry_list = categorized_data.get("industry", [])
+        if industry_list:
+            by_sub = {}
+            for item in industry_list:
+                sub = item.get("industry_subcategory") or "other"
+                by_sub.setdefault(sub, []).append(item)
+            focus_regions = keywords_config.get("company", {}).get("focus_regions", []) or []
+            try:
+                print("  📝 生成行业小类总结...")
+                insights["industry_subcategory_summary"] = summary_generator.generate_industry_subcategory_summary(
+                    by_sub, INDUSTRY_SUBCATEGORY_ORDER, focus_regions
+                )
+            except Exception as e:
+                print(f"  ⚠️ 行业小类总结生成失败: {e}")
+                insights["industry_subcategory_summary"] = ""
+        else:
+            insights["industry_subcategory_summary"] = ""
         print("✅ 每日洞察生成完成\n")
     except Exception as e:
         print(f"⚠️  每日洞察生成失败: {e}\n")
@@ -727,10 +745,15 @@ def generate_daily_brief(data: dict, date_str: str, insights: dict = None) -> st
                 report.append(f"\n{summary}")
             report.append(f"\n*来源: {source}*\n")
 
-    # 行业进展（按子类分组：监管牌照 / 融资并购 / 稳定币支付 / 托管与风险 / 其他）
+    # 行业进展（先小类总结，再按子类分组：托管与风险 / 监管牌照 / 稳定币支付 / 融资并购 / 其他）
     industry = data.get("industry", [])
     if industry:
         report.append("\n## 📈 行业进展\n")
+
+        # 先输出小类总结（若有）
+        industry_subcategory_summary = (insights or {}).get("industry_subcategory_summary", "")
+        if industry_subcategory_summary:
+            report.append(f"\n{industry_subcategory_summary}\n")
 
         # 按 industry_subcategory 分组，缺省归为 other
         by_sub = {}

@@ -2,6 +2,10 @@
   "version": "1.1",
   "last_updated": "2026-01-26",
   "description": "稳定币情报系统关键词配置 V1.1",
+  "company": {
+    "name": "Cobo",
+    "focus_regions": ["香港", "新加坡", "巴林"]
+  },
 
   "competitors": {
     "tier_0_custody": [
@@ -32,7 +36,7 @@
   "industry_topics": {
     "stablecoin_payments": {
       "name": "稳定币支付",
-      "keywords_any": ["stablecoin", "USDC", "USDT", "PYUSD", "digital dollar", "tokenized cash"],
+      "keywords_any": ["stablecoin", "USDC", "USDT"],
       "keywords_context": ["payment", "settlement", "treasury", "merchant", "cross-border", "remittance", "PSP", "B2B payment", "on-ramp", "off-ramp"]
     },
     "regulation_licensing": {
@@ -73,7 +77,7 @@
   },
 
   "search_keywords": {
-    "primary": ["stablecoin", "USDC", "USDT", "PYUSD", "custody MPC"],
-    "secondary": ["digital dollar", "tokenized cash", "cross-border payment crypto"]
+    "primary": ["stablecoin", "USDC", "USDT", "custody MPC"],
+    "secondary": ["cross-border payment crypto"]
   }
 }

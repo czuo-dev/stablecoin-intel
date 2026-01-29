@@ -144,6 +144,13 @@ class BusinessClassifier:
             return "、".join(self.client_names[:8])
         return "Vantage、WEEX、Bitunix、Antalpha 等交易所/金融机构"
 
+    def _get_company_context(self) -> tuple:
+        """从配置读取我司名称与关注地区（用于行业相关性判定）。返回 (company_name, focus_regions_list)。"""
+        company = self.config.get("company", {})
+        name = company.get("name", "本公司")
+        regions = company.get("focus_regions", []) or []
+        return (name, regions)
+
     def _quick_classify(self, text: str) -> Optional[str]:
         """
         基于关键词的快速分类（节省 API 调用）
@@ -210,6 +217,8 @@ class BusinessClassifier:
         # 动态生成公司列表
         competitor_desc = self._get_competitor_description()
         client_desc = self._get_client_description()
+        company_name, focus_regions = self._get_company_context()
+        regions_str = "、".join(focus_regions) if focus_regions else "（无）"
 
         prompt = f"""分析以下稳定币/加密货币行业新闻，进行分类。
 
@@ -249,7 +258,7 @@ class BusinessClassifier:
 注意：
 - competitors: threat_level 高=直接威胁核心业务, 中=间接影响, 低=需关注但影响有限
 - clients: opportunity_level 高=明确合作/销售机会, 中=潜在需求, 低=信息参考
-- industry: relevance_level 高=直接影响我们业务, 中=间接相关, 低=行业背景信息
+- industry: 本报告为 **{company_name}** 编制；关注地区包括 **{regions_str}**（牌照与监管动态）。relevance_level 高=与 {company_name} 直接相关（如：托管/MPC、上述地区监管与牌照、我们所在赛道）；中=间接相关；低=行业背景信息，与 {company_name} 关系不大。请严格区分，多数行业新闻应为中或低，只有明确涉及托管/MPC 或上述地区监管与牌照等才标高。
 - 每个类别只返回该类别对应的额外字段"""
 
         try:
