@@ -54,7 +54,13 @@ class NewsCollector:
     """
 
     def __init__(self):
-        self.client = NewsApiClient(api_key=NEWSAPI_KEY)
+        # 检查 API Key 是否存在
+        if not NEWSAPI_KEY:
+            print("⚠️  NewsAPI: API Key 未配置，跳过新闻收集")
+            self.client = None
+        else:
+            self.client = NewsApiClient(api_key=NEWSAPI_KEY)
+
         self.request_count = 0
         self.max_requests = NEWSAPI_DAILY_LIMIT
 
@@ -194,6 +200,10 @@ class NewsCollector:
     def search_with_keyword(self, keyword: str, days_back: int = 7, page_size: int = 20) -> List[Dict]:
         """使用单个关键词搜索新闻"""
 
+        # 如果没有 API 客户端，返回空列表
+        if not self.client:
+            return []
+
         if self.request_count >= self.max_requests:
             print(f"⚠️  已达到每日API限制 ({self.max_requests}次)")
             return []
@@ -313,6 +323,11 @@ class NewsCollector:
         print("=" * 60)
         print("📰 NewsAPI 新闻收集")
         print("=" * 60 + "\n")
+
+        # 如果没有 API 客户端，直接返回空列表
+        if not self.client:
+            print("⚠️  NewsAPI 未配置，跳过\n")
+            return []
 
         # 显示当前使用的关键词
         print("📋 当前关键词配置:")
