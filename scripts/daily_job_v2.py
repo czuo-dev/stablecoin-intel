@@ -117,6 +117,100 @@ def extract_twitter_accounts(config: dict) -> list:
     return accounts
 
 
+def get_client_allowlist(config: dict) -> set:
+    """从 config 取出客户名单（customers.layer_a[].name），用于白名单过滤。大小写不敏感。"""
+    names = set()
+    for company in config.get("customers", {}).get("layer_a", []):
+        name = company.get("name", "").strip()
+        if name:
+            names.add(name.lower())
+    # 兼容旧结构
+    for company in config.get("categories", {}).get("clients", {}).get("companies", []):
+        name = company.get("name", "").strip()
+        if name:
+            names.add(name.lower())
+    return names
+
+
+def filter_clients_by_allowlist(categorized_data: dict, keywords_config: dict) -> None:
+    """
+    客户进展只保留「我的客户」：mentioned_companies 中至少有一个在 config 客户名单里。
+    被筛掉的条目移到 industry，避免丢失。
+    """
+    allowlist = get_client_allowlist(keywords_config)
+    if not allowlist:
+        return
+
+    clients = categorized_data.get("clients", [])
+    keep = []
+    move_to_industry = []
+
+    for item in clients:
+        mentioned = item.get("mentioned_companies", []) or []
+        mentioned_lower = [m.strip().lower() for m in mentioned if m and isinstance(m, str)]
+        if any(m in allowlist for m in mentioned_lower):
+            keep.append(item)
+        else:
+            move_to_industry.append(item)
+
+    categorized_data["clients"] = keep
+    categorized_data["industry"] = categorized_data.get("industry", []) + move_to_industry
+
+
+# 行业子类在简报中的输出顺序
+INDUSTRY_SUBCATEGORY_ORDER = [
+    "regulation_licensing",
+    "funding_mna",
+    "stablecoin_payments",
+    "custody_mpc_risk",
+    "other",
+]
+
+
+def assign_industry_subcategory(industry_items: list, keywords_config: dict) -> None:
+    """
+    为每条行业进展打子类（industry_subcategory, industry_subcategory_name）。
+    基于 config 的 industry_topics 关键词匹配；无匹配则为 other。
+    """
+    topics = keywords_config.get("industry_topics", {})
+    if not topics:
+        for item in industry_items:
+            item["industry_subcategory"] = "other"
+            item["industry_subcategory_name"] = "其他"
+        return
+
+    for item in industry_items:
+        text_parts = [
+            item.get("title") or "",
+            item.get("ai_summary") or "",
+            item.get("description") or "",
+            item.get("text") or "",
+        ]
+        text = " ".join(str(p) for p in text_parts).lower()
+
+        best_key = "other"
+        best_score = 0
+
+        for topic_key, topic_config in topics.items():
+            keywords_any = topic_config.get("keywords_any", []) or []
+            keywords_context = topic_config.get("keywords_context", []) or []
+            score = 0
+            for kw in keywords_any:
+                if kw.lower() in text:
+                    score += 2
+            for kw in keywords_context:
+                if kw.lower() in text:
+                    score += 1
+            if score > best_score:
+                best_score = score
+                best_key = topic_key
+
+        item["industry_subcategory"] = best_key
+        item["industry_subcategory_name"] = (
+            topics.get(best_key, {}).get("name", "其他") if best_key != "other" else "其他"
+        )
+
+
 def extract_search_keywords(config: dict) -> list:
     """从配置中提取搜索关键词"""
     keywords = []
@@ -299,6 +393,13 @@ def daily_pipeline_v2():
 
     classifier = BusinessClassifier(api_key=OPENAI_API_KEY)
     categorized_data = classifier.classify_batch(all_items, use_ai=True)
+
+    # 客户进展只保留 config 中的客户（白名单过滤），其余移到行业进展
+    keywords_config = load_keywords_config()
+    filter_clients_by_allowlist(categorized_data, keywords_config)
+
+    # 为行业进展打子类（监管/融资/支付/托管/其他），便于简报分组展示
+    assign_industry_subcategory(categorized_data.get("industry", []), keywords_config)
 
     print()
 
@@ -554,7 +655,7 @@ def generate_daily_brief(data: dict, date_str: str, insights: dict = None) -> st
     competitors = deduplicate_by_company(data.get("competitors", []))
     if competitors:
         report.append("## 🏢 竞争对手动态\n")
-        for item in competitors[:5]:
+        for item in competitors:  # 显示全部内容
             title = item.get("title", "")[:80]
             url = item.get("url", "")
             source = item.get("source", "")
@@ -592,39 +693,119 @@ def generate_daily_brief(data: dict, date_str: str, insights: dict = None) -> st
     clients = data.get("clients", [])
     if clients:
         report.append("\n## 🤝 客户进展\n")
-        for item in clients[:5]:
+        for item in clients:  # 显示全部内容
             title = item.get("title", "")[:80]
             url = item.get("url", "")
             source = item.get("source", "")
             summary = item.get("ai_summary", "")
+            companies = ", ".join(item.get("mentioned_companies", []))
+
+            # 机会分析
+            opportunity_level = item.get("opportunity_level", "")
+            opportunity_type = item.get("opportunity_type", [])
+            client_action = item.get("client_action", "")
+
+            opportunity_icon = {"high": "🟢 高", "medium": "🟡 中", "low": "⚪ 低"}.get(opportunity_level, "")
 
             # 标题带链接
             if url:
                 report.append(f"### [{title}]({url})")
             else:
                 report.append(f"### {title}")
+            if companies:
+                report.append(f"**涉及公司**: {companies}")
+
+            # 显示机会分析
+            if opportunity_level:
+                report.append(f"\n**机会等级**: {opportunity_icon}")
+            if opportunity_type:
+                report.append(f"**机会类型**: {', '.join(opportunity_type)}")
+            if client_action:
+                report.append(f"**建议行动**: {client_action}")
+
             if summary:
                 report.append(f"\n{summary}")
             report.append(f"\n*来源: {source}*\n")
 
-    # 行业进展
+    # 行业进展（按子类分组：监管牌照 / 融资并购 / 稳定币支付 / 托管与风险 / 其他）
     industry = data.get("industry", [])
     if industry:
         report.append("\n## 📈 行业进展\n")
-        for item in industry[:5]:
-            title = item.get("title", "")[:80]
-            url = item.get("url", "")
-            source = item.get("source", "")
-            summary = item.get("ai_summary", "")
 
-            # 标题带链接
-            if url:
-                report.append(f"### [{title}]({url})")
-            else:
-                report.append(f"### {title}")
-            if summary:
-                report.append(f"\n{summary}")
-            report.append(f"\n*来源: {source}*\n")
+        # 按 industry_subcategory 分组，缺省归为 other
+        by_sub = {}
+        for item in industry:
+            sub = item.get("industry_subcategory") or "other"
+            by_sub.setdefault(sub, []).append(item)
+
+        for sub_key in INDUSTRY_SUBCATEGORY_ORDER:
+            items = by_sub.get(sub_key, [])
+            if not items:
+                continue
+            # 子类标题（使用 config 中的 name；other 显示为「其他」）
+            section_name = (items[0].get("industry_subcategory_name") or sub_key) if items else sub_key
+            if section_name == "other" or not section_name:
+                section_name = "其他"
+            report.append(f"\n### {section_name}\n")
+
+            for item in items:
+                title = item.get("title", "")[:80]
+                url = item.get("url", "")
+                source = item.get("source", "")
+                summary = item.get("ai_summary", "")
+
+                relevance_level = item.get("relevance_level", "")
+                impact_type = item.get("impact_type", [])
+                industry_action = item.get("industry_action", "")
+
+                relevance_icon = {"high": "🔵 高", "medium": "🟡 中", "low": "⚪ 低"}.get(relevance_level, "")
+
+                if url:
+                    report.append(f"#### [{title}]({url})")
+                else:
+                    report.append(f"#### {title}")
+
+                if relevance_level:
+                    report.append(f"\n**相关度**: {relevance_icon}")
+                if impact_type:
+                    report.append(f"**影响类型**: {', '.join(impact_type)}")
+                if industry_action:
+                    report.append(f"**需要行动**: {industry_action}")
+
+                if summary:
+                    report.append(f"\n{summary}")
+                report.append(f"\n*来源: {source}*\n")
+
+        # 未在 ORDER 中的子类也输出（如 config 新增的 key）
+        for sub_key, items in by_sub.items():
+            if sub_key in INDUSTRY_SUBCATEGORY_ORDER:
+                continue
+            section_name = (items[0].get("industry_subcategory_name") or sub_key) if items else sub_key
+            if section_name == "other" or not section_name:
+                section_name = "其他"
+            report.append(f"\n### {section_name}\n")
+            for item in items:
+                title = item.get("title", "")[:80]
+                url = item.get("url", "")
+                source = item.get("source", "")
+                summary = item.get("ai_summary", "")
+                relevance_level = item.get("relevance_level", "")
+                impact_type = item.get("impact_type", [])
+                industry_action = item.get("industry_action", "")
+                relevance_icon = {"high": "🔵 高", "medium": "🟡 中", "low": "⚪ 低"}.get(relevance_level, "")
+                if url:
+                    report.append(f"#### [{title}]({url})")
+                else:
+                    report.append(f"#### {title}")
+                if relevance_level:
+                    report.append(f"\n**相关度**: {relevance_icon}")
+                if impact_type:
+                    report.append(f"**影响类型**: {', '.join(impact_type)}")
+                if industry_action:
+                    report.append(f"**需要行动**: {industry_action}")
+                if summary:
+                    report.append(f"\n{summary}")
+                report.append(f"\n*来源: {source}*\n")
 
     report.append("\n---")
     report.append(f"\n*本报告由稳定币情报系统自动生成*")

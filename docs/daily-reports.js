@@ -6,79 +6,78 @@ const dailyReports = [
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-01-29.md",
         "stats": {
-            "competitors": 7,
-            "clients": 6,
-            "industry": 43
+            "competitors": 11,
+            "clients": 4,
+            "industry": 48
         },
         "highlights": {
             "competitors": [
                 {
-                    "title": "Cactus Custody推出了针对机构的自托管平台，可能对现有托管服务提供商构成竞争压力。",
+                    "title": "富达将推出基于以太坊的稳定币，进入稳定币市场。",
+                    "url": "https://decrypt.co/356165/fidelity-enters-stablecoin-market-ethereum-digital-dollar",
+                    "source": "Decrypt",
+                    "threat_level": "high",
+                    "impact_areas": [
+                        "产品竞争",
+                        "市场定价",
+                        "品牌影响"
+                    ],
+                    "suggested_action": "密切关注富达的市场动向，调整产品策略。"
+                },
+                {
+                    "title": "Checkout.com收购了欧元稳定币发行商Blue EMI，可能对市场竞争格局产生影响。",
+                    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYTJVUTlKXzlGSEhmYWRZQXczS3hoc0VTNnk5ZVE1bnZpY3VFcWRsMERXMGVIZmNnZWpmMzJfRFRVRVZEUUg2cm9vMnJEMTFzbmZDdklEdkQta3VPeks0cGtQcmFDZmItcW1YVml6dFh3Z09zMnB2WFh4V2doVU9aT25qcXA2LXAyRzJudzlPUFF4SFo3TENOWVktVQ?oc=5",
+                    "source": "Google News (stablecoin payment)",
+                    "threat_level": "medium",
+                    "impact_areas": [
+                        "市场定价",
+                        "客户争夺",
+                        "品牌影响"
+                    ],
+                    "suggested_action": "关注Checkout.com的市场策略变化，评估潜在影响。"
+                },
+                {
+                    "title": "Cactus Custody推出了一种面向机构的自托管平台，增强了市场竞争格局。",
                     "url": "https://x.com/hokanewscom/status/2016623523998159166",
                     "source": "Twitter @hokanewscom",
                     "threat_level": "medium",
                     "impact_areas": [
                         "产品竞争",
-                        "客户争夺",
                         "技术差距"
                     ],
-                    "suggested_action": "加强技术创新和客户服务，以提升竞争力。"
-                },
-                {
-                    "title": "Cactus Custody推出了一个新的MPC自我托管平台，可能对市场竞争格局产生影响。",
-                    "url": "https://x.com/CNews_Hub/status/2016571546710446146",
-                    "source": "Twitter @CNews_Hub",
-                    "threat_level": "medium",
-                    "impact_areas": [
-                        "产品竞争",
-                        "技术差距",
-                        "合规优势"
-                    ],
-                    "suggested_action": "加强技术研发，提升合规能力，以应对竞争压力。"
-                },
-                {
-                    "title": "CactusCustody推出基于MPC的自托管平台，可能会对现有托管服务市场造成竞争压力。",
-                    "url": "https://x.com/CryptoEconomyEN/status/2016561911832207629",
-                    "source": "Twitter @CryptoEconomyEN",
-                    "threat_level": "medium",
-                    "impact_areas": [
-                        "产品竞争",
-                        "客户争夺",
-                        "技术差距"
-                    ],
-                    "suggested_action": "加强技术创新和客户服务，以提升市场竞争力。"
+                    "suggested_action": "关注Cactus Custody的技术进展，评估其对市场的影响。"
                 }
             ],
             "clients": [
                 {
-                    "title": "OKX与万事达卡合作，为欧洲持卡人提供稳定币支付服务。",
-                    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSDFNbGJoa3FaTE9DdW1KZTFiQy0tbmpOQ3M0VGlRZEhua2JFY1pFNVB6SnZJa240N1B2elJpQUswMUxKSzU1ZHhUSWYzMlhsNEctemZiWG8zYWtuWmdxQXg3TkQ0blBVdFVLQXNKU0dMOWhhd09tX09VMmlsU0p1NHhocjM3MF9Kc3ZIM3RDRk9FMlVadXU5Umw4dS13U2Z5TzZhYS1ORUVscjZmWWVmM2ZQd1I?oc=5",
-                    "source": "Google News (stablecoin payment)"
+                    "title": "Mizuho 将 Circle 的股票评级上调至“中性”，并提高目标股价至77美元。",
+                    "url": "https://www.theblock.co/post/387431/mizuho-upgrades-circle-shares-outlook-polymarket-usdc-settlement?utm_source=rss&utm_medium=rss",
+                    "source": "The Block"
                 },
                 {
-                    "title": "Fireblocks为Papaya Global提供了基于稳定币的跨境工资钱包，促进了即时支付。",
+                    "title": "Gemini推出了一款以Zcash为主题的信用卡，持卡人可获得ZEC奖励。",
+                    "url": "https://decrypt.co/356261/gemini-launches-zcash-credit-card-pays-zec-rewards",
+                    "source": "Decrypt"
+                },
+                {
+                    "title": "Fireblocks为Papaya Global提供基于稳定币的跨境工资钱包服务。",
                     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeFJyWWJ6M0NxT2xMMVEwZzBtTHFjMHo4bFlBN0pUR0pRaDd5SlNwMkxKSkpzdUFjaHk4eEJqQ1Byek1oaUVEa3ZrUEJtV3ZvcXNHeVhvTGJtdWM5RFgyc0wxZHVlTHR4NlhlZkllU0JOc3RHNy1KSDA5YnRaWW1OWFRqeHZjSm93ckhvSXJnVEdTRWtpNUF4Vk44NHR5VzhZOUtnODNQRUphY3B2R2ZySTZZd0FtVG5OcTFBQ3ZLV25hSE5IdXdpY3BISmRuSGpyZFpiSHNjWnY3X1ZGTmYtTUxFLUcwQQ?oc=5",
                     "source": "Google News (cross-border stablecoin)"
-                },
-                {
-                    "title": "Fireblocks为Papaya Global的新稳定币薪资钱包提供基础设施支持，显示出稳定币在薪资支付领域的应用潜力。",
-                    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa1FhYjBRQ3JjZ3MyakY5OFZQeDByenJLa0NqbmxfNm9JRnVYTlNVZ3U2UmJOeGdyNVFsTU81aldrN0xUSUxWeFFSMm9FOXlQYXZqalp4eEoyR2NSOEZ1RURCQnBmUFlmTnl4ZGMxZkRxN1FKQmViazR5ZHpDaU5qTk5oa1ItZllkeGoxb29wVVdsTC0tU004MzJFM3dyQnJqYlF2b3QtbkZMR1AwbkUyY2ZvVHNzMkxIREpTNjEzYVZIQjF4eThhYWtYWXhKQQ?oc=5",
-                    "source": "Google News (stablecoin settlement)"
                 }
             ],
             "industry": [
                 {
-                    "title": "SEC明确了代币化证券的规则，将这一资产类别纳入联邦证券法的监管范围。",
+                    "title": "SEC明确了代币化证券的规则，将其纳入联邦证券法的监管范围。",
                     "url": "https://www.theblock.co/post/387534/sec-clarifies-rules-tokenized-securities?utm_source=rss&utm_medium=rss",
                     "source": "The Block"
                 },
                 {
-                    "title": "Crypto PAC Fairshake在2026年中期选举前筹集了1.93亿美元资金，显示出加密货币行业在政治领域的影响力增强。",
+                    "title": "Crypto PAC Fairshake在2026年中期选举前筹集了1.93亿美元资金，显示出加密货币行业在政治领域的影响力。",
                     "url": "https://www.theblock.co/post/387514/crypto-pac-fairshake-amasses-war-chest-ahead-november-midterms?utm_source=rss&utm_medium=rss",
                     "source": "The Block"
                 },
                 {
-                    "title": "白宫将召开银行与加密货币行业的会议，讨论数字资产立法问题。",
+                    "title": "",
                     "url": "https://www.theblock.co/post/387484/white-house-meeting-bank-crypto-next-week-discuss-digital-asset-legislation-reuters?utm_source=rss&utm_medium=rss",
                     "source": "The Block"
                 }

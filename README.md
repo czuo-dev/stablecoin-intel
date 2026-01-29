@@ -72,6 +72,21 @@ python scripts/daily_job_v2.py
 - `reports/daily/daily_brief_YYYY-MM-DD.md` - 每日简报
 - `data/processed/categorized_YYYY-MM-DD.json` - 分类数据
 
+### 4. 更新前端 (docs/)
+
+日报脚本会自动更新 `docs/reports/daily/` 和 `docs/daily-reports.js`，**需在项目根目录运行**：
+
+```bash
+cd /path/to/stablecoin-intel
+python3 scripts/daily_job_v2.py
+```
+
+若前端仍显示旧内容：
+
+1. **只同步不重跑流水线**：`python3 scripts/sync_docs_daily.py`（复制 report 并重生成 `docs/daily-reports.js`）
+2. **本地预览**：强制刷新浏览器 (Cmd+Shift+R / Ctrl+Shift+R)
+3. **GitHub Pages**：提交并推送 `docs/` 后等待部署
+
 ## 配置说明
 
 ### 监控对象 (config/keywords.json)

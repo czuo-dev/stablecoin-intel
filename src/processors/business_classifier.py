@@ -218,12 +218,10 @@ class BusinessClassifier:
 
 请分类到以下三个类别之一：
 1. competitors（竞争对手）- 关于 {competitor_desc} 等托管/支付基础设施公司的动态。注意：如果新闻主角是这些竞争对手公司（即使他们在服务其他公司），都应该归类为 competitors。
-2. clients（客户进展）- 关于 {client_desc} 等交易所/金融机构采用稳定币、托管服务的动态。仅当新闻主角是客户公司且不涉及竞争对手时才归类为 clients。
+2. clients（客户进展）- 仅当新闻明确涉及以下客户公司之一时才归为 clients：{client_desc}。若涉及公司不在该列表中，归为 industry。
 3. industry（行业进展）- 关于监管政策、市场趋势、融资事件、技术发展等行业整体动态
 
-请以 JSON 格式回复。
-
-如果是 competitors 类别，请额外分析对我们（一家提供稳定币托管和支付基础设施的公司）的影响：
+请以 JSON 格式回复，根据不同类别返回不同字段：
 
 {{
     "category": "competitors/clients/industry",
@@ -232,16 +230,27 @@ class BusinessClassifier:
     "importance": 1-10,
     "summary": "一句话摘要（中文）",
 
-    // 仅 competitors 类别需要以下字段：
+    // ===== competitors 类别额外字段 =====
     "threat_level": "high/medium/low",
     "impact_areas": ["产品竞争", "客户争夺", "市场定价", "技术差距", "合规优势", "品牌影响"],
-    "suggested_action": "具体应对建议（中文，一句话）"
+    "suggested_action": "具体应对建议（中文，一句话）",
+
+    // ===== clients 类别额外字段 =====
+    "opportunity_level": "high/medium/low",
+    "opportunity_type": ["合作机会", "客户扩展", "技术需求", "合规需求", "市场拓展"],
+    "client_action": "建议的跟进行动（中文，一句话）",
+
+    // ===== industry 类别额外字段 =====
+    "relevance_level": "high/medium/low",
+    "impact_type": ["监管影响", "市场趋势", "技术发展", "竞争格局", "投资机会"],
+    "industry_action": "需要采取的行动（中文，一句话，如无则留空）"
 }}
 
 注意：
-- threat_level: high=直接威胁核心业务, medium=间接影响, low=需关注但影响有限
-- impact_areas: 从列表中选择1-3个最相关的
-- 如果不是 competitors 类别，不需要 threat_level/impact_areas/suggested_action 字段"""
+- competitors: threat_level 高=直接威胁核心业务, 中=间接影响, 低=需关注但影响有限
+- clients: opportunity_level 高=明确合作/销售机会, 中=潜在需求, 低=信息参考
+- industry: relevance_level 高=直接影响我们业务, 中=间接相关, 低=行业背景信息
+- 每个类别只返回该类别对应的额外字段"""
 
         try:
             response = self.client.chat.completions.create(
@@ -301,7 +310,15 @@ class BusinessClassifier:
             # 竞争对手影响分析字段（默认值）
             "threat_level": "",
             "impact_areas": [],
-            "suggested_action": ""
+            "suggested_action": "",
+            # 客户机会分析字段（默认值）
+            "opportunity_level": "",
+            "opportunity_type": [],
+            "client_action": "",
+            # 行业相关性分析字段（默认值）
+            "relevance_level": "",
+            "impact_type": [],
+            "industry_action": ""
         }
 
     def classify_batch(self, items: List[Dict], use_ai: bool = True) -> Dict[str, List[Dict]]:
@@ -344,17 +361,32 @@ class BusinessClassifier:
                 # 竞争对手影响分析
                 "threat_level": classification.get("threat_level", ""),
                 "impact_areas": classification.get("impact_areas", []),
-                "suggested_action": classification.get("suggested_action", "")
+                "suggested_action": classification.get("suggested_action", ""),
+                # 客户机会分析
+                "opportunity_level": classification.get("opportunity_level", ""),
+                "opportunity_type": classification.get("opportunity_type", []),
+                "client_action": classification.get("client_action", ""),
+                # 行业相关性分析
+                "relevance_level": classification.get("relevance_level", ""),
+                "impact_type": classification.get("impact_type", []),
+                "industry_action": classification.get("industry_action", "")
             })
 
             category = classification.get("category", "industry")
             results[category].append(item)
 
-            # 显示分类结果，竞争对手显示威胁等级
+            # 显示分类结果，带等级图标
             category_cn = classification.get("category_cn", "行业进展")
+            level_icon = ""
             if category == "competitors" and classification.get("threat_level"):
-                threat_icon = {"high": "🔴", "medium": "🟡", "low": "🟢"}.get(classification.get("threat_level", ""), "⚪")
-                print(f"✓ {category_cn} {threat_icon}")
+                level_icon = {"high": "🔴", "medium": "🟡", "low": "🟢"}.get(classification.get("threat_level", ""), "")
+            elif category == "clients" and classification.get("opportunity_level"):
+                level_icon = {"high": "🟢", "medium": "🟡", "low": "⚪"}.get(classification.get("opportunity_level", ""), "")
+            elif category == "industry" and classification.get("relevance_level"):
+                level_icon = {"high": "🔵", "medium": "🟡", "low": "⚪"}.get(classification.get("relevance_level", ""), "")
+
+            if level_icon:
+                print(f"✓ {category_cn} {level_icon}")
             else:
                 print(f"✓ {category_cn}")
 

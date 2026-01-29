@@ -14,7 +14,7 @@ from typing import List, Dict, Optional
 import time
 
 # 默认每日预算上限（美元）
-DEFAULT_DAILY_BUDGET = 0.50  # $0.50/天
+DEFAULT_DAILY_BUDGET = 0.2  # $0.20/天
 
 class TwitterAPIioCollector:
     """
@@ -31,7 +31,7 @@ class TwitterAPIioCollector:
 
         Args:
             api_key: TwitterAPI.io 的 API Key，可从环境变量 TWITTERAPI_IO_KEY 读取
-            daily_budget: 每日预算上限（美元），默认 $0.50
+            daily_budget: 每日预算上限（美元），默认 $0.20
         """
         self.api_key = api_key or os.getenv('TWITTERAPI_IO_KEY')
         if not self.api_key:
