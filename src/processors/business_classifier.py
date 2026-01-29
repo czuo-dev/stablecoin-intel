@@ -153,16 +153,19 @@ class BusinessClassifier:
         """
         text_lower = text.lower()
 
-        # 检查竞争对手关键词
+        # 检查竞争对手关键词（精确匹配公司名）
         competitor_matches = sum(1 for kw in self.competitor_keywords if kw in text_lower)
 
         # 检查客户关键词
         client_matches = sum(1 for kw in self.client_keywords if kw in text_lower)
 
-        # 如果明确匹配，直接返回
-        if competitor_matches > 0 and client_matches == 0:
+        # 竞争对手优先：如果提到竞争对手公司，优先归类为竞争对手动态
+        # 例如 "Fireblocks powers Papaya Global" 应该是竞争对手动态而非客户动态
+        if competitor_matches > 0:
             return "competitors"
-        if client_matches > 0 and competitor_matches == 0:
+
+        # 如果只匹配客户
+        if client_matches > 0:
             return "clients"
 
         return None  # 需要 AI 判断
@@ -214,8 +217,8 @@ class BusinessClassifier:
 内容: {description[:500]}
 
 请分类到以下三个类别之一：
-1. competitors（竞争对手）- 关于 {competitor_desc} 等托管/支付基础设施公司的动态
-2. clients（客户进展）- 关于 {client_desc} 等交易所/金融机构采用稳定币、托管服务的动态
+1. competitors（竞争对手）- 关于 {competitor_desc} 等托管/支付基础设施公司的动态。注意：如果新闻主角是这些竞争对手公司（即使他们在服务其他公司），都应该归类为 competitors。
+2. clients（客户进展）- 关于 {client_desc} 等交易所/金融机构采用稳定币、托管服务的动态。仅当新闻主角是客户公司且不涉及竞争对手时才归类为 clients。
 3. industry（行业进展）- 关于监管政策、市场趋势、融资事件、技术发展等行业整体动态
 
 请以 JSON 格式回复。

@@ -482,6 +482,50 @@ const dailyReports = {json.dumps(existing_reports, indent=4, ensure_ascii=False)
         f.write(js_content)
 
 
+def deduplicate_by_company(items: list) -> list:
+    """
+    按公司去重：同一公司的多条重复报道只保留互动最高的一条
+    避免如 Cactus Custody 的同一新闻被多个账号转发都显示
+    """
+    if not items:
+        return []
+
+    # 按主要公司分组
+    company_groups = {}
+
+    for item in items:
+        # 获取涉及的公司
+        companies = item.get("mentioned_companies", [])
+        # 取第一个公司作为主键，或使用标题前20字符
+        if companies:
+            key = companies[0].lower()
+        else:
+            key = item.get("title", "")[:20].lower()
+
+        if key not in company_groups:
+            company_groups[key] = []
+        company_groups[key].append(item)
+
+    # 每组只保留互动最高或来源最好的一条
+    result = []
+    for key, group in company_groups.items():
+        if len(group) == 1:
+            result.append(group[0])
+        else:
+            # 按优先级排序：RSS/新闻 > Twitter，高互动优先
+            def score(item):
+                source = item.get("source", "")
+                is_news = "Twitter" not in source
+                engagement = item.get("engagement", {})
+                likes = engagement.get("likes", 0) if isinstance(engagement, dict) else 0
+                return (is_news, likes)
+
+            group.sort(key=score, reverse=True)
+            result.append(group[0])
+
+    return result
+
+
 def generate_daily_brief(data: dict, date_str: str, insights: dict = None) -> str:
     """生成每日简报"""
     report = []
@@ -506,8 +550,8 @@ def generate_daily_brief(data: dict, date_str: str, insights: dict = None) -> st
 
         report.append("---\n")
 
-    # 竞争对手动态
-    competitors = data.get("competitors", [])
+    # 竞争对手动态（按公司去重，避免同一事件多次报道）
+    competitors = deduplicate_by_company(data.get("competitors", []))
     if competitors:
         report.append("## 🏢 竞争对手动态\n")
         for item in competitors[:5]:
