@@ -46,8 +46,8 @@
     },
     "funding_mna": {
       "name": "融资并购",
-      "keywords_any": ["stablecoin", "crypto", "fintech", "payment", "custody", "MPC"],
-      "keywords_context": ["funding", "raises", "funding round", "Series A", "Series B", "Series C", "acquisition", "acquire", "merger", "strategic investment"]
+      "keywords_any": ["funding", "raises", "acquisition", "merger", "Series A", "Series B", "Series C"],
+      "keywords_context": ["funding round", "strategic investment", "acquire", "valuation", "investor", "lead round", "stablecoin", "crypto", "fintech", "payment"]
     },
     "custody_mpc_risk": {
       "name": "托管与风险",

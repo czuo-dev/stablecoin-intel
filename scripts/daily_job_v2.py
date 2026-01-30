@@ -663,8 +663,8 @@ def generate_daily_reports_js(data: dict, date_str: str, insights: dict = None):
     if not updated:
         existing_reports.insert(0, today_report)
 
-    # 只保留最近 30 天的数据
-    existing_reports = existing_reports[:30]
+    # 只保留最近 90 天的数据
+    existing_reports = existing_reports[:90]
 
     # 写入文件（ES Module 格式，便于前端导入）
     js_content = f"""// 日报数据
