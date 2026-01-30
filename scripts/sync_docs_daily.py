@@ -20,6 +20,43 @@ os.chdir(PROJECT_ROOT)
 sys.path.insert(0, str(PROJECT_ROOT))
 
 
+def extract_insights_from_markdown(md_path: Path) -> dict:
+    """
+    从日报 Markdown 中提取「竞争对手威胁总结」「行业趋势总结」，
+    供 generate_daily_reports_js 写入 dailySummary（Executive Summary / Market Pulse）。
+    """
+    if not md_path.exists():
+        return {}
+    text = md_path.read_text(encoding="utf-8")
+    insights = {}
+
+    # ### 🔴 竞争对手威胁总结 下一行开始到下一个 ### 或 ## 之前
+    competitor_marker = "### 🔴 竞争对手威胁总结"
+    industry_marker = "### 📈 行业趋势总结"
+    idx = text.find(competitor_marker)
+    if idx >= 0:
+        start = text.find("\n", idx) + 1
+        end = len(text)
+        for sep in ("\n### ", "\n## "):
+            p = text.find(sep, start)
+            if p >= 0:
+                end = min(end, p)
+        insights["competitor_summary"] = text[start:end].strip()
+    idx = text.find(industry_marker)
+    if idx >= 0:
+        start = text.find("\n", idx) + 1
+        end = len(text)
+        for sep in ("\n### ", "\n## "):
+            p = text.find(sep, start)
+            if p >= 0:
+                end = min(end, p)
+        raw = text[start:end].strip()
+        # 去掉末尾的 --- 分隔符
+        insights["industry_summary"] = raw.rstrip("-").strip() if raw else ""
+
+    return insights
+
+
 def copy_reports_to_docs():
     """复制 reports/daily/*.md 到 docs/reports/daily/"""
     src_dir = PROJECT_ROOT / "reports" / "daily"
@@ -59,7 +96,9 @@ def regenerate_daily_reports_js():
     for path, date_str in to_process:
         with open(path, "r", encoding="utf-8") as f:
             data = json.load(f)
-        generate_daily_reports_js(data, date_str)
+        report_md = reports_dir / f"daily_brief_{date_str}.md"
+        insights = extract_insights_from_markdown(report_md)
+        generate_daily_reports_js(data, date_str, insights=insights if insights else None)
         print(f"   ✅ 已合并 business_intel_{date_str}.json -> docs/daily-reports.js")
     print(f"   共合并 {len(to_process)} 天日报")
 
