@@ -37,27 +37,40 @@ let dataLoaded = false;
 
 /**
  * 从后端加载日报数据
- * 优先从 /api/reports 获取，降级使用 mock 数据
+ * 优先级：/api/reports（本地有后端）→ 静态 data/daily-reports.json（GitHub Pages）→ mock
  */
 export async function loadDailyReports(): Promise<DailyReport[]> {
   if (cachedReports !== null) {
     return cachedReports;
   }
 
+  const base = (typeof import.meta !== "undefined" && import.meta.env?.BASE_URL) || "";
+
   try {
-    // 尝试从 API 加载（如果有后端服务）
-    const response = await fetch('/api/reports');
-    if (response.ok) {
-      const data = await response.json();
+    const apiRes = await fetch("/api/reports");
+    if (apiRes.ok) {
+      const data = await apiRes.json();
       cachedReports = data.dailyReports || data;
       dataLoaded = true;
       return cachedReports;
     }
-  } catch (e) {
-    console.log('API not available, using embedded data');
+  } catch {
+    /* API not available */
   }
 
-  // 降级：使用内嵌的 mock 数据转换为 DailyReport 格式
+  try {
+    const staticUrl = `${base}data/daily-reports.json`.replace(/([^:]\/)\/+/g, "$1");
+    const staticRes = await fetch(staticUrl);
+    if (staticRes.ok) {
+      const data = await staticRes.json();
+      cachedReports = data.dailyReports || data;
+      dataLoaded = true;
+      return cachedReports;
+    }
+  } catch {
+    /* static JSON not available */
+  }
+
   cachedReports = convertMockToReports();
   dataLoaded = true;
   return cachedReports;

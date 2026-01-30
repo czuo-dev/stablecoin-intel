@@ -8,6 +8,8 @@ on:
     paths:
       - "stablecoin-intel-web-source/**"
       - ".github/workflows/deploy-pages.yml"
+      - "docs/daily-reports.js"
+      - "scripts/extract_daily_reports_json.js"
   workflow_dispatch:
 
 permissions:
@@ -43,6 +45,10 @@ jobs:
           cd stablecoin-intel-web-source
           pnpm install --frozen-lockfile
           pnpm exec vite build
+
+      - name: Embed daily reports data (static JSON for Pages)
+        run: |
+          node scripts/extract_daily_reports_json.js
 
       - name: Prepare Pages artifact
         run: |
