@@ -1,0 +1,20 @@
+{
+  "week": "2026-01-30",
+  "period": {
+    "start": "2026-01-24",
+    "end": "2026-01-30",
+    "days": 7
+  },
+  "generated_at": "2026-01-30T16:05:22.854789",
+  "stats": {
+    "total_news": 0,
+    "total_tweets": 0,
+    "total_items": 0,
+    "by_category": {}
+  },
+  "version": "v2",
+  "model": "gpt-4o-mini",
+  "mode": "single",
+  "total_tokens": 2876,
+  "estimated_cost": 0.0011631
+}
