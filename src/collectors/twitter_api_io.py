@@ -257,19 +257,22 @@ class TwitterAPIioCollector:
         return all_tweets
 
     def collect_by_accounts(self, accounts: List[str],
-                           max_per_account: int = 20) -> List[Dict]:
+                           max_per_account: int = 20,
+                           hours_back: int = 24) -> List[Dict]:
         """
-        按账号列表收集推文
+        按账号列表收集推文，只保留指定时间范围内的推文（与日报“当日”一致，避免混入历史推文）。
 
         Args:
             accounts: 用户名列表
-            max_per_account: 每个账号最大收集数
+            max_per_account: 每个账号最大拉取数（API 返回最近 N 条，再按时间过滤）
+            hours_back: 回溯小时数，只保留此时间内的推文
 
         Returns:
             推文列表
         """
-        print(f"🐦 TwitterAPI.io: 收集 {len(accounts)} 个账号的推文...")
+        print(f"🐦 TwitterAPI.io: 收集 {len(accounts)} 个账号的推文（仅 {hours_back}h 内）...")
 
+        cutoff_time = datetime.utcnow() - timedelta(hours=hours_back)
         all_tweets = []
 
         for i, username in enumerate(accounts, 1):
@@ -281,13 +284,23 @@ class TwitterAPIioCollector:
             print(f"  [{i}/{len(accounts)}] @{username}...", end=" ")
 
             tweets = self.get_user_tweets(username, max_results=max_per_account)
+            new_count = 0
 
             for tweet in tweets:
+                created_at = tweet.get("createdAt", "")
+                try:
+                    tweet_time = datetime.fromisoformat(created_at.replace("Z", "+00:00"))
+                    # 与 collect_by_keywords 一致：只保留 cutoff_time 之后的推文
+                    if tweet_time.replace(tzinfo=None) < cutoff_time:
+                        continue
+                except Exception:
+                    pass  # 解析失败时保留，避免丢数
                 normalized = self.normalize_tweet(tweet)
                 normalized["monitored_account"] = username
                 all_tweets.append(normalized)
+                new_count += 1
 
-            print(f"✓ {len(tweets)} 条")
+            print(f"✓ {new_count} 条")
             time.sleep(0.5)
 
         return all_tweets
@@ -317,8 +330,8 @@ class TwitterAPIioCollector:
         keyword_tweets = self.collect_by_keywords(keywords, hours_back=hours_back)
         print(f"\n📊 关键词推文: {len(keyword_tweets)} 条\n")
 
-        # 收集账号推文
-        account_tweets = self.collect_by_accounts(accounts)
+        # 收集账号推文（同样按 hours_back 过滤，避免 competitor 混入 12 月等历史推文）
+        account_tweets = self.collect_by_accounts(accounts, hours_back=hours_back)
         print(f"\n📊 账号推文: {len(account_tweets)} 条\n")
 
         # 合并去重

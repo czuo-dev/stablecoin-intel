@@ -482,8 +482,8 @@ def daily_pipeline_v2():
             f.write(daily_report)
         print(f"✅ 已复制到: {docs_report_file}")
 
-        # 生成前端数据文件
-        generate_daily_reports_js(categorized_data, date_str)
+        # 生成前端数据文件（传入 insights 用于生成每日总结）
+        generate_daily_reports_js(categorized_data, date_str, insights)
         print(f"✅ 前端数据已更新: docs/daily-reports.js\n")
 
     except Exception as e:
@@ -514,8 +514,11 @@ def daily_pipeline_v2():
     return True
 
 
-def generate_daily_reports_js(data: dict, date_str: str):
-    """生成前端日报数据文件 (docs/daily-reports.js)"""
+def generate_daily_reports_js(data: dict, date_str: str, insights: dict = None):
+    """
+    生成前端日报数据文件 (docs/daily-reports.js)
+    输出格式与前端 NewsItem 接口对齐，使用 camelCase 命名
+    """
 
     # 读取现有数据
     js_file = 'docs/daily-reports.js'
@@ -533,47 +536,116 @@ def generate_daily_reports_js(data: dict, date_str: str):
         except Exception as e:
             print(f"  ⚠️ 读取现有数据失败: {e}")
 
-    # 构建今日数据
-    def extract_highlights(items, max_count=3, include_threat=False):
-        """提取亮点，包含 URL 和威胁分析"""
-        highlights = []
-        for item in items[:max_count]:
-            url = item.get('url', '')
-            source = item.get('source', '')
+    def convert_to_news_item(item: dict, category: str, index: int) -> dict:
+        """
+        将后端数据转换为前端 NewsItem 格式
+        使用 camelCase 命名，包含所有前端需要的字段
+        """
+        url = item.get('url', '')
+        source = item.get('source', '')
 
-            # 如果没有 URL，尝试从 source 构建 Twitter URL
-            if not url and 'Twitter @' in source:
-                username = source.replace('Twitter @', '').strip()
-                url = f'https://twitter.com/{username}'
+        # 如果没有 URL，尝试从 source 构建 Twitter URL
+        if not url and 'Twitter @' in source:
+            username = source.replace('Twitter @', '').strip()
+            url = f'https://twitter.com/{username}'
 
-            highlight = {
-                'title': item.get('ai_summary', item.get('title', ''))[:100],
-                'url': url,
-                'source': source
-            }
+        # 生成唯一 ID
+        item_id = f"{date_str}-{category}-{index}"
 
-            # 竞争对手包含威胁分析
-            if include_threat:
-                highlight['threat_level'] = item.get('threat_level', '')
-                highlight['impact_areas'] = item.get('impact_areas', [])
-                highlight['suggested_action'] = item.get('suggested_action', '')
+        # 基础字段
+        news_item = {
+            'id': item_id,
+            'title': item.get('title', '')[:100],
+            'source': source,
+            'date': date_str,
+            'url': url,
+            'category': category,  # 'competitor', 'customer', 'industry'
+            'summary': item.get('ai_summary', item.get('description', ''))[:200],
+        }
 
-            highlights.append(highlight)
-        return highlights
+        # 根据分类添加特定字段
+        if category == 'competitor':
+            news_item['threatLevel'] = item.get('threat_level', 'neutral') or 'neutral'
+            news_item['impact'] = item.get('impact_areas', [])
+            news_item['action'] = item.get('suggested_action', '')
+        elif category == 'customer':
+            # 客户使用 opportunity_level 映射到 threatLevel（语义不同但复用字段）
+            opp_level = item.get('opportunity_level', 'neutral') or 'neutral'
+            news_item['threatLevel'] = opp_level  # high opportunity = good
+            news_item['impact'] = item.get('opportunity_type', [])
+            news_item['action'] = item.get('client_action', '')
+        else:  # industry
+            news_item['threatLevel'] = item.get('relevance_level', 'neutral') or 'neutral'
+            news_item['impact'] = item.get('impact_type', [])
+            news_item['action'] = item.get('industry_action', '')
+            # 行业子类
+            news_item['subcategory'] = item.get('industry_subcategory', 'other')
+            news_item['subcategoryName'] = item.get('industry_subcategory_name', '其他')
 
+        # 涉及的公司
+        mentioned = item.get('mentioned_companies', [])
+        if mentioned:
+            news_item['tickers'] = mentioned
+
+        return news_item
+
+    # 转换所有数据为 NewsItem 格式
+    all_news_items = []
+
+    # 竞争对手
+    for i, item in enumerate(data.get('competitors', [])):
+        all_news_items.append(convert_to_news_item(item, 'competitor', i))
+
+    # 客户
+    for i, item in enumerate(data.get('clients', [])):
+        all_news_items.append(convert_to_news_item(item, 'customer', i))
+
+    # 行业
+    for i, item in enumerate(data.get('industry', [])):
+        all_news_items.append(convert_to_news_item(item, 'industry', i))
+
+    # 统计数据（使用前端期望的字段名）
+    competitors_list = data.get('competitors', [])
+    clients_list = data.get('clients', [])
+    industry_list = data.get('industry', [])
+
+    # 统计威胁等级
+    high_threats = len([x for x in competitors_list if x.get('threat_level') == 'high'])
+    medium_threats = len([x for x in competitors_list if x.get('threat_level') == 'medium'])
+    low_threats = len([x for x in competitors_list if x.get('threat_level') == 'low'])
+
+    stats = {
+        'totalThreats': len(competitors_list),
+        'highThreats': high_threats,
+        'mediumThreats': medium_threats,
+        'lowThreats': low_threats,
+        'competitorUpdates': len(competitors_list),
+        'customerUpdates': len(clients_list),
+        'industryUpdates': len(industry_list)
+    }
+
+    # 每日总结
+    daily_summary = {
+        'competitorThreat': (insights or {}).get('competitor_summary', ''),
+        'industryTrend': (insights or {}).get('industry_summary', '')
+    }
+
+    # 构建今日完整报告
     today_report = {
         'date': date_str,
         'title': '稳定币行业日报',
         'file': f'reports/daily/daily_brief_{date_str}.md',
-        'stats': {
-            'competitors': len(data.get('competitors', [])),
-            'clients': len(data.get('clients', [])),
-            'industry': len(data.get('industry', []))
-        },
+        # 新格式：完整的新闻项列表
+        'newsItems': all_news_items,
+        # 统计数据（前端格式）
+        'stats': stats,
+        # 每日总结
+        'dailySummary': daily_summary,
+        # 兼容旧格式：highlights 保留用于向后兼容
         'highlights': {
-            'competitors': extract_highlights(data.get('competitors', []), include_threat=True),
-            'clients': extract_highlights(data.get('clients', [])),
-            'industry': extract_highlights(data.get('industry', []))
+            'competitors': [convert_to_news_item(x, 'competitor', i) for i, x in enumerate(competitors_list[:3])],
+            'clients': [convert_to_news_item(x, 'customer', i) for i, x in enumerate(clients_list[:3])],
+            'industry': [convert_to_news_item(x, 'industry', i) for i, x in enumerate(industry_list[:3])]
         }
     }
 
@@ -591,10 +663,23 @@ def generate_daily_reports_js(data: dict, date_str: str):
     # 只保留最近 30 天的数据
     existing_reports = existing_reports[:30]
 
-    # 写入文件
+    # 写入文件（ES Module 格式，便于前端导入）
     js_content = f"""// 日报数据
 // 由 daily_job_v2.py 自动生成
+// 格式与前端 NewsItem 接口对齐
+
 const dailyReports = {json.dumps(existing_reports, indent=4, ensure_ascii=False)};
+
+// 导出最新报告的快捷访问
+const latestReport = dailyReports[0] || null;
+const latestNewsItems = latestReport ? latestReport.newsItems : [];
+const latestStats = latestReport ? latestReport.stats : {{}};
+const latestDailySummary = latestReport ? latestReport.dailySummary : {{}};
+
+// CommonJS 兼容
+if (typeof module !== 'undefined' && module.exports) {{
+    module.exports = {{ dailyReports, latestReport, latestNewsItems, latestStats, latestDailySummary }};
+}}
 """
 
     with open(js_file, 'w', encoding='utf-8') as f:
