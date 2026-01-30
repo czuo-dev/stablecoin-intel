@@ -318,6 +318,7 @@ function vitePluginManusDebugCollector(): Plugin {
 const plugins = [react(), tailwindcss(), jsxLocPlugin(), vitePluginReportsApi(), vitePluginKeywordsApi(), vitePluginWeeklyReportsApi(), vitePluginManusRuntime(), vitePluginManusDebugCollector()];
 
 export default defineConfig({
+  base: process.env.VITE_BASE_PATH ?? "/stablecoin-intel/",
   plugins,
   resolve: {
     alias: {

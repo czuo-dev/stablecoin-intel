@@ -531,11 +531,41 @@ def generate_daily_reports_js(data: dict, date_str: str, insights: dict = None):
         try:
             with open(js_file, 'r', encoding='utf-8') as f:
                 content = f.read()
-                # 提取 JSON 数组
-                start = content.find('[')
-                end = content.rfind(']') + 1
-                if start >= 0 and end > start:
-                    existing_reports = json.loads(content[start:end])
+            # 提取最外层 JSON 数组（括号匹配，避免嵌套数组或字符串里的 ] 截断）
+            start = content.find('[')
+            if start >= 0:
+                depth = 0
+                in_string = None
+                escape = False
+                i = start
+                while i < len(content):
+                    c = content[i]
+                    if escape:
+                        escape = False
+                        i += 1
+                        continue
+                    if c == '\\' and in_string:
+                        escape = True
+                        i += 1
+                        continue
+                    if in_string:
+                        if c == in_string:
+                            in_string = None
+                        i += 1
+                        continue
+                    if c == '"':
+                        in_string = '"'
+                        i += 1
+                        continue
+                    if c == '[':
+                        depth += 1
+                    elif c == ']':
+                        depth -= 1
+                        if depth == 0:
+                            end = i + 1
+                            existing_reports = json.loads(content[start:end])
+                            break
+                    i += 1
         except Exception as e:
             print(f"  ⚠️ 读取现有数据失败: {e}")
 

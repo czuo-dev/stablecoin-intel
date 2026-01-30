@@ -1,6 +1,27 @@
 # GitHub Pages 部署指南
 
-## 当前状态检查
+## 新前端 vs 旧静态站
+
+- **新前端**：`stablecoin-intel-web-source/`（Vite + React），由 **GitHub Actions** 构建并部署。
+- **旧静态站**：`docs/` 目录下的 `index.html` + `daily-reports.js` 等，由「从分支 /docs 部署」提供。
+
+若线上仍显示旧页面，是因为仓库的 Pages 源仍为「Deploy from a branch → Folder: /docs」。要显示新前端，请改用 **GitHub Actions** 部署（见下方「新前端部署」）。
+
+---
+
+## 新前端部署（推荐）
+
+1. 仓库 **Settings → Pages**
+2. 在 **Source** 中选择 **GitHub Actions**
+3. 保存后，每次推送到 `main`（或手动运行 workflow）会触发 `.github/workflows/deploy-pages.yml`，构建新前端并发布到 `https://<用户名>.github.io/stablecoin-intel/`
+
+无需再选「Deploy from a branch」或 `/docs`。
+
+---
+
+## 旧静态站（从 /docs 部署）
+
+### 当前状态检查
 
 ✅ 必需文件都已存在：
 - `index.html` ✓
@@ -9,7 +30,7 @@
 - `js/main.js` ✓
 - `css/style.css` ✓
 
-## 解决 404 问题的步骤
+### 解决 404 问题的步骤
 
 ### 1. 确保所有文件已提交
 

@@ -1,7 +1,7 @@
 import { Toaster } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import NotFound from "@/pages/NotFound";
-import { Route, Switch } from "wouter";
+import { Route, Router as WouterRouter, Switch } from "wouter";
 import ErrorBoundary from "./components/ErrorBoundary";
 import { ThemeProvider } from "./contexts/ThemeContext";
 import ReportList from "./pages/ReportList";
@@ -11,9 +11,12 @@ import ThreatRadar from "./pages/ThreatRadar";
 import MarketTrends from "./pages/MarketTrends";
 import Settings from "./pages/Settings";
 
+// BASE_URL from Vite: "/" in dev, "/stablecoin-intel/" when deployed to GitHub Pages
+const base = import.meta.env.BASE_URL;
 
 function Router() {
   return (
+    <WouterRouter base={base}>
     <Switch>
       <Route path="/" component={ReportList} />
       <Route path="/report/:id" component={ReportDetail} />
@@ -25,6 +28,7 @@ function Router() {
       {/* Final fallback route */}
       <Route component={NotFound} />
     </Switch>
+    </WouterRouter>
   );
 }
 

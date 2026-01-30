@@ -37,31 +37,31 @@ def copy_reports_to_docs():
 
 
 def regenerate_daily_reports_js():
-    """根据最新的 business_intel_*.json 重新生成 docs/daily-reports.js"""
+    """根据所有 business_intel_*.json 重新生成 docs/daily-reports.js（按日期从旧到新合并，避免丢日期）"""
     from scripts.daily_job_v2 import generate_daily_reports_js
 
     processed_dir = PROJECT_ROOT / "data" / "processed"
     reports_dir = PROJECT_ROOT / "reports" / "daily"
-    js_file = PROJECT_ROOT / "docs" / "daily-reports.js"
 
-    # 找到既有 report 又有 business_intel 的日期（按日期倒序）
-    biz_files = sorted(
-        glob.glob(str(processed_dir / "business_intel_*.json")),
-        reverse=True,
-    )
-    updated = False
+    # 找到既有 report 又有 business_intel 的日期，按日期升序（从旧到新），这样合并后顺序为 [最新, ..., 最旧]
+    biz_files = sorted(glob.glob(str(processed_dir / "business_intel_*.json")))
+    to_process = []
     for path in biz_files:
         date_str = Path(path).stem.replace("business_intel_", "")
         report_md = reports_dir / f"daily_brief_{date_str}.md"
         if report_md.exists():
-            with open(path, "r", encoding="utf-8") as f:
-                data = json.load(f)
-            generate_daily_reports_js(data, date_str)
-            print(f"   ✅ 已根据 business_intel_{date_str}.json 更新 docs/daily-reports.js")
-            updated = True
-            break
-    if not updated:
+            to_process.append((path, date_str))
+
+    if not to_process:
         print("   ⚠️  未找到可用的 business_intel_*.json（需对应日期的 report 存在），跳过 JS 更新")
+        return
+
+    for path, date_str in to_process:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        generate_daily_reports_js(data, date_str)
+        print(f"   ✅ 已合并 business_intel_{date_str}.json -> docs/daily-reports.js")
+    print(f"   共合并 {len(to_process)} 天日报")
 
 
 def main():
