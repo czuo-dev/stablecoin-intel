@@ -238,14 +238,17 @@ def extract_search_keywords(config: dict) -> list:
     return keywords
 
 
-def daily_pipeline_v2():
-    """完整的每日数据处理流程 V2.2"""
+def daily_pipeline_v2(date_str=None):
+    """完整的每日数据处理流程 V2.2
+    date_str: 可选，指定日期 YYYY-MM-DD；不传则使用当天。
+    """
+
+    if not date_str:
+        date_str = datetime.now().strftime('%Y-%m-%d')
 
     print("=" * 70)
-    print(f"🤖 每日情报系统 V2.2 - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"🤖 每日情报系统 V2.2 - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} (报告日期: {date_str})")
     print("=" * 70 + "\n")
-
-    date_str = datetime.now().strftime('%Y-%m-%d')
 
     # 检查必要的 API Keys
     if not OPENAI_API_KEY:
@@ -922,5 +925,9 @@ def generate_daily_brief(data: dict, date_str: str, insights: dict = None) -> st
 
 
 if __name__ == '__main__':
-    success = daily_pipeline_v2()
+    import argparse
+    parser = argparse.ArgumentParser(description='稳定币日报流水线')
+    parser.add_argument('--date', type=str, metavar='YYYY-MM-DD', help='指定报告日期，不传则使用当天')
+    args = parser.parse_args()
+    success = daily_pipeline_v2(date_str=args.date)
     exit(0 if success else 1)

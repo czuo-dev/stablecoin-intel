@@ -6,6 +6,30 @@
 
 ---
 
+## 🤖 GitHub Actions 与每日发布
+
+**日报流水线**（`.github/workflows/daily-collect.yml`）：
+
+- **触发**：每天 UTC 02:00（新加坡 10:00）定时运行，或仓库 Actions 里手动 “Run workflow”。
+- **步骤**：拉代码 → 装依赖 → 运行 `scripts/daily_job_v2.py` → 提交并推送 `data/`、`reports/`、**以及** `docs/daily-reports.js` 和 `docs/reports/daily/`。
+- **前端数据**：日报列表和详情来自 `docs/daily-reports.js`；静态站（GitHub Pages）从 `docs/` 发布，所以 workflow 必须把 `docs/` 里上述文件一并提交，前端/Pages 才会看到最新日报。
+- **Secrets**：在仓库 Settings → Secrets 中配置 `OPENAI_API_KEY`、`NEWSAPI_KEY`、`TWITTERAPI_IO_KEY`，否则日报中的 AI 分析与推文会失败。
+
+**周报**（`.github/workflows/weekly-report.yml`）：每周五 UTC 15:00 运行，依赖 `weekly_aggregator.py`、`weekly_report_generator_v2.py`、`convert_to_html.py`、`update_website.py`。
+
+**“自动更新”说明**：
+- **GitHub Pages**：只有 Action 成功推送后，线上站才会更新；每天定时跑一次，无需人工。
+- **本地 localhost**：读的是本机文件，**不会**自动从 GitHub 拉新数据。要看到最新日报：先 `git pull`（或本地跑 `python scripts/daily_job_v2.py`），再刷新页面即可；已改为每次请求重新读 `docs/daily-reports.js`，无需重启 dev server。
+
+**前端没更新时自检**：
+- **本地开发**（`pnpm dev`）：数据来自**本地** `docs/daily-reports.js`（项目根目录），不会自动从 GitHub 拉取。
+  - 若希望看到 Action 跑出的最新日报：在**项目根**执行 `git pull`，然后**刷新浏览器**即可；dev server 每次请求会重新读文件，无需重启。
+  - 若在本地自己跑日报：在项目根执行 `python scripts/daily_job_v2.py [--date YYYY-MM-DD]`，会更新 `docs/daily-reports.js` 和 `docs/reports/daily/*.md`，刷新浏览器即可看到。
+- **GitHub Pages**：确认 Settings → Pages 的发布分支是 Action 推送的分支（多为 main）；推送后等 1～5 分钟再强制刷新或无痕打开。
+- **Action 是否真的推了 docs**：在仓库最新一次 “📊 Daily data” 的 commit 里，看是否包含 `docs/daily-reports.js` 和 `docs/reports/daily/` 的变更。若没有，说明当时跑的 workflow 还是旧版（未合并“提交 docs”的改动），需把当前分支合并到 main 后再跑一次。
+
+---
+
 ## 📋 方式1：使用Schedule库（推荐给开发/测试）
 
 ### 优点
