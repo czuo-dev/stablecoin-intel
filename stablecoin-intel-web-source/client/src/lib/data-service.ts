@@ -3,6 +3,9 @@
  * 负责加载真实数据或降级使用 mock 数据
  */
 
+/* build-time define from vite.config.ts */
+declare const __BUILD_TS__: string | undefined;
+
 import { NewsItem, ReportSummary, mockNews, stats as mockStats, dailySummary as mockDailySummary, reportList as mockReportList } from './mock-data';
 
 // 日报数据接口（与后端 daily-reports.js 格式对齐）
@@ -59,7 +62,8 @@ export async function loadDailyReports(): Promise<DailyReport[]> {
   }
 
   try {
-    const staticUrl = `${base}data/daily-reports.json`.replace(/([^:]\/)\/+/g, "$1");
+    const basePath = `${base}data/daily-reports.json`.replace(/([^:]\/)\/+/g, "$1");
+    const staticUrl = typeof __BUILD_TS__ !== "undefined" ? `${basePath}?v=${__BUILD_TS__}` : basePath;
     const staticRes = await fetch(staticUrl);
     if (staticRes.ok) {
       const data = await staticRes.json();

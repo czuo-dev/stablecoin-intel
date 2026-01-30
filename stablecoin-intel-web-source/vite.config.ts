@@ -332,6 +332,9 @@ export default defineConfig({
   build: {
     outDir: path.resolve(import.meta.dirname, "dist/public"),
     emptyOutDir: true,
+    define: {
+      __BUILD_TS__: JSON.stringify(Date.now()),
+    },
   },
   server: {
     port: 3000,
