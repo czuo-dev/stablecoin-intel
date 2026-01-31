@@ -18,9 +18,9 @@ function listWeeklyReports(): { id: string; date: string; title: string; summary
   const results: { id: string; date: string; title: string; summary: string; type: "weekly"; stats: { high: number; medium: number; low: number }; file: string; lang: string }[] = [];
   if (!fs.existsSync(WEEKLY_REPORTS_DIR)) return results;
   const files = fs.readdirSync(WEEKLY_REPORTS_DIR).filter((f: string) => f.endsWith(".md"));
-  const langLabels: Record<string, string> = { bilingual: "中英双语", zh: "中文", es: "Español" };
+  const langLabels: Record<string, string> = { bilingual: "中英双语", zh: "中文", en: "English", es: "Español" };
   for (const file of files) {
-    const match = file.match(/^weekly_(bilingual|zh|es)_(\d{4})_W(\d+)_(\d{4}-\d{2}-\d{2})\.md$/);
+    const match = file.match(/^weekly_(bilingual|zh|en|es)_(\d{4})_W(\d+)_(\d{4}-\d{2}-\d{2})\.md$/);
     if (!match) continue;
     const [, lang, year, week, date] = match;
     const langLabel = langLabels[lang] || lang;
@@ -146,7 +146,7 @@ function vitePluginWeeklyReportsApi(): Plugin {
         if ((req as any).method !== "GET") return next();
         const file = (req as any).url?.split("?")[1]?.split("&").find((s: string) => s.startsWith("file="))?.slice(5);
         const decoded = file ? decodeURIComponent(file) : "";
-        if (!decoded || !/^weekly_(bilingual|zh|es)_\d{4}_W\d+_\d{4}-\d{2}-\d{2}\.md$/.test(decoded)) {
+        if (!decoded || !/^weekly_(bilingual|zh|en|es)_\d{4}_W\d+_\d{4}-\d{2}-\d{2}\.md$/.test(decoded)) {
           res.writeHead(400, { "Content-Type": "application/json" });
           res.end(JSON.stringify({ error: "Invalid file parameter" }));
           return;

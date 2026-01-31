@@ -1,23 +1,25 @@
 import { Link, useLocation } from "wouter";
-import { 
-  LayoutDashboard, 
-  FileText, 
-  Settings, 
-  ShieldAlert, 
-  TrendingUp, 
+import {
+  LayoutDashboard,
+  Settings,
+  ShieldAlert,
+  TrendingUp,
   Menu,
   X,
   Search,
-  PieChart
+  PieChart,
+  LogOut,
 } from "lucide-react";
 import { useState } from "react";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
+import { useAuth } from "@/contexts/AuthContext";
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   const [location] = useLocation();
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
+  const { user, isFirebaseConfigured, signOut } = useAuth();
 
   const navItems = [
     { href: "/", label: "Intelligence Center", icon: LayoutDashboard },
@@ -95,15 +97,34 @@ export default function Layout({ children }: { children: React.ReactNode }) {
 
         {/* User Profile Section */}
         <div className="p-4 border-t border-sidebar-border/50 bg-sidebar/50">
-          <div className="flex items-center gap-3 px-2 py-2 rounded-lg hover:bg-sidebar-accent/50 transition-colors cursor-pointer">
-            <div className="w-8 h-8 rounded-full bg-sidebar-accent flex items-center justify-center text-xs font-bold border border-sidebar-border">
-              UA
+          {isFirebaseConfigured && user ? (
+            <div className="flex items-center gap-3 px-2 py-2 rounded-lg">
+              <div className="w-8 h-8 rounded-full bg-sidebar-accent flex items-center justify-center text-xs font-bold border border-sidebar-border overflow-hidden">
+                {user.photoURL ? (
+                  <img src={user.photoURL} alt="" className="w-full h-full object-cover" />
+                ) : (
+                  (user.email?.[0] ?? "U").toUpperCase()
+                )}
+              </div>
+              <div className="flex-1 min-w-0">
+                <p className="text-sm font-medium truncate">{user.displayName || "User"}</p>
+                <p className="text-xs text-muted-foreground truncate">{user.email}</p>
+              </div>
+              <Button variant="ghost" size="icon" onClick={() => signOut()} title="退出登录">
+                <LogOut className="w-4 h-4" />
+              </Button>
             </div>
-            <div className="flex-1 min-w-0">
-              <p className="text-sm font-medium truncate">User Admin</p>
-              <p className="text-xs text-muted-foreground truncate">admin@stablecoin.intel</p>
+          ) : (
+            <div className="flex items-center gap-3 px-2 py-2 rounded-lg">
+              <div className="w-8 h-8 rounded-full bg-sidebar-accent flex items-center justify-center text-xs font-bold border border-sidebar-border">
+                —
+              </div>
+              <div className="flex-1 min-w-0">
+                <p className="text-sm font-medium truncate">Guest</p>
+                <p className="text-xs text-muted-foreground truncate">未配置登录时可见</p>
+              </div>
             </div>
-          </div>
+          )}
         </div>
       </aside>
 

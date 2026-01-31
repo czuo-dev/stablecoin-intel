@@ -161,8 +161,10 @@ export async function getReportList(): Promise<ReportSummary[]> {
       type: 'daily' as const
     };
   });
+  dailySummaries.sort((a, b) => b.date.localeCompare(a.date));
 
   let weeklySummaries: ReportSummary[] = [];
+  const base = (typeof import.meta !== 'undefined' && import.meta.env?.BASE_URL) || '';
   try {
     const res = await fetch('/api/weekly-reports');
     if (res.ok) {
@@ -176,9 +178,41 @@ export async function getReportList(): Promise<ReportSummary[]> {
         stats: w.stats || { high: 0, medium: 0, low: 0 },
         type: 'weekly' as const
       }));
+    } else {
+      const staticUrl = `${base}data/weekly-reports.json`.replace(/([^:]\/)\/+/g, '$1');
+      const fallback = await fetch(staticUrl);
+      if (fallback.ok) {
+        const data = await fallback.json();
+        const list = data.weeklyReports || [];
+        weeklySummaries = list.map((w: { id: string; date: string; title: string; summary: string; stats?: { high: number; medium: number; low: number } }) => ({
+          id: w.id,
+          date: w.date,
+          title: w.title,
+          summary: w.summary,
+          stats: w.stats || { high: 0, medium: 0, low: 0 },
+          type: 'weekly' as const
+        }));
+      }
     }
   } catch {
-    weeklySummaries = mockReportList.filter(r => r.type === 'weekly');
+    try {
+      const staticUrl = `${base}data/weekly-reports.json`.replace(/([^:]\/)\/+/g, '$1');
+      const fallback = await fetch(staticUrl);
+      if (fallback.ok) {
+        const data = await fallback.json();
+        const list = data.weeklyReports || [];
+        weeklySummaries = list.map((w: { id: string; date: string; title: string; summary: string; stats?: { high: number; medium: number; low: number } }) => ({
+          id: w.id,
+          date: w.date,
+          title: w.title,
+          summary: w.summary,
+          stats: w.stats || { high: 0, medium: 0, low: 0 },
+          type: 'weekly' as const
+        }));
+      }
+    } catch {
+      weeklySummaries = mockReportList.filter(r => r.type === 'weekly');
+    }
   }
   return [...dailySummaries, ...weeklySummaries];
 }

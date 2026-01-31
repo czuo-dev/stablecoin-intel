@@ -19,9 +19,9 @@ function listWeeklyReports(): { id: string; date: string; title: string; summary
   const results: { id: string; date: string; title: string; summary: string; type: "weekly"; stats: { high: number; medium: number; low: number }; file: string; lang: string }[] = [];
   if (!fs.existsSync(weeklyReportsDir)) return results;
   const files = fs.readdirSync(weeklyReportsDir).filter((f) => f.endsWith(".md"));
-  const langLabels: Record<string, string> = { bilingual: "中英双语", zh: "中文", es: "Español" };
+  const langLabels: Record<string, string> = { bilingual: "中英双语", zh: "中文", en: "English", es: "Español" };
   for (const file of files) {
-    const match = file.match(/^weekly_(bilingual|zh|es)_(\d{4})_W(\d+)_(\d{4}-\d{2}-\d{2})\.md$/);
+    const match = file.match(/^weekly_(bilingual|zh|en|es)_(\d{4})_W(\d+)_(\d{4}-\d{2}-\d{2})\.md$/);
     if (!match) continue;
     const [, lang, year, week, date] = match;
     const langLabel = langLabels[lang] || lang;
@@ -91,7 +91,7 @@ async function startServer() {
   // API: single weekly report markdown (reports/weekly/{file})
   app.get("/api/weekly-report", (req, res) => {
     const file = req.query.file as string;
-    if (!file || !/^weekly_(bilingual|zh|es)_\d{4}_W\d+_\d{4}-\d{2}-\d{2}\.md$/.test(file)) {
+    if (!file || !/^weekly_(bilingual|zh|en|es)_\d{4}_W\d+_\d{4}-\d{2}-\d{2}\.md$/.test(file)) {
       return res.status(400).json({ error: "Invalid file parameter" });
     }
     try {

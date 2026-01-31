@@ -6,6 +6,7 @@ import { AlertTriangle, TrendingUp, Users, Activity, ArrowUpRight, ArrowLeft, Lo
 import { Link, useRoute } from "wouter";
 import { cn } from "@/lib/utils";
 import { useState, useRef, useEffect } from "react";
+import ReactMarkdown from "react-markdown";
 import { getReportByDate, getLatestReport, type DailyReport, type NewsItem, mockNews, stats as mockStats, dailySummary as mockDailySummary } from "@/lib/data-service";
 
 // StatCard 组件的属性接口
@@ -68,17 +69,34 @@ export default function ReportDetail() {
       setReportNotFound(false);
       try {
         if (reportId?.startsWith("weekly-")) {
+          const base = (typeof import.meta !== "undefined" && import.meta.env?.BASE_URL) || "";
+          let list: { id: string; file: string; title: string }[] = [];
           const listRes = await fetch("/api/weekly-reports");
           if (listRes.ok) {
-            const { weeklyReports } = await listRes.json();
-            const found = (weeklyReports || []).find((w: { id: string; file: string; title: string }) => w.id === reportId);
-            if (found?.file) {
-              const contentRes = await fetch(`/api/weekly-report?file=${encodeURIComponent(found.file)}`);
-              if (contentRes.ok) {
-                const text = await contentRes.text();
-                setWeeklyTitle(found.title);
-                setWeeklyContent(text);
-              }
+            const data = await listRes.json();
+            list = data.weeklyReports || [];
+          } else {
+            const staticListUrl = `${base}data/weekly-reports.json`.replace(/([^:]\/)\/+/g, "$1");
+            const staticListRes = await fetch(staticListUrl);
+            if (staticListRes.ok) {
+              const data = await staticListRes.json();
+              list = data.weeklyReports || [];
+            }
+          }
+          const found = list.find((w: { id: string; file: string; title: string }) => w.id === reportId);
+          if (found?.file) {
+            let text: string | null = null;
+            const contentRes = await fetch(`/api/weekly-report?file=${encodeURIComponent(found.file)}`);
+            if (contentRes.ok) {
+              text = await contentRes.text();
+            } else {
+              const staticContentUrl = `${base}data/weekly/${encodeURIComponent(found.file)}`.replace(/([^:]\/)\/+/g, "$1");
+              const staticContentRes = await fetch(staticContentUrl);
+              if (staticContentRes.ok) text = await staticContentRes.text();
+            }
+            if (text != null) {
+              setWeeklyTitle(found.title);
+              setWeeklyContent(text);
             }
           }
           setLoading(false);
@@ -182,8 +200,8 @@ export default function ReportDetail() {
           </div>
           <Card>
             <CardContent className="p-6">
-              <div className="prose dark:prose-invert max-w-none whitespace-pre-wrap font-sans text-sm leading-relaxed">
-                {weeklyContent}
+              <div className="prose dark:prose-invert max-w-none font-sans text-sm leading-relaxed">
+                <ReactMarkdown>{weeklyContent}</ReactMarkdown>
               </div>
             </CardContent>
           </Card>
