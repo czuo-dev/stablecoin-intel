@@ -47,3 +47,4 @@ htmlcov/
 # ===== Cache =====
 cache/
 .cache/
+.pnpm-store/
