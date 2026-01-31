@@ -34,14 +34,28 @@ jobs:
         run: |
           python scripts/weekly_report_generator_v2.py
       
+      - name: Copy weekly reports to reports/weekly (frontend API format)
+        run: |
+          REPORTS_SUBDIR=$(ls -td reports/20*-*-* 2>/dev/null | head -1)
+          [ -z "$REPORTS_SUBDIR" ] && echo "No reports dir found" && exit 0
+          WEEK_DATE=$(basename "$REPORTS_SUBDIR")
+          YEAR=$(echo "$WEEK_DATE" | cut -d'-' -f1)
+          WEEK=$(date -d "$WEEK_DATE" +%V)
+          mkdir -p reports/weekly
+          [ -f "$REPORTS_SUBDIR/weekly_report_zh_v2.md" ] && cp "$REPORTS_SUBDIR/weekly_report_zh_v2.md" "reports/weekly/weekly_zh_${YEAR}_W${WEEK}_${WEEK_DATE}.md"
+          [ -f "$REPORTS_SUBDIR/weekly_report_en_v2.md" ] && cp "$REPORTS_SUBDIR/weekly_report_en_v2.md" "reports/weekly/weekly_en_${YEAR}_W${WEEK}_${WEEK_DATE}.md"
+          [ -f "$REPORTS_SUBDIR/weekly_report_es_v2.md" ] && cp "$REPORTS_SUBDIR/weekly_report_es_v2.md" "reports/weekly/weekly_es_${YEAR}_W${WEEK}_${WEEK_DATE}.md"
+          echo "Copied to reports/weekly/ (YEAR=$YEAR WEEK=$WEEK DATE=$WEEK_DATE)"
+      
       - name: Convert to HTML and update website
         run: |
           python scripts/convert_to_html.py
           python scripts/update_website.py
       
+      # 必须用 PAT 推送：用 GITHUB_TOKEN 的 push 不会触发 Deploy to GitHub Pages。仓库 Settings → Secrets → 新建 GH_PAT（repo 权限的 Personal Access Token）。
       - name: Commit and push
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
           git add reports/ docs/ data/weekly/
-          git diff --staged --quiet || (git commit -m "📄 Weekly report: $(date +'%Y-%m-%d')" && git push)
+          git diff --staged --quiet || (git commit -m "📄 Weekly report: $(date +'%Y-%m-%d')" && git push "https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git" HEAD:main)

@@ -5646,81 +5646,6 @@ const dailyReports = [
                 ]
             },
             {
-                "id": "2026-01-30-competitor-1",
-                "title": "🚨 NEW: Digital asset custodian Cactus Custody launched an institutional-grade self-custody platform ",
-                "source": "Twitter @hokanewscom",
-                "date": "2026-01-30",
-                "url": "https://x.com/hokanewscom/status/2016623523998159166",
-                "category": "competitor",
-                "summary": "Cactus Custody推出了一款面向机构的自我托管平台，旨在为希望直接控制资产的公司提供服务。",
-                "threatLevel": "medium",
-                "impact": [
-                    "产品竞争",
-                    "客户争夺",
-                    "技术差距"
-                ],
-                "action": "关注Cactus Custody的市场动态，评估其对我们业务的潜在影响。",
-                "tickers": [
-                    "Cactus Custody"
-                ]
-            },
-            {
-                "id": "2026-01-30-competitor-2",
-                "title": "⚡ JUST IN: Cactus Custody Pushes MPC Self-Custody – Full Control, But Compliance Is the Catch\nCactus",
-                "source": "Twitter @CNews_Hub",
-                "date": "2026-01-30",
-                "url": "https://x.com/CNews_Hub/status/2016571546710446146",
-                "category": "competitor",
-                "summary": "Cactus Custody推出了一个机构级的MPC自我托管平台，强调合规性的重要性。",
-                "threatLevel": "medium",
-                "impact": [
-                    "技术差距",
-                    "合规优势"
-                ],
-                "action": "关注Cactus Custody的合规策略，以提升自身竞争力。",
-                "tickers": [
-                    "Cactus Custody"
-                ]
-            },
-            {
-                "id": "2026-01-30-competitor-3",
-                "title": "🔐 Cactus moves into self-custody\n\n@CactusCustody announced a new MPC-based self-custody platform fol",
-                "source": "Twitter @CryptoEconomyEN",
-                "date": "2026-01-30",
-                "url": "https://x.com/CryptoEconomyEN/status/2016561911832207629",
-                "category": "competitor",
-                "summary": "CactusCustody推出基于MPC的自托管平台，可能对竞争对手造成影响。",
-                "threatLevel": "medium",
-                "impact": [
-                    "产品竞争",
-                    "技术差距"
-                ],
-                "action": "关注CactusCustody的市场动态，评估其技术优势。",
-                "tickers": [
-                    "CactusCustody",
-                    "Chainalysis"
-                ]
-            },
-            {
-                "id": "2026-01-30-competitor-4",
-                "title": "🔐 Cactus apuesta por nueva autocustodia\n\n@CactusCustody anunció una nueva plataforma de autocustodia",
-                "source": "Twitter @crypto_economy",
-                "date": "2026-01-30",
-                "url": "https://x.com/crypto_economy/status/2016561911501090910",
-                "category": "competitor",
-                "summary": "CactusCustody推出了一种新的基于MPC的自我托管平台，与Chainalysis建立了战略合作关系。",
-                "threatLevel": "medium",
-                "impact": [
-                    "产品竞争",
-                    "技术差距"
-                ],
-                "action": "关注CactusCustody的技术进展，评估其对市场的潜在影响。",
-                "tickers": [
-                    "CactusCustody",
-                    "Chainalysis"
-                ]
-            },
-            {
                 "id": "2026-01-30-competitor-5",
                 "title": "Big news: Today, we are officially announcing our integration with @FireblocksHQ!\n\nFireblocks users ",
                 "source": "Twitter @N3XTinc",
@@ -5811,130 +5736,6 @@ const dailyReports = [
                 "tickers": [
                     "OSL",
                     "Anchorage"
-                ]
-            },
-            {
-                "id": "2026-01-30-competitor-10",
-                "title": "Hong Kong is calling! 🇭🇰\n\nSafeheron is ready to anchor your #ConsensusHK2026 experience. Come meet t",
-                "source": "Twitter @Safeheron",
-                "date": "2026-01-30",
-                "url": "https://x.com/Safeheron/status/2016779675901874380",
-                "category": "competitor",
-                "summary": "Safeheron将在香港的ConsensusHK2026活动中展示其产品和服务。",
-                "threatLevel": "medium",
-                "impact": [
-                    "产品竞争",
-                    "市场定价",
-                    "品牌影响"
-                ],
-                "action": "关注Safeheron在市场上的动态，评估其对我们业务的潜在影响。",
-                "tickers": [
-                    "Safeheron"
-                ]
-            },
-            {
-                "id": "2026-01-30-competitor-11",
-                "title": "We believe in \"Open Source as Trust\" 🛡️\n\nSafeheron is proud to open-source our C++ implementation of",
-                "source": "Twitter @Safeheron",
-                "date": "2026-01-30",
-                "url": "https://x.com/Safeheron/status/2001217480149368997",
-                "category": "competitor",
-                "summary": "Safeheron 开源了其 C++ 实现的 Lindell 17 协议，强调开放源代码作为信任的基础。",
-                "threatLevel": "medium",
-                "impact": [
-                    "技术差距",
-                    "品牌影响"
-                ],
-                "action": "关注 Safeheron 的技术进展，评估其对市场的潜在影响。",
-                "tickers": [
-                    "Safeheron"
-                ]
-            },
-            {
-                "id": "2026-01-30-competitor-12",
-                "title": "𝗧𝗵𝗲 𝗛𝗲𝗮𝗿𝘁 ❤️\n\nOur CEO, Wade Wang, shares this sentiment: \"What I'm most proud of isn't just our tech",
-                "source": "Twitter @Safeheron",
-                "date": "2026-01-30",
-                "url": "https://x.com/Safeheron/status/1999390060391882757",
-                "category": "competitor",
-                "summary": "Safeheron CEO 强调了与合作伙伴建立信任的重要性。",
-                "threatLevel": "medium",
-                "impact": [
-                    "品牌影响"
-                ],
-                "action": "关注 Safeheron 在行业中的信任建设策略。",
-                "tickers": [
-                    "Safeheron"
-                ]
-            },
-            {
-                "id": "2026-01-30-competitor-13",
-                "title": "𝗙𝗼𝘂𝗿 𝘆𝗲𝗮𝗿𝘀. 𝗔 𝘀𝗵𝗮𝗿𝗲𝗱 𝗷𝗼𝘂𝗿𝗻𝗲𝘆. 𝗔 𝗰𝗼𝗺𝗺𝗼𝗻 𝗵𝗼𝗿𝗶𝘇𝗼𝗻.\n\nToday marks Safeheron's 𝟰𝘁𝗵 𝗮𝗻𝗻𝗶𝘃𝗲𝗿𝘀𝗮𝗿𝘆, a mileston",
-                "source": "Twitter @Safeheron",
-                "date": "2026-01-30",
-                "url": "https://x.com/Safeheron/status/1999390047217602652",
-                "category": "competitor",
-                "summary": "Safeheron庆祝其成立四周年，强调与合作伙伴的信任关系。",
-                "threatLevel": "medium",
-                "impact": [
-                    "品牌影响"
-                ],
-                "action": "关注Safeheron的市场动态，评估其品牌影响力。",
-                "tickers": [
-                    "Safeheron"
-                ]
-            },
-            {
-                "id": "2026-01-30-competitor-14",
-                "title": "Following recent reports of the Next.js / React Server Components RCE vulnerability (CVE-2025-66478)",
-                "source": "Twitter @Safeheron",
-                "date": "2026-01-30",
-                "url": "https://x.com/Safeheron/status/1996847194050072866",
-                "category": "competitor",
-                "summary": "Safeheron 确认未受 Next.js / React Server Components 漏洞影响，数字资产安全。",
-                "threatLevel": "low",
-                "impact": [
-                    "技术差距"
-                ],
-                "action": "持续关注安全漏洞动态，确保技术领先。",
-                "tickers": [
-                    "Safeheron"
-                ]
-            },
-            {
-                "id": "2026-01-30-competitor-15",
-                "title": "Safeheron Gas Service isn't just a tool; it's a growth engine.\n\nStop managing gas. Start building yo",
-                "source": "Twitter @Safeheron",
-                "date": "2026-01-30",
-                "url": "https://x.com/Safeheron/status/1993955697994956806",
-                "category": "competitor",
-                "summary": "Safeheron Gas Service 被描述为一个推动业务增长的工具。",
-                "threatLevel": "medium",
-                "impact": [
-                    "产品竞争",
-                    "技术差距"
-                ],
-                "action": "关注 Safeheron 的市场动态，评估其对业务的潜在影响。",
-                "tickers": [
-                    "Safeheron"
-                ]
-            },
-            {
-                "id": "2026-01-30-competitor-16",
-                "title": "Are you a VASP tired of the gas grind? ⛽️\n\nManual top-ups, stranded capital, and failed transactions",
-                "source": "Twitter @Safeheron",
-                "date": "2026-01-30",
-                "url": "https://x.com/Safeheron/status/1993955679430955302",
-                "category": "competitor",
-                "summary": "Safeheron推出Gas Service，旨在帮助VASP解决手动充值和交易失败的问题。",
-                "threatLevel": "medium",
-                "impact": [
-                    "产品竞争",
-                    "技术差距"
-                ],
-                "action": "关注Safeheron的服务动态，评估其对市场的影响。",
-                "tickers": [
-                    "Safeheron"
                 ]
             },
             {
@@ -6359,23 +6160,6 @@ const dailyReports = [
                 "subcategoryName": "托管与风险"
             },
             {
-                "id": "2026-01-30-industry-25",
-                "title": "HBMHCW unveils a Hybrid Trading Infrastructure with MPC custody. This launch addresses security gaps",
-                "source": "Twitter @HBMHCW",
-                "date": "2026-01-30",
-                "url": "https://x.com/HBMHCW/status/2016434226426757168",
-                "category": "industry",
-                "summary": "HBMHCW推出了具有MPC托管的混合交易基础设施，旨在填补安全漏洞，提供机构级保护和快速执行。",
-                "threatLevel": "medium",
-                "impact": [
-                    "技术发展",
-                    "竞争格局"
-                ],
-                "action": "关注MPC托管技术的发展动态。",
-                "subcategory": "custody_mpc_risk",
-                "subcategoryName": "托管与风险"
-            },
-            {
                 "id": "2026-01-30-industry-26",
                 "title": "What if the real solution to your crypto bottleneck is removing friction entirely?\n\nI see it every d",
                 "source": "Twitter @evergenius_eg",
@@ -6406,124 +6190,6 @@ const dailyReports = [
                     "市场趋势"
                 ],
                 "action": "关注俄罗斯的监管动态对市场的潜在影响。",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-01-30-industry-28",
-                "title": "The Real Payment Headaches B2B Companies Face\n\nWhen B2B clients approach us at https://t.co/CCkMbhSu",
-                "source": "Twitter @goat_finance",
-                "date": "2026-01-30",
-                "url": "https://x.com/goat_finance/status/2016529985037623758",
-                "category": "industry",
-                "summary": "B2B公司在支付过程中面临跨境费用和结算延迟等问题，影响业务增长。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注B2B支付解决方案的技术进展和市场需求变化。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-01-30-industry-29",
-                "title": "The integration of crypto protocols into payment systems, trade finance, and cross-border settlement",
-                "source": "Twitter @capital_vmv",
-                "date": "2026-01-30",
-                "url": "https://x.com/capital_vmv/status/2016477416575713577",
-                "category": "industry",
-                "summary": "加密协议的整合将改变全球金融基础设施。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注加密协议在支付系统中的应用动态。",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-01-30-industry-30",
-                "title": "Building @DogPay_ in public.\n\nBridging fiat &amp; crypto for global payments — cards, banking, and p",
-                "source": "Twitter @DogPay_",
-                "date": "2026-01-30",
-                "url": "https://x.com/DogPay_/status/2016429635639378333",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注跨境支付领域的技术创新和市场动态",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-01-30-industry-31",
-                "title": "@coinbureau You literally can’t think cross-border payment system without thinking of crypto",
-                "source": "Twitter @DamiDefi",
-                "date": "2026-01-30",
-                "url": "https://x.com/DamiDefi/status/2016245259743699159",
-                "category": "industry",
-                "summary": "跨境支付系统与加密货币的关系日益紧密，反映出行业的趋势和发展。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-01-30-industry-32",
-                "title": "Why Spendex suits the African market\n\nAfrica’s crypto market is unique.\n\nHigh mobile usage, fragment",
-                "source": "Twitter @spendexhq",
-                "date": "2026-01-30",
-                "url": "https://x.com/spendexhq/status/2015726239365894528",
-                "category": "industry",
-                "summary": "Spendex 针对非洲市场的独特需求设计了解决方案，反映了该地区加密货币市场的特点。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注非洲市场的加密货币发展动态，评估潜在机会。",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-01-30-industry-33",
-                "title": "💰 $150M Payment Accelerator = real support for businesses &amp; banks building onchain payment flows",
-                "source": "Twitter @elleseir",
-                "date": "2026-01-30",
-                "url": "https://x.com/elleseir/status/2015721205769331186",
-                "category": "industry",
-                "summary": "150百万美元的支付加速器为企业和银行提供了支持，推动链上支付流动的发展。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注链上支付流动的技术发展动态。",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-01-30-industry-34",
-                "title": "The era of global payments is here 🌍\n\n$ITLG is becoming the core of a worldwide payment network—brin",
-                "source": "Twitter @Syed_Aqeel1",
-                "date": "2026-01-30",
-                "url": "https://x.com/Syed_Aqeel1/status/2015685988870439178",
-                "category": "industry",
-                "summary": "全球支付网络的崛起，标志着区块链技术在日常生活中的应用逐渐普及。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注全球支付网络的发展动态，评估对业务的潜在影响。",
                 "subcategory": "funding_mna",
                 "subcategoryName": "融资并购"
             },
@@ -6646,167 +6312,16 @@ const dailyReports = [
                 "action": "关注稳定币监管动态对市场的长期影响。",
                 "subcategory": "regulation_licensing",
                 "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-01-30-industry-42",
-                "title": "🇭🇰 Kick off your #ConsensusHK2026 journey with an exclusive evening above Victoria Harbour. 🌃\n\nJoin ",
-                "source": "Twitter @Safeheron",
-                "date": "2026-01-30",
-                "url": "https://x.com/Safeheron/status/2016421742466764802",
-                "category": "industry",
-                "summary": "这是一个关于数字资产未来的行业活动，旨在推动金融领域的下一步发展。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注行业动态，参与相关活动以增强市场影响力。",
-                "subcategory": "custody_mpc_risk",
-                "subcategoryName": "托管与风险"
-            },
-            {
-                "id": "2026-01-30-industry-43",
-                "title": "From securing $250B+ in asset transfers to becoming the trusted infrastructure for 200+ global insti",
-                "source": "Twitter @Safeheron",
-                "date": "2026-01-30",
-                "url": "https://x.com/Safeheron/status/2006334009278910801",
-                "category": "industry",
-                "summary": "该新闻强调了信任在数字资产转移和基础设施中的重要性，反映了行业对安全性和可靠性的关注。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "",
-                "subcategory": "custody_mpc_risk",
-                "subcategoryName": "托管与风险"
-            },
-            {
-                "id": "2026-01-30-industry-44",
-                "title": "Happy New Year 2026! 🎆✨\n\nAs we step into a new cycle, we wish you peace, joy, and prosperity.\n\nRefle",
-                "source": "Twitter @Safeheron",
-                "date": "2026-01-30",
-                "url": "https://x.com/Safeheron/status/2006334002505154947",
-                "category": "industry",
-                "summary": "祝贺新年，反思过去一年，展望未来的积极变化。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-01-30-industry-45",
-                "title": "Our journey in numbers: From our founding to safeguarding billions in assets, serving 170+ instituti",
-                "source": "Twitter @Safeheron",
-                "date": "2026-01-30",
-                "url": "https://x.com/Safeheron/status/1999390057309044965",
-                "category": "industry",
-                "summary": "该公司通过数字化展示了其在资产保护和服务机构方面的成就，反映了行业的信任基础。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "",
-                "subcategory": "custody_mpc_risk",
-                "subcategoryName": "托管与风险"
-            },
-            {
-                "id": "2026-01-30-industry-46",
-                "title": "Efficient Fund Sweeping\n\nCollecting funds from thousands of addresses is a nightmare. Topping up eac",
-                "source": "Twitter @Safeheron",
-                "date": "2026-01-30",
-                "url": "https://x.com/Safeheron/status/1993955693875875925",
-                "category": "industry",
-                "summary": "高效的资金清扫服务可以提高资本效率，解决资金管理问题。",
-                "threatLevel": "medium",
-                "impact": [
-                    "技术发展",
-                    "市场趋势"
-                ],
-                "action": "关注资金管理技术的进展与应用。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-01-30-industry-47",
-                "title": "Frictionless Fund Outflows\n\nStockpiling native tokens is a capital drain.\n\nWith Gas Service, we auto",
-                "source": "Twitter @Safeheron",
-                "date": "2026-01-30",
-                "url": "https://x.com/Safeheron/status/1993955688868139040",
-                "category": "industry",
-                "summary": "该新闻讨论了流动性管理和用户体验的优化，反映了加密支付领域的技术发展。",
-                "threatLevel": "medium",
-                "impact": [
-                    "技术发展",
-                    "市场趋势"
-                ],
-                "action": "关注流动性管理技术的进步，评估对自身业务的影响。",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-01-30-industry-48",
-                "title": "How It Works: A Seamless Switch\n\nEnable Gas Service in our console. That's it. Whether through API o",
-                "source": "Twitter @Safeheron",
-                "date": "2026-01-30",
-                "url": "https://x.com/Safeheron/status/1993955683969192286",
-                "category": "industry",
-                "summary": "该新闻讨论了多链气体管理的自动化，简化了操作流程。",
-                "threatLevel": "medium",
-                "impact": [
-                    "技术发展"
-                ],
-                "action": "关注气体管理技术的进展，评估其对业务的潜在影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-01-30-industry-49",
-                "title": "Fighting #CryptoCrime takes a united front.💪\n\nWe were honored to join the inaugural “Uniting Against",
-                "source": "Twitter @Safeheron",
-                "date": "2026-01-30",
-                "url": "https://x.com/Safeheron/status/1993230478057632108",
-                "category": "industry",
-                "summary": "该论坛旨在团结各方力量共同打击加密货币犯罪。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注加密货币犯罪的监管政策变化。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-01-30-industry-50",
-                "title": "Weekly roundup of Aptos ecosystem happening\n\nBinance has enabled Soft Staking support for Aptos\n\n@De",
-                "source": "Twitter @SasomisNg",
-                "date": "2026-01-30",
-                "url": "https://x.com/SasomisNg/status/1992159765795848245",
-                "category": "industry",
-                "summary": "Aptos生态系统的动态，包括Binance支持Soft Staking和多个项目的技术进展。",
-                "threatLevel": "medium",
-                "impact": [
-                    "技术发展",
-                    "市场趋势"
-                ],
-                "action": "关注Aptos生态系统的技术进展，评估其对市场的潜在影响。",
-                "subcategory": "custody_mpc_risk",
-                "subcategoryName": "托管与风险"
             }
         ],
         "stats": {
-            "totalThreats": 17,
+            "totalThreats": 6,
             "highThreats": 0,
-            "mediumThreats": 16,
-            "lowThreats": 1,
-            "competitorUpdates": 17,
+            "mediumThreats": 6,
+            "lowThreats": 0,
+            "competitorUpdates": 6,
             "customerUpdates": 0,
-            "industryUpdates": 51
+            "industryUpdates": 34
         },
         "dailySummary": {
             "competitorThreat": "今日最大的竞争威胁来自Cactus Custody推出的基于MPC的自我托管平台，该平台强调合规性并可能对市场格局产生影响。同时，OSL集团筹集2亿美元以推动其稳定币和支付业务的发展，显示出其对市场的强烈进攻意图。Copper的IPO谈判也表明加密托管服务正在走向主流。建议关注合规性与用户控制资产的需求，优化自身产品以提高竞争力，并考虑与技术合作伙伴建立战略联盟，以增强市场适应能力。",
@@ -6833,40 +6348,39 @@ const dailyReports = [
                     ]
                 },
                 {
-                    "id": "2026-01-30-competitor-1",
-                    "title": "🚨 NEW: Digital asset custodian Cactus Custody launched an institutional-grade self-custody platform ",
-                    "source": "Twitter @hokanewscom",
+                    "id": "2026-01-30-competitor-5",
+                    "title": "Big news: Today, we are officially announcing our integration with @FireblocksHQ!\n\nFireblocks users ",
+                    "source": "Twitter @N3XTinc",
                     "date": "2026-01-30",
-                    "url": "https://x.com/hokanewscom/status/2016623523998159166",
+                    "url": "https://x.com/N3XTinc/status/2016884114331164968",
                     "category": "competitor",
-                    "summary": "Cactus Custody推出了一款面向机构的自我托管平台，旨在为希望直接控制资产的公司提供服务。",
+                    "summary": "Fireblocks与某公司整合，用户可直接管理和转移美元支付。",
                     "threatLevel": "medium",
                     "impact": [
                         "产品竞争",
-                        "客户争夺",
-                        "技术差距"
+                        "市场定价"
                     ],
-                    "action": "关注Cactus Custody的市场动态，评估其对我们业务的潜在影响。",
+                    "action": "关注Fireblocks的市场动态，评估潜在影响。",
                     "tickers": [
-                        "Cactus Custody"
+                        "FireblocksHQ"
                     ]
                 },
                 {
-                    "id": "2026-01-30-competitor-2",
-                    "title": "⚡ JUST IN: Cactus Custody Pushes MPC Self-Custody – Full Control, But Compliance Is the Catch\nCactus",
-                    "source": "Twitter @CNews_Hub",
+                    "id": "2026-01-30-competitor-6",
+                    "title": "Building Crypto & Stablecoin Infrastructure for Huge Institutions!\n\nWATCH ▶️ https://t.co/HNnZcAxQ4G",
+                    "source": "Twitter @thinkingcrypto",
                     "date": "2026-01-30",
-                    "url": "https://x.com/CNews_Hub/status/2016571546710446146",
+                    "url": "https://x.com/thinkingcrypto/status/2016858572609523966",
                     "category": "competitor",
-                    "summary": "Cactus Custody推出了一个机构级的MPC自我托管平台，强调合规性的重要性。",
+                    "summary": "Fireblocks正在为大型机构构建加密货币和稳定币基础设施。",
                     "threatLevel": "medium",
                     "impact": [
                         "技术差距",
-                        "合规优势"
+                        "市场定价"
                     ],
-                    "action": "关注Cactus Custody的合规策略，以提升自身竞争力。",
+                    "action": "关注Fireblocks的技术进展，评估其对市场的影响。",
                     "tickers": [
-                        "Cactus Custody"
+                        "Fireblocks"
                     ]
                 }
             ],

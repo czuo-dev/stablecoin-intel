@@ -31,6 +31,7 @@ export default function Settings() {
   const [config, setConfig] = useState<KeywordsConfig | null>(null);
   const [loading, setLoading] = useState(true);
   const [loadError, setLoadError] = useState<string | null>(null);
+  const [readOnlyStatic, setReadOnlyStatic] = useState(false);
   const [saveStatus, setSaveStatus] = useState<"idle" | "saving" | "ok" | "error">("idle");
   const [newKeyword, setNewKeyword] = useState("");
   const [newCompetitorName, setNewCompetitorName] = useState("");
@@ -40,6 +41,8 @@ export default function Settings() {
     let cancelled = false;
     setLoading(true);
     setLoadError(null);
+    setReadOnlyStatic(false);
+    const base = (typeof import.meta !== "undefined" && import.meta.env?.BASE_URL) || "";
     fetch("/api/keywords")
       .then((r) => {
         if (!r.ok) throw new Error(r.statusText || "Failed to load");
@@ -50,11 +53,23 @@ export default function Settings() {
           setConfig(data as KeywordsConfig);
         }
       })
-      .catch((e) => {
-        if (!cancelled) {
-          setLoadError(e instanceof Error ? e.message : "Unable to load keyword config. Check backend and config path.");
-          setConfig(null);
-        }
+      .catch(() => {
+        if (cancelled) return;
+        const staticUrl = `${base}data/keywords.json`.replace(/([^:]\/)\/+/g, "$1");
+        return fetch(staticUrl).then((r) => {
+          if (!r.ok) throw new Error("Static config not found");
+          return r.json();
+        }).then((data) => {
+          if (!cancelled) {
+            setConfig(data as KeywordsConfig);
+            setReadOnlyStatic(true);
+          }
+        }).catch((e) => {
+          if (!cancelled) {
+            setLoadError(e instanceof Error ? e.message : "Unable to load keyword config. On static site, ensure data/keywords.json is deployed.");
+            setConfig(null);
+          }
+        });
       })
       .finally(() => {
         if (!cancelled) setLoading(false);
@@ -149,6 +164,12 @@ export default function Settings() {
           </div>
         )}
 
+        {readOnlyStatic && (
+          <div className="rounded-lg border border-blue-200 bg-blue-50 dark:border-blue-900/50 dark:bg-blue-900/10 px-4 py-3 text-sm text-blue-800 dark:text-blue-200">
+            Config is read-only on this site (no backend). Keywords and competitors are loaded from the deployed snapshot. To change them, edit <code className="bg-black/10 dark:bg-white/10 px-1 rounded">config/keywords.json</code> in the repo and redeploy.
+          </div>
+        )}
+
         <Tabs defaultValue="monitoring" className="w-full">
           <TabsList className="grid w-full grid-cols-3 max-w-[400px] mb-8">
             <TabsTrigger value="monitoring">Monitoring</TabsTrigger>
@@ -193,9 +214,9 @@ export default function Settings() {
                 </div>
               </CardContent>
               <CardFooter className="bg-muted/50 border-t border-border/50 px-6 py-4">
-                <Button onClick={saveConfig} disabled={saveStatus === "saving" || !config}>
+                <Button onClick={saveConfig} disabled={saveStatus === "saving" || !config || readOnlyStatic}>
                   {saveStatus === "saving" ? <Loader2 className="w-4 h-4 mr-2 animate-spin" /> : <Save className="w-4 h-4 mr-2" />}
-                  {saveStatus === "saving" ? "Saving..." : saveStatus === "ok" ? "Saved" : saveStatus === "error" ? "Save failed" : "Save Changes"}
+                  {readOnlyStatic ? "Read-only (static site)" : saveStatus === "saving" ? "Saving..." : saveStatus === "ok" ? "Saved" : saveStatus === "error" ? "Save failed" : "Save Changes"}
                 </Button>
               </CardFooter>
             </Card>
@@ -247,9 +268,9 @@ export default function Settings() {
                 </div>
               </CardContent>
               <CardFooter className="bg-muted/50 border-t border-border/50 px-6 py-4">
-                <Button onClick={saveConfig} disabled={saveStatus === "saving" || !config}>
+                <Button onClick={saveConfig} disabled={saveStatus === "saving" || !config || readOnlyStatic}>
                   {saveStatus === "saving" ? <Loader2 className="w-4 h-4 mr-2 animate-spin" /> : <Save className="w-4 h-4 mr-2" />}
-                  Save Changes
+                  {readOnlyStatic ? "Read-only (static site)" : "Save Changes"}
                 </Button>
               </CardFooter>
             </Card>

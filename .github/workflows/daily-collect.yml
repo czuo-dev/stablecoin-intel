@@ -53,23 +53,22 @@ jobs:
             python scripts/daily_job.py
           fi
 
+      # 必须用 PAT 推送：用 GITHUB_TOKEN 的 push 不会触发 Deploy to GitHub Pages。仓库 Settings → Secrets → 新建 GH_PAT（repo 权限的 Personal Access Token）。
       - name: Commit and push changes
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
 
-          # 添加数据、报告、以及前端用的 docs（daily-reports.js + docs/reports/daily/*.md）
           git add data/
           git add reports/
           git add docs/daily-reports.js
           git add docs/reports/daily/
 
-          # 检查是否有变更
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "📊 Daily data: $(date +'%Y-%m-%d')"
-            git push
+            git push "https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git" HEAD:main
           fi
 
       - name: Summary

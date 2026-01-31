@@ -682,6 +682,36 @@ def generate_daily_reports_js(data: dict, date_str: str, insights: dict = None):
         }
     }
 
+    # 跨日 URL 去重：仅在「更早日期」已出现过的链接从今日列表中移除，只保留「首次出现日」
+    seen_urls_or_ids = set()
+    for report in existing_reports:
+        if (report.get('date') or '') >= date_str:
+            continue  # 只收集严格更早日期的 URL，避免同一天重复处理时清空
+        for item in report.get('newsItems') or []:
+            key = (item.get('url') or item.get('id') or '').strip()
+            if key:
+                seen_urls_or_ids.add(key)
+    new_items = [x for x in today_report['newsItems'] if not (x.get('url') or x.get('id') or '').strip() or (x.get('url') or x.get('id') or '').strip() not in seen_urls_or_ids]
+    today_report['newsItems'] = new_items
+    # 用过滤后的列表重新计算 stats 和 highlights
+    competitors_only = [x for x in new_items if x.get('category') == 'competitor']
+    clients_only = [x for x in new_items if x.get('category') == 'customer']
+    industry_only = [x for x in new_items if x.get('category') == 'industry']
+    today_report['stats'] = {
+        'totalThreats': len(competitors_only),
+        'highThreats': len([x for x in competitors_only if x.get('threatLevel') == 'high']),
+        'mediumThreats': len([x for x in competitors_only if x.get('threatLevel') == 'medium']),
+        'lowThreats': len([x for x in competitors_only if x.get('threatLevel') == 'low']),
+        'competitorUpdates': len(competitors_only),
+        'customerUpdates': len(clients_only),
+        'industryUpdates': len(industry_only),
+    }
+    today_report['highlights'] = {
+        'competitors': competitors_only[:3],
+        'clients': clients_only[:3],
+        'industry': industry_only[:3],
+    }
+
     # 更新或添加今日数据
     updated = False
     for i, report in enumerate(existing_reports):
