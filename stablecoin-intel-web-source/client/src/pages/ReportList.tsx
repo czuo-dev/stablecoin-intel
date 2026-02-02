@@ -30,8 +30,8 @@ export default function ReportList() {
     loadReports();
   }, []);
 
-  // 只展示最近两天的日报（01-28、01-29）
-  const dailyReports = reports.filter(r => r.type === 'daily').slice(0, 2);
+  // 显示所有日报和周报
+  const dailyReports = reports.filter(r => r.type === 'daily');
   const weeklyReports = reports.filter(r => r.type === 'weekly');
 
   const ReportCard = ({ report }: { report: ReportSummary }) => (
