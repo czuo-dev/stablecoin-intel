@@ -2,12 +2,9 @@ import { Link, useLocation } from "wouter";
 import {
   LayoutDashboard,
   Settings,
-  ShieldAlert,
-  TrendingUp,
   Menu,
   X,
   Search,
-  PieChart,
   LogOut,
 } from "lucide-react";
 import { useState } from "react";
@@ -23,9 +20,6 @@ export default function Layout({ children }: { children: React.ReactNode }) {
 
   const navItems = [
     { href: "/", label: "Intelligence Center", icon: LayoutDashboard },
-    { href: "/analysis", label: "Deep Analysis", icon: PieChart },
-    { href: "/threats", label: "Threat Radar", icon: ShieldAlert },
-    { href: "/trends", label: "Market Trends", icon: TrendingUp },
     { href: "/settings", label: "Settings", icon: Settings },
   ];
 

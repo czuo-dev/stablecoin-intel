@@ -8,9 +8,6 @@ import { AuthProvider } from "./contexts/AuthContext";
 import { ThemeProvider } from "./contexts/ThemeContext";
 import ReportList from "./pages/ReportList";
 import ReportDetail from "./pages/ReportDetail";
-import DeepAnalysis from "./pages/DeepAnalysis";
-import ThreatRadar from "./pages/ThreatRadar";
-import MarketTrends from "./pages/MarketTrends";
 import Settings from "./pages/Settings";
 import Login from "./pages/Login";
 import { Loader2 } from "lucide-react";
@@ -24,9 +21,6 @@ function Router() {
     <Switch>
       <Route path="/" component={ReportList} />
       <Route path="/report/:id" component={ReportDetail} />
-      <Route path="/analysis" component={DeepAnalysis} />
-      <Route path="/threats" component={ThreatRadar} />
-      <Route path="/trends" component={MarketTrends} />
       <Route path="/settings" component={Settings} />
       <Route path="/404" component={NotFound} />
       {/* Final fallback route */}
