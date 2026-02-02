@@ -188,7 +188,12 @@ class TwitterAPIioCollector:
                 return []
 
             data = response.json()
-            tweets = data.get("tweets", [])
+            # 用户推文 API 返回结构: {"data": {"tweets": [...]}}
+            # 搜索 API 返回结构: {"tweets": [...]}
+            if "data" in data and isinstance(data["data"], dict):
+                tweets = data["data"].get("tweets", [])
+            else:
+                tweets = data.get("tweets", [])
             self.tweet_count += len(tweets)
 
             return tweets[:max_results]
