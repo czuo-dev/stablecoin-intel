@@ -10,94 +10,130 @@ const dailyReports = [
         "newsItems": [
             {
                 "id": "2026-02-02-competitor-0",
-                "title": "Fireblocks expands MPC custody to new chains",
-                "source": "The Block",
+                "title": "NymCard Launches USDC-Based Stablecoin Settlement with Visa in GCC - TechAfrica News",
+                "source": "Google News (stablecoin settlement)",
                 "date": "2026-02-02",
-                "url": "https://example.com/fireblocks-mpc",
+                "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjZYOEMzcXZjS1BtSXI2VkR1ZmMxR0w1TEZGUl9LN19UWFVKbHhmdkdIdmF2Y3VWdVY4ZklpWnQyS05zaWJzSnR5X1dGOThMOWlTQmtFSkRVdG1rSGw1aDJwY2k2SEw5akhMT1JrTm54allLR1dva0lkX2tYd3AyeWdQTl84WGItbFEwSE82M2FFalBYRHhmOU16a3ppSkZaeFhDcGQxOFk?oc=5",
                 "category": "competitor",
-                "summary": "Fireblocks扩展MPC托管服务至更多链。",
+                "summary": "NymCard推出基于USDC的稳定币支付解决方案。",
                 "threatLevel": "medium",
-                "impact": [
-                    "技术差距",
-                    "市场定价"
-                ],
-                "action": "关注MPC技术发展，提升自身竞争力。",
-                "tickers": [
-                    "Fireblocks"
-                ]
-            },
-            {
-                "id": "2026-02-02-competitor-1",
-                "title": "BitGo launches institutional staking for USDC",
-                "source": "Decrypt",
-                "date": "2026-02-02",
-                "url": "https://example.com/bitgo-usdc",
-                "category": "competitor",
-                "summary": "BitGo推出USDC质押服务，与Circle合作。",
-                "threatLevel": "medium",
-                "impact": [
-                    "产品竞争",
-                    "客户争夺"
-                ],
-                "action": "关注BitGo的产品动态，评估竞争策略。",
-                "tickers": [
-                    "BitGo",
-                    "Circle"
-                ]
-            },
-            {
-                "id": "2026-02-02-competitor-2",
-                "title": "Copper adds cold storage support for stablecoins",
-                "source": "Finextra",
-                "date": "2026-02-02",
-                "url": "https://example.com/copper-stablecoin",
-                "category": "competitor",
-                "summary": "Copper 增加对稳定币的冷存储支持。",
-                "threatLevel": "high",
                 "impact": [
                     "产品竞争",
                     "客户争夺",
-                    "技术差距"
+                    "市场定价"
                 ],
-                "action": "关注 Copper 的产品动态，提升自身服务竞争力。",
+                "action": "关注NymCard的市场动态，评估竞争策略。",
                 "tickers": [
-                    "Copper"
+                    "Visa"
                 ]
             },
             {
                 "id": "2026-02-02-industry-0",
-                "title": "Polymarket volume surges with USDC settlement",
+                "title": "Ripple secures full EU EMI license in Luxembourg following preliminary approval",
                 "source": "The Block",
                 "date": "2026-02-02",
-                "url": "https://example.com/polymarket-usdc",
+                "url": "https://www.theblock.co/post/387959/ripple-secures-full-emi-license-luxembourg?utm_source=rss&utm_medium=rss",
                 "category": "industry",
-                "summary": "Polymarket使用USDC结算，交易量增长。",
+                "summary": "Ripple获得卢森堡全EMI许可证，影响行业监管格局。",
                 "threatLevel": "high",
                 "impact": [
+                    "监管影响",
                     "市场趋势",
-                    "技术发展"
+                    "竞争格局"
                 ],
-                "action": "关注USDC在市场中的应用趋势。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付",
+                "action": "关注欧洲市场的监管变化和竞争动态",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
                 "tickers": [
-                    "Circle"
+                    "Ripple"
                 ]
             },
             {
                 "id": "2026-02-02-industry-1",
-                "title": "Visa extends stablecoin payment pilot",
-                "source": "Reuters",
+                "title": "Japan’s Nomura cuts down crypto exposure following Q3 losses",
+                "source": "The Block",
                 "date": "2026-02-02",
-                "url": "https://example.com/visa-stablecoin",
+                "url": "https://www.theblock.co/post/387951/nomura-cuts-crypto-exposure?utm_source=rss&utm_medium=rss",
                 "category": "industry",
-                "summary": "Visa 扩大稳定币支付试点，影响行业动态。",
+                "summary": "野村因加密子公司亏损减少加密暴露。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场动态，评估风险",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Nomura",
+                    "Laser Digital"
+                ]
+            },
+            {
+                "id": "2026-02-02-industry-2",
+                "title": "Crypto exchanges sanctioned alongside Iranian officials in Trump administration’s Iran crackdown",
+                "source": "The Block",
+                "date": "2026-02-02",
+                "url": "https://www.theblock.co/post/387935/crypto-exchanges-sanctioned-alongside-iranian-officials-in-trump-administrations-iran-crackdown?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "美国对加密交易所实施制裁，影响行业监管。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管动态，评估合规策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-02-02-industry-3",
+                "title": "No Relief For Crypto Investors As India Retains Current Crypto Tax In Budget 2026",
+                "source": "Decrypt",
+                "date": "2026-02-02",
+                "url": "https://decrypt.co/356601/no-relief-for-crypto-investors-as-india-retains-current-crypto-tax-in-budget-2026",
+                "category": "industry",
+                "summary": "印度维持现有加密税制，影响市场动态。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管变化对市场的长期影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-02-02-industry-4",
+                "title": "UAE Royal’s Alleged Stake in Trump Crypto Venture Raises Ethical Concerns",
+                "source": "Decrypt",
+                "date": "2026-02-02",
+                "url": "https://decrypt.co/356591/uae-royals-trump-crypto-venture-ethical-concerns",
+                "category": "industry",
+                "summary": "阿联酋王室投资特朗普加密项目引发伦理争议",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注相关投资与监管动态",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-02-02-industry-5",
+                "title": "Visa Extends Stablecoin Reach As It Seeks New Payment Flows - Yahoo Finance",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-02-02",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaDlLbmJ2ZHZUMDVBOHZ1QkZZZ1BwRDVhUFBna254NmNOVUFJQXFPQURIYzlvZU9JMV83YTEza1lDTkZROWZQSm1fWEt0QTgzeS1yT1JyS0pzS0lCMEVCUEdTcnlPeU94Z2RHOV96LUhrdFNRRGxnYnpQOENVZURVV1dxRENZVFFS?oc=5",
+                "category": "industry",
+                "summary": "Visa 扩展稳定币支付业务以寻求新支付流。",
                 "threatLevel": "high",
                 "impact": [
                     "市场趋势",
                     "竞争格局"
                 ],
-                "action": "关注稳定币支付的市场变化",
+                "action": "关注稳定币支付市场动态",
                 "subcategory": "stablecoin_payments",
                 "subcategoryName": "稳定币支付",
                 "tickers": [
@@ -105,110 +141,163 @@ const dailyReports = [
                 ]
             },
             {
-                "id": "2026-02-02-industry-2",
-                "title": "Hong Kong to issue first stablecoin licenses in March",
-                "source": "Reuters",
+                "id": "2026-02-02-industry-6",
+                "title": "Hong Kong Targets March for First Stablecoin Licenses, Few Expected - Yahoo Finance",
+                "source": "Google News (stablecoin license)",
                 "date": "2026-02-02",
-                "url": "https://example.com/hk-stablecoin-license",
+                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX1hnMzlwTnZjeFhYSFAxdi00T3B3U2tUTGpHd0d2aW5vMEFuMG9SVmxlVEJFcjMwUG1JZUl1MElaRGd5TTlaRzBXS2R6OGZCNXVPelNSdlJJbmRFNkI2ME4tZmt3WDhKWHF0QkpLR25mRUhUSmxMRWVob0ZCM3BEQw?oc=5",
                 "category": "industry",
-                "summary": "香港将发放稳定币许可证，推动合规框架。",
+                "summary": "香港计划在三月发放首批稳定币许可证。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注香港稳定币监管动态，评估影响",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-02-02-industry-7",
+                "title": "Hong Kong Targets First Stablecoin Licenses in March - Caixin Global",
+                "source": "Google News (stablecoin license)",
+                "date": "2026-02-02",
+                "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYnJHNkFHN1czRFU0S1hGVktqeEFScGJVTFVuUzhiNVQyZG9KbUlfVnVZT2xoUXlKajhVVE1VQ19ZZlI2d1RDNDNVeHF4WEx2ZUdCMU5YbHh5UWRkcXVyZlJOZkVLdmVSMnBFY180RXNRWW1DWF9DUXdBM0lQRk5PM2kwVlJ6aHNQTmZIMG4ycXZsMFBCT2pRT0ZBVDVzcHlMRHA1SUNvMDhYd0U?oc=5",
+                "category": "industry",
+                "summary": "香港计划于三月推出首个稳定币许可证。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注香港稳定币监管动态",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-02-02-industry-8",
+                "title": "HKMA to issue first stablecoin licenses in March - marketscreener.com",
+                "source": "Google News (stablecoin license)",
+                "date": "2026-02-02",
+                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdVRmOTNqVnUwYnhvYkVZcEpzbEVRc0lnRl9VNndOMC1Ia2lDcHFONHFVbHVfV1NuVEdkaHVqZXd6QVlvRnFmOE1yU0pLaGNtNGEtdURUbjNpNGNONjVlZG5zc0FxeG5JUlNHVkhvU2xqdGVoMXh2SHJaODlKeGl1cy16M0FmTkF0QXBndFBjZ1lyLURWV2tBbGxGYm9MQ3VFc3lR?oc=5",
+                "category": "industry",
+                "summary": "香港金融管理局将在三月发放首批稳定币许可证。",
                 "threatLevel": "high",
                 "impact": [
                     "监管影响",
                     "市场趋势",
                     "竞争格局"
                 ],
-                "action": "关注合规政策变化，调整业务策略。",
+                "action": "关注香港稳定币监管动态，调整策略。",
                 "subcategory": "regulation_licensing",
                 "subcategoryName": "监管牌照"
             },
             {
-                "id": "2026-02-02-industry-3",
-                "title": "Stablecoins face bank run risk — banks take notice",
-                "source": "CCN",
+                "id": "2026-02-02-industry-9",
+                "title": "Hong Kong regulator targets March for first stablecoin licences - Reuters",
+                "source": "Google News (stablecoin regulation Hong Kong)",
                 "date": "2026-02-02",
-                "url": "https://example.com/stablecoin-bank-run",
+                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWDNfWnU3Y3B2MWlVNG5rVjR6MlAwVUMyNlc2RkV5V0lvOF9BeWMxeFV3VmhUUDRoZGhIMG9UOXk5SmFBblAxZ2NnZ05ZeEszeXg0Vk5sbmxmbldKdnowUEE2UnNLSkt0dDdkVlM3RjlnTGpfLTlxcGt6cy1pUEZNeTRDU0Z2SnNnS3NsMWdiWVRROThiNDh6dEw3dUo0Zw?oc=5",
                 "category": "industry",
-                "summary": "稳定币面临挤兑风险，引起银行关注。",
+                "summary": "香港监管机构计划于三月发放首批稳定币许可证。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注香港稳定币监管动态，调整合规策略。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-02-02-industry-10",
+                "title": "Hong Kong edges into stablecoin regulation with limited first wave of approvals - Malay Mail",
+                "source": "Google News (stablecoin regulation Hong Kong)",
+                "date": "2026-02-02",
+                "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcDNQUG1uWE16QkxXR1JtV3pSdGpOaEwxSllEME9mWUlzZkFYdFQyX3dPWWJ3S2ZvbWlJemdIa0djdjMzRnIxSWpzUVVoek50eHltMFZxTkpVeEk2Zk5scUdGUENvN0RGOGxwenlhQ2k4b1VabWE5SGlCNlAyekhOUFNobDU1em5qck54STFHNVJtNVQ3ajhZOEdKUG92YUU1bDlxbldZUk1hYVRDaW5iV3FKNHpPWjNMQU5BTk5jN2syTlg3Qm41OHltN3lmTU9GU2J2azk2M2LSAdgBQVVfeXFMTXAzUFBtblhNekJMV0dSbVd6UnRqTmhMMUpZRDBPZllJc2ZBWHRUMl93T1lid0tmb21pSXpnSGtHY3YzM0ZyMUlqc1FVaHpOdHh5bTBWcU5KVXhJNmZObHFHRlBDbzdERjhscHp5YUNpOG9VWm1hOUhpQjZQMnpITlBTaGw1NXpuanJOeEkxRzVSbTVUN2o4WThHSlBvdmFFNWw5cW5XWVJNYWFUQ2luYldxSjR6T1ozTEFOQU5OYzdrMk5YN0JuNTh5bTd5Zk1PRlNidms5NjNi?oc=5",
+                "category": "industry",
+                "summary": "香港开始对稳定币进行有限监管审批。",
                 "threatLevel": "high",
                 "impact": [
                     "监管影响",
                     "市场趋势"
                 ],
-                "action": "关注稳定币监管动态，调整策略。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
+                "action": "关注香港稳定币监管政策的后续发展。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-02-02-industry-11",
+                "title": "Singapore Gulf Bank announces regulated fiat-stablecoin interoperability service - crypto.news",
+                "source": "Google News (stablecoin regulation Singapore)",
+                "date": "2026-02-02",
+                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnlnOHJVSFRNekJ3ek1XbHVxY2FvZTFZaDBxbDRFblNsTTVJTlhkVkR6bmg2bkhvQkYwMGJ5NHlJNTlHMkpBV2ZVVndNRmF2eFFRUmVzU3gtZ295aGxzMm1GVERkM3lXSzA3R050a2xUUU1KdEVzMUtkMnhtVkJrM3Q5ZmNDdG5HeDhpVmtqVzRSMGhMTlNkT3Z3QjlNb3M0clFB?oc=5",
+                "category": "industry",
+                "summary": "新加坡海湾银行推出稳定币互操作性服务。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注监管政策变化，评估市场机会。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Singapore Gulf Bank"
+                ]
+            },
+            {
+                "id": "2026-02-02-industry-12",
+                "title": "The State of TRON H2 2025: Stablecoin Settlement at Scale Amid Rising Competition - Cryptopolitan",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-02-02",
+                "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZW41WWlScEgyaktmWkhQTVNrUmN4cGtpclE3Sm9SQXVTOHRCakpjeW00VjRvZkRfSE5vNnJES24zUC1rdUNoUWZEaThZLVJMY1h6dm53U0R3enBwejI5NlNvcEMtUWpZcnZJdHZlRFpDZm1mbGwyRlM4VmRzMzhKVGxyNElYbjBJeGwweHZBbzQyNU1nODhhWkxaX2dYNmk1Vk5zeWVvOHY5NjU3STY1bg?oc=5",
+                "category": "industry",
+                "summary": "TRON在稳定币结算领域面临竞争加剧。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币市场动态，调整策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
             }
         ],
         "stats": {
-            "totalThreats": 3,
-            "highThreats": 1,
-            "mediumThreats": 2,
+            "totalThreats": 1,
+            "highThreats": 0,
+            "mediumThreats": 1,
             "lowThreats": 0,
-            "competitorUpdates": 3,
+            "competitorUpdates": 1,
             "customerUpdates": 0,
-            "industryUpdates": 4
+            "industryUpdates": 13
         },
         "dailySummary": {
-            "competitorThreat": "今日最大的竞争威胁来自Copper，该公司新增对稳定币的冷存储支持，显著提升了其在安全性方面的竞争力。与此同时，Fireblocks扩展MPC托管服务至更多链，BitGo则与Circle合作推出USDC质押服务，这些动态均显示出市场对稳定币服务多样化的需求加剧。建议关注安全性和流动性方面的创新，以增强自身竞争力，同时考虑与其他金融机构合作，拓展服务范围和用户基础。",
-            "industryTrend": "今日稳定币行业热点包括Polymarket因USDC结算而交易量激增、Visa扩大稳定币支付试点、香港计划于三月发放首批稳定币许可证，以及稳定币面临的挤兑风险引起银行关注。这些动态表明，稳定币在支付和合规方面正逐渐获得主流认可，尤其是Visa的参与可能加速其在商业支付中的应用。同时，香港的许可证发放将为行业提供更明确的监管框架，促进合规发展。然而，挤兑风险的存在提醒市场参与者需关注流动性管理和风险控制，这对稳定币托管和支付基础设施的稳定性提出了更高要求。"
+            "competitorThreat": "今日最大的竞争威胁来自NymCard推出的基于USDC的稳定币支付解决方案，特别是与Visa的合作，这可能会对现有稳定币市场造成冲击。NymCard和Visa的联手将为用户提供更便捷的支付体验，增强其市场竞争力。建议相关公司关注这一趋势，积极探索与支付巨头的合作机会，同时加强自身产品的创新和用户体验，以应对日益激烈的市场竞争。",
+            "industryTrend": "今日行业热点主要集中在Ripple获得卢森堡全EMI许可证和香港计划于三月发放首批稳定币许可证。这表明全球范围内对稳定币的监管逐渐趋于规范化，而Ripple的成功申请可能会激励其他国家或地区加强对数字资产的合规管理。此外，Visa扩展稳定币支付业务，显示出金融巨头对稳定币的信任与重视。值得关注的是，尽管一些市场如印度维持高税负，整体监管趋势向好可能会促进稳定币托管和支付基础设施的进一步发展，提升行业信心与流动性。"
         },
         "highlights": {
             "competitors": [
                 {
                     "id": "2026-02-02-competitor-0",
-                    "title": "Fireblocks expands MPC custody to new chains",
-                    "source": "The Block",
+                    "title": "NymCard Launches USDC-Based Stablecoin Settlement with Visa in GCC - TechAfrica News",
+                    "source": "Google News (stablecoin settlement)",
                     "date": "2026-02-02",
-                    "url": "https://example.com/fireblocks-mpc",
+                    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjZYOEMzcXZjS1BtSXI2VkR1ZmMxR0w1TEZGUl9LN19UWFVKbHhmdkdIdmF2Y3VWdVY4ZklpWnQyS05zaWJzSnR5X1dGOThMOWlTQmtFSkRVdG1rSGw1aDJwY2k2SEw5akhMT1JrTm54allLR1dva0lkX2tYd3AyeWdQTl84WGItbFEwSE82M2FFalBYRHhmOU16a3ppSkZaeFhDcGQxOFk?oc=5",
                     "category": "competitor",
-                    "summary": "Fireblocks扩展MPC托管服务至更多链。",
+                    "summary": "NymCard推出基于USDC的稳定币支付解决方案。",
                     "threatLevel": "medium",
-                    "impact": [
-                        "技术差距",
-                        "市场定价"
-                    ],
-                    "action": "关注MPC技术发展，提升自身竞争力。",
-                    "tickers": [
-                        "Fireblocks"
-                    ]
-                },
-                {
-                    "id": "2026-02-02-competitor-1",
-                    "title": "BitGo launches institutional staking for USDC",
-                    "source": "Decrypt",
-                    "date": "2026-02-02",
-                    "url": "https://example.com/bitgo-usdc",
-                    "category": "competitor",
-                    "summary": "BitGo推出USDC质押服务，与Circle合作。",
-                    "threatLevel": "medium",
-                    "impact": [
-                        "产品竞争",
-                        "客户争夺"
-                    ],
-                    "action": "关注BitGo的产品动态，评估竞争策略。",
-                    "tickers": [
-                        "BitGo",
-                        "Circle"
-                    ]
-                },
-                {
-                    "id": "2026-02-02-competitor-2",
-                    "title": "Copper adds cold storage support for stablecoins",
-                    "source": "Finextra",
-                    "date": "2026-02-02",
-                    "url": "https://example.com/copper-stablecoin",
-                    "category": "competitor",
-                    "summary": "Copper 增加对稳定币的冷存储支持。",
-                    "threatLevel": "high",
                     "impact": [
                         "产品竞争",
                         "客户争夺",
-                        "技术差距"
+                        "市场定价"
                     ],
-                    "action": "关注 Copper 的产品动态，提升自身服务竞争力。",
+                    "action": "关注NymCard的市场动态，评估竞争策略。",
                     "tickers": [
-                        "Copper"
+                        "Visa"
                     ]
                 }
             ],
@@ -216,59 +305,60 @@ const dailyReports = [
             "industry": [
                 {
                     "id": "2026-02-02-industry-0",
-                    "title": "Polymarket volume surges with USDC settlement",
+                    "title": "Ripple secures full EU EMI license in Luxembourg following preliminary approval",
                     "source": "The Block",
                     "date": "2026-02-02",
-                    "url": "https://example.com/polymarket-usdc",
+                    "url": "https://www.theblock.co/post/387959/ripple-secures-full-emi-license-luxembourg?utm_source=rss&utm_medium=rss",
                     "category": "industry",
-                    "summary": "Polymarket使用USDC结算，交易量增长。",
-                    "threatLevel": "high",
-                    "impact": [
-                        "市场趋势",
-                        "技术发展"
-                    ],
-                    "action": "关注USDC在市场中的应用趋势。",
-                    "subcategory": "stablecoin_payments",
-                    "subcategoryName": "稳定币支付",
-                    "tickers": [
-                        "Circle"
-                    ]
-                },
-                {
-                    "id": "2026-02-02-industry-1",
-                    "title": "Visa extends stablecoin payment pilot",
-                    "source": "Reuters",
-                    "date": "2026-02-02",
-                    "url": "https://example.com/visa-stablecoin",
-                    "category": "industry",
-                    "summary": "Visa 扩大稳定币支付试点，影响行业动态。",
-                    "threatLevel": "high",
-                    "impact": [
-                        "市场趋势",
-                        "竞争格局"
-                    ],
-                    "action": "关注稳定币支付的市场变化",
-                    "subcategory": "stablecoin_payments",
-                    "subcategoryName": "稳定币支付",
-                    "tickers": [
-                        "Visa"
-                    ]
-                },
-                {
-                    "id": "2026-02-02-industry-2",
-                    "title": "Hong Kong to issue first stablecoin licenses in March",
-                    "source": "Reuters",
-                    "date": "2026-02-02",
-                    "url": "https://example.com/hk-stablecoin-license",
-                    "category": "industry",
-                    "summary": "香港将发放稳定币许可证，推动合规框架。",
+                    "summary": "Ripple获得卢森堡全EMI许可证，影响行业监管格局。",
                     "threatLevel": "high",
                     "impact": [
                         "监管影响",
                         "市场趋势",
                         "竞争格局"
                     ],
-                    "action": "关注合规政策变化，调整业务策略。",
+                    "action": "关注欧洲市场的监管变化和竞争动态",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照",
+                    "tickers": [
+                        "Ripple"
+                    ]
+                },
+                {
+                    "id": "2026-02-02-industry-1",
+                    "title": "Japan’s Nomura cuts down crypto exposure following Q3 losses",
+                    "source": "The Block",
+                    "date": "2026-02-02",
+                    "url": "https://www.theblock.co/post/387951/nomura-cuts-crypto-exposure?utm_source=rss&utm_medium=rss",
+                    "category": "industry",
+                    "summary": "野村因加密子公司亏损减少加密暴露。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "关注市场动态，评估风险",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照",
+                    "tickers": [
+                        "Nomura",
+                        "Laser Digital"
+                    ]
+                },
+                {
+                    "id": "2026-02-02-industry-2",
+                    "title": "Crypto exchanges sanctioned alongside Iranian officials in Trump administration’s Iran crackdown",
+                    "source": "The Block",
+                    "date": "2026-02-02",
+                    "url": "https://www.theblock.co/post/387935/crypto-exchanges-sanctioned-alongside-iranian-officials-in-trump-administrations-iran-crackdown?utm_source=rss&utm_medium=rss",
+                    "category": "industry",
+                    "summary": "美国对加密交易所实施制裁，影响行业监管。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "监管影响",
+                        "市场趋势"
+                    ],
+                    "action": "关注监管动态，评估合规策略。",
                     "subcategory": "regulation_licensing",
                     "subcategoryName": "监管牌照"
                 }
