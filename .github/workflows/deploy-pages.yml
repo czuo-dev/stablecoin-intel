@@ -9,6 +9,7 @@ on:
       - "stablecoin-intel-web-source/**"
       - ".github/workflows/deploy-pages.yml"
       - "docs/daily-reports.js"
+      - "docs/reports/daily/**"
       - "scripts/extract_daily_reports_json.js"
       - "scripts/extract_weekly_reports_json.js"
       - "config/keywords.json"
@@ -59,11 +60,15 @@ jobs:
       - name: Embed daily reports data (static JSON for Pages)
         run: |
           node scripts/extract_daily_reports_json.js
+          # 线上 base 为 /stablecoin-intel/，需在 base 下提供 data/daily-reports.json
+          mkdir -p stablecoin-intel-web-source/dist/public/stablecoin-intel/data
+          cp stablecoin-intel-web-source/dist/public/data/daily-reports.json stablecoin-intel-web-source/dist/public/stablecoin-intel/data/daily-reports.json
 
       - name: Embed keywords config (static JSON for Settings page)
         run: |
           mkdir -p stablecoin-intel-web-source/dist/public/data
           cp config/keywords.json stablecoin-intel-web-source/dist/public/data/keywords.json
+          cp stablecoin-intel-web-source/dist/public/data/keywords.json stablecoin-intel-web-source/dist/public/stablecoin-intel/data/keywords.json
 
       - name: Embed weekly reports (list JSON + md files for static Pages)
         run: |
@@ -72,6 +77,8 @@ jobs:
             cp reports/weekly/*.md stablecoin-intel-web-source/dist/public/data/weekly/
           fi
           node scripts/extract_weekly_reports_json.js
+          cp -r stablecoin-intel-web-source/dist/public/data/weekly stablecoin-intel-web-source/dist/public/stablecoin-intel/data/ 2>/dev/null || true
+          cp stablecoin-intel-web-source/dist/public/data/weekly-reports.json stablecoin-intel-web-source/dist/public/stablecoin-intel/data/ 2>/dev/null || true
 
       - name: Prepare Pages artifact
         run: |
