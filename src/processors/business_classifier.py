@@ -151,29 +151,53 @@ class BusinessClassifier:
         regions = company.get("focus_regions", []) or []
         return (name, regions)
 
-    def _quick_classify(self, text: str) -> Optional[str]:
+    def _quick_classify(self, text: str, source_account: str = None) -> Optional[str]:
         """
         基于关键词的快速分类（节省 API 调用）
+
+        Args:
+            text: 内容文本
+            source_account: 来源账号（如果是 Twitter 推文）
 
         Returns:
             分类结果或 None（需要 AI 判断）
         """
         text_lower = text.lower()
 
-        # 检查竞争对手关键词（精确匹配公司名）
-        competitor_matches = sum(1 for kw in self.competitor_keywords if kw in text_lower)
+        # 检查是否精确匹配竞争对手公司名
+        competitor_name_matches = sum(1 for name in self.competitor_names if name.lower() in text_lower)
 
-        # 检查客户关键词
-        client_matches = sum(1 for kw in self.client_keywords if kw in text_lower)
+        # 检查是否精确匹配客户公司名
+        client_name_matches = sum(1 for name in self.client_names if name.lower() in text_lower)
 
-        # 竞争对手优先：如果提到竞争对手公司，优先归类为竞争对手动态
-        # 例如 "Fireblocks powers Papaya Global" 应该是竞争对手动态而非客户动态
-        if competitor_matches > 0:
-            return "competitors"
+        # 如果来源是客户的 Twitter 账号，直接归类为客户动态
+        if source_account:
+            source_lower = source_account.lower()
+            # 检查是否是客户账号
+            customers = self.config.get("customers", {})
+            for company in customers.get("layer_a", []):
+                twitter = company.get("twitter", "").lower()
+                if twitter and twitter == source_lower:
+                    return "clients"
+            # 检查是否是竞争对手账号
+            competitors = self.config.get("competitors", {})
+            for tier in ['tier_0_custody', 'tier_1_payment_infra']:
+                for company in competitors.get(tier, []):
+                    twitter = company.get("twitter", "").lower()
+                    if twitter and twitter == source_lower:
+                        return "competitors"
 
-        # 如果只匹配客户
-        if client_matches > 0:
+        # 如果同时提到客户和竞争对手，需要 AI 判断
+        if competitor_name_matches > 0 and client_name_matches > 0:
+            return None  # 需要 AI 判断
+
+        # 如果只提到客户公司名（精确匹配），归类为客户动态
+        if client_name_matches > 0:
             return "clients"
+
+        # 如果只提到竞争对手公司名（精确匹配），归类为竞争对手动态
+        if competitor_name_matches > 0:
+            return "competitors"
 
         return None  # 需要 AI 判断
 
@@ -199,10 +223,19 @@ class BusinessClassifier:
         description = item.get('description', item.get('text', ''))
         content = f"{title} {description}"
 
-        # 尝试快速分类
-        quick_result = self._quick_classify(content)
-        if quick_result and not use_ai:
-            return self._build_result(quick_result, content, confidence=0.7)
+        # 获取来源账号（Twitter 推文可能有 monitored_account 或 author_username）
+        source_account = item.get('monitored_account') or item.get('author_username', '')
+
+        # 尝试快速分类（基于来源账号或公司名精确匹配）
+        quick_result = self._quick_classify(content, source_account)
+        if quick_result:
+            # 如果是基于来源账号判断，置信度更高
+            confidence = 0.9 if source_account else 0.7
+            if not use_ai:
+                return self._build_result(quick_result, content, confidence=confidence)
+            # 即使启用 AI，如果来源账号明确是客户/竞争对手，也优先使用快速分类
+            if source_account:
+                return self._build_result(quick_result, content, confidence=confidence)
 
         # AI 分类
         if use_ai:
