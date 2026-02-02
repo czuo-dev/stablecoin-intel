@@ -9,2126 +9,268 @@ const dailyReports = [
         "file": "reports/daily/daily_brief_2026-02-02.md",
         "newsItems": [
             {
-                "id": "2026-02-02-industry-0",
-                "title": "Hennessy edges win over Boutell for eighth-straight victory",
-                "source": "BBC News",
+                "id": "2026-02-02-competitor-0",
+                "title": "Fireblocks expands MPC custody to new chains",
+                "source": "The Block",
                 "date": "2026-02-02",
-                "url": "https://www.bbc.com/sport/boxing/videos/cx2xk3pyde2o",
+                "url": "https://example.com/fireblocks-mpc",
+                "category": "competitor",
+                "summary": "Fireblocks扩展MPC托管服务至更多链。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术差距",
+                    "市场定价"
+                ],
+                "action": "关注MPC技术发展，提升自身竞争力。",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-02-02-competitor-1",
+                "title": "BitGo launches institutional staking for USDC",
+                "source": "Decrypt",
+                "date": "2026-02-02",
+                "url": "https://example.com/bitgo-usdc",
+                "category": "competitor",
+                "summary": "BitGo推出USDC质押服务，与Circle合作。",
+                "threatLevel": "medium",
+                "impact": [
+                    "产品竞争",
+                    "客户争夺"
+                ],
+                "action": "关注BitGo的产品动态，评估竞争策略。",
+                "tickers": [
+                    "BitGo",
+                    "Circle"
+                ]
+            },
+            {
+                "id": "2026-02-02-competitor-2",
+                "title": "Copper adds cold storage support for stablecoins",
+                "source": "Finextra",
+                "date": "2026-02-02",
+                "url": "https://example.com/copper-stablecoin",
+                "category": "competitor",
+                "summary": "Copper 增加对稳定币的冷存储支持。",
+                "threatLevel": "high",
+                "impact": [
+                    "产品竞争",
+                    "客户争夺",
+                    "技术差距"
+                ],
+                "action": "关注 Copper 的产品动态，提升自身服务竞争力。",
+                "tickers": [
+                    "Copper"
+                ]
+            },
+            {
+                "id": "2026-02-02-industry-0",
+                "title": "Polymarket volume surges with USDC settlement",
+                "source": "The Block",
+                "date": "2026-02-02",
+                "url": "https://example.com/polymarket-usdc",
                 "category": "industry",
-                "summary": "这篇新闻与稳定币/加密货币行业无关，属于体育新闻。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
+                "summary": "Polymarket使用USDC结算，交易量增长。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注USDC在市场中的应用趋势。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Circle"
+                ]
             },
             {
                 "id": "2026-02-02-industry-1",
-                "title": "10 Best Japanese Stationery Items Under $100 Planners Obsess Over",
-                "source": "Yanko Design",
+                "title": "Visa extends stablecoin payment pilot",
+                "source": "Reuters",
                 "date": "2026-02-02",
-                "url": "https://www.yankodesign.com/2026/01/31/10-best-japanese-stationery-items-under-100-planners-obsess-over/",
+                "url": "https://example.com/visa-stablecoin",
                 "category": "industry",
-                "summary": "这篇文章与加密货币行业无关，主要讨论日本文具产品。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
+                "summary": "Visa 扩大稳定币支付试点，影响行业动态。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币支付的市场变化",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Visa"
+                ]
             },
             {
                 "id": "2026-02-02-industry-2",
-                "title": "High school boys wrestling: Corner Canyon, Layton wrap up titles in 6A Division meets",
-                "source": "Deseret News",
+                "title": "Hong Kong to issue first stablecoin licenses in March",
+                "source": "Reuters",
                 "date": "2026-02-02",
-                "url": "https://www.deseret.com/sports/2026/01/31/high-school-boys-wrestling-6a-divisional-recap/",
+                "url": "https://example.com/hk-stablecoin-license",
                 "category": "industry",
-                "summary": "这篇新闻与加密货币行业无关，主要讨论高中摔跤比赛。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
+                "summary": "香港将发放稳定币许可证，推动合规框架。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注合规政策变化，调整业务策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
             },
             {
                 "id": "2026-02-02-industry-3",
-                "title": "MCX Crashes 17% From Record High In Biggest Single-Day Fall In Five Years",
-                "source": "Ndtvprofit.com",
+                "title": "Stablecoins face bank run risk — banks take notice",
+                "source": "CCN",
                 "date": "2026-02-02",
-                "url": "https://www.ndtvprofit.com/markets/mcx-crashes-17-from-record-high-in-biggest-single-day-fall-in-five-years-10922896",
+                "url": "https://example.com/stablecoin-bank-run",
                 "category": "industry",
-                "summary": "MCX在创纪录高点后单日暴跌17%，这是五年来最大跌幅。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注市场波动对整体行业的影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-4",
-                "title": "Serbians pushed out as China takes over a mining empire",
-                "source": "POLITICO.eu",
-                "date": "2026-02-02",
-                "url": "https://www.politico.eu/article/serbia-bor-mine-china-zijin-mining-group-health/",
-                "category": "industry",
-                "summary": "中国接管矿业帝国，塞尔维亚人被迫退出，反映出行业内的市场动态和竞争格局。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注中国在矿业领域的影响力变化，评估对市场的潜在影响。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-02-02-industry-5",
-                "title": "Tata Steel shares slide 3% as metals rout deepens on Fed woes",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-steel-shares-slide-3-as-metals-rout-deepens-on-fed-woes/articleshow/127833293.cms",
-                "category": "industry",
-                "summary": "由于美联储的担忧，金属市场持续下跌，导致塔塔钢铁股价下滑。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注金属市场动态对加密货币行业的潜在影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-6",
-                "title": "How can you tell if deer meat is good?",
-                "source": "Lifesciencesworld.com",
-                "date": "2026-02-02",
-                "url": "https://www.lifesciencesworld.com/how-can-you-tell-if-deer-meat-is-good/",
-                "category": "industry",
-                "summary": "该新闻与稳定币/加密货币行业无关，内容涉及鹿肉的质量判断。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-7",
-                "title": "What color is Porcellio scaber?",
-                "source": "Lifesciencesworld.com",
-                "date": "2026-02-02",
-                "url": "https://www.lifesciencesworld.com/what-color-is-porcellio-scaber/",
-                "category": "industry",
-                "summary": "该新闻与稳定币/加密货币行业的动态无关，主要讨论生物学问题。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-8",
-                "title": "Gold, silver weakness weigh on MCX, Hindustan Zinc and gold financier stocks",
-                "source": "BusinessLine",
-                "date": "2026-02-02",
-                "url": "https://www.thehindubusinessline.com/markets/gold-silver-weakness-weigh-on-mcx-hindustan-zinc-and-gold-financier-manappuram-finance-muthoot-finance-and-iifl-finance-shares-plunge-8-15/article70576832.ece",
-                "category": "industry",
-                "summary": "金银价格疲软对MCX、Hindustan Zinc和黄金融资公司股票产生影响。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注金银市场动态对加密货币市场的潜在影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-9",
-                "title": "'One minute it was daylight, next it was black' — large outback dust storms rolls in",
-                "source": "ABC News (AU)",
-                "date": "2026-02-02",
-                "url": "https://www.abc.net.au/news/2026-02-01/outback-nsw-hit-by-massive-red-duststorm/106292772",
-                "category": "industry",
-                "summary": "该新闻与加密货币行业无直接关联，主要涉及自然现象。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-10",
-                "title": "Weekly Update 01-Feb-2026",
-                "source": "Nikonians.org",
-                "date": "2026-02-02",
-                "url": "https://blog.nikonians.org/archives/2026/02/news_update_weekly_2026_02_01_236.html",
-                "category": "industry",
-                "summary": "本周行业整体动态涉及监管政策和市场趋势的变化。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注香港、新加坡、巴林的监管动态，适时调整策略。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-11",
-                "title": "Should you face the wind when deer hunting?",
-                "source": "Lifesciencesworld.com",
-                "date": "2026-02-02",
-                "url": "https://www.lifesciencesworld.com/should-you-face-the-wind-when-deer-hunting/",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "low",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-12",
-                "title": "Virginia woman was strangled with her child sleeping nearby, authorities say",
-                "source": "CBS News",
-                "date": "2026-02-02",
-                "url": "https://www.cbsnews.com/news/katlyn-lyon-montgomery-virginia-trenton-frye-north-carolina-deadly-attack-48-hours/",
-                "category": "industry",
-                "summary": "这条新闻与加密货币行业无关，涉及一起谋杀案件。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-13",
-                "title": "Bitcoin's price may have seen 'deepest pullback' at $77K: Analyst",
-                "source": "Cointelegraph",
-                "date": "2026-02-02",
-                "url": "https://cointelegraph.com/news/bitcoin-s-price-may-have-seen-deepest-pullback-at-77k-analyst",
-                "category": "industry",
-                "summary": "分析师认为比特币在77,000美元的价格区间可能经历了最深的回调。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注比特币价格走势对市场情绪的影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-14",
-                "title": "SOL drops to $95 as Bitcoin, AI stocks and gold sell off: Will traders buy the dip?",
-                "source": "Cointelegraph",
-                "date": "2026-02-02",
-                "url": "https://cointelegraph.com/news/sol-drops-to-95-as-bitcoin-ai-stocks-and-gold-sell-off-will-traders-buy-the-dip",
-                "category": "industry",
-                "summary": "比特币、AI股票和黄金的抛售导致SOL价格下跌，市场趋势不明。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注市场动态，评估对投资组合的影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-15",
-                "title": "David Sacks Expertly Breaks Down What’s Behind the Democrat Media Campaign Against ICE (VIDEO)",
-                "source": "Thegatewaypundit.com",
-                "date": "2026-02-02",
-                "url": "https://www.thegatewaypundit.com/2026/01/david-sacks-expertly-breaks-down-whats-behind-democrat/",
-                "category": "industry",
-                "summary": "该新闻与加密货币行业的监管政策和媒体舆论有关。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-16",
-                "title": "Sean Penn, Robert De Niro lead Hollywood A-listers lining up behind lefty Eric Swalwell’s bid for Ca",
-                "source": "New York Post",
-                "date": "2026-02-02",
-                "url": "https://nypost.com/2026/01/31/us-news/hollywood-stars-donating-big-money-to-candidates-for-california-governor/",
-                "category": "industry",
-                "summary": "这则新闻与加密货币行业无关，主要涉及政治人物和活动。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-17",
-                "title": "AI, crypto and Trump super PACs stash millions to spend on the midterms",
-                "source": "NBC News",
-                "date": "2026-02-02",
-                "url": "https://www.nbcnews.com/politics/2026-election/ai-crypto-trump-super-pacs-stash-millions-spend-midterms-rcna256622",
-                "category": "industry",
-                "summary": "AI、加密货币和特朗普超级政治行动委员会在中期选举中储备了数百万资金。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "投资机会"
-                ],
-                "action": "关注中期选举对加密货币市场的潜在影响。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-02-02-industry-18",
-                "title": "speterlin-crypto 1.0.6",
-                "source": "Pypi.org",
-                "date": "2026-02-02",
-                "url": "https://pypi.org/project/speterlin-crypto/1.0.6/",
-                "category": "industry",
-                "summary": "该新闻涉及加密货币行业的整体动态，可能影响市场趋势和技术发展。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-02-02-industry-19",
-                "title": "Bitcoin Plunges Below $80,000 As The Crypto Slide Deepens",
-                "source": "Ndtvprofit.com",
-                "date": "2026-02-02",
-                "url": "https://www.ndtvprofit.com/world/bitcoin-plunges-below-80-000-as-the-crypto-slide-deepens-10922375",
-                "category": "industry",
-                "summary": "比特币价格跌破8万美元，反映出加密货币市场的持续下滑。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注市场动态，评估潜在影响。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-02-02-industry-20",
-                "title": "Bitcoin slides near $78,800 amid Fed leadership change and geopolitical tensions",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-slides-near-78800-amid-fed-leadership-change-and-geopolitical-tensions/articleshow/127833251.cms",
-                "category": "industry",
-                "summary": "比特币价格因美联储领导层变动和地缘政治紧张局势而下滑至78,800美元附近。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注市场动态，评估潜在的投资机会。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-21",
-                "title": "Bitcoin falls below $80,000, continuing decline as liquidity worries mount",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-falls-below-80000-continuing-decline-as-liquidity-worries-mount/articleshow/127831148.cms",
-                "category": "industry",
-                "summary": "比特币价格跌破80,000美元，流动性担忧加剧，市场持续下行。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注市场流动性变化对整体行业的影响。",
-                "subcategory": "custody_mpc_risk",
-                "subcategoryName": "托管与风险"
-            },
-            {
-                "id": "2026-02-02-industry-22",
-                "title": "AI agents’ social network becomes talk of the town",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-agents-social-network-becomes-talk-of-the-town/articleshow/127825286.cms",
-                "category": "industry",
-                "summary": "AI代理的社交网络引发了广泛关注，显示出技术发展的趋势。",
-                "threatLevel": "medium",
-                "impact": [
-                    "技术发展",
-                    "市场趋势"
-                ],
-                "action": "关注AI技术在加密货币领域的应用与发展",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-23",
-                "title": "Why is Bitcoin falling down by 6.53% and will it continue to drop below $78,719 or make a comeback? ",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://economictimes.indiatimes.com/news/international/us/why-is-bitcoin-falling-down-by-6-53-and-will-it-continue-to-drop-below-78719-or-make-a-comeback-bitcoin-and-ether-fall-explained-heres-what-the-analysts-say-and-what-should-investors-do-now-cryptocurrency-market-united-states-federal-reserve-liquidity/articleshow/127831819.cms",
-                "category": "industry",
-                "summary": "比特币和以太坊价格下跌的原因及未来走势分析",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "投资机会"
-                ],
-                "action": "关注市场动态，调整投资策略",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-02-02-industry-24",
-                "title": "Nvidia CEO Huang denies he is unhappy with OpenAI, says ‘huge’ investment planned",
-                "source": "The Indian Express",
-                "date": "2026-02-02",
-                "url": "https://indianexpress.com/article/technology/artificial-intelligence/nvidia-ceo-huang-denies-he-is-unhappy-with-openai-says-huge-investment-planned-10506528/",
-                "category": "industry",
-                "summary": "Nvidia CEO 黄仁勋否认对 OpenAI 不满，并表示计划进行巨额投资。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-25",
-                "title": "This 5-Inch “Video Business Card” Wants To Replace Your Stack Of Paper Cards",
-                "source": "Yanko Design",
-                "date": "2026-02-02",
-                "url": "https://www.yankodesign.com/2026/01/31/this-5-inch-video-business-card-wants-to-replace-your-stack-of-paper-cards/",
-                "category": "industry",
-                "summary": "这则新闻与加密货币行业的整体动态无关，主要涉及视频名片的产品创新。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-26",
-                "title": "Waymo Raising $16 Billion on $110 Billion Valuation",
-                "source": "Next Big Future",
-                "date": "2026-02-02",
-                "url": "https://www.nextbigfuture.com/2026/01/waymo-raising-16-billion-on-110-billion-valuation.html",
-                "category": "industry",
-                "summary": "Waymo 正在以 1100 亿美元的估值筹集 160 亿美元资金，显示出对自动驾驶技术的强烈投资兴趣。",
-                "threatLevel": "medium",
-                "impact": [
-                    "投资机会",
-                    "市场趋势"
-                ],
-                "action": "关注自动驾驶技术对加密货币行业的潜在影响。",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-02-02-industry-27",
-                "title": "UN Faces ‘Imminent Collapse’ as U.S. Funding Stalls",
-                "source": "Legalinsurrection.com",
-                "date": "2026-02-02",
-                "url": "https://legalinsurrection.com/2026/01/un-faces-imminent-collapse-as-u-s-funding-stalls/",
-                "category": "industry",
-                "summary": "美国资金停滞导致联合国面临即将崩溃的风险。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "监管影响"
-                ],
-                "action": "关注全球资金流动对加密货币市场的潜在影响。",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-02-02-industry-28",
-                "title": "Malnutrition looms as funding cuts deepen hunger among Nigerians",
-                "source": "The Punch",
-                "date": "2026-02-02",
-                "url": "https://punchng.com/malnutrition-looms-as-funding-cuts-deepen-hunger-among-nigerians/",
-                "category": "industry",
-                "summary": "尼日利亚面临营养不良的威胁，资金削减加剧了饥饿问题。",
-                "threatLevel": "low",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-02-02-industry-29",
-                "title": "Toronto event postponed in 2025 gearing up for a major comeback this year",
-                "source": "blogTO",
-                "date": "2026-02-02",
-                "url": "https://www.blogto.com/radar/2026/02/toronto-event-postponed-2025-major-comeback/",
-                "category": "industry",
-                "summary": "多伦多活动在2025年推迟，预计今年将有重大回归。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注活动的回归对市场的潜在影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-30",
-                "title": "Trump Admin Uses Equity Stakes, New Mines to Secure Critical Minerals Supply Chain",
-                "source": "Wattsupwiththat.com",
-                "date": "2026-02-02",
-                "url": "https://wattsupwiththat.com/2026/01/31/trump-admin-uses-equity-stakes-new-mines-to-secure-critical-minerals-supply-chain/",
-                "category": "industry",
-                "summary": "特朗普政府通过股权投资和新矿场保障关键矿产供应链。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注关键矿产供应链对加密货币行业的潜在影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-31",
-                "title": "20pc of e-bikes bought through rebate scheme were illegal, audit shows",
-                "source": "ABC News (AU)",
-                "date": "2026-02-02",
-                "url": "https://www.abc.net.au/news/2026-02-01/illegal-e-bikes-bought-through-qld-rebate-scheme-audit-shows/106292840",
-                "category": "industry",
-                "summary": "审计显示，通过补贴计划购买的电动自行车中有20%是非法的。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响"
-                ],
-                "action": "关注相关监管政策的变化，评估对市场的潜在影响。",
-                "subcategory": "custody_mpc_risk",
-                "subcategoryName": "托管与风险"
-            },
-            {
-                "id": "2026-02-02-industry-32",
-                "title": "Drivers fume over Dem-led push that could see them taxed for every mile: ‘Citizens treated like ATMs",
-                "source": "New York Post",
-                "date": "2026-02-02",
-                "url": "https://nypost.com/2026/01/31/us-news/california-drivers-are-a-step-closer-to-paying-per-mile-tax/",
-                "category": "industry",
-                "summary": "美国民主党推动的每英里征税政策引发司机的不满，可能影响整体经济和税收政策。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注相关税收政策对加密货币行业的潜在影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-33",
-                "title": "UN chief warns of 'imminent financial collapse' amid unpaid dues",
-                "source": "Israelnationalnews.com",
-                "date": "2026-02-02",
-                "url": "https://www.israelnationalnews.com/news/421761",
-                "category": "industry",
-                "summary": "联合国秘书长警告称，未支付的债务可能导致金融崩溃。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注全球金融稳定性对加密货币市场的潜在影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-34",
-                "title": "NVIDIA與OpenAI千億美元投資談判破局 AI巨頭關係現變數",
-                "source": "Yahoo Entertainment",
-                "date": "2026-02-02",
-                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_25ea7d19-f342-43ac-a830-043ea370c023",
-                "category": "industry",
-                "summary": "NVIDIA与OpenAI的投资谈判破裂，可能影响AI行业的合作动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-35",
-                "title": "NT schools already sing the national anthem. So why mandate it?",
-                "source": "ABC News (AU)",
-                "date": "2026-02-02",
-                "url": "https://www.abc.net.au/news/2026-02-01/national-anthem-mandate-nt-schools-analysis-culture-wars/106290008",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "low",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-36",
-                "title": "Darwin council coffers 'not at all' impacted by high-rise spend, mayor says",
-                "source": "ABC News (AU)",
-                "date": "2026-02-02",
-                "url": "https://www.abc.net.au/news/2026-02-01/darwin-civic-centre-construction-site-update-after-worker-injury/106281930",
-                "category": "industry",
-                "summary": "达尔文市议会的高楼支出对财政没有影响，显示出地方政府在经济管理上的稳定性。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-37",
-                "title": "Shutdown to Continue at Least Into Tuesday",
-                "source": "Politicalwire.com",
-                "date": "2026-02-02",
-                "url": "https://politicalwire.com/2026/01/31/shutdown-to-continue-at-least-into-tuesday/",
-                "category": "industry",
-                "summary": "新闻提到的停业将持续到至少周二，可能影响行业的运营和市场动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "监管影响"
-                ],
-                "action": "关注相关企业的运营恢复情况，以评估市场影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-38",
-                "title": "Anonymity and the Erosion of Kindness",
-                "source": "Psychology Today",
-                "date": "2026-02-02",
-                "url": "https://www.psychologytoday.com/us/blog/the-problem-with/202601/anonymity-and-the-erosion-of-kindness",
-                "category": "industry",
-                "summary": "文章讨论了匿名性对社会善意的侵蚀，反映了加密货币行业面临的道德和社会问题。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注行业内对匿名性和道德问题的讨论，评估其对市场的潜在影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-39",
-                "title": "How much does 3% hypertonic saline raise sodium?",
-                "source": "Lifesciencesworld.com",
-                "date": "2026-02-02",
-                "url": "https://www.lifesciencesworld.com/how-much-does-3-hypertonic-saline-raise-sodium/",
-                "category": "industry",
-                "summary": "该新闻与稳定币/加密货币行业无关，主要涉及生理盐水对钠浓度的影响。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-40",
-                "title": "How close is a chimp to a human?",
-                "source": "Lifesciencesworld.com",
-                "date": "2026-02-02",
-                "url": "https://www.lifesciencesworld.com/how-close-is-a-chimp-to-a-human/",
-                "category": "industry",
-                "summary": "该新闻探讨了人类与猩猩之间的相似性，反映了生物学和进化的相关研究动态。",
-                "threatLevel": "low",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-41",
-                "title": "How common is insulinoma in ferrets?",
-                "source": "Lifesciencesworld.com",
-                "date": "2026-02-02",
-                "url": "https://www.lifesciencesworld.com/how-common-is-insulinoma-in-ferrets/",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-42",
-                "title": "FM Nirmala Sitharaman picks Kanjeevaram silk as she steps out to present Union Budget 2026",
-                "source": "BusinessLine",
-                "date": "2026-02-02",
-                "url": "https://www.thehindubusinessline.com/economy/budget/fm-nirmala-sitharaman-picks-kanjeevaram-silk-as-she-steps-out-to-present-union-budget-2026/article70576842.ece",
-                "category": "industry",
-                "summary": "印度财政部长在2026年预算演讲中选择了传统的Kanjeevaram丝绸，反映了文化与经济政策的结合。",
-                "threatLevel": "low",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-43",
-                "title": "Can you have a galagos as a pet?",
-                "source": "Lifesciencesworld.com",
-                "date": "2026-02-02",
-                "url": "https://www.lifesciencesworld.com/can-you-have-a-galagos-as-a-pet/",
-                "category": "industry",
-                "summary": "该新闻与稳定币/加密货币行业无关，内容涉及宠物问题。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-44",
-                "title": "Why don’t squirrels live long?",
-                "source": "Lifesciencesworld.com",
-                "date": "2026-02-02",
-                "url": "https://www.lifesciencesworld.com/why-dont-squirrels-live-long/",
-                "category": "industry",
-                "summary": "该新闻与加密货币行业无关，内容讨论松鼠的寿命。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-45",
-                "title": "Why do humans eat gorillas?",
-                "source": "Lifesciencesworld.com",
-                "date": "2026-02-02",
-                "url": "https://www.lifesciencesworld.com/why-do-humans-eat-gorillas/",
-                "category": "industry",
-                "summary": "该新闻与稳定币/加密货币行业无关，属于其他主题。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-46",
-                "title": "Is a stun gun better than pepper spray for dogs?",
-                "source": "Lifesciencesworld.com",
-                "date": "2026-02-02",
-                "url": "https://www.lifesciencesworld.com/is-a-stun-gun-better-than-pepper-spray-for-dogs/",
-                "category": "industry",
-                "summary": "该新闻与加密货币行业无关，讨论的是防身工具的比较。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-47",
-                "title": "Market manipulation? Khaby Lame’s net worth soars to ₹60,510 crore after historic deal; then, stock ",
-                "source": "Livemint",
-                "date": "2026-02-02",
-                "url": "https://www.livemint.com/companies/people/market-manipulation-khaby-lame-s-net-worth-soars-to-rs-60-510-crore-after-historic-deal-then-stock-crashes-77-11769924284535.html",
-                "category": "industry",
-                "summary": "Khaby Lame的净资产在历史交易后飙升，但随即股价暴跌77%，显示出市场操纵的可能性。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注市场操纵的潜在影响，评估对行业信任度的影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-48",
-                "title": "Learn All you need to Find jacks or better hd slot machine out about Ghostbusters As well as Slot!",
-                "source": "Smallbusinessbranding.com",
-                "date": "2026-02-02",
-                "url": "https://www.smallbusinessbranding.com/161104/learn-all-you-need-to-find-jacks-or-better-hd-slot-machine-out-about-ghostbusters-as-well-as-slot/",
-                "category": "industry",
-                "summary": "该新闻与稳定币/加密货币行业无关，主要内容涉及老虎机游戏。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-49",
-                "title": "Why rents are still rising too fast: Rich-world tenants are angry, and have reason to be",
-                "source": "Freerepublic.com",
-                "date": "2026-02-02",
-                "url": "https://freerepublic.com/focus/f-news/4364947/posts",
-                "category": "industry",
-                "summary": "富裕国家的租金仍在快速上涨，租户对此感到愤怒，反映出市场趋势的变化。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注租赁市场动态对加密货币行业的潜在影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-50",
-                "title": "firmeapi added to PyPI",
-                "source": "Pypi.org",
-                "date": "2026-02-02",
-                "url": "https://pypi.org/project/firmeapi/",
-                "category": "industry",
-                "summary": "firmeapi 被添加到 PyPI，可能影响开发者使用稳定币相关的工具和库。",
-                "threatLevel": "medium",
-                "impact": [
-                    "技术发展"
-                ],
-                "action": "关注开发者社区对新工具的反馈和应用情况。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-51",
-                "title": "Unraveling the Mysteries of Thyroid Health",
-                "source": "Mercola.com",
-                "date": "2026-02-02",
-                "url": "https://articles.mercola.com/sites/articles/archive/2026/02/01/unraveling-mysteries-thyroid-health.aspx",
-                "category": "industry",
-                "summary": "该新闻与稳定币/加密货币行业无关，主要讨论甲状腺健康。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-52",
-                "title": "How Everyday Plastic Exposure Worsens Chronic IBD",
-                "source": "Mercola.com",
-                "date": "2026-02-02",
-                "url": "https://articles.mercola.com/sites/articles/archive/2026/02/01/microplastics-and-inflammatory-bowel-disease.aspx",
-                "category": "industry",
-                "summary": "该新闻与加密货币行业无关，主要讨论日常塑料暴露对慢性炎症性肠病的影响。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-53",
-                "title": "Everything Coming to HBO Max in February 2026",
-                "source": "IGN",
-                "date": "2026-02-02",
-                "url": "https://www.ign.com/articles/whats-new-on-hbo-max-february-2026",
-                "category": "industry",
-                "summary": "该新闻与加密货币行业无关，主要涉及HBO Max的内容发布计划。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-54",
-                "title": "Phantasy Star Online 2 New Genesis Reveals February 2026 Content",
-                "source": "Bleeding Cool News",
-                "date": "2026-02-02",
-                "url": "https://bleedingcool.com/games/phantasy-star-online-2-new-genesis-reveals-february-2026-content/",
-                "category": "industry",
-                "summary": "Phantasy Star Online 2 New Genesis 在2026年2月发布了新内容，显示出游戏行业与加密货币的潜在结合。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-55",
-                "title": "Apple TV’s New Brandon Sanderson Fantasy Universe Will Be Streaming’s Next Giant",
-                "source": "Screen Rant",
-                "date": "2026-02-02",
-                "url": "https://screenrant.com/apple-tv-brandon-sanderson-cosmere-fantasy-franchise/",
-                "category": "industry",
-                "summary": "Apple TV推出新的奇幻宇宙，可能对流媒体行业产生重大影响。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-56",
-                "title": "Sixers linked to sneaky deadline target with Nick Nurse ties",
-                "source": "Sporting News",
-                "date": "2026-02-02",
-                "url": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/sixers-linked-sneaky-deadline-target-nick-nurse-ties/291fd51523c8ca2f137b9137",
-                "category": "industry",
-                "summary": "这条新闻与加密货币行业的动态无直接关系，主要涉及体育领域。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-57",
-                "title": "KKR-led group set to buy Singapore data-centre firm valued at over $10 billion, WSJ reports",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/kkr-led-group-set-to-buy-singapore-data-centre-firm-valued-at-over-10-billion-wsj-reports/articleshow/127832093.cms",
-                "category": "industry",
-                "summary": "KKR主导的集团计划收购一家估值超过100亿美元的新加坡数据中心公司，显示出对数据基础设施的投资兴趣。",
-                "threatLevel": "medium",
-                "impact": [
-                    "投资机会",
-                    "市场趋势"
-                ],
-                "action": "关注数据基础设施投资对加密行业的潜在影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-58",
-                "title": "Has Budget 2026 done anything to move taxpayers to new income tax regime?",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://economictimes.indiatimes.com/wealth/tax/has-budget-2026-done-anything-to-move-taxpayers-to-new-income-tax-regime/articleshow/127833624.cms",
-                "category": "industry",
-                "summary": "2026年预算对纳税人新所得税制度的影响仍不明确。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-59",
-                "title": "The investigation of initial endotracheal tube cuff pressures in the operating room: a multi-center ",
-                "source": "Nature.com",
-                "date": "2026-02-02",
-                "url": "https://www.nature.com/articles/s41598-026-37279-3",
-                "category": "industry",
-                "summary": "该研究探讨了中国手术室内气管插管气囊压力的初步调查，可能影响医疗行业的技术发展和监管政策。",
-                "threatLevel": "low",
-                "impact": [
-                    "技术发展"
-                ],
-                "action": "",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-02-02-industry-60",
-                "title": "Meesho shares in focus as Q3 losses widen sharply; higher ad spends weigh on profitability",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/news/meesho-shares-in-focus-as-q3-losses-widen-sharply-higher-ad-spends-weigh-on-profitability/articleshow/127831887.cms",
-                "category": "industry",
-                "summary": "Meesho的Q3损失大幅扩大，广告支出增加影响盈利能力。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注市场广告支出对盈利能力的影响，评估潜在的市场变化。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-61",
-                "title": "Sold farm land for Rs 5 crore, buys new land in wife’s name, paid no capital gains tax, gets tax not",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://economictimes.indiatimes.com/wealth/legal/will/sold-farm-land-for-rs-5-crore-buys-new-land-in-wifes-name-paid-no-capital-gains-tax-gets-tax-notice-why-itat-delhi-denied-tax-exemption/articleshow/127819618.cms",
-                "category": "industry",
-                "summary": "关于税务问题的新闻，涉及资本利得税和税务通知的处理。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注税务政策变化对加密货币投资者的影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-62",
-                "title": "All You Need To Know Going Into Trade On Budget Day",
-                "source": "Ndtvprofit.com",
-                "date": "2026-02-02",
-                "url": "https://www.ndtvprofit.com/markets/all-you-need-to-know-before-going-into-trade-on-budget-day-10921267",
-                "category": "industry",
-                "summary": "关于预算日交易的准备信息，涉及市场趋势和行业动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-63",
-                "title": "University campus to be split between housing and open space",
-                "source": "ABC News (AU)",
-                "date": "2026-02-02",
-                "url": "https://www.abc.net.au/news/2026-02-01/magill-university-campus-to-be-sold-for-housing-aged-care/106292672",
-                "category": "industry",
-                "summary": "大学校园将被划分为住房和开放空间，可能影响周边的经济和社区发展。",
-                "threatLevel": "low",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-64",
-                "title": "NASA finds what possibly happens milliseconds before neutron star collisions",
-                "source": "Notebookcheck.net",
-                "date": "2026-02-02",
-                "url": "https://www.notebookcheck.net/NASA-finds-what-possibly-happens-milliseconds-before-neutron-star-collisions.1217295.0.html",
-                "category": "industry",
-                "summary": "NASA发现中子星碰撞前的可能现象，推动天文物理学的研究进展。",
-                "threatLevel": "low",
-                "impact": [
-                    "技术发展"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-65",
-                "title": "Union Budget 2026 key features: Will Sitharaman deepen reforms or shift focus to relief?",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://economictimes.indiatimes.com/news/economy/policy/union-budget-2026-key-features-will-sitharaman-deepen-reforms-or-shift-focus-to-relief/articleshow/127832430.cms",
-                "category": "industry",
-                "summary": "印度财政预算2026可能会影响加密货币行业的监管政策和市场环境。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注印度财政预算对加密行业的潜在影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-66",
-                "title": "SpaceX seeks approval for million-plus satellites in space data-centre complex",
-                "source": "The Sydney Morning Herald",
-                "date": "2026-02-02",
-                "url": "https://www.smh.com.au/business/companies/spacex-seeks-approval-for-million-plus-satellites-in-space-data-centre-complex-20260201-p5nylc.html",
-                "category": "industry",
-                "summary": "SpaceX申请批准在太空建立数据中心的卫星网络，可能影响未来的行业技术发展。",
-                "threatLevel": "medium",
-                "impact": [
-                    "技术发展",
-                    "市场趋势"
-                ],
-                "action": "关注太空数据中心对加密货币行业的潜在影响。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-02-02-industry-67",
-                "title": "Wonder Man Continues The MCU's Destruction Of One Of Marvel's Most Fun Concepts",
-                "source": "/FILM",
-                "date": "2026-02-02",
-                "url": "https://www.slashfilm.com/2088537/wonder-man-mcu-destruction-marvel-concept-damage-control/",
-                "category": "industry",
-                "summary": "该新闻涉及漫威宇宙的概念变化，可能影响相关娱乐行业的市场趋势。",
-                "threatLevel": "low",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-68",
-                "title": "Your Life, But Funnier: 29-Question Quiz Finds The Sitcom World You’d Call Home",
-                "source": "Boredpanda.com",
-                "date": "2026-02-02",
-                "url": "https://www.boredpanda.com/which-sitcom-do-you-belong-in-quiz/",
-                "category": "industry",
-                "summary": "这篇文章与加密货币行业无关，主要讨论的是关于情景喜剧的测验。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-69",
-                "title": "Scarlet Witch, Vision, & Wonder Man: The Avengers' Biggest Love Triangle, Explained",
-                "source": "/FILM",
-                "date": "2026-02-02",
-                "url": "https://www.slashfilm.com/2085062/scarlet-witch-cision-wonder-man-avengers-biggest-love-triangle-explained/",
-                "category": "industry",
-                "summary": "该新闻与稳定币/加密货币行业无关，属于娱乐内容。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-70",
-                "title": "Fable Is Missing A Beloved Series Feature, & It Could Be a Deal-Breaker",
-                "source": "Screen Rant",
-                "date": "2026-02-02",
-                "url": "https://screenrant.com/fable-dog-companion-feature-franchise-legacy/",
-                "category": "industry",
-                "summary": "Fable缺少一个受欢迎的系列功能，这可能会影响其市场表现。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-71",
-                "title": "Milana Vayntrub's First Acting Gig Was A Three-Episode Role On An NBC Hit Drama",
-                "source": "TVLine",
-                "date": "2026-02-02",
-                "url": "https://www.tvline.com/2087217/milana-vayntrub-first-acting-job-three-episodes-nbc-er-tatiana/",
-                "category": "industry",
-                "summary": "该新闻与加密货币行业无关，属于娱乐新闻。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-72",
-                "title": "A Handmaid's Tale Actress Almost Starred In Inventing Anna Before Julia Garner",
-                "source": "TVLine",
-                "date": "2026-02-02",
-                "url": "https://www.tvline.com/2087281/julia-garner-inventing-anna-the-handmaids-tale-star-madeline-brewer/",
-                "category": "industry",
-                "summary": "这篇新闻与稳定币/加密货币行业无关，主要涉及娱乐行业。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-73",
-                "title": "Reigns: The Witcher Coming To PC & Mobile This Month",
-                "source": "Bleeding Cool News",
-                "date": "2026-02-02",
-                "url": "https://bleedingcool.com/games/reigns-the-witcher-coming-to-pc-mobile-this-month/",
-                "category": "industry",
-                "summary": "该新闻与加密货币行业无关，属于游戏行业的动态。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-74",
-                "title": "Most Popular 'Big Bang Theory' Seasons, Ranked From Least to Most Liked by Audiences",
-                "source": "Just Jared",
-                "date": "2026-02-02",
-                "url": "https://www.justjared.com/2026/01/31/most-popular-big-bang-theory-seasons-ranked-from-least-to-most-liked-by-audiences/",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-75",
-                "title": "Pakistan routs Australia by 90 runs to clinch T20 series",
-                "source": "Japan Today",
-                "date": "2026-02-02",
-                "url": "https://japantoday.com/category/sports/pakistan-routs-australia-by-90-runs-to-clinch-t20-series-victory",
-                "category": "industry",
-                "summary": "这条新闻与加密货币行业无关，主要涉及体育赛事。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-76",
-                "title": "Even Dragon Ball’s Creator Thought Cell Was a Failure & the Reason Why Is Brutal",
-                "source": "Screen Rant",
-                "date": "2026-02-02",
-                "url": "https://screenrant.com/dragon-ball-anime-cell-failure-design-problem-akira-toriyama/",
-                "category": "industry",
-                "summary": "该新闻讨论了龙珠创作者对角色Cell的看法，虽然与加密行业无直接关系，但反映了创意产业的挑战与竞争。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-77",
-                "title": "Heated Rivalry's Connor Storrie to Make 'SNL' Host Debut in February 2026",
-                "source": "Just Jared",
-                "date": "2026-02-02",
-                "url": "https://www.justjared.com/2026/02/01/heated-rivalrys-connor-storrie-to-make-snl-host-debut-in-february-2026/",
-                "category": "industry",
-                "summary": "Connor Storrie 将在2026年2月首次担任《SNL》主持人，可能对加密货币行业的公众认知产生影响。",
-                "threatLevel": "low",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-78",
-                "title": "Bridgerton EP Warns Against Reading Into Francesca's 'Pinnacle' Problems With John: 'The Love Betwee",
-                "source": "TVLine",
-                "date": "2026-02-02",
-                "url": "https://www.tvline.com/2089353/bridgerton-season-4-francesca-pinnacle-sex-scenes-john/",
-                "category": "industry",
-                "summary": "该新闻与稳定币/加密货币行业无关，涉及影视作品内容讨论。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-79",
-                "title": "SNL Cold Open: Can Pete Davidson's Tom Homan Get ICE Under Control?",
-                "source": "Bleeding Cool News",
-                "date": "2026-02-02",
-                "url": "https://bleedingcool.com/tv/snl-cold-open-can-pete-davidsons-tom-homan-get-ice-under-control/",
-                "category": "industry",
-                "summary": "该新闻与加密货币行业的监管和政策动态无关，属于娱乐内容。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-80",
-                "title": "Evaluation of heat warning thresholds with multiple lagged and cumulative health impacts based on a ",
-                "source": "Nature.com",
-                "date": "2026-02-02",
-                "url": "https://www.nature.com/articles/s41598-025-31832-2",
-                "category": "industry",
-                "summary": "该研究评估了热警告阈值与健康影响的关系，可能对公共健康政策产生影响。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注公共健康政策对加密货币行业的潜在影响。",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-02-02-industry-81",
-                "title": "A spatial perspective on the impact of official development assistance on sustainable development go",
-                "source": "Nature.com",
-                "date": "2026-02-02",
-                "url": "https://www.nature.com/articles/s41598-026-35544-z",
-                "category": "industry",
-                "summary": "该报告探讨了官方发展援助对可持续发展目标的影响，涉及行业整体动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注可持续发展目标对行业的潜在影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-82",
-                "title": "‘Saturday Night Live’ Sets ‘Heated Rivalry’ Star Connor Storrie as Next Host",
-                "source": "Variety",
-                "date": "2026-02-02",
-                "url": "https://variety.com/2026/tv/news/connor-storrie-heated-rivalry-snl-host-1236643810/",
-                "category": "industry",
-                "summary": "该新闻与加密货币行业无关，属于娱乐新闻。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-83",
-                "title": "7 Most Rewatchable Star Trek Episodes Of All Time, Ranked (#1 Will Never Be Matched)",
-                "source": "ComicBook.com",
-                "date": "2026-02-02",
-                "url": "http://comicbook.com/tv-shows/list/7-most-rewatchable-star-trek-episodes-of-all-time-ranked-1-will-never-be-matched/",
-                "category": "industry",
-                "summary": "该新闻与加密货币行业动态无关，属于娱乐内容。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-84",
-                "title": "'The tiniest autofocus lens I've played with in over 15 years of testing camera gear' – the cheap Vi",
-                "source": "TechRadar",
-                "date": "2026-02-02",
-                "url": "https://www.techradar.com/cameras/camera-lenses/viltrox-af-28mm-f-4-5-review",
-                "category": "industry",
-                "summary": "这篇文章讨论了一款小型自动对焦镜头的表现，与加密货币行业无关。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-85",
-                "title": "Two thirds of health insurance customers never bother switching provider despite regular price hikes",
-                "source": "Independent.ie",
-                "date": "2026-02-02",
-                "url": "https://www.independent.ie/irish-news/two-thirds-of-health-insurance-customers-never-bother-switching-provider-despite-regular-price-hikes-study-reveals/a98599617.html",
-                "category": "industry",
-                "summary": "研究显示，尽管健康保险价格不断上涨，三分之二的客户仍不愿意更换提供商。",
-                "threatLevel": "low",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-86",
-                "title": "Triona McCarthy: These face and body elixirs rock – much like model Bella Hadid in The Beauty",
-                "source": "Independent.ie",
-                "date": "2026-02-02",
-                "url": "https://www.independent.ie/style/beauty/triona-mccarthy-these-face-and-body-elixirs-rock-much-like-model-bella-hadid-in-the-beauty/a1656791628.html",
-                "category": "industry",
-                "summary": "这篇文章讨论了美容产品，未涉及加密货币行业的相关内容。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-87",
-                "title": "Discrete Health Sensor Market CAGR, Expansion Trajectory, Regions & Technology Trends 2026-2033",
-                "source": "Linkedin.com",
-                "date": "2026-02-02",
-                "url": "https://www.linkedin.com/pulse/discrete-health-sensor-market-cagr-expansion-12ile",
-                "category": "industry",
-                "summary": "该报告分析了离散健康传感器市场的复合年增长率及技术趋势。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-88",
-                "title": "Hundreds rally against ICE in New Braunfels, a Trump stronghold",
-                "source": "San Antonio Express-News",
-                "date": "2026-02-02",
-                "url": "https://www.expressnews.com/news/article/ice-protest-new-braunfels-trump-21326116.php",
-                "category": "industry",
-                "summary": "在特朗普的强势地区，新布朗费尔斯发生了数百人抗议ICE的事件。",
-                "threatLevel": "low",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-89",
-                "title": "2 Jharkhand sisters missing on way to school traced 1,500 km away in Andhra",
-                "source": "The Indian Express",
-                "date": "2026-02-02",
-                "url": "https://indianexpress.com/article/india/from-jharkhand-to-andhra-how-2-sisters-missing-on-way-to-school-were-traced-1500-km-away-10506096/",
-                "category": "industry",
-                "summary": "该新闻与稳定币/加密货币行业无关，涉及的是一起失踪事件。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-90",
-                "title": "Land-grabbing racket busted after attempt to sell prime property in Greater Kailash",
-                "source": "The Indian Express",
-                "date": "2026-02-02",
-                "url": "https://indianexpress.com/article/cities/delhi/land-grabbing-racket-busted-after-attempt-to-sell-prime-property-in-greater-kailash-10506554/",
-                "category": "industry",
-                "summary": "关于大凯拉什地区的土地抢夺案件被揭露的新闻，反映出房地产行业的监管和法律问题。",
-                "threatLevel": "low",
-                "impact": [
-                    "监管影响"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-91",
-                "title": "Teenage Girl Stayed With Her Dad And Stepmom For Christmas, So Her Bio Mom Threatened To Bring The C",
-                "source": "Twistedsifter.com",
-                "date": "2026-02-02",
-                "url": "http://twistedsifter.com/2026/01/teenage-girl-stayed-with-her-dad-and-stepmom-for-christmas-so-her-bio-mom-threatened-to-bring-the-case-to-the-court/",
-                "category": "industry",
-                "summary": "该新闻与加密货币行业无关，属于家庭纠纷的法律问题。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-92",
-                "title": "Unhinged woman storms NYC restaurant, whacks diner with glass bottle before socking four others in r",
-                "source": "New York Post",
-                "date": "2026-02-02",
-                "url": "https://nypost.com/2026/01/31/us-news/woman-storms-nyc-restaurant-whacks-diner-with-glass-bottle-socks-four-others/",
-                "category": "industry",
-                "summary": "这条新闻与加密货币行业无关，属于社会事件。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-93",
-                "title": "Takeaways from AP report on ICE claims that immigrant shattered his skull running into wall (Associa",
-                "source": "Memeorandum.com",
-                "date": "2026-02-02",
-                "url": "https://www.memeorandum.com/260131/p66",
-                "category": "industry",
-                "summary": "这篇报道与加密货币行业无关，主要讨论移民事故。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-94",
-                "title": "Texas judge had attorney in her courtroom cuffed, thrown in jury box",
-                "source": "New York Post",
-                "date": "2026-02-02",
-                "url": "https://nypost.com/2026/01/31/us-news/texas-judge-had-attorney-in-her-courtroom-cuffed-thrown-in-jury-box/",
-                "category": "industry",
-                "summary": "德克萨斯州法官在法庭上将一名律师铐住并扔进陪审团席，这一事件引发了对司法程序的关注。",
-                "threatLevel": "low",
-                "impact": [
-                    "监管影响"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-95",
-                "title": "Federal Judge Skewers Trump Administration for ‘Traumatizing Children’ While Ordering Release of Lia",
-                "source": "Mediaite",
-                "date": "2026-02-02",
-                "url": "https://www.mediaite.com/media/news/federal-judge-skewers-trump-administration-for-traumatizing-children-while-ordering-release-of-liam-canejo-ramos/",
-                "category": "industry",
-                "summary": "美国法官批评特朗普政府对儿童造成的创伤，并下令释放Liam Canejo Ramos。",
-                "threatLevel": "low",
-                "impact": [
-                    "监管影响"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-96",
-                "title": "Don Lemon and Georgia Fort vow to continue reporting following arrests tied to anti-ICE protest",
-                "source": "NPR",
-                "date": "2026-02-02",
-                "url": "https://www.npr.org/2026/01/31/nx-s1-5695230/don-lemon-georgia-fort-release",
-                "category": "industry",
-                "summary": "与反对ICE抗议相关的逮捕事件引发了对报道自由和社会运动的关注。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "监管影响"
-                ],
-                "action": "关注社会运动对加密货币行业的潜在影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-97",
-                "title": "Pakistan says 92 militants killed after attacks in Balochistan",
-                "source": "Japan Today",
-                "date": "2026-02-02",
-                "url": "https://japantoday.com/category/world/pakistan-says-92-militants-killed-after-attacks-in-balochistan",
-                "category": "industry",
-                "summary": "巴基斯坦在俾路支省的袭击事件中宣布击毙92名武装分子，可能影响当地的安全局势和经济环境。",
-                "threatLevel": "low",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-98",
-                "title": "NYPD calls death at Queens low-income housing building ‘suspicious’",
-                "source": "New York Post",
-                "date": "2026-02-02",
-                "url": "https://nypost.com/2026/01/31/us-news/nypd-calls-death-at-queens-low-income-housing-building-suspicious/",
-                "category": "industry",
-                "summary": "NYPD对皇后区低收入住房大楼的死亡事件进行了怀疑调查，可能引发对社区安全和社会问题的关注。",
-                "threatLevel": "low",
-                "impact": [
-                    "市场趋势",
-                    "社会影响"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-99",
-                "title": "Shooting at Louisiana parade leaves 5 wounded, including 6-year-old, sheriff says",
-                "source": "ABC News",
-                "date": "2026-02-02",
-                "url": "https://abcnews.go.com/US/wireStory/shooting-louisiana-parade-leaves-5-people-wounded-including-129746492",
-                "category": "industry",
-                "summary": "路易斯安那州游行发生枪击事件，造成包括6岁儿童在内的5人受伤。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-100",
-                "title": "Fake it till you bag the OG...Inside the business of high-end counterfiets",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://timesofindia.indiatimes.com/life-style/fashion/luxury/inside-indias-thriving-high-end-counterfeit-market-the-rise-of-superfakes/articleshow/127832585.cms",
-                "category": "industry",
-                "summary": "这篇文章探讨了高端假冒商品的商业运作，反映了加密货币行业中的一些潜在风险和市场动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注假冒商品对品牌和市场的潜在影响，制定相应的风险管理策略。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-101",
-                "title": "25-years of Gautham Vasudev Menon: The music I listened to while growing up inspired me to make film",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/25-years-of-gautham-vasudev-menon-the-music-i-listened-to-while-growing-up-inspired-me-to-make-films-says-gvm/articleshow/127833705.cms",
-                "category": "industry",
-                "summary": "这篇文章讨论了Gautham Vasudev Menon的音乐影响与电影创作的关系，未涉及加密货币行业动态。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-102",
-                "title": "Union, Marathon meeting as strike deadline looms for US refineries",
-                "source": "Livemint",
-                "date": "2026-02-02",
-                "url": "https://www.livemint.com/companies/union-marathon-meeting-as-strike-deadline-looms-for-us-refineries-11769910285232.html",
-                "category": "industry",
-                "summary": "美国炼油厂面临罢工截止日期，可能影响能源市场动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-02-02-industry-103",
-                "title": "Pre-market action: Here's the trade setup for today's session",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/127824783.cms",
-                "category": "industry",
-                "summary": "市场交易活动的预期设置可能影响整体市场趋势。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注市场动态以调整投资策略。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-104",
-                "title": "Sun Pharma shares rally 4% as Q3 profit surges 16% YoY; co announces interim dividend",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-shares-rally-4-as-q3-profit-surges-16-yoy-co-announces-interim-dividend/articleshow/127833006.cms",
-                "category": "industry",
-                "summary": "Sun Pharma的股价因第三季度利润增长而上涨，显示出市场的积极趋势。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注市场动态，评估对投资组合的影响",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-105",
-                "title": "The Hardest Part of Fighting Fascism Comes After the Fascists Have Fallen",
-                "source": "Truthout",
-                "date": "2026-02-02",
-                "url": "https://truthout.org/articles/the-hardest-part-of-fighting-fascism-comes-after-the-fascists-have-fallen/",
-                "category": "industry",
-                "summary": "这篇文章讨论了在法西斯主义倒台后，如何应对随之而来的挑战，反映了社会政治动态对行业的潜在影响。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注社会政治动态对加密货币行业的影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-106",
-                "title": "SON, Niger first lady partner to empower women entrepreneurs",
-                "source": "The Punch",
-                "date": "2026-02-02",
-                "url": "https://punchng.com/son-niger-first-lady-partner-to-empower-women-entrepreneurs/",
-                "category": "industry",
-                "summary": "尼日尔第一夫人与SON合作以支持女性企业家，推动女性经济赋权。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注女性经济赋权对加密货币行业的潜在影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-107",
-                "title": "Over 100 Holocaust scholars protest misuse of the word “Genocide\"",
-                "source": "Israelnationalnews.com",
-                "date": "2026-02-02",
-                "url": "https://www.israelnationalnews.com/news/421764",
-                "category": "industry",
-                "summary": "超过100名大屠杀学者抗议对“种族灭绝”一词的误用。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-108",
-                "title": "UGC’s equity regulations: Education can’t be the fiefdom of social elites",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://timesofindia.indiatimes.com/blogs/toi-edit-page/ugcs-equity-regulations-education-cant-be-the-fiefdom-of-social-elites/",
-                "category": "industry",
-                "summary": "UGC的股权监管政策强调教育不应成为社会精英的特权。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注教育领域的监管动态对加密行业的潜在影响。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-02-02-industry-109",
-                "title": "Budget and stock markets: How Sensex, Nifty have fared on D-Day in last 15 years",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/news/budget-and-stock-markets-how-sensex-nifty-have-fared-on-d-day-in-last-15-years/articleshow/127831549.cms",
-                "category": "industry",
-                "summary": "该新闻分析了过去15年中印度股市在预算日的表现，反映了市场趋势和经济状况。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注股市表现对加密货币市场的潜在影响",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-110",
-                "title": "Can Budget stop $23 billion FII exodus? Here's what stock market investors are betting on",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/news/can-budget-stop-23-billion-fii-exodus-heres-what-stock-market-investors-are-betting-on/articleshow/127830624.cms",
-                "category": "industry",
-                "summary": "预算能否阻止230亿美元外资流出，投资者对此持乐观态度。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注预算政策对市场的潜在影响。",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-02-02-industry-111",
-                "title": "IFCI shares in focus after SEBI clears NSE IPO path",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/news/ifci-shares-in-focus-after-sebi-clears-nse-ipo-path/articleshow/127831810.cms",
-                "category": "industry",
-                "summary": "SEBI批准NSE IPO路径，可能影响市场监管和融资动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注NSE IPO对市场的潜在影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-112",
-                "title": "Sensex falls over 50 points, Nifty below 25,300 in special session ahead of Union Budget",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-over-50-points-nifty-below-25300-in-special-session-ahead-of-union-budget/articleshow/127832289.cms",
-                "category": "industry",
-                "summary": "印度股市在特别会议上下跌，反映出市场对即将发布的预算的担忧。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注市场动态以评估对加密货币投资的影响",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-113",
-                "title": "Markets open flat on historic budget Sunday amid high volatility",
-                "source": "BusinessLine",
-                "date": "2026-02-02",
-                "url": "https://www.thehindubusinessline.com/markets/stock-markets/markets-open-flat-on-historic-budget-sunday-amid-high-volatility/article70576740.ece",
-                "category": "industry",
-                "summary": "市场在历史预算日开盘平稳，但波动性较高。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注市场波动对投资策略的影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-114",
-                "title": "No REAL ID yet? You can still fly in U.S., but it may cost $45 without another form of accepted ID",
-                "source": "Japan Today",
-                "date": "2026-02-02",
-                "url": "https://japantoday.com/category/features/travel/no-real-id-yet-you-can-still-fly-but-it-may-cost-45-without-another-form-of-accepted-id",
-                "category": "industry",
-                "summary": "美国允许没有真实身份证的乘客飞行，但需提供其他形式的身份证明，可能会产生额外费用。",
-                "threatLevel": "low",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-115",
-                "title": "Budget 2026 key announcements for common man: Big wins for aam aadmi that will directly impact your ",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://economictimes.indiatimes.com/news/economy/policy/budget-2026-key-announcements-for-common-man-big-wins-for-aam-aadmi-that-will-directly-impact-your-wallet/articleshow/127832197.cms",
-                "category": "industry",
-                "summary": "2026年预算公告将直接影响普通人的钱包。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注预算政策对加密货币市场的潜在影响。",
-                "subcategory": "custody_mpc_risk",
-                "subcategoryName": "托管与风险"
-            },
-            {
-                "id": "2026-02-02-industry-116",
-                "title": "‘Zero tolerance against terror’: Delhi declaration slams Pahalgam",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://timesofindia.indiatimes.com/india/zero-tolerance-against-terror-delhi-declaration-slams-pahalgam/articleshow/127830635.cms",
-                "category": "industry",
-                "summary": "德里声明对恐怖主义采取零容忍政策，影响行业监管动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响"
-                ],
-                "action": "关注相关监管政策的变化，评估对业务的潜在影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-117",
-                "title": "'India will continue to back Palestine': PM to Arab world",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://timesofindia.indiatimes.com/india/india-will-continue-to-back-palestine-pm-to-arab-world/articleshow/127830616.cms",
-                "category": "industry",
-                "summary": "印度总理表示将继续支持巴勒斯坦，反映出国际政治动态对加密货币行业的潜在影响。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注国际政治对加密市场的潜在影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-118",
-                "title": "CJI hard-sells India’s business-friendly legal system in France",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://timesofindia.indiatimes.com/india/cji-hard-sells-indias-business-friendly-legal-system-in-france/articleshow/127830605.cms",
-                "category": "industry",
-                "summary": "CJI 在法国积极推销印度的商业友好法律体系，反映出国际市场对法律环境的关注。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注国际市场对法律体系的需求变化",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-119",
-                "title": "4 from Assam found dead in Karnataka room",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://timesofindia.indiatimes.com/city/bengaluru/4-from-assam-found-dead-in-karnataka-room/articleshow/127830599.cms",
-                "category": "industry",
-                "summary": "该新闻与稳定币/加密货币行业无关。",
-                "threatLevel": "low",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-120",
-                "title": "Buying online is fun, till that problem strikes",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://timesofindia.indiatimes.com/times-special/buying-online-is-fun-till-that-problem-strikes/articleshow/127830670.cms",
-                "category": "industry",
-                "summary": "在线购物的乐趣可能会因某些问题而受到影响。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注在线购物对加密货币支付的影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-121",
-                "title": "SC slams tax department, RBI governor for harassment of IRS officer",
-                "source": "The Times of India",
-                "date": "2026-02-02",
-                "url": "https://timesofindia.indiatimes.com/india/sc-slams-tax-department-rbi-governor-for-harassment-of-irs-officer/articleshow/127830575.cms",
-                "category": "industry",
-                "summary": "SC对税务部门和RBI行长的指责反映了监管政策的紧张局势。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响"
-                ],
-                "action": "关注监管政策变化对行业的潜在影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-02-02-industry-122",
-                "title": "Crypto exchanges sanctioned alongside Iranian officials in Trump administration’s Iran crackdown",
-                "source": "The Block",
-                "date": "2026-02-02",
-                "url": "https://www.theblock.co/post/387935/crypto-exchanges-sanctioned-alongside-iranian-officials-in-trump-administrations-iran-crackdown?utm_source=rss&utm_medium=rss",
-                "category": "industry",
-                "summary": "美国政府首次对数字资产平台实施制裁，涉及伊朗政府的行为。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注未来可能的监管变化和市场反应。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-02-02-industry-123",
-                "title": "UAE Royal’s Alleged Stake in Trump Crypto Venture Raises Ethical Concerns",
-                "source": "Decrypt",
-                "date": "2026-02-02",
-                "url": "https://decrypt.co/356591/uae-royals-trump-crypto-venture-ethical-concerns",
-                "category": "industry",
-                "summary": "阿联酋王室对特朗普加密货币公司的投资引发了关于腐败的担忧，可能影响美国的监管政策。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注美国监管政策的变化及其对行业的潜在影响",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-02-02-industry-124",
-                "title": "Visa Extends Stablecoin Reach As It Seeks New Payment Flows - Yahoo Finance",
-                "source": "Google News (stablecoin payment)",
-                "date": "2026-02-02",
-                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaDlLbmJ2ZHZUMDVBOHZ1QkZZZ1BwRDVhUFBna254NmNOVUFJQXFPQURIYzlvZU9JMV83YTEza1lDTkZROWZQSm1fWEt0QTgzeS1yT1JyS0pzS0lCMEVCUEdTcnlPeU94Z2RHOV96LUhrdFNRRGxnYnpQOENVZURVV1dxRENZVFFS?oc=5",
-                "category": "industry",
-                "summary": "Visa 正在扩展其稳定币的应用，以寻求新的支付流。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注 Visa 在稳定币领域的进一步发展和市场反应。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-02-02-industry-125",
-                "title": "Wyoming’s stablecoin isn’t hype — it’s how payments get de-risked | Opinion - crypto.news",
-                "source": "Google News (stablecoin payment)",
-                "date": "2026-02-02",
-                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLTVtQ0VVbFdJdWE1SU9xWkl2akpnUnhPN1B2R09xQ0IzdGNZLXpsX3k2RHJlUmNmYnNmYURreVBUbklsY2phSVIxUm95VVNuWDNGSHpHcFBIelRWS1Zxd0czOThQQVlOZDNNb2hkQmFGTXoxaXB2V1lmVFd2aXpacA?oc=5",
-                "category": "industry",
-                "summary": "怀俄明州的稳定币被认为是降低支付风险的有效方式。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "监管影响"
-                ],
-                "action": "关注怀俄明州稳定币的监管动态及其对市场的潜在影响。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-02-02-industry-126",
-                "title": "HKMA to issue first stablecoin licenses in March - marketscreener.com",
-                "source": "Google News (stablecoin license)",
-                "date": "2026-02-02",
-                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdVRmOTNqVnUwYnhvYkVZcEpzbEVRc0lnRl9VNndOMC1Ia2lDcHFONHFVbHVfV1NuVEdkaHVqZXd6QVlvRnFmOE1yU0pLaGNtNGEtdURUbjNpNGNONjVlZG5zc0FxeG5JUlNHVkhvU2xqdGVoMXh2SHJaODlKeGl1cy16M0FmTkF0QXBndFBjZ1lyLURWV2tBbGxGYm9MQ3VFc3lR?oc=5",
-                "category": "industry",
-                "summary": "香港金融管理局将在三月发放首批稳定币许可证，标志着监管政策的进展。",
+                "summary": "稳定币面临挤兑风险，引起银行关注。",
                 "threatLevel": "high",
                 "impact": [
                     "监管影响",
                     "市场趋势"
                 ],
-                "action": "关注香港稳定币监管政策的后续发展。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-02-02-industry-127",
-                "title": "Hong Kong regulator targets March for first stablecoin licences - Reuters",
-                "source": "Google News (stablecoin regulation Hong Kong)",
-                "date": "2026-02-02",
-                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWDNfWnU3Y3B2MWlVNG5rVjR6MlAwVUMyNlc2RkV5V0lvOF9BeWMxeFV3VmhUUDRoZGhIMG9UOXk5SmFBblAxZ2NnZ05ZeEszeXg0Vk5sbmxmbldKdnowUEE2UnNLSkt0dDdkVlM3RjlnTGpfLTlxcGt6cy1pUEZNeTRDU0Z2SnNnS3NsMWdiWVRROThiNDh6dEw3dUo0Zw?oc=5",
-                "category": "industry",
-                "summary": "香港监管机构计划在三月发放首批稳定币许可证。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注香港稳定币监管动态，评估对业务的潜在影响。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-02-02-industry-128",
-                "title": "Hong Kong edges into stablecoin regulation with limited first wave of approvals - Malay Mail",
-                "source": "Google News (stablecoin regulation Hong Kong)",
-                "date": "2026-02-02",
-                "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcDNQUG1uWE16QkxXR1JtV3pSdGpOaEwxSllEME9mWUlzZkFYdFQyX3dPWWJ3S2ZvbWlJemdIa0djdjMzRnIxSWpzUVVoek50eHltMFZxTkpVeEk2Zk5scUdGUENvN0RGOGxwenlhQ2k4b1VabWE5SGlCNlAyekhOUFNobDU1em5qck54STFHNVJtNVQ3ajhZOEdKUG92YUU1bDlxbldZUk1hYVRDaW5iV3FKNHpPWjNMQU5BTk5jN2syTlg3Qm41OHltN3lmTU9GU2J2azk2M2LSAdgBQVVfeXFMTXAzUFBtblhNekJMV0dSbVd6UnRqTmhMMUpZRDBPZllJc2ZBWHRUMl93T1lid0tmb21pSXpnSGtHY3YzM0ZyMUlqc1FVaHpOdHh5bTBWcU5KVXhJNmZObHFHRlBDbzdERjhscHp5YUNpOG9VWm1hOUhpQjZQMnpITlBTaGw1NXpuanJOeEkxRzVSbTVUN2o4WThHSlBvdmFFNWw5cW5XWVJNYWFUQ2luYldxSjR6T1ozTEFOQU5OYzdrMk5YN0JuNTh5bTd5Zk1PRlNidms5NjNi?oc=5",
-                "category": "industry",
-                "summary": "香港开始对稳定币进行有限的监管审批，标志着监管政策的初步进展。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注香港稳定币监管政策的进一步发展。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-02-02-industry-129",
-                "title": "Asia's weekly TOP10 crypto news: Russia's Proposed Crypto Regulations Slated to Take Effect in 2027,",
-                "source": "Google News (stablecoin regulation Hong Kong)",
-                "date": "2026-02-02",
-                "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84NDR4R01tUEZlVk8wb2ptaEZUeDB4b3pjQ0w5M3pUWUxKeThCcklWVTduZVZRVXB6aE90NS04MWFQV09mSlR6Q3ktdnJCSHJHdVQwVEFPcjgxemRMclBCcU9YV3FzSlJ1LWVNZFJ2bWpVdFhwbVhJTA?oc=5",
-                "category": "industry",
-                "summary": "俄罗斯拟定的加密货币监管政策将在2027年生效，韩国考虑允许机构发行虚拟资产，反映出亚洲地区的监管动态。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注俄罗斯和韩国的监管政策变化，评估对业务的潜在影响。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-02-02-industry-130",
-                "title": "Stablecoins Are Becoming a Bank Run Risk — and Banks Know It - CCN.com",
-                "source": "Google News (stablecoin settlement)",
-                "date": "2026-02-02",
-                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVXBYZFhLZzZCVTlwTlF4dk5EdHlwMFNyNkVDS0wwTEVIOEhIcmJ5VTlIX1lHT1VseHQ1SGljOXlHZ2R3YmM5bDMwVlhNWVgzLXVGYWlWakd6cThYV1VtQm9XeWktUGY0ZXVBWHZPMG80MFBfY1dxaVBELTg3NVN5VXpxNTYzMXItT0FCZXZlQVI?oc=5",
-                "category": "industry",
-                "summary": "稳定币正面临银行挤兑风险，银行对此有所警觉。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注稳定币的监管动态和市场反应。",
+                "action": "关注稳定币监管动态，调整策略。",
                 "subcategory": "stablecoin_payments",
                 "subcategoryName": "稳定币支付"
             }
         ],
         "stats": {
-            "totalThreats": 0,
-            "highThreats": 0,
-            "mediumThreats": 0,
+            "totalThreats": 3,
+            "highThreats": 1,
+            "mediumThreats": 2,
             "lowThreats": 0,
-            "competitorUpdates": 0,
+            "competitorUpdates": 3,
             "customerUpdates": 0,
-            "industryUpdates": 131
+            "industryUpdates": 4
         },
         "dailySummary": {
-            "competitorThreat": "今日暂无竞争对手相关动态。",
-            "industryTrend": "今日行业热点主要集中在MCX市场的剧烈波动，MCX在创纪录高点后单日暴跌17%，这是五年来最大跌幅，反映出市场对美联储政策的不安。同时，中国接管矿业帝国的新闻显示出全球资源竞争加剧，这可能影响稳定币行业的基础设施建设和支付系统的稳定性。随着金属和商品市场的不确定性增加，稳定币作为避险工具的需求可能上升，促使相关托管和支付基础设施的创新与完善。投资者应关注这些动态对稳定币流动性和市场信心的潜在影响。"
+            "competitorThreat": "今日最大的竞争威胁来自Copper，该公司新增对稳定币的冷存储支持，显著提升了其在安全性方面的竞争力。与此同时，Fireblocks扩展MPC托管服务至更多链，BitGo则与Circle合作推出USDC质押服务，这些动态均显示出市场对稳定币服务多样化的需求加剧。建议关注安全性和流动性方面的创新，以增强自身竞争力，同时考虑与其他金融机构合作，拓展服务范围和用户基础。",
+            "industryTrend": "今日稳定币行业热点包括Polymarket因USDC结算而交易量激增、Visa扩大稳定币支付试点、香港计划于三月发放首批稳定币许可证，以及稳定币面临的挤兑风险引起银行关注。这些动态表明，稳定币在支付和合规方面正逐渐获得主流认可，尤其是Visa的参与可能加速其在商业支付中的应用。同时，香港的许可证发放将为行业提供更明确的监管框架，促进合规发展。然而，挤兑风险的存在提醒市场参与者需关注流动性管理和风险控制，这对稳定币托管和支付基础设施的稳定性提出了更高要求。"
         },
         "highlights": {
-            "competitors": [],
+            "competitors": [
+                {
+                    "id": "2026-02-02-competitor-0",
+                    "title": "Fireblocks expands MPC custody to new chains",
+                    "source": "The Block",
+                    "date": "2026-02-02",
+                    "url": "https://example.com/fireblocks-mpc",
+                    "category": "competitor",
+                    "summary": "Fireblocks扩展MPC托管服务至更多链。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "技术差距",
+                        "市场定价"
+                    ],
+                    "action": "关注MPC技术发展，提升自身竞争力。",
+                    "tickers": [
+                        "Fireblocks"
+                    ]
+                },
+                {
+                    "id": "2026-02-02-competitor-1",
+                    "title": "BitGo launches institutional staking for USDC",
+                    "source": "Decrypt",
+                    "date": "2026-02-02",
+                    "url": "https://example.com/bitgo-usdc",
+                    "category": "competitor",
+                    "summary": "BitGo推出USDC质押服务，与Circle合作。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "产品竞争",
+                        "客户争夺"
+                    ],
+                    "action": "关注BitGo的产品动态，评估竞争策略。",
+                    "tickers": [
+                        "BitGo",
+                        "Circle"
+                    ]
+                },
+                {
+                    "id": "2026-02-02-competitor-2",
+                    "title": "Copper adds cold storage support for stablecoins",
+                    "source": "Finextra",
+                    "date": "2026-02-02",
+                    "url": "https://example.com/copper-stablecoin",
+                    "category": "competitor",
+                    "summary": "Copper 增加对稳定币的冷存储支持。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "产品竞争",
+                        "客户争夺",
+                        "技术差距"
+                    ],
+                    "action": "关注 Copper 的产品动态，提升自身服务竞争力。",
+                    "tickers": [
+                        "Copper"
+                    ]
+                }
+            ],
             "clients": [],
             "industry": [
                 {
                     "id": "2026-02-02-industry-0",
-                    "title": "Hennessy edges win over Boutell for eighth-straight victory",
-                    "source": "BBC News",
+                    "title": "Polymarket volume surges with USDC settlement",
+                    "source": "The Block",
                     "date": "2026-02-02",
-                    "url": "https://www.bbc.com/sport/boxing/videos/cx2xk3pyde2o",
+                    "url": "https://example.com/polymarket-usdc",
                     "category": "industry",
-                    "summary": "这篇新闻与稳定币/加密货币行业无关，属于体育新闻。",
-                    "threatLevel": "low",
-                    "impact": [],
-                    "action": "",
-                    "subcategory": "other",
-                    "subcategoryName": "其他"
+                    "summary": "Polymarket使用USDC结算，交易量增长。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "市场趋势",
+                        "技术发展"
+                    ],
+                    "action": "关注USDC在市场中的应用趋势。",
+                    "subcategory": "stablecoin_payments",
+                    "subcategoryName": "稳定币支付",
+                    "tickers": [
+                        "Circle"
+                    ]
                 },
                 {
                     "id": "2026-02-02-industry-1",
-                    "title": "10 Best Japanese Stationery Items Under $100 Planners Obsess Over",
-                    "source": "Yanko Design",
+                    "title": "Visa extends stablecoin payment pilot",
+                    "source": "Reuters",
                     "date": "2026-02-02",
-                    "url": "https://www.yankodesign.com/2026/01/31/10-best-japanese-stationery-items-under-100-planners-obsess-over/",
+                    "url": "https://example.com/visa-stablecoin",
                     "category": "industry",
-                    "summary": "这篇文章与加密货币行业无关，主要讨论日本文具产品。",
-                    "threatLevel": "low",
-                    "impact": [],
-                    "action": "",
-                    "subcategory": "other",
-                    "subcategoryName": "其他"
+                    "summary": "Visa 扩大稳定币支付试点，影响行业动态。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "关注稳定币支付的市场变化",
+                    "subcategory": "stablecoin_payments",
+                    "subcategoryName": "稳定币支付",
+                    "tickers": [
+                        "Visa"
+                    ]
                 },
                 {
                     "id": "2026-02-02-industry-2",
-                    "title": "High school boys wrestling: Corner Canyon, Layton wrap up titles in 6A Division meets",
-                    "source": "Deseret News",
+                    "title": "Hong Kong to issue first stablecoin licenses in March",
+                    "source": "Reuters",
                     "date": "2026-02-02",
-                    "url": "https://www.deseret.com/sports/2026/01/31/high-school-boys-wrestling-6a-divisional-recap/",
+                    "url": "https://example.com/hk-stablecoin-license",
                     "category": "industry",
-                    "summary": "这篇新闻与加密货币行业无关，主要讨论高中摔跤比赛。",
-                    "threatLevel": "low",
-                    "impact": [],
-                    "action": "",
-                    "subcategory": "other",
-                    "subcategoryName": "其他"
+                    "summary": "香港将发放稳定币许可证，推动合规框架。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "监管影响",
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "关注合规政策变化，调整业务策略。",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照"
                 }
             ]
         }

@@ -62,8 +62,9 @@ export async function loadDailyReports(): Promise<DailyReport[]> {
   }
 
   try {
-    const basePath = `${base}data/daily-reports.json`.replace(/([^:]\/)\/+/g, "$1");
-    const staticUrl = typeof __BUILD_TS__ !== "undefined" ? `${basePath}?v=${__BUILD_TS__}` : basePath;
+    // 线上 base 为 /stablecoin-intel/，静态文件需在 base 下；本地 base 为 / 时用 /data/...
+    const dataPath = base && base !== "/" ? `${base.replace(/\/$/, "")}/data/daily-reports.json` : "/data/daily-reports.json";
+    const staticUrl = typeof __BUILD_TS__ !== "undefined" ? `${dataPath}?v=${__BUILD_TS__}` : dataPath;
     const staticRes = await fetch(staticUrl);
     if (staticRes.ok) {
       const data = await staticRes.json();

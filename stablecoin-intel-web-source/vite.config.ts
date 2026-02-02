@@ -1,7 +1,6 @@
 import { jsxLocPlugin } from "@builder.io/vite-plugin-jsx-loc";
 import tailwindcss from "@tailwindcss/vite";
 import react from "@vitejs/plugin-react";
-import { createRequire } from "node:module";
 import fs from "node:fs";
 import path from "node:path";
 import { defineConfig, type Plugin, type ViteDevServer } from "vite";
@@ -42,6 +41,50 @@ function listWeeklyReports(): { id: string; date: string; title: string; summary
 // =============================================================================
 // /api/reports - serve daily reports from docs/daily-reports.js
 // =============================================================================
+function loadDailyReportsFromFile(): { dailyReports: unknown[] } {
+  try {
+    if (!fs.existsSync(REPORTS_JS)) {
+      return { dailyReports: [] };
+    }
+    const content = fs.readFileSync(REPORTS_JS, "utf-8");
+    const start = content.indexOf("[");
+    if (start < 0) return { dailyReports: [] };
+    let depth = 0;
+    let inString: string | null = null;
+    let escape = false;
+    for (let i = start; i < content.length; i++) {
+      const c = content[i];
+      if (escape) {
+        escape = false;
+        continue;
+      }
+      if (c === "\\" && inString) {
+        escape = true;
+        continue;
+      }
+      if (inString) {
+        if (c === inString) inString = null;
+        continue;
+      }
+      if (c === '"') {
+        inString = '"';
+        continue;
+      }
+      if (c === "[") depth++;
+      else if (c === "]") {
+        depth--;
+        if (depth === 0) {
+          const arr = JSON.parse(content.slice(start, i + 1));
+          return { dailyReports: Array.isArray(arr) ? arr : [] };
+        }
+      }
+    }
+  } catch (e) {
+    console.warn("[reports-api] Parse error:", e);
+  }
+  return { dailyReports: [] };
+}
+
 function vitePluginReportsApi(): Plugin {
   return {
     name: "reports-api",
@@ -49,17 +92,10 @@ function vitePluginReportsApi(): Plugin {
       server.middlewares.use("/api/reports", (_req, res, next) => {
         if ((_req as any).method !== "GET") return next();
         try {
-          const require = createRequire(import.meta.url);
-          // 每次请求清除缓存，使本地运行 daily_job_v2.py 更新 docs/daily-reports.js 后无需重启 dev server
-          try {
-            const resolved = require.resolve(REPORTS_JS);
-            if (require.cache[resolved]) delete require.cache[resolved];
-          } catch {
-            /* ignore */
-          }
-          const data = require(REPORTS_JS);
+          const data = loadDailyReportsFromFile();
+          const list = data.dailyReports || [];
           res.setHeader("Content-Type", "application/json");
-          res.end(JSON.stringify({ dailyReports: data.dailyReports || [] }));
+          res.end(JSON.stringify({ dailyReports: list }));
         } catch (e) {
           console.warn("[reports-api] Failed to load docs/daily-reports.js:", e);
           res.writeHead(500, { "Content-Type": "application/json" });
