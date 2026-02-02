@@ -59,6 +59,14 @@ jobs:
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
 
+          # 先拉取远程最新变更，避免推送冲突
+          git fetch origin main
+          git rebase origin/main || {
+            echo "⚠️ Rebase failed, trying merge strategy..."
+            git rebase --abort 2>/dev/null || true
+            git pull --no-rebase origin main --allow-unrelated-histories || true
+          }
+
           git add data/
           git add reports/
           git add docs/daily-reports.js
@@ -68,7 +76,17 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "📊 Daily data: $(date +'%Y-%m-%d')"
-            git push "https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git" HEAD:main
+            # 重试推送逻辑（最多 3 次）
+            for i in 1 2 3; do
+              if git push "https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git" HEAD:main; then
+                echo "✅ Push succeeded on attempt $i"
+                break
+              else
+                echo "⚠️ Push failed on attempt $i, pulling and retrying..."
+                git pull --rebase origin main || true
+                sleep 5
+              fi
+            done
           fi
 
       - name: Summary

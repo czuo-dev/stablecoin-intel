@@ -51,6 +51,8 @@ jobs:
           VITE_FIREBASE_APP_ID: ${{ secrets.VITE_FIREBASE_APP_ID }}
         run: |
           cd stablecoin-intel-web-source
+          # 允许 pnpm 运行 esbuild 等必要的 postinstall 脚本
+          pnpm config set enable-pre-post-scripts true
           pnpm install --frozen-lockfile
           pnpm exec vite build
 

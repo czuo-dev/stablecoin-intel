@@ -298,6 +298,83 @@ class ContentFilter:
 
         return filtered
 
+    def filter_irrelevant_news(self, news: List[Dict]) -> List[Dict]:
+        """
+        过滤与加密货币/稳定币行业完全无关的新闻
+
+        很多 NewsAPI 结果因为关键词匹配到了无关内容（如 copper 匹配到矿业新闻）
+        """
+        # 必须包含至少一个的关键词（加密货币/区块链/金融科技相关）
+        crypto_keywords = {
+            # 核心加密货币关键词
+            'crypto', 'cryptocurrency', 'bitcoin', 'btc', 'ethereum', 'eth',
+            'blockchain', 'web3', 'defi', 'nft', 'token', 'wallet',
+            # 稳定币相关
+            'stablecoin', 'usdc', 'usdt', 'tether', 'circle', 'paxos', 'dai',
+            # 托管和交易所
+            'custody', 'custodian', 'exchange', 'trading', 'binance', 'coinbase',
+            'fireblocks', 'bitgo', 'anchorage', 'safeheron', 'cobo',
+            # 支付和金融
+            'digital asset', 'digital currency', 'cbdc', 'payment',
+            'cross-border', 'remittance', 'settlement',
+            # 监管
+            'sec', 'cftc', 'finra', 'regulation', 'compliance', 'license',
+            'aml', 'kyc', 'money transmitter',
+            # 技术
+            'mpc', 'multi-party computation', 'smart contract', 'layer 2',
+            # 中文关键词
+            '加密', '区块链', '稳定币', '数字资产', '托管', '合规', '牌照',
+        }
+
+        # 排除的无关领域关键词（如果标题/描述中主要是这些词，则排除）
+        irrelevant_keywords = {
+            # 矿业/金属（容易与 crypto mining 混淆）
+            'copper mining', 'gold mining', 'silver mining', 'iron ore',
+            'metal stocks', 'nifty metal', 'hindustan copper', 'vedanta',
+            # 体育
+            'golf', 'football', 'basketball', 'soccer', 'tennis', 'baseball',
+            'nba', 'nfl', 'mlb', 'sports', 'athlete', 'championship',
+            # 医疗/科学（非金融科技）
+            'cancer', 'tumor', 'clinical', 'patient', 'disease', 'therapy',
+            'surgery', 'hospital', 'medical', 'colorectal', 'tissue',
+            # 农业/动物
+            'alpaca', 'livestock', 'farming', 'agriculture', 'crop',
+            # 化学/材料（非区块链相关）
+            'palladium', 'catalysis', 'synthesis', 'molecular', 'heterostructure',
+            # 其他无关领域
+            'statue', 'sculpture', 'art gallery', 'museum',
+        }
+
+        filtered = []
+        excluded_count = 0
+
+        for item in news:
+            title = (item.get('title') or '').lower()
+            description = (item.get('description') or '').lower()
+            text = f"{title} {description}"
+
+            # 检查是否包含任何加密货币相关关键词
+            has_crypto_keyword = any(kw in text for kw in crypto_keywords)
+
+            # 检查是否主要是无关内容
+            has_irrelevant_keyword = any(kw in text for kw in irrelevant_keywords)
+
+            # 如果有加密货币关键词，保留
+            if has_crypto_keyword:
+                filtered.append(item)
+            # 如果没有加密货币关键词且有无关关键词，排除
+            elif has_irrelevant_keyword:
+                excluded_count += 1
+                continue
+            # 如果都没有，保留（可能是通用金融新闻）
+            else:
+                filtered.append(item)
+
+        if excluded_count > 0:
+            print(f"🚫 排除无关新闻: {excluded_count} 条")
+
+        return filtered
+
     def deduplicate(self, items: List[Dict]) -> List[Dict]:
         """
         跨数据源去重
@@ -355,17 +432,22 @@ class ContentFilter:
         print("🧹 内容质量过滤")
         print("=" * 60)
 
-        # 1. 过滤 Twitter
+        # 1. 过滤无关新闻（NewsAPI/RSS 经常匹配到无关内容）
+        print(f"\n📰 新闻过滤（原 {len(news)} 条）:")
+        filtered_news = self.filter_irrelevant_news(news)
+        print(f"   保留: {len(filtered_news)} 条")
+
+        # 2. 过滤 Twitter
         filtered_tweets = self.filter_tweets(tweets)
 
-        # 2. 合并
-        all_items = news + filtered_tweets
+        # 3. 合并
+        all_items = filtered_news + filtered_tweets
 
-        # 3. 去重
+        # 4. 去重
         unique_items = self.deduplicate(all_items)
 
         print(f"\n📊 最终结果: {len(unique_items)} 条")
-        print(f"   新闻: {len(news)} 条")
+        print(f"   新闻: {len(filtered_news)} 条（原 {len(news)} 条）")
         print(f"   推文: {len(filtered_tweets)} 条（原 {len(tweets)} 条）")
         print("=" * 60 + "\n")
 

@@ -244,12 +244,8 @@ class TwitterAPIioCollector:
                             all_tweets.append(normalized)
                             new_count += 1
                     except:
-                        # 如果时间解析失败，仍然添加
-                        seen_ids.add(tweet_id)
-                        normalized = self.normalize_tweet(tweet)
-                        normalized["search_keyword"] = keyword
-                        all_tweets.append(normalized)
-                        new_count += 1
+                        # 时间解析失败时跳过，不保留可能很旧的推文
+                        continue
 
             print(f"✓ {new_count} 条")
             time.sleep(0.5)  # 避免请求过快
@@ -294,7 +290,8 @@ class TwitterAPIioCollector:
                     if tweet_time.replace(tzinfo=None) < cutoff_time:
                         continue
                 except Exception:
-                    pass  # 解析失败时保留，避免丢数
+                    # 时间解析失败时跳过，不保留可能很旧的推文
+                    continue
                 normalized = self.normalize_tweet(tweet)
                 normalized["monitored_account"] = username
                 all_tweets.append(normalized)
