@@ -40,12 +40,15 @@ jobs:
           [ -z "$REPORTS_SUBDIR" ] && echo "No reports dir found" && exit 0
           WEEK_DATE=$(basename "$REPORTS_SUBDIR")
           YEAR=$(echo "$WEEK_DATE" | cut -d'-' -f1)
-          WEEK=$(date -d "$WEEK_DATE" +%V)
+          # 使用 Python 计算周数，避免 date 命令兼容性问题
+          WEEK=$(python3 -c "from datetime import datetime; print(datetime.strptime('$WEEK_DATE', '%Y-%m-%d').isocalendar()[1])")
+          WEEK=$(printf "%02d" "$WEEK")
           mkdir -p reports/weekly
-          [ -f "$REPORTS_SUBDIR/weekly_report_zh_v2.md" ] && cp "$REPORTS_SUBDIR/weekly_report_zh_v2.md" "reports/weekly/weekly_zh_${YEAR}_W${WEEK}_${WEEK_DATE}.md"
-          [ -f "$REPORTS_SUBDIR/weekly_report_en_v2.md" ] && cp "$REPORTS_SUBDIR/weekly_report_en_v2.md" "reports/weekly/weekly_en_${YEAR}_W${WEEK}_${WEEK_DATE}.md"
-          [ -f "$REPORTS_SUBDIR/weekly_report_es_v2.md" ] && cp "$REPORTS_SUBDIR/weekly_report_es_v2.md" "reports/weekly/weekly_es_${YEAR}_W${WEEK}_${WEEK_DATE}.md"
-          echo "Copied to reports/weekly/ (YEAR=$YEAR WEEK=$WEEK DATE=$WEEK_DATE)"
+          echo "Processing: YEAR=$YEAR WEEK=W$WEEK DATE=$WEEK_DATE"
+          [ -f "$REPORTS_SUBDIR/weekly_report_zh_v2.md" ] && cp "$REPORTS_SUBDIR/weekly_report_zh_v2.md" "reports/weekly/weekly_zh_${YEAR}_W${WEEK}_${WEEK_DATE}.md" && echo "  ✓ Copied zh"
+          [ -f "$REPORTS_SUBDIR/weekly_report_en_v2.md" ] && cp "$REPORTS_SUBDIR/weekly_report_en_v2.md" "reports/weekly/weekly_en_${YEAR}_W${WEEK}_${WEEK_DATE}.md" && echo "  ✓ Copied en"
+          [ -f "$REPORTS_SUBDIR/weekly_report_es_v2.md" ] && cp "$REPORTS_SUBDIR/weekly_report_es_v2.md" "reports/weekly/weekly_es_${YEAR}_W${WEEK}_${WEEK_DATE}.md" && echo "  ✓ Copied es"
+          ls -la reports/weekly/ | tail -10
       
       - name: Convert to HTML and update website
         run: |
