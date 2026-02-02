@@ -397,6 +397,9 @@ def daily_pipeline_v2(date_str=None):
     classifier = BusinessClassifier(api_key=OPENAI_API_KEY)
     categorized_data = classifier.classify_batch(all_items, use_ai=True)
 
+    # 根据业务相关性打分过滤低相关性内容（阈值 0.5）
+    categorized_data = classifier.filter_by_relevance(categorized_data, min_score=0.5)
+
     # 客户进展只保留 config 中的客户（白名单过滤），其余移到行业进展
     keywords_config = load_keywords_config()
     filter_clients_by_allowlist(categorized_data, keywords_config)

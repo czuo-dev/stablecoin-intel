@@ -220,19 +220,28 @@ class BusinessClassifier:
         company_name, focus_regions = self._get_company_context()
         regions_str = "、".join(focus_regions) if focus_regions else "（无）"
 
-        prompt = f"""分析以下稳定币/加密货币行业新闻，进行分类。
+        prompt = f"""分析以下新闻，判断其与 {company_name}（稳定币托管/支付业务）的相关性并分类。
 
 标题: {title}
 内容: {description[:500]}
 
-请分类到以下三个类别之一：
-1. competitors（竞争对手）- 关于 {competitor_desc} 等托管/支付基础设施公司的动态。注意：如果新闻主角是这些竞争对手公司（即使他们在服务其他公司），都应该归类为 competitors。
-2. clients（客户进展）- 仅当新闻明确涉及以下客户公司之一时才归为 clients：{client_desc}。若涉及公司不在该列表中，归为 industry。
-3. industry（行业进展）- 关于监管政策、市场趋势、融资事件、技术发展等行业整体动态
+**首先判断业务相关性（最重要）**：
+- 1.0 (高度相关): 直接提到竞争对手、目标客户、稳定币托管/支付、MPC/多签技术、{regions_str}地区加密监管
+- 0.7-0.9 (相关): 加密货币监管、交易所动态、区块链基础设施、跨境支付
+- 0.5-0.6 (间接相关): 一般加密货币新闻、DeFi、Web3
+- 0.2-0.4 (弱相关): 仅提到比特币价格、一般金融科技、科技公司动态
+- 0.0-0.1 (无关): 矿业、体育、医疗、农业、一般科学研究、与加密货币无关的内容
 
-请以 JSON 格式回复，根据不同类别返回不同字段：
+**然后分类到以下类别**：
+1. competitors（竞争对手）- 关于 {competitor_desc} 等托管/支付基础设施公司的动态
+2. clients（客户进展）- 仅当明确涉及以下客户：{client_desc}
+3. industry（行业进展）- 监管政策、市场趋势、融资事件、技术发展等
+
+请以 JSON 格式回复：
 
 {{
+    "business_relevance": 0.0-1.0,
+    "relevance_reason": "简述相关原因（中文，10字内）",
     "category": "competitors/clients/industry",
     "confidence": 0.0-1.0,
     "mentioned_companies": ["公司名"],
@@ -255,11 +264,7 @@ class BusinessClassifier:
     "industry_action": "需要采取的行动（中文，一句话，如无则留空）"
 }}
 
-注意：
-- competitors: threat_level 高=直接威胁核心业务, 中=间接影响, 低=需关注但影响有限
-- clients: opportunity_level 高=明确合作/销售机会, 中=潜在需求, 低=信息参考
-- industry: 本报告为 **{company_name}** 编制；关注地区包括 **{regions_str}**（牌照与监管动态）。relevance_level 高=与 {company_name} 直接相关（如：托管/MPC、上述地区监管与牌照、我们所在赛道）；中=间接相关；低=行业背景信息，与 {company_name} 关系不大。请严格区分，多数行业新闻应为中或低，只有明确涉及托管/MPC 或上述地区监管与牌照等才标高。
-- 每个类别只返回该类别对应的额外字段"""
+**重要**：business_relevance 打分要严格！与加密货币/稳定币/托管完全无关的内容（如矿业股票、体育、医疗科研）应该给 0.0-0.1 分。"""
 
         try:
             response = self.client.chat.completions.create(
@@ -367,6 +372,9 @@ class BusinessClassifier:
                 "mentioned_companies": classification.get("mentioned_companies", []),
                 "importance_score": classification.get("importance", 5),
                 "ai_summary": classification.get("summary", ""),
+                # 业务相关性打分（用于过滤）
+                "business_relevance": classification.get("business_relevance", 1.0),
+                "relevance_reason": classification.get("relevance_reason", ""),
                 # 竞争对手影响分析
                 "threat_level": classification.get("threat_level", ""),
                 "impact_areas": classification.get("impact_areas", []),
@@ -405,6 +413,56 @@ class BusinessClassifier:
         print(f"   行业进展: {len(results['industry'])} 条")
 
         return results
+
+    def filter_by_relevance(self, categorized_data: Dict, min_score: float = 0.5) -> Dict:
+        """
+        根据 business_relevance 分数过滤低相关性内容
+
+        Args:
+            categorized_data: AI 分类后的数据 {"competitors": [...], "clients": [...], "industry": [...]}
+            min_score: 最低相关性阈值（默认 0.5）
+
+        Returns:
+            过滤后的数据，结构相同
+        """
+        filtered = {}
+        removed_count = 0
+        removed_items = []
+
+        for category in ['competitors', 'clients', 'industry']:
+            items = categorized_data.get(category, [])
+            kept = []
+            for item in items:
+                score = item.get('business_relevance', 1.0)  # 默认保留（向后兼容）
+                if score >= min_score:
+                    kept.append(item)
+                else:
+                    removed_count += 1
+                    removed_items.append({
+                        'title': item.get('title', '')[:50],
+                        'score': score,
+                        'reason': item.get('relevance_reason', 'N/A')
+                    })
+            filtered[category] = kept
+
+        # 打印过滤统计
+        print(f"\n🎯 业务相关性过滤 (阈值: {min_score}):")
+        print(f"   移除: {removed_count} 条低相关性内容")
+        if removed_items and removed_count <= 10:
+            print(f"   移除的内容:")
+            for item in removed_items[:10]:
+                print(f"      - [{item['score']:.1f}] {item['title']}... ({item['reason']})")
+        elif removed_count > 10:
+            print(f"   移除的内容 (仅显示前10条):")
+            for item in removed_items[:10]:
+                print(f"      - [{item['score']:.1f}] {item['title']}... ({item['reason']})")
+
+        print(f"\n📊 过滤后统计:")
+        print(f"   竞争对手: {len(filtered.get('competitors', []))} 条")
+        print(f"   客户进展: {len(filtered.get('clients', []))} 条")
+        print(f"   行业进展: {len(filtered.get('industry', []))} 条")
+
+        return filtered
 
 
 # 测试
