@@ -50,6 +50,37 @@ class TwitterAPIioCollector:
         self.tweet_count = 0
         self.budget_exceeded = False
 
+    def _parse_twitter_time(self, time_str: str) -> Optional[datetime]:
+        """
+        解析 Twitter 时间格式
+        支持:
+        - ISO 格式: 2026-02-02T10:38:31Z
+        - Twitter 格式: Mon Feb 02 10:38:31 +0000 2026
+        """
+        if not time_str:
+            return None
+
+        # 尝试 ISO 格式
+        try:
+            return datetime.fromisoformat(time_str.replace("Z", "+00:00")).replace(tzinfo=None)
+        except:
+            pass
+
+        # 尝试 Twitter 格式: "Mon Feb 02 10:38:31 +0000 2026"
+        try:
+            from email.utils import parsedate_to_datetime
+            return parsedate_to_datetime(time_str).replace(tzinfo=None)
+        except:
+            pass
+
+        # 尝试另一种 Twitter 格式
+        try:
+            return datetime.strptime(time_str, "%a %b %d %H:%M:%S %z %Y").replace(tzinfo=None)
+        except:
+            pass
+
+        return None
+
     def _check_budget(self) -> bool:
         """检查是否超出预算"""
         current_cost = self.tweet_count * self.COST_PER_TWEET
@@ -236,16 +267,20 @@ class TwitterAPIioCollector:
                     # 检查时间
                     created_at = tweet.get("createdAt", "")
                     try:
-                        tweet_time = datetime.fromisoformat(created_at.replace("Z", "+00:00"))
-                        if tweet_time.replace(tzinfo=None) >= cutoff_time:
+                        tweet_time = self._parse_twitter_time(created_at)
+                        if tweet_time and tweet_time >= cutoff_time:
                             seen_ids.add(tweet_id)
                             normalized = self.normalize_tweet(tweet)
                             normalized["search_keyword"] = keyword
                             all_tweets.append(normalized)
                             new_count += 1
                     except:
-                        # 时间解析失败时跳过，不保留可能很旧的推文
-                        continue
+                        # 时间解析失败时仍保留推文（可能是最近的）
+                        seen_ids.add(tweet_id)
+                        normalized = self.normalize_tweet(tweet)
+                        normalized["search_keyword"] = keyword
+                        all_tweets.append(normalized)
+                        new_count += 1
 
             print(f"✓ {new_count} 条")
             time.sleep(0.5)  # 避免请求过快
@@ -285,13 +320,13 @@ class TwitterAPIioCollector:
             for tweet in tweets:
                 created_at = tweet.get("createdAt", "")
                 try:
-                    tweet_time = datetime.fromisoformat(created_at.replace("Z", "+00:00"))
+                    tweet_time = self._parse_twitter_time(created_at)
                     # 与 collect_by_keywords 一致：只保留 cutoff_time 之后的推文
-                    if tweet_time.replace(tzinfo=None) < cutoff_time:
+                    if tweet_time and tweet_time < cutoff_time:
                         continue
                 except Exception:
-                    # 时间解析失败时跳过，不保留可能很旧的推文
-                    continue
+                    # 时间解析失败时仍保留（可能是最近的推文）
+                    pass
                 normalized = self.normalize_tweet(tweet)
                 normalized["monitored_account"] = username
                 all_tweets.append(normalized)
