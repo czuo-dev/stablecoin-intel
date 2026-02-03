@@ -43,6 +43,8 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
           TWITTERAPI_IO_KEY: ${{ secrets.TWITTERAPI_IO_KEY }}
+          # 无数据时用示例数据跑通 pipeline，确保仍会生成 docs/daily-reports.js 并触发前端部署
+          USE_MOCK_IF_EMPTY: "1"
         run: |
           # 使用 V2 版本（新分类系统）
           if [ -f "scripts/daily_job_v2.py" ]; then
@@ -69,8 +71,9 @@ jobs:
 
           git add data/
           git add reports/
-          git add docs/daily-reports.js
-          git add docs/reports/daily/
+          # 仅当日报 pipeline 成功生成时才有这些文件，不存在则不 add，避免报错
+          [ -f docs/daily-reports.js ] && git add docs/daily-reports.js || true
+          [ -d docs/reports/daily ] && git add docs/reports/daily/ || true
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
@@ -117,7 +120,7 @@ jobs:
 
       # 如果配置了邮件通知（需要设置 NOTIFY_EMAIL secret）
       - name: Send email notification
-        if: ${{ secrets.NOTIFY_EMAIL != '' }}
+        if: vars.NOTIFY_EMAIL != ''
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
@@ -125,7 +128,7 @@ jobs:
           username: ${{ secrets.SMTP_USERNAME }}
           password: ${{ secrets.SMTP_PASSWORD }}
           subject: "❌ Stablecoin Intel 日报生成失败 - ${{ github.run_id }}"
-          to: ${{ secrets.NOTIFY_EMAIL }}
+          to: ${{ vars.NOTIFY_EMAIL }}
           from: Stablecoin Intel Bot
           body: |
             日报生成失败！
