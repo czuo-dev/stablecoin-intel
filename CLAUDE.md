@@ -3,15 +3,18 @@
 ## 项目概述
 稳定币行业情报收集和分析系统，自动收集 Twitter、RSS、新闻等数据源，进行 AI 分类和报告生成。
 
-## 每日提醒
+## 自动化监控
 
-### 10:30 AM SGT - 检查日报生成
-每天早上 10:30 运行 `/check-daily` 检查今日日报是否成功生成。
+### 日报生成监控
+- **10:00 AM SGT** - `daily-collect.yml` 自动运行
+- **失败时** - GitHub Actions 会在 Summary 中记录失败原因
+- **可选邮件通知** - 配置以下 Secrets 后自动发送失败邮件：
+  - `NOTIFY_EMAIL` - 接收通知的邮箱
+  - `SMTP_USERNAME` - Gmail 用户名
+  - `SMTP_PASSWORD` - Gmail 应用密码
 
-工作流时间表：
-- 10:00 AM SGT - Daily Data Collection 运行
-- 10:30 AM SGT - 检查日报是否生成成功
-- 如果失败，诊断原因并修复
+### 手动检查（如需要）
+运行 `/check-daily` 检查今日日报是否成功生成并诊断问题。
 
 ## 可用命令 (Skills)
 
