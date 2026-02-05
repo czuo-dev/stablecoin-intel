@@ -275,7 +275,7 @@ class BusinessClassifier:
 {{
     "business_relevance": 0.0-1.0,
     "relevance_reason": "简述相关原因（中文，10字内）",
-    "category": "competitors/clients/industry",
+    "category": "competitors",
     "confidence": 0.0-1.0,
     "mentioned_companies": ["公司名"],
     "importance": 1-10,
@@ -297,7 +297,8 @@ class BusinessClassifier:
     "industry_action": "需要采取的行动（中文，一句话，如无则留空）"
 }}
 
-**重要**：business_relevance 打分要严格！与加密货币/稳定币/托管完全无关的内容（如矿业股票、体育、医疗科研）应该给 0.0-0.1 分。"""
+**重要**：business_relevance 打分要严格！与加密货币/稳定币/托管完全无关的内容（如矿业股票、体育、医疗科研）应该给 0.0-0.1 分。
+**category 必须且只能是以下三个值之一**：competitors、clients、industry（不要输出其它文字）。"""
 
         try:
             response = self.client.chat.completions.create(
@@ -316,6 +317,14 @@ class BusinessClassifier:
                 result_text = result_text.split("```")[1].split("```")[0]
 
             result = json.loads(result_text)
+
+            # 规范化 category：只允许 competitors / clients / industry
+            raw_cat = (result.get("category") or "industry").strip().lower()
+            if raw_cat in ("competitors", "clients", "industry"):
+                result["category"] = raw_cat
+            else:
+                # 模型可能返回 "competitors/clients/industry" 等歧义值，归为行业进展
+                result["category"] = "industry"
 
             # 添加中文分类名
             category_map = {
@@ -423,6 +432,8 @@ class BusinessClassifier:
             })
 
             category = classification.get("category", "industry")
+            if category not in results:
+                category = "industry"
             results[category].append(item)
 
             # 显示分类结果，带等级图标
