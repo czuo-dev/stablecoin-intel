@@ -50,6 +50,7 @@ jobs:
           VITE_FIREBASE_AUTH_DOMAIN: ${{ secrets.VITE_FIREBASE_AUTH_DOMAIN }}
           VITE_FIREBASE_PROJECT_ID: ${{ secrets.VITE_FIREBASE_PROJECT_ID }}
           VITE_FIREBASE_APP_ID: ${{ secrets.VITE_FIREBASE_APP_ID }}
+          VITE_GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           cd stablecoin-intel-web-source
           # 允许 pnpm 运行 esbuild 等必要的 postinstall 脚本

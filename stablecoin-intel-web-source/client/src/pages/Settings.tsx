@@ -5,8 +5,14 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Switch } from "@/components/ui/switch";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { Bell, ListFilter, Save, Plus, Trash2, Loader2 } from "lucide-react";
+import { Bell, ListFilter, Save, Plus, Trash2, Loader2, Github } from "lucide-react";
 import { useState, useEffect } from "react";
+import { useAuth } from "@/contexts/AuthContext";
+import {
+  getGitHubToken,
+  fetchKeywordsFromGitHub,
+  saveKeywordsToGitHub,
+} from "@/lib/github-keywords";
 
 // Minimal type for config we read/write; rest is preserved as-is
 interface KeywordsConfig {
@@ -27,59 +33,105 @@ const defaultConfig: KeywordsConfig = {
   competitors: { tier_0_custody: [] },
 };
 
+type SaveStatus = "idle" | "saving" | "ok" | "ok_github" | "error";
+
 export default function Settings() {
+  const { user } = useAuth();
   const [config, setConfig] = useState<KeywordsConfig | null>(null);
   const [loading, setLoading] = useState(true);
   const [loadError, setLoadError] = useState<string | null>(null);
-  const [readOnlyStatic, setReadOnlyStatic] = useState(false);
-  const [saveStatus, setSaveStatus] = useState<"idle" | "saving" | "ok" | "error">("idle");
+  const [readOnly, setReadOnly] = useState(false);
+  const [saveStatus, setSaveStatus] = useState<SaveStatus>("idle");
   const [newKeyword, setNewKeyword] = useState("");
   const [newCompetitorName, setNewCompetitorName] = useState("");
   const [newCompetitorTwitter, setNewCompetitorTwitter] = useState("");
 
+  // SHA of the file on GitHub — needed for conflict-free commits
+  const [githubSha, setGithubSha] = useState<string | null>(null);
+  // Whether we loaded from GitHub API (vs local backend or static file)
+  const [usingGitHub, setUsingGitHub] = useState(false);
+
+  const ghToken = getGitHubToken();
+
+  // ── Load config ──────────────────────────────────────────────
   useEffect(() => {
     let cancelled = false;
     setLoading(true);
     setLoadError(null);
-    setReadOnlyStatic(false);
+    setReadOnly(false);
+    setUsingGitHub(false);
+
     const base = (typeof import.meta !== "undefined" && import.meta.env?.BASE_URL) || "";
+
+    // Priority 1: local backend API (dev / Express)
     fetch("/api/keywords")
       .then((r) => {
         if (!r.ok) throw new Error(r.statusText || "Failed to load");
         return r.json();
       })
       .then((data) => {
-        if (!cancelled) {
-          setConfig(data as KeywordsConfig);
-        }
+        if (!cancelled) setConfig(data as KeywordsConfig);
       })
       .catch(() => {
         if (cancelled) return;
-        const staticUrl = `${base}data/keywords.json`.replace(/([^:]\/)\/+/g, "$1");
-        return fetch(staticUrl).then((r) => {
-          if (!r.ok) throw new Error("Static config not found");
-          return r.json();
-        }).then((data) => {
-          if (!cancelled) {
-            setConfig(data as KeywordsConfig);
-            setReadOnlyStatic(true);
-          }
-        }).catch((e) => {
-          if (!cancelled) {
-            setLoadError(e instanceof Error ? e.message : "Unable to load keyword config. On static site, ensure data/keywords.json is deployed.");
-            setConfig(null);
-          }
-        });
+
+        // Priority 2: GitHub API (production with GH_PAT)
+        if (ghToken) {
+          return fetchKeywordsFromGitHub<KeywordsConfig>(ghToken)
+            .then(({ config: cfg, sha }) => {
+              if (!cancelled) {
+                setConfig(cfg);
+                setGithubSha(sha);
+                setUsingGitHub(true);
+              }
+            })
+            .catch(() => {
+              // fall through to static
+              if (cancelled) return;
+              return loadStatic();
+            });
+        }
+
+        // Priority 3: static JSON (read-only)
+        return loadStatic();
+
+        function loadStatic() {
+          const staticUrl = `${base}data/keywords.json`.replace(/([^:]\/)\/+/g, "$1");
+          return fetch(staticUrl)
+            .then((r) => {
+              if (!r.ok) throw new Error("Static config not found");
+              return r.json();
+            })
+            .then((data) => {
+              if (!cancelled) {
+                setConfig(data as KeywordsConfig);
+                setReadOnly(true);
+              }
+            })
+            .catch((e) => {
+              if (!cancelled) {
+                setLoadError(
+                  e instanceof Error
+                    ? e.message
+                    : "Unable to load keyword config.",
+                );
+                setConfig(null);
+              }
+            });
+        }
       })
       .finally(() => {
         if (!cancelled) setLoading(false);
       });
-    return () => { cancelled = true; };
-  }, []);
 
+    return () => { cancelled = true; };
+  }, [ghToken]);
+
+  // ── Derived state ────────────────────────────────────────────
   const primaryKeywords = config?.search_keywords?.primary ?? [];
   const competitors = config?.competitors?.tier_0_custody ?? [];
 
+  // ── Keyword CRUD ─────────────────────────────────────────────
   const addKeyword = () => {
     const t = newKeyword.trim();
     if (!t || !config) return;
@@ -94,6 +146,7 @@ export default function Settings() {
     setConfig({ ...config, search_keywords: { ...config.search_keywords, primary: next } });
   };
 
+  // ── Competitor CRUD ──────────────────────────────────────────
   const addCompetitor = () => {
     const name = newCompetitorName.trim();
     if (!name || !config) return;
@@ -115,27 +168,59 @@ export default function Settings() {
     setConfig({ ...config, competitors: { ...config.competitors, tier_0_custody: list } });
   };
 
+  // ── Save config ──────────────────────────────────────────────
   const saveConfig = async () => {
     if (!config) return;
     setSaveStatus("saving");
+
     try {
-      const res = await fetch("/api/keywords", {
-        method: "PUT",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(config),
-      });
-      if (!res.ok) {
-        const err = await res.json().catch(() => ({}));
-        throw new Error(err.error || res.statusText);
+      if (usingGitHub && ghToken && githubSha) {
+        // Production: commit to GitHub
+        await saveKeywordsToGitHub(ghToken, config, githubSha, user?.email ?? undefined);
+        // Re-fetch to get the new SHA for future saves
+        const { sha: newSha } = await fetchKeywordsFromGitHub(ghToken);
+        setGithubSha(newSha);
+        setSaveStatus("ok_github");
+        setTimeout(() => setSaveStatus("idle"), 4000);
+      } else {
+        // Dev: use local backend API
+        const res = await fetch("/api/keywords", {
+          method: "PUT",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(config),
+        });
+        if (!res.ok) {
+          const err = await res.json().catch(() => ({}));
+          throw new Error((err as Record<string, string>).error || res.statusText);
+        }
+        setSaveStatus("ok");
+        setTimeout(() => setSaveStatus("idle"), 2500);
       }
-      setSaveStatus("ok");
-      setTimeout(() => setSaveStatus("idle"), 2500);
     } catch (e) {
+      console.error("Save failed:", e);
       setSaveStatus("error");
       setTimeout(() => setSaveStatus("idle"), 3000);
     }
   };
 
+  // ── Save button label ────────────────────────────────────────
+  const saveLabel = (showGitHubHint = false) => {
+    if (readOnly) return "Read-only (no token)";
+    if (saveStatus === "saving") return "Saving...";
+    if (saveStatus === "ok") return "Saved";
+    if (saveStatus === "ok_github") return "Committed! Takes effect tomorrow";
+    if (saveStatus === "error") return "Save failed";
+    if (showGitHubHint && usingGitHub) return "Save & Commit to GitHub";
+    return "Save Changes";
+  };
+
+  const saveIcon = () => {
+    if (saveStatus === "saving") return <Loader2 className="w-4 h-4 mr-2 animate-spin" />;
+    if (usingGitHub && !readOnly) return <Github className="w-4 h-4 mr-2" />;
+    return <Save className="w-4 h-4 mr-2" />;
+  };
+
+  // ── Loading state ────────────────────────────────────────────
   if (loading) {
     return (
       <Layout>
@@ -164,9 +249,16 @@ export default function Settings() {
           </div>
         )}
 
-        {readOnlyStatic && (
+        {readOnly && (
           <div className="rounded-lg border border-blue-200 bg-blue-50 dark:border-blue-900/50 dark:bg-blue-900/10 px-4 py-3 text-sm text-blue-800 dark:text-blue-200">
-            Config is read-only on this site (no backend). Keywords and competitors are loaded from the deployed snapshot. To change them, edit <code className="bg-black/10 dark:bg-white/10 px-1 rounded">config/keywords.json</code> in the repo and redeploy.
+            Config is read-only (no GitHub token configured). To enable editing, ensure <code className="bg-black/10 dark:bg-white/10 px-1 rounded">GH_PAT</code> is set in repository Secrets and redeploy.
+          </div>
+        )}
+
+        {usingGitHub && (
+          <div className="rounded-lg border border-green-200 bg-green-50 dark:border-green-900/50 dark:bg-green-900/10 px-4 py-3 text-sm text-green-800 dark:text-green-200">
+            <Github className="w-4 h-4 inline mr-1.5 -mt-0.5" />
+            Connected to GitHub. Changes will be committed to the repository and take effect in the next daily collection.
           </div>
         )}
 
@@ -185,7 +277,7 @@ export default function Settings() {
                   Tracked Keywords
                 </CardTitle>
                 <CardDescription>
-                  The system scans for these terms across global news sources. Stored in config/keywords.json (search_keywords.primary).
+                  The system scans for these terms across global news sources. Changes take effect in the next daily collection.
                 </CardDescription>
               </CardHeader>
               <CardContent>
@@ -196,8 +288,9 @@ export default function Settings() {
                     value={newKeyword}
                     onChange={(e) => setNewKeyword(e.target.value)}
                     onKeyDown={(e) => e.key === "Enter" && addKeyword()}
+                    disabled={readOnly}
                   />
-                  <Button variant="secondary" onClick={addKeyword} disabled={!effectiveConfig}>
+                  <Button variant="secondary" onClick={addKeyword} disabled={!effectiveConfig || readOnly}>
                     <Plus className="w-4 h-4 mr-2" /> Add
                   </Button>
                 </div>
@@ -205,7 +298,11 @@ export default function Settings() {
                   {primaryKeywords.map((keyword) => (
                     <div key={keyword} className="flex items-center gap-1 bg-secondary px-3 py-1.5 rounded-full text-sm font-medium">
                       {keyword}
-                      <button onClick={() => removeKeyword(keyword)} className="text-muted-foreground hover:text-destructive transition-colors ml-1">
+                      <button
+                        onClick={() => removeKeyword(keyword)}
+                        className="text-muted-foreground hover:text-destructive transition-colors ml-1"
+                        disabled={readOnly}
+                      >
                         <Trash2 className="w-3 h-3" />
                       </button>
                     </div>
@@ -213,9 +310,9 @@ export default function Settings() {
                 </div>
               </CardContent>
               <CardFooter className="bg-muted/50 border-t border-border/50 px-6 py-4">
-                <Button onClick={saveConfig} disabled={saveStatus === "saving" || !config || readOnlyStatic}>
-                  {saveStatus === "saving" ? <Loader2 className="w-4 h-4 mr-2 animate-spin" /> : <Save className="w-4 h-4 mr-2" />}
-                  {readOnlyStatic ? "Read-only (static site)" : saveStatus === "saving" ? "Saving..." : saveStatus === "ok" ? "Saved" : saveStatus === "error" ? "Save failed" : "Save Changes"}
+                <Button onClick={saveConfig} disabled={saveStatus === "saving" || !config || readOnly}>
+                  {saveIcon()}
+                  {saveLabel(true)}
                 </Button>
               </CardFooter>
             </Card>
@@ -237,6 +334,7 @@ export default function Settings() {
                       value={newCompetitorName}
                       onChange={(e) => setNewCompetitorName(e.target.value)}
                       onKeyDown={(e) => e.key === "Enter" && addCompetitor()}
+                      disabled={readOnly}
                     />
                   </div>
                   <div className="space-y-1">
@@ -246,9 +344,10 @@ export default function Settings() {
                       className="w-32"
                       value={newCompetitorTwitter}
                       onChange={(e) => setNewCompetitorTwitter(e.target.value)}
+                      disabled={readOnly}
                     />
                   </div>
-                  <Button variant="secondary" onClick={addCompetitor} disabled={!newCompetitorName.trim() || !config}>
+                  <Button variant="secondary" onClick={addCompetitor} disabled={!newCompetitorName.trim() || !config || readOnly}>
                     <Plus className="w-4 h-4 mr-2" /> Add
                   </Button>
                 </div>
@@ -259,7 +358,11 @@ export default function Settings() {
                         <span className="font-medium">{c.name}</span>
                         {c.twitter && <span className="text-muted-foreground text-sm ml-2">@{c.twitter.replace(/^@/, "")}</span>}
                       </div>
-                      <button onClick={() => removeCompetitor(i)} className="text-muted-foreground hover:text-destructive transition-colors p-1">
+                      <button
+                        onClick={() => removeCompetitor(i)}
+                        className="text-muted-foreground hover:text-destructive transition-colors p-1"
+                        disabled={readOnly}
+                      >
                         <Trash2 className="w-4 h-4" />
                       </button>
                     </div>
@@ -267,9 +370,9 @@ export default function Settings() {
                 </div>
               </CardContent>
               <CardFooter className="bg-muted/50 border-t border-border/50 px-6 py-4">
-                <Button onClick={saveConfig} disabled={saveStatus === "saving" || !config || readOnlyStatic}>
-                  {saveStatus === "saving" ? <Loader2 className="w-4 h-4 mr-2 animate-spin" /> : <Save className="w-4 h-4 mr-2" />}
-                  {readOnlyStatic ? "Read-only (static site)" : "Save Changes"}
+                <Button onClick={saveConfig} disabled={saveStatus === "saving" || !config || readOnly}>
+                  {saveIcon()}
+                  {saveLabel()}
                 </Button>
               </CardFooter>
             </Card>
@@ -312,8 +415,6 @@ export default function Settings() {
               </CardContent>
             </Card>
           </TabsContent>
-
-
         </Tabs>
       </div>
     </Layout>
