@@ -5,7 +5,7 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Switch } from "@/components/ui/switch";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { Bell, Key, ListFilter, Save, Plus, Trash2, Loader2 } from "lucide-react";
+import { Bell, ListFilter, Save, Plus, Trash2, Loader2 } from "lucide-react";
 import { useState, useEffect } from "react";
 
 // Minimal type for config we read/write; rest is preserved as-is
@@ -171,10 +171,9 @@ export default function Settings() {
         )}
 
         <Tabs defaultValue="monitoring" className="w-full">
-          <TabsList className="grid w-full grid-cols-3 max-w-[400px] mb-8">
+          <TabsList className="grid w-full grid-cols-2 max-w-[400px] mb-8">
             <TabsTrigger value="monitoring">Monitoring</TabsTrigger>
             <TabsTrigger value="notifications">Notifications</TabsTrigger>
-            <TabsTrigger value="api">API Access</TabsTrigger>
           </TabsList>
 
           {/* Monitoring Settings */}
@@ -314,32 +313,7 @@ export default function Settings() {
             </Card>
           </TabsContent>
 
-          {/* API Settings */}
-          <TabsContent value="api">
-            <Card>
-              <CardHeader>
-                <CardTitle className="flex items-center gap-2">
-                  <Key className="w-5 h-5" />
-                  API Configuration
-                </CardTitle>
-                <CardDescription>
-                  Manage API keys for external integrations.
-                </CardDescription>
-              </CardHeader>
-              <CardContent className="space-y-4">
-                <div className="space-y-2">
-                  <Label>Current API Key</Label>
-                  <div className="flex gap-2">
-                    <Input value="sk_live_51M...92xP" readOnly className="font-mono bg-muted" />
-                    <Button variant="outline">Copy</Button>
-                  </div>
-                </div>
-                <div className="pt-4">
-                  <Button variant="destructive">Revoke Key</Button>
-                </div>
-              </CardContent>
-            </Card>
-          </TabsContent>
+
         </Tabs>
       </div>
     </Layout>
