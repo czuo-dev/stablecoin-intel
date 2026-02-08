@@ -25,7 +25,7 @@ Untitled
 
 # ===== Data files (local only) =====
 data/raw/*.json
-data/processed/*.json
+# data/processed/*.json — 不再忽略，周报聚合器需要读取日报分类数据
 data/rss/*.json
 
 # ===== IDE =====

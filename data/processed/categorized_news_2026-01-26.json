@@ -1,0 +1,97 @@
+{
+  "policy": [
+    {
+      "id": "news_5fe8a6047a5c",
+      "title": "Stablecoin volumes surge to $35 trillion, but real-world payments still lag at 1%?",
+      "content": "B2B saw $226 billion in stablecoin volumes, marking a +700% increase in 2025.",
+      "url": "https://ambcrypto.com/stablecoin-volumes-surge-to-35-trillion-but-real-world-payments-still-lag-at-1/",
+      "source": "Ambcrypto.com",
+      "source_type": "news",
+      "author": "Benjamin Njiri",
+      "published_at": "2026-01-25T00:00:21Z",
+      "categories": [
+        "policy"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Ambcrypto.com"
+        },
+        "author": "Benjamin Njiri",
+        "title": "Stablecoin volumes surge to $35 trillion, but real-world payments still lag at 1%?",
+        "description": "B2B saw $226 billion in stablecoin volumes, marking a +700% increase in 2025.",
+        "url": "https://ambcrypto.com/stablecoin-volumes-surge-to-35-trillion-but-real-world-payments-still-lag-at-1/",
+        "urlToImage": "https://ambcrypto.com/wp-content/uploads/2026/01/stablecoin-FI-growth--1000x600.jpg",
+        "publishedAt": "2026-01-25T00:00:21Z",
+        "content": "Since 2020, stablecoins have grown 76x and crossed $300 billion in supply. However, their volumes are still far from rivalling traditional payments. \r\nAccording to a recent report by Artemis and McKi… [+2766 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin market",
+        "source_quality": "medium"
+      },
+      "ai_confidence": 0.7,
+      "ai_tags": [
+        "稳定币",
+        "支付",
+        "市场动态",
+        "交易量",
+        "经济影响"
+      ],
+      "importance_score": 7,
+      "ai_reasoning": "文章讨论稳定币的市场表现与实际支付的对比，涉及行业政策与市场动态。"
+    }
+  ],
+  "company": [
+    {
+      "id": "news_e868f6eb4b71",
+      "title": "How Dangote is building multigenerational business legacy",
+      "content": "Discover how Aliko Dangote is building a lasting business legacy by preparing his three daughters to lead his multi-billion dollar industrial conglomerate.\n\nRead More: https://punchng.com/how-dangote-is-building-multigenerational-business-legacy/",
+      "url": "https://punchng.com/how-dangote-is-building-multigenerational-business-legacy/",
+      "source": "The Punch",
+      "source_type": "news",
+      "author": "Punch Newspapers",
+      "published_at": "2026-01-25T00:06:41Z",
+      "categories": [
+        "company"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Punch"
+        },
+        "author": "Punch Newspapers",
+        "title": "How Dangote is building multigenerational business legacy",
+        "description": "Discover how Aliko Dangote is building a lasting business legacy by preparing his three daughters to lead his multi-billion dollar industrial conglomerate.\n\nRead More: https://punchng.com/how-dangote-is-building-multigenerational-business-legacy/",
+        "url": "https://punchng.com/how-dangote-is-building-multigenerational-business-legacy/",
+        "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/01/24215549/Dangote--1200x630.jpg",
+        "publishedAt": "2026-01-25T00:06:41Z",
+        "content": "Billionaire businessman and founder of the Dangote Group, Aliko Dangote, has built his business empire deliberately while keeping succession and legacy firmly in view.\r\nOver several decades, Dangote … [+3156 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "digital dollar",
+        "source_quality": "medium"
+      },
+      "ai_confidence": 0.7,
+      "ai_tags": [
+        "Dangote",
+        "商业遗产",
+        "多代经营",
+        "企业战略",
+        "非稳定币"
+      ],
+      "importance_score": 6,
+      "ai_reasoning": "文章讨论Dangote的商业战略和遗产建设，属于公司动态类。"
+    }
+  ],
+  "funding": []
+}

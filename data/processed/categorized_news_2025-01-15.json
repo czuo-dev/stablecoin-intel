@@ -1,0 +1,50 @@
+{
+  "policy": [
+    {
+      "title": "Hong Kong Grants First Stablecoin License to Circle",
+      "description": "The Hong Kong Monetary Authority has issued its first stablecoin license under the new regulatory framework to Circle Internet Financial.",
+      "source": {"name": "Bloomberg"},
+      "publishedAt": "2025-01-15T10:00:00Z",
+      "url": "https://bloomberg.com/news/articles/2025-01-15/hk-stablecoin-license"
+    },
+    {
+      "title": "EU Finalizes MiCA Stablecoin Rules",
+      "description": "European Union regulators have completed the Markets in Crypto-Assets regulation specifically addressing stablecoin issuance and reserve requirements.",
+      "source": {"name": "Reuters"},
+      "publishedAt": "2025-01-14T14:30:00Z",
+      "url": "https://reuters.com/markets/currencies/eu-mica-stablecoins-2025-01-14"
+    },
+    {
+      "title": "Singapore MAS Updates Stablecoin Framework",
+      "description": "The Monetary Authority of Singapore has released updated guidelines for stablecoin issuers operating in the city-state.",
+      "source": {"name": "CoinDesk"},
+      "publishedAt": "2025-01-14T08:15:00Z",
+      "url": "https://coindesk.com/policy/2025/01/14/singapore-stablecoin-rules"
+    }
+  ],
+  "company": [
+    {
+      "title": "PayPal Expands PYUSD to European Markets",
+      "description": "PayPal has announced the expansion of its PYUSD stablecoin to several European countries, starting with Germany and France.",
+      "source": {"name": "The Block"},
+      "publishedAt": "2025-01-15T12:00:00Z",
+      "url": "https://theblock.co/post/273456/paypal-pyusd-europe"
+    },
+    {
+      "title": "Visa Partners with Circle on USDC Settlement",
+      "description": "Visa has expanded its partnership with Circle to enable direct USDC settlement for cross-border payments.",
+      "source": {"name": "Forbes"},
+      "publishedAt": "2025-01-14T16:45:00Z",
+      "url": "https://forbes.com/sites/digital-assets/visa-circle-usdc"
+    }
+  ],
+  "funding": [
+    {
+      "title": "Stablecoin Infrastructure Startup Raises $50M Series B",
+      "description": "Bridge, a stablecoin payments infrastructure company, has raised $50 million in Series B funding led by Sequoia Capital.",
+      "source": {"name": "Bloomberg"},
+      "publishedAt": "2025-01-15T09:00:00Z",
+      "url": "https://bloomberg.com/news/bridge-funding-50m"
+    }
+  ]
+}
