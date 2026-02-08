@@ -101,3 +101,88 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deploy
         uses: actions/deploy-pages@v4
+
+  # 部署后验证网站日报是否存在
+  verify:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for Pages CDN propagation
+        run: sleep 30
+
+      - name: Verify today's daily report on website
+        id: verify
+        run: |
+          TODAY=$(date -u +'%Y-%m-%d')
+          URL="https://czuo-dev.github.io/stablecoin-intel/data/daily-reports.json"
+          echo "Checking for report date: $TODAY"
+
+          # 下载 daily-reports.json
+          HTTP_CODE=$(curl -s -o /tmp/reports.json -w '%{http_code}' "$URL")
+          if [ "$HTTP_CODE" != "200" ]; then
+            echo "result=fail" >> $GITHUB_OUTPUT
+            echo "reason=daily-reports.json 返回 HTTP $HTTP_CODE" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          # 检查今日日报是否在 JSON 中
+          if python3 -c "
+          import json, sys
+          data = json.load(open('/tmp/reports.json'))
+          reports = data.get('dailyReports', [])
+          dates = [r.get('date','') for r in reports]
+          print(f'Found {len(reports)} reports, latest: {dates[0] if dates else \"none\"}')
+          if '$TODAY' in dates:
+              print('✅ Today report found')
+              sys.exit(0)
+          else:
+              print('❌ Today report NOT found')
+              sys.exit(1)
+          "; then
+            echo "result=pass" >> $GITHUB_OUTPUT
+          else
+            echo "result=fail" >> $GITHUB_OUTPUT
+            echo "reason=今日 ($TODAY) 日报未出现在网站 JSON 中" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Notify if verification failed
+        if: steps.verify.outputs.result == 'fail'
+        run: |
+          echo "## ⚠️ 网站日报验证失败" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- 日期: $(date -u +'%Y-%m-%d')" >> $GITHUB_STEP_SUMMARY
+          echo "- 原因: ${{ steps.verify.outputs.reason }}" >> $GITHUB_STEP_SUMMARY
+          echo "- 请检查：https://czuo-dev.github.io/stablecoin-intel/" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 排查步骤：" >> $GITHUB_STEP_SUMMARY
+          echo "1. 检查 daily-collect 是否成功推送了 docs/daily-reports.js" >> $GITHUB_STEP_SUMMARY
+          echo "2. 检查 extract_daily_reports_json.js 是否正确提取了 JSON" >> $GITHUB_STEP_SUMMARY
+          echo "3. 检查 GitHub Pages CDN 缓存是否过期" >> $GITHUB_STEP_SUMMARY
+
+      - name: Send email if verification failed
+        if: steps.verify.outputs.result == 'fail' && vars.NOTIFY_EMAIL != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "⚠️ 网站日报缺失 - $(date -u +'%Y-%m-%d')"
+          to: ${{ vars.NOTIFY_EMAIL }}
+          from: Stablecoin Intel Bot
+          body: |
+            网站部署成功，但今日日报未出现在前端！
+
+            原因: ${{ steps.verify.outputs.reason }}
+            网站: https://czuo-dev.github.io/stablecoin-intel/
+            工作流: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+            请检查并排查问题。
+
+      - name: Summary on success
+        if: steps.verify.outputs.result == 'pass'
+        run: |
+          echo "## ✅ 网站部署验证通过" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- 日期: $(date -u +'%Y-%m-%d')" >> $GITHUB_STEP_SUMMARY
+          echo "- 今日日报已在网站上确认可访问" >> $GITHUB_STEP_SUMMARY
