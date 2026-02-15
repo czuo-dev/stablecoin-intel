@@ -4,6 +4,815 @@
 
 const dailyReports = [
     {
+        "date": "2026-02-15",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-02-15.md",
+        "newsItems": [
+            {
+                "id": "2026-02-15-competitor-0",
+                "title": "Crypto holders:\nTired of funds stuck in wallets?!\n\nTrustLinq lets you pay in fiat worldwide, direct ",
+                "source": "Twitter @Trustlinq",
+                "date": "2026-02-15",
+                "url": "https://x.com/Trustlinq/status/2022697097263481307",
+                "category": "competitor",
+                "summary": "TrustLinq 提供稳定币支付服务，直接竞争 Cobo。",
+                "threatLevel": "medium",
+                "impact": [
+                    "产品竞争",
+                    "客户争夺",
+                    "市场定价"
+                ],
+                "action": "关注 TrustLinq 的市场动态，调整产品策略。",
+                "tickers": [
+                    "TrustLinq"
+                ]
+            },
+            {
+                "id": "2026-02-15-competitor-1",
+                "title": "@EdnStuff @LayerZero_Core Massively understood by most!\n\nIt appears to me from this partnership and ",
+                "source": "Twitter @IAGONAUTMANNY",
+                "date": "2026-02-15",
+                "url": "https://x.com/IAGONAUTMANNY/status/2022757362235510854",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-02-15-competitor-2",
+                "title": "$H isn’t just on fire socially, the structure actually looks very healthy 🤔\n\nI told y'all about @Hum",
+                "source": "Twitter @wallstreetbets",
+                "date": "2026-02-15",
+                "url": "https://x.com/wallstreetbets/status/2022695012874559550",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-02-15-competitor-3",
+                "title": "Q1 2026 crypto VC tells you everything you need to know:\n\n$2B+ deployed — but here’s what they’re NO",
+                "source": "Twitter @CoinCrazeCen",
+                "date": "2026-02-15",
+                "url": "https://x.com/CoinCrazeCen/status/2022828294861918538",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-02-15-competitor-4",
+                "title": "今週は暖かい日もあり、春ももうすぐ… Japan Fintech Weekももうすぐですね🌸\n最新のXDCアップデートをお届けします。\n\n[週刊XDC・日本語版｜2026年2月1日 – 2月7日]\n\n",
+                "source": "Twitter @sbixdc",
+                "date": "2026-02-15",
+                "url": "https://x.com/sbixdc/status/2022800519417250132",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-02-15-competitor-5",
+                "title": "🪙 BitGo CEO: “비트코인은 항상 돌아온다… 이번이 다섯 번째 크래시”\n\n• CNBC 인터뷰, 비트코인 인베스터 위크(NYC)\n• “이번이 우리의 5번째 폭락”\n  → 이전",
+                "source": "Twitter @CryptoYuna_",
+                "date": "2026-02-15",
+                "url": "https://x.com/CryptoYuna_/status/2022787337105953062",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-02-15-competitor-6",
+                "title": "JUST IN: $1 BILLION BITGO CEO JUST SAID LIVE ON CNBC THAT #BITCOIN \"ALWAYS COMES BACK\" AFTER EVERY C",
+                "source": "Twitter @pete_rizzo_",
+                "date": "2026-02-15",
+                "url": "https://x.com/pete_rizzo_/status/2022783154680185059",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-02-15-competitor-7",
+                "title": "@BitcoinNewsCom It's interesting how the infrastructure continues to scale for institutional investo",
+                "source": "Twitter @cryptokiller",
+                "date": "2026-02-15",
+                "url": "https://x.com/cryptokiller/status/2022737250463719654",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-02-15-competitor-8",
+                "title": "anchorage digital just partnered with solana to let institutions use staked $SOL as onchain collater",
+                "source": "Twitter @ShifterCrypto",
+                "date": "2026-02-15",
+                "url": "https://x.com/ShifterCrypto/status/2022745243213234368",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-02-15-competitor-9",
+                "title": "Solana Company stock rose 14% after a framework enabled institutions to borrow against staked SOL wh",
+                "source": "Twitter @Richbycoin_com",
+                "date": "2026-02-15",
+                "url": "https://x.com/Richbycoin_com/status/2022726908832514179",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-02-15-competitor-10",
+                "title": "Anchorage Digital x @ethena \n\nConfidently move between dollars and stablecoins. Convert USDtb to dol",
+                "source": "Twitter @Anchorage",
+                "date": "2026-02-15",
+                "url": "https://x.com/Anchorage/status/2022689286366404992",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-02-15-competitor-11",
+                "title": "Solana Company shares ($HSDT) popped 14%, closing at $2.21 after unveiling a new institutional lendi",
+                "source": "Twitter @voidsnam",
+                "date": "2026-02-15",
+                "url": "https://x.com/voidsnam/status/2022647231036133702",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-02-15-competitor-12",
+                "title": "Sé que con BTC en $70K y el 97% de altcoins en rojo es difícil ver más allá. Pero lo que está pasand",
+                "source": "Twitter @Axel_Mnvn",
+                "date": "2026-02-15",
+                "url": "https://x.com/Axel_Mnvn/status/2022614544636588034",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-02-15-competitor-13",
+                "title": "RT @dynamic_xyz: Build with @dynamic_xyz and @FireblocksHQ at ETHDenver!\n\nJoin our Lunch &amp; Learn",
+                "source": "Twitter @FireblocksHQ",
+                "date": "2026-02-15",
+                "url": "https://x.com/FireblocksHQ/status/2022734205126636021",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-02-15-customer-0",
+                "title": "🚀 Gold &amp; Silver Futures — 0% Fees\n\nTrade $PAXG / $XAUT / $XAG on WEEX and enjoy:\n\n✅ 0 Maker fees",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-02-15",
+                "url": "https://x.com/WEEX_Official/status/2022878322695508085",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "WEEX"
+                ]
+            },
+            {
+                "id": "2026-02-15-customer-1",
+                "title": "⏳ Countdown: 8h — WEEX × EveryX AMA Going LIVE soon🎥\n\n🎁 Claim your $20 Bonus live on stream!\n🔸 RT+LI",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-02-15",
+                "url": "https://x.com/WEEX_Official/status/2022877779226956099",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "WEEX"
+                ]
+            },
+            {
+                "id": "2026-02-15-customer-2",
+                "title": "🌹 WEEX VALENTINE’S DAY — Love is in the air, but gains are forever. ❤️\n🎁 $270 Equivalent Prize Pool ",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-02-15",
+                "url": "https://x.com/WEEX_Official/status/2022551881307033822",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "WEEX"
+                ]
+            },
+            {
+                "id": "2026-02-15-industry-0",
+                "title": "5 world market themes for the week ahead",
+                "source": "The Times of India",
+                "date": "2026-02-15",
+                "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/128333157.cms",
+                "category": "industry",
+                "summary": "分析了未来一周的市场主题和趋势。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-02-15-industry-1",
+                "title": "Why Stripe paid $1B for Metronome instead of fixing Billing",
+                "source": "Getlago.com",
+                "date": "2026-02-15",
+                "url": "https://getlago.com/blog/why-stripe-paid-1b-for-metronome-instead-of-fixing-billing",
+                "category": "industry",
+                "summary": "Stripe以10亿美元收购Metronome，影响支付行业动态。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注支付行业的竞争动态",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Stripe",
+                    "Metronome"
+                ]
+            },
+            {
+                "id": "2026-02-15-industry-2",
+                "title": "Exclusive — The Future of Crypto: Stablecoin Company World Liberty Financial to Host Massive Summit ",
+                "source": "Breitbart News",
+                "date": "2026-02-15",
+                "url": "https://www.breitbart.com/politics/2026/02/13/exclusive-the-future-of-crypto-stablecoin-company-world-liberty-financial-to-host-massive-summit-at-mar-a-lago/",
+                "category": "industry",
+                "summary": "稳定币公司将在马阿拉戈举办峰会。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币市场动态，评估潜在影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "World Liberty Financial"
+                ]
+            },
+            {
+                "id": "2026-02-15-industry-3",
+                "title": "Show HN: Apiosk – Pay-per-request API gateway with USDC (no API keys)",
+                "source": "Apiosk.com",
+                "date": "2026-02-15",
+                "url": "https://apiosk.com",
+                "category": "industry",
+                "summary": "Apiosk提供基于USDC的API支付服务。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注USDC在支付领域的应用趋势。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-02-15-industry-5",
+                "title": "Best Crypto Market Maker in 2026: How to Choose the Right Market Making Partner for Your Token",
+                "source": "C-sharpcorner.com",
+                "date": "2026-02-15",
+                "url": "https://www.c-sharpcorner.com/article/best-crypto-market-maker/",
+                "category": "industry",
+                "summary": "讨论如何选择市场做市商合作伙伴",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场做市商动态",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-02-15-industry-6",
+                "title": "Bessent Says Crypto Firms Are Sabotaging Best Chance for Rules",
+                "source": "pymnts.com",
+                "date": "2026-02-15",
+                "url": "https://www.pymnts.com/cryptocurrency/2026/bessent-says-crypto-firms-are-sabotaging-best-chance-for-rules/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-02-15-industry-7",
+                "title": "Grafana Labs reportedly raising funding at $9B valuation",
+                "source": "SiliconANGLE News",
+                "date": "2026-02-15",
+                "url": "https://siliconangle.com/2026/02/13/grafana-labs-reportedly-raising-funding-9b-valuation/",
+                "category": "industry",
+                "summary": "Grafana Labs正在进行融资，估值达到90亿美元。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-02-15-industry-8",
+                "title": "Air Force Portfolio Acquisition Executive for Command, Control, Communications and Battle Management",
+                "source": "Soldiersystems.net",
+                "date": "2026-02-15",
+                "url": "https://soldiersystems.net/2026/02/14/air-force-portfolio-acquisition-executive-for-command-control-communications-and-battle-management-takes-lead-on-joint-fires-network/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-02-15-industry-9",
+                "title": "Baywatch: \"Arrow's\" Stephen Amell Joins FOX Series as Hobie Buchannon",
+                "source": "Bleeding Cool News",
+                "date": "2026-02-15",
+                "url": "https://bleedingcool.com/tv/baywatch-arrows-stephen-amell-joins-fox-series-as-hobie-buchannon/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-02-15-industry-10",
+                "title": "Fidelity, Accel lead $160–170 million investment round in Spinny",
+                "source": "The Times of India",
+                "date": "2026-02-15",
+                "url": "https://economictimes.indiatimes.com/tech/funding/fidelity-accel-lead-160170-million-investment-round-in-spinny/articleshow/128320435.cms",
+                "category": "industry",
+                "summary": "Fidelity和Accel投资Spinny，反映市场融资动态。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注市场融资动态，评估潜在影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Fidelity",
+                    "Accel",
+                    "Spinny"
+                ]
+            },
+            {
+                "id": "2026-02-15-industry-11",
+                "title": "Figure Tests Future of Trading With Blockchain Stock Launch",
+                "source": "pymnts.com",
+                "date": "2026-02-15",
+                "url": "https://www.pymnts.com/blockchain/2026/figure-tests-future-of-trading-with-blockchain-stock-launch/",
+                "category": "industry",
+                "summary": "Figure正在测试基于区块链的股票交易未来。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注区块链交易技术的发展动态。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-02-15-industry-12",
+                "title": "Best of BS Opinion: Who holds power and who pays the price",
+                "source": "Business Standard",
+                "date": "2026-02-15",
+                "url": "https://www.business-standard.com/opinion/specials/best-of-bs-opinion-who-holds-power-and-who-pays-the-price-126021301788_1.html",
+                "category": "industry",
+                "summary": "讨论了加密货币领域的权力与代价问题。",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管政策变化对业务的影响",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-02-15-industry-13",
+                "title": "Causal AI",
+                "source": "Bradenkelley.com",
+                "date": "2026-02-15",
+                "url": "https://bradenkelley.com/2026/02/causal-ai/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-02-15-industry-14",
+                "title": "Sarah Mullally has reasons to be cheerful after her first Synod but there are storms ahead",
+                "source": "Christiantoday.com",
+                "date": "2026-02-15",
+                "url": "https://www.christiantoday.com/news/sarah-mullally-has-reasons-to-be-cheerful-after-her-first-synod-but-there-are-storms-ahead",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-02-15-industry-15",
+                "title": "The Moltbook fiasco: Some lessons for the rest of us",
+                "source": "Livemint",
+                "date": "2026-02-15",
+                "url": "https://www.livemint.com/opinion/columns/moltbook-ai-social-network-crash-lessons-digital-security-11770907851106.html",
+                "category": "industry",
+                "summary": "Moltbook事件为加密行业提供了教训。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注行业动态以规避风险。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-02-15-industry-16",
+                "title": "Benchmark cuts Coinbase price target by 37% but says business is ‘more diversified and durable’ than",
+                "source": "The Block",
+                "date": "2026-02-15",
+                "url": "https://www.theblock.co/post/389964/benchmark-cuts-coinbase-price-target-by-37-but-says-business-is-more-diversified-and-durable-than-ever?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "Benchmark下调Coinbase目标价，反映市场状况恶化。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场变化，调整策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Coinbase"
+                ]
+            },
+            {
+                "id": "2026-02-15-industry-17",
+                "title": "X to launch ‘Smart Cashtags’ for in-timeline crypto and stock data within ‘a couple weeks’",
+                "source": "The Block",
+                "date": "2026-02-15",
+                "url": "https://www.theblock.co/post/389952/x-to-launch-smart-cashtags-for-in-timeline-crypto-and-stock-trading-within-a-couple-weeks?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "X将推出智能Cashtags，涉及加密数据。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "关注X平台对加密市场的影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-02-15-industry-18",
+                "title": "On-Chain Stablecoin Growth Signals Shift Toward 24/7 Settlement - TipRanks",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-02-15",
+                "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZkVyNlYyWF9qRTk3WW54Mmd3dmE5alpGbG5xQlMtS2s4Q0lPQjFjbENnYVRKOWFGSjA2WWxkMUhaWTRzaHktT3JmMDF0UU5QRm9QbXJmNGxUcHh1dW8yVmdndTVZWC1MZG9OdW1vWVM4SlVyLUVPdHZQWHRrT0tDc1RuWEVfZzl2Y2ZaelRiRGY0VmV2bnoyTXpNUzktN2M3MENvZU1JR1ZqRm01SkZDOA?oc=5",
+                "category": "industry",
+                "summary": "稳定币增长推动24/7结算模式转变。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币发展动态，调整业务策略。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-02-15-industry-19",
+                "title": "$SOL | Update\n\nTaken profits on this long.\n\nStart farming Dreamcash, all your existing hyperliquid p",
+                "source": "Twitter @edwardmorra_btc",
+                "date": "2026-02-15",
+                "url": "https://x.com/edwardmorra_btc/status/2022886033386541525",
+                "category": "industry",
+                "summary": "提到USDT的新市场交易动态。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "关注USDT市场动态，评估影响。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-02-15-industry-20",
+                "title": "@Coinvo Ripple gaining fiat recognition in Dubai is a major adoption milestone. Regulatory acceptanc",
+                "source": "Twitter @cointract_io",
+                "date": "2026-02-15",
+                "url": "https://x.com/cointract_io/status/2022586333412442601",
+                "category": "industry",
+                "summary": "Ripple在迪拜获得法币认可，推动跨境支付发展。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注监管动态，评估市场机会",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Ripple"
+                ]
+            },
+            {
+                "id": "2026-02-15-industry-21",
+                "title": "What's going on with France and crypto related kidnappings?\nLack of safety will push innovators to o",
+                "source": "Twitter @paoloardoino",
+                "date": "2026-02-15",
+                "url": "https://x.com/paoloardoino/status/2022634277469589566",
+                "category": "industry",
+                "summary": "法国的加密货币绑架事件引发安全担忧。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注安全问题并加强合规措施。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-02-15-industry-22",
+                "title": "GM! Happy Valentines Day!",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-02-15",
+                "url": "https://x.com/WEEX_Official/status/2022551378078372103",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            }
+        ],
+        "stats": {
+            "totalThreats": 14,
+            "highThreats": 0,
+            "mediumThreats": 1,
+            "lowThreats": 0,
+            "competitorUpdates": 14,
+            "customerUpdates": 3,
+            "industryUpdates": 22
+        },
+        "dailySummary": {
+            "competitorThreat": "今日最大的竞争威胁来自TrustLinq，其稳定币支付服务直接与Cobo竞争，可能影响其市场份额。此外，BitGo在CNBC的采访中强调比特币的韧性，显示出其在机构投资者中的影响力。Anchorage Digital与Solana的合作也为机构提供了新的借贷机会，进一步提升了市场竞争。\n\n建议Cobo加强用户体验，提升支付便利性，同时关注行业动态，寻找与其他平台的合作机会，以增强竞争力。",
+            "industryTrend": "今日稳定币行业主要热点包括World Liberty Financial即将举办的峰会，以及Apiosk推出的基于USDC的API支付服务。这表明行业内对稳定币应用场景的探索与创新正在加速，尤其是在支付基础设施方面。Stripe以10亿美元收购Metronome的举措也暗示了支付行业对稳定币整合的重视，可能推动更多企业寻求稳定币作为支付解决方案。此外，客户数据泄露事件提醒行业在技术应用中需加强安全性。总体来看，稳定币的应用前景广阔，但伴随而来的合规与安全挑战亦需引起重视。"
+        },
+        "highlights": {
+            "competitors": [
+                {
+                    "id": "2026-02-15-competitor-0",
+                    "title": "Crypto holders:\nTired of funds stuck in wallets?!\n\nTrustLinq lets you pay in fiat worldwide, direct ",
+                    "source": "Twitter @Trustlinq",
+                    "date": "2026-02-15",
+                    "url": "https://x.com/Trustlinq/status/2022697097263481307",
+                    "category": "competitor",
+                    "summary": "TrustLinq 提供稳定币支付服务，直接竞争 Cobo。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "产品竞争",
+                        "客户争夺",
+                        "市场定价"
+                    ],
+                    "action": "关注 TrustLinq 的市场动态，调整产品策略。",
+                    "tickers": [
+                        "TrustLinq"
+                    ]
+                },
+                {
+                    "id": "2026-02-15-competitor-1",
+                    "title": "@EdnStuff @LayerZero_Core Massively understood by most!\n\nIt appears to me from this partnership and ",
+                    "source": "Twitter @IAGONAUTMANNY",
+                    "date": "2026-02-15",
+                    "url": "https://x.com/IAGONAUTMANNY/status/2022757362235510854",
+                    "category": "competitor",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "Fireblocks"
+                    ]
+                },
+                {
+                    "id": "2026-02-15-competitor-2",
+                    "title": "$H isn’t just on fire socially, the structure actually looks very healthy 🤔\n\nI told y'all about @Hum",
+                    "source": "Twitter @wallstreetbets",
+                    "date": "2026-02-15",
+                    "url": "https://x.com/wallstreetbets/status/2022695012874559550",
+                    "category": "competitor",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "Fireblocks"
+                    ]
+                }
+            ],
+            "clients": [
+                {
+                    "id": "2026-02-15-customer-0",
+                    "title": "🚀 Gold &amp; Silver Futures — 0% Fees\n\nTrade $PAXG / $XAUT / $XAG on WEEX and enjoy:\n\n✅ 0 Maker fees",
+                    "source": "Twitter @WEEX_Official",
+                    "date": "2026-02-15",
+                    "url": "https://x.com/WEEX_Official/status/2022878322695508085",
+                    "category": "customer",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "WEEX"
+                    ]
+                },
+                {
+                    "id": "2026-02-15-customer-1",
+                    "title": "⏳ Countdown: 8h — WEEX × EveryX AMA Going LIVE soon🎥\n\n🎁 Claim your $20 Bonus live on stream!\n🔸 RT+LI",
+                    "source": "Twitter @WEEX_Official",
+                    "date": "2026-02-15",
+                    "url": "https://x.com/WEEX_Official/status/2022877779226956099",
+                    "category": "customer",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "WEEX"
+                    ]
+                },
+                {
+                    "id": "2026-02-15-customer-2",
+                    "title": "🌹 WEEX VALENTINE’S DAY — Love is in the air, but gains are forever. ❤️\n🎁 $270 Equivalent Prize Pool ",
+                    "source": "Twitter @WEEX_Official",
+                    "date": "2026-02-15",
+                    "url": "https://x.com/WEEX_Official/status/2022551881307033822",
+                    "category": "customer",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "WEEX"
+                    ]
+                }
+            ],
+            "industry": [
+                {
+                    "id": "2026-02-15-industry-0",
+                    "title": "5 world market themes for the week ahead",
+                    "source": "The Times of India",
+                    "date": "2026-02-15",
+                    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/128333157.cms",
+                    "category": "industry",
+                    "summary": "分析了未来一周的市场主题和趋势。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势"
+                    ],
+                    "action": "",
+                    "subcategory": "other",
+                    "subcategoryName": "其他"
+                },
+                {
+                    "id": "2026-02-15-industry-1",
+                    "title": "Why Stripe paid $1B for Metronome instead of fixing Billing",
+                    "source": "Getlago.com",
+                    "date": "2026-02-15",
+                    "url": "https://getlago.com/blog/why-stripe-paid-1b-for-metronome-instead-of-fixing-billing",
+                    "category": "industry",
+                    "summary": "Stripe以10亿美元收购Metronome，影响支付行业动态。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "关注支付行业的竞争动态",
+                    "subcategory": "other",
+                    "subcategoryName": "其他",
+                    "tickers": [
+                        "Stripe",
+                        "Metronome"
+                    ]
+                },
+                {
+                    "id": "2026-02-15-industry-2",
+                    "title": "Exclusive — The Future of Crypto: Stablecoin Company World Liberty Financial to Host Massive Summit ",
+                    "source": "Breitbart News",
+                    "date": "2026-02-15",
+                    "url": "https://www.breitbart.com/politics/2026/02/13/exclusive-the-future-of-crypto-stablecoin-company-world-liberty-financial-to-host-massive-summit-at-mar-a-lago/",
+                    "category": "industry",
+                    "summary": "稳定币公司将在马阿拉戈举办峰会。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "关注稳定币市场动态，评估潜在影响。",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照",
+                    "tickers": [
+                        "World Liberty Financial"
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "date": "2026-02-14",
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-02-14.md",
