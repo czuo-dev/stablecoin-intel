@@ -4,6 +4,590 @@
 
 const dailyReports = [
     {
+        "date": "2026-02-16",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-02-16.md",
+        "newsItems": [
+            {
+                "id": "2026-02-16-competitor-0",
+                "title": "𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐦𝐚𝐭𝐭𝐞𝐫𝐬 𝐚 𝐥𝐨𝐭.\n\nBitFi uses:\n\n➥ Institutional custody (Ceffu)\n➥ MPC tech.\n➥ Cold storage.\n➥ ",
+                "source": "Twitter @Thatgyal_winnie",
+                "date": "2026-02-16",
+                "url": "https://x.com/Thatgyal_winnie/status/2023130104331997438",
+                "category": "competitor",
+                "summary": "BitFi使用托管和技术提升安全性。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术差距",
+                    "合规优势"
+                ],
+                "action": "关注竞争对手的技术进展。",
+                "tickers": [
+                    "Ceffu"
+                ]
+            },
+            {
+                "id": "2026-02-16-competitor-1",
+                "title": "Multi-sig for your bots is a perfect answer to implement policy alongside your bots.  Give your bots",
+                "source": "Twitter @mikebelshe",
+                "date": "2026-02-16",
+                "url": "https://x.com/mikebelshe/status/2023214144351281245",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-02-16-competitor-2",
+                "title": "@scoper19008 BitGo: First U.S. qualified custodian to offer institutional Bitcoin staking rewards vi",
+                "source": "Twitter @26Whitepapers",
+                "date": "2026-02-16",
+                "url": "https://x.com/26Whitepapers/status/2023123767703265605",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo",
+                    "Copper"
+                ]
+            },
+            {
+                "id": "2026-02-16-competitor-3",
+                "title": "TRM Labs: $70M Series C ($1B valuation) \nBlockchain intelligence for AML & crypto forensics\nLed by B",
+                "source": "Twitter @uiuxweb",
+                "date": "2026-02-16",
+                "url": "https://x.com/uiuxweb/status/2023064762108526997",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-02-16-customer-0",
+                "title": "WE-Launch results are in for the WEEX &amp; $ZKP @zkPass  event! 🚀\n\n💥 Total valid commitments: 975,2",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-02-16",
+                "url": "https://x.com/WEEX_Official/status/2023246585988317457",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "WEEX"
+                ]
+            },
+            {
+                "id": "2026-02-16-customer-1",
+                "title": "VietQR live on WEEX!🔥\n0% fees on Quick Buy with VND.\n\nMake your first VND deposit with Quick Buy and",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-02-16",
+                "url": "https://x.com/WEEX_Official/status/2023230866244448551",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "WEEX"
+                ]
+            },
+            {
+                "id": "2026-02-16-customer-2",
+                "title": "WEEX Auto Earn Is LIVE – Earn Effortlessly, Anytime, Anywhere!\n\nEarn on ALL assets – even contract m",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-02-16",
+                "url": "https://x.com/WEEX_Official/status/2023222127454024123",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "WEEX"
+                ]
+            },
+            {
+                "id": "2026-02-16-customer-3",
+                "title": "WEEX festive rewards on every Quick Buy order\n0% fees on Quick Buy🔥\n\nGet 4 USDT new user cashback\nUn",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-02-16",
+                "url": "https://x.com/WEEX_Official/status/2023215760571498992",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "WEEX"
+                ]
+            },
+            {
+                "id": "2026-02-16-customer-4",
+                "title": "Took a break? Your comeback starts now ⚽\n\nShoot daily for guaranteed wins on WEEX:\n💰 Daily guarantee",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-02-16",
+                "url": "https://x.com/WEEX_Official/status/2023043201096179740",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "WEEX"
+                ]
+            },
+            {
+                "id": "2026-02-16-customer-5",
+                "title": "Something unexpected is coming to WEEX. 🃏\nNot just rewards.\nNot just luck.\nA whole new game.\n\n🃏 Poke",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-02-16",
+                "url": "https://x.com/WEEX_Official/status/2023040000670232684",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "WEEX"
+                ]
+            },
+            {
+                "id": "2026-02-16-customer-6",
+                "title": "🚨 WEEX Global AI Trading Hackathon — Munich Workshop Recap 🇩🇪\nAnother milestone attained! ⚡\n\nIn Muni",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-02-16",
+                "url": "https://x.com/WEEX_Official/status/2022990478732390716",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "WEEX"
+                ]
+            },
+            {
+                "id": "2026-02-16-customer-7",
+                "title": "New Listing Alert on #WEEX🔔\nWe're excited to announce the spot listing of $PUNCH on WEEX!\n\n🔹Listing ",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-02-16",
+                "url": "https://x.com/WEEX_Official/status/2022901657730953645",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "WEEX"
+                ]
+            },
+            {
+                "id": "2026-02-16-industry-0",
+                "title": "Dan Awrey: Legacy banking faces disruption from digital payment demand | Macro Musings",
+                "source": "Crypto Briefing",
+                "date": "2026-02-16",
+                "url": "https://cryptobriefing.com/dan-awrey-legacy-banking-faces-disruption-from-digital-payment-demand-macro-musings/",
+                "category": "industry",
+                "summary": "传统银行面临数字支付需求的冲击。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注数字支付市场的发展动态。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-02-16-industry-1",
+                "title": "Articles On: Jimmy Lai, Hong Kong, Anna Kwok, Japan’s Election, Taiwan, US-China, Iran, Chips, AI, C",
+                "source": "Hoover.org",
+                "date": "2026-02-16",
+                "url": "https://www.hoover.org/research/articles-jimmy-lai-hong-kong-anna-kwok-japans-election-taiwan-us-china-iran-chips-ai",
+                "category": "industry",
+                "summary": "文章涉及加密货币相关话题。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注加密货币市场动态。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-02-16-industry-2",
+                "title": "Chainlink co-founder Sergey Nazarov appointed to CFTC advisory body",
+                "source": "Crypto Briefing",
+                "date": "2026-02-16",
+                "url": "https://cryptobriefing.com/sergey-nazarov-cftc-appointment/",
+                "category": "industry",
+                "summary": "Chainlink联合创始人被任命为CFTC顾问。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管政策变化对业务的影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-02-16-industry-3",
+                "title": "China plans blockchain certification for green energy tracing",
+                "source": "Crypto Briefing",
+                "date": "2026-02-16",
+                "url": "https://cryptobriefing.com/china-blockchain-green-energy-certification/",
+                "category": "industry",
+                "summary": "中国计划区块链认证以追踪绿色能源。",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响",
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注区块链认证对行业的潜在影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-02-16-industry-4",
+                "title": "ai-crypto-tool added to PyPI",
+                "source": "Pypi.org",
+                "date": "2026-02-16",
+                "url": "https://pypi.org/project/ai-crypto-tool/",
+                "category": "industry",
+                "summary": "新增加密工具可能影响行业发展。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展",
+                    "市场趋势"
+                ],
+                "action": "关注新工具对行业的潜在影响",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-02-16-industry-5",
+                "title": "How did friends help James Van Der Beek buy ranch? #tabloid",
+                "source": "Alltoc.com",
+                "date": "2026-02-16",
+                "url": "https://alltoc.com/tabloid/how-did-friends-help-james-van-der-beek-buy-ranch",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-02-16-industry-6",
+                "title": "What caused the Epstein files fallout? #politics",
+                "source": "Alltoc.com",
+                "date": "2026-02-16",
+                "url": "https://alltoc.com/politics/what-caused-the-epstein-files-fallout",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-02-16-industry-7",
+                "title": "Her Divorce Was Ugly. Crypto Became a Lifeline",
+                "source": "Decrypt",
+                "date": "2026-02-16",
+                "url": "https://decrypt.co/358087/her-divorce-ugly-crypto-lifeline",
+                "category": "industry",
+                "summary": "一位母亲通过加密货币克服财务困境。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "关注加密货币在个人财务中的应用",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-02-16-industry-8",
+                "title": "Zach Abrams: Stablecoins will revolutionize payment systems | Epicenter - Crypto Briefing",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-02-16",
+                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYTE1SzBiMzJ0U2ZtemE1b1pfR3dDSFZDeVMtSHl2MzlzWHI4dXRjYnpCR2gtQWtCdWU3Smw2S1NpVlpXQ1BBWjFMczBJMEp2dmtpWFMtNHc5ekF2YmwtM2dqZ2lyZGYybDlkRmQ4bzlhWm8xNEZQWFJBMkRmbzhsRlFPbGNhNS1remhsdmg2UElQajMzZHhQa3Q0eDU?oc=5",
+                "category": "industry",
+                "summary": "稳定币将改变支付系统的观点被提出。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币在支付领域的应用动态。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-02-16-industry-9",
+                "title": "Cregis at iFX EXPO Dubai 2026: Shaping the Next Era of Enterprise Payments and Digital Asset Infrast",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-02-16",
+                "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYUtHdEVrS1ZsX01kV0h2MTR6ckdGaEZuV2dscHkzaGh1X0w5RENDd0VlSGFJRENLaUo1emIyV2JRdkNTdmxGc2luRUNXbjJYbUdIR2JhU1pyZjFaOWk4dnJ0cnNfSzBQWXFTWDJPTGJhUFNPQXFuTExSQU81dmhhU2ZTVzAxSWY3VV93SXVabUhRYVMtal9lWXRLMlFXMjBxb2NzanQ0aUJJT2kyV1RWUml6MTZGaU1PUG9HNDRCX2c2alB4eTNodGxCVUxnODJ6dUhxYWo4UFJ6SGJjYXcxMDBKMDBXVE53QjBSTUN2Qjl2anNmeFRBQUNrdjM?oc=5",
+                "category": "industry",
+                "summary": "Cregis在迪拜展会探讨企业支付与数字资产基础设施的未来。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注数字资产基础设施的最新动态",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-02-16-industry-10",
+                "title": "UAE, Hong Kong Step Up Debt Market Connectivity Talks, Add Stablecoin Regulation Focus - Crowdfund I",
+                "source": "Google News (stablecoin regulation Hong Kong)",
+                "date": "2026-02-16",
+                "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYmY3eEtSSWREQWkyb05VcWJoTGZySHJLZmN3NHBSUHNWeG9nTWUzMmFLRF9YbDhmYmR4ZWFHZEhYNFlNT1daeG1VeFhmTXIzaUdSSEFxTldVWWpycTVtU3Z4MzB4M3VDbURBLXg4dnRYQTlrUXdBeVRJdEVDcGxxMmZ2Vm5ibUZDWExjekF5YzdaTnVLWTBRMEhJRlFaN1JrODFaak05UDUzZGkySGpmbnFKNlhiVUpYYlZQMUw1OG52RHF3STgyWmt5Y20yZw?oc=5",
+                "category": "industry",
+                "summary": "阿联酋与香港加强稳定币监管讨论。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注稳定币监管动态，调整合规策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-02-16-industry-11",
+                "title": "@TheBTCTherapist The people who understand that XRP is the future cross border payment crypto https:",
+                "source": "Twitter @Mangini01",
+                "date": "2026-02-16",
+                "url": "https://x.com/Mangini01/status/2023069520534155596",
+                "category": "industry",
+                "summary": "XRP被认为是未来跨境支付的加密货币。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注XRP在跨境支付中的应用动态。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-02-16-industry-12",
+                "title": "https://t.co/0GQDoquJWG",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-02-16",
+                "url": "https://x.com/WEEX_Official/status/2023005648817094806",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-02-16-industry-13",
+                "title": "⚠️ 24 Hours Left ⚠️\n Time is running out.\n\n🔥 Up to 40% back\n⏰ Ending today\n\n👉 Keep trading→ https://",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-02-16",
+                "url": "https://x.com/WEEX_Official/status/2022902229854990538",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            }
+        ],
+        "stats": {
+            "totalThreats": 4,
+            "highThreats": 0,
+            "mediumThreats": 1,
+            "lowThreats": 0,
+            "competitorUpdates": 4,
+            "customerUpdates": 8,
+            "industryUpdates": 14
+        },
+        "dailySummary": {
+            "competitorThreat": "今日最大的竞争威胁来自于BitFi和BitGo的安全技术提升，尤其是BitFi采用的多重签名和MPC技术，这可能吸引更多机构客户。BitGo作为首个美国合格保管人，提供比特币质押奖励，进一步增强其市场竞争力。同时，Anchorage Digital获得7000万美元的C轮融资，显示出区块链合规和取证领域的增长潜力。建议关注安全技术的创新和合规性的发展，强化自身产品的安全性，并探索与金融科技公司合作，以提升市场竞争力。",
+            "industryTrend": "今日行业热点主要集中在传统银行与数字支付需求的冲突、稳定币的支付系统革命以及区块链在绿色能源追踪中的应用。Dan Awrey提到传统银行面临数字化转型的压力，而Zach Abrams则指出稳定币将重塑支付系统。此外，Chainlink联合创始人被任命为CFTC顾问，显示出监管机构对区块链技术的重视。随着中国推动区块链认证，稳定币托管和支付基础设施行业可能迎来新的机遇，尤其是在合规性和透明度方面。整体来看，行业正朝向更高效、可持续的数字支付生态系统发展。"
+        },
+        "highlights": {
+            "competitors": [
+                {
+                    "id": "2026-02-16-competitor-0",
+                    "title": "𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐦𝐚𝐭𝐭𝐞𝐫𝐬 𝐚 𝐥𝐨𝐭.\n\nBitFi uses:\n\n➥ Institutional custody (Ceffu)\n➥ MPC tech.\n➥ Cold storage.\n➥ ",
+                    "source": "Twitter @Thatgyal_winnie",
+                    "date": "2026-02-16",
+                    "url": "https://x.com/Thatgyal_winnie/status/2023130104331997438",
+                    "category": "competitor",
+                    "summary": "BitFi使用托管和技术提升安全性。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "技术差距",
+                        "合规优势"
+                    ],
+                    "action": "关注竞争对手的技术进展。",
+                    "tickers": [
+                        "Ceffu"
+                    ]
+                },
+                {
+                    "id": "2026-02-16-competitor-1",
+                    "title": "Multi-sig for your bots is a perfect answer to implement policy alongside your bots.  Give your bots",
+                    "source": "Twitter @mikebelshe",
+                    "date": "2026-02-16",
+                    "url": "https://x.com/mikebelshe/status/2023214144351281245",
+                    "category": "competitor",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "BitGo"
+                    ]
+                },
+                {
+                    "id": "2026-02-16-competitor-2",
+                    "title": "@scoper19008 BitGo: First U.S. qualified custodian to offer institutional Bitcoin staking rewards vi",
+                    "source": "Twitter @26Whitepapers",
+                    "date": "2026-02-16",
+                    "url": "https://x.com/26Whitepapers/status/2023123767703265605",
+                    "category": "competitor",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "BitGo",
+                        "Copper"
+                    ]
+                }
+            ],
+            "clients": [
+                {
+                    "id": "2026-02-16-customer-0",
+                    "title": "WE-Launch results are in for the WEEX &amp; $ZKP @zkPass  event! 🚀\n\n💥 Total valid commitments: 975,2",
+                    "source": "Twitter @WEEX_Official",
+                    "date": "2026-02-16",
+                    "url": "https://x.com/WEEX_Official/status/2023246585988317457",
+                    "category": "customer",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "WEEX"
+                    ]
+                },
+                {
+                    "id": "2026-02-16-customer-1",
+                    "title": "VietQR live on WEEX!🔥\n0% fees on Quick Buy with VND.\n\nMake your first VND deposit with Quick Buy and",
+                    "source": "Twitter @WEEX_Official",
+                    "date": "2026-02-16",
+                    "url": "https://x.com/WEEX_Official/status/2023230866244448551",
+                    "category": "customer",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "WEEX"
+                    ]
+                },
+                {
+                    "id": "2026-02-16-customer-2",
+                    "title": "WEEX Auto Earn Is LIVE – Earn Effortlessly, Anytime, Anywhere!\n\nEarn on ALL assets – even contract m",
+                    "source": "Twitter @WEEX_Official",
+                    "date": "2026-02-16",
+                    "url": "https://x.com/WEEX_Official/status/2023222127454024123",
+                    "category": "customer",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "WEEX"
+                    ]
+                }
+            ],
+            "industry": [
+                {
+                    "id": "2026-02-16-industry-0",
+                    "title": "Dan Awrey: Legacy banking faces disruption from digital payment demand | Macro Musings",
+                    "source": "Crypto Briefing",
+                    "date": "2026-02-16",
+                    "url": "https://cryptobriefing.com/dan-awrey-legacy-banking-faces-disruption-from-digital-payment-demand-macro-musings/",
+                    "category": "industry",
+                    "summary": "传统银行面临数字支付需求的冲击。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "关注数字支付市场的发展动态。",
+                    "subcategory": "stablecoin_payments",
+                    "subcategoryName": "稳定币支付"
+                },
+                {
+                    "id": "2026-02-16-industry-1",
+                    "title": "Articles On: Jimmy Lai, Hong Kong, Anna Kwok, Japan’s Election, Taiwan, US-China, Iran, Chips, AI, C",
+                    "source": "Hoover.org",
+                    "date": "2026-02-16",
+                    "url": "https://www.hoover.org/research/articles-jimmy-lai-hong-kong-anna-kwok-japans-election-taiwan-us-china-iran-chips-ai",
+                    "category": "industry",
+                    "summary": "文章涉及加密货币相关话题。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "关注加密货币市场动态。",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照"
+                },
+                {
+                    "id": "2026-02-16-industry-2",
+                    "title": "Chainlink co-founder Sergey Nazarov appointed to CFTC advisory body",
+                    "source": "Crypto Briefing",
+                    "date": "2026-02-16",
+                    "url": "https://cryptobriefing.com/sergey-nazarov-cftc-appointment/",
+                    "category": "industry",
+                    "summary": "Chainlink联合创始人被任命为CFTC顾问。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "监管影响",
+                        "市场趋势"
+                    ],
+                    "action": "关注监管政策变化对业务的影响。",
+                    "subcategory": "other",
+                    "subcategoryName": "其他"
+                }
+            ]
+        }
+    },
+    {
         "date": "2026-02-15",
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-02-15.md",
