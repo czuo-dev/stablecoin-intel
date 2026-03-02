@@ -4,6 +4,495 @@
 
 const dailyReports = [
     {
+        "date": "2026-03-02",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-03-02.md",
+        "newsItems": [
+            {
+                "id": "2026-03-02-competitor-0",
+                "title": "Citi Prepares to Launch Bitcoin Custody Service for Institutions - MEXC",
+                "source": "Google News (crypto custody institution)",
+                "date": "2026-03-02",
+                "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1UbVczeTgzSmxmTlBMR0xpeWlIN251a1ZjWU9QZzJOdFVsdU45WllhUGJaMU80RzhKUVBHOE9xdC10SWRCRTNj?oc=5",
+                "category": "competitor",
+                "summary": "花旗准备推出比特币托管服务，直接竞争Cobo。",
+                "threatLevel": "high",
+                "impact": [
+                    "产品竞争",
+                    "客户争夺",
+                    "市场定价"
+                ],
+                "action": "加强Cobo的市场宣传和客户关系管理。",
+                "tickers": [
+                    "Citi"
+                ]
+            },
+            {
+                "id": "2026-03-02-competitor-1",
+                "title": "Until now: You couldn't pay your landlord. Your bills.\n\nTrustLinq changes that.\n\nPay in fiat worldwi",
+                "source": "Twitter @Trustlinq",
+                "date": "2026-03-02",
+                "url": "https://x.com/Trustlinq/status/2028027582747447704",
+                "category": "competitor",
+                "summary": "TrustLinq 提供稳定币支付服务，影响市场竞争。",
+                "threatLevel": "medium",
+                "impact": [
+                    "产品竞争",
+                    "客户争夺",
+                    "市场定价"
+                ],
+                "action": "关注其产品特点，优化自身服务。"
+            },
+            {
+                "id": "2026-03-02-competitor-2",
+                "title": "US compliant crypto architecture is live. By integrating MPC custody with deep liquidity, the AequiS",
+                "source": "Twitter @AequiSolva",
+                "date": "2026-03-02",
+                "url": "https://x.com/AequiSolva/status/2028073145484112042",
+                "category": "competitor",
+                "summary": "AequiSolva推出符合美国监管的加密架构",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术差距",
+                    "合规优势"
+                ],
+                "action": "关注MPC技术发展，提升自身合规能力",
+                "tickers": [
+                    "AequiSolva"
+                ]
+            },
+            {
+                "id": "2026-03-02-competitor-3",
+                "title": "The Fireblocks x Stacks integration isn't just about liquidity; it's about the security model. \n\nBri",
+                "source": "Twitter @jimdotbtc",
+                "date": "2026-03-02",
+                "url": "https://x.com/jimdotbtc/status/2028096157109387709",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-03-02-competitor-4",
+                "title": "Galaxy Digital 2 ay önce Gate’den 9.4M $ARC aldı. 330k dolar harcadı ama değer 1 milyon dolara geldi",
+                "source": "Twitter @ethereumsever",
+                "date": "2026-03-02",
+                "url": "https://x.com/ethereumsever/status/2027985622200127500",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-03-02-competitor-5",
+                "title": "Beyond is scaling Bitcoin with interoperability, pushing for cross-chain bridges to 140+ chains and ",
+                "source": "Twitter @EgsoncleCrypto",
+                "date": "2026-03-02",
+                "url": "https://x.com/EgsoncleCrypto/status/2028096870333944173",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-02-competitor-6",
+                "title": "如果为各类申牌企业进行分类，运营/托管两分最为恰当：\n\n🦀Anchorage 为代表的托管发行为主，主要卖的是美国合规市场准入权：\n- 和 Tether 合作 USAT🇺🇸\n- 和 Ethena 合作",
+                "source": "Twitter @zuoyeweb3",
+                "date": "2026-03-02",
+                "url": "https://x.com/zuoyeweb3/status/2028060679614181605",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo",
+                    "OSL"
+                ]
+            },
+            {
+                "id": "2026-03-02-competitor-7",
+                "title": "@ron137578 backbone plays outside top 10:\n\nARB - just overhauled bridging logic, L2 infrastructure i",
+                "source": "Twitter @aixbt_agent",
+                "date": "2026-03-02",
+                "url": "https://x.com/aixbt_agent/status/2028017320053150061",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-02-competitor-8",
+                "title": "🚨 JUST IN: Tether-backed USA₮ publishes first reserve report via Anchorage Digital Bank, showing ful",
+                "source": "Twitter @thedailyblock",
+                "date": "2026-03-02",
+                "url": "https://x.com/thedailyblock/status/2028028718850212306",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-03-02-customer-0",
+                "title": "🏆 Winners Announced — WEEX × LALIGA Learn & Earn\nCongrats to: @tm730100, @BodourinE , @Kawtar1551958",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-03-02",
+                "url": "https://x.com/WEEX_Official/status/2028315121555304636",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "WEEX"
+                ]
+            },
+            {
+                "id": "2026-03-02-customer-1",
+                "title": "News from the Middle East has weighed heavily on us. With team members and partners in the region, t",
+                "source": "Twitter @BitunixOfficial",
+                "date": "2026-03-02",
+                "url": "https://x.com/BitunixOfficial/status/2028111559122391336",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Bitunix"
+                ]
+            },
+            {
+                "id": "2026-03-02-industry-0",
+                "title": "Why did Resident Evil Requiem break records? #gaming",
+                "source": "Alltoc.com",
+                "date": "2026-03-02",
+                "url": "https://alltoc.com/gaming/why-did-resident-evil-requiem-break-records",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-02-industry-1",
+                "title": "Scrubs Creator Addresses JD-Elliot Revival Backlash, Provides Context",
+                "source": "Bleeding Cool News",
+                "date": "2026-03-02",
+                "url": "https://bleedingcool.com/tv/scrubs-creator-addresses-jd-elliot-revival-backlash-provides-context/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-02-industry-2",
+                "title": "Mike Flanagan’s Show Based On A Story That Inspired Stephen King Breaks Horror’s Rules",
+                "source": "Screen Rant",
+                "date": "2026-03-02",
+                "url": "https://screenrant.com/mike-flanagan-fall-of-house-of-usher-horror-rules/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-02-industry-3",
+                "title": "Why KAATSU Is a Fitness Game Changer",
+                "source": "Mercola.com",
+                "date": "2026-03-02",
+                "url": "https://articles.mercola.com/sites/articles/archive/2026/03/01/why-kaatsu-fitness-game-changer.aspx",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-02-industry-4",
+                "title": "What did The Lancet criticize about RFK Jr.'s first year? #health",
+                "source": "Alltoc.com",
+                "date": "2026-03-02",
+                "url": "https://alltoc.com/health/what-did-the-lancet-criticize-about-rfk-jr-s-first-year",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-02-industry-5",
+                "title": "JPMorgan says crypto market structure bill could be approved by mid-year and serve as positive catal",
+                "source": "The Block",
+                "date": "2026-03-02",
+                "url": "https://www.theblock.co/post/391680/jpmorgan-crypto-market-structure-bill-positive-catalyst-second-half?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "JPMorgan分析师认为加密市场结构法案可能推动市场发展。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注法案进展，评估潜在影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-02-industry-6",
+                "title": "The Legal Strategy Behind Crypto Exchange Backpack's Token-to-Equity Program",
+                "source": "Decrypt",
+                "date": "2026-03-02",
+                "url": "https://decrypt.co/359510/legal-strategy-behind-crypto-exchange-backpack-token-equity-program",
+                "category": "industry",
+                "summary": "Backpack的代币转股计划涉及证券法律问题。",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注相关监管动态，评估影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-02-industry-7",
+                "title": "HSBC Shows Interest in Hong Kong Stablecoin Licensing Framework | 2026 Update - News and Statistics ",
+                "source": "Google News (stablecoin license)",
+                "date": "2026-03-02",
+                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNG1UdEl6Ymt4aGNUWTRMYXgweVhqTGc1WEtVdVdrcEZXc0ZRZ0FqRUJHbjhSWk1CVjB1eGYwcDlmNUR2ZEhDaUFZZmdXMEh0MDdha3loUHR2eHdIWmI1T0dadjBCb0Z6TE5pMUFmMC1NSi1RbWs1T01STkgySHFXR1U2UzVUWVhPOWZWNkh4SG9RdkllcnRKV3poRDRzT1pfUTFF?oc=5",
+                "category": "industry",
+                "summary": "汇丰银行对香港稳定币监管框架表示关注。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注香港稳定币监管动态，评估潜在影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "HSBC"
+                ]
+            },
+            {
+                "id": "2026-03-02-industry-8",
+                "title": "HSBC signals intent to join Hong Kong’s stablecoin regime amid digital hub push - South China Mornin",
+                "source": "Google News (stablecoin regulation Hong Kong)",
+                "date": "2026-03-02",
+                "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1RZOUtYcS1jd3hqdklWREpYRWdHN043QzFmQUZPWk1yc29kOWE5enZ3RGZ3TXY2S1BSX1VwaGVnM0trSDJxdGhvZXpYRDFxS1pLUFB1NkxfVVFBbll3RlpTM1c3QTNva0V6czRrOU1BWF9JUE5vQmthQWpYcnZHQUgzQ21EdlNNNVJfX1ZJbjI0cHNWVVU0QmNmSkZscEwzR1FJNi1TX21ZVzVVRldkME14cHN2VjJoSG5KU1B2MWhlYlYwTVBiRDFsbGtERFAwWVVLTkdYTmM3RnJy0gHcAUFVX3lxTFBTVFk5S1hxLWN3eGp2SVZESlhFZ0c3TjdDMWZBRk9aTXJzb2Q5YTl6dndEZndNdjZLUFJfVXBoZWczS2tIMnF0aG9lelhEMXFLWktQUHU2TF9VUUFuWXdGWlMzVzdBM29rRXpzNGs5TUFYX0lQTm9Ca2FBalhydkdBSDNDbUR2U001Ul9fVkluMjRwc1ZVVTRCY2ZKRmxwTDNHUUk2LVNfbVlXNVVGV2QwTXhwc3ZWMmhIbkpTUHYxaGViVjBNUGJEMWxsa0REUDBZVUtOR1hOYzdGcnI?oc=5",
+                "category": "industry",
+                "summary": "汇丰银行计划加入香港稳定币监管框架。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注香港稳定币政策变化，评估市场机会。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "HSBC"
+                ]
+            },
+            {
+                "id": "2026-03-02-industry-9",
+                "title": "Decentralized Autonomous Corporations \n\nEntirely onchain company run by Agents using @usdc and @arc\n",
+                "source": "Twitter @jerallaire",
+                "date": "2026-03-02",
+                "url": "https://x.com/jerallaire/status/2028186179519017030",
+                "category": "industry",
+                "summary": "提到USDC的去中心化公司动态",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注去中心化企业的技术进展",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            }
+        ],
+        "stats": {
+            "totalThreats": 9,
+            "highThreats": 1,
+            "mediumThreats": 2,
+            "lowThreats": 0,
+            "competitorUpdates": 9,
+            "customerUpdates": 2,
+            "industryUpdates": 10
+        },
+        "dailySummary": {
+            "competitorThreat": "今日最大的竞争威胁来自花旗的比特币托管服务推出，这将直接挑战Cobo的市场地位。与此同时，TrustLinq的稳定币支付服务和AequiSolva的合规加密架构也可能对市场格局产生影响。此外，Fireblocks与Stacks的集成提升了安全性，BitGo则在跨链互操作性方面取得进展。应对建议方向包括加强自身技术创新，提升安全性，以及寻求与合规机构的合作，确保在合规市场中的竞争力。",
+            "industryTrend": "今日行业热点主要集中在稳定币的监管框架和市场结构的潜在变革上。汇丰银行对香港稳定币监管框架的关注，表明大型金融机构正在积极参与这一领域，可能推动稳定币的合法化和普及。此外，JPMorgan分析师提到的加密市场结构法案有望于年中获批，这将为稳定币市场提供更清晰的法律环境，促进其发展。随着去中心化自治公司（DAC）利用USDC等稳定币进行运营，表明稳定币在支付基础设施中的应用正在扩大。这些趋势可能为稳定币托管和支付解决方案带来新的机遇和挑战。"
+        },
+        "highlights": {
+            "competitors": [
+                {
+                    "id": "2026-03-02-competitor-0",
+                    "title": "Citi Prepares to Launch Bitcoin Custody Service for Institutions - MEXC",
+                    "source": "Google News (crypto custody institution)",
+                    "date": "2026-03-02",
+                    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1UbVczeTgzSmxmTlBMR0xpeWlIN251a1ZjWU9QZzJOdFVsdU45WllhUGJaMU80RzhKUVBHOE9xdC10SWRCRTNj?oc=5",
+                    "category": "competitor",
+                    "summary": "花旗准备推出比特币托管服务，直接竞争Cobo。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "产品竞争",
+                        "客户争夺",
+                        "市场定价"
+                    ],
+                    "action": "加强Cobo的市场宣传和客户关系管理。",
+                    "tickers": [
+                        "Citi"
+                    ]
+                },
+                {
+                    "id": "2026-03-02-competitor-1",
+                    "title": "Until now: You couldn't pay your landlord. Your bills.\n\nTrustLinq changes that.\n\nPay in fiat worldwi",
+                    "source": "Twitter @Trustlinq",
+                    "date": "2026-03-02",
+                    "url": "https://x.com/Trustlinq/status/2028027582747447704",
+                    "category": "competitor",
+                    "summary": "TrustLinq 提供稳定币支付服务，影响市场竞争。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "产品竞争",
+                        "客户争夺",
+                        "市场定价"
+                    ],
+                    "action": "关注其产品特点，优化自身服务。"
+                },
+                {
+                    "id": "2026-03-02-competitor-2",
+                    "title": "US compliant crypto architecture is live. By integrating MPC custody with deep liquidity, the AequiS",
+                    "source": "Twitter @AequiSolva",
+                    "date": "2026-03-02",
+                    "url": "https://x.com/AequiSolva/status/2028073145484112042",
+                    "category": "competitor",
+                    "summary": "AequiSolva推出符合美国监管的加密架构",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "技术差距",
+                        "合规优势"
+                    ],
+                    "action": "关注MPC技术发展，提升自身合规能力",
+                    "tickers": [
+                        "AequiSolva"
+                    ]
+                }
+            ],
+            "clients": [
+                {
+                    "id": "2026-03-02-customer-0",
+                    "title": "🏆 Winners Announced — WEEX × LALIGA Learn & Earn\nCongrats to: @tm730100, @BodourinE , @Kawtar1551958",
+                    "source": "Twitter @WEEX_Official",
+                    "date": "2026-03-02",
+                    "url": "https://x.com/WEEX_Official/status/2028315121555304636",
+                    "category": "customer",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "WEEX"
+                    ]
+                },
+                {
+                    "id": "2026-03-02-customer-1",
+                    "title": "News from the Middle East has weighed heavily on us. With team members and partners in the region, t",
+                    "source": "Twitter @BitunixOfficial",
+                    "date": "2026-03-02",
+                    "url": "https://x.com/BitunixOfficial/status/2028111559122391336",
+                    "category": "customer",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "Bitunix"
+                    ]
+                }
+            ],
+            "industry": [
+                {
+                    "id": "2026-03-02-industry-0",
+                    "title": "Why did Resident Evil Requiem break records? #gaming",
+                    "source": "Alltoc.com",
+                    "date": "2026-03-02",
+                    "url": "https://alltoc.com/gaming/why-did-resident-evil-requiem-break-records",
+                    "category": "industry",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "subcategory": "other",
+                    "subcategoryName": "其他"
+                },
+                {
+                    "id": "2026-03-02-industry-1",
+                    "title": "Scrubs Creator Addresses JD-Elliot Revival Backlash, Provides Context",
+                    "source": "Bleeding Cool News",
+                    "date": "2026-03-02",
+                    "url": "https://bleedingcool.com/tv/scrubs-creator-addresses-jd-elliot-revival-backlash-provides-context/",
+                    "category": "industry",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "subcategory": "other",
+                    "subcategoryName": "其他"
+                },
+                {
+                    "id": "2026-03-02-industry-2",
+                    "title": "Mike Flanagan’s Show Based On A Story That Inspired Stephen King Breaks Horror’s Rules",
+                    "source": "Screen Rant",
+                    "date": "2026-03-02",
+                    "url": "https://screenrant.com/mike-flanagan-fall-of-house-of-usher-horror-rules/",
+                    "category": "industry",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "subcategory": "other",
+                    "subcategoryName": "其他"
+                }
+            ]
+        }
+    },
+    {
         "date": "2026-03-01",
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-03-01.md",
