@@ -4,6 +4,553 @@
 
 const dailyReports = [
     {
+        "date": "2026-03-09",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-03-09.md",
+        "newsItems": [
+            {
+                "id": "2026-03-09-competitor-0",
+                "title": "Charles Hoskinson: “We need to bottom sell 6,900,000 $ada for a project that I think is neato.”\n\nAls",
+                "source": "Twitter @jayedii",
+                "date": "2026-03-09",
+                "url": "https://x.com/jayedii/status/2030776821101576434",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-03-09-competitor-1",
+                "title": "here’s the wallet share by volume\n\nthe gap gets even bigger here, with rabby dominating even more st",
+                "source": "Twitter @robotevm",
+                "date": "2026-03-09",
+                "url": "https://x.com/robotevm/status/2030715154518671787",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-03-09-competitor-2",
+                "title": "@corroonian @martin_musagara @cryptocom @Venmo Simple integrations but very effective, it's closer t",
+                "source": "Twitter @angrycryptoshow",
+                "date": "2026-03-09",
+                "url": "https://x.com/angrycryptoshow/status/2030703209501647225",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-03-09-competitor-3",
+                "title": "Happy International Women’s Day! \n\nToday we recognize the women at BitGo and within the industry who",
+                "source": "Twitter @BitGo",
+                "date": "2026-03-09",
+                "url": "https://x.com/BitGo/status/2030712635742953794",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-09-competitor-4",
+                "title": "A year ago, Coinbase launched crypto backed loans powered by $MORPHO on coinbase\n\nSince then, the in",
+                "source": "Twitter @FIRED2035",
+                "date": "2026-03-09",
+                "url": "https://x.com/FIRED2035/status/2030557494364565543",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-03-09-industry-0",
+                "title": "Monumental Starts Up First Project under New Partnership with NZEC",
+                "source": "Rigzone",
+                "date": "2026-03-09",
+                "url": "https://www.rigzone.com/news/monumental_starts_up_first_project_under_new_partnership_with_nzec-08-mar-2026-183151-article/",
+                "category": "industry",
+                "summary": "Monumental与NZEC的合作项目启动。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-09-industry-1",
+                "title": "What caused Scream 7's steep second-week fall? #entertainment",
+                "source": "Alltoc.com",
+                "date": "2026-03-09",
+                "url": "https://alltoc.com/entertainment/what-caused-scream-7-s-steep-second-week-fall",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-09-industry-2",
+                "title": "Lyn governs the establishment and maintenance of B cell anergy by suppressing PI3K signaling",
+                "source": "Nature.com",
+                "date": "2026-03-09",
+                "url": "https://www.nature.com/articles/s41467-026-70085-z",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-09-industry-3",
+                "title": "Pushing and Pulling: Three reactivity algorithms",
+                "source": "Jonathan-frere.com",
+                "date": "2026-03-09",
+                "url": "https://jonathan-frere.com/posts/reactivity-algorithms/",
+                "category": "industry",
+                "summary": "讨论了反应性算法的技术发展。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展"
+                ],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-09-industry-4",
+                "title": "AT&T Actress Milana Vayntrub Had A Key Role In A Controversial 2024 Netflix Series",
+                "source": "TVLine",
+                "date": "2026-03-09",
+                "url": "https://www.tvline.com/2115553/att-actress-milana-vayntrub-2024-netflix-series-monsters-menendez-brothers/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-09-industry-5",
+                "title": "God of War Sons of Sparta review: This series' metroidvania prequel is serviceable, but shines like ",
+                "source": "TechRadar",
+                "date": "2026-03-09",
+                "url": "https://www.techradar.com/gaming/god-of-war-sons-of-sparta-review",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-09-industry-6",
+                "title": "Woman in custody after missing 6-year-old child found, several other kids left unattended",
+                "source": "Yahoo Entertainment",
+                "date": "2026-03-09",
+                "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9ef3d392-ccc6-4f4e-9ea3-18bd8a87da09",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险"
+            },
+            {
+                "id": "2026-03-09-industry-7",
+                "title": "Show HN: Ethernity: Secure paper backups with age encryption and SSS",
+                "source": "Github.com",
+                "date": "2026-03-09",
+                "url": "https://github.com/MinorGlitch/ethernity",
+                "category": "industry",
+                "summary": "Ethernity 提供安全的纸质备份解决方案。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展"
+                ],
+                "action": "关注技术安全性的发展动态",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-09-industry-8",
+                "title": "CRC unveils app to expand financial services access",
+                "source": "The Punch",
+                "date": "2026-03-09",
+                "url": "https://punchng.com/crc-unveils-app-to-expand-financial-services-access/",
+                "category": "industry",
+                "summary": "CRC推出应用以扩展金融服务接入。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注金融服务领域的技术进展",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-09-industry-9",
+                "title": "The Funding: Why NYSE parent ICE chose OKX for a reported $200 million investment at a $25 billion v",
+                "source": "The Block",
+                "date": "2026-03-09",
+                "url": "https://www.theblock.co/post/392772/why-nyse-parent-ice-okx-reported-200-million-investment-25-billion-valuation?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "ICE投资OKX，显示加密行业活跃度。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注ICE与OKX的合作动态",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购",
+                "tickers": [
+                    "ICE",
+                    "OKX"
+                ]
+            },
+            {
+                "id": "2026-03-09-industry-10",
+                "title": "Treasury tells Congress mixers have valid privacy uses, recommends ‘hold law’ for suspicious crypto",
+                "source": "The Block",
+                "date": "2026-03-09",
+                "url": "https://www.theblock.co/post/392769/treasury-tells-congress-mixers-have-valid-privacy-uses-recommends-hold-law-for-suspicious-crypto?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "财政部建议对可疑加密交易采取措施。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管政策变化，调整合规策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-09-industry-11",
+                "title": "Alibaba-linked AI agent hijacked GPUs for unauthorized crypto mining, researchers say",
+                "source": "The Block",
+                "date": "2026-03-09",
+                "url": "https://www.theblock.co/post/392765/alibaba-linked-ai-agent-hijacked-gpus-for-unauthorized-crypto-mining-researchers-say?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "阿里巴巴关联的AI代理被用于未经授权的加密货币挖矿。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注加密货币挖矿对市场的影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-09-industry-12",
+                "title": "Treasury Urges Congress to Give Crypto Platforms Power to Freeze Suspicious Funds",
+                "source": "Decrypt",
+                "date": "2026-03-09",
+                "url": "https://decrypt.co/360389/treasury-congres-crypto-platforms-freeze-suspicious-funds",
+                "category": "industry",
+                "summary": "财政部提议赋予加密平台冻结可疑资金的权力。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管政策变化对业务的影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-09-industry-13",
+                "title": "Asia's weekly TOP10 crypto news: Surge in Iranian Crypto Asset Outflows, Russia Plans Separate Stabl",
+                "source": "Google News (stablecoin regulation Hong Kong)",
+                "date": "2026-03-09",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QVndCamVFMVpxZGZyaTNqWDJQVFNJSmJZaFF3c2xLeXdzTmNBX1YyTWc2cUgzcF9HdlQ2SE55OW53MXc0RFR1SzV3cjJwU3VjWFdYU2VMcEVqRklFMFpUVG10eWFEcGNrUkNNV2pvdFVTeUxaR2c?oc=5",
+                "category": "industry",
+                "summary": "俄罗斯计划独立的稳定币立法将影响行业发展。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注稳定币相关的监管动态。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-09-industry-14",
+                "title": "Analyst flags Hecto Financial growth potential as stablecoin settlement hub - 디지털투데이",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-03-09",
+                "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObk1vbVk0cVRXZlUxcXpBMnhNTXhlZm1hT2NKQ0w3QXpCdWRqdUtiWG80c3dTVWMzb3dxQ2U0ZmVzLVNiakIxTnFSbEJYSzZmUkZZWC1LTExneWlHZTN0Y05xYkE4MHg0YW85Z29XYTI1UzJPbWRVMVNvSmY2bkY4aWRrZnRzUkxXQXkyY0JDVEhJNE00a215anhWclpUejlVSVFldDNVVjBycE0?oc=5",
+                "category": "industry",
+                "summary": "分析师指出Hecto Financial作为稳定币结算中心的增长潜力。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注Hecto Financial的市场动态，评估潜在影响。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Hecto Financial"
+                ]
+            },
+            {
+                "id": "2026-03-09-industry-15",
+                "title": "XRP shows strong momentum amid growing adoption:\n\n🔶 Positive ETF inflows signaling institutional con",
+                "source": "Twitter @BitrueOfficial",
+                "date": "2026-03-09",
+                "url": "https://x.com/BitrueOfficial/status/2030856099788673488",
+                "category": "industry",
+                "summary": "XRP在稳定币交易中表现强劲。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币市场的动态和技术进展。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-09-industry-16",
+                "title": "➟ Dune stablecoin data reveals:\n\n• Stablecoin market reached $304B as of January 2026 (up 49% YoY)\n\n",
+                "source": "Twitter @Tom_Degen68",
+                "date": "2026-03-09",
+                "url": "https://x.com/Tom_Degen68/status/2030854309064417622",
+                "category": "industry",
+                "summary": "稳定币市场达到3040亿美元，增长显著。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场份额变化，调整策略。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-09-industry-17",
+                "title": "Cross-Border Payment Rails Cut Fiat Settlement Costs by 60 Percent --&gt; https://t.co/l4IVrWVBIH  #",
+                "source": "Twitter @lolacoinews",
+                "date": "2026-03-09",
+                "url": "https://x.com/lolacoinews/status/2030701765264298244",
+                "category": "industry",
+                "summary": "跨境支付降低法币结算成本60%。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注跨境支付技术的进展。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-09-industry-18",
+                "title": "USDT is unique.\n\nThe largest sender is < 5% of total send volume, compared to others that have almos",
+                "source": "Twitter @paoloardoino",
+                "date": "2026-03-09",
+                "url": "https://x.com/paoloardoino/status/2030576495773499718",
+                "category": "industry",
+                "summary": "USDT在稳定币市场中的独特性分析。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注USDT对市场的影响和竞争策略。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-09-industry-19",
+                "title": "GM🌹\n\nHappy International Women’s Day! \n\nTag a woman in crypto who inspires you and say why\n\n#Interna",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-03-09",
+                "url": "https://x.com/WEEX_Official/status/2030521736677175714",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-09-industry-20",
+                "title": "10 years ago today, Bitcoin was $410",
+                "source": "Twitter @BitunixOfficial",
+                "date": "2026-03-09",
+                "url": "https://x.com/BitunixOfficial/status/2030673898916732957",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-09-industry-21",
+                "title": "Happy Women's Day 💚\n\nBlockchain is built on equal access, and we're grateful for the incredible wome",
+                "source": "Twitter @BitunixOfficial",
+                "date": "2026-03-09",
+                "url": "https://x.com/BitunixOfficial/status/2030584311431176538",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            }
+        ],
+        "stats": {
+            "totalThreats": 5,
+            "highThreats": 0,
+            "mediumThreats": 0,
+            "lowThreats": 0,
+            "competitorUpdates": 5,
+            "customerUpdates": 0,
+            "industryUpdates": 22
+        },
+        "dailySummary": {
+            "competitorThreat": "今日最大的竞争威胁来自于Fireblocks，因其在钱包市场的份额不断扩大，显示出强大的市场主导能力。同时，BitGo在国际妇女节的庆祝活动中提升了品牌形象，可能吸引更多用户关注。此外，Coinbase的加密贷款产品持续增长，显示出其在金融服务领域的创新能力。应对建议是：加强技术整合与用户体验，提升品牌形象，并关注市场动态，及时调整产品策略以保持竞争力。",
+            "industryTrend": "今日行业热点主要集中在Monumental与NZEC的合作项目启动，以及ICE对OKX的重大投资。这显示出加密行业的活跃度和市场对创新金融服务的需求持续增长。值得关注的是，CRC推出的新应用旨在扩展金融服务的接入，这可能进一步推动稳定币在日常交易和金融服务中的应用。随着基础设施的不断完善，稳定币托管和支付系统将迎来更多的整合机会，促进更广泛的用户接受度和市场信任度，助力行业的长期发展。"
+        },
+        "highlights": {
+            "competitors": [
+                {
+                    "id": "2026-03-09-competitor-0",
+                    "title": "Charles Hoskinson: “We need to bottom sell 6,900,000 $ada for a project that I think is neato.”\n\nAls",
+                    "source": "Twitter @jayedii",
+                    "date": "2026-03-09",
+                    "url": "https://x.com/jayedii/status/2030776821101576434",
+                    "category": "competitor",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "Fireblocks"
+                    ]
+                },
+                {
+                    "id": "2026-03-09-competitor-1",
+                    "title": "here’s the wallet share by volume\n\nthe gap gets even bigger here, with rabby dominating even more st",
+                    "source": "Twitter @robotevm",
+                    "date": "2026-03-09",
+                    "url": "https://x.com/robotevm/status/2030715154518671787",
+                    "category": "competitor",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "Fireblocks"
+                    ]
+                },
+                {
+                    "id": "2026-03-09-competitor-2",
+                    "title": "@corroonian @martin_musagara @cryptocom @Venmo Simple integrations but very effective, it's closer t",
+                    "source": "Twitter @angrycryptoshow",
+                    "date": "2026-03-09",
+                    "url": "https://x.com/angrycryptoshow/status/2030703209501647225",
+                    "category": "competitor",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "Fireblocks"
+                    ]
+                }
+            ],
+            "clients": [],
+            "industry": [
+                {
+                    "id": "2026-03-09-industry-0",
+                    "title": "Monumental Starts Up First Project under New Partnership with NZEC",
+                    "source": "Rigzone",
+                    "date": "2026-03-09",
+                    "url": "https://www.rigzone.com/news/monumental_starts_up_first_project_under_new_partnership_with_nzec-08-mar-2026-183151-article/",
+                    "category": "industry",
+                    "summary": "Monumental与NZEC的合作项目启动。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "",
+                    "subcategory": "other",
+                    "subcategoryName": "其他"
+                },
+                {
+                    "id": "2026-03-09-industry-1",
+                    "title": "What caused Scream 7's steep second-week fall? #entertainment",
+                    "source": "Alltoc.com",
+                    "date": "2026-03-09",
+                    "url": "https://alltoc.com/entertainment/what-caused-scream-7-s-steep-second-week-fall",
+                    "category": "industry",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "subcategory": "other",
+                    "subcategoryName": "其他"
+                },
+                {
+                    "id": "2026-03-09-industry-2",
+                    "title": "Lyn governs the establishment and maintenance of B cell anergy by suppressing PI3K signaling",
+                    "source": "Nature.com",
+                    "date": "2026-03-09",
+                    "url": "https://www.nature.com/articles/s41467-026-70085-z",
+                    "category": "industry",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "subcategory": "other",
+                    "subcategoryName": "其他"
+                }
+            ]
+        }
+    },
+    {
         "date": "2026-03-08",
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-03-08.md",
