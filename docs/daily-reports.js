@@ -4,6 +4,1500 @@
 
 const dailyReports = [
     {
+        "date": "2026-03-10",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-03-10.md",
+        "newsItems": [
+            {
+                "id": "2026-03-10-competitor-0",
+                "title": "年収1,000万円超が選ぶ暗号資産取引所、同率2位「GMOコイン」「Coincheck」1位は？",
+                "source": "Prtimes.jp",
+                "date": "2026-03-10",
+                "url": "https://prtimes.jp/main/html/rd/p/000000016.000103720.html",
+                "category": "competitor",
+                "summary": "年收入高的用户选择的交易所排名分析。",
+                "threatLevel": "medium",
+                "impact": [
+                    "产品竞争",
+                    "客户争夺",
+                    "市场定价"
+                ],
+                "action": "关注竞争对手动态，调整市场策略。",
+                "tickers": [
+                    "GMOコイン",
+                    "Coincheck"
+                ]
+            },
+            {
+                "id": "2026-03-10-competitor-1",
+                "title": "Fireblocks Named a Market Leader in Stablecoin Payments Infrastructure",
+                "source": "Fireblocks Blog",
+                "date": "2026-03-10",
+                "url": "https://www.fireblocks.com/blog/market-leader-fxc-stablecoin-payments-infrastructure-buyers-guide",
+                "category": "competitor",
+                "summary": "Fireblocks被评为稳定币支付基础设施市场领导者。",
+                "threatLevel": "high",
+                "impact": [
+                    "产品竞争",
+                    "市场定价",
+                    "技术差距"
+                ],
+                "action": "关注Fireblocks的技术动态，提升自身竞争力。",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-03-10-competitor-2",
+                "title": "KAST raises $80 million at $600 million valuation to expand stablecoin payments platform - CoinDesk",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOTdfZHE1TGdJQV9ZSWFCTkZHeDhWSm10cmtWT0pQZm4yNEpreW1PSTlZSHB6YmN1NU45M0lKRlVIV0lYaXlRUlZUZzAtU3lxenlHOXFPUzJnR0hsNGNnRi01SEc3Q2RCUGNlNnVYQkcwYUx3YzJVVDdHUzNNbzY3SzRHMlZ4OFZKUmNTNVhxT0V0bEEtUWxnNG1NZ3NFV2stWTB3MmVYcFJwdW9mU0FoMTBXa2N3QVA0NFkwX3h1V3BPMFhIMWp2U081WG5YLVRjM044?oc=5",
+                "category": "competitor",
+                "summary": "KAST融资扩展稳定币支付平台。",
+                "threatLevel": "high",
+                "impact": [
+                    "产品竞争",
+                    "客户争夺",
+                    "市场定价"
+                ],
+                "action": "关注KAST动态，调整市场策略。",
+                "tickers": [
+                    "KAST"
+                ]
+            },
+            {
+                "id": "2026-03-10-competitor-3",
+                "title": "Stablecoin Payments Firm KAST Raises $80 Million in Funding - Bloomberg.com",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeTlPWVRFWDJ6Q25IdVFVekoxal9pSmF1UWpXTk1JcVp2WHVOS05sZGdGakJkZU5Uekl5TVlSdHlfT3p4Wl9XZGFsR2FyYldaWjJfYVFFNEtoT18wWkhyRURJQ3lacThRMEZuRXU1MUJKQ2pVRmhCMWRaMm50RHlQY2VRc1l0LWxIb2tMVUxpdXhfUTlBOTY5aU9uQzVNb2lsVm1DV0NSRV9kazRPZnc?oc=5",
+                "category": "competitor",
+                "summary": "稳定币支付公司KAST融资8000万美元。",
+                "threatLevel": "high",
+                "impact": [
+                    "产品竞争",
+                    "客户争夺",
+                    "市场定价"
+                ],
+                "action": "关注KAST的市场动态，调整竞争策略。",
+                "tickers": [
+                    "KAST"
+                ]
+            },
+            {
+                "id": "2026-03-10-competitor-4",
+                "title": "Rum Point at sunset. Then the main stage.\n\n@TresDotFinance's Sergio Silva chaired \"Scaling Onchain\" ",
+                "source": "Twitter @FireblocksHQ",
+                "date": "2026-03-10",
+                "url": "https://x.com/FireblocksHQ/status/2031105435902607598",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": ""
+            },
+            {
+                "id": "2026-03-10-competitor-5",
+                "title": "@moinkeeofficial @XHiring @LaborXNews @saydialect Thanks for the social love. Pls make note our logo",
+                "source": "Twitter @FireblocksHQ",
+                "date": "2026-03-10",
+                "url": "https://x.com/FireblocksHQ/status/2031053454731325678",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": ""
+            },
+            {
+                "id": "2026-03-10-competitor-6",
+                "title": "Ecosystem infrastructure\nAlongside these initiatives, Iagon is working on infrastructure integration",
+                "source": "Twitter @IagonOfficial",
+                "date": "2026-03-10",
+                "url": "https://x.com/IagonOfficial/status/2030984484472950845",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-03-10-competitor-7",
+                "title": "@IagonOfficial May i ask if this is for CEX listing OR fireblocks integration?",
+                "source": "Twitter @hominestic",
+                "date": "2026-03-10",
+                "url": "https://x.com/hominestic/status/2030963490685329692",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-03-10-competitor-8",
+                "title": "🔴 ธนาคารสหรัฐฯ เดือด เตรียมฟ้อง OCC หลังปล่อยใบอนุญาตแบงก์ให้ Ripple, BitGo, Paxos\n\nhttps://t.co/blF",
+                "source": "Twitter @siamblockchain",
+                "date": "2026-03-10",
+                "url": "https://x.com/siamblockchain/status/2031203277128478753",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-10-competitor-9",
+                "title": "BitGo CEO @mikebelshe joined @APompliano at Bitcoin Investor Week to discuss the historical parallel",
+                "source": "Twitter @BitGo",
+                "date": "2026-03-10",
+                "url": "https://x.com/BitGo/status/2031143885645427066",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-10-competitor-10",
+                "title": "By the end of 2025, more than $100 million in sBTC and STX was participating in Dual Stacking, makin",
+                "source": "Twitter @_IniubongAbasi",
+                "date": "2026-03-10",
+                "url": "https://x.com/_IniubongAbasi/status/2031113499565502748",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks",
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-10-competitor-11",
+                "title": "You don't think about who runs the electrical grid.\n\nYou just flip the switch and the lights come on",
+                "source": "Twitter @BitGo",
+                "date": "2026-03-10",
+                "url": "https://x.com/BitGo/status/2031089248703754613",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-10-competitor-12",
+                "title": "20,000,000 $BTC\n\nThe era of the, \"Final Million\" has officially begun.\n\nIt took 17 years of unpreced",
+                "source": "Twitter @BitGo",
+                "date": "2026-03-10",
+                "url": "https://x.com/BitGo/status/2031078449377624254",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-10-competitor-13",
+                "title": "Digital asset treasuries are doing more than just HODLing.\n\nAdam Sporn, Head of NA Institutional Sal",
+                "source": "Twitter @BitGo",
+                "date": "2026-03-10",
+                "url": "https://x.com/BitGo/status/2031069531880444062",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-10-competitor-14",
+                "title": "The heart of digital asset adoption beats loudest in LatAm. 🇧🇷\n\nBitGo is landing in Rio at Smart Sum",
+                "source": "Twitter @BitGo",
+                "date": "2026-03-10",
+                "url": "https://x.com/BitGo/status/2031054118094254397",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-10-competitor-15",
+                "title": "1/ Bitcoin for Corporations is $STRC. In Las Vegas, Prevalon Energy, @Anchorage Digital &amp; @ORANJ",
+                "source": "Twitter @Strategy",
+                "date": "2026-03-10",
+                "url": "https://x.com/Strategy/status/2031125125626503495",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-03-10-competitor-16",
+                "title": "The market signal has flipped. It used to be a risk to get into crypto. Now, it's a risk to stay out",
+                "source": "Twitter @Anchorage",
+                "date": "2026-03-10",
+                "url": "https://x.com/Anchorage/status/2031041854389498171",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-03-10-competitor-17",
+                "title": "Traditional banking is hitting a digital asset inflection point.  BitGo’s Executive Director of Fint",
+                "source": "Twitter @BitGo",
+                "date": "2026-03-10",
+                "url": "https://x.com/BitGo/status/2030992008341307756",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-10-competitor-18",
+                "title": "The EU regulatory landscape has a new benchmark. 🇪🇺\n\nBitGo Europe has officially secured dual author",
+                "source": "Twitter @BitGo",
+                "date": "2026-03-10",
+                "url": "https://x.com/BitGo/status/2030901403842236897",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-10-competitor-19",
+                "title": "🎧 Meet your new weekly guide to the convergence of crypto and TradFi. \n\nHosted by @dlawant, @Matt_Ho",
+                "source": "Twitter @Anchorage",
+                "date": "2026-03-10",
+                "url": "https://x.com/Anchorage/status/2031059028902818221",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": ""
+            },
+            {
+                "id": "2026-03-10-customer-0",
+                "title": "New Listing Alert on #WEEX🔔\nWe're excited to announce the spot listing of $USAT @usat on WEEX!\n\n🔹Lis",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-03-10",
+                "url": "https://x.com/WEEX_Official/status/2030933634757390387",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "WEEX"
+                ]
+            },
+            {
+                "id": "2026-03-10-customer-1",
+                "title": "$PAXG Flexible Earn is now available. ✨\n\nEarn up to 2% APR while holding gold-backed crypto.\n\nSimple",
+                "source": "Twitter @BitunixOfficial",
+                "date": "2026-03-10",
+                "url": "https://x.com/BitunixOfficial/status/2030993047849177174",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Bitunix"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-0",
+                "title": "A 4,4-connected 2D POM-based complex with synergistic mixed-valence CuI/CuII for mild and efficient ",
+                "source": "Royal Society of Chemistry",
+                "date": "2026-03-10",
+                "url": "https://pubs.rsc.org/en/content/articlelanding/2026/ta/d6ta00645k",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-10-industry-1",
+                "title": "Rational Design and Scalable Fabrication of Flexible 3D Copper-Based Composite Electrodes for Enhanc",
+                "source": "Royal Society of Chemistry",
+                "date": "2026-03-10",
+                "url": "https://pubs.rsc.org/en/content/articlelanding/2026/tc/d6tc00076b",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Copper"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-2",
+                "title": "Bitcoin Poker Sites in 2025: Why BC Poker Is the Most Serious Platform Yet",
+                "source": "GlobeNewswire",
+                "date": "2026-03-10",
+                "url": "https://www.globenewswire.com/news-release/2026/03/09/3251490/0/en/Bitcoin-Poker-Sites-in-2025-Why-BC-Poker-Is-the-Most-Serious-Platform-Yet.html",
+                "category": "industry",
+                "summary": "比特币扑克平台的行业动态分析。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注比特币相关平台的发展动态。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-10-industry-3",
+                "title": "Crypto funding up 50% in 12 months as fewer, larger deals dominate",
+                "source": "Cointelegraph",
+                "date": "2026-03-10",
+                "url": "https://cointelegraph.com/news/crypto-funding-up-50-percent-despite-fewer-deals",
+                "category": "industry",
+                "summary": "加密融资在过去一年增长显著。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注加密融资动态，调整策略。",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-03-10-industry-5",
+                "title": "Mint Quick Edit | End of Iran’s regime? Why prediction markets generate both information and anxiety",
+                "source": "Livemint",
+                "date": "2026-03-10",
+                "url": "https://www.livemint.com/opinion/online-views/mint-quick-edit-end-of-iran-regime-prediction-markets-kalshi-polymarket-information-anxiety-11772975849962.html",
+                "category": "industry",
+                "summary": "预测市场引发的信息与焦虑讨论",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注预测市场对稳定币的影响",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-10-industry-6",
+                "title": "AI Labs Introduces AI-Assisted Crypto Trading Platform Focused on Data Analysis and Automated Execut",
+                "source": "GlobeNewswire",
+                "date": "2026-03-10",
+                "url": "https://www.globenewswire.com/news-release/2026/03/09/3251486/0/en/AI-Labs-Introduces-AI-Assisted-Crypto-Trading-Platform-Focused-on-Data-Analysis-and-Automated-Execution.html",
+                "category": "industry",
+                "summary": "AI Labs推出AI辅助加密交易平台，关注数据分析与自动执行。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注AI技术在加密交易中的应用",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-10-industry-7",
+                "title": "memshield added to PyPI",
+                "source": "Pypi.org",
+                "date": "2026-03-10",
+                "url": "https://pypi.org/project/memshield/",
+                "category": "industry",
+                "summary": "memshield被添加到PyPI，涉及加密技术的更新。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展"
+                ],
+                "action": "关注技术动态，评估其对业务的影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-10-industry-8",
+                "title": "Polymarket and Kalshi Each Targeting $20 Billion Valuations",
+                "source": "pymnts.com",
+                "date": "2026-03-10",
+                "url": "https://www.pymnts.com/news/investment-tracker/2026/polymarket-and-kalshi-each-targeting-20-billion-valuations/",
+                "category": "industry",
+                "summary": "Polymarket和Kalshi目标市值达200亿美元。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场动态与竞争对手发展。",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-03-10-industry-9",
+                "title": "Do squirrels come out late at night?",
+                "source": "Lifesciencesworld.com",
+                "date": "2026-03-10",
+                "url": "https://www.lifesciencesworld.com/do-squirrels-come-out-late-at-night/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-10-industry-10",
+                "title": "Major plumbing headache haunts $13 billion U.S. carrier off the coast of",
+                "source": "Freerepublic.com",
+                "date": "2026-03-10",
+                "url": "https://freerepublic.com/focus/f-chat/4369893/posts",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-10-industry-11",
+                "title": "Easebuzz in hunt for Rs 300 crore, valuation may cross $250 million",
+                "source": "The Times of India",
+                "date": "2026-03-10",
+                "url": "https://economictimes.indiatimes.com/tech/startups/easebuzz-in-hunt-for-rs-300-crore-valuation-may-cross-250-million/articleshow/129284364.cms",
+                "category": "industry",
+                "summary": "Easebuzz 正在寻求融资以提升估值。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注市场融资动态，评估潜在影响。",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-03-10-industry-12",
+                "title": "Playbook Partners leads a $11 million round in enterprise technology firm KaarTech",
+                "source": "The Times of India",
+                "date": "2026-03-10",
+                "url": "https://economictimes.indiatimes.com/tech/funding/playbook-partners-leads-a-11-million-round-in-enterprise-technology-firm-kaartech/articleshow/129284584.cms",
+                "category": "industry",
+                "summary": "Playbook Partners投资企业技术公司KaarTech。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "KaarTech"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-13",
+                "title": "Why was Rihanna's LA home shot at? #tabloid",
+                "source": "Alltoc.com",
+                "date": "2026-03-10",
+                "url": "https://alltoc.com/tabloid/why-was-rihanna-s-la-home-shot-at",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-10-industry-14",
+                "title": "Banks to launch Zippay instant payments this week",
+                "source": "The Irish Times",
+                "date": "2026-03-10",
+                "url": "https://www.irishtimes.com/business/2026/03/09/banks-to-launch-zippay-instant-payments-this-week/",
+                "category": "industry",
+                "summary": "银行将推出即时支付服务Zippay。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注即时支付市场动态，评估影响。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-10-industry-15",
+                "title": "Blockchain.com expands operations to Ghana in push for African growth",
+                "source": "The Block",
+                "date": "2026-03-10",
+                "url": "https://www.theblock.co/post/392919/blockchain-com-ghana?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-10-industry-16",
+                "title": "Coinbase and Paxos tap USDC, PYUSD stablecoins to pay Aon insurance premiums",
+                "source": "The Block",
+                "date": "2026-03-10",
+                "url": "https://www.theblock.co/post/392893/coinbase-paxos-usdc-pyusd-stablecoins-pay-aon-insurance-premiums?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "Aon接受稳定币支付保险费用，显示行业趋势。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币在金融服务中的应用趋势",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Coinbase",
+                    "Paxos"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-17",
+                "title": "Zcash Open Development Lab raises $25 million from leading crypto investors Paradigm, a16z and other",
+                "source": "The Block",
+                "date": "2026-03-10",
+                "url": "https://www.theblock.co/post/392878/zcash-open-development-lab-raises-25-million-crypto-investors-paradigm-a16z-others?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "Zcash开放开发实验室获得2500万美元融资，推动技术发展。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展",
+                    "投资机会"
+                ],
+                "action": "关注Zcash技术进展对市场的影响",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购",
+                "tickers": [
+                    "Zcash",
+                    "Paradigm",
+                    "a16z"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-18",
+                "title": "Sonic Labs taps Frax infrastructure for native network stablecoin",
+                "source": "The Block",
+                "date": "2026-03-10",
+                "url": "https://www.theblock.co/post/392860/sonic-labs-taps-frax-infrastructure-native-network-stablecoin?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "Sonic Labs推出基于资产的稳定币USSD。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币市场动态，评估竞争影响。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "BlackRock",
+                    "WisdomTree",
+                    "Superstate"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-19",
+                "title": "South Korea crypto exchange Bithumb hit with suspension, CEO faces disciplinary action: report",
+                "source": "The Block",
+                "date": "2026-03-10",
+                "url": "https://www.theblock.co/post/392846/south-korea-crypto-exchange-bithumb-suspension-ceo-disciplinary-action-report?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "Bithumb因错误转账遭调查，影响行业信任。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "竞争格局"
+                ],
+                "action": "关注监管动态，评估潜在影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Bithumb"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-20",
+                "title": "US banking lobby weighs lawsuit against OCC over crypto, fintech national trust charters: report",
+                "source": "The Block",
+                "date": "2026-03-10",
+                "url": "https://www.theblock.co/post/392839/us-banking-lobby-weighs-lawsuit-against-occ-over-crypto-fintech-national-trust-charters-report?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "美国银行业游说团考虑对OCC提起诉讼，涉及加密监管政策。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "竞争格局"
+                ],
+                "action": "关注监管动态，评估潜在影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-10-industry-21",
+                "title": "Bitmine lifts Ethereum treasury to 4.53 million ETH after adding 60,976 tokens in a week amid ‘mini-",
+                "source": "The Block",
+                "date": "2026-03-10",
+                "url": "https://www.theblock.co/post/392831/bitmine-lifts-ethereum-treasury-to-4-53-million-eth-after-adding-60976-tokens-in-a-week-amid-mini-crypto-winter?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "Bitmine增加以太坊储备至453.5万ETH。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "关注以太坊市场动态，评估影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-10-industry-22",
+                "title": "Nasdaq partners with Kraken parent Payward to link tokenized equities with DeFi networks",
+                "source": "The Block",
+                "date": "2026-03-10",
+                "url": "https://www.theblock.co/post/392818/nasdaq-partners-with-kraken-parent-payward-to-link-tokenized-equities-with-defi-networks?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "纳斯达克与Kraken母公司合作连接代币化股票与DeFi网络。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注区块链基础设施的进展",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Nasdaq",
+                    "Kraken",
+                    "Payward"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-23",
+                "title": "Stablecoin fintech KAST raises $80 million in Series A to fund global expansion",
+                "source": "The Block",
+                "date": "2026-03-10",
+                "url": "https://www.theblock.co/post/392812/stablecoin-fintech-kast-raises-80-million-in-series-a-to-fund-global-expansion?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "KAST融资8000万美元以扩展全球业务。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注稳定币市场动态与投资机会。",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购",
+                "tickers": [
+                    "KAST"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-24",
+                "title": "Bitcoin-based funds lead $619 million in weekly crypto ETP inflows despite Iran-driven market volati",
+                "source": "The Block",
+                "date": "2026-03-10",
+                "url": "https://www.theblock.co/post/392804/bitcoin-based-funds-lead-619-million-in-weekly-crypto-etp-inflows-despite-iran-driven-market-volatility-coinshares?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "尽管市场波动，投资者对加密ETP的需求回升。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "关注市场需求变化，调整策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-10-industry-25",
+                "title": "Coinbase rolls out crypto futures trading across 26 European countries",
+                "source": "The Block",
+                "date": "2026-03-10",
+                "url": "https://www.theblock.co/post/392797/coinbase-opens-crypto-futures-trading-europe?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "Coinbase在26个欧洲国家推出加密期货交易。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场动态，评估竞争影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Coinbase"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-26",
+                "title": "Bitcoin Shows ‘Tentative Signs of Improvement’ as Iran Conflict Fears Wane",
+                "source": "Decrypt",
+                "date": "2026-03-10",
+                "url": "https://decrypt.co/360512/bitcoin-tentative-signs-iran-conflict-fears-wane",
+                "category": "industry",
+                "summary": "比特币市场出现复苏迹象。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "关注市场动态，调整策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-10-industry-27",
+                "title": "Moldova's Anticorruption Center Alleges $107M Crypto Scheme to Influence Elections",
+                "source": "Decrypt",
+                "date": "2026-03-10",
+                "url": "https://decrypt.co/360396/moldova-107m-crypto-scheme-influence-elections",
+                "category": "industry",
+                "summary": "摩尔多瓦反腐中心指控107百万美元的加密货币选举影响计划。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注加密货币监管动态",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-10-industry-28",
+                "title": "Bitcoin Die-Hard Jack Dorsey Doesn't Like Stablecoins, But Block Will Use Them Anyway",
+                "source": "Decrypt",
+                "date": "2026-03-10",
+                "url": "https://decrypt.co/360444/bitcoin-die-hard-jack-dorsey-doesnt-like-stablecoins-block",
+                "category": "industry",
+                "summary": "Block将在Cash App中支持稳定币。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币市场动态，调整策略。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Block"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-29",
+                "title": "Coinbase Debuts Crypto Futures for European Traders, Including Bitcoin and Ethereum",
+                "source": "Decrypt",
+                "date": "2026-03-10",
+                "url": "https://decrypt.co/360420/coinbase-debuts-crypto-futures-european-traders-bitcoin-ethereum",
+                "category": "industry",
+                "summary": "Coinbase在欧洲推出加密期货交易。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场动态，评估潜在影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Coinbase"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-30",
+                "title": "Nigel Farage Backs Bitcoin Treasury Firm Chaired By Former Chancellor",
+                "source": "Decrypt",
+                "date": "2026-03-10",
+                "url": "https://decrypt.co/360431/nigel-farage-backs-bitcoin-treasury-firm-chaired-by-former-chancellor",
+                "category": "industry",
+                "summary": "Nigel Farage支持比特币公司融资。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注比特币相关融资动态",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Stack BTC",
+                    "Blockchain.com"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-31",
+                "title": "Nasdaq Partners With Kraken for Tokenized Stocks, Launching 2027",
+                "source": "Decrypt",
+                "date": "2026-03-10",
+                "url": "https://decrypt.co/360403/nasdaq-partners-with-kraken-for-tokenized-stocks-launching-2027",
+                "category": "industry",
+                "summary": "Nasdaq与Kraken合作推出代币化股票计划。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注代币化股票对市场的影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Nasdaq",
+                    "Kraken"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-32",
+                "title": "Post-Quantum Shift Could Force Crypto Exchanges to Rethink Wallet Security",
+                "source": "Decrypt",
+                "date": "2026-03-10",
+                "url": "https://decrypt.co/360394/post-quantum-shift-crypto-exchanges-wallet-security",
+                "category": "industry",
+                "summary": "加密交易所需重新考虑钱包安全性",
+                "threatLevel": "high",
+                "impact": [
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注钱包安全技术发展",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-10-industry-33",
+                "title": "Aave Users Reach Record as Traders Quietly Shift Capital Toward DeFi Lending",
+                "source": "Decrypt",
+                "date": "2026-03-10",
+                "url": "https://decrypt.co/360391/aave-monthly-active-users-record-defi-lending",
+                "category": "industry",
+                "summary": "投资者转向DeFi借贷，Aave使用量创纪录。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注DeFi借贷市场动态",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Aave"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-34",
+                "title": "Aon Says Stablecoins Speed Insurance Premium Payments - PYMNTS.com",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbXRqbmFGc0Z6M284d1lXRkJsZWFabXg4MXdQcHBac2RIUkxranZuMU04enh2bXB4andqdURDZ2t4UHJWSXdqaUNqeUdZNXdNYjJRUTdTTnh3VmhmNmRTX1h2RS1nTTlMcE5GbTVlWXZkV2c2WmYtdVIwVWl3d2FreWFBa1FGajgwMUt4ckV1M2gtQ2hMWGVkM25KaFY0UQ?oc=5",
+                "category": "industry",
+                "summary": "Aon表示稳定币加速保险费用支付。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币在保险行业的应用趋势。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-10-industry-35",
+                "title": "Aon executes ‘first known’ stablecoin insurance premium payment among major brokers - Reinsurance Ne",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX2FfODk4dWpMTUtFZ0xDRUZDTlRtRE4welF6RG9vcTFielUxUV91dWRKcnlpSm5FSzluWlRZVXNOQWR0Tl9FaXdzeHRzeUhCbHlDaUxIMVFCQkxra1FKbXZvR1dqMnBmeHpwMHBCdXE2eEoydlpjMV80OXdxTVBkNy10d0JqLTdwdGJYaVY4dnYtTTlPOXJzUGZ3X0Z6QUs1c2FhWml3UGJaZ1Bkd2o2Zw?oc=5",
+                "category": "industry",
+                "summary": "Aon首次使用稳定币支付保险费。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币在保险行业的应用",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Aon"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-36",
+                "title": "Coinbase Partner Announces First Stablecoin Insurance Payment Using Ethereum, Solana - Benzinga",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZGk4RU5YdkwwS3MxdWt2SEJsOHV4YXRJY1hqeUlYMXZCY3FDQk9zU21fWkJxcG9iMEpiSzQzX3U3cFBYTEZsOFp0QlM0Tm5OOExXN0VQZ1U5emc0bkZxdTlLckFJal9yU0ZKNU9adHY4bXRYaTc1X1VmN25jYXFUa1g2V2NlSnp5SGNxOTNaVE15UUR3RkxzdnVIaEFrcldUd3hzVVFGaWlaWlpjNHBlZkltV0NQRUIyVHlyZWFsc0VwM1lOSG9VMUhETkZGZFlCbVMydVpsWWhOb3ZrUGc?oc=5",
+                "category": "industry",
+                "summary": "Coinbase合作伙伴首次使用稳定币进行保险支付。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币保险支付的市场动态。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Coinbase"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-37",
+                "title": "Payments Firm Kast Raises $80 Million at $600 Million Valuation - FinanceFeeds",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX0FBUEJQeWpZVGkyWHFQVWd3NnhzOXg3akVuT3ZtV3F3dHlmUHRERkxySDI5QkFRVVduam9mUGF6TFVSLVRPLWk4azNFbW5MdThzeU5UWG1wNHFxdGhZeHNQSnJXXzZMYkVmbGFZMHZYbktJQVF1eWlhSlpUcXBPTDRZbzdZUDhMNEVkRTJDSGY?oc=5",
+                "category": "industry",
+                "summary": "支付公司Kast融资8000万美元，估值6亿美元。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注支付行业动态，评估市场机会。",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购",
+                "tickers": [
+                    "Kast"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-38",
+                "title": "Fireblocks Named Stablecoin Payments Market Leader by FXC - Fireblocks",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNUZmaTVLTWx3YWxySXB0VTRpaWQwckdUVE5EbnZ6Y1Y4UnBoYk41UExPSUl6S1c2VWF0RG5obGRoTmlyd3pRQzZvZVdCWTV3QXhFOUEyUXRCRUJ1M1lUNW13eDNFUjJtQVlxQUJKTjdRUHlEQmZhNThPTFUzU1Qyd3lDQ2hoX19DWGVicWpZWW9sMExYQ3NkY2cxbU9QZw?oc=5",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-39",
+                "title": "Aon Announces First Stablecoin Insurance Premium Payment - PR Newswire",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd1ZDTTdfaHJhbzZKelFRUncyV0FRTE44TDNqakJtcFZHRk0zQTZBaDc4M0Z3N0o5ZEkwNThnRHI3ZzlZOWpFNjViUFBWcGM3bWk5TWRaT25jZ09rM1ZRaVJkNXhobTZTdk0yZ29Dbzdrc1BzcjdlOE1RYW0tODZHZk5WTEtFdXoyMHN1eWxrdFd0UFp3QXpQYk44a3FxWWloSnBQcmNLeTZaa2xnSi1XdGRB?oc=5",
+                "category": "industry",
+                "summary": "Aon首次接受稳定币支付保险费用。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币在保险行业的应用动态。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Aon"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-40",
+                "title": "News Explorer — KAST Raises $80 Million to Expand Cross-Border Stablecoin Payments Platform - Decryp",
+                "source": "Google News (cross-border stablecoin)",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRWQ2eXpXZUVQSFlvMXRrbDdGVEFwRTYwWXZqclN3M0ExZEhQbmFIU3djTnZCZ2N1MEc1SldwLVU5NGRaaGFtd0I0SXZCcHlRNnM0UjNtV0ZSZnR3S2lsSkhrdHBwNHRLcjNZZlVyQXZVUEhVcmZZYXZrbnpHSWgzTllMUWFDcGhveFJ5WVItM3d4ZFpRNGotN2phYnV2Q2NuU08yVVY3V2hUR1FVLWZnSEJWUjYtQUV1dC1FWnJBUXZQbmV6OE13?oc=5",
+                "category": "industry",
+                "summary": "KAST融资扩展跨境稳定币支付平台。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注跨境支付市场动态。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "KAST"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-41",
+                "title": "Florida Senate Passes Stablecoin Licensing Bill as State Moves Toward Crypto Payment Rules - Coinpap",
+                "source": "Google News (stablecoin license)",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS1FXNnZ1WTM5R1hhenJZWnQ3b1lSaFVLVC1rd3Y3WVNBYjdScU45SXIzZWdidEJBLU9mNkwza3NsM3piY1lUS1FoNVBPWlFhRWRMYnBheFV0c1JydjJMNG9KVkQ0alZOR0N4bFRwMkUxYndTdDJtV2lVcTVNUUpiNWk5cUl5MThObnBuME9nc3hRRF9Fd01qSGJ6THJia3l2cFVBanhoWFFzWUF5UmstejlvLWFGZmRDWFE?oc=5",
+                "category": "industry",
+                "summary": "佛罗里达州通过稳定币许可法案，推动加密支付规则。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注稳定币监管动态，调整合规策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-10-industry-42",
+                "title": "21Shares research head says crypto spent years preparing for institutions - thestreet.com",
+                "source": "Google News (crypto custody institution)",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVEttNWRhZHhjM2ptZkdSU3ZpLUU2SEJ2ZVotQmYzblEzU1FsUHJNd0RWUmtOZzkyRE1jeF9ueGF5aVNoSGF4ZHVyX0t3ZlVDWDQydFJtTmFDV2M0S1NTQmRlUWx1b2dEVzA5NFVPNlpSa0x4QzB1U0R0SXhGSC1Pemg1bFVHRWJVWGp2dXNYLVMtZllkZGJ3bks4MXFKemNLNm9YZVppWEM1cHlqQV9ObnRodXI?oc=5",
+                "category": "industry",
+                "summary": "加密货币为机构投资者做准备的进展",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注机构投资者的需求变化",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-10-industry-43",
+                "title": "Financial Institutions Are Recognizing Growing Role Of Digital Assets : Analysis - Crowdfund Insider",
+                "source": "Google News (crypto custody institution)",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFFlLTAtTFhULVNtNi1iOXhqOE8zV2t3RGdMVGd1M1haRlNoUHRmRlM5YXF4YjE2WjFUZWpfVjlzcWJENlZsWDNvRndRYTBlb1cyYlNyYmdRdXNaYWNEUkdvak96eWhSU1BTRm56ZkplU0lsX0dQaWEyajdhZHBud21tTHB0OTVsNVdDU1N4S2ZLSFl0ZkUwR05WRUlFWF9wcXZsZ0pVR3Q1UkFfUXBiSEhGendwMXZBdTI3MWNvMHpIZEtMaHc?oc=5",
+                "category": "industry",
+                "summary": "金融机构逐渐认可数字资产的重要性。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "监管影响"
+                ],
+                "action": "关注数字资产监管动态",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-10-industry-44",
+                "title": "Circle tests stablecoin treasury transfers with USD$68M in internal payments - Mugglehead Investment",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNjVqbjFocUJWMUhtN3JHWGtjY1pQOXpaY0h3ZFo2ZEhYMy1VWUxpQjY3c19iT1pycTZsY0tSb1hnMEZLZFRfOTdtRG5lTU04MVJ6MTFFN1F6bk1jNzBsNXVhd0pDRkRRWEtyRndpd1NtVnpVVzkwTVZTaERjSHVvU296bHFpWVJHdHotM3F5TWt2Q19VS3hfM2I3aWk4ekUz?oc=5",
+                "category": "industry",
+                "summary": "Circle进行稳定币内部支付测试，金额达6800万美元。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币支付技术的进展",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Circle"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-45",
+                "title": "ClearToken Offers Regulated Stablecoin FX, Tokenised Settlement - Markets Media",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY2RLMjFLSFJPT2FWTXBZSlNBaENYSldSS3VXN0pyWU4xREpFYWR1ZDZETlRtN1RUcjU0Rll3bmFIZjY0UTMzT2pCNVJkb1ZCa2VRQVBtUWtldzBLcDVBNXRwRjJ6cUdfNGZCd2tVZ0JJeEFqZW5FMFR1T21EemZ4UUU5Z0J0bHlIc0E1b25DVEJvcWpfdlBB?oc=5",
+                "category": "industry",
+                "summary": "ClearToken推出受监管的稳定币外汇和代币化结算服务。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币市场的监管动态和技术创新。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-10-industry-46",
+                "title": "Global insurance broker Aon tests stablecoin payments on Ethereum, Solana with Coinbase, Paxos - Coi",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU2hhZHFsaEFHRlJ4OElVWUVzWDhRbEpZZ2pCR2RRYUYwZmctWC1oRTJVOGJSTWlwc0VydGU4V01xYmRoTWJ4Vjc5VTJjc09QelJsR1NRWlc4bEhkSWt1NW4xWnFZcmRhemQ1Y0cxRzJxbzEyTU9nY2xBTnlOaXNLQUc2azlhVGFMZUVjQkdtZlNNN052aDB1MzlBTE1fU1NtbFR3ZXFNU19OVkFkOUhLVkZmeXhNd2lkSnc?oc=5",
+                "category": "industry",
+                "summary": "Aon测试稳定币支付，影响行业动态。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币支付技术的进展",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Aon",
+                    "Coinbase",
+                    "Paxos"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-47",
+                "title": "Aon completes first stablecoin insurance premium settlement in US - theinsurer.com",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUHcyOTd5Qm9XdWkzNkFlMEt3bk40cG1jd0tJOUZVVko2bS1ZUTY4QTBYVWkxa2FTUGpUSklncl9JZnBlNHVwNE5ncUM5U2NpVEJXdXhUWlZ5MTNIVkx0NWhTSHhuX2VLWHVCaEJOY3pLc1gxblBKUS1yaEJTSnhFb2hna3hZYjdWR19ORHpxRG5lYTFnd0VoUVJBWEg2RXNDOXRCZjBDRXFPVUdmSnZqYTNR?oc=5",
+                "category": "industry",
+                "summary": "Aon在美国完成首个稳定币保险保费结算。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币在保险领域的应用潜力。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Aon"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-48",
+                "title": "UQPAY brings stablecoin settlement to global payments platform - IBS Intelligence",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS2R0bnB4V0RhUFNWS080eGR4YktsZDIzU0ktRmUxTy10ZVl2OGpSTkpuOW5vTlBvbW1uWDkwMVpOOTBKMnV2aU81OGpHTGhfajE2THlwY2M2VHlUZFltSkcxVEV4SHIzd3Fyc3F0Mmx0bU9Mc1BCYWhMM2ZrTWR6OXI1dkc2UFV5V0FJdUJMcFh1VGlZTzZxaVhUNGF4UUk0ekhv?oc=5",
+                "category": "industry",
+                "summary": "UQPAY在全球支付平台引入稳定币结算。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币在支付领域的应用趋势。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-10-industry-49",
+                "title": "ClearToken Unveils PvP Settlement Offering - The Full FX",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDYW1YVmF3X1hzTUpha05lTmRqRk9JRUhlZ2l0OEY2dTB6TldUR3JkeDhnLU1SMXpnTDR6SUhIaHA0R1ZweTJMZlRhRGdwTlB0VzVRbTg5Y0xOeFpmY0RERGR4WGxUTXIwbGRHTWpuR1Rkcms?oc=5",
+                "category": "industry",
+                "summary": "ClearToken推出PvP结算服务，影响支付行业",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注支付结算技术的发展",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-10-industry-50",
+                "title": "Aon tests stablecoin payments for insurance premiums with Paxos, Coinbase - TradingView",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-03-10",
+                "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV1RSczUxZUNwRkxWdU9ESDBZbHE0cTBOOE1kNDk5T0NqUGFjUWtGTjVZZERFUWpiRW5xamgta2ZYRW1va19KTTlZTzVXaFFvMVNCbEpzTW1xTlZBNGNDaGtmQjVlLXRBd2NFRVlCZ05kdVhmQy1oYS03RzVObkxFQmp5S0xkMXcyZHdGVWt1RUp2aHRGOE5rZDBuX3FjZTlYc01VQk9BU3RsQ2RHcmd3NzhQRmJnUnMtaWtMUDRDVlNwUVZtSzlRei12SDd6TjUzTWc?oc=5",
+                "category": "industry",
+                "summary": "Aon测试使用稳定币支付保险费。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币在保险行业的应用潜力。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Aon",
+                    "Paxos",
+                    "Coinbase"
+                ]
+            },
+            {
+                "id": "2026-03-10-industry-51",
+                "title": "🚨  JUST IN:    $.5 BILLION $USDC MINTED ON SOLANA!\n\n#SOLANA ⚡️ https://t.co/9NxbKIK9Yd",
+                "source": "Twitter @CryptoCurb",
+                "date": "2026-03-10",
+                "url": "https://x.com/CryptoCurb/status/2031218491945054350",
+                "category": "industry",
+                "summary": "Solana上铸造了5亿美元的USDC。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币市场动态，评估影响",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-10-industry-52",
+                "title": "NEW: An initial group of 25+ banks is set to go live by June 2026 under Swift’s new cross-border pay",
+                "source": "Twitter @Steph_iscrypto",
+                "date": "2026-03-10",
+                "url": "https://x.com/Steph_iscrypto/status/2031082594662592990",
+                "category": "industry",
+                "summary": "SWIFT将推出新的跨境支付方案。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注跨境支付市场动态。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-10-industry-53",
+                "title": "🇧🇷 LATEST: Brazil Expands Pix Instant Payment System to Argentina for Cross-Border Payments. \n\nExplo",
+                "source": "Twitter @coin_gabbar_",
+                "date": "2026-03-10",
+                "url": "https://x.com/coin_gabbar_/status/2030862087376040237",
+                "category": "industry",
+                "summary": "巴西扩展Pix系统至阿根廷进行跨境支付。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注跨境支付市场动态，评估影响。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-10-industry-54",
+                "title": "The 20,000,000th $BTC has been mined.\nOnly 1M Bitcoin left to be mined over the next century.\n\n🟰 Fix",
+                "source": "Twitter @BitunixOfficial",
+                "date": "2026-03-10",
+                "url": "https://x.com/BitunixOfficial/status/2031002592235679889",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-10-industry-55",
+                "title": "Rolling into the week.\nCharts ready. https://t.co/plQl8ERSv0",
+                "source": "Twitter @BitunixOfficial",
+                "date": "2026-03-10",
+                "url": "https://x.com/BitunixOfficial/status/2030968928684380283",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            }
+        ],
+        "stats": {
+            "totalThreats": 20,
+            "highThreats": 3,
+            "mediumThreats": 1,
+            "lowThreats": 0,
+            "competitorUpdates": 20,
+            "customerUpdates": 2,
+            "industryUpdates": 55
+        },
+        "dailySummary": {
+            "competitorThreat": "今日最大的竞争威胁来自于KAST和Fireblocks。KAST成功融资8000万美元，计划扩展其稳定币支付平台，这将增强其市场竞争力。与此同时，Fireblocks被评为稳定币支付基础设施的市场领导者，进一步巩固其在行业中的地位。建议关注这些公司的动态，尤其是在支付基础设施和用户体验方面的创新。同时，可以考虑加强自身平台的技术整合与合作，以提升竞争优势。",
+            "industryTrend": "今日行业热点主要集中在加密融资和监管动态上。加密融资在过去一年增长50%，显示出市场对大型交易的偏好；同时，财政部呼吁国会赋予加密平台冻结可疑资金的权力，反映出监管机构对行业合规性的重视。这些趋势可能推动稳定币托管和支付基础设施的进一步规范化，促进用户信任和市场成熟。此外，AI辅助交易平台的推出表明，技术创新将继续推动交易效率和数据分析能力，对稳定币的流动性和使用场景产生积极影响。"
+        },
+        "highlights": {
+            "competitors": [
+                {
+                    "id": "2026-03-10-competitor-0",
+                    "title": "年収1,000万円超が選ぶ暗号資産取引所、同率2位「GMOコイン」「Coincheck」1位は？",
+                    "source": "Prtimes.jp",
+                    "date": "2026-03-10",
+                    "url": "https://prtimes.jp/main/html/rd/p/000000016.000103720.html",
+                    "category": "competitor",
+                    "summary": "年收入高的用户选择的交易所排名分析。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "产品竞争",
+                        "客户争夺",
+                        "市场定价"
+                    ],
+                    "action": "关注竞争对手动态，调整市场策略。",
+                    "tickers": [
+                        "GMOコイン",
+                        "Coincheck"
+                    ]
+                },
+                {
+                    "id": "2026-03-10-competitor-1",
+                    "title": "Fireblocks Named a Market Leader in Stablecoin Payments Infrastructure",
+                    "source": "Fireblocks Blog",
+                    "date": "2026-03-10",
+                    "url": "https://www.fireblocks.com/blog/market-leader-fxc-stablecoin-payments-infrastructure-buyers-guide",
+                    "category": "competitor",
+                    "summary": "Fireblocks被评为稳定币支付基础设施市场领导者。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "产品竞争",
+                        "市场定价",
+                        "技术差距"
+                    ],
+                    "action": "关注Fireblocks的技术动态，提升自身竞争力。",
+                    "tickers": [
+                        "Fireblocks"
+                    ]
+                },
+                {
+                    "id": "2026-03-10-competitor-2",
+                    "title": "KAST raises $80 million at $600 million valuation to expand stablecoin payments platform - CoinDesk",
+                    "source": "Google News (stablecoin payment)",
+                    "date": "2026-03-10",
+                    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOTdfZHE1TGdJQV9ZSWFCTkZHeDhWSm10cmtWT0pQZm4yNEpreW1PSTlZSHB6YmN1NU45M0lKRlVIV0lYaXlRUlZUZzAtU3lxenlHOXFPUzJnR0hsNGNnRi01SEc3Q2RCUGNlNnVYQkcwYUx3YzJVVDdHUzNNbzY3SzRHMlZ4OFZKUmNTNVhxT0V0bEEtUWxnNG1NZ3NFV2stWTB3MmVYcFJwdW9mU0FoMTBXa2N3QVA0NFkwX3h1V3BPMFhIMWp2U081WG5YLVRjM044?oc=5",
+                    "category": "competitor",
+                    "summary": "KAST融资扩展稳定币支付平台。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "产品竞争",
+                        "客户争夺",
+                        "市场定价"
+                    ],
+                    "action": "关注KAST动态，调整市场策略。",
+                    "tickers": [
+                        "KAST"
+                    ]
+                }
+            ],
+            "clients": [
+                {
+                    "id": "2026-03-10-customer-0",
+                    "title": "New Listing Alert on #WEEX🔔\nWe're excited to announce the spot listing of $USAT @usat on WEEX!\n\n🔹Lis",
+                    "source": "Twitter @WEEX_Official",
+                    "date": "2026-03-10",
+                    "url": "https://x.com/WEEX_Official/status/2030933634757390387",
+                    "category": "customer",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "WEEX"
+                    ]
+                },
+                {
+                    "id": "2026-03-10-customer-1",
+                    "title": "$PAXG Flexible Earn is now available. ✨\n\nEarn up to 2% APR while holding gold-backed crypto.\n\nSimple",
+                    "source": "Twitter @BitunixOfficial",
+                    "date": "2026-03-10",
+                    "url": "https://x.com/BitunixOfficial/status/2030993047849177174",
+                    "category": "customer",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "Bitunix"
+                    ]
+                }
+            ],
+            "industry": [
+                {
+                    "id": "2026-03-10-industry-0",
+                    "title": "A 4,4-connected 2D POM-based complex with synergistic mixed-valence CuI/CuII for mild and efficient ",
+                    "source": "Royal Society of Chemistry",
+                    "date": "2026-03-10",
+                    "url": "https://pubs.rsc.org/en/content/articlelanding/2026/ta/d6ta00645k",
+                    "category": "industry",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "subcategory": "other",
+                    "subcategoryName": "其他"
+                },
+                {
+                    "id": "2026-03-10-industry-1",
+                    "title": "Rational Design and Scalable Fabrication of Flexible 3D Copper-Based Composite Electrodes for Enhanc",
+                    "source": "Royal Society of Chemistry",
+                    "date": "2026-03-10",
+                    "url": "https://pubs.rsc.org/en/content/articlelanding/2026/tc/d6tc00076b",
+                    "category": "industry",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "subcategory": "other",
+                    "subcategoryName": "其他",
+                    "tickers": [
+                        "Copper"
+                    ]
+                },
+                {
+                    "id": "2026-03-10-industry-2",
+                    "title": "Bitcoin Poker Sites in 2025: Why BC Poker Is the Most Serious Platform Yet",
+                    "source": "GlobeNewswire",
+                    "date": "2026-03-10",
+                    "url": "https://www.globenewswire.com/news-release/2026/03/09/3251490/0/en/Bitcoin-Poker-Sites-in-2025-Why-BC-Poker-Is-the-Most-Serious-Platform-Yet.html",
+                    "category": "industry",
+                    "summary": "比特币扑克平台的行业动态分析。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "关注比特币相关平台的发展动态。",
+                    "subcategory": "other",
+                    "subcategoryName": "其他"
+                }
+            ]
+        }
+    },
+    {
         "date": "2026-03-09",
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-03-09.md",
