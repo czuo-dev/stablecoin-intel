@@ -4,6 +4,1549 @@
 
 const dailyReports = [
     {
+        "date": "2026-03-19",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-03-19.md",
+        "newsItems": [
+            {
+                "id": "2026-03-19-competitor-0",
+                "title": "Coinbase Dives Into AI Agent Payments - The Information",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-03-19",
+                "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZRndXSGlndkdzU29GRG5lYURHZlEyS2M2Yk1qNjdpeHFPREdzSUNiT3E5N0p1aENPcjdwRDJlZlF0dkIwbFcwb0w4OVZLV050dVJLdmFkSUJnM0JVT1pZVTM3TEdkYi1rZmlBcjFfdHd5YV9rTXNVV0pJWkk?oc=5",
+                "category": "competitor",
+                "summary": "Coinbase 进入 AI 代理支付领域。",
+                "threatLevel": "medium",
+                "impact": [
+                    "产品竞争",
+                    "市场定价",
+                    "技术差距"
+                ],
+                "action": "关注 Coinbase 的支付技术动态。",
+                "tickers": [
+                    "Coinbase"
+                ]
+            },
+            {
+                "id": "2026-03-19-competitor-1",
+                "title": "Stablecoin payments firm TransFi raises $19 million for global expansion - The Block",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-03-19",
+                "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oMzdFNVlTYlZiT1ZDMmJocjg1M1VOTkltMmZ2cWJEdW8yWFFLOHhsV0k4VUpCTW84TlV3cEl2enVnU25hR09CMjZTZVQxV3RXNnR3cVFWVFdrZG5PTndNS0Nsa3lFZ21LLThtNUhR?oc=5",
+                "category": "competitor",
+                "summary": "TransFi融资以扩展其稳定币支付业务。",
+                "threatLevel": "high",
+                "impact": [
+                    "产品竞争",
+                    "客户争夺",
+                    "市场定价"
+                ],
+                "action": "关注TransFi动态，优化自身产品。",
+                "tickers": [
+                    "TransFi"
+                ]
+            },
+            {
+                "id": "2026-03-19-competitor-2",
+                "title": "Stablecoin Strategy: Mastercard to Acquire BVNK for US$1.8bn - FinTech Magazine",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-03-19",
+                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWmdNZjZRam4wNnFlQ1l3dE9oOGtSWXpESEpTeXJnRnl6NGJMaWNDVkZJSUJKTVQ4RlkzSjBERlpTVGtwX085dk9FbVc0RkVOQUhHSW44YkFiYkJyRzBENDlMLU51Mll5V3RxVEpDQmRRRk1Lbm5NbVMwYWhfamtRYnhXSDNTWG5nTktPNF84WDFYeEdvS2ZR?oc=5",
+                "category": "competitor",
+                "summary": "万事达卡收购BVNK，强化稳定币战略。",
+                "threatLevel": "high",
+                "impact": [
+                    "产品竞争",
+                    "市场定价",
+                    "技术差距"
+                ],
+                "action": "关注竞争对手动态，调整战略。",
+                "tickers": [
+                    "Mastercard",
+                    "BVNK"
+                ]
+            },
+            {
+                "id": "2026-03-19-competitor-3",
+                "title": "Stablecoin payments firm TransFi raises over $19M to expand services - crypto.news",
+                "source": "Google News (cross-border stablecoin)",
+                "date": "2026-03-19",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORjlsWE9NSTF4a3NQX0tpTFcxUWNTeW5iZkl6OG8wbU1oZGNJUG5OTk56QXVNeC1BSTZvVUVHTU02Q1pHU2FlcXY1RVlkcTRNTGxzUUlqZHJTV05LbXQtRWVsbEo1aXctSUtWOE5XOHdGTDVpQVRvR3pkdDNNWnJncmw3Z2hZWUdYTzg0WWZzZmxpUQ?oc=5",
+                "category": "competitor",
+                "summary": "稳定币支付公司TransFi融资扩展服务。",
+                "threatLevel": "medium",
+                "impact": [
+                    "产品竞争",
+                    "客户争夺"
+                ],
+                "action": "关注TransFi的市场动态与服务扩展。",
+                "tickers": [
+                    "TransFi"
+                ]
+            },
+            {
+                "id": "2026-03-19-competitor-4",
+                "title": "Mastercard Spends $1.8 Billion to Acquire Stablecoin Insurance - 深潮TechFlow",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-03-19",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42SGw0NzhDYjI0WGhYT3pYcExpQVliUWx0UzRiRWxhZmZGek5PN3pwcDhlUHFqWThxSDFhV1cyUXUzd2dfelBMWDdkUVhneGcxdTBZMGVUY21xZw?oc=5",
+                "category": "competitor",
+                "summary": "Mastercard收购稳定币保险，影响竞争格局。",
+                "threatLevel": "high",
+                "impact": [
+                    "产品竞争",
+                    "市场定价",
+                    "合规优势"
+                ],
+                "action": "关注Mastercard的市场动向，调整策略。",
+                "tickers": [
+                    "Mastercard"
+                ]
+            },
+            {
+                "id": "2026-03-19-competitor-5",
+                "title": "Mastercard buys stablecoin firm BVNK for up to $1.8bn - The Next Web",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-03-19",
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LeXdPejBLcHBDOUVaRTRQUjBRd19HM1doU3NKM2xOTktDVzJjdWdRT2hBNmVXODkzQjhNSWVpYVJ6LUZRU21MSDhVbXEyeXhkNF9JRThZa0xTSlExV3dzb0hBRXIxTjBOYW1uM0cxOVRKdXFpVnZJemphNA?oc=5",
+                "category": "competitor",
+                "summary": "万事达收购稳定币公司BVNK，影响竞争格局。",
+                "threatLevel": "high",
+                "impact": [
+                    "产品竞争",
+                    "市场定价",
+                    "品牌影响"
+                ],
+                "action": "关注BVNK的市场策略变化。",
+                "tickers": [
+                    "Mastercard",
+                    "BVNK"
+                ]
+            },
+            {
+                "id": "2026-03-19-competitor-6",
+                "title": "Tempo is live on Fireblocks.\n\nA Layer 1 built by Stripe and Paradigm, purpose-built for stablecoin p",
+                "source": "Twitter @FireblocksHQ",
+                "date": "2026-03-19",
+                "url": "https://x.com/FireblocksHQ/status/2034331186613653895",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-03-19-competitor-7",
+                "title": "VCs need custody that protects LP capital without sacrificing governance, airdrops, or treasury mana",
+                "source": "Twitter @FireblocksHQ",
+                "date": "2026-03-19",
+                "url": "https://x.com/FireblocksHQ/status/2034309318904885431",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-03-19-competitor-8",
+                "title": "Don't tell me you still don't know how big Pinetwork XDC is \nLook at who's building around this netw",
+                "source": "Twitter @JackPiNetwork",
+                "date": "2026-03-19",
+                "url": "https://x.com/JackPiNetwork/status/2034280473762103542",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks",
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-19-competitor-9",
+                "title": "🩸@CronosApp x @Fireblocks \nhttps://t.co/YlP6f0JXIm",
+                "source": "Twitter @GibCryptoNews",
+                "date": "2026-03-19",
+                "url": "https://x.com/GibCryptoNews/status/2034167185757622572",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-03-19-competitor-10",
+                "title": "ICYMI - @CronosApp x @Fireblocks \n\nIn February 2026, @CronosApp partnered with Fireblocks. According",
+                "source": "Twitter @GibCryptoNews",
+                "date": "2026-03-19",
+                "url": "https://x.com/GibCryptoNews/status/2034167183127838908",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-03-19-competitor-11",
+                "title": "@CantonFdn @trize_io Massive milestone for @trize_io,  first Premier Member on @CantonFdn!\n\nReal est",
+                "source": "Twitter @MufasaOnchain",
+                "date": "2026-03-19",
+                "url": "https://x.com/MufasaOnchain/status/2034159923693818303",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-03-19-competitor-12",
+                "title": "As tokenized financial instruments gain adoption, custody standards must meet institutional expectat",
+                "source": "Twitter @okx",
+                "date": "2026-03-19",
+                "url": "https://x.com/okx/status/2034449828319531417",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-19-competitor-13",
+                "title": "We're happy to welcome @BitGo as our first qualified custodian.\n\nInstitutions and RWA projects can n",
+                "source": "Twitter @XLayerOfficial",
+                "date": "2026-03-19",
+                "url": "https://x.com/XLayerOfficial/status/2034449826494947672",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-19-competitor-14",
+                "title": "BitGo now supports the @XLayerOfficial token standard (built by @okx) as the network's preferred cus",
+                "source": "Twitter @BitGo",
+                "date": "2026-03-19",
+                "url": "https://x.com/BitGo/status/2034449782018637929",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-19-competitor-15",
+                "title": "What happens when you let AI write more code but demand higher security standards?\n\nBitGo CPO Nuri C",
+                "source": "Twitter @BitGo",
+                "date": "2026-03-19",
+                "url": "https://x.com/BitGo/status/2034408851064439165",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-19-competitor-16",
+                "title": "FT Rachel Anderika, Head of Global Operations at Anchorage in discussion with @FDICgov Chairman Trav",
+                "source": "Twitter @Anchorage",
+                "date": "2026-03-19",
+                "url": "https://x.com/Anchorage/status/2034399497934209118",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": ""
+            },
+            {
+                "id": "2026-03-19-competitor-17",
+                "title": "FDIC Chairman Hill: Implementation of the GENIUS Act is a very big priority for us. We are now worki",
+                "source": "Twitter @Anchorage",
+                "date": "2026-03-19",
+                "url": "https://x.com/Anchorage/status/2034399495883284870",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": ""
+            },
+            {
+                "id": "2026-03-19-competitor-18",
+                "title": "Manage your entire token cap table effortlessly, powered by Anchorage Digital: https://t.co/vlSJgD0l",
+                "source": "Twitter @Anchorage",
+                "date": "2026-03-19",
+                "url": "https://x.com/Anchorage/status/2034332498994561352",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-03-19-competitor-19",
+                "title": "Honest question: Why are token launches still being managed on spreadsheets? https://t.co/WpbVU5Rq3f",
+                "source": "Twitter @Anchorage",
+                "date": "2026-03-19",
+                "url": "https://x.com/Anchorage/status/2034332496314388882",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": ""
+            },
+            {
+                "id": "2026-03-19-competitor-20",
+                "title": "RT @dynamic_xyz: Dynamic is live on Tempo.\n\nTeams on @tempo can now ship payments apps with full wal",
+                "source": "Twitter @FireblocksHQ",
+                "date": "2026-03-19",
+                "url": "https://x.com/FireblocksHQ/status/2034281777485791563",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": ""
+            },
+            {
+                "id": "2026-03-19-competitor-21",
+                "title": "Bitcoin's implied and realized volatility tell a fascinating story since 2021.\n\nBack then, volatilit",
+                "source": "Twitter @BitGo",
+                "date": "2026-03-19",
+                "url": "https://x.com/BitGo/status/2034343628609667469",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": ""
+            },
+            {
+                "id": "2026-03-19-competitor-22",
+                "title": "MERGE São Paulo isn't over yet! 🇧🇷 \n\nCome stop by, say hi, and let's talk! 👋 \n\n#MergeSaoPaulo https:",
+                "source": "Twitter @BitGo",
+                "date": "2026-03-19",
+                "url": "https://x.com/BitGo/status/2034341657060220938",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": ""
+            },
+            {
+                "id": "2026-03-19-competitor-23",
+                "title": "Our Brazil tour continues. 🇧🇷 \n\nNext stop: Porto Alegre for South Summit 2026, March 25–27, one of L",
+                "source": "Twitter @BitGo",
+                "date": "2026-03-19",
+                "url": "https://x.com/BitGo/status/2034334784269488218",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": ""
+            },
+            {
+                "id": "2026-03-19-competitor-24",
+                "title": "From the stage to the rooftops, Merge São Paulo never disappoints. 🇧🇷 #MergeSaoPaulo \n\n@mmerge_io ht",
+                "source": "Twitter @BitGo",
+                "date": "2026-03-19",
+                "url": "https://x.com/BitGo/status/2034330620533600402",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": ""
+            },
+            {
+                "id": "2026-03-19-competitor-25",
+                "title": "Institutions have long had to move assets onto a trading platform just to execute. BitGo's Go Networ",
+                "source": "Twitter @BitGo",
+                "date": "2026-03-19",
+                "url": "https://x.com/BitGo/status/2034301917418180703",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-19-customer-0",
+                "title": "Bitunix March Trading Carnival is here with 540,000 $USDT prize pool!\n\nTrade more. Win bigger.\n\n👉 Pr",
+                "source": "Twitter @BitunixOfficial",
+                "date": "2026-03-19",
+                "url": "https://x.com/BitunixOfficial/status/2034254492753883245",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Bitunix"
+                ]
+            },
+            {
+                "id": "2026-03-19-customer-1",
+                "title": "📣 New Listing: Robinhood (HOOD) is now live on Bitunix Futures!    \n\n👉 $HOOD Futures trading: https:",
+                "source": "Twitter @BitunixOfficial",
+                "date": "2026-03-19",
+                "url": "https://x.com/BitunixOfficial/status/2034241154410299847",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Bitunix"
+                ]
+            },
+            {
+                "id": "2026-03-19-customer-2",
+                "title": "📣 New Listing: Coinbase Global (COIN) is now live on Bitunix Futures!    \n\n👉 $COIN Futures trading: ",
+                "source": "Twitter @BitunixOfficial",
+                "date": "2026-03-19",
+                "url": "https://x.com/BitunixOfficial/status/2034226054886224185",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Bitunix"
+                ]
+            },
+            {
+                "id": "2026-03-19-customer-3",
+                "title": "🔥 BITUNIX GAINERS 🔥\n\n$AIN - @infinityg_ai  24H Change: +24%      \n\n👉 Trade Now: https://t.co/06z5zas",
+                "source": "Twitter @BitunixOfficial",
+                "date": "2026-03-19",
+                "url": "https://x.com/BitunixOfficial/status/2034195855956222416",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Bitunix"
+                ]
+            },
+            {
+                "id": "2026-03-19-customer-4",
+                "title": "🔥 BITUNIX GAINERS 🔥    \n\n$ANKR - @ankr 24H Change: +29%      \n\n👉 Trade Now: https://t.co/06z5zatnJO ",
+                "source": "Twitter @BitunixOfficial",
+                "date": "2026-03-19",
+                "url": "https://x.com/BitunixOfficial/status/2034173597745615352",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Bitunix"
+                ]
+            },
+            {
+                "id": "2026-03-19-industry-0",
+                "title": "Tim Scott expects stablecoin yield compromise proposal by week’s end",
+                "source": "Crypto Briefing",
+                "date": "2026-03-19",
+                "url": "https://cryptobriefing.com/tim-scott-stablecoin-yield-compromise/",
+                "category": "industry",
+                "summary": "Tim Scott预计本周将提出稳定币收益妥协提案。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注稳定币监管政策变化",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-19-industry-1",
+                "title": "Visa’s Jack Forestell calls the agentic web the biggest payments opportunity in two decades",
+                "source": "Crypto Briefing",
+                "date": "2026-03-19",
+                "url": "https://cryptobriefing.com/visa-agentic-web-payments-opportunity/",
+                "category": "industry",
+                "summary": "Visa认为代理网络是支付领域的重大机会。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注支付技术的最新动态。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Visa"
+                ]
+            },
+            {
+                "id": "2026-03-19-industry-2",
+                "title": "次世代決済インフラ「BluePay」、対応サービスを拡大中。新たにEthereumネットワークに対応し、USDC・JPYCでの「ガスレス決済」を提供開始",
+                "source": "Prtimes.jp",
+                "date": "2026-03-19",
+                "url": "https://prtimes.jp/main/html/rd/p/000000003.000177838.html",
+                "category": "industry",
+                "summary": "BluePay扩展到Ethereum网络并提供稳定币支付服务。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币支付的市场动态。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-19-industry-3",
+                "title": "SEC chair Paul Atkins floats ‘safe harbor’ exemptions for crypto",
+                "source": "Cointelegraph",
+                "date": "2026-03-19",
+                "url": "https://cointelegraph.com/news/sec-paul-atkins-floats-crypto-safe-harbor-exemptions",
+                "category": "industry",
+                "summary": "SEC主席提议为加密提供‘安全港’豁免。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管变化对业务的影响",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-19-industry-4",
+                "title": "Bitrefill links Lazarus Group to employee laptop hack, stolen funds",
+                "source": "Cointelegraph",
+                "date": "2026-03-19",
+                "url": "https://cointelegraph.com/news/bitrefill-claims-lazarus-group-hacked-them-stole-funds",
+                "category": "industry",
+                "summary": "Bitrefill 报告了与黑客攻击相关的资金盗窃事件。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注黑客攻击对行业安全性的影响",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-19-industry-5",
+                "title": "With watchful eye on Iran war, crypto dodges UAE disruption",
+                "source": "CNA",
+                "date": "2026-03-19",
+                "url": "https://www.channelnewsasia.com/business/watchful-eye-iran-war-crypto-dodges-uae-disruption-6000226",
+                "category": "industry",
+                "summary": "加密货币在伊朗战争背景下的市场动态分析。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "关注市场变化，调整策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-19-industry-6",
+                "title": "How MrBeast Is Exploring His First NFT Gallery — Verified Facts and Insider Rumors",
+                "source": "Radaronline.com",
+                "date": "2026-03-19",
+                "url": "https://radaronline.com/p/how-mrbeast-is-exploring-his-first-nft-gallery-verified-facts-and-insider-rumors/",
+                "category": "industry",
+                "summary": "MrBeast探索NFT画廊，涉及区块链技术。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注NFT市场动态与技术发展。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-19-industry-7",
+                "title": "Crypto News: Ethereum Based Crypto Pepeto Announces Binance Listing Advances And Cardano Price Predi",
+                "source": "GlobeNewswire",
+                "date": "2026-03-19",
+                "url": "https://www.globenewswire.com/news-release/2026/03/18/3257848/0/en/Crypto-News-Ethereum-Based-Crypto-Pepeto-Announces-Binance-Listing-Advances-And-Cardano-Price-Prediction-Turns-Bullish.html",
+                "category": "industry",
+                "summary": "以太坊相关加密货币Pepeto上市及卡尔达诺价格预测的新闻。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场动态以调整策略",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance",
+                    "Ethereum",
+                    "Cardano"
+                ]
+            },
+            {
+                "id": "2026-03-19-industry-8",
+                "title": "SEC and CFTC End Era of Crypto Uncertainty",
+                "source": "pymnts.com",
+                "date": "2026-03-19",
+                "url": "https://www.pymnts.com/cryptocurrency/2026/sec-and-cftc-end-era-of-crypto-uncertainty/",
+                "category": "industry",
+                "summary": "SEC和CFTC结束了加密货币的不确定性。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管政策变化对业务的影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-19-industry-9",
+                "title": "Introducing the Machine Payments Protocol",
+                "source": "Stripe.com",
+                "date": "2026-03-19",
+                "url": "https://stripe.com/blog/machine-payments-protocol",
+                "category": "industry",
+                "summary": "介绍了一种新的支付协议，可能影响支付行业发展。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注该协议对支付行业的潜在影响",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-19-industry-10",
+                "title": "Turquoise vows to bring transparent pricing and same-day payments to healthcare after raising $40M",
+                "source": "SiliconANGLE News",
+                "date": "2026-03-19",
+                "url": "https://siliconangle.com/2026/03/17/turquoise-vows-bring-transparent-pricing-day-payments-healthcare-raising-40m/",
+                "category": "industry",
+                "summary": "Turquoise在医疗领域推动透明定价和即时支付。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注医疗支付领域的技术创新和市场动态。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-19-industry-11",
+                "title": "Arizona AG files criminal charges against Kalshi over 'illegal gambling'",
+                "source": "NPR",
+                "date": "2026-03-19",
+                "url": "https://www.npr.org/2026/03/17/nx-s1-5751165/kalshi-criminal-charges-arizona",
+                "category": "industry",
+                "summary": "亚利桑那州总检察长对Kalshi提出刑事指控，涉及非法赌博。",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响"
+                ],
+                "action": "关注相关监管动态，评估影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-19-industry-12",
+                "title": "Explained: NCERT’s latest controversy and the questions it raises about history, accuracy, and insti",
+                "source": "The Times of India",
+                "date": "2026-03-19",
+                "url": "https://timesofindia.indiatimes.com/education/news/explained-ncerts-latest-controversy-and-the-questions-it-raises-about-history-accuracy-and-institutional-responsibility/articleshow/129646068.cms",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-03-19-industry-13",
+                "title": "Leonide the Vampyr: House of Yonda #1 Preview: Ancestral Hauntings",
+                "source": "Bleeding Cool News",
+                "date": "2026-03-19",
+                "url": "https://bleedingcool.com/comics/leonide-the-vampyr-house-of-yonda-1-preview-ancestral-hauntings/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-19-industry-14",
+                "title": "No fresh court request for El-Rufai’s detention – ICPC",
+                "source": "The Punch",
+                "date": "2026-03-19",
+                "url": "https://punchng.com/no-fresh-court-request-for-el-rufais-detention-icpc/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-19-industry-15",
+                "title": "scicode-lint 0.2.2",
+                "source": "Pypi.org",
+                "date": "2026-03-19",
+                "url": "https://pypi.org/project/scicode-lint/0.2.2/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-19-industry-16",
+                "title": "Qualified Custody for Digital Assets: The Opportunity for RIAs and VCs",
+                "source": "Fireblocks Blog",
+                "date": "2026-03-19",
+                "url": "https://www.fireblocks.com/blog/qualified-custody-rias-vcs",
+                "category": "industry",
+                "summary": "合格托管对加密资产的影响分析。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注合格托管的市场动态和技术进展。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Fireblocks Trust Company"
+                ]
+            },
+            {
+                "id": "2026-03-19-industry-17",
+                "title": "Whale investor buys $111 million worth of Ethereum one year after selling: onchain data",
+                "source": "The Block",
+                "date": "2026-03-19",
+                "url": "https://www.theblock.co/post/394263/whale-investor-buys-111-million-ethereum?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "鲸鱼投资者用USDT购买以太坊。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注稳定币在市场中的流动性变化。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-19-industry-18",
+                "title": "Algorand Foundation cuts 25% of its workforce citing global macro uncertainty and crypto market down",
+                "source": "The Block",
+                "date": "2026-03-19",
+                "url": "https://www.theblock.co/post/394255/algorand-foundation-cuts-25-workforce-global-macro-uncertainty-crypto-market-downturn?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "Algorand基金会裁员反映市场不确定性。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场变化，调整策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-19-industry-19",
+                "title": "SEC approves Nasdaq tokenized equities trading pilot",
+                "source": "The Block",
+                "date": "2026-03-19",
+                "url": "https://www.theblock.co/post/394238/sec-approves-nasdaq-tokenized-equities-trading-pilot?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "SEC批准纳斯达克代币化股票交易试点，推动市场基础设施上链。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注市场基础设施的区块链化进展",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-19-industry-20",
+                "title": "The Daily: SEC and CFTC declare most crypto assets aren’t securities, Tempo mainnet goes live with M",
+                "source": "The Block",
+                "date": "2026-03-19",
+                "url": "https://www.theblock.co/post/394205/the-daily-sec-and-cftc-declare-most-crypto-assets-arent-securities-tempo-mainnet-goes-live-with-mpp-for-agents-and-more?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "SEC和CFTC声明大多数加密资产不是证券。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管动态，调整合规策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-19-industry-21",
+                "title": "Visa Crypto Labs rolls out command line tool for AI bot payments",
+                "source": "The Block",
+                "date": "2026-03-19",
+                "url": "https://www.theblock.co/post/394199/visa-crypto-labs-rolls-out-command-line-tool-for-ai-bot-payments?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "Visa推出AI支付工具，推动支付技术发展。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注支付技术的最新动态，评估其对市场的影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Visa"
+                ]
+            },
+            {
+                "id": "2026-03-19-industry-22",
+                "title": "Why tokenized assets are DeFi’s biggest unlock",
+                "source": "The Block",
+                "date": "2026-03-19",
+                "url": "https://www.theblock.co/post/394169/why-tokenized-assets-are-defis-biggest-unlock?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "代币化资产将推动DeFi的增长",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注代币化资产的发展动态",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险"
+            },
+            {
+                "id": "2026-03-19-industry-23",
+                "title": "Senate Banking Committee eyes April vote on crypto market structure bill, Sen. Lummis says",
+                "source": "The Block",
+                "date": "2026-03-19",
+                "url": "https://www.theblock.co/post/394164/senate-banking-committee-april-vote-crypto-market-structure-bill-sen-lummis?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "参议院计划审议加密市场结构法案。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注法案进展，评估影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-19-industry-24",
+                "title": "Polymarket acquires crypto startup Brahma as prediction platform looks to boost liquidity: Fortune",
+                "source": "The Block",
+                "date": "2026-03-19",
+                "url": "https://www.theblock.co/post/394146/polymarket-acquires-crypto-startup-brahma-prediction-platform-looks-boost-liquidity-fortune?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "Polymarket收购Brahma以提升流动性。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注流动性提升对市场的影响",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Polymarket",
+                    "Brahma"
+                ]
+            },
+            {
+                "id": "2026-03-19-industry-25",
+                "title": "Tempo Mainnet goes live with Machine Payments Protocol for agents",
+                "source": "The Block",
+                "date": "2026-03-19",
+                "url": "https://www.theblock.co/post/394131/tempo-mainnet-goes-live-with-machine-payments-protocol-for-agents?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "Tempo主网上线，推出机器支付协议。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注机器支付协议的市场影响",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-19-industry-26",
+                "title": "Benchmark cuts price target for blockchain firm Bakkt by nearly 50%",
+                "source": "The Block",
+                "date": "2026-03-19",
+                "url": "https://www.theblock.co/post/394121/benchmark-cuts-price-target-blockchain-firm-bakkt-by-nearly-50?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "Bakkt重新聚焦于传统机构的加密服务",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注Bakkt的市场定位变化",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Bakkt"
+                ]
+            },
+            {
+                "id": "2026-03-19-industry-27",
+                "title": "S&P Dow Jones Indices licenses brand for first official S&P 500 perp to trade on Hyperliquid",
+                "source": "The Block",
+                "date": "2026-03-19",
+                "url": "https://www.theblock.co/post/394124/sp-dow-jones-indices-licenses-brand-for-first-official-sp-500-perp-to-trade-on-hyperliquid?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "S&P 500 永续合约在 Hyperliquid 上交易。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注衍生品市场动态，评估影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-19-industry-28",
+                "title": "RedStone oracle provider integrates with open source Tempo mainnet",
+                "source": "The Block",
+                "date": "2026-03-19",
+                "url": "https://www.theblock.co/post/394103/stripe-paradigms-tempo-blockchain-redstone-data-oracle?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "RedStone 提供稳定币价格信息服务。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展",
+                    "市场趋势"
+                ],
+                "action": "关注稳定币价格数据的应用",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-19-industry-29",
+                "title": "Algorand Foundation Cuts 25% of Staff as Crypto Industry Layoffs Grow",
+                "source": "Decrypt",
+                "date": "2026-03-19",
+                "url": "https://decrypt.co/361625/algorand-foundation-cuts-staff-crypto-industry-layoffs-grow",
+                "category": "industry",
+                "summary": "Algorand 基金会裁员反映行业压力。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注行业动态，评估市场影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-19-industry-30",
+                "title": "You Can Now Trade Official S&#038;P 500 Perpetual Futures via Hyperliquid",
+                "source": "Decrypt",
+                "date": "2026-03-19",
+                "url": "https://decrypt.co/361597/now-trade-official-sp-500-perpetual-futures-hyperliquid",
+                "category": "industry",
+                "summary": "S&P 500 永续期货现已可通过 Hyperliquid 交易。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场动态，评估潜在影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Hyperliquid"
+                ]
+            },
+            {
+                "id": "2026-03-19-industry-31",
+                "title": "Crypto Market Structure Bill to Face Key Vote in April and Must Pass by May, Senators Say",
+                "source": "Decrypt",
+                "date": "2026-03-19",
+                "url": "https://decrypt.co/361581/crypto-market-structure-bill-key-vote-april-must-pass-may",
+                "category": "industry",
+                "summary": "加密市场结构法案将在四月进行关键投票。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注法案进展，评估合规影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-19-industry-32",
+                "title": "Pudgy Penguins Launched A New Game. Crypto Scammers Made A Fake Version",
+                "source": "Decrypt",
+                "date": "2026-03-19",
+                "url": "https://decrypt.co/361574/pudgy-penguins-launched-a-new-game-crypto-scammers-made-a-fake-version",
+                "category": "industry",
+                "summary": "Pudgy Penguins新游戏遭遇网络钓鱼攻击。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注网络安全风险，提升用户保护措施。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-19-industry-33",
+                "title": "Stripe-Backed Tempo Network Launches With Focus on AI Agent Payments",
+                "source": "Decrypt",
+                "date": "2026-03-19",
+                "url": "https://decrypt.co/361573/stripe-backed-tempo-network-launches-ai-agent-payments",
+                "category": "industry",
+                "summary": "Tempo网络专注于AI代理支付业务的推出。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注AI支付技术的发展动态。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Stripe"
+                ]
+            },
+            {
+                "id": "2026-03-19-industry-34",
+                "title": "Canadian Regulator Revokes Registrations of 23 Crypto Firms",
+                "source": "Decrypt",
+                "date": "2026-03-19",
+                "url": "https://decrypt.co/361546/canadian-regulator-revokes-registration-of-23-crypto-firms",
+                "category": "industry",
+                "summary": "加拿大监管机构撤销23家加密公司注册。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管变化对市场的影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-19-industry-35",
+                "title": "Morning Minute: The SEC &#038; CFTC Declare 'Most Crypto Assets' Are Not Securities",
+                "source": "Decrypt",
+                "date": "2026-03-19",
+                "url": "https://decrypt.co/361508/morning-minute-the-sec-cftc-declare-most-crypto-assets-are-not-securities",
+                "category": "industry",
+                "summary": "SEC和CFTC明确大部分加密资产非证券。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管政策变化对业务的影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-19-industry-36",
+                "title": "UK Panel Calls Crypto Donations 'High Risk,' Seeks Immediate Ban",
+                "source": "Decrypt",
+                "date": "2026-03-19",
+                "url": "https://decrypt.co/361481/uk-panel-calls-crypto-donations-high-risk-seeks-immediate-ban",
+                "category": "industry",
+                "summary": "英国委员会呼吁禁止加密货币捐赠以防外部干预。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注相关监管政策变化",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-19-industry-37",
+                "title": "Bitcoin Depot Flags Control 'Weaknesses' as Connecticut Halts Its Operations",
+                "source": "Decrypt",
+                "date": "2026-03-19",
+                "url": "https://decrypt.co/361479/bitcoin-depot-flags-control-weaknesses-connecticut-halts-operations",
+                "category": "industry",
+                "summary": "康涅狄格州暂停比特币ATM运营商的执照。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "竞争格局"
+                ],
+                "action": "关注监管变化对业务的影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-19-industry-38",
+                "title": "Shopify Signals Stablecoin Preferences With USDC Integration - PYMNTS.com",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-03-19",
+                "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTF96UGF4NUxBQkJzUmdTby1zdDBTM0pLTVo4T2VTeE81X3dGOGRkNEtBWGNlcEV3bHdmVDdGcGp0b3FWeHJueTF2ZTBib1hpcktiaDVENkhUREhRczVaQzBzVkRnWHN3UTY0TkhZV2k0SUk1U1NSWTVUYkJGY1JQU25UdW1nQ0R4NGpidGFwQWZIMURleDk4X0VINmJjSHl6d0JsYWoxdEktam9IdnhJRmhHZ3NaZE5NRjRTd1ZB?oc=5",
+                "category": "industry",
+                "summary": "Shopify整合USDC，显示对稳定币的偏好。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币市场动态，调整策略。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-19-industry-39",
+                "title": "Stripe-led payments blockchain Tempo goes live with protocol for AI agents - CoinDesk",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-03-19",
+                "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUU5SQkMtZjRGN19yVnlFMjZkOGxuZWhfbFJRVEtRWWpsUFROcUUzZG1CRDdFei1BYktHQ0dDa3piT1NiWDExbDZwZW1IWjJRdExINUVMR0NvSTZVUFVHcHppMURXS0pqOTNMaXpiRDRNdGV4U2ZneVNhYXMyYkRUOEpESHNzTlVxZDRQbmU0UEpqOV9XQjZ5NlNnWVRxSUhmM0htYTNQQzRqWjNsdUdaVVZXTkVHUQ?oc=5",
+                "category": "industry",
+                "summary": "Stripe主导的支付区块链Tempo上线，涉及AI代理协议。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注支付区块链技术的发展动态",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Stripe"
+                ]
+            },
+            {
+                "id": "2026-03-19-industry-40",
+                "title": "McKinsey & Company x Artemis Joint Report: Only 1% of $35 Trillion Stablecoin Transaction Volume Rep",
+                "source": "Google News (stablecoin B2B)",
+                "date": "2026-03-19",
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzX1AzVFVDWHdkbmYtcThlMjhnRi03Z0xiWkM1Mm81SEhHUUtIbW1WMEdlbW11dkpTNV9HbFJTVnFyaEZtbmxqNFBBa3NxSWxhRmpBUEIycEU0QQ?oc=5",
+                "category": "industry",
+                "summary": "报告指出稳定币支付使用率极低，影响行业趋势。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币支付的市场动态，调整策略。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-19-industry-41",
+                "title": "PayPal Expands PYUSD: Will it Revolutionize Cross-Border Payments? - The Globe and Mail",
+                "source": "Google News (cross-border stablecoin)",
+                "date": "2026-03-19",
+                "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNWN1djVlbmtFVkVvaDB3T0t0MHFvLXQ1cV9vRkJKUWFfSUNfTjRSQXZyNUZUQk51NzZySW50Vi1WeGJiX0hrZmliaG5NTWlvWjlGVzJ6cXM3MndCdmhlUTA3VnBTLVR5dFlhLWpYczdZSHdMUlFrZEVnUDBMNk1wU0xoUlljMnZ4cFVEcW1wb3JtM29sa3hlek5xV0FNbC1ydGw0UDlJanZhU01pamN0blpkU29zVGFHeE9ZM09xZzVzY3hhY0YxRE9lb0taWXVtSHJIaC1SelprU2M5ZW00QTl3?oc=5",
+                "category": "industry",
+                "summary": "PayPal扩展PYUSD可能影响跨境支付市场。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注PayPal对市场的影响，调整策略。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "PayPal"
+                ]
+            },
+            {
+                "id": "2026-03-19-industry-42",
+                "title": "Kenya seeks public comment on draft VASP rules covering licensing and stablecoin backing - The Block",
+                "source": "Google News (stablecoin license)",
+                "date": "2026-03-19",
+                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ2pVWHBGSTJPaUdDNWFVdnFvUERWbGtBTDBQMk50RGtMTkRPNVlrcTJ3U2JNSEYtcHhqN0tPM1FQNUxSRFU1V052YmN3b1JVcmtvNHJNd0xnQXZ5YVZjNjYwaXNSYlVIaGNMdEVoWXZBVThZZUxIaE5DUHlYZndlM094b0I2RDNqTy1GYzdmYkVOaTJvbEVRdENZd3hobzBPdlV4RDZ4YWVmUGpoY3VQUktncDZ1OXUwRVRqSVRDUHFXZw?oc=5",
+                "category": "industry",
+                "summary": "肯尼亚寻求公众意见关于稳定币的监管草案。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管动态，调整合规策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-19-industry-43",
+                "title": "Colleen Burton celebrates success on senior living, affordable housing, stablecoin this Session - Fl",
+                "source": "Google News (stablecoin license)",
+                "date": "2026-03-19",
+                "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONmxvWV9TOWdwdDN2ZUZ0ZUFuT01jdlI3WE9ENFVRU0ozdnFLNDlTdUtUbk42MFlTWnhfNW1YZEtYYkZ6bUtBaUhwODRJZEI2X2dxWmNvZ2hUZ3Rjb1BBODJIMmVzWUV2MEQwdDZKV0JPeXBsUmVwOUVXNVRIV0ZCRGd1U0hQYVdoNnA2MzlBelRUNmRfSkdvV0pUUXhxUy1hVHZtMkc5OEVhdlgwVWJuOUwxallkMVQ1Wkh2dDVqblFLU3h3a3BFXzh6b1JzOFp2RDJyNQ?oc=5",
+                "category": "industry",
+                "summary": "Colleen Burton庆祝稳定币的成功进展。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "监管影响"
+                ],
+                "action": "关注稳定币相关政策变化。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-19-industry-44",
+                "title": "Stablecoin Settlement Models Face Compliance and Partner Hurdles, Finds Clear Junction - Financial I",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-03-19",
+                "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWUdYUUlZYnZienNrYlg5SGxCckhEVmNIWHlpVWJHUngxMWlqeDY2SmlyZklBV3N2R1BxOFlrMTdxbmRoRDRkQXVWR0tQUWl2WlU1N2ZuSGJyUDJ5OVEyOFZ6SG0zbkZ6MnppTnFoUDJwZ0dYSnBCa3hselh4cWxjVHhEUUhtd0FYR05qM0trVnMxa21HeGU2cllqcEtVREJ5R1NuSjBueG5YNTRTcG0xaklCUFZZTGtMdUFBZEtPUQ?oc=5",
+                "category": "industry",
+                "summary": "稳定币结算模型面临合规和合作障碍。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注稳定币合规政策变化。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-19-industry-45",
+                "title": "SoFi ties up with Mastercard to enable settlement of SoFi-USD stablecoin across MA's network - MSN",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-03-19",
+                "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeHZ2ZEhTV3B2VTZyZFZaa0FEcnJHRW9sLUFkenhlTDRCYjZVTUpVZDRvbk1FR2J1RVRqblVVdlk5QURPeVl4R2QyYmZ0Y1NfVHVlNVZQYmZBUHBZd3pqbERmelI2TnF2U0VESGRqMTZPT0FfSGxCVFFXc0JheHdFNHZjNEZlSGhIblVKQ0VsOTZsa0RMb2h3V0JiVUlJUGlTcmNsdWVRY19SaENwQkFsMnB2SW5EUDNwdHNPd0steUdKNkp0a1lubDI5bWFSeWlMVmFoMGt0NWM?oc=5",
+                "category": "industry",
+                "summary": "SoFi与万事达合作推动稳定币支付",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币支付技术的发展",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "SoFi",
+                    "Mastercard"
+                ]
+            },
+            {
+                "id": "2026-03-19-industry-46",
+                "title": "🇰🇪 NEW: Kenya publishes draft VASP regulations covering licensing, stablecoin reserve requirements, ",
+                "source": "Twitter @Cointelegraph",
+                "date": "2026-03-19",
+                "url": "https://x.com/Cointelegraph/status/2034480234112639312",
+                "category": "industry",
+                "summary": "肯尼亚发布稳定币监管草案。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管动态，调整合规策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-19-industry-47",
+                "title": "Secure Custody — Institutions won't tokenize high-value assets if custody risks single points of fai",
+                "source": "Twitter @MPCBlockchain",
+                "date": "2026-03-19",
+                "url": "https://x.com/MPCBlockchain/status/2034212630592676144",
+                "category": "industry",
+                "summary": "机构对高价值资产的托管风险关注加剧。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注托管技术的安全性提升。",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险"
+            },
+            {
+                "id": "2026-03-19-industry-48",
+                "title": "Tether ❤️ Bitcoin \n\nBitcoin via Spark support in WDK (Wallet Development Kit) works seamlessly.\n\nPeo",
+                "source": "Twitter @paoloardoino",
+                "date": "2026-03-19",
+                "url": "https://x.com/paoloardoino/status/2034182301219717249",
+                "category": "industry",
+                "summary": "Tether 支持比特币支付的技术进展",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展",
+                    "市场趋势"
+                ],
+                "action": "关注比特币支付技术的演变",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险",
+                "tickers": [
+                    "Tether",
+                    "Lightspark"
+                ]
+            },
+            {
+                "id": "2026-03-19-industry-49",
+                "title": "I dare you to name something better than Bitcoin.",
+                "source": "Twitter @BitunixOfficial",
+                "date": "2026-03-19",
+                "url": "https://x.com/BitunixOfficial/status/2034210703675117919",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-19-industry-50",
+                "title": "You want exposure to Bitcoin… but through stocks 👇\n\nWhich one are you picking?",
+                "source": "Twitter @BitunixOfficial",
+                "date": "2026-03-19",
+                "url": "https://x.com/BitunixOfficial/status/2034180348473708722",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            }
+        ],
+        "stats": {
+            "totalThreats": 26,
+            "highThreats": 4,
+            "mediumThreats": 2,
+            "lowThreats": 0,
+            "competitorUpdates": 26,
+            "customerUpdates": 5,
+            "industryUpdates": 51
+        },
+        "dailySummary": {
+            "competitorThreat": "今日最大的竞争威胁来自万事达卡收购BVNK，标志着其在稳定币领域的强势布局，可能重塑市场格局。此外，TransFi成功融资1900万美元以扩展其稳定币支付业务，显示出其快速增长的潜力。面对这些动态，建议关注技术创新与合作机会，提升自身产品的竞争力，同时加强与金融机构的合作，以适应市场变化并增强客户信任。",
+            "industryTrend": "今日行业热点主要集中在稳定币收益提案、支付基础设施创新及监管动态。Tim Scott预计将提出稳定币收益妥协提案，这可能为行业带来更清晰的监管框架。同时，Visa的Jack Forestell强调了代理网络在支付领域的重要性，预示着稳定币在支付系统中的应用将持续扩大。此外，SEC和CFTC的监管不确定性结束，可能为稳定币托管和支付基础设施提供更稳固的法律基础。这些趋势表明，稳定币在未来支付生态系统中的角色将愈发重要，推动其广泛应用和创新。"
+        },
+        "highlights": {
+            "competitors": [
+                {
+                    "id": "2026-03-19-competitor-0",
+                    "title": "Coinbase Dives Into AI Agent Payments - The Information",
+                    "source": "Google News (stablecoin payment)",
+                    "date": "2026-03-19",
+                    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZRndXSGlndkdzU29GRG5lYURHZlEyS2M2Yk1qNjdpeHFPREdzSUNiT3E5N0p1aENPcjdwRDJlZlF0dkIwbFcwb0w4OVZLV050dVJLdmFkSUJnM0JVT1pZVTM3TEdkYi1rZmlBcjFfdHd5YV9rTXNVV0pJWkk?oc=5",
+                    "category": "competitor",
+                    "summary": "Coinbase 进入 AI 代理支付领域。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "产品竞争",
+                        "市场定价",
+                        "技术差距"
+                    ],
+                    "action": "关注 Coinbase 的支付技术动态。",
+                    "tickers": [
+                        "Coinbase"
+                    ]
+                },
+                {
+                    "id": "2026-03-19-competitor-1",
+                    "title": "Stablecoin payments firm TransFi raises $19 million for global expansion - The Block",
+                    "source": "Google News (stablecoin payment)",
+                    "date": "2026-03-19",
+                    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oMzdFNVlTYlZiT1ZDMmJocjg1M1VOTkltMmZ2cWJEdW8yWFFLOHhsV0k4VUpCTW84TlV3cEl2enVnU25hR09CMjZTZVQxV3RXNnR3cVFWVFdrZG5PTndNS0Nsa3lFZ21LLThtNUhR?oc=5",
+                    "category": "competitor",
+                    "summary": "TransFi融资以扩展其稳定币支付业务。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "产品竞争",
+                        "客户争夺",
+                        "市场定价"
+                    ],
+                    "action": "关注TransFi动态，优化自身产品。",
+                    "tickers": [
+                        "TransFi"
+                    ]
+                },
+                {
+                    "id": "2026-03-19-competitor-2",
+                    "title": "Stablecoin Strategy: Mastercard to Acquire BVNK for US$1.8bn - FinTech Magazine",
+                    "source": "Google News (stablecoin payment)",
+                    "date": "2026-03-19",
+                    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWmdNZjZRam4wNnFlQ1l3dE9oOGtSWXpESEpTeXJnRnl6NGJMaWNDVkZJSUJKTVQ4RlkzSjBERlpTVGtwX085dk9FbVc0RkVOQUhHSW44YkFiYkJyRzBENDlMLU51Mll5V3RxVEpDQmRRRk1Lbm5NbVMwYWhfamtRYnhXSDNTWG5nTktPNF84WDFYeEdvS2ZR?oc=5",
+                    "category": "competitor",
+                    "summary": "万事达卡收购BVNK，强化稳定币战略。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "产品竞争",
+                        "市场定价",
+                        "技术差距"
+                    ],
+                    "action": "关注竞争对手动态，调整战略。",
+                    "tickers": [
+                        "Mastercard",
+                        "BVNK"
+                    ]
+                }
+            ],
+            "clients": [
+                {
+                    "id": "2026-03-19-customer-0",
+                    "title": "Bitunix March Trading Carnival is here with 540,000 $USDT prize pool!\n\nTrade more. Win bigger.\n\n👉 Pr",
+                    "source": "Twitter @BitunixOfficial",
+                    "date": "2026-03-19",
+                    "url": "https://x.com/BitunixOfficial/status/2034254492753883245",
+                    "category": "customer",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "Bitunix"
+                    ]
+                },
+                {
+                    "id": "2026-03-19-customer-1",
+                    "title": "📣 New Listing: Robinhood (HOOD) is now live on Bitunix Futures!    \n\n👉 $HOOD Futures trading: https:",
+                    "source": "Twitter @BitunixOfficial",
+                    "date": "2026-03-19",
+                    "url": "https://x.com/BitunixOfficial/status/2034241154410299847",
+                    "category": "customer",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "Bitunix"
+                    ]
+                },
+                {
+                    "id": "2026-03-19-customer-2",
+                    "title": "📣 New Listing: Coinbase Global (COIN) is now live on Bitunix Futures!    \n\n👉 $COIN Futures trading: ",
+                    "source": "Twitter @BitunixOfficial",
+                    "date": "2026-03-19",
+                    "url": "https://x.com/BitunixOfficial/status/2034226054886224185",
+                    "category": "customer",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "Bitunix"
+                    ]
+                }
+            ],
+            "industry": [
+                {
+                    "id": "2026-03-19-industry-0",
+                    "title": "Tim Scott expects stablecoin yield compromise proposal by week’s end",
+                    "source": "Crypto Briefing",
+                    "date": "2026-03-19",
+                    "url": "https://cryptobriefing.com/tim-scott-stablecoin-yield-compromise/",
+                    "category": "industry",
+                    "summary": "Tim Scott预计本周将提出稳定币收益妥协提案。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "监管影响",
+                        "市场趋势"
+                    ],
+                    "action": "关注稳定币监管政策变化",
+                    "subcategory": "stablecoin_payments",
+                    "subcategoryName": "稳定币支付"
+                },
+                {
+                    "id": "2026-03-19-industry-1",
+                    "title": "Visa’s Jack Forestell calls the agentic web the biggest payments opportunity in two decades",
+                    "source": "Crypto Briefing",
+                    "date": "2026-03-19",
+                    "url": "https://cryptobriefing.com/visa-agentic-web-payments-opportunity/",
+                    "category": "industry",
+                    "summary": "Visa认为代理网络是支付领域的重大机会。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "市场趋势",
+                        "技术发展"
+                    ],
+                    "action": "关注支付技术的最新动态。",
+                    "subcategory": "stablecoin_payments",
+                    "subcategoryName": "稳定币支付",
+                    "tickers": [
+                        "Visa"
+                    ]
+                },
+                {
+                    "id": "2026-03-19-industry-2",
+                    "title": "次世代決済インフラ「BluePay」、対応サービスを拡大中。新たにEthereumネットワークに対応し、USDC・JPYCでの「ガスレス決済」を提供開始",
+                    "source": "Prtimes.jp",
+                    "date": "2026-03-19",
+                    "url": "https://prtimes.jp/main/html/rd/p/000000003.000177838.html",
+                    "category": "industry",
+                    "summary": "BluePay扩展到Ethereum网络并提供稳定币支付服务。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "市场趋势",
+                        "技术发展",
+                        "竞争格局"
+                    ],
+                    "action": "关注稳定币支付的市场动态。",
+                    "subcategory": "stablecoin_payments",
+                    "subcategoryName": "稳定币支付"
+                }
+            ]
+        }
+    },
+    {
         "date": "2026-03-18",
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-03-18.md",
