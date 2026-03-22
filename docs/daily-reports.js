@@ -4,6 +4,384 @@
 
 const dailyReports = [
     {
+        "date": "2026-03-22",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-03-22.md",
+        "newsItems": [
+            {
+                "id": "2026-03-22-competitor-0",
+                "title": "🚀 Big news! 🌟 Rho X is now live on @BitGo Network! 🔒 Institutional-grade custody and off-exchange se",
+                "source": "Twitter @CryptoFi090",
+                "date": "2026-03-22",
+                "url": "https://x.com/CryptoFi090/status/2035427752745029744",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-22-competitor-1",
+                "title": "5/ The partner list isn't random DeFi teams experimenting with liquidity pools.\n\n@BitGo, @Ledger, @F",
+                "source": "Twitter @DBCrypt0",
+                "date": "2026-03-22",
+                "url": "https://x.com/DBCrypt0/status/2035406607002267695",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-22-competitor-2",
+                "title": "Less than 24hrs to enter. The winner of this .999 copper Memento Mori coin ring will be picked and a",
+                "source": "Twitter @TruthHawaii369",
+                "date": "2026-03-22",
+                "url": "https://x.com/TruthHawaii369/status/2035568037655671061",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Copper"
+                ]
+            },
+            {
+                "id": "2026-03-22-industry-0",
+                "title": "Crypto News: Pepeto New Binance Executive Updates Following Shiba Inu Path And Ethereum Price Predic",
+                "source": "GlobeNewswire",
+                "date": "2026-03-22",
+                "url": "https://www.globenewswire.com/news-release/2026/03/21/3259997/0/en/Crypto-News-Pepeto-New-Binance-Executive-Updates-Following-Shiba-Inu-Path-And-Ethereum-Price-Prediction-Targets-10K.html",
+                "category": "industry",
+                "summary": "加密货币市场动态更新，包括价格预测等。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-22-industry-1",
+                "title": "BM Blockchain Announces New AI-Driven Infrastructure to Simplify Passive Dogecoin Earnings",
+                "source": "GlobeNewswire",
+                "date": "2026-03-22",
+                "url": "https://www.globenewswire.com/news-release/2026/03/21/3259996/0/en/BM-Blockchain-Announces-New-AI-Driven-Infrastructure-to-Simplify-Passive-Dogecoin-Earnings.html",
+                "category": "industry",
+                "summary": "BM Blockchain推出AI驱动基础设施以简化狗狗币收益。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-22-industry-2",
+                "title": "Playnance’s G Coin turns launch week into a real-time growth test",
+                "source": "CryptoSlate",
+                "date": "2026-03-22",
+                "url": "https://cryptoslate.com/playnances-g-coin-turns-launch-week-into-a-real-time-growth-test/",
+                "category": "industry",
+                "summary": "Playnance的G Coin在市场上进行测试。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-22-industry-3",
+                "title": "Grayscale files S-1 for Hyperliquid ETF, joining Bitwise, 21Shares",
+                "source": "Cointelegraph",
+                "date": "2026-03-22",
+                "url": "https://cointelegraph.com/news/grayscale-files-sec-papers-for-hyperliquid-etf-joining-bitwise-21shares",
+                "category": "industry",
+                "summary": "Grayscale申请ETF，影响行业动态。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注ETF对市场的潜在影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Grayscale",
+                    "Bitwise",
+                    "21Shares"
+                ]
+            },
+            {
+                "id": "2026-03-22-industry-4",
+                "title": "How Structured Crypto Education Is Helping New Investors Close The Knowledge Gap",
+                "source": "redmondpie.com",
+                "date": "2026-03-22",
+                "url": "https://www.redmondpie.com/how-structured-crypto-education-is-helping-new-investors-close-the-knowledge-gap/",
+                "category": "industry",
+                "summary": "结构化加密教育帮助新投资者填补知识差距。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注加密教育趋势，提升用户知识水平。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-22-industry-5",
+                "title": "AI agents are quietly rewriting prediction market trading",
+                "source": "Activistpost.com",
+                "date": "2026-03-22",
+                "url": "https://www.activistpost.com/ai-agents-are-quietly-rewriting-prediction-market-trading/",
+                "category": "industry",
+                "summary": "AI代理正在改变预测市场交易方式。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注AI在交易市场的应用动态",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-22-industry-6",
+                "title": "Trump Lifts Sanctions on Iranian Oil in WILD Turn of Events",
+                "source": "Mediaite",
+                "date": "2026-03-22",
+                "url": "https://www.mediaite.com/media/news/trump-lifts-sanctions-on-iranian-oil-in-wild-turn-of-events/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-22-industry-7",
+                "title": "Brazil’s new finance minister shelves crypto tax consultation amid election pivot: Reuters",
+                "source": "The Block",
+                "date": "2026-03-22",
+                "url": "https://www.theblock.co/post/394576/brazils-new-finance-minister-shelves-crypto-tax-consultation-amid-election-pivot-reuters?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "巴西新财政部长暂停加密税务咨询。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注巴西的加密监管动态",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-22-industry-8",
+                "title": "CFTC staff details how crypto firms can use digital assets as derivatives collateral in new FAQ",
+                "source": "The Block",
+                "date": "2026-03-22",
+                "url": "https://www.theblock.co/post/394573/cftc-staff-details-how-crypto-firms-can-use-digital-assets-as-derivatives-collateral-in-new-faq?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "CFTC发布稳定币作为衍生品抵押的指导意见。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注稳定币的监管动态，调整合规策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-22-industry-9",
+                "title": "Best Crypto Payment Gateway (2026): Top 12 Reviews & Fees - West Africa Trade Hub",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-03-22",
+                "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQTA2bjZnYUFHa3Jqa3JCU3RpWmhsMDkxWDZaTzJ2cGxTNlhUZzFUTFNCOTFzLUx3c1hJbFh1X25vZGp3NW5QdmtOVE4zUVhnOWVHdXdDWmplYTlQSV9lRjlKU3piaUhOUmhuSmdnT2M1YVdOMThXTU83YWhDdGY3dWwwWlh4MXRrZkstYzlfSEFFakEtcmd6bEREUjhzUEl4dTFYVDF2dWV2aGZ5cllHazFDc3J4aWxjMGdRag?oc=5",
+                "category": "industry",
+                "summary": "文章讨论了加密支付网关的评估与费用。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注支付网关的发展动态",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-22-industry-10",
+                "title": "USDC Broadens Its Role Within Financial Networks, Enhancing Its Standing in the Market - Bitget",
+                "source": "Google News (USDC enterprise)",
+                "date": "2026-03-22",
+                "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxbGVmTHNZZERROThvT0FfcVFkVkZPeVpMYnh4amQ5ZnFRRVlmV2YyRlBGc0Y2QkxrcGdEejJnSFpZckE3QnBSRVBBV1ltRU1aU3VBQWo1ZGh0TWdVeUtwVmg2WUs0UmvSAWdBVV95cUxQMWxlZkxzWWREUTk4b09BX3FRZFZGT3laTGJ4eGpkOWZxUUVZZldmMkZQRnNGNkJMa3BnRHoyZ0haWXJBN0JwUkVQQVdZbUVNWlN1QUFqNWRodE1nVXlLcFZoNllLNFJr?oc=5",
+                "category": "industry",
+                "summary": "USDC在金融网络中的角色增强。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注USDC在市场中的动态变化。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "USDC",
+                    "Bitget"
+                ]
+            },
+            {
+                "id": "2026-03-22-industry-11",
+                "title": "9/ Is MPC perfect? No.\n\nYou're still trusting a distributed set of signers.\n\nBut compare the trust s",
+                "source": "Twitter @DBCrypt0",
+                "date": "2026-03-22",
+                "url": "https://x.com/DBCrypt0/status/2035406654146277630",
+                "category": "industry",
+                "summary": "讨论了MPC技术的信任问题和对比。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注MPC技术的进展与应用",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险"
+            }
+        ],
+        "stats": {
+            "totalThreats": 3,
+            "highThreats": 0,
+            "mediumThreats": 0,
+            "lowThreats": 0,
+            "competitorUpdates": 3,
+            "customerUpdates": 0,
+            "industryUpdates": 12
+        },
+        "dailySummary": {
+            "competitorThreat": "今日最大的竞争威胁来自于BitGo，其宣布Rho X正式上线，标志着其在机构级别的资产托管和场外交易服务方面的进一步增强。这一动态可能吸引大量机构投资者，提升其市场竞争力。此外，BitGo与其他知名DeFi团队的合作也显示出其在流动性池方面的战略布局。针对这一形势，建议加强与现有合作伙伴的关系，同时探索创新的产品和服务，以提升自身的市场吸引力和用户粘性。",
+            "industryTrend": "今日加密货币行业的主要热点包括Grayscale申请Hyperliquid ETF和CFTC发布稳定币作为衍生品抵押的指导意见。这表明机构投资者对加密资产的兴趣持续上升，同时监管机构在推动市场合规性方面迈出重要一步。此外，AI技术在预测市场交易中的应用也显示出行业创新的潜力。对于稳定币托管和支付基础设施行业，这些动态可能促使更多机构采用稳定币作为交易和投资工具，从而提升市场流动性和合规性。"
+        },
+        "highlights": {
+            "competitors": [
+                {
+                    "id": "2026-03-22-competitor-0",
+                    "title": "🚀 Big news! 🌟 Rho X is now live on @BitGo Network! 🔒 Institutional-grade custody and off-exchange se",
+                    "source": "Twitter @CryptoFi090",
+                    "date": "2026-03-22",
+                    "url": "https://x.com/CryptoFi090/status/2035427752745029744",
+                    "category": "competitor",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "BitGo"
+                    ]
+                },
+                {
+                    "id": "2026-03-22-competitor-1",
+                    "title": "5/ The partner list isn't random DeFi teams experimenting with liquidity pools.\n\n@BitGo, @Ledger, @F",
+                    "source": "Twitter @DBCrypt0",
+                    "date": "2026-03-22",
+                    "url": "https://x.com/DBCrypt0/status/2035406607002267695",
+                    "category": "competitor",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "BitGo"
+                    ]
+                },
+                {
+                    "id": "2026-03-22-competitor-2",
+                    "title": "Less than 24hrs to enter. The winner of this .999 copper Memento Mori coin ring will be picked and a",
+                    "source": "Twitter @TruthHawaii369",
+                    "date": "2026-03-22",
+                    "url": "https://x.com/TruthHawaii369/status/2035568037655671061",
+                    "category": "competitor",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "Copper"
+                    ]
+                }
+            ],
+            "clients": [],
+            "industry": [
+                {
+                    "id": "2026-03-22-industry-0",
+                    "title": "Crypto News: Pepeto New Binance Executive Updates Following Shiba Inu Path And Ethereum Price Predic",
+                    "source": "GlobeNewswire",
+                    "date": "2026-03-22",
+                    "url": "https://www.globenewswire.com/news-release/2026/03/21/3259997/0/en/Crypto-News-Pepeto-New-Binance-Executive-Updates-Following-Shiba-Inu-Path-And-Ethereum-Price-Prediction-Targets-10K.html",
+                    "category": "industry",
+                    "summary": "加密货币市场动态更新，包括价格预测等。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照"
+                },
+                {
+                    "id": "2026-03-22-industry-1",
+                    "title": "BM Blockchain Announces New AI-Driven Infrastructure to Simplify Passive Dogecoin Earnings",
+                    "source": "GlobeNewswire",
+                    "date": "2026-03-22",
+                    "url": "https://www.globenewswire.com/news-release/2026/03/21/3259996/0/en/BM-Blockchain-Announces-New-AI-Driven-Infrastructure-to-Simplify-Passive-Dogecoin-Earnings.html",
+                    "category": "industry",
+                    "summary": "BM Blockchain推出AI驱动基础设施以简化狗狗币收益。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势",
+                        "技术发展"
+                    ],
+                    "action": "",
+                    "subcategory": "other",
+                    "subcategoryName": "其他"
+                },
+                {
+                    "id": "2026-03-22-industry-2",
+                    "title": "Playnance’s G Coin turns launch week into a real-time growth test",
+                    "source": "CryptoSlate",
+                    "date": "2026-03-22",
+                    "url": "https://cryptoslate.com/playnances-g-coin-turns-launch-week-into-a-real-time-growth-test/",
+                    "category": "industry",
+                    "summary": "Playnance的G Coin在市场上进行测试。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势",
+                        "技术发展"
+                    ],
+                    "action": "",
+                    "subcategory": "other",
+                    "subcategoryName": "其他"
+                }
+            ]
+        }
+    },
+    {
         "date": "2026-03-21",
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-03-21.md",
