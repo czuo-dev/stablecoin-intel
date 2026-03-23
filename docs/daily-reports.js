@@ -4,6 +4,489 @@
 
 const dailyReports = [
     {
+        "date": "2026-03-23",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-03-23.md",
+        "newsItems": [
+            {
+                "id": "2026-03-23-competitor-0",
+                "title": "Bank-Level Security for Your Crypto\n\nWith @KASTxyz, your crypto is protected with the same level of ",
+                "source": "Twitter @RedKing_defi",
+                "date": "2026-03-23",
+                "url": "https://x.com/RedKing_defi/status/2035725861106643072",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks",
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-23-competitor-1",
+                "title": "🗓 Weekly Recap | Mar 16 — Mar 22\n\n🔵 Daily Funding rates update (16.03)\n→ https://t.co/dJ1yKRpwTH\n\n🔵 ",
+                "source": "Twitter @Rho_Labs",
+                "date": "2026-03-23",
+                "url": "https://x.com/Rho_Labs/status/2035779104864338363",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-23-competitor-2",
+                "title": "Solana's distributed RWA leaderboard.\n\nAssets held directly in onchain wallets.\n\n@circle: $8B\n@tethe",
+                "source": "Twitter @AiFlippa",
+                "date": "2026-03-23",
+                "url": "https://x.com/AiFlippa/status/2035748490270441549",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-23-competitor-3",
+                "title": "UGOLD: each token = 1 oz of 9999 fine gold, custodied by BitGo. 🪙\n\nTrade, spend, or redeem for physi",
+                "source": "Twitter @1maskcrypto",
+                "date": "2026-03-23",
+                "url": "https://x.com/1maskcrypto/status/2035746190189613273",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-23-competitor-4",
+                "title": "WHY HASHI ATTRACTED INSTITUTIONS BEFORE LAUNCH? 🤯\n\nHashi is barely introduced, yet it already has a ",
+                "source": "Twitter @xerxesdotsui",
+                "date": "2026-03-23",
+                "url": "https://x.com/xerxesdotsui/status/2035641875399328005",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-23-competitor-5",
+                "title": "#Top10  \n\n1. HDFC BANK - MC Exclusive - Mis-selling AT1\n\n2. COMMODITY CORRECTS – MUTHOOT | HIND ZINC",
+                "source": "Twitter @AshVerma111",
+                "date": "2026-03-23",
+                "url": "https://x.com/AshVerma111/status/2035931734370594936",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Copper"
+                ]
+            },
+            {
+                "id": "2026-03-23-competitor-6",
+                "title": "Stablecoin issuance is commoditizing.\n\nNow a growing wave of white label issuers handle the entire s",
+                "source": "Twitter @Delphi_Digital",
+                "date": "2026-03-23",
+                "url": "https://x.com/Delphi_Digital/status/2035773852584956225",
+                "category": "competitor",
+                "summary": "稳定币发行正在商品化，竞争加剧。",
+                "threatLevel": "high",
+                "impact": [
+                    "产品竞争",
+                    "市场定价",
+                    "品牌影响"
+                ],
+                "action": "关注竞争对手动态，提升产品差异化。",
+                "tickers": [
+                    "Paxos",
+                    "Bridge",
+                    "Anchorage",
+                    "M0",
+                    "Tether",
+                    "Circle"
+                ]
+            },
+            {
+                "id": "2026-03-23-competitor-7",
+                "title": "📣 Direct $XRP DTCC Connections: $XRP \"Depository Reciepts\" are securities issued by RDC that represe",
+                "source": "Twitter @ChartNerdTA",
+                "date": "2026-03-23",
+                "url": "https://x.com/ChartNerdTA/status/2035693173473714578",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-03-23-industry-0",
+                "title": "CFTC staff clarify expectations on using crypto as collateral",
+                "source": "Cointelegraph",
+                "date": "2026-03-23",
+                "url": "https://cointelegraph.com/news/cftc-staff-clarify-expectations-crypto-collateral",
+                "category": "industry",
+                "summary": "CFTC 对加密抵押品使用的监管期望进行澄清。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管动态，调整合规策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-23-industry-1",
+                "title": "Crypto News: Pepeto Goes Viral While XRP Price Prediction Might Reach $10 Soon",
+                "source": "GlobeNewswire",
+                "date": "2026-03-23",
+                "url": "https://www.globenewswire.com/news-release/2026/03/22/3260049/0/en/Crypto-News-Pepeto-Goes-Viral-While-XRP-Price-Prediction-Might-Reach-10-Soon.html",
+                "category": "industry",
+                "summary": "XRP价格预测引发市场关注。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-23-industry-2",
+                "title": "Crypto News: Pepeto Eliminates Ethereum Fees While XRP Price Prediction Targets $8 and Whale Wallets",
+                "source": "GlobeNewswire",
+                "date": "2026-03-23",
+                "url": "https://www.globenewswire.com/news-release/2026/03/22/3260048/0/en/Crypto-News-Pepeto-Eliminates-Ethereum-Fees-While-XRP-Price-Prediction-Targets-8-and-Whale-Wallets-Are-Moving.html",
+                "category": "industry",
+                "summary": "报道了加密货币市场的动态和趋势。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场动态以调整策略",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-23-industry-3",
+                "title": "Game Changer: SEC Declares Most Crypto NOT Securities — Markets May Never Be the Same",
+                "source": "Freerepublic.com",
+                "date": "2026-03-23",
+                "url": "https://freerepublic.com/focus/f-chat/4371680/posts",
+                "category": "industry",
+                "summary": "SEC宣布大多数加密货币非证券，影响市场格局。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注监管动态，调整业务策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-23-industry-4",
+                "title": "How did DHS funding standoff affect airports? #politics",
+                "source": "Alltoc.com",
+                "date": "2026-03-23",
+                "url": "https://alltoc.com/politics/how-did-dhs-funding-standoff-affect-airports",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-03-23-industry-5",
+                "title": "Weighty matters just got easier",
+                "source": "The Indian Express",
+                "date": "2026-03-23",
+                "url": "https://indianexpress.com/article/opinion/columns/weighty-matters-just-got-easier-10594562/",
+                "category": "industry",
+                "summary": "加密行业动态变得更加简便。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-23-industry-6",
+                "title": "Is The Madison coming back for Season 2? #lifestyle",
+                "source": "Alltoc.com",
+                "date": "2026-03-23",
+                "url": "https://alltoc.com/lifestyle/is-the-madison-coming-back-for-season-2",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-23-industry-7",
+                "title": "A low-latency deep learning framework for volcanic ash cloud nowcasting using geostationary satellit",
+                "source": "Nature.com",
+                "date": "2026-03-23",
+                "url": "https://www.nature.com/articles/s41598-026-42230-7",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-23-industry-8",
+                "title": "Akemi Hair Glow Claims Evaluated: 2026 Hair Growth Transparency Report Examines DHT-Blocking Spray R",
+                "source": "GlobeNewswire",
+                "date": "2026-03-23",
+                "url": "https://www.globenewswire.com/news-release/2026/03/22/3260044/0/en/Akemi-Hair-Glow-Claims-Evaluated-2026-Hair-Growth-Transparency-Report-Examines-DHT-Blocking-Spray-Research-56-Thicker-Hair-Data-and-Ingredient-Research-for-Women.html",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-23-industry-9",
+                "title": "Fidelity urges SEC to refine rules for broker-dealers handling crypto assets",
+                "source": "The Block",
+                "date": "2026-03-23",
+                "url": "https://www.theblock.co/post/394603/fidelity-urges-sec-broker-dealers?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "Fidelity呼吁SEC澄清加密资产的监管规则。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管动态，调整合规策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Fidelity"
+                ]
+            },
+            {
+                "id": "2026-03-23-industry-10",
+                "title": "The Funding: Is a token-to-equity shift emerging in crypto?",
+                "source": "The Block",
+                "date": "2026-03-23",
+                "url": "https://www.theblock.co/post/394596/the-funding-token-to-equity-shift-crypto?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "讨论了加密货币和DAO的未来趋势。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-03-23-industry-11",
+                "title": "NYSE exchanges complete industry-wide removal of crypto ETF options caps",
+                "source": "The Block",
+                "date": "2026-03-23",
+                "url": "https://www.theblock.co/post/394593/nyse-exchanges-complete-industry-wide-removal-of-crypto-etf-options-caps?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "加密ETF选项现已与其他商品ETF选项相同。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场动态，调整策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-23-industry-12",
+                "title": "Resolv’s USR stablecoin depegs after attacker mints 80 million unbacked tokens, extracts roughly $25",
+                "source": "The Block",
+                "date": "2026-03-23",
+                "url": "https://www.theblock.co/post/394582/resolvs-usr-stablecoin-depegs-after-attacker-mints-80-million-unbacked-tokens-extracts-roughly-25-million?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "Resolv的稳定币因攻击者铸造未支持的代币而脱钩。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币安全性及监管动态",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-23-industry-13",
+                "title": "⁍ Who actually needs this?\n\n→ Stablecoin platforms offering confidential transfers\n→ Tokenized secur",
+                "source": "Twitter @Cryptobuddiee",
+                "date": "2026-03-23",
+                "url": "https://x.com/Cryptobuddiee/status/2035800593072087125",
+                "category": "industry",
+                "summary": "稳定币平台的隐私转账引发关注。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币隐私转账技术的发展动态。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            }
+        ],
+        "stats": {
+            "totalThreats": 8,
+            "highThreats": 1,
+            "mediumThreats": 0,
+            "lowThreats": 0,
+            "competitorUpdates": 8,
+            "customerUpdates": 0,
+            "industryUpdates": 14
+        },
+        "dailySummary": {
+            "competitorThreat": "今日最大的竞争威胁来自于稳定币发行的商品化趋势，越来越多的白标发行商进入市场，提升了竞争的激烈程度。涉及的重要公司包括Paxos、Tether和Circle等，它们在稳定币领域占据重要地位。同时，BitGo也在推出与黄金挂钩的UGOLD代币，显示出其在资产管理方面的创新。为了应对这一挑战，建议关注产品差异化和用户体验的提升，同时加强合规性和安全性，以维持市场竞争力。",
+            "industryTrend": "今日加密行业的主要热点包括CFTC对加密抵押品使用的监管澄清，以及SEC宣布大多数加密货币不被视为证券，这可能改变市场结构。XRP价格预测的上涨趋势引发了投资者的关注，尤其是在鲸鱼钱包活动增加的背景下。此外，Fidelity呼吁SEC明确加密资产的监管规则，显示出市场对规范化的迫切需求。这些动态可能推动稳定币托管和支付基础设施的合规性提升，增强市场信心，促进更广泛的应用场景和流动性。"
+        },
+        "highlights": {
+            "competitors": [
+                {
+                    "id": "2026-03-23-competitor-0",
+                    "title": "Bank-Level Security for Your Crypto\n\nWith @KASTxyz, your crypto is protected with the same level of ",
+                    "source": "Twitter @RedKing_defi",
+                    "date": "2026-03-23",
+                    "url": "https://x.com/RedKing_defi/status/2035725861106643072",
+                    "category": "competitor",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "Fireblocks",
+                        "BitGo"
+                    ]
+                },
+                {
+                    "id": "2026-03-23-competitor-1",
+                    "title": "🗓 Weekly Recap | Mar 16 — Mar 22\n\n🔵 Daily Funding rates update (16.03)\n→ https://t.co/dJ1yKRpwTH\n\n🔵 ",
+                    "source": "Twitter @Rho_Labs",
+                    "date": "2026-03-23",
+                    "url": "https://x.com/Rho_Labs/status/2035779104864338363",
+                    "category": "competitor",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "BitGo"
+                    ]
+                },
+                {
+                    "id": "2026-03-23-competitor-2",
+                    "title": "Solana's distributed RWA leaderboard.\n\nAssets held directly in onchain wallets.\n\n@circle: $8B\n@tethe",
+                    "source": "Twitter @AiFlippa",
+                    "date": "2026-03-23",
+                    "url": "https://x.com/AiFlippa/status/2035748490270441549",
+                    "category": "competitor",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "BitGo"
+                    ]
+                }
+            ],
+            "clients": [],
+            "industry": [
+                {
+                    "id": "2026-03-23-industry-0",
+                    "title": "CFTC staff clarify expectations on using crypto as collateral",
+                    "source": "Cointelegraph",
+                    "date": "2026-03-23",
+                    "url": "https://cointelegraph.com/news/cftc-staff-clarify-expectations-crypto-collateral",
+                    "category": "industry",
+                    "summary": "CFTC 对加密抵押品使用的监管期望进行澄清。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "监管影响",
+                        "市场趋势"
+                    ],
+                    "action": "关注监管动态，调整合规策略。",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照"
+                },
+                {
+                    "id": "2026-03-23-industry-1",
+                    "title": "Crypto News: Pepeto Goes Viral While XRP Price Prediction Might Reach $10 Soon",
+                    "source": "GlobeNewswire",
+                    "date": "2026-03-23",
+                    "url": "https://www.globenewswire.com/news-release/2026/03/22/3260049/0/en/Crypto-News-Pepeto-Goes-Viral-While-XRP-Price-Prediction-Might-Reach-10-Soon.html",
+                    "category": "industry",
+                    "summary": "XRP价格预测引发市场关注。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势"
+                    ],
+                    "action": "",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照"
+                },
+                {
+                    "id": "2026-03-23-industry-2",
+                    "title": "Crypto News: Pepeto Eliminates Ethereum Fees While XRP Price Prediction Targets $8 and Whale Wallets",
+                    "source": "GlobeNewswire",
+                    "date": "2026-03-23",
+                    "url": "https://www.globenewswire.com/news-release/2026/03/22/3260048/0/en/Crypto-News-Pepeto-Eliminates-Ethereum-Fees-While-XRP-Price-Prediction-Targets-8-and-Whale-Wallets-Are-Moving.html",
+                    "category": "industry",
+                    "summary": "报道了加密货币市场的动态和趋势。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "关注市场动态以调整策略",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照"
+                }
+            ]
+        }
+    },
+    {
         "date": "2026-03-22",
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-03-22.md",
