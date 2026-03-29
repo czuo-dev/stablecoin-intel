@@ -4,6 +4,570 @@
 
 const dailyReports = [
     {
+        "date": "2026-03-29",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-03-29.md",
+        "newsItems": [
+            {
+                "id": "2026-03-29-competitor-0",
+                "title": "@maxi_7070 @bronwallet Compelling shift; MPC wallets like Bron redefine self custody through securit",
+                "source": "Twitter @Crypto_verve",
+                "date": "2026-03-29",
+                "url": "https://x.com/Crypto_verve/status/2037834028120740271",
+                "category": "competitor",
+                "summary": "MPC钱包技术重新定义自我托管安全性。",
+                "threatLevel": "medium",
+                "impact": [
+                    "产品竞争",
+                    "技术差距"
+                ],
+                "action": "关注MPC技术发展，提升产品安全性。",
+                "tickers": [
+                    "Bron"
+                ]
+            },
+            {
+                "id": "2026-03-29-competitor-1",
+                "title": "What ties it all together is Fireblocks being a key member of the Mastercard Crypto Partner Program.",
+                "source": "Twitter @Kenny_Tomide",
+                "date": "2026-03-29",
+                "url": "https://x.com/Kenny_Tomide/status/2037974037612335502",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-03-29-competitor-2",
+                "title": "On the client and updates side, big names like BNY Mellon, Revolut, Worldpay, and Galaxy trust Fireb",
+                "source": "Twitter @Kenny_Tomide",
+                "date": "2026-03-29",
+                "url": "https://x.com/Kenny_Tomide/status/2037974031761072401",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-03-29-competitor-3",
+                "title": "One of their biggest strengths is the MPC-CMP technology. Instead of keeping private keys in one pla",
+                "source": "Twitter @Kenny_Tomide",
+                "date": "2026-03-29",
+                "url": "https://x.com/Kenny_Tomide/status/2037974018062533101",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Fireblocks"
+                ]
+            },
+            {
+                "id": "2026-03-29-competitor-4",
+                "title": "@InvestWithD @coinbase @BitGo #boycottcoinbase #letcoinbasedie\n\nIf Clarity was signed today, it will",
+                "source": "Twitter @JohnW666777",
+                "date": "2026-03-29",
+                "url": "https://x.com/JohnW666777/status/2038072678876065867",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-03-29-competitor-5",
+                "title": "bini girls update!!!\n\nAiah - blonde highlights\nColet - cream blonde hair\nMaloi - chestnut hair \nGwen",
+                "source": "Twitter @mooibacchi",
+                "date": "2026-03-29",
+                "url": "https://x.com/mooibacchi/status/2038110599176143304",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Copper"
+                ]
+            },
+            {
+                "id": "2026-03-29-competitor-6",
+                "title": "Anchorage Digital – ngân hàng crypto được cấp phép liên bang đầu tiên của Mỹ – vừa chính thức hỗ trợ",
+                "source": "Twitter @vinvin_100",
+                "date": "2026-03-29",
+                "url": "https://x.com/vinvin_100/status/2038065404464251299",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-03-29-competitor-7",
+                "title": "🌞 ANCHORAGE BRINGS TRON “INSIDE THE REGULATORY PERIMETER”\n\nThis is a defining moment.\n\nNot just acce",
+                "source": "Twitter @yabarich",
+                "date": "2026-03-29",
+                "url": "https://x.com/yabarich/status/2037948162443563106",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-03-29-competitor-8",
+                "title": "🌞 ANCHORAGE DIGITAL: THE INSTITUTIONAL GATEWAY INTO TRON\n\nThis is where access becomes scalable.\n\nNo",
+                "source": "Twitter @yabarich",
+                "date": "2026-03-29",
+                "url": "https://x.com/yabarich/status/2037947248865366179",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-03-29-competitor-9",
+                "title": "🌞 ANCHORAGE × TRON: REGULATED CUSTODY UNLOCKS INSTITUTIONAL ACCESS AT SCALE\n\nThis is not just integr",
+                "source": "Twitter @yabarich",
+                "date": "2026-03-29",
+                "url": "https://x.com/yabarich/status/2037946767329939662",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-03-29-competitor-10",
+                "title": "🚀 TRON mở cửa dòng tiền tổ chức – Cánh cửa compliance chính thức được mở\n\nTrong crypto, adoption khô",
+                "source": "Twitter @BIT_CAPITAL123",
+                "date": "2026-03-29",
+                "url": "https://x.com/BIT_CAPITAL123/status/2037907958898864210",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-03-29-competitor-11",
+                "title": "TRON just stacked three institutional moves in a single week.\n\nAnd they follow a very specific seque",
+                "source": "Twitter @Defikeen",
+                "date": "2026-03-29",
+                "url": "https://x.com/Defikeen/status/2037852225741914593",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-03-29-competitor-12",
+                "title": "🌞 ANCHORAGE DIGITAL: A NEW INSTITUTIONAL ACCESS POINT TO THE TRON ECOSYSTEM\n\nThis is where infrastru",
+                "source": "Twitter @yabarich",
+                "date": "2026-03-29",
+                "url": "https://x.com/yabarich/status/2037824391724274107",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-03-29-competitor-13",
+                "title": "🚨 ANCHORAGE DIGITAL ADDS $TRX: INSTITUTIONAL ACCESS TO TRON GOES LIVE\n\nThis is not just a listing.\nI",
+                "source": "Twitter @yabarich",
+                "date": "2026-03-29",
+                "url": "https://x.com/yabarich/status/2037795504843542772",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-03-29-competitor-14",
+                "title": "𝗔𝗻𝗰𝗵𝗼𝗿𝗮𝗴𝗲 𝗕𝗿𝗶𝗻𝗴𝘀 𝗧𝗥𝗢𝗡 𝘁𝗼 𝘁𝗵𝗲 𝗜𝗻𝘀𝘁𝗶𝘁𝘂𝘁𝗶𝗼𝗻𝗮𝗹 𝗦𝘁𝗮𝗴𝗲: 𝗧𝗥𝗫 𝗠𝗼𝘃𝗲𝘀 𝗙𝗿𝗼𝗺 𝗛𝗶𝗴𝗵-𝗩𝗼𝗹𝘂𝗺𝗲 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝘁𝗼 𝗥𝗲𝗴𝘂𝗹𝗮𝘁𝗲𝗱 𝗙𝗶",
+                "source": "Twitter @BON_DEFI",
+                "date": "2026-03-29",
+                "url": "https://x.com/BON_DEFI/status/2037794567710261471",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-03-29-industry-0",
+                "title": "Stablecoins will be crypto’s ‘ChatGPT moment’ for businesses: Ripple",
+                "source": "Cointelegraph",
+                "date": "2026-03-29",
+                "url": "https://cointelegraph.com/news/stablecoins-will-be-cryptos-chatgpt-moment-ripple-garlinghouse",
+                "category": "industry",
+                "summary": "Ripple认为稳定币将推动商业变革。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币在商业中的应用潜力。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Ripple"
+                ]
+            },
+            {
+                "id": "2026-03-29-industry-1",
+                "title": "Bybit P2P Meets Bybit Pay: 8,000 USDT Prize Pool Exclusive for Kenya",
+                "source": "PR Newswire UK",
+                "date": "2026-03-29",
+                "url": "https://www.prnewswire.co.uk/news-releases/bybit-p2p-meets-bybit-pay-8-000-usdt-prize-pool-exclusive-for-kenya-302727374.html",
+                "category": "industry",
+                "summary": "Bybit推出P2P支付活动，涉及稳定币USDT。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注P2P支付市场动态，调整策略。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-29-industry-2",
+                "title": "Morgan Stanley sets 0.14% Bitcoin ETF fee, lowest in market if approved",
+                "source": "Cointelegraph",
+                "date": "2026-03-29",
+                "url": "https://cointelegraph.com/news/morgan-stanley-sets-ultra-low-fee-for-bitcoin-etf",
+                "category": "industry",
+                "summary": "摩根士丹利设定比特币ETF最低费用。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场动态，评估影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Morgan Stanley"
+                ]
+            },
+            {
+                "id": "2026-03-29-industry-3",
+                "title": "LegacyCoin CTO Announces Launch of Crypto Ownership Solution Focused on Digital Asset Continuity",
+                "source": "GlobeNewswire",
+                "date": "2026-03-29",
+                "url": "https://www.globenewswire.com/news-release/2026/03/28/3264159/0/en/LegacyCoin-CTO-Announces-Launch-of-Crypto-Ownership-Solution-Focused-on-Digital-Asset-Continuity.html",
+                "category": "industry",
+                "summary": "LegacyCoin推出数字资产所有权解决方案。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展",
+                    "市场趋势"
+                ],
+                "action": "关注数字资产管理技术的进展。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-29-industry-4",
+                "title": "Neo-Feudalism and Innovation Impact",
+                "source": "Bradenkelley.com",
+                "date": "2026-03-29",
+                "url": "https://bradenkelley.com/2026/03/neo-feudalism-and-innovation-impact/",
+                "category": "industry",
+                "summary": "探讨新封建主义与创新的影响",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注行业创新动态",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-29-industry-5",
+                "title": "xStocks and Fundrise Partner to Tokenize VCX Fund, Unlocking Onchain Exposure to Leading Private Tec",
+                "source": "Associated Press",
+                "date": "2026-03-29",
+                "url": "https://apnews.com/press-release/business-wire/xstocks-and-fundrise-partner-to-tokenize-vcx-fund-unlocking-onchain-exposure-to-leading-private-tech-companies-720f1f62d65a4af385e322664c3e745f",
+                "category": "industry",
+                "summary": "xStocks与Fundrise合作，推动区块链技术应用。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注区块链技术的最新动态",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-03-29-industry-6",
+                "title": "Black Titan Highlights March Shift Toward Production-Grade Crypto Payments Infrastructure - The Glob",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-03-29",
+                "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZUtRXzhEaWw3Q2tteTZoUXpHLUpkVUxXd09Cek9FWHJxSU52THRrYi1XMkYtMXBIUy0zdWRONU1VeE8zYUdTcmFLTnhpTG1JRldMbFFQQ0hMRmUxZXM0M3d1dGJwYklKLUU5RmVJVzBxT3dCLVZpRDlOYlNnWFM5VHVTTXhlRzRkZ1QxTHpEZlhZTWROSVgyT1hqb0lCVkJ1TXNUOXpuNzAxdTVvd1dwUUJFRjNSamhVVk1wc1F4ay1YcUlvWGUxeXNKWThMejVwS0lPekllMGRaZ3ZfSkJOUEpha3lNOENDVDZJV2NnR01vc0FNWi1paHYtb3JmcVk?oc=5",
+                "category": "industry",
+                "summary": "报道了加密支付基础设施的发展动态。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注加密支付基础设施的技术进展。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-03-29-industry-7",
+                "title": "🚨DATA: IS THE PARTY OVER FOR ETHEREUM L2S?\n\nAccording to a new post from @CoinbaseInsto, trend data ",
+                "source": "Twitter @BSCNews",
+                "date": "2026-03-29",
+                "url": "https://x.com/BSCNews/status/2038101843398492309",
+                "category": "industry",
+                "summary": "以太坊主网用户活动上升，影响稳定币使用趋势。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注以太坊网络对稳定币的影响。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-03-29-industry-8",
+                "title": "🚨LATEST: COINBASE GOES BIG ON CRYPTO-BACKED MORTGAGES\n\n@Coinbase has partnered with Better Homes &am",
+                "source": "Twitter @BSCNews",
+                "date": "2026-03-29",
+                "url": "https://x.com/BSCNews/status/2038111909699092844",
+                "category": "industry",
+                "summary": "Coinbase与抵押贷款公司合作，支持加密抵押贷款。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注加密抵押贷款市场动态",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Coinbase",
+                    "Better Homes & Finance"
+                ]
+            },
+            {
+                "id": "2026-03-29-industry-9",
+                "title": "Ripple is testing stablecoin payments on XRPL, signaling early-stage infrastructure expansion. Small",
+                "source": "Twitter @CryptoPulse_CRU",
+                "date": "2026-03-29",
+                "url": "https://x.com/CryptoPulse_CRU/status/2037938103705276848",
+                "category": "industry",
+                "summary": "Ripple正在测试稳定币支付，推动基础设施扩展。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币支付的技术进展",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Ripple"
+                ]
+            },
+            {
+                "id": "2026-03-29-industry-10",
+                "title": "SWIFT just announced their new cross-border payment framework.\nOver 50 banks are already supporting ",
+                "source": "Twitter @RipBullWinkle",
+                "date": "2026-03-29",
+                "url": "https://x.com/RipBullWinkle/status/2037870098325663934",
+                "category": "industry",
+                "summary": "SWIFT推出新的跨境支付框架，Ripple参与其中。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注SWIFT与Ripple的合作动态",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Ripple"
+                ]
+            }
+        ],
+        "stats": {
+            "totalThreats": 15,
+            "highThreats": 0,
+            "mediumThreats": 1,
+            "lowThreats": 0,
+            "competitorUpdates": 15,
+            "customerUpdates": 0,
+            "industryUpdates": 11
+        },
+        "dailySummary": {
+            "competitorThreat": "今日最大的竞争威胁来自于MPC钱包技术的崛起，尤其是Bron在自我托管安全性方面的创新，这可能会影响现有的稳定币和数字资产管理方式。此外，Fireblocks与Mastercard的合作以及其在金融服务领域的强大客户基础（如BNY Mellon、Revolut等）也显示出其市场竞争力的增强。Anchorage Digital的监管合规性和与TRON的合作进一步拓宽了机构投资者的接入渠道。建议关注MPC技术的发展，并考虑与监管合规的合作伙伴建立战略联盟，以增强市场竞争力。",
+            "industryTrend": "今日行业热点主要集中在稳定币的应用与基础设施发展上。Ripple认为稳定币将成为商业变革的催化剂，尤其是在支付领域。Bybit推出的P2P支付活动和Ripple在XRPL上测试稳定币支付，显示出对稳定币支付基础设施的重视。此外，Coinbase与抵押贷款公司的合作，表明稳定币在金融服务中的潜力正在被进一步挖掘。随着以太坊用户活动上升，稳定币的使用趋势可能会受到影响，反映出市场对加密支付解决方案的需求增长。这些动态将推动稳定币托管与支付基础设施的创新与普及。"
+        },
+        "highlights": {
+            "competitors": [
+                {
+                    "id": "2026-03-29-competitor-0",
+                    "title": "@maxi_7070 @bronwallet Compelling shift; MPC wallets like Bron redefine self custody through securit",
+                    "source": "Twitter @Crypto_verve",
+                    "date": "2026-03-29",
+                    "url": "https://x.com/Crypto_verve/status/2037834028120740271",
+                    "category": "competitor",
+                    "summary": "MPC钱包技术重新定义自我托管安全性。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "产品竞争",
+                        "技术差距"
+                    ],
+                    "action": "关注MPC技术发展，提升产品安全性。",
+                    "tickers": [
+                        "Bron"
+                    ]
+                },
+                {
+                    "id": "2026-03-29-competitor-1",
+                    "title": "What ties it all together is Fireblocks being a key member of the Mastercard Crypto Partner Program.",
+                    "source": "Twitter @Kenny_Tomide",
+                    "date": "2026-03-29",
+                    "url": "https://x.com/Kenny_Tomide/status/2037974037612335502",
+                    "category": "competitor",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "Fireblocks"
+                    ]
+                },
+                {
+                    "id": "2026-03-29-competitor-2",
+                    "title": "On the client and updates side, big names like BNY Mellon, Revolut, Worldpay, and Galaxy trust Fireb",
+                    "source": "Twitter @Kenny_Tomide",
+                    "date": "2026-03-29",
+                    "url": "https://x.com/Kenny_Tomide/status/2037974031761072401",
+                    "category": "competitor",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "Fireblocks"
+                    ]
+                }
+            ],
+            "clients": [],
+            "industry": [
+                {
+                    "id": "2026-03-29-industry-0",
+                    "title": "Stablecoins will be crypto’s ‘ChatGPT moment’ for businesses: Ripple",
+                    "source": "Cointelegraph",
+                    "date": "2026-03-29",
+                    "url": "https://cointelegraph.com/news/stablecoins-will-be-cryptos-chatgpt-moment-ripple-garlinghouse",
+                    "category": "industry",
+                    "summary": "Ripple认为稳定币将推动商业变革。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "市场趋势",
+                        "技术发展"
+                    ],
+                    "action": "关注稳定币在商业中的应用潜力。",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照",
+                    "tickers": [
+                        "Ripple"
+                    ]
+                },
+                {
+                    "id": "2026-03-29-industry-1",
+                    "title": "Bybit P2P Meets Bybit Pay: 8,000 USDT Prize Pool Exclusive for Kenya",
+                    "source": "PR Newswire UK",
+                    "date": "2026-03-29",
+                    "url": "https://www.prnewswire.co.uk/news-releases/bybit-p2p-meets-bybit-pay-8-000-usdt-prize-pool-exclusive-for-kenya-302727374.html",
+                    "category": "industry",
+                    "summary": "Bybit推出P2P支付活动，涉及稳定币USDT。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "关注P2P支付市场动态，调整策略。",
+                    "subcategory": "stablecoin_payments",
+                    "subcategoryName": "稳定币支付"
+                },
+                {
+                    "id": "2026-03-29-industry-2",
+                    "title": "Morgan Stanley sets 0.14% Bitcoin ETF fee, lowest in market if approved",
+                    "source": "Cointelegraph",
+                    "date": "2026-03-29",
+                    "url": "https://cointelegraph.com/news/morgan-stanley-sets-ultra-low-fee-for-bitcoin-etf",
+                    "category": "industry",
+                    "summary": "摩根士丹利设定比特币ETF最低费用。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "关注市场动态，评估影响。",
+                    "subcategory": "other",
+                    "subcategoryName": "其他",
+                    "tickers": [
+                        "Morgan Stanley"
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "date": "2026-03-28",
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-03-28.md",
