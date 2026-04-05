@@ -4,6 +4,441 @@
 
 const dailyReports = [
     {
+        "date": "2026-04-05",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-04-05.md",
+        "newsItems": [
+            {
+                "id": "2026-04-05-competitor-0",
+                "title": "Κατά τη διάρκεια των τελευταίων 4 μηνών, η YZi Labs της @cz_binance επένδυσε σε οκτώ εταιρείες, δεσμ",
+                "source": "Twitter @cryptoneay",
+                "date": "2026-04-05",
+                "url": "https://x.com/cryptoneay/status/2040457579583705108",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-04-05-competitor-1",
+                "title": "Dostkar @BitGo Mint, yeni piyasaya sürüldü ve USD1 ilk günden itibaren kullanılıyor\n\nBu sayede şunla",
+                "source": "Twitter @btcoinmag",
+                "date": "2026-04-05",
+                "url": "https://x.com/btcoinmag/status/2040456834755052013",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-04-05-competitor-2",
+                "title": "Digital asset infrastructure leader BitGo has fundamentally transformed institutional cryptocurrency",
+                "source": "Twitter @ItsBitcoinWorld",
+                "date": "2026-04-05",
+                "url": "https://x.com/ItsBitcoinWorld/status/2040307413438386658",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-04-05-competitor-3",
+                "title": "🇺🇸 𝗧𝗥𝗢𝗡 𝗘𝗡𝗧𝗘𝗥𝗦 𝗧𝗛𝗘 𝗨.𝗦. 𝗥𝗘𝗚𝗨𝗟𝗔𝗧𝗢𝗥𝗬 𝗣𝗘𝗥𝗜𝗠𝗘𝗧𝗘𝗥 — 𝗔 𝗠𝗔𝗝𝗢𝗥 𝗦𝗧𝗘𝗣 𝗙𝗢𝗥 𝗜𝗡𝗦𝗧𝗜𝗧𝗨𝗧𝗜𝗢𝗡𝗔𝗟 𝗔𝗖𝗖𝗘𝗦𝗦\n\nThe bridge bet",
+                "source": "Twitter @johnpauldooga",
+                "date": "2026-04-05",
+                "url": "https://x.com/johnpauldooga/status/2040466880398499841",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-04-05-industry-0",
+                "title": "Complex temporal dynamics of phage-bacteria populations in an animal-associated marine system",
+                "source": "Nature.com",
+                "date": "2026-04-05",
+                "url": "https://www.nature.com/articles/s41467-026-71398-9",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-04-05-industry-1",
+                "title": "$LOL Announces Next Expansion Phase Ahead of 2026 Memecoin Cycle",
+                "source": "GlobeNewswire",
+                "date": "2026-04-05",
+                "url": "https://www.globenewswire.com/news-release/2026/04/04/3268166/0/en/LOL-Announces-Next-Expansion-Phase-Ahead-of-2026-Memecoin-Cycle.html",
+                "category": "industry",
+                "summary": "LOL宣布在2026年Memecoin周期前扩展计划。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "关注Memecoin市场动态，调整策略。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-04-05-industry-2",
+                "title": "Critics: Circle Failed to Block Drift Hack Transfer",
+                "source": "pymnts.com",
+                "date": "2026-04-05",
+                "url": "https://www.pymnts.com/cybersecurity/2026/critics-circle-failed-to-block-drift-hack-transfer/",
+                "category": "industry",
+                "summary": "Circle未能阻止Drift黑客转账引发争议。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注安全措施提升和市场反应",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Circle"
+                ]
+            },
+            {
+                "id": "2026-04-05-industry-3",
+                "title": "Bullish Signal For Ether? Ethereum Foundation’s Latest $93M Staking Push Brings It Closer to 70K ETH",
+                "source": "ZyCrypto",
+                "date": "2026-04-05",
+                "url": "https://zycrypto.com/bullish-signal-for-ether-ethereum-foundations-latest-93m-staking-push-brings-it-closer-to-70k-eth-target/",
+                "category": "industry",
+                "summary": "以太坊基金会进行大规模质押投资。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注以太坊质押对市场的影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-04-05-industry-4",
+                "title": "rango-sdk-py added to PyPI",
+                "source": "Pypi.org",
+                "date": "2026-04-05",
+                "url": "https://pypi.org/project/rango-sdk-py/",
+                "category": "industry",
+                "summary": "Rango SDK 被添加到 PyPI，涉及区块链基础设施的进展。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展"
+                ],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-04-05-industry-5",
+                "title": "Bitcoin ETFs 'will be larger' than gold ETFs: Analyst",
+                "source": "Cointelegraph",
+                "date": "2026-04-05",
+                "url": "https://cointelegraph.com/news/bitcoin-gold-etfs-use-cases-analyst-james-seyffart",
+                "category": "industry",
+                "summary": "分析师认为比特币ETF将超越黄金ETF。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注比特币ETF对市场的潜在影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-04-05-industry-6",
+                "title": "Here's what 'cracking' bitcoin in 9 minutes by quantum computers actually means",
+                "source": "CoinDesk",
+                "date": "2026-04-05",
+                "url": "https://www.coindesk.com/tech/2026/03/31/what-does-cracking-bitcoin-in-9-minutes-by-quantum-computers-actually-mean",
+                "category": "industry",
+                "summary": "量子计算可能影响比特币安全性",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注量子计算对加密安全的潜在影响",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-04-05-industry-7",
+                "title": "Trezor Safe 3 Crypto Hardware Wallet $67.20 (RRP $130) Delivered @ Amazon AU",
+                "source": "Ozbargain.com.au",
+                "date": "2026-04-05",
+                "url": "https://www.ozbargain.com.au/node/954563",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-04-05-industry-8",
+                "title": "Valuations do a quick jump at select startups",
+                "source": "The Times of India",
+                "date": "2026-04-05",
+                "url": "https://economictimes.indiatimes.com/tech/startups/valuations-do-a-quick-jump-at-select-startups/articleshow/130007750.cms",
+                "category": "industry",
+                "summary": "部分创业公司估值快速上涨的新闻",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注市场动态以调整投资策略",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-04-05-industry-9",
+                "title": "RBI’s dual strikes save rupee for time being; will it sustain in long run?",
+                "source": "Thefederal.com",
+                "date": "2026-04-05",
+                "url": "https://thefederal.com/category/business/rbi-ndf-nop-steps-save-rupee-from-falling-against-dollar-west-asia-crsisis-will-it-continue-237494",
+                "category": "industry",
+                "summary": "印度央行的举措影响货币稳定性",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注印度的加密监管动态",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-04-05-industry-10",
+                "title": "Charles Schwab opens waitlist for direct bitcoin and ether trading, targeting Q2 limited launch",
+                "source": "The Block",
+                "date": "2026-04-05",
+                "url": "https://www.theblock.co/post/396358/charles-schwab-opens-waitlist-for-direct-bitcoin-and-ether-trading-targeting-q2-limited-launch?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "Charles Schwab推出比特币和以太坊交易服务。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场动态，评估竞争影响。",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险",
+                "tickers": [
+                    "Charles Schwab"
+                ]
+            },
+            {
+                "id": "2026-04-05-industry-11",
+                "title": "IMF warns tokenized finance could amplify market crises, urges central bank-anchored settlement",
+                "source": "The Block",
+                "date": "2026-04-05",
+                "url": "https://www.theblock.co/post/396353/imf-warns-tokenized-finance-could-amplify-market-crises-urges-central-bank-anchored-settlement?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "IMF警告代币化金融可能加剧市场危机。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注稳定币监管政策变化",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-04-05-industry-12",
+                "title": "$RIVER just went live on HyperliquidX\n@River4fun @RiverdotInc \n\nthey're running a 16 day campaign to",
+                "source": "Twitter @Candlequeen8875",
+                "date": "2026-04-05",
+                "url": "https://x.com/Candlequeen8875/status/2040647281557582105",
+                "category": "industry",
+                "summary": "$RIVER在HyperliquidX上线并进行交易活动。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场动态和竞争对手策略",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-04-05-industry-13",
+                "title": "$5 trillion moves through SWIFT every single day.\nRipple built RippleNet as the settlement layer.\nWh",
+                "source": "Twitter @RipBullWinkle",
+                "date": "2026-04-05",
+                "url": "https://x.com/RipBullWinkle/status/2040497326167396610",
+                "category": "industry",
+                "summary": "提到SWIFT和RippleNet的跨境支付流动性问题。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注跨境支付市场的变化和技术进展",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Ripple"
+                ]
+            },
+            {
+                "id": "2026-04-05-industry-14",
+                "title": "SBI Holdings' B2C2 adopts Solana for institutional stablecoin payments. 📊\n\n• One of Japan's largest ",
+                "source": "Twitter @theblockopedia_",
+                "date": "2026-04-05",
+                "url": "https://x.com/theblockopedia_/status/2040388714870849978",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            }
+        ],
+        "stats": {
+            "totalThreats": 4,
+            "highThreats": 0,
+            "mediumThreats": 0,
+            "lowThreats": 0,
+            "competitorUpdates": 4,
+            "customerUpdates": 0,
+            "industryUpdates": 15
+        },
+        "dailySummary": {
+            "competitorThreat": "今日最大的竞争威胁来自于BitGo的动态，尤其是其新推出的Dostkar Mint和对机构加密货币基础设施的重大转型，这可能会吸引更多机构客户。此外，Anchorage Digital在美国监管框架内的进展也为其提供了进入市场的优势。建议关注BitGo的市场策略和产品创新，同时探索与监管机构的合作，以增强自身的合规性和市场竞争力。",
+            "industryTrend": "今日行业热点主要集中在以太坊的质押投资和Circle未能阻止黑客转账的争议。以太坊基金会的大规模质押推动其接近70K ETH，显示出市场对以太坊的信心增强，这可能为稳定币提供更多的流动性支持。同时，Circle的失误引发对稳定币安全性的关注，可能促使行业对托管和支付基础设施的安全性进行重新审视。比特币ETF的潜在增长也提示投资者对数字资产的信任正在上升，这将进一步推动稳定币的应用场景和市场需求。"
+        },
+        "highlights": {
+            "competitors": [
+                {
+                    "id": "2026-04-05-competitor-0",
+                    "title": "Κατά τη διάρκεια των τελευταίων 4 μηνών, η YZi Labs της @cz_binance επένδυσε σε οκτώ εταιρείες, δεσμ",
+                    "source": "Twitter @cryptoneay",
+                    "date": "2026-04-05",
+                    "url": "https://x.com/cryptoneay/status/2040457579583705108",
+                    "category": "competitor",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "BitGo"
+                    ]
+                },
+                {
+                    "id": "2026-04-05-competitor-1",
+                    "title": "Dostkar @BitGo Mint, yeni piyasaya sürüldü ve USD1 ilk günden itibaren kullanılıyor\n\nBu sayede şunla",
+                    "source": "Twitter @btcoinmag",
+                    "date": "2026-04-05",
+                    "url": "https://x.com/btcoinmag/status/2040456834755052013",
+                    "category": "competitor",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "BitGo"
+                    ]
+                },
+                {
+                    "id": "2026-04-05-competitor-2",
+                    "title": "Digital asset infrastructure leader BitGo has fundamentally transformed institutional cryptocurrency",
+                    "source": "Twitter @ItsBitcoinWorld",
+                    "date": "2026-04-05",
+                    "url": "https://x.com/ItsBitcoinWorld/status/2040307413438386658",
+                    "category": "competitor",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "BitGo"
+                    ]
+                }
+            ],
+            "clients": [],
+            "industry": [
+                {
+                    "id": "2026-04-05-industry-0",
+                    "title": "Complex temporal dynamics of phage-bacteria populations in an animal-associated marine system",
+                    "source": "Nature.com",
+                    "date": "2026-04-05",
+                    "url": "https://www.nature.com/articles/s41467-026-71398-9",
+                    "category": "industry",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "subcategory": "other",
+                    "subcategoryName": "其他"
+                },
+                {
+                    "id": "2026-04-05-industry-1",
+                    "title": "$LOL Announces Next Expansion Phase Ahead of 2026 Memecoin Cycle",
+                    "source": "GlobeNewswire",
+                    "date": "2026-04-05",
+                    "url": "https://www.globenewswire.com/news-release/2026/04/04/3268166/0/en/LOL-Announces-Next-Expansion-Phase-Ahead-of-2026-Memecoin-Cycle.html",
+                    "category": "industry",
+                    "summary": "LOL宣布在2026年Memecoin周期前扩展计划。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势"
+                    ],
+                    "action": "关注Memecoin市场动态，调整策略。",
+                    "subcategory": "other",
+                    "subcategoryName": "其他"
+                },
+                {
+                    "id": "2026-04-05-industry-2",
+                    "title": "Critics: Circle Failed to Block Drift Hack Transfer",
+                    "source": "pymnts.com",
+                    "date": "2026-04-05",
+                    "url": "https://www.pymnts.com/cybersecurity/2026/critics-circle-failed-to-block-drift-hack-transfer/",
+                    "category": "industry",
+                    "summary": "Circle未能阻止Drift黑客转账引发争议。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "关注安全措施提升和市场反应",
+                    "subcategory": "other",
+                    "subcategoryName": "其他",
+                    "tickers": [
+                        "Circle"
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "date": "2026-04-04",
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-04-04.md",
