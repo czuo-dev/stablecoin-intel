@@ -4,6 +4,775 @@
 
 const dailyReports = [
     {
+        "date": "2026-04-26",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-04-26.md",
+        "newsItems": [
+            {
+                "id": "2026-04-26-competitor-0",
+                "title": "Given that noone is speaking about @flipcash even after the launch of their tg bot, let me do a quic",
+                "source": "Twitter @ProlabCH",
+                "date": "2026-04-26",
+                "url": "https://x.com/ProlabCH/status/2048257770936217999",
+                "category": "competitor",
+                "summary": "提到新支付应用及其稳定币USDF的推出。",
+                "threatLevel": "medium",
+                "impact": [
+                    "产品竞争",
+                    "市场定价"
+                ],
+                "action": "关注USDF的市场动态，评估竞争策略。",
+                "tickers": [
+                    "Coinbase",
+                    "Kik"
+                ]
+            },
+            {
+                "id": "2026-04-26-competitor-1",
+                "title": "➥ Be $USD1 | @worldlibertyfi \n\n$USD1 rocket to ~$4.39B mcap and circulating supply in under 14 month",
+                "source": "Twitter @Nick_Researcher",
+                "date": "2026-04-26",
+                "url": "https://x.com/Nick_Researcher/status/2048257967871688750",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-04-26-competitor-2",
+                "title": "前两天刷推，看到 Quip Network @quipnetwork 那条High roller @rcarback will see you in Vegas next week 时，我愣了一下，不",
+                "source": "Twitter @Crypto_CK123",
+                "date": "2026-04-26",
+                "url": "https://x.com/Crypto_CK123/status/2048163660108124407",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-04-26-competitor-3",
+                "title": "@cryptorover The on-chain data is right there. BitGo Custody to OKX Deposit. Ten transactions in one",
+                "source": "Twitter @ViewFTcom",
+                "date": "2026-04-26",
+                "url": "https://x.com/ViewFTcom/status/2048101505694412982",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-04-26-competitor-4",
+                "title": "#Crypto 🚀 OUCH FACT $TAO:\nOn April 20, 2026, BitGo launched TAO staking, unlocking institutional cus",
+                "source": "Twitter @cryptolevier",
+                "date": "2026-04-26",
+                "url": "https://x.com/cryptolevier/status/2048095022176694660",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-04-26-competitor-5",
+                "title": "RDC launched $XRP Depositary Receipts (XRP DRs), which are custodied at Anchorage Digital and settle",
+                "source": "Twitter @ChartNerdTA",
+                "date": "2026-04-26",
+                "url": "https://x.com/ChartNerdTA/status/2048113919244341576",
+                "category": "competitor",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "Anchorage Digital"
+                ]
+            },
+            {
+                "id": "2026-04-26-customer-0",
+                "title": "⚽ Football is better with the community\n\nIn LALIGA Arena, every task, every invite, and every matchd",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-04-26",
+                "url": "https://x.com/WEEX_Official/status/2048249617624830463",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "WEEX"
+                ]
+            },
+            {
+                "id": "2026-04-26-customer-1",
+                "title": "🏁 Want more on top of your balance rewards?\n\nWEEX Auto Earn Boost Fest also includes ranking rewards",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-04-26",
+                "url": "https://x.com/WEEX_Official/status/2047935936219230697",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "WEEX"
+                ]
+            },
+            {
+                "id": "2026-04-26-customer-2",
+                "title": "⏰ Final stretch is almost here\n\nNow is the time to complete more tasks, secure more draws, and stack",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-04-26",
+                "url": "https://x.com/WEEX_Official/status/2047933150312214804",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "WEEX"
+                ]
+            },
+            {
+                "id": "2026-04-26-customer-3",
+                "title": "Trade Like a Pro with Carl Moon x WEEX!\n\nStop trading naked! Discover how the top 1% of traders domi",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-04-26",
+                "url": "https://x.com/WEEX_Official/status/2047921517007397246",
+                "category": "customer",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "tickers": [
+                    "WEEX"
+                ]
+            },
+            {
+                "id": "2026-04-26-industry-0",
+                "title": "MEXC faces $260M USDC debt on AAVE V3, liquidation risk in 6-8 days",
+                "source": "Crypto Briefing",
+                "date": "2026-04-26",
+                "url": "https://cryptobriefing.com/mexc-faces-260m-usdc-debt-on-aave-v3-liquidation-risk-in-6-8-days/",
+                "category": "industry",
+                "summary": "MEXC面临USDC债务风险，影响DeFi市场。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注MEXC的清算风险对市场的影响。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-04-26-industry-1",
+                "title": "Crypto VC fundraising drops 46% in February as AI dominates with $242B",
+                "source": "Crypto Briefing",
+                "date": "2026-04-26",
+                "url": "https://cryptobriefing.com/crypto-vc-fundraising-drops-46-in-february-as-ai-dominates-with-242b/",
+                "category": "industry",
+                "summary": "加密风险投资融资下降，AI主导市场趋势。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注市场动态，调整投资策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-04-26-industry-2",
+                "title": "Grayscale stakes 102,400 ETH via Ethereum Staking ETF, valued at $237M",
+                "source": "Crypto Briefing",
+                "date": "2026-04-26",
+                "url": "https://cryptobriefing.com/grayscale-stakes-102400-eth-via-ethereum-staking-etf-valued-at-237m/",
+                "category": "industry",
+                "summary": "Grayscale通过以太坊质押ETF进行投资。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注以太坊质押对市场的影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Grayscale"
+                ]
+            },
+            {
+                "id": "2026-04-26-industry-3",
+                "title": "Crypto market gains $310B in 4 weeks as Middle East tensions ease",
+                "source": "Crypto Briefing",
+                "date": "2026-04-26",
+                "url": "https://cryptobriefing.com/crypto-market-gains-310b-in-4-weeks-as-middle-east-tensions-ease/",
+                "category": "industry",
+                "summary": "中东局势缓和推动加密市场回暖。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "关注市场动态，调整策略",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-04-26-industry-4",
+                "title": "Bitcoin, Ethereum ETFs see $37.8M inflows amid US-Iran tensions",
+                "source": "Crypto Briefing",
+                "date": "2026-04-26",
+                "url": "https://cryptobriefing.com/bitcoin-ethereum-etfs-see-378m-inflows-amid-us-iran-tensions/",
+                "category": "industry",
+                "summary": "美国与伊朗紧张局势影响加密市场流入。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注市场流入变化，调整策略。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-04-26-industry-5",
+                "title": "Hezbollah’s use of blood diamonds, crypto raises diplomatic concerns in Europe",
+                "source": "Crypto Briefing",
+                "date": "2026-04-26",
+                "url": "https://cryptobriefing.com/hezbollahs-use-of-blood-diamonds-crypto-raises-diplomatic-concerns-in-europe/",
+                "category": "industry",
+                "summary": "真主党使用加密货币引发欧洲外交担忧。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注加密货币监管动态",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-04-26-industry-6",
+                "title": "$3.5 Trillion Goldman Sachs Files for Bitcoin Premium Income ETF",
+                "source": "Activistpost.com",
+                "date": "2026-04-26",
+                "url": "https://www.activistpost.com/3-5-trillion-goldman-sachs-files-for-bitcoin-premium-income-etf/",
+                "category": "industry",
+                "summary": "高盛申请比特币ETF，影响市场趋势。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注比特币ETF对市场的潜在影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Goldman Sachs"
+                ]
+            },
+            {
+                "id": "2026-04-26-industry-7",
+                "title": "Why did CFTC sue New York over prediction markets? #tech",
+                "source": "Alltoc.com",
+                "date": "2026-04-26",
+                "url": "https://alltoc.com/tech/why-did-cftc-sue-new-york-over-prediction-markets",
+                "category": "industry",
+                "summary": "CFTC起诉纽约涉及预测市场的监管问题。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管动态，评估潜在影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-04-26-industry-8",
+                "title": "AI startups Cohere, Aleph Alpha to merge with $600M in new funding",
+                "source": "SiliconANGLE News",
+                "date": "2026-04-26",
+                "url": "https://siliconangle.com/2026/04/24/ai-startups-cohere-aleph-alpha-merge-600m-new-funding/",
+                "category": "industry",
+                "summary": "AI初创公司合并融资动态。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-04-26-industry-9",
+                "title": "Stratosphere Leads Majority Stake Acquisition in Potion Alpha",
+                "source": "The Daily Hodl",
+                "date": "2026-04-26",
+                "url": "https://dailyhodl.com/2026/04/24/stratosphere-leads-majority-stake-acquisition-in-potion-alpha/",
+                "category": "industry",
+                "summary": "Stratosphere收购Potion Alpha的多数股权。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注市场融资动态，评估潜在影响。",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购",
+                "tickers": [
+                    "Stratosphere",
+                    "Potion Alpha"
+                ]
+            },
+            {
+                "id": "2026-04-26-industry-10",
+                "title": "5 things to know about Eagles second round tight end Eli Stowers",
+                "source": "USA Today",
+                "date": "2026-04-26",
+                "url": "https://theeagleswire.usatoday.com/story/sports/nfl/eagles/2026/04/24/2026-nfl-draft-five-things-to-know-about-eagles-te-eli-stowers/89785352007/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-04-26-industry-11",
+                "title": "(Blender) Cosmology with Geometry Nodes",
+                "source": "Blender.org",
+                "date": "2026-04-26",
+                "url": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-04-26-industry-12",
+                "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say | TechCrunch",
+                "source": "TechCrunch",
+                "date": "2026-04-26",
+                "url": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
+                "category": "industry",
+                "summary": "Lachy Groom支持印度初创企业Pronto融资。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注印度市场动态和投资机会。",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-04-26-industry-13",
+                "title": "India pitches for wider financial sector engagement with Africa",
+                "source": "The Times of India",
+                "date": "2026-04-26",
+                "url": "https://economictimes.indiatimes.com/news/india/india-pitches-for-wider-financial-sector-engagement-with-africa/articleshow/130506511.cms",
+                "category": "industry",
+                "summary": "印度推动与非洲的金融合作",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注非洲市场动态",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-04-26-industry-14",
+                "title": "Did judge deny Cher conservatorship of Elijah Blue? #tabloid",
+                "source": "Alltoc.com",
+                "date": "2026-04-26",
+                "url": "https://alltoc.com/tabloid/did-judge-deny-cher-conservatorship-of-elijah-blue",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-04-26-industry-15",
+                "title": "RBI revokes Paytm Payments Bank licence: But what happens to your Paytm Wallet, UPI, and account now",
+                "source": "Livemint",
+                "date": "2026-04-26",
+                "url": "https://www.livemint.com/money/personal-finance/rbi-revokes-paytm-payments-bank-licence-but-what-happens-to-your-paytm-wallet-upi-and-account-now-11777076551326.html",
+                "category": "industry",
+                "summary": "印度央行撤销Paytm支付银行执照，影响支付业务。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注相关支付业务的监管变化。",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险",
+                "tickers": [
+                    "Paytm"
+                ]
+            },
+            {
+                "id": "2026-04-26-industry-16",
+                "title": "Grayscale, Bitmine stake nearly $500 million in Ethereum: On-chain data",
+                "source": "Crypto Briefing",
+                "date": "2026-04-26",
+                "url": "https://cryptobriefing.com/grayscale-bitmine-ethereum-staking-commitment-2026/",
+                "category": "industry",
+                "summary": "Grayscale和Bitmine投资以太坊动态引发关注。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注以太坊市场动态，评估潜在影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Grayscale",
+                    "Bitmine"
+                ]
+            },
+            {
+                "id": "2026-04-26-industry-18",
+                "title": "Wall Street Doubles Down: Is 2026 an Institutional Bull Market for Crypto? - KuCoin",
+                "source": "Google News (crypto custody institution)",
+                "date": "2026-04-26",
+                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SU3Q3Y19MR0w5VDlZQzBCMks1LTNhcVJBZjJKMzdlemVYODMtN3NRREF1cXZReEplUDlna1dWQzJBc042eUJ0S3hFUXJhMFpXUXFzTTBwaGR0V2NybDUtRDZR?oc=5",
+                "category": "industry",
+                "summary": "华尔街对2026年加密市场的看法引发关注。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注市场动态以调整策略",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-04-26-industry-19",
+                "title": "Ripple Says Multi-Asset Stablecoin Rails Are Becoming Critical for Global Payments - Cryptonews.net",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-04-26",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QNFdMZVhma1RraDktVVdwdE9NNXhHaUJHRjBITHl0UVhHR1JDS01SVVN0cHBxMFBreS1aSUNBSVZfX1VmeDB5Zl9FUC00U29UV1VYSGVHLUU?oc=5",
+                "category": "industry",
+                "summary": "Ripple表示多资产稳定币在全球支付中变得至关重要。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币技术发展动态",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Ripple"
+                ]
+            },
+            {
+                "id": "2026-04-26-industry-20",
+                "title": "From crypto to real-world spending—finally seamless.\n\nWith L-Pay Card, LINKPAY connects digital asse",
+                "source": "Twitter @LinkTokenPay",
+                "date": "2026-04-26",
+                "url": "https://x.com/LinkTokenPay/status/2047946759658520887",
+                "category": "industry",
+                "summary": "LINKPAY推出L-Pay卡实现加密支付与现实消费的无缝连接。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注加密支付市场动态",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "LINKPAY"
+                ]
+            },
+            {
+                "id": "2026-04-26-industry-21",
+                "title": "Believe it and wait it. https://t.co/aAgA7uBibc",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-04-26",
+                "url": "https://x.com/WEEX_Official/status/2048259021946208707",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-04-26-industry-22",
+                "title": "If seen, it’s done. https://t.co/f5TuRps3jF",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-04-26",
+                "url": "https://x.com/WEEX_Official/status/2048092675799126236",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-04-26-industry-23",
+                "title": "GM🍷 https://t.co/Uwq1ki69ZP",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-04-26",
+                "url": "https://x.com/WEEX_Official/status/2048016926618853459",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-04-26-industry-24",
+                "title": "LFG!!!!!!!!!!!!!!!!! https://t.co/hrAjOzB5mN",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-04-26",
+                "url": "https://x.com/WEEX_Official/status/2047986979455820051",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-04-26-industry-25",
+                "title": "Who will win finally? https://t.co/h9qrM8I8Ah",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-04-26",
+                "url": "https://x.com/WEEX_Official/status/2047956278748631288",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-04-26-industry-26",
+                "title": "🔥 Ready for bigger size?\n\nThe advanced futures pool is open to everyone.\n\nTrade BZUSDT or CLUSDT and",
+                "source": "Twitter @WEEX_Official",
+                "date": "2026-04-26",
+                "url": "https://x.com/WEEX_Official/status/2047928993891205402",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            }
+        ],
+        "stats": {
+            "totalThreats": 6,
+            "highThreats": 0,
+            "mediumThreats": 1,
+            "lowThreats": 0,
+            "competitorUpdates": 6,
+            "customerUpdates": 4,
+            "industryUpdates": 26
+        },
+        "dailySummary": {
+            "competitorThreat": "今日最大的竞争威胁来自于BitGo，其稳定币$USD1在短短14个月内市值达到约43.9亿美元，显示出其强劲的市场表现。此外，BitGo在Custody服务和新产品推出方面也有多项重要动态，进一步巩固了其市场地位。与此同时，Flipcash的USDF稳定币推出虽然引起了一定关注，但尚未形成显著威胁。建议关注BitGo的市场策略与产品创新，提升自身稳定币的竞争力，同时探索与新兴支付应用的合作机会，以增强市场份额。",
+            "industryTrend": "今日行业热点主要集中在MEXC面临的USDC债务风险及其对DeFi市场的潜在影响，以及加密市场因中东局势缓和而获得的3100亿美元增值。此外，高盛申请比特币ETF和Grayscale的以太坊质押ETF显示出机构投资者对加密资产的持续兴趣。值得关注的是，加密风险投资融资下降46%，表明市场对传统加密项目的热情减退，而AI领域的融资却在增长，显示出市场的转变。稳定币托管和支付基础设施行业可能受到MEXC风险的直接冲击，同时需要关注机构投资者对稳定币的需求变化，以应对市场动态带来的挑战与机遇。"
+        },
+        "highlights": {
+            "competitors": [
+                {
+                    "id": "2026-04-26-competitor-0",
+                    "title": "Given that noone is speaking about @flipcash even after the launch of their tg bot, let me do a quic",
+                    "source": "Twitter @ProlabCH",
+                    "date": "2026-04-26",
+                    "url": "https://x.com/ProlabCH/status/2048257770936217999",
+                    "category": "competitor",
+                    "summary": "提到新支付应用及其稳定币USDF的推出。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "产品竞争",
+                        "市场定价"
+                    ],
+                    "action": "关注USDF的市场动态，评估竞争策略。",
+                    "tickers": [
+                        "Coinbase",
+                        "Kik"
+                    ]
+                },
+                {
+                    "id": "2026-04-26-competitor-1",
+                    "title": "➥ Be $USD1 | @worldlibertyfi \n\n$USD1 rocket to ~$4.39B mcap and circulating supply in under 14 month",
+                    "source": "Twitter @Nick_Researcher",
+                    "date": "2026-04-26",
+                    "url": "https://x.com/Nick_Researcher/status/2048257967871688750",
+                    "category": "competitor",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "BitGo"
+                    ]
+                },
+                {
+                    "id": "2026-04-26-competitor-2",
+                    "title": "前两天刷推，看到 Quip Network @quipnetwork 那条High roller @rcarback will see you in Vegas next week 时，我愣了一下，不",
+                    "source": "Twitter @Crypto_CK123",
+                    "date": "2026-04-26",
+                    "url": "https://x.com/Crypto_CK123/status/2048163660108124407",
+                    "category": "competitor",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "BitGo"
+                    ]
+                }
+            ],
+            "clients": [
+                {
+                    "id": "2026-04-26-customer-0",
+                    "title": "⚽ Football is better with the community\n\nIn LALIGA Arena, every task, every invite, and every matchd",
+                    "source": "Twitter @WEEX_Official",
+                    "date": "2026-04-26",
+                    "url": "https://x.com/WEEX_Official/status/2048249617624830463",
+                    "category": "customer",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "WEEX"
+                    ]
+                },
+                {
+                    "id": "2026-04-26-customer-1",
+                    "title": "🏁 Want more on top of your balance rewards?\n\nWEEX Auto Earn Boost Fest also includes ranking rewards",
+                    "source": "Twitter @WEEX_Official",
+                    "date": "2026-04-26",
+                    "url": "https://x.com/WEEX_Official/status/2047935936219230697",
+                    "category": "customer",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "WEEX"
+                    ]
+                },
+                {
+                    "id": "2026-04-26-customer-2",
+                    "title": "⏰ Final stretch is almost here\n\nNow is the time to complete more tasks, secure more draws, and stack",
+                    "source": "Twitter @WEEX_Official",
+                    "date": "2026-04-26",
+                    "url": "https://x.com/WEEX_Official/status/2047933150312214804",
+                    "category": "customer",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "tickers": [
+                        "WEEX"
+                    ]
+                }
+            ],
+            "industry": [
+                {
+                    "id": "2026-04-26-industry-0",
+                    "title": "MEXC faces $260M USDC debt on AAVE V3, liquidation risk in 6-8 days",
+                    "source": "Crypto Briefing",
+                    "date": "2026-04-26",
+                    "url": "https://cryptobriefing.com/mexc-faces-260m-usdc-debt-on-aave-v3-liquidation-risk-in-6-8-days/",
+                    "category": "industry",
+                    "summary": "MEXC面临USDC债务风险，影响DeFi市场。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "关注MEXC的清算风险对市场的影响。",
+                    "subcategory": "stablecoin_payments",
+                    "subcategoryName": "稳定币支付"
+                },
+                {
+                    "id": "2026-04-26-industry-1",
+                    "title": "Crypto VC fundraising drops 46% in February as AI dominates with $242B",
+                    "source": "Crypto Briefing",
+                    "date": "2026-04-26",
+                    "url": "https://cryptobriefing.com/crypto-vc-fundraising-drops-46-in-february-as-ai-dominates-with-242b/",
+                    "category": "industry",
+                    "summary": "加密风险投资融资下降，AI主导市场趋势。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势",
+                        "投资机会"
+                    ],
+                    "action": "关注市场动态，调整投资策略。",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照"
+                },
+                {
+                    "id": "2026-04-26-industry-2",
+                    "title": "Grayscale stakes 102,400 ETH via Ethereum Staking ETF, valued at $237M",
+                    "source": "Crypto Briefing",
+                    "date": "2026-04-26",
+                    "url": "https://cryptobriefing.com/grayscale-stakes-102400-eth-via-ethereum-staking-etf-valued-at-237m/",
+                    "category": "industry",
+                    "summary": "Grayscale通过以太坊质押ETF进行投资。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势",
+                        "技术发展"
+                    ],
+                    "action": "关注以太坊质押对市场的影响。",
+                    "subcategory": "other",
+                    "subcategoryName": "其他",
+                    "tickers": [
+                        "Grayscale"
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "date": "2026-04-25",
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-04-25.md",
