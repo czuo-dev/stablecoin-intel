@@ -1,0 +1,1031 @@
+{
+  "policy": [
+    {
+      "id": "news_3f77fdbfad2f",
+      "title": "BIS warns crypto exchanges acting as “shadow banks,” raising systemic risk concerns",
+      "content": "Increased regulatory scrutiny on crypto exchanges could reshape financial markets, impacting investor confidence and prompting policy shifts.\nThe post BIS warns crypto exchanges acting as “shadow banks,” raising systemic risk concerns appeared first on Crypto…",
+      "url": "https://cryptobriefing.com/bis-warns-crypto-exchanges-acting-as-shadow-banks-raising-systemic-risk-concerns/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-04-26T02:32:50Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "BIS warns crypto exchanges acting as “shadow banks,” raising systemic risk concerns",
+        "description": "Increased regulatory scrutiny on crypto exchanges could reshape financial markets, impacting investor confidence and prompting policy shifts.\nThe post BIS warns crypto exchanges acting as “shadow banks,” raising systemic risk concerns appeared first on Crypto…",
+        "url": "https://cryptobriefing.com/bis-warns-crypto-exchanges-acting-as-shadow-banks-raising-systemic-risk-concerns/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/04/25223244/BTCfullsize-390-457x457.png",
+        "publishedAt": "2026-04-26T02:32:50Z",
+        "content": "The Bank for International Settlements (BIS) has warned that crypto exchanges are acting as “shadow banks,” raising concerns over systemic risks without regulatory safeguards. The market for stableco… [+1529 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "BIS警告加密交易所存在系统性风险。",
+      "business_relevance": 0.8,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，评估潜在影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_b2645f2cc7fe",
+      "title": "Solana Foundation backs Aave recovery with first-ever USDT deployment, plans to bring AAVE to Solana",
+      "content": "Solana Foundation's actions may enhance blockchain resilience and foster cross-chain collaboration, potentially boosting ecosystem trust and innovation.\nThe post Solana Foundation backs Aave recovery with first-ever USDT deployment, plans to bring AAVE to Sol…",
+      "url": "https://cryptobriefing.com/solana-foundation-supports-aave-usdt-deployment/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Vivian Nguyen",
+      "published_at": "2026-04-26T03:59:37Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Vivian Nguyen",
+        "title": "Solana Foundation backs Aave recovery with first-ever USDT deployment, plans to bring AAVE to Solana",
+        "description": "Solana Foundation's actions may enhance blockchain resilience and foster cross-chain collaboration, potentially boosting ecosystem trust and innovation.\nThe post Solana Foundation backs Aave recovery with first-ever USDT deployment, plans to bring AAVE to Sol…",
+        "url": "https://cryptobriefing.com/solana-foundation-supports-aave-usdt-deployment/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/04/25235621/2a747d3c-4b4e-4413-bb1d-efc6cc601076-800x420.jpg",
+        "publishedAt": "2026-04-26T03:59:37Z",
+        "content": "The Foundation is stepping outside its home turf to back Aave's recovery effort. The Solana Foundation, the nonprofit that stewards development of the Solana blockchain, has deployed part of its trea… [+1350 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDT",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Aave",
+        "Solana"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Solana基金会支持Aave的恢复并首次部署USDT。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币USDT",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注USDT在DeFi中的应用变化。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_f0c8c1c35d68",
+      "title": "NETTEN – Accept crypto worldwide and settle instantly in RLUSD on XRPL",
+      "content": "Accept crypto worldwide and settle instantly in RLUSD on XRPL",
+      "url": "https://betalist.com/startups/netten",
+      "source": "Betalist.com",
+      "source_type": "news",
+      "author": "BetaList",
+      "published_at": "2026-04-26T00:40:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Betalist.com"
+        },
+        "author": "BetaList",
+        "title": "NETTEN – Accept crypto worldwide and settle instantly in RLUSD on XRPL",
+        "description": "Accept crypto worldwide and settle instantly in RLUSD on XRPL",
+        "url": "https://betalist.com/startups/netten",
+        "urlToImage": "https://resize.imagekit.co/DYqPDHHEcfajiTE4FTiJNVPBKBWjk-UVvlPmnsLmTDY/plain/s3://betalist-production/hf1omhaw7eh9wzg7vkiuokhkfhhr",
+        "publishedAt": "2026-04-26T00:40:00Z",
+        "content": "NETTEN lets merchants accept crypto from any client worldwide and settle in seconds to RLUSD on the XRP Ledger. It is non-custodial, so funds go straight to your XRPL wallet with a 1% flat fee. Creat… [+335 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "NETTEN支持全球加密支付和稳定币结算。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密支付和稳定币",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币支付技术的发展",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_64d7bd39ebb5",
+      "title": "Crypto News: Ethereum Based Crypto Pepeto Stage Update While Cardano Price Prediction Turns Bullish on Leios Upgrade",
+      "content": "Dubai, UAE, April 25, 2026 (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto is moving toward listing as the current stage has only hours left before it clears, and with demand growing each day the round could close early. The crypto news around Pepeto is movi…",
+      "url": "https://www.globenewswire.com/news-release/2026/04/26/3281185/0/en/Crypto-News-Ethereum-Based-Crypto-Pepeto-Stage-Update-While-Cardano-Price-Prediction-Turns-Bullish-on-Leios-Upgrade.html",
+      "source": "GlobeNewswire",
+      "source_type": "news",
+      "author": "Pepeto",
+      "published_at": "2026-04-26T01:30:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Pepeto",
+        "title": "Crypto News: Ethereum Based Crypto Pepeto Stage Update While Cardano Price Prediction Turns Bullish on Leios Upgrade",
+        "description": "Dubai, UAE, April 25, 2026 (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto is moving toward listing as the current stage has only hours left before it clears, and with demand growing each day the round could close early. The crypto news around Pepeto is movi…",
+        "url": "https://www.globenewswire.com/news-release/2026/04/26/3281185/0/en/Crypto-News-Ethereum-Based-Crypto-Pepeto-Stage-Update-While-Cardano-Price-Prediction-Turns-Bullish-on-Leios-Upgrade.html",
+        "urlToImage": null,
+        "publishedAt": "2026-04-26T01:30:00Z",
+        "content": "Dubai, UAE, April 25, 2026 (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto is moving toward listing as the current stage has only hours left before it clears, and with demand growing each day the ro… [+5698 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "以太坊和卡尔达诺的动态影响行业趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到以太坊和卡尔达诺",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_c199aab749e6",
+      "title": "Balancer attacker converts $48.7M ETH to 617 BTC, retains 1k ETH",
+      "content": "The attack highlights vulnerabilities in crypto security, potentially increasing market volatility and influencing Ethereum's short-term value.\nThe post Balancer attacker converts $48.7M ETH to 617 BTC, retains 1k ETH appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/balancer-attacker-converts-487m-eth-to-617-btc-retains-1k-eth/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-04-26T00:54:57Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Balancer attacker converts $48.7M ETH to 617 BTC, retains 1k ETH",
+        "description": "The attack highlights vulnerabilities in crypto security, potentially increasing market volatility and influencing Ethereum's short-term value.\nThe post Balancer attacker converts $48.7M ETH to 617 BTC, retains 1k ETH appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/balancer-attacker-converts-487m-eth-to-617-btc-retains-1k-eth/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/04/25205451/major-crypto-exchange-hack-in-2025-ORGzX0UPEKc1-16-800x450.jpg",
+        "publishedAt": "2026-04-26T00:54:57Z",
+        "content": "A Balancer attacker has converted 21k ETH (about $48.7M) to 617 BTC over three days, leaving only 1k ETH in the hacker’s address. The probability of another $100 million crypto hack by December 31 is… [+1262 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Balancer遭遇攻击，损失大额ETH并转为BTC。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币安全事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全事件对市场信任的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_e12ec0133be4",
+      "title": "New Crypto Pepeto DeFi Exchange Update While Dogecoin Nears $0.10 Breakout and Shiba Inu Whales Stack 82 Billion Tokens",
+      "content": "Dubai, UAE, April 25, 2026 (GLOBE NEWSWIRE) -- Pepeto shipped a complete DeFi exchange layer during its presale, a first for any new crypto meme coin before listing day, and the traction behind it keeps growing. Serious wallets keep loading tokens at ground-l…",
+      "url": "https://www.globenewswire.com/news-release/2026/04/26/3281183/0/en/New-Crypto-Pepeto-DeFi-Exchange-Update-While-Dogecoin-Nears-0-10-Breakout-and-Shiba-Inu-Whales-Stack-82-Billion-Tokens.html",
+      "source": "GlobeNewswire",
+      "source_type": "news",
+      "author": "Pepeto",
+      "published_at": "2026-04-26T01:25:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Pepeto",
+        "title": "New Crypto Pepeto DeFi Exchange Update While Dogecoin Nears $0.10 Breakout and Shiba Inu Whales Stack 82 Billion Tokens",
+        "description": "Dubai, UAE, April 25, 2026 (GLOBE NEWSWIRE) -- Pepeto shipped a complete DeFi exchange layer during its presale, a first for any new crypto meme coin before listing day, and the traction behind it keeps growing. Serious wallets keep loading tokens at ground-l…",
+        "url": "https://www.globenewswire.com/news-release/2026/04/26/3281183/0/en/New-Crypto-Pepeto-DeFi-Exchange-Update-While-Dogecoin-Nears-0-10-Breakout-and-Shiba-Inu-Whales-Stack-82-Billion-Tokens.html",
+        "urlToImage": null,
+        "publishedAt": "2026-04-26T01:25:00Z",
+        "content": "Dubai, UAE, April 25, 2026 (GLOBE NEWSWIRE) -- Pepeto shipped a complete DeFi exchange layer during its presale, a first for any new crypto meme coin before listing day, and the traction behind it ke… [+5245 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "DeFi交易所更新及狗狗币动态影响市场情绪。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到DeFi和加密市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_8a383355cf4f",
+      "title": "Show HN: Peeroxide – Full wire-compatible Rust implementation of Hyperswarm",
+      "content": "Just shipped peeroxide, a complete, production-ready Rust port of the Hyperswarm P2P networking stack.\nIt’s fully wire-compatible with the existing Node.js implementation, so Rust peers can join the live public HyperDHT and seamlessly discover/connect with No…",
+      "url": "https://github.com/Rightbracket/peeroxide",
+      "source": "Github.com",
+      "source_type": "news",
+      "author": "eshork",
+      "published_at": "2026-04-26T03:37:40Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Github.com"
+        },
+        "author": "eshork",
+        "title": "Show HN: Peeroxide – Full wire-compatible Rust implementation of Hyperswarm",
+        "description": "Just shipped peeroxide, a complete, production-ready Rust port of the Hyperswarm P2P networking stack.\nIt’s fully wire-compatible with the existing Node.js implementation, so Rust peers can join the live public HyperDHT and seamlessly discover/connect with No…",
+        "url": "https://github.com/Rightbracket/peeroxide",
+        "urlToImage": "https://repository-images.githubusercontent.com/1220627301/0b1fec34-d142-484a-a9f3-12359879d84b",
+        "publishedAt": "2026-04-26T03:37:40Z",
+        "content": "Rust implementation of the Hyperswarm P2P networking stack, wire-compatible with the existing Node.js network.\r\nThis project is a faithful port targeting full interoperability with the existing Hyper… [+1390 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto license",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "介绍了一种新的区块链技术实现",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_35718d7d5b16",
+      "title": "Institutional stresses and a Fight over Venice",
+      "content": "This Week’s Highlights: The question of which artists get heard collided hard with the institutions that decide this week. The Venice Biennale jury said it won’t consider nations whose leaders face ICC charges for top prizes — putting Russia and Israel out of…",
+      "url": "https://www.artsjournal.com/2026/04/institutional-stresses-and-a-fight-over-venice.html",
+      "source": "Artsjournal.com",
+      "source_type": "news",
+      "author": "Douglas McLennan",
+      "published_at": "2026-04-26T01:54:32Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Artsjournal.com"
+        },
+        "author": "Douglas McLennan",
+        "title": "Institutional stresses and a Fight over Venice",
+        "description": "This Week’s Highlights: The question of which artists get heard collided hard with the institutions that decide this week. The Venice Biennale jury said it won’t consider nations whose leaders face ICC charges for top prizes — putting Russia and Israel out of…",
+        "url": "https://www.artsjournal.com/2026/04/institutional-stresses-and-a-fight-over-venice.html",
+        "urlToImage": "https://www.artsjournal.com/belknap/wp-content/uploads/2021/06/AJLogo-circle.png",
+        "publishedAt": "2026-04-26T01:54:32Z",
+        "content": "This Week’s Highlights:\r\nThe question of which artists get heard collided hard with the institutions that decide this week. The Venice Biennale jury said it won’t consider nations whose leaders face … [+1121 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_f920cd9031e3",
+      "title": "DEI Industrial Complex Survival Guide: “hide it and conceal it and mask it”",
+      "content": "\"That's why we are calling on the administration to update their executive orders, to issue a new executive order which includes intersectionality under the definitions of diversity, equity, and inclusion.\"\nThe post DEI Industrial Complex Survival Guide: “hid…",
+      "url": "https://legalinsurrection.com/2026/04/dei-industrial-complex-survival-guide-hide-it-and-conceal-it-and-mask-it/",
+      "source": "Legalinsurrection.com",
+      "source_type": "news",
+      "author": "William A. Jacobson",
+      "published_at": "2026-04-26T00:35:21Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Legalinsurrection.com"
+        },
+        "author": "William A. Jacobson",
+        "title": "DEI Industrial Complex Survival Guide: “hide it and conceal it and mask it”",
+        "description": "\"That's why we are calling on the administration to update their executive orders, to issue a new executive order which includes intersectionality under the definitions of diversity, equity, and inclusion.\"\nThe post DEI Industrial Complex Survival Guide: “hid…",
+        "url": "https://legalinsurrection.com/2026/04/dei-industrial-complex-survival-guide-hide-it-and-conceal-it-and-mask-it/",
+        "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2026/04/Fox-News-Intersectionality-Report-William-Jacobson-2-e1777151665968.jpg",
+        "publishedAt": "2026-04-26T00:35:21Z",
+        "content": "My interview with Fox News covered more than the Intersectionality Loophole, I discussed more generally how the DEI Industrial Complex still existed and was trying to outlast Trump 2.0 through concea… [+5849 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "讨论了加密货币行业的生存策略和监管问题。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化，调整策略",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_cd400bd6acb7",
+      "title": "Have machine in the loop: It is time to flip the human-in-the-loop model",
+      "content": "Two stories highlight how AI can empower rather than replace humans. In one, a software engineer used tools like ChatGPT and AlphaFold, along with genomics and mRNA science, to create a personalised cancer treatment for his dog, leading to significant recover…",
+      "url": "https://economictimes.indiatimes.com/news/india/have-machine-in-the-loop-it-is-time-to-flip-the-human-in-the-loop-model/articleshow/130525922.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "Jaspreet Bindra",
+      "published_at": "2026-04-26T03:35:49Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Jaspreet Bindra",
+        "title": "Have machine in the loop: It is time to flip the human-in-the-loop model",
+        "description": "Two stories highlight how AI can empower rather than replace humans. In one, a software engineer used tools like ChatGPT and AlphaFold, along with genomics and mRNA science, to create a personalised cancer treatment for his dog, leading to significant recover…",
+        "url": "https://economictimes.indiatimes.com/news/india/have-machine-in-the-loop-it-is-time-to-flip-the-human-in-the-loop-model/articleshow/130525922.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-130525981,width-1200,height-630,imgsize-114802,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-04-26T03:35:49Z",
+        "content": "A few weeks back, you might have come across a viral story about Rosie, the dog that captivated the internet. Rosie was diagnosed with aggressive and terminal mast cell cancer. Her owner, Paul Conyng… [+4914 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "讨论了人机协作模型的转变，涉及技术发展。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到人机协作的技术发展",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注人机协作技术的进展",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_5f941ecd002b",
+      "title": "Why Agents Need an Infrastructure Package Manager",
+      "content": null,
+      "url": "https://www.bigconfig.it/blog/why-agents-need-an-infrastructure-package-manager/",
+      "source": "Bigconfig.it",
+      "source_type": "news",
+      "author": "Alberto Miorin",
+      "published_at": "2026-04-26T00:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Bigconfig.it"
+        },
+        "author": "Alberto Miorin",
+        "title": "Why Agents Need an Infrastructure Package Manager",
+        "description": null,
+        "url": "https://www.bigconfig.it/blog/why-agents-need-an-infrastructure-package-manager/",
+        "urlToImage": null,
+        "publishedAt": "2026-04-26T00:00:00Z",
+        "content": "Kief Morris recently published Why I have my agents write infrastructure code \r\n, and it is one of the clearest articulations of Agentic DevOps I have read. His central observation is hard to argue w… [+6220 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "讨论基础设施包管理的重要性",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到基础设施管理",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "关注基础设施技术的进展",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_340f667db9b8",
+      "title": "Exit of Wale Edun: Matters arising in an era where truth is inconvenient",
+      "content": "By Olufemi Aduwo The removal of Wale Edun as Nigeria’s Minister of Finance is not an isolated administrative adjustment.It is a revealing moment, one that lays bare a deeper and more troubling question about governance under President Tinubu is there still ro…",
+      "url": "https://www.vanguardngr.com/2026/04/exit-of-wale-edun-matters-arising-in-an-era-where-truth-is-inconvenient/",
+      "source": "Vanguard",
+      "source_type": "news",
+      "author": "olufemiajasa",
+      "published_at": "2026-04-26T03:02:41Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Vanguard"
+        },
+        "author": "olufemiajasa",
+        "title": "Exit of Wale Edun: Matters arising in an era where truth is inconvenient",
+        "description": "By Olufemi Aduwo The removal of Wale Edun as Nigeria’s Minister of Finance is not an isolated administrative adjustment.It is a revealing moment, one that lays bare a deeper and more troubling question about governance under President Tinubu is there still ro…",
+        "url": "https://www.vanguardngr.com/2026/04/exit-of-wale-edun-matters-arising-in-an-era-where-truth-is-inconvenient/",
+        "urlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2026/03/Wale-Edun-Minsiter-of-Finance-e1761638248452.png",
+        "publishedAt": "2026-04-26T03:02:41Z",
+        "content": "By Olufemi Aduwo\r\nThe removal of Wale Edun as Nigerias Minister of Finance is not an isolated administrative adjustment.It is a revealing moment, one that lays bare a deeper and more troubling questi… [+8305 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_cca336abcbaa",
+      "title": "Avataar Venture Partners expects three IPOs from first two funds by 2028",
+      "content": "The growth-stage investor is pivoting toward deeptech and AI for its $400 million third fund, even as it targets a string of public listings to return capital from its first vehicle.",
+      "url": "https://www.livemint.com/companies/news/avataar-venture-partners-mohan-kumar-ipo-pipeline-liquidity-events-fund-i-exits-fund-ii-deployment-insurance-dekho-11776949919909.html",
+      "source": "Livemint",
+      "source_type": "news",
+      "author": "Rwit Ghosh",
+      "published_at": "2026-04-26T01:30:10Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Rwit Ghosh",
+        "title": "Avataar Venture Partners expects three IPOs from first two funds by 2028",
+        "description": "The growth-stage investor is pivoting toward deeptech and AI for its $400 million third fund, even as it targets a string of public listings to return capital from its first vehicle.",
+        "url": "https://www.livemint.com/companies/news/avataar-venture-partners-mohan-kumar-ipo-pipeline-liquidity-events-fund-i-exits-fund-ii-deployment-insurance-dekho-11776949919909.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2026/04/25/1600x900/logo/fibe_1754538868874_1754538878145_1777092432331.png",
+        "publishedAt": "2026-04-26T01:30:10Z",
+        "content": "We're expecting a couple of our mature companies to list in 2027 or early 2028, Mohan Kumar, founding managing partner at Avataar Venture Partners, said in an interview. By 2028, we'll have three pub… [+4181 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Avataar Venture Partners 预计到2028年将有三次IPO。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及融资事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_5f60cd21bab0",
+      "title": "Strait of Hormuz: How Iran is testing the UN and the rules-based order - David Harvey",
+      "content": "OPINION: The free sea is only as free as the willingness to keep it so.",
+      "url": "https://www.nzherald.co.nz/business/economy/strait-of-hormuz-how-iran-is-testing-unclos-and-the-rules-based-order-david-harvey/premium/74DHHJRG2BCDZAZAODZURLVPZY/",
+      "source": "New Zealand Herald",
+      "source_type": "news",
+      "author": "David Harvey",
+      "published_at": "2026-04-26T03:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "New Zealand Herald"
+        },
+        "author": "David Harvey",
+        "title": "Strait of Hormuz: How Iran is testing the UN and the rules-based order - David Harvey",
+        "description": "OPINION: The free sea is only as free as the willingness to keep it so.",
+        "url": "https://www.nzherald.co.nz/business/economy/strait-of-hormuz-how-iran-is-testing-unclos-and-the-rules-based-order-david-harvey/premium/74DHHJRG2BCDZAZAODZURLVPZY/",
+        "urlToImage": "https://www.nzherald.co.nz/resizer/v2/NO7XGG7WG5HM3ODNRBFYT5K4JI.jpg?auth=d163b798c4e5e924c245aaaeccafb364ba6729b4f4dabbbd535ab5c027f049fe&width=1200&height=675&quality=70&smart=true",
+        "publishedAt": "2026-04-26T03:00:00Z",
+        "content": "UNCLOS has been called the Constitution of the Oceans. Its 169 parties include Iran. The United States, with characteristic self-defeating exceptionalism, has never ratified it, though Washington vig… [+6420 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional compliance",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "22-year-old sentenced to 70 months for money laundering tied to $263 million crypto syndicate",
+      "description": "The Lamborghini-laden money laundering operation was \"built on greed so brazen it borders on the cartoonish,\" according to prosecutors. ",
+      "url": "https://www.theblock.co/post/398899/22-year-old-sentenced-to-70-months-for-money-laundering-tied-to-263-million-crypto-syndicate?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-04-26T20:15:12",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "一名22岁男子因与加密货币洗钱相关被判刑。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币洗钱",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注洗钱相关监管政策的变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Coinbase Nium USDC Tie Up Puts Valuation And Payments In Focus - Yahoo Finance UK",
+      "description": "Coinbase Nium USDC Tie Up Puts Valuation And Payments In Focus&nbsp;&nbsp;Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZUFPQkxRZ2cxTVFOLVR6NnNXYkpqQ2ZGcFlVYTczeEpPVXNFdjZ5RjRUZ0x2bURQdUFNdnJPYlF3R1puMkpPejdXNG1tdTBiUzUwVzgwVVJSdFFCTnU5TlVqTWFaQVdYOTZ3MnhDcTVya2VHb2ZUcVU2ZVp1VzNJZy13?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-04-26T20:05:21",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Coinbase",
+        "Nium"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Coinbase与Nium的合作聚焦于支付和估值问题。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及支付业务",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注支付领域的合作动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "US Banks Lose Last Chance on GENIUS Act Stablecoin Rules - BeInCrypto",
+      "description": "US Banks Lose Last Chance on GENIUS Act Stablecoin Rules&nbsp;&nbsp;BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LWThjbEhDNzdteks0eS1ndlR4YTRTek5WUmNhejNqS2VvMGJMSmhXS3NkNlN2aTJPdncwX1haSU53N0taY3MyVUdLMlhucjlsVzM0TWFudFVHQlpFN2V1eDFYT3BBZmI4M1pwdQ?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-04-26T16:51:13",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "美国银行在稳定币监管上失去机会。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注稳定币监管动态，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Coinbase Brings USDC Payouts to Nium’s Network Across 190+ Countries - Cryptonews.net",
+      "description": "Coinbase Brings USDC Payouts to Nium’s Network Across 190+ Countries&nbsp;&nbsp;Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xTFdjME1Ra200Zlp0RnE1MmZXQ3FGYVlnTW4wTGhrbXZKQjhLZTN1OHRsdlU5djNkblQxVXJBU2RiTTJhZk9xNHZZTGpNeU9BLTk5UV91SQ?oc=5",
+      "source": "Google News (USDC enterprise)",
+      "source_category": "google_news",
+      "published_at": "2026-04-27T02:51:15",
+      "data_type": "rss",
+      "search_keyword": "USDC enterprise",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Coinbase",
+        "Nium"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Coinbase在190多个国家推出USDC支付服务。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币USDC的支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注USDC在跨境支付中的应用趋势。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Hong Kong grants its first stablecoin license to HSBC, Standard Chartered JV - MSN",
+      "description": "Hong Kong grants its first stablecoin license to HSBC, Standard Chartered JV&nbsp;&nbsp;MSN",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNdUViZ3g0MjdJZHFpdWh5SjFDcUFGcDdGbHJYSjZ4dENEZ1pDc0xQX3Jyc3NIMmw3NW1hN3RpLW1ta0pnZUw1ZkwtU01LSnYtVTdNczBObmhjZU54ejhUTmVRcS1uTVR2TEZsdWIwOEx4WlpHdThhVjFGeU9zOUlOVmxQbE1vLTBhUU94cVBfczV1STdmdlhLN29udFVTc3ZOSTAwM19STk9ha1hyTWJGMzVoTHE5THdWTnFpbW92clJIWFg4MjZYQnRMRXBFYmpBZTlrTzdScDF1RFI4TkRIZTJFcnZVNmxUSlZ6d0toS2JMaHlRT1lSSC1ieXJOSUlrTWk5X05Nb1k3dkRNYTYxNi1xSkNRMWFUazA5Zk5LRkpjRTVGY2swQlljbFE1bUZ1VlNmMGNUSkQ3MUR0b1pOR0tDcXVKTlpMM3hOc3pZY2NyaUJLazhLX3czV0JVa0FmZWgyd0pubEZFZU1XcTBWZzAyN3lic3NfNU9VRA?oc=5",
+      "source": "Google News (stablecoin license)",
+      "source_category": "google_news",
+      "published_at": "2026-04-26T20:40:46",
+      "data_type": "rss",
+      "search_keyword": "stablecoin license",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "HSBC",
+        "Standard Chartered"
+      ],
+      "importance_score": 8,
+      "ai_summary": "香港首次授予稳定币许可证给汇丰和渣打合资公司。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币监管动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注香港稳定币监管政策变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    }
+  ],
+  "company": [
+    {
+      "title": "Western Union to launch stablecoin next month, with ‘Stable Card’ planned for global consumers",
+      "description": "WU is also launching a network connecting digital wallets to its existing retail infrastructure, and a stablecoin card for payments.",
+      "url": "https://www.theblock.co/post/398905/western-union-stablecoin-next-month?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-04-27T03:29:58",
+      "data_type": "rss",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Western Union"
+      ],
+      "importance_score": 8,
+      "ai_summary": "西联汇款将推出稳定币和支付卡。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币和支付业务",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "客户争夺",
+        "市场定价"
+      ],
+      "suggested_action": "关注西联汇款的市场动态，调整策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "title": "Ripple Custody Is Quietly Becoming Crypto’s Institutional Backbone - Coinpaper",
+      "description": "Ripple Custody Is Quietly Becoming Crypto’s Institutional Backbone&nbsp;&nbsp;Coinpaper",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGpXcGZTU05BZXhkM2dUU0stdlJJTmJiT1gzMjhkVnR2M0gxWmxjdTRHeWlWTnluR0NOcWY4LUZjZUxaSmwwbEZ1dlhxcTN1ZTEtRTA2S2w3YkF6S0J3aFNqVGR1SHRsYVQ1NFkzRndQZGNNY0g5MmMtQTV3SWFBZVlNYXVaQjcyd0hxcjVaTERNZks1UjFremF3?oc=5",
+      "source": "Google News (crypto custody institution)",
+      "source_category": "google_news",
+      "published_at": "2026-04-26T10:06:13",
+      "data_type": "rss",
+      "search_keyword": "crypto custody institution",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Ripple"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Ripple Custody 正在成为加密机构的基础设施。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及托管业务",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "市场定价",
+        "技术差距"
+      ],
+      "suggested_action": "关注 Ripple 的市场动态，调整策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    }
+  ],
+  "funding": []
+}
