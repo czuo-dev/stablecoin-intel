@@ -1,0 +1,1340 @@
+{
+  "policy": [
+    {
+      "id": "news_3e3914699a5f",
+      "title": "CLARITY Act sees ‘big step forward’ as markup set for May 14",
+      "content": "The US CLARITY Act, which aims to provide the US crypto industry with greater regulatory clarity, is set for a Senate Banking Committee vote next week.",
+      "url": "https://cointelegraph.com/news/us-clarity-act-markup-date-set-tim-scott-crypto-industry",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Ciaran Lyons",
+      "published_at": "2026-05-09T02:01:55Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ciaran Lyons",
+        "title": "CLARITY Act sees ‘big step forward’ as markup set for May 14",
+        "description": "The US CLARITY Act, which aims to provide the US crypto industry with greater regulatory clarity, is set for a Senate Banking Committee vote next week.",
+        "url": "https://cointelegraph.com/news/us-clarity-act-markup-date-set-tim-scott-crypto-industry",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-congress-and-the-commission-whats-next-for-the-wild-west.jpg",
+        "publishedAt": "2026-05-09T02:01:55Z",
+        "content": "The US CLARITY Act, which aims to provide the US crypto industry with greater regulatory clarity, is set to be voted on by the Senate Banking Committee on Thursday.\r\nOn Friday, Senate Banking Committ… [+1991 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "CLARITY法案的推进有助于加密行业监管。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注法案进展以调整合规策略",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_d99d7adcacf9",
+      "title": "Judge clears path for Aave to move $71 million in ETH linked to North Korea hack",
+      "content": "Judge Margaret Garnett allowed frozen exploit funds on Arbitrum to move to Aave, but the legal freeze follows the assets as terrorism plaintiffs continue their claim.",
+      "url": "https://www.coindesk.com/policy/2026/05/09/judge-clears-path-for-aave-to-move-usd71-million-in-eth-linked-to-north-korea-hack",
+      "source": "CoinDesk",
+      "source_type": "news",
+      "author": "Sam Reynolds",
+      "published_at": "2026-05-09T04:16:36Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Sam Reynolds",
+        "title": "Judge clears path for Aave to move $71 million in ETH linked to North Korea hack",
+        "description": "Judge Margaret Garnett allowed frozen exploit funds on Arbitrum to move to Aave, but the legal freeze follows the assets as terrorism plaintiffs continue their claim.",
+        "url": "https://www.coindesk.com/policy/2026/05/09/judge-clears-path-for-aave-to-move-usd71-million-in-eth-linked-to-north-korea-hack",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/6ef2a61db600f1771a21a17e7e34caf2b701a33b-1500x989.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-05-09T04:16:36Z",
+        "content": "A Manhattan federal judge has cleared the way for Aaves recovery effort to move forward after last months North Korea-linked rsETH exploit, allowing $71 million in frozen ether to be transferred out … [+2508 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDT",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Aave 处理与黑客相关的 ETH 资产。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_097ef9403b37",
+      "title": "BlackRock bets big on stablecoins with two new crypto-linked money-market funds | Key details explained",
+      "content": "BlackRock Inc. plans to launch two money-market funds for stablecoin investors, including a digital version of its $6.1 billion liquidity fund and a new tokenized fund for crypto wallet users.&nbsp;",
+      "url": "https://www.livemint.com/money/personal-finance/blackrock-bets-big-on-stablecoins-with-two-new-crypto-linked-money-market-funds-key-details-explained-11778290912540.html",
+      "source": "Livemint",
+      "source_type": "news",
+      "author": "Sanchari Ghosh",
+      "published_at": "2026-05-09T02:37:31Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Sanchari Ghosh",
+        "title": "BlackRock bets big on stablecoins with two new crypto-linked money-market funds | Key details explained",
+        "description": "BlackRock Inc. plans to launch two money-market funds for stablecoin investors, including a digital version of its $6.1 billion liquidity fund and a new tokenized fund for crypto wallet users.&nbsp;",
+        "url": "https://www.livemint.com/money/personal-finance/blackrock-bets-big-on-stablecoins-with-two-new-crypto-linked-money-market-funds-key-details-explained-11778290912540.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2026/05/09/1600x900/logo/BLACKROCK-CLIMATE--0_1736498629844_1778294107128.JPG",
+        "publishedAt": "2026-05-09T02:37:31Z",
+        "content": "In a major boost to the digital-dollar economy, BlackRock Inc. is planning to launch two money-market funds built for investors who hold their cash in stablecoins and not bank accounts.\r\nWhat are sta… [+2769 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "BlackRock"
+      ],
+      "importance_score": 8,
+      "ai_summary": "BlackRock推出新的与稳定币相关的货币市场基金。",
+      "business_relevance": 0.8,
+      "relevance_reason": "涉及稳定币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注稳定币市场的变化和投资机会。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_9ec8a757ee41",
+      "title": "Senate Banking Committee prepares for markup hearing on crypto bill after stablecoin deal",
+      "content": "The Senate Banking Committee's crypto bill progress could reshape US digital asset regulation, impacting market stability and investor confidence.\nThe post Senate Banking Committee prepares for markup hearing on crypto bill after stablecoin deal appeared firs…",
+      "url": "https://cryptobriefing.com/senate-clarity-act-markup-stablecoin-deal/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-05-09T03:37:40Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Senate Banking Committee prepares for markup hearing on crypto bill after stablecoin deal",
+        "description": "The Senate Banking Committee's crypto bill progress could reshape US digital asset regulation, impacting market stability and investor confidence.\nThe post Senate Banking Committee prepares for markup hearing on crypto bill after stablecoin deal appeared firs…",
+        "url": "https://cryptobriefing.com/senate-clarity-act-markup-stablecoin-deal/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
+        "publishedAt": "2026-05-09T03:37:40Z",
+        "content": "The CLARITY Act heads to markup on May 14 after a bipartisan compromise on stablecoin yields broke a months-long logjam. A week after senators finally shook hands on one of the thorniest disputes in … [+3374 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "参议院银行委员会准备审议稳定币法案。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注稳定币法案进展，评估合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_130e21ad405d",
+      "title": "SEC Chairman Urges Clear Rules for On-Chain Trading",
+      "content": "Securities and Exchange Commission (SEC) Chairman Paul S. Atkins said Friday (May 8) that he believes the SEC must provide greater clarity around on-chain financial markets and that he continues to encourage Congress to pass the CLARITY Act to future-proof th…",
+      "url": "https://www.pymnts.com/news/regulation/2026/sec-chairman-urges-clear-rules-for-on-chain-trading/",
+      "source": "pymnts.com",
+      "source_type": "news",
+      "author": "PYMNTS",
+      "published_at": "2026-05-09T00:11:14Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "pymnts.com"
+        },
+        "author": "PYMNTS",
+        "title": "SEC Chairman Urges Clear Rules for On-Chain Trading",
+        "description": "Securities and Exchange Commission (SEC) Chairman Paul S. Atkins said Friday (May 8) that he believes the SEC must provide greater clarity around on-chain financial markets and that he continues to encourage Congress to pass the CLARITY Act to future-proof th…",
+        "url": "https://www.pymnts.com/news/regulation/2026/sec-chairman-urges-clear-rules-for-on-chain-trading/",
+        "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/SEC-crypto.png",
+        "publishedAt": "2026-05-09T00:11:14Z",
+        "content": "Securities and Exchange Commission (SEC) Chairman Paul S. Atkins said Friday (May 8) that he believes the SEC must provide greater clarity around on-chain financial markets and that he continues to e… [+2422 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "SEC主席呼吁明确链上交易规则，影响行业发展。",
+      "business_relevance": 0.7,
+      "relevance_reason": "加密货币监管动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，调整合规策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_c534440943da",
+      "title": "US Senate Committee set to consider long-awaited crypto bill next week",
+      "content": "US senators will consider the Clarity Act next week, a bill aiming to regulate cryptocurrency and end disputes between crypto firms and banks. The legislation would define digital assets and includes a compromise on stablecoin rewards, prohibiting interest on…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/us-senate-committee-set-to-consider-long-awaited-crypto-bill-next-week/articleshow/130969687.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "Reuters",
+      "published_at": "2026-05-09T02:30:40Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Reuters",
+        "title": "US Senate Committee set to consider long-awaited crypto bill next week",
+        "description": "US senators will consider the Clarity Act next week, a bill aiming to regulate cryptocurrency and end disputes between crypto firms and banks. The legislation would define digital assets and includes a compromise on stablecoin rewards, prohibiting interest on…",
+        "url": "https://economictimes.indiatimes.com/tech/technology/us-senate-committee-set-to-consider-long-awaited-crypto-bill-next-week/articleshow/130969687.cms",
+        "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-258966,resizemode-75,msid-130969687/tech/technology/us-senate-committee-set-to-consider-long-awaited-crypto-bill-next-week.jpg",
+        "publishedAt": "2026-05-09T02:30:40Z",
+        "content": "US senators are set to consider long-awaited legislation that would create a regulatory framework for cryptocurrency next week, potentially ending a deadlock over the bill that pitted crypto companie… [+2908 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "美国参议院委员会将审议加密法案。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注法案进展，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_caa96b746172",
+      "title": "Thornwick Kapsted Review: Reliable Trading Platform or Scam? Our Findings",
+      "content": "Thornwick Kapsted developed to make digital asset trading simple, accessible, and profitable for all types of participants, including novices. The system employs the most advanced technologies like artificial intelligence and complex algorithms to perform liv…",
+      "url": "https://www.successful-blog.com/1/thornwick-kapsted-review/",
+      "source": "Successful-blog.com",
+      "source_type": "news",
+      "author": "Henry Collins",
+      "published_at": "2026-05-09T05:15:17Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Successful-blog.com"
+        },
+        "author": "Henry Collins",
+        "title": "Thornwick Kapsted Review: Reliable Trading Platform or Scam? Our Findings",
+        "description": "Thornwick Kapsted developed to make digital asset trading simple, accessible, and profitable for all types of participants, including novices. The system employs the most advanced technologies like artificial intelligence and complex algorithms to perform liv…",
+        "url": "https://www.successful-blog.com/1/thornwick-kapsted-review/",
+        "urlToImage": null,
+        "publishedAt": "2026-05-09T05:15:17Z",
+        "content": "Thornwick Kapsted developed to make digital asset trading simple, accessible, and profitable for all types of participants, including novices. The system employs the most advanced technologies like a… [+13839 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "评估交易平台的可靠性与风险",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及交易平台动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注交易平台的市场表现",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_765a032433c2",
+      "title": "Ripple CEO calls judge’s ruling on XRP a key moment for crypto clarity",
+      "content": "The ruling fosters regulatory clarity, potentially accelerating institutional crypto adoption while highlighting ongoing legal complexities.\nThe post Ripple CEO calls judge’s ruling on XRP a key moment for crypto clarity appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/ripple-ceo-xrp-ruling-crypto-clarity/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-05-09T00:35:37Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Ripple CEO calls judge’s ruling on XRP a key moment for crypto clarity",
+        "description": "The ruling fosters regulatory clarity, potentially accelerating institutional crypto adoption while highlighting ongoing legal complexities.\nThe post Ripple CEO calls judge’s ruling on XRP a key moment for crypto clarity appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/ripple-ceo-xrp-ruling-crypto-clarity/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/08203536/Ripple-Brad-Garlinghouse-800x450.jpg",
+        "publishedAt": "2026-05-09T00:35:37Z",
+        "content": "Brad Garlinghouse declared the SEC case 'over' after a federal judge found programmatic XRP sales are not securities, a ruling that reshapes how regulators approach crypto classification. Four years,… [+1758 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Ripple CEO称XRP裁决为加密监管关键时刻。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_e68cb300be3a",
+      "title": "Bitwise ranks banks with broadest crypto exposure, including BNY Mellon and JPMorgan",
+      "content": "The integration of crypto into major banks like BNY Mellon and JPMorgan could create systemic risks, linking digital assets to global finance.\nThe post Bitwise ranks banks with broadest crypto exposure, including BNY Mellon and JPMorgan appeared first on Cryp…",
+      "url": "https://cryptobriefing.com/bitwise-ranks-banks-crypto-exposure/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-05-09T04:23:38Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Bitwise ranks banks with broadest crypto exposure, including BNY Mellon and JPMorgan",
+        "description": "The integration of crypto into major banks like BNY Mellon and JPMorgan could create systemic risks, linking digital assets to global finance.\nThe post Bitwise ranks banks with broadest crypto exposure, including BNY Mellon and JPMorgan appeared first on Cryp…",
+        "url": "https://cryptobriefing.com/bitwise-ranks-banks-crypto-exposure/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/09002332/Top-Banks-Investing-in-Blockchain-or-Crypto-August-2021-May-2022_NS_14_06_2022-3-372x457.jpg",
+        "publishedAt": "2026-05-09T04:23:38Z",
+        "content": "The asset manager's ranking highlights how deeply traditional finance has embedded itself in crypto through custody, trading, ETFs, and tokenization. Bitwise has assembled a ranking of traditional ba… [+2612 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "BNY Mellon",
+        "JPMorgan"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Bitwise评估了银行在加密货币方面的曝光度。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到银行的加密货币曝光",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注银行在加密领域的动态和策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_714074344ab6",
+      "title": "CFTC Commitments of Traders report shows equity bulls gaining ground for week ended May 5th",
+      "content": "Equity bullishness and reduced Treasury shorts suggest potential macro shifts that could eventually influence crypto market dynamics.\nThe post CFTC Commitments of Traders report shows equity bulls gaining ground for week ended May 5th appeared first on Crypto…",
+      "url": "https://cryptobriefing.com/cftc-cot-report-trader-positions-may-5/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-05-09T00:36:16Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "CFTC Commitments of Traders report shows equity bulls gaining ground for week ended May 5th",
+        "description": "Equity bullishness and reduced Treasury shorts suggest potential macro shifts that could eventually influence crypto market dynamics.\nThe post CFTC Commitments of Traders report shows equity bulls gaining ground for week ended May 5th appeared first on Crypto…",
+        "url": "https://cryptobriefing.com/cftc-cot-report-trader-positions-may-5/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/08203606/COT-Report-3-4.original-563x457.jpg",
+        "publishedAt": "2026-05-09T00:36:16Z",
+        "content": "Fund managers increased S&amp;P 500 net longs while Treasury shorts got trimmed, but the crypto market was nowhere to be found in the data. The CFTC’s latest Commitments of Traders report, covering t… [+1929 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "CFTC报告显示股市牛市趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及市场趋势",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注市场动态，评估影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_ba852b658c7a",
+      "title": "Federal Reserve releases Financial Stability Report assessing US financial system",
+      "content": "The report highlights systemic vulnerabilities, urging cautious financial strategies amid elevated risks and a lack of crypto risk assessment.\nThe post Federal Reserve releases Financial Stability Report assessing US financial system appeared first on Crypto …",
+      "url": "https://cryptobriefing.com/fed-financial-stability-report-2026/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-05-09T01:51:31Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Federal Reserve releases Financial Stability Report assessing US financial system",
+        "description": "The report highlights systemic vulnerabilities, urging cautious financial strategies amid elevated risks and a lack of crypto risk assessment.\nThe post Federal Reserve releases Financial Stability Report assessing US financial system appeared first on Crypto …",
+        "url": "https://cryptobriefing.com/fed-financial-stability-report-2026/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/08215125/4.24.24-blog.png",
+        "publishedAt": "2026-05-09T01:51:31Z",
+        "content": "The Fed's latest semi-annual check-up on the financial system highlights elevated risks, a bloated balance sheet, and stress test scenarios that read like a horror movie script, while digital assets … [+3114 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "美联储发布金融稳定报告，评估金融系统。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_83830829de27",
+      "title": "White House rethinks AI oversight amid security risks from new tools",
+      "content": "Increased AI oversight could reshape tech regulation, impact global AI competition, and influence decentralized tech like crypto projects.\nThe post White House rethinks AI oversight amid security risks from new tools appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/white-house-ai-oversight-security-risks/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-05-09T01:27:13Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "White House rethinks AI oversight amid security risks from new tools",
+        "description": "Increased AI oversight could reshape tech regulation, impact global AI competition, and influence decentralized tech like crypto projects.\nThe post White House rethinks AI oversight amid security risks from new tools appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/white-house-ai-oversight-security-risks/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/08212707/aipolitician-800x450.png",
+        "publishedAt": "2026-05-09T01:27:13Z",
+        "content": "The Trump administration is moving toward mandatory vetting of AI models after Anthropic's Mythos revealed it can uncover hidden software vulnerabilities with national security implications. The Trum… [+2709 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "白宫重新考虑AI监管以应对安全风险。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到AI监管与安全风险",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注AI监管对加密行业的潜在影响",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_4de2e05212ad",
+      "title": "Next to Launch: Illinois",
+      "content": "Next to Launch is a new series where we look at the most viable spots for a new D1 hockey team. This edition explores the feasibility of Illinois.",
+      "url": "https://thehockeynews.com/ncaa/latest-news/next-to-launch-illinois",
+      "source": "The Hockey News",
+      "source_type": "news",
+      "author": "Matthew Auchincloss",
+      "published_at": "2026-05-09T03:53:50Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Hockey News"
+        },
+        "author": "Matthew Auchincloss",
+        "title": "Next to Launch: Illinois",
+        "description": "Next to Launch is a new series where we look at the most viable spots for a new D1 hockey team. This edition explores the feasibility of Illinois.",
+        "url": "https://thehockeynews.com/ncaa/latest-news/next-to-launch-illinois",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GBqQ.EpjTgqL_zRTn2d_RA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/the_hockey_news_articles_331/084a5ec8569093f4686585bbc6bf41bf",
+        "publishedAt": "2026-05-09T03:53:50Z",
+        "content": "The complete lack of D1 NCAA Hockey in Illinois is somewhat surprising considering the hockey demographics of the state. Illinois has the sixth-most hockey players in the country with more than 26,00… [+3089 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "伊利诺伊州即将推出与加密相关的政策。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化对业务的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_513d2a5383c6",
+      "title": "Agentic AI: Navigating The Evolving Frontier",
+      "content": "Agentic AI is increasingly establishing itself as the standard decision-making framework in critical systems",
+      "url": "https://www.forbes.com/sites/chuckbrooks/2026/05/08/agentic-ai-navigating-the-evolving-frontier/",
+      "source": "Forbes",
+      "source_type": "news",
+      "author": "Chuck Brooks",
+      "published_at": "2026-05-09T00:08:59Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Chuck Brooks",
+        "title": "Agentic AI: Navigating The Evolving Frontier",
+        "description": "Agentic AI is increasingly establishing itself as the standard decision-making framework in critical systems",
+        "url": "https://www.forbes.com/sites/chuckbrooks/2026/05/08/agentic-ai-navigating-the-evolving-frontier/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69fe6ede40462ff9a3c4d454/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-05-09T00:08:59Z",
+        "content": "robot finger touch glowing hud interface with agentic ai text in center - futuristic digital technology\r\ngetty\r\nAs 2026 advances, the digital landscape has evolved to be increasingly proactive and al… [+7302 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "讨论了加密行业的演变与趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币行业动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_886d468dad2f",
+      "title": "Lime files for IPO amid debt concerns and liquidity risks",
+      "content": "Lime's IPO highlights the precarious balance between growth and financial stability, underscoring the critical need for strategic debt management.\nThe post Lime files for IPO amid debt concerns and liquidity risks appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/lime-ipo-filing-debt-liquidity-risks/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-05-09T03:09:03Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Lime files for IPO amid debt concerns and liquidity risks",
+        "description": "Lime's IPO highlights the precarious balance between growth and financial stability, underscoring the critical need for strategic debt management.\nThe post Lime files for IPO amid debt concerns and liquidity risks appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/lime-ipo-filing-debt-liquidity-risks/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
+        "publishedAt": "2026-05-09T03:09:03Z",
+        "content": "The Uber-backed scooter company wants to go public on Nasdaq to pay off all its debt, but a $59.3M net loss and the ghost of Bird's failed IPO loom large. Lime, the electric scooter and bike-sharing … [+1954 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "merger",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Lime因债务问题申请IPO，反映市场风险。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及融资事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注市场融资动态，评估潜在影响。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_59bcb6f65323",
+      "title": "Dodgers' Blake Snell to make 2026 season debut as Tyler Glasnow heads to injured list",
+      "content": "Snell, a two-time Cy Young Award winner, will be activated for a key series against the Braves",
+      "url": "https://www.cbssports.com/mlb/news/dodgers-blake-snell-tyler-glasnow-injury-timeline/",
+      "source": "CBS Sports",
+      "source_type": "news",
+      "author": "Dayn Perry",
+      "published_at": "2026-05-09T01:18:04Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "Dayn Perry",
+        "title": "Dodgers' Blake Snell to make 2026 season debut as Tyler Glasnow heads to injured list",
+        "description": "Snell, a two-time Cy Young Award winner, will be activated for a key series against the Braves",
+        "url": "https://www.cbssports.com/mlb/news/dodgers-blake-snell-tyler-glasnow-injury-timeline/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/05/09/14b5050a-a17d-4387-a543-87d5faf125ae/thumbnail/1200x675/9275704866eca06105397cc088fa6434/snell-getty.png",
+        "publishedAt": "2026-05-09T01:18:04Z",
+        "content": "The Los Angeles Dodgers have regained a key member of the rotation just as they've lost another. \r\nManager Dave Roberts on Friday told reporters that veteran left-hander Blake Snell would be activate… [+1971 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series A",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_79f965f9d6f2",
+      "title": "NOT TODAY, EBAY (35)",
+      "content": "The Show & La Di Da Di 45",
+      "url": "https://www.hilobrow.com/2026/05/09/ebay-35/",
+      "source": "Hilobrow.com",
+      "source_type": "news",
+      "author": "Joshua Glenn",
+      "published_at": "2026-05-09T05:25:46Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Hilobrow.com"
+        },
+        "author": "Joshua Glenn",
+        "title": "NOT TODAY, EBAY (35)",
+        "description": "The Show & La Di Da Di 45",
+        "url": "https://www.hilobrow.com/2026/05/09/ebay-35/",
+        "urlToImage": null,
+        "publishedAt": "2026-05-09T05:25:46Z",
+        "content": "By: Joshua GlennMay 9, 2026\r\nOne in a series of posts via which Josh Glenn will share recent examples of stuff that he was tempted to purchase via eBay but, heroically, didn’t.\r\n*\r\nDoug E. Fresh And … [+2567 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series B",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_e24f765a5aa5",
+      "title": "Beyond Bitcoin: Why tokenized assets are gaining serious investor attention",
+      "content": "Indian investors can now access global markets easily. Tokenization converts real-world assets into digital tokens. This allows fractional ownership of international stocks like Tesla and Apple. It offers diversification beyond domestic savings. India's digit…",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/beyond-bitcoin-why-tokenized-assets-are-gaining-serious-investor-attention/articleshow/130970509.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "Sumit Gupta",
+      "published_at": "2026-05-09T04:10:13Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Sumit Gupta",
+        "title": "Beyond Bitcoin: Why tokenized assets are gaining serious investor attention",
+        "description": "Indian investors can now access global markets easily. Tokenization converts real-world assets into digital tokens. This allows fractional ownership of international stocks like Tesla and Apple. It offers diversification beyond domestic savings. India's digit…",
+        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/beyond-bitcoin-why-tokenized-assets-are-gaining-serious-investor-attention/articleshow/130970509.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-130970514,width-1200,height-630,imgsize-130430,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-05-09T04:10:13Z",
+        "content": "India has long had a savings culture. We pour wealth into fixed deposits, gold, and increasingly, equity mutual funds. Real estate and small business ownership have equally been cornerstones of how I… [+3886 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "代币化资产吸引投资者关注，影响市场趋势。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到代币化资产投资",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注代币化资产的市场动态。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_e8f196ff5a32",
+      "title": "New Crypto Pepeto Exchange Upgrade Reaches Binance Level While Ethereum Price Prediction Asks if ETH Can Hit $3,000 This Month",
+      "content": "Dubai, UAE, May 09, 2026 (GLOBE NEWSWIRE) -- Pepeto just cleared a major upgrade on its exchange, bringing the zero-cost trading engine and listing module closer to launch. The presale passed $9.86 million, and the biggest positions entered while sentiment sa…",
+      "url": "https://www.globenewswire.com/news-release/2026/05/09/3291418/0/en/New-Crypto-Pepeto-Exchange-Upgrade-Reaches-Binance-Level-While-Ethereum-Price-Prediction-Asks-if-ETH-Can-Hit-3-000-This-Month.html",
+      "source": "GlobeNewswire",
+      "source_type": "news",
+      "author": "Pepeto",
+      "published_at": "2026-05-09T04:45:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Pepeto",
+        "title": "New Crypto Pepeto Exchange Upgrade Reaches Binance Level While Ethereum Price Prediction Asks if ETH Can Hit $3,000 This Month",
+        "description": "Dubai, UAE, May 09, 2026 (GLOBE NEWSWIRE) -- Pepeto just cleared a major upgrade on its exchange, bringing the zero-cost trading engine and listing module closer to launch. The presale passed $9.86 million, and the biggest positions entered while sentiment sa…",
+        "url": "https://www.globenewswire.com/news-release/2026/05/09/3291418/0/en/New-Crypto-Pepeto-Exchange-Upgrade-Reaches-Binance-Level-While-Ethereum-Price-Prediction-Asks-if-ETH-Can-Hit-3-000-This-Month.html",
+        "urlToImage": null,
+        "publishedAt": "2026-05-09T04:45:00Z",
+        "content": "Dubai, UAE, May 09, 2026 (GLOBE NEWSWIRE) -- \r\nPepeto just cleared a major upgrade on its exchange, bringing the zero-cost trading engine and listing module closer to launch. The presale passed $9.86… [+4946 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Pepeto",
+        "Binance"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Pepeto交易所升级与市场动态相关。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注交易所动态，评估市场影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_626a2ba75a43",
+      "title": "Crypto News: Pepeto Presale Final Stage Update as BNB Price Prediction Targets $2,000 After CZ Calls BNB Chain the Future of AI Payments",
+      "content": "Dubai, UAE, May 09, 2026 (GLOBE NEWSWIRE) -- Pepeto just announced that the latest presale stage cleared in under 48 hours, and the team confirmed the remaining tokens are the final batch at this level. The raise crossed $9.874 million while wallets enter fas…",
+      "url": "https://www.globenewswire.com/news-release/2026/05/09/3291420/0/en/Crypto-News-Pepeto-Presale-Final-Stage-Update-as-BNB-Price-Prediction-Targets-2-000-After-CZ-Calls-BNB-Chain-the-Future-of-AI-Payments.html",
+      "source": "GlobeNewswire",
+      "source_type": "news",
+      "author": "Pepeto",
+      "published_at": "2026-05-09T05:22:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Pepeto",
+        "title": "Crypto News: Pepeto Presale Final Stage Update as BNB Price Prediction Targets $2,000 After CZ Calls BNB Chain the Future of AI Payments",
+        "description": "Dubai, UAE, May 09, 2026 (GLOBE NEWSWIRE) -- Pepeto just announced that the latest presale stage cleared in under 48 hours, and the team confirmed the remaining tokens are the final batch at this level. The raise crossed $9.874 million while wallets enter fas…",
+        "url": "https://www.globenewswire.com/news-release/2026/05/09/3291420/0/en/Crypto-News-Pepeto-Presale-Final-Stage-Update-as-BNB-Price-Prediction-Targets-2-000-After-CZ-Calls-BNB-Chain-the-Future-of-AI-Payments.html",
+        "urlToImage": null,
+        "publishedAt": "2026-05-09T05:22:00Z",
+        "content": "Dubai, UAE, May 09, 2026 (GLOBE NEWSWIRE) -- Pepeto just announced that the latest presale stage cleared in under 48 hours, and the team confirmed the remaining tokens are the final batch at this lev… [+4933 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "BNB链被称为AI支付的未来，影响市场趋势。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到支付和市场趋势",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注AI支付领域的动态和发展",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "BoE’s Bailey warns of looming ‘wrestle’ with US over stablecoin rules, flags run risk for UK",
+      "description": "Bailey, who chairs the Financial Stability Board, warned that hard-to-redeem U.S. stablecoins could flood into jurisdictions like the UK during a crisis.",
+      "url": "https://www.theblock.co/post/400639/boes-bailey-warns-of-looming-wrestle-with-us-over-stablecoin-rules-flags-run-risk-for-uk?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-05-09T19:56:36",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "英国央行行长警告稳定币监管风险。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注稳定币监管政策变化。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Olympic Sprinter Can't Outrun Charges in UK Crypto Fraud Investigation",
+      "description": "U.K. police charged British sprinter CJ Ujah in an alleged crypto fraud scheme involving wallet seed phrase theft and impersonation calls.",
+      "url": "https://decrypt.co/367353/olympic-sprinter-cant-outrun-charges-uk-crypto-fraud",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-05-09T13:01:03",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "英国田径运动员因加密诈骗被控。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币诈骗",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密诈骗的监管动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Bank of Canada Says Stablecoin Rules Could Arrive Later in 2027 - Yahoo Finance",
+      "description": "Bank of Canada Says Stablecoin Rules Could Arrive Later in 2027&nbsp;&nbsp;Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUWR1X216M0ozb0NuaUhHV3Fzc3VoZXFod05xMV85THlaclptcGFyNkpNWl9QUGxpcXVaaEdLcTNhMThGb3prSUlmTllfMWxROFhtSEV2S0NXZF8zWEhnV05ybzVrZTNwN01aeTJhU1phOVlXRHpXdWdTcHE1ODZHeGpZMnYwaVltN3Y3SWJzdDN0X0VoV3owTk9TVTR0cEk?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-05-10T04:28:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "加拿大央行预计2027年将出台稳定币监管政策。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注稳定币监管动态，调整合规策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Bank of Canada to bring stablecoin rules in 2027 with US Clarity Act on the brink of stalling - CryptoSlate",
+      "description": "Bank of Canada to bring stablecoin rules in 2027 with US Clarity Act on the brink of stalling&nbsp;&nbsp;CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTl9Cc1FJYzUtTmdZZG5VNzdsN2JpS2dXVUFOM1V6UHdUVGhqb3QxRnhZb05BdXhucmp6Nlh0QnZfRFR5ZVY0OUd4cEFiNWpyVUZzMHVFZUc3Ty1sYW45VVcySXlfRFlPUUtUSVEzLVd6U3dwVGFPVWVtdHJMUHBiQXB0WWVzVElpaXJLNUNBZkluTWtBZlNZQXlpejJGWmhqZjRhRTVWdGZxRi1Xd2tSMDNlUU5hemVrSi1yYVB3?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-05-09T16:30:48",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "加拿大计划在2027年推出稳定币监管政策。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币监管政策",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注稳定币监管动态，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    }
+  ],
+  "company": [
+    {
+      "title": "Kraken Parent Payward Targets OCC Charter to Unlock Institutional Digital Asset Custody - Bitcoin News",
+      "description": "Kraken Parent Payward Targets OCC Charter to Unlock Institutional Digital Asset Custody&nbsp;&nbsp;Bitcoin News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNTd6UEYyRWxTVmdPcFdQM1JwQ0tkTHVTVVR5RGxZM3p0MUhhWkNiUjFCLTJhU3htb0JzRkZURzdoNkFQRVplMTRueDkzblJNT3ZJNmIyYk1DQkVrc0FMTE1ha1h6eERCWkpiX2RFR2stbXlZS0pyZUp2QWlHMmxSWWlnQ19HYmlyejZhUWlMWkRTcmhLQjJmRXlqTFJpYzhzRThaUkkxa01Sb1YwaTUzZVl4Yw?oc=5",
+      "source": "Google News (crypto custody institution)",
+      "source_category": "google_news",
+      "published_at": "2026-05-09T20:43:10",
+      "data_type": "rss",
+      "search_keyword": "crypto custody institution",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Kraken",
+        "Payward"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Payward 计划申请 OCC 执照以拓展数字资产托管业务。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及数字资产托管",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "市场定价",
+        "合规优势"
+      ],
+      "suggested_action": "关注 Kraken 的动态，评估自身竞争策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "title": "Swiss Bank AMINA Launches Custody and Trading Support for Canton Coin - MEXC",
+      "description": "Swiss Bank AMINA Launches Custody and Trading Support for Canton Coin&nbsp;&nbsp;MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VUjF1QlRtYzdJM1RHdjBEd2g2akhqVnAwcEtlUV9SdDlpdzVkSjAyeGExSkp3Y09HUklIUnhNQkU5LUl3bjl1Tg?oc=5",
+      "source": "Google News (crypto custody institution)",
+      "source_category": "google_news",
+      "published_at": "2026-05-09T16:18:02",
+      "data_type": "rss",
+      "search_keyword": "crypto custody institution",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Swiss Bank AMINA"
+      ],
+      "importance_score": 7,
+      "ai_summary": "瑞士银行AMINA推出对Canton Coin的托管和交易支持。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及托管服务",
+      "threat_level": "medium",
+      "impact_areas": [
+        "产品竞争",
+        "市场定价"
+      ],
+      "suggested_action": "关注AMINA的市场动态，评估竞争策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    }
+  ],
+  "funding": []
+}
