@@ -1,0 +1,409 @@
+{
+  "competitors": [],
+  "clients": [],
+  "industry": [
+    {
+      "id": "news_42fc6bb126cf",
+      "title": "Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit",
+      "content": "A private key exploit let an attacker mint $10 million in StablR tokens and dump them for ETH, depegging EURR and USDR.",
+      "url": "https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Martin Young",
+      "published_at": "2026-05-24T05:39:02Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Martin Young",
+        "title": "Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit",
+        "description": "A private key exploit let an attacker mint $10 million in StablR tokens and dump them for ETH, depegging EURR and USDR.",
+        "url": "https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-corrupt-governance-what-do-we-know-about-recent-scandal-new-1.jpg",
+        "publishedAt": "2026-05-24T05:39:02Z",
+        "content": "An ongoing exploit is impacting StablR, resulting in the depeg of its Euro and USD stablecoins, while a compromised private key has been blamed, adding to a lengthening list of hacks and exploits thi… [+2448 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "欧元和美元稳定币因安全漏洞脱钩。",
+      "business_relevance": 0.9,
+      "relevance_reason": "稳定币相关动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态，评估风险。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_4ad91ea672a5",
+      "title": "Stablecoin issuer StablR potentially exploited for over $3M in dual contract attack: ZachXBT",
+      "content": "The suspected exploit could undermine trust in stablecoin security, impacting investor confidence and regulatory scrutiny in the sector.\nThe post Stablecoin issuer StablR potentially exploited for over $3M in dual contract attack: ZachXBT appeared first on Cr…",
+      "url": "https://cryptobriefing.com/stablecoin-issuer-stablr-hit-suspected-3m-smart-contract-exploit-zachxbt/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Vivian Nguyen",
+      "published_at": "2026-05-24T02:12:07Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Vivian Nguyen",
+        "title": "Stablecoin issuer StablR potentially exploited for over $3M in dual contract attack: ZachXBT",
+        "description": "The suspected exploit could undermine trust in stablecoin security, impacting investor confidence and regulatory scrutiny in the sector.\nThe post Stablecoin issuer StablR potentially exploited for over $3M in dual contract attack: ZachXBT appeared first on Cr…",
+        "url": "https://cryptobriefing.com/stablecoin-issuer-stablr-hit-suspected-3m-smart-contract-exploit-zachxbt/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2024/08/07080747/hacker-scam-2-800x420.png",
+        "publishedAt": "2026-05-24T02:12:07Z",
+        "content": "The suspected exploit could undermine trust in stablecoin security, impacting investor confidence and regulatory scrutiny in the sector. European stablecoin issuer StablR may have suffered an exploit… [+855 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "StablR 稳定币遭遇安全攻击，损失超300万美元。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币安全事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币安全性提升的趋势",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_6463f1b0e0a4",
+      "title": "NEAR Protocol surges 50% in 7 days, leads AI token rally",
+      "content": "The NEAR Protocol's surge highlights the growing influence of AI narratives on crypto markets, potentially reshaping investment strategies.\nThe post NEAR Protocol surges 50% in 7 days, leads AI token rally appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/near-protocol-surges-ai-token-rally/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-05-24T04:06:46Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "NEAR Protocol surges 50% in 7 days, leads AI token rally",
+        "description": "The NEAR Protocol's surge highlights the growing influence of AI narratives on crypto markets, potentially reshaping investment strategies.\nThe post NEAR Protocol surges 50% in 7 days, leads AI token rally appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/near-protocol-surges-ai-token-rally/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/24001356/near-blockchain-platform-wikipedia-2-1-800x420.png",
+        "publishedAt": "2026-05-24T04:06:46Z",
+        "content": "A network upgrade, Arthur Hayes' endorsement, and the broader AI token frenzy have pushed NEAR to six-month highs with trading volumes topping $1 billion. NEAR Protocol’s native token climbed roughly… [+1682 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "NEAR Protocol 在加密市场中表现强劲。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_ef7c64c32a22",
+      "title": "Trump postpones AI executive order after David Sacks warns of regulatory risks",
+      "content": "The postponement highlights ongoing tensions in balancing AI innovation with regulatory oversight, emphasizing US-China tech competition dynamics.\nThe post Trump postpones AI executive order after David Sacks warns of regulatory risks appeared first on Crypto…",
+      "url": "https://cryptobriefing.com/trump-postpones-ai-executive-order-sacks/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-05-24T00:59:46Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Trump postpones AI executive order after David Sacks warns of regulatory risks",
+        "description": "The postponement highlights ongoing tensions in balancing AI innovation with regulatory oversight, emphasizing US-China tech competition dynamics.\nThe post Trump postpones AI executive order after David Sacks warns of regulatory risks appeared first on Crypto…",
+        "url": "https://cryptobriefing.com/trump-postpones-ai-executive-order-sacks/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/23210703/david-sacks-craft-ventures-vc-breakdown-contact-1-800x420.jpeg",
+        "publishedAt": "2026-05-24T00:59:46Z",
+        "content": "The former AI and crypto czar convinced the president that proposed federal oversight could hand China a competitive edge in artificial intelligence. President Trump pulled the plug on an AI executiv… [+2945 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto regulation",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "特朗普推迟AI行政命令因监管风险警告。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到AI监管风险",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注AI监管政策变化对行业的影响",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_fc4647cbf648",
+      "title": "Moment raises $78M Series C for AI trading #tech",
+      "content": "Moment’s funding signals more “automation first” trading tools Moment, a startup building AI tools aimed at automating parts of fixed income and equities trading technology, has raised a $78M Series C round. The round was led by Index Ventures, with a16z part…",
+      "url": "https://alltoc.com/tech/moment-raises-78m-series-c-for-ai-trading",
+      "source": "Alltoc.com",
+      "source_type": "news",
+      "author": "AllToc",
+      "published_at": "2026-05-24T06:01:49Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Alltoc.com"
+        },
+        "author": "AllToc",
+        "title": "Moment raises $78M Series C for AI trading #tech",
+        "description": "Moment’s funding signals more “automation first” trading tools Moment, a startup building AI tools aimed at automating parts of fixed income and equities trading technology, has raised a $78M Series C round. The round was led by Index Ventures, with a16z part…",
+        "url": "https://alltoc.com/tech/moment-raises-78m-series-c-for-ai-trading",
+        "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+        "publishedAt": "2026-05-24T06:01:49Z",
+        "content": "Moment, a startup building AI tools aimed at automating parts of fixed-income and equities trading technology, has raised a $78M Series C round. The round was led by Index Ventures, with a16z partici… [+1396 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Moment公司融资用于AI交易，间接影响加密市场。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到AI交易与加密相关",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注AI在加密交易中的应用动态",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_519c64de77e2",
+      "title": "Karl-Anthony Towns returns as offensive ‘hub’ for Knicks and Cavaliers have no answers",
+      "content": "Point center Karl-Anthony Towns returned Saturday in Cleveland. Unlike in the series opener, the Cavaliers had no answer for the Knicks’ big man.",
+      "url": "https://nypost.com/2026/05/24/sports/karl-anthony-towns-returns-as-offensive-hub-for-knicks/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+      "source": "New York Post",
+      "source_type": "news",
+      "author": "Zach Braziller",
+      "published_at": "2026-05-24T05:52:23Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Zach Braziller",
+        "title": "Karl-Anthony Towns returns as offensive ‘hub’ for Knicks and Cavaliers have no answers",
+        "description": "Point center Karl-Anthony Towns returned Saturday in Cleveland. Unlike in the series opener, the Cavaliers had no answer for the Knicks’ big man.",
+        "url": "https://nypost.com/2026/05/24/sports/karl-anthony-towns-returns-as-offensive-hub-for-knicks/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8F4YTG2PgxrL3qevohXCcQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ny_post_sports_articles_389/5fba768d69c1dcf60ec1173a6c9f3f21",
+        "publishedAt": "2026-05-24T05:52:23Z",
+        "content": "CLEVELAND Point center Karl-Anthony Towns returned Saturday night in Cleveland.\r\nUnlike in the series opener, the Cavaliers had no answer for the Knicks play-making big man.\r\nThis was the Towns who s… [+2264 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series A",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "Kyrgyzstan Gold-Backed Stablecoin Enters Hong Kong’s Regulated Crypto Market - Crowdfund Insider",
+      "description": "Kyrgyzstan Gold-Backed Stablecoin Enters Hong Kong’s Regulated Crypto Market&nbsp;&nbsp;Crowdfund Insider",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRkRuNUVQTlgwN3hXTTRYa2xnSzJUR0FtdHF0SjBhdGVXSVpsYVQ4X3JIOXozTHl5eXpUUkd3NERhZW1pRUR2N3JDSDZmX2NhQkJzYkZudDhYVVFzeF83cXpsWk4tRW1WN09SUHEwZjNsX2J5Mm5CTmtHamVfbUw0Nm4zb1U5c3JK?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-05-24T22:44:33",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "吉尔吉斯斯坦的黄金支持稳定币进入香港市场。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场的监管变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Iran conflict accelerates UAE stablecoin push - Arabian Gulf Business Insight | AGBI",
+      "description": "Iran conflict accelerates UAE stablecoin push&nbsp;&nbsp;Arabian Gulf Business Insight | AGBI",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2t2eVhyN2FhakdYNDR2cmpvQ1NJTUo3Ri1taGI3UGtCUVh2V1paQWFBUHJrQ2g1SmhuM3hDZkJZZEgtZUY5czVDblVzSjZ1d190TTFlRnJVMlN2cUdwZDg4QlRWTXM5WHotc2xJNXVFeldtVEt3QzVlSHpLSjM4dl96QmNEaFRZZjZFS0VwR1ZkXzNuM1VF?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-05-25T03:27:32",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "伊朗冲突推动阿联酋稳定币发展",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注阿联酋稳定币政策变化",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    }
+  ]
+}
