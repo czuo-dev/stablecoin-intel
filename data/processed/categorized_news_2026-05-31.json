@@ -1,0 +1,1132 @@
+{
+  "policy": [
+    {
+      "id": "news_ceb665031303",
+      "title": "Garden full of slugs? Here’s how to minimise the damage",
+      "content": "As well as wreaking havoc in your garden, many of these molluscs do work that is crucial to a healthy planet",
+      "url": "https://www.irishtimes.com/life-style/gardening/2026/05/30/garden-full-of-slugs-heres-how-to-minimise-the-damage/",
+      "source": "The Irish Times",
+      "source_type": "news",
+      "author": "Fionnuala Fallon",
+      "published_at": "2026-05-30T04:43:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-irish-times",
+          "name": "The Irish Times"
+        },
+        "author": "Fionnuala Fallon",
+        "title": "Garden full of slugs? Here’s how to minimise the damage",
+        "description": "As well as wreaking havoc in your garden, many of these molluscs do work that is crucial to a healthy planet",
+        "url": "https://www.irishtimes.com/life-style/gardening/2026/05/30/garden-full-of-slugs-heres-how-to-minimise-the-damage/",
+        "urlToImage": "https://www.irishtimes.com/resizer/v2/ZDQFYPNEE5BYZOZVC5ATHBTWVY.jpg?smart=true&auth=c6207bd3d9934b601676dee4f7538ef0a6c4e65d811bdd07b39180c73240f0cf&width=1200&height=630",
+        "publishedAt": "2026-05-30T04:43:00Z",
+        "content": "I have often been accused, with some justification, of being obsessed with slugs, which as obsessions go is certainly not the prettiest. But then neither are slugs.\r\nYes, yes, before the nations slug… [+6292 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "Copper",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_5cd3513e2c41",
+      "title": "FinCobra – Accept USDT, USDC, and Bitcoin directly to your wallet",
+      "content": "Accept USDT, USDC, and Bitcoin directly to your wallet",
+      "url": "https://betalist.com/startups/fincobra",
+      "source": "Betalist.com",
+      "source_type": "news",
+      "author": "BetaList",
+      "published_at": "2026-05-30T05:35:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Betalist.com"
+        },
+        "author": "BetaList",
+        "title": "FinCobra – Accept USDT, USDC, and Bitcoin directly to your wallet",
+        "description": "Accept USDT, USDC, and Bitcoin directly to your wallet",
+        "url": "https://betalist.com/startups/fincobra",
+        "urlToImage": "https://resize.imagekit.co/TRcEbBalhdal9fp8VAjaNSNRiXGKIXEw921YbKmdwTw/plain/s3://betalist-production/kntnq8xdi7xasz9xmut4su9pvqvn",
+        "publishedAt": "2026-05-30T05:35:00Z",
+        "content": "FinCobra is a non-custodial crypto checkout that lets you accept USDT and USDC on Ethereum and Bitcoin directly to your own wallets. Use hosted payment pages, API invoices, invoice tracking, and sign… [+377 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "FinCobra 支持直接接收稳定币和比特币。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币支付的市场动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_0db83c53779d",
+      "title": "Bitcoin retail sentiment still matters, says Swan Bitcoin CEO",
+      "content": "Swan Bitcoin CEO Cory Klippsten told Cointelegraph in an interview that retail sentiment around Bitcoin still matters, even amid growing institutional adoption, and added that he does not expect the asset to hit new all-time highs this year.",
+      "url": "https://cointelegraph.com/news/bitcoin-retail-sentiment-still-matters-says-swan-bitcoin-ceo",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Ciaran Lyons",
+      "published_at": "2026-05-30T04:57:37Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ciaran Lyons",
+        "title": "Bitcoin retail sentiment still matters, says Swan Bitcoin CEO",
+        "description": "Swan Bitcoin CEO Cory Klippsten told Cointelegraph in an interview that retail sentiment around Bitcoin still matters, even amid growing institutional adoption, and added that he does not expect the asset to hit new all-time highs this year.",
+        "url": "https://cointelegraph.com/news/bitcoin-retail-sentiment-still-matters-says-swan-bitcoin-ceo",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-the-decade-of-the-consumer-citizen-governance-dilemma-bitcoin-1.jpg",
+        "publishedAt": "2026-05-30T04:57:37Z",
+        "content": "Despite the growing institutional presence in crypto, retail sentiment is just as important as it was when Wall Street was largely on the sidelines, according to Swan Bitcoin CEO Cory Klippsten.\r\nIt … [+2267 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "比特币零售情绪仍然重要。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到比特币零售情绪",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注比特币零售市场动态。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_9ad404412a91",
+      "title": "Bitcoin’s biggest quantum risk may not be wallet keys. An early investor fears something bigger",
+      "content": "Andrew Gault, the venture capitalist who funded the quantum hardware labs now threatening bitcoin, says the industry is looking in the wrong place. Google's own security team moved in the same direction in March.",
+      "url": "https://www.coindesk.com/tech/2026/05/30/bitcoin-s-biggest-quantum-risk-may-not-be-wallet-keys-an-early-investor-fears-something-bigger",
+      "source": "CoinDesk",
+      "source_type": "news",
+      "author": "Shaurya Malwa",
+      "published_at": "2026-05-30T05:27:39Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Shaurya Malwa",
+        "title": "Bitcoin’s biggest quantum risk may not be wallet keys. An early investor fears something bigger",
+        "description": "Andrew Gault, the venture capitalist who funded the quantum hardware labs now threatening bitcoin, says the industry is looking in the wrong place. Google's own security team moved in the same direction in March.",
+        "url": "https://www.coindesk.com/tech/2026/05/30/bitcoin-s-biggest-quantum-risk-may-not-be-wallet-keys-an-early-investor-fears-something-bigger",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-05-30T05:27:39Z",
+        "content": "A venture capitalist who has spent a decade backing deep-tech and quantum hardware startups says the bitcoin BTC\r\n$73,452.60 industry is fixated on the wrong half of the quantum problem, the wallet k… [+4109 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "比特币面临的量子风险引发关注。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及量子风险与加密相关",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注量子计算对加密安全的影响",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_8a3451dd7766",
+      "title": "Bitcoin, ether, XRP, dogecoin lag a nine-week stocks rally as ETF demand cools",
+      "content": "The S&P 500 posted its longest weekly winning streak since 2023 and Brent oil stabilized near $92 on US-Iran ceasefire hopes. The biggest cryptocurrencies still drifted lower, with Hyperliquid's HYPE the only major name to rally.",
+      "url": "https://www.coindesk.com/markets/2026/05/30/bitcoin-ether-xrp-dogecoin-lag-a-nine-week-stocks-rally-as-etf-demand-cools",
+      "source": "CoinDesk",
+      "source_type": "news",
+      "author": "Shaurya Malwa",
+      "published_at": "2026-05-30T05:41:30Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Shaurya Malwa",
+        "title": "Bitcoin, ether, XRP, dogecoin lag a nine-week stocks rally as ETF demand cools",
+        "description": "The S&P 500 posted its longest weekly winning streak since 2023 and Brent oil stabilized near $92 on US-Iran ceasefire hopes. The biggest cryptocurrencies still drifted lower, with Hyperliquid's HYPE the only major name to rally.",
+        "url": "https://www.coindesk.com/markets/2026/05/30/bitcoin-ether-xrp-dogecoin-lag-a-nine-week-stocks-rally-as-etf-demand-cools",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/b5cd3bf36d1eac21a178cc65ec243a52a29b099a-1280x854.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-05-30T05:41:30Z",
+        "content": "The S&amp;P 500's longest weekly winning streak since 2023 and Brent crude settling near $92 on U.S.-Iran ceasefire hopes have failed to pull bitcoin BTC\r\n$73,452.60 and ether (ETH) higher, with the … [+1820 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "比特币等加密货币在市场上表现不佳。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注市场变化，调整策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_d02439c2c07c",
+      "title": "Forget a simple mugging - report claims physical attacks on major crypto holders is on the rise as 'Whales' are targeted for kidnapping",
+      "content": "Those with crypto riches are being targeted in physical attacks in attempts to get them to part ways with their digital cash.",
+      "url": "https://www.techradar.com/pro/security/forget-a-simple-mugging-report-claims-physical-attacks-on-major-crypto-holders-is-on-the-rise-as-whales-are-targeted-for-kidnapping",
+      "source": "TechRadar",
+      "source_type": "news",
+      "author": "Rahimnoorali11@gmail.com (Rahim Amir) , Rahim Amir",
+      "published_at": "2026-05-30T01:05:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "techradar",
+          "name": "TechRadar"
+        },
+        "author": "Rahimnoorali11@gmail.com (Rahim Amir) , Rahim Amir",
+        "title": "Forget a simple mugging - report claims physical attacks on major crypto holders is on the rise as 'Whales' are targeted for kidnapping",
+        "description": "Those with crypto riches are being targeted in physical attacks in attempts to get them to part ways with their digital cash.",
+        "url": "https://www.techradar.com/pro/security/forget-a-simple-mugging-report-claims-physical-attacks-on-major-crypto-holders-is-on-the-rise-as-whales-are-targeted-for-kidnapping",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/VqPzkyxHbwGwhS5mySCWiL-951-80.jpg",
+        "publishedAt": "2026-05-30T01:05:00Z",
+        "content": "<ul><li>The same public ledger that enables transparency in crypto often acts as a double-edged sword for some of its whales, who are identified and targeted by hackers, con artists, and other crimin… [+3790 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "加密货币持有者面临安全威胁上升。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币持有者安全",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注加密资产安全问题，提升客户信任。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_a80e25274ad1",
+      "title": "Bitcoin Depot, North America’s largest bitcoin ATM operator, files for bankruptcy",
+      "content": "Bitcoin Depot, the largest bitcoin ATM operator in North America and publicly listed on Nasdaq, has filed for Chapter 11 bankruptcy. What to know: Nasdaq-listed Bitcoin Depot, which once operated the largest network of bitcoin ATMs in North America, has filed…",
+      "url": "https://www.activistpost.com/bitcoin-depot-north-americas-largest-bitcoin-atm-operator-files-for-bankruptcy/",
+      "source": "Activistpost.com",
+      "source_type": "news",
+      "author": "Editor",
+      "published_at": "2026-05-30T00:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Activistpost.com"
+        },
+        "author": "Editor",
+        "title": "Bitcoin Depot, North America’s largest bitcoin ATM operator, files for bankruptcy",
+        "description": "Bitcoin Depot, the largest bitcoin ATM operator in North America and publicly listed on Nasdaq, has filed for Chapter 11 bankruptcy. What to know: Nasdaq-listed Bitcoin Depot, which once operated the largest network of bitcoin ATMs in North America, has filed…",
+        "url": "https://www.activistpost.com/bitcoin-depot-north-americas-largest-bitcoin-atm-operator-files-for-bankruptcy/",
+        "urlToImage": null,
+        "publishedAt": "2026-05-30T00:00:00Z",
+        "content": "Bitcoin Depot, the largest bitcoin ATM operator in North America and publicly listed on Nasdaq, has filed for Chapter 11 bankruptcy.\r\n<ul><li>Bitcoin Depot, once the largest bitcoin ATM operator in N… [+2636 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Bitcoin Depot申请破产，影响加密行业动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币行业动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场变化，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_75bbb60889e0",
+      "title": "How are Coinbase and Kalshi offering perpetual futures? #tech",
+      "content": "Coinbase and Kalshi launch perpetual crypto futures via US exchanges Coinbase and Kalshi have introduced perpetual crypto futures, a move described as the first time these contracts will be available to US investors through domestic, regulated exchanges. Perp…",
+      "url": "https://alltoc.com/tech/how-are-coinbase-and-kalshi-offering-perpetual-futures",
+      "source": "Alltoc.com",
+      "source_type": "news",
+      "author": "AllToc",
+      "published_at": "2026-05-30T00:01:18Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Alltoc.com"
+        },
+        "author": "AllToc",
+        "title": "How are Coinbase and Kalshi offering perpetual futures? #tech",
+        "description": "Coinbase and Kalshi launch perpetual crypto futures via US exchanges Coinbase and Kalshi have introduced perpetual crypto futures, a move described as the first time these contracts will be available to US investors through domestic, regulated exchanges. Perp…",
+        "url": "https://alltoc.com/tech/how-are-coinbase-and-kalshi-offering-perpetual-futures",
+        "urlToImage": "https://alltoc.com/cdn/1048/og.png",
+        "publishedAt": "2026-05-30T00:01:18Z",
+        "content": "Coinbase and Kalshi have introduced perpetual crypto futures, a move described as the first time these contracts will be available to US investors through domestic, regulated exchanges.\r\nPerpetual fu… [+1605 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "Coinbase",
+        "Kalshi"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Coinbase和Kalshi在永续期货方面的动态值得关注。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注永续期货对市场的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_6fe8f5034e4f",
+      "title": "Isaac Patka: DeFi requires error correction mechanisms, operational security failures are often preventable, and user vulnerabilities pose significant risks | Unchained",
+      "content": "Human errors, not code flaws, are the biggest threat to DeFi security, says crypto expert.\nThe post Isaac Patka: DeFi requires error correction mechanisms, operational security failures are often preventable, and user vulnerabilities pose significant risks | …",
+      "url": "https://cryptobriefing.com/isaac-patka-defi-requires-error-correction-mechanisms-operational-security-failures-are-often-preventable-and-user-vulnerabilities-pose-significant-risks-unchained/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-05-30T01:37:49Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Isaac Patka: DeFi requires error correction mechanisms, operational security failures are often preventable, and user vulnerabilities pose significant risks | Unchained",
+        "description": "Human errors, not code flaws, are the biggest threat to DeFi security, says crypto expert.\nThe post Isaac Patka: DeFi requires error correction mechanisms, operational security failures are often preventable, and user vulnerabilities pose significant risks | …",
+        "url": "https://cryptobriefing.com/isaac-patka-defi-requires-error-correction-mechanisms-operational-security-failures-are-often-preventable-and-user-vulnerabilities-pose-significant-risks-unchained/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2025/12/24141205/unchained-podcast-featured-800x420.png",
+        "publishedAt": "2026-05-30T01:37:49Z",
+        "content": "Human errors, not code flaws, are the biggest threat to DeFi security, says crypto expert. \r\nShare\r\nthis.removeAttribute('data-copied'), 2000);\"\r\n class=\"w-7 h-7 border border-foreground/30 text-fore… [+8215 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "讨论了DeFi的错误修正机制和安全性问题。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到DeFi和安全性",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注DeFi安全性技术进展。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_64d097f7e687",
+      "title": "Crypto News Today: AlphaPepe Presale Stage 17 Nears Sell Out While XRP Price Prediction Eyes $7.00",
+      "content": "MONACO, May 29, 2026 (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as Stage 17 moves closer to sellout with the current presale price set at $0.01804 per token. The presale has already crossed $1.36 million in total capital raised, the hol…",
+      "url": "https://www.globenewswire.com/news-release/2026/05/30/3303854/0/en/Crypto-News-Today-AlphaPepe-Presale-Stage-17-Nears-Sell-Out-While-XRP-Price-Prediction-Eyes-7-00.html",
+      "source": "GlobeNewswire",
+      "source_type": "news",
+      "author": "AlphaPepe",
+      "published_at": "2026-05-30T00:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "AlphaPepe",
+        "title": "Crypto News Today: AlphaPepe Presale Stage 17 Nears Sell Out While XRP Price Prediction Eyes $7.00",
+        "description": "MONACO, May 29, 2026 (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as Stage 17 moves closer to sellout with the current presale price set at $0.01804 per token. The presale has already crossed $1.36 million in total capital raised, the hol…",
+        "url": "https://www.globenewswire.com/news-release/2026/05/30/3303854/0/en/Crypto-News-Today-AlphaPepe-Presale-Stage-17-Nears-Sell-Out-While-XRP-Price-Prediction-Eyes-7-00.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/1fc58e52-07ff-49ab-906f-6192fb0edd0a",
+        "publishedAt": "2026-05-30T00:00:00Z",
+        "content": "MONACO, May 29, 2026 (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as Stage 17 moves closer to sellout with the current presale price set at $0.01804 per token. The presale has al… [+7884 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "AlphaPepe预售接近售罄，XRP价格预测引关注。",
+      "business_relevance": 0.5,
+      "relevance_reason": "一般加密货币新闻",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_16b9f414e6d7",
+      "title": "Kalshi hires former FBI analyst Tyler Neff for surveillance unit",
+      "content": "Kalshi's strategic hire enhances regulatory trust, potentially setting a precedent for increased oversight and legitimacy in prediction markets.\nThe post Kalshi hires former FBI analyst Tyler Neff for surveillance unit appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/kalshi-hires-fbi-analyst-tyler-neff-surveillance/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-05-30T05:19:30Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Kalshi hires former FBI analyst Tyler Neff for surveillance unit",
+        "description": "Kalshi's strategic hire enhances regulatory trust, potentially setting a precedent for increased oversight and legitimacy in prediction markets.\nThe post Kalshi hires former FBI analyst Tyler Neff for surveillance unit appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/kalshi-hires-fbi-analyst-tyler-neff-surveillance/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/30012618/kalshi-taps-former-fbi-analyst-neff-for-surveillance-unit-fi-800x420.jpeg",
+        "publishedAt": "2026-05-30T05:19:30Z",
+        "content": "The CFTC-regulated prediction market is building out its enforcement arm as regulatory pressure mounts across the sector. Kalshi just poached an analyst from the FBI. Tyler Neff, who previously worke… [+2927 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto regulation",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Kalshi聘请前FBI分析师加强监管合规能力。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及监管和合规",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "竞争格局"
+      ],
+      "industry_action": "关注监管动态，提升合规能力。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_dd1c5a48a5da",
+      "title": "Jamie Dimon Says JPMorgan (JPM) Could Spend Up to $20 Billion on an Acquisition",
+      "content": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2bb50b4e-8b2a-4149-ac6f-e7de52c651d7",
+      "source": "Yahoo Entertainment",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-05-30T01:44:41Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Jamie Dimon Says JPMorgan (JPM) Could Spend Up to $20 Billion on an Acquisition",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2bb50b4e-8b2a-4149-ac6f-e7de52c651d7",
+        "urlToImage": null,
+        "publishedAt": "2026-05-30T01:44:41Z",
+        "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "JPMorgan"
+      ],
+      "importance_score": 6,
+      "ai_summary": "摩根大通可能收购影响市场动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到收购可能影响市场",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注收购对市场的潜在影响",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_fb1c78847012",
+      "title": "Why Kat From Backrooms Looks So Familiar",
+      "content": "Kat from Backrooms is played by an actress on the rise. Here's where you might recognize her in other projects worth your time.",
+      "url": "https://www.slashfilm.com/2182632/kat-backrooms-movie-actress-lukita-maxwell/",
+      "source": "/FILM",
+      "source_type": "news",
+      "author": "staff@slashfilm.com (Nina Starner)",
+      "published_at": "2026-05-30T00:45:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "/FILM"
+        },
+        "author": "staff@slashfilm.com (Nina Starner)",
+        "title": "Why Kat From Backrooms Looks So Familiar",
+        "description": "Kat from Backrooms is played by an actress on the rise. Here's where you might recognize her in other projects worth your time.",
+        "url": "https://www.slashfilm.com/2182632/kat-backrooms-movie-actress-lukita-maxwell/",
+        "urlToImage": "https://www.slashfilm.com/img/gallery/why-kat-from-backrooms-looks-so-familiar/l-intro-1779927954.jpg",
+        "publishedAt": "2026-05-30T00:45:00Z",
+        "content": "Born in Jakarta before her family resettled in Utah, Lukita Maxwell has been working pretty steadily since the fall of 2019, when she scored a role in the sadly short-lived HBO Max series \"Generation… [+1195 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series A",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_a80c0deb3c2f",
+      "title": "Giro d’Italia Stage 20 Preview",
+      "content": "The final mountain stage. If you plan to watch, note the timing is different so that TV coverage can switch to the start of the women’s Giro which begins today. Stage 19 Review: a breathtaking stage, and that was just the scenery. The fresh green foliage of e…",
+      "url": "https://inrng.com/2026/05/giro-stage-20-preview-piancavallo/",
+      "source": "Inrng.com",
+      "source_type": "news",
+      "author": "The Inner Ring",
+      "published_at": "2026-05-30T04:00:18Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Inrng.com"
+        },
+        "author": "The Inner Ring",
+        "title": "Giro d’Italia Stage 20 Preview",
+        "description": "The final mountain stage. If you plan to watch, note the timing is different so that TV coverage can switch to the start of the women’s Giro which begins today. Stage 19 Review: a breathtaking stage, and that was just the scenery. The fresh green foliage of e…",
+        "url": "https://inrng.com/2026/05/giro-stage-20-preview-piancavallo/",
+        "urlToImage": "https://inrng.com/wp-content/uploads/2023/12/inrng_logo-120.png",
+        "publishedAt": "2026-05-30T04:00:18Z",
+        "content": "The final mountain stage. If you plan to watch, note the timing is different so that TV coverage can switch to the start of the women’s Giro which begins today.\r\nStage 19 Review: a breathtaking stage… [+6458 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series C",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_5601ae5425c7",
+      "title": "avp-wallet-sdk 0.3.0",
+      "content": "Python client for the AVP Agent Verification Protocol — multi-chain wallet trust scoring",
+      "url": "https://pypi.org/project/avp-wallet-sdk/0.3.0/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-05-30T00:50:11Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "avp-wallet-sdk 0.3.0",
+        "description": "Python client for the AVP Agent Verification Protocol — multi-chain wallet trust scoring",
+        "url": "https://pypi.org/project/avp-wallet-sdk/0.3.0/",
+        "urlToImage": null,
+        "publishedAt": "2026-05-30T00:50:11Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "发布了新的钱包SDK版本，涉及区块链技术进展。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_936c50f04b6c",
+      "title": "avp-wallet-sdk 0.2.0",
+      "content": "Python client for the AVP Agent Verification Protocol — multi-chain wallet trust scoring",
+      "url": "https://pypi.org/project/avp-wallet-sdk/0.2.0/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-05-30T00:44:41Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "avp-wallet-sdk 0.2.0",
+        "description": "Python client for the AVP Agent Verification Protocol — multi-chain wallet trust scoring",
+        "url": "https://pypi.org/project/avp-wallet-sdk/0.2.0/",
+        "urlToImage": null,
+        "publishedAt": "2026-05-30T00:44:41Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "发布了区块链基础设施相关的SDK版本更新。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注SDK更新对行业的影响",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "title": "SEC sues Privvy founder over $12.3 million crypto scheme as AI ‘bots’ turn out to be neither",
+      "description": "The SEC alleges Fuller spent misappropriated funds on a roughly $1 million house, gambling, trading cards, travel and a Jeep. ",
+      "url": "https://www.theblock.co/post/403118/sec-sues-privvy-founder-over-12-3-million-crypto-scheme-as-ai-bots-turn-out-to-be-neither?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-05-30T22:30:56",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "SEC起诉Privvy创始人涉及加密监管问题。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，评估潜在影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Cosmos-based Gravity Bridge drained of $5.4 million in suspected key compromise, researchers say",
+      "description": "The attacker took USDC, ether, tether and PAYG tokens before laundering a portion through ChangeNow and Binance.",
+      "url": "https://www.theblock.co/post/403108/cosmos-based-gravity-bridge-drained-of-5-4-million-in-suspected-key-compromise-researchers-say?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-05-30T18:21:02",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "ChangeNow",
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Cosmos-based Gravity Bridge 被攻击，损失540万美元的稳定币和其他加密资产。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币和支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全性和合规性提升。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Crypto champion Trump may be jeopardizing the industry’s landmark legislation",
+      "description": "Digital asset legislation is years in the making, but the sector's biggest political champion, President Trump, has become a liability. ",
+      "url": "https://www.theblock.co/post/403083/crypto-champion-trump-may-be-jeopardizing-the-industrys-landmark-legislation?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-05-30T17:56:14",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "特朗普可能影响加密行业立法进程。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注立法动态，适时调整策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Court-ordered Circle freeze traps $12.6 million in Zama cUSDC contract amid Overnight Finance suit",
+      "description": "Zama CEO Rand Hindi said the protocol's confidential USDC contract was \"caught in a crossfire\" and that his team is investigating the freeze. ",
+      "url": "https://www.theblock.co/post/403091/court-ordered-circle-freeze-traps-12-6-million-in-zama-cusdc-contract-amid-overnight-finance-suit?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-05-30T12:30:00",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Circle",
+        "Zama"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Circle 的 USDC 合约被冻结，影响行业动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币合约冻结",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注稳定币监管动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Fintech Nium, Circle Partner To Enhance Global Payments With USDC Integration - Crowdfund Insider",
+      "description": "Fintech Nium, Circle Partner To Enhance Global Payments With USDC Integration&nbsp;&nbsp;Crowdfund Insider",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdGowQWpGOXc0WHpzMks0bnhaRncyck95MWJ5RlFtNm5KTUtyVWowWEVZX0MzQ2ZxSHI1WnFISThNcmVVOUhDMl95SjZmZFpVRjJxaUZYTG9kRm1OUHUzWWQwTXcwQmhOMGRrZ1hCMjBUZFpGQjRiZm1lZm84R2R2ZnpMRDZoVTdIMlF6RHVPZk5GZ0h0Zk5uWlgtVGoyVGFDV0NzcjJxbUx3SUhXdnB2bUxYTU1GSkR3UlloUUtKM29UblE?oc=5",
+      "source": "Google News (USDC payment partnership)",
+      "source_category": "google_news",
+      "published_at": "2026-05-30T17:03:51",
+      "data_type": "rss",
+      "search_keyword": "USDC payment partnership",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Nium",
+        "Circle"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Nium与Circle合作整合USDC以提升全球支付能力。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币在支付领域的应用趋势。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    }
+  ],
+  "company": [
+    {
+      "id": "news_12618825f46a",
+      "title": "ChatGPT can now manage your wallet and bank accounts: OpenAI introduces personal finance tools",
+      "content": "ChatGPT Pro users can now compile bank accounts, credit cards and loans for personalized insights into spending, cash flow and savings habits. While this could make financial tracking more accessible, it raises privacy concerns over AI access to sensitive ban…",
+      "url": "https://www.notebookcheck.net/ChatGPT-can-now-manage-your-wallet-and-bank-accounts-OpenAI-introduces-personal-finance-tools.1310946.0.html",
+      "source": "Notebookcheck.net",
+      "source_type": "news",
+      "author": "Jacob Fisher",
+      "published_at": "2026-05-30T00:36:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Notebookcheck.net"
+        },
+        "author": "Jacob Fisher",
+        "title": "ChatGPT can now manage your wallet and bank accounts: OpenAI introduces personal finance tools",
+        "description": "ChatGPT Pro users can now compile bank accounts, credit cards and loans for personalized insights into spending, cash flow and savings habits. While this could make financial tracking more accessible, it raises privacy concerns over AI access to sensitive ban…",
+        "url": "https://www.notebookcheck.net/ChatGPT-can-now-manage-your-wallet-and-bank-accounts-OpenAI-introduces-personal-finance-tools.1310946.0.html",
+        "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ChatGPT-Finance-Open-AI.jpg",
+        "publishedAt": "2026-05-30T00:36:00Z",
+        "content": "Keeping track of expenses, subscriptions, savings goals and monthly bills is not everyones cup of tea. In this context, OpenAI has launched a set of new personal finance tools for ChatGPT that allows… [+1184 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "OpenAI"
+      ],
+      "importance_score": 7,
+      "ai_summary": "OpenAI推出个人金融工具，可能影响稳定币托管市场。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及个人金融工具",
+      "threat_level": "medium",
+      "impact_areas": [
+        "产品竞争",
+        "市场定价"
+      ],
+      "suggested_action": "关注OpenAI的产品动态，评估竞争策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    }
+  ],
+  "funding": []
+}
