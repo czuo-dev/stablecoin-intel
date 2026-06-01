@@ -1,0 +1,1206 @@
+{
+  "competitors": [
+    {
+      "id": "news_63d8a1b01b5e",
+      "title": "How did Circle respond to Zama cUSDC? #tech",
+      "content": "Court order freezes Zama linked cUSDC funds A US court has ordered Circle to blacklist Zama’s cUSDC contract, an action that effectively freezes about $12.6 million tied to that DeFi related contract. The decision is described as likely to ensnare others caug…",
+      "url": "https://alltoc.com/tech/how-did-circle-respond-to-zama-cusdc",
+      "source": "Alltoc.com",
+      "source_type": "news",
+      "author": "AllToc",
+      "published_at": "2026-05-31T06:01:50Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Alltoc.com"
+        },
+        "author": "AllToc",
+        "title": "How did Circle respond to Zama cUSDC? #tech",
+        "description": "Court order freezes Zama linked cUSDC funds A US court has ordered Circle to blacklist Zama’s cUSDC contract, an action that effectively freezes about $12.6 million tied to that DeFi related contract. The decision is described as likely to ensnare others caug…",
+        "url": "https://alltoc.com/tech/how-did-circle-respond-to-zama-cusdc",
+        "urlToImage": "https://alltoc.com/cdn/1048/og.png",
+        "publishedAt": "2026-05-31T06:01:50Z",
+        "content": "A US court has ordered Circle to blacklist Zamas cUSDC contract, an action that effectively freezes about $12.6 million tied to that DeFi-related contract. The decision is described as likely to ensn… [+1579 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Circle"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Circle对cUSDC的回应引发关注。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币cUSDC",
+      "threat_level": "medium",
+      "impact_areas": [
+        "产品竞争",
+        "市场定价"
+      ],
+      "suggested_action": "关注cUSDC的市场表现和技术优势。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    }
+  ],
+  "clients": [],
+  "industry": [
+    {
+      "id": "news_b6a57589098a",
+      "title": "Tahini: Nutrition Experts Detail Health Benefits of Sesame Seed Paste",
+      "content": "Tahini, a smooth paste made from crushed toasted sesame seeds, has long been recognized as a key ingredient in hummus, but nutrition experts say it deserves attention as a standalone nutrient-dense food. According to a report by the Daily Mail, registered nut…",
+      "url": "https://www.naturalnews.com/2026-05-31-nutrition-experts-detail-health-benefits-of-tahini.html",
+      "source": "Naturalnews.com",
+      "source_type": "news",
+      "author": "Coco Somers",
+      "published_at": "2026-05-31T06:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Naturalnews.com"
+        },
+        "author": "Coco Somers",
+        "title": "Tahini: Nutrition Experts Detail Health Benefits of Sesame Seed Paste",
+        "description": "Tahini, a smooth paste made from crushed toasted sesame seeds, has long been recognized as a key ingredient in hummus, but nutrition experts say it deserves attention as a standalone nutrient-dense food. According to a report by the Daily Mail, registered nut…",
+        "url": "https://www.naturalnews.com/2026-05-31-nutrition-experts-detail-health-benefits-of-tahini.html",
+        "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/tahini-sesame-seeds-nutrient-dense-1760-original.jpg",
+        "publishedAt": "2026-05-31T06:00:00Z",
+        "content": "Tahini, a smooth paste made from crushed toasted sesame seeds, has long been recognized as a key ingredient in hummus, but nutrition experts say it deserves attention as a standalone nutrient-dense f… [+5151 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "Copper",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_3747623b7abb",
+      "title": "omnis-key added to PyPI",
+      "content": "OMNIS KEY — JourdanLabs' local-first, receipt-backed engineering workbench (VANTAGE, CADMUS, PROSPECTOR, LUNA), runnable from a pip install.",
+      "url": "https://pypi.org/project/omnis-key/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-05-31T03:11:55Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "omnis-key added to PyPI",
+        "description": "OMNIS KEY — JourdanLabs' local-first, receipt-backed engineering workbench (VANTAGE, CADMUS, PROSPECTOR, LUNA), runnable from a pip install.",
+        "url": "https://pypi.org/project/omnis-key/",
+        "urlToImage": null,
+        "publishedAt": "2026-05-31T03:11:55Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "Vantage",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Omnis-key 被添加到 PyPI，涉及区块链技术的进展。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注区块链技术的最新动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_f63c60fbee2a",
+      "title": "Circle: I Think The Stablecoin Revolution Has A Clear Winner",
+      "content": "Circle (CRCL) is a Strong Buy: USDC adoption surges, new partnerships expand use cases, and stablecoins could reach $2T.",
+      "url": "https://seekingalpha.com/article/4910373-circle-i-think-the-stablecoin-revolution-has-a-clear-winner",
+      "source": "Seeking Alpha",
+      "source_type": "news",
+      "author": "The J Thesis",
+      "published_at": "2026-05-31T02:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Seeking Alpha"
+        },
+        "author": "The J Thesis",
+        "title": "Circle: I Think The Stablecoin Revolution Has A Clear Winner",
+        "description": "Circle (CRCL) is a Strong Buy: USDC adoption surges, new partnerships expand use cases, and stablecoins could reach $2T.",
+        "url": "https://seekingalpha.com/article/4910373-circle-i-think-the-stablecoin-revolution-has-a-clear-winner",
+        "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2211548766/image_2211548766.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-05-31T02:00:00Z",
+        "content": "Analysts Disclosure: I/we have a beneficial long position in the shares of CRCL either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opi… [+730 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Circle"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Circle认为稳定币革命有明确赢家。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币革命",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态，调整策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_8ab51b68f479",
+      "title": "Operation Octopus: Trapping the tentacles of India’s cyber fraud network",
+      "content": "Amidst the alarming increase in cyber scams, the Hyderabad Police have initiated Operation Octopus, a mission aimed at dismantling the entire fraud network. This sweeping strategy addresses everything from street-level con artists to shadowy masterminds opera…",
+      "url": "https://economictimes.indiatimes.com/news/india/operation-octopus-trapping-the-tentacles-of-indias-cyber-fraud-network/articleshow/131418289.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "Shilpa Ranipeta",
+      "published_at": "2026-05-31T03:32:32Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Shilpa Ranipeta",
+        "title": "Operation Octopus: Trapping the tentacles of India’s cyber fraud network",
+        "description": "Amidst the alarming increase in cyber scams, the Hyderabad Police have initiated Operation Octopus, a mission aimed at dismantling the entire fraud network. This sweeping strategy addresses everything from street-level con artists to shadowy masterminds opera…",
+        "url": "https://economictimes.indiatimes.com/news/india/operation-octopus-trapping-the-tentacles-of-indias-cyber-fraud-network/articleshow/131418289.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-131418299,width-1200,height-630,imgsize-65912,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-05-31T03:32:32Z",
+        "content": "In early 2025, Ravi (name changed), a 40-year-old from Hyderabad, saw a stock market investment opportunity promising quick returns on his Facebook feed. Curious, he clicked on it and was instantly p… [+11498 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDT",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "印度网络欺诈网络被打击的报道",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及网络欺诈与加密相关",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注网络安全与合规措施",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_c7f6648f7c49",
+      "title": "XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions",
+      "content": "A draft XRPL amendment notes that flash loan attacks are \"structurally impossible\" on the network because of how its transactions are built, an architectural quirk that has spared the chain from the exploit class that has cost Ethereum DeFi billions.",
+      "url": "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions",
+      "source": "CoinDesk",
+      "source_type": "news",
+      "author": "Shaurya Malwa",
+      "published_at": "2026-05-31T02:30:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Shaurya Malwa",
+        "title": "XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions",
+        "description": "A draft XRPL amendment notes that flash loan attacks are \"structurally impossible\" on the network because of how its transactions are built, an architectural quirk that has spared the chain from the exploit class that has cost Ethereum DeFi billions.",
+        "url": "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/92e1b9587d9046ddc71662c77ea0332e9f8a8771-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-05-31T02:30:00Z",
+        "content": "The two biggest DeFi exploits of the past two months have one thing in common. They used a tool that does not exist on the XRP Ledger.\r\nThorchain lost roughly $10.8 million on May 15 to a cross-chain… [+3379 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "XRP Ledger提出新提案以防止闪电贷攻击。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及DeFi安全问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注DeFi安全技术的进展。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_6bf4303fed52",
+      "title": "Crypto investing: From SIP-style investing to large-cap assets – How to fit Bitcoin, digital assets into your portfolio",
+      "content": "Retail investors remain cautious about crypto due to market volatility. Experts suggest a disciplined approach: invest regularly, focus on quality assets, and allocate 2-5% of portfolios to crypto for stability and growth potential.",
+      "url": "https://www.livemint.com/money/personal-finance/crypto-investing-from-sip-style-investing-to-large-cap-assets-how-to-fit-bitcoin-digital-assets-into-your-portfolio-11779943736107.html",
+      "source": "Livemint",
+      "source_type": "news",
+      "author": "Sanchari Ghosh",
+      "published_at": "2026-05-31T03:32:59Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Sanchari Ghosh",
+        "title": "Crypto investing: From SIP-style investing to large-cap assets – How to fit Bitcoin, digital assets into your portfolio",
+        "description": "Retail investors remain cautious about crypto due to market volatility. Experts suggest a disciplined approach: invest regularly, focus on quality assets, and allocate 2-5% of portfolios to crypto for stability and growth potential.",
+        "url": "https://www.livemint.com/money/personal-finance/crypto-investing-from-sip-style-investing-to-large-cap-assets-how-to-fit-bitcoin-digital-assets-into-your-portfolio-11779943736107.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2026/05/28/1600x900/logo/im-92494486_1756991198688_1779949383371_d7834afb-f228-45e2-a768-d74ee9b7b4be.jpg",
+        "publishedAt": "2026-05-31T03:32:59Z",
+        "content": "Despite rising interest in crypto assets, many retail investors continue to remain cautious due to the markets volatile and high-risk nature. However, industry experts say investor behaviour is gradu… [+3251 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "探讨如何将比特币纳入投资组合。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密资产投资",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注市场动态，调整投资策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_d497f11bc439",
+      "title": "BNB, Aster surge double digits ahead of Binance’s Monday product reveal",
+      "content": "The anticipation of Binance's new product highlights the growing intersection of traditional finance and crypto, potentially reshaping market dynamics.\nThe post BNB, Aster surge double digits ahead of Binance’s Monday product reveal appeared first on Crypto B…",
+      "url": "https://cryptobriefing.com/bnb-aster-surge-double-digits-ahead-binance-monday-product-reveal/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Vivian Nguyen",
+      "published_at": "2026-05-31T03:49:01Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Vivian Nguyen",
+        "title": "BNB, Aster surge double digits ahead of Binance’s Monday product reveal",
+        "description": "The anticipation of Binance's new product highlights the growing intersection of traditional finance and crypto, potentially reshaping market dynamics.\nThe post BNB, Aster surge double digits ahead of Binance’s Monday product reveal appeared first on Crypto B…",
+        "url": "https://cryptobriefing.com/bnb-aster-surge-double-digits-ahead-binance-monday-product-reveal/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/30233930/BNB-Aster-surge-double-digits-ahead-of-Binance-Monday-product-reveal-800x418.jpg",
+        "publishedAt": "2026-05-31T03:49:01Z",
+        "content": "Speculation is mounting that Binance may be building a dual-track US equities platform. BNB, the native asset of the BNB Chain ecosystem, and Aster (ASTER), which powers the Aster decentralized perpe… [+2497 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 6,
+      "ai_summary": "BNB和Aster因Binance新产品发布而上涨。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注Binance新产品对市场的影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_a5b31d647d1c",
+      "title": "Trump says Iran agrees not to develop or acquire nuclear weapons, as US seizes $1B in Iranian-linked crypto",
+      "content": "The agreement reduces geopolitical tensions, potentially stabilizing global markets, but uncertainty remains as compliance conditions are finalized.\nThe post Trump says Iran agrees not to develop or acquire nuclear weapons, as US seizes $1B in Iranian-linked …",
+      "url": "https://cryptobriefing.com/trump-iran-nuclear-deal-crypto-seizure/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-05-31T02:38:22Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Trump says Iran agrees not to develop or acquire nuclear weapons, as US seizes $1B in Iranian-linked crypto",
+        "description": "The agreement reduces geopolitical tensions, potentially stabilizing global markets, but uncertainty remains as compliance conditions are finalized.\nThe post Trump says Iran agrees not to develop or acquire nuclear weapons, as US seizes $1B in Iranian-linked …",
+        "url": "https://cryptobriefing.com/trump-iran-nuclear-deal-crypto-seizure/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/30223815/trump-violates-iran-nuclear-deal-that-generals-support-3-800x420.jpeg",
+        "publishedAt": "2026-05-31T02:38:22Z",
+        "content": "The diplomatic breakthrough comes alongside aggressive crypto sanctions enforcement, with Bitcoin climbing toward $74K as geopolitical tensions shift. President Donald Trump announced on May 6, 2026 … [+1963 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "美国扣押与伊朗相关的加密货币。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密货币监管动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_5a5dc86522ed",
+      "title": "White House sends AI legislative framework to Congress amid state-level efforts",
+      "content": "Federal AI policy aims to unify regulations, potentially easing compliance for startups, but risks persist if Congress remains inactive.\nThe post White House sends AI legislative framework to Congress amid state-level efforts appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/white-house-ai-framework-congress/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-05-31T06:37:42Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "White House sends AI legislative framework to Congress amid state-level efforts",
+        "description": "Federal AI policy aims to unify regulations, potentially easing compliance for startups, but risks persist if Congress remains inactive.\nThe post White House sends AI legislative framework to Congress amid state-level efforts appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/white-house-ai-framework-congress/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/31023735/white-house-sends-legislative-recommendations-on-national-ai-1-800x420.jpeg",
+        "publishedAt": "2026-05-31T06:37:42Z",
+        "content": "The Trump administration's seven-point blueprint aims to preempt a patchwork of state AI laws, with implications for tech and crypto companies navigating regulatory uncertainty. The Trump White House… [+2542 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "白宫向国会提交AI立法框架，涉及监管政策。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，评估影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_71212a90f478",
+      "title": "Isaac Patka proposes DeFi protocol safety framework with multisigs",
+      "content": "Patka's DeFi safety framework could enhance protocol security and self-regulation, potentially reducing regulatory scrutiny and fostering trust.\nThe post Isaac Patka proposes DeFi protocol safety framework with multisigs appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/defi-safety-framework-multisigs-patka/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-05-31T05:04:01Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Isaac Patka proposes DeFi protocol safety framework with multisigs",
+        "description": "Patka's DeFi safety framework could enhance protocol security and self-regulation, potentially reducing regulatory scrutiny and fostering trust.\nThe post Isaac Patka proposes DeFi protocol safety framework with multisigs appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/defi-safety-framework-multisigs-patka/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/31010352/isaac-patka-devcon-sea-800x420.jpeg",
+        "publishedAt": "2026-05-31T05:04:01Z",
+        "content": "The Shield3 co-founder and SEAL contributor wants to split protocol control into three separate multisig wallets, arguing that over 90% of DeFi failures come from human error, not broken code. Here’s… [+3863 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto regulation",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "提议DeFi协议安全框架的多签技术",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及DeFi协议安全框架",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注DeFi安全标准的演变",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_e10e51155596",
+      "title": "The 1921 Tulsa Massacre",
+      "content": "Podcast Transcript In 1921, one of the most prosperous Black communities in America was attacked, burned, and nearly erased from memory.  The Greenwood District of Tulsa, Oklahoma, also known as Black Wall Street, became the site of one of the worst acts of v…",
+      "url": "https://everything-everywhere.com/the-1921-tulsa-massacre/",
+      "source": "Everything-everywhere.com",
+      "source_type": "news",
+      "author": "Gary Arndt",
+      "published_at": "2026-05-31T06:20:35Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Everything-everywhere.com"
+        },
+        "author": "Gary Arndt",
+        "title": "The 1921 Tulsa Massacre",
+        "description": "Podcast Transcript In 1921, one of the most prosperous Black communities in America was attacked, burned, and nearly erased from memory.  The Greenwood District of Tulsa, Oklahoma, also known as Black Wall Street, became the site of one of the worst acts of v…",
+        "url": "https://everything-everywhere.com/the-1921-tulsa-massacre/",
+        "urlToImage": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-B2DXFwL/0/LvpSmdtJnQcJ44J9dTd9dsLzcBRhzwhrh7g3TTV5s/L/2155epart-L.jpg",
+        "publishedAt": "2026-05-31T06:20:35Z",
+        "content": "Subscribe Apple | Spotify | Amazon |iHeart Radio | Castbox | Podcast Republic | RSS | Patreon | Discord | Facebook | IMDB\r\nIn 1921, one of the most prosperous Black communities in America was attacke… [+11606 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_e1e969f1edba",
+      "title": "What is Tactical Periodisation and How Does José Mourinho Use It?",
+      "content": "Explaining one of Mourinho’s core coaching principles",
+      "url": "https://www.managingmadrid.com/coach/108354/what-is-tactical-periodisation-and-how-does-jose-mourinho-use-it",
+      "source": "Managing Madrid",
+      "source_type": "news",
+      "author": "Mehedi Hassan",
+      "published_at": "2026-05-31T06:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Managing Madrid"
+        },
+        "author": "Mehedi Hassan",
+        "title": "What is Tactical Periodisation and How Does José Mourinho Use It?",
+        "description": "Explaining one of Mourinho’s core coaching principles",
+        "url": "https://www.managingmadrid.com/coach/108354/what-is-tactical-periodisation-and-how-does-jose-mourinho-use-it",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Tm751V2rtSb1DJ_wGJGIxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/ab2b715203e9c92b53afa876c80f8ad9",
+        "publishedAt": "2026-05-31T06:00:00Z",
+        "content": "When José Mourinho arrived at Chelsea in 2004, he startled a generation of English players by rolling footballs onto the training pitch from the first day of pre-season. As former captain John Terry … [+3421 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_386fc60772b8",
+      "title": "Solana Unchained Outlines Fixed-Supply Utility Architecture and AI Tool Hub Ahead of Late May Public Allocation Launch",
+      "content": "SACRAMENTO, Calif, May 30, 2026 (GLOBE NEWSWIRE) -- Solana Unchained today disclosed the comprehensive operational structure of its upcoming decentralized platform, which unifies artificial intelligence features with three specialized infrastructure protocols…",
+      "url": "https://www.globenewswire.com/news-release/2026/05/31/3303912/0/en/Solana-Unchained-Outlines-Fixed-Supply-Utility-Architecture-and-AI-Tool-Hub-Ahead-of-Late-May-Public-Allocation-Launch.html",
+      "source": "GlobeNewswire",
+      "source_type": "news",
+      "author": "Solana Unchained",
+      "published_at": "2026-05-31T03:29:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Solana Unchained",
+        "title": "Solana Unchained Outlines Fixed-Supply Utility Architecture and AI Tool Hub Ahead of Late May Public Allocation Launch",
+        "description": "SACRAMENTO, Calif, May 30, 2026 (GLOBE NEWSWIRE) -- Solana Unchained today disclosed the comprehensive operational structure of its upcoming decentralized platform, which unifies artificial intelligence features with three specialized infrastructure protocols…",
+        "url": "https://www.globenewswire.com/news-release/2026/05/31/3303912/0/en/Solana-Unchained-Outlines-Fixed-Supply-Utility-Architecture-and-AI-Tool-Hub-Ahead-of-Late-May-Public-Allocation-Launch.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/485f59e3-2789-4af6-a7f6-fbc1b3be50d5",
+        "publishedAt": "2026-05-31T03:29:00Z",
+        "content": "SACRAMENTO, Calif, May 30, 2026 (GLOBE NEWSWIRE) -- Solana Unchained today disclosed the comprehensive operational structure of its upcoming decentralized platform, which unifies artificial intellige… [+7067 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Solana推出固定供应的实用架构和AI工具中心。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_c8226856748a",
+      "title": "Jason Blum on Obsession, Backrooms Box Office Success Saving Our Industry",
+      "content": "The horror leaders also discussed the state of the genre during a PGA panel, with Blum saying, “There’s almost this feeling of the ’70s, of a new generation of young people making edgy movies that are connecting in theaters in a crazy way,” referring to 'Obse…",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/jason-blum-james-wan-obsession-backrooms-success-horror-1236609599/",
+      "source": "Hollywood Reporter",
+      "source_type": "news",
+      "author": "Lexi Carson",
+      "published_at": "2026-05-31T00:00:13Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Hollywood Reporter"
+        },
+        "author": "Lexi Carson",
+        "title": "Jason Blum on Obsession, Backrooms Box Office Success Saving Our Industry",
+        "description": "The horror leaders also discussed the state of the genre during a PGA panel, with Blum saying, “There’s almost this feeling of the ’70s, of a new generation of young people making edgy movies that are connecting in theaters in a crazy way,” referring to 'Obse…",
+        "url": "http://www.hollywoodreporter.com/movies/movie-news/jason-blum-james-wan-obsession-backrooms-success-horror-1236609599/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/blum.jpg?w=1296&h=730&crop=1",
+        "publishedAt": "2026-05-31T00:00:13Z",
+        "content": "Obsession and Backroomsare breaking records and making history at the box office, and producers Jason Blum and James Wan say the films are reminiscent of the 1970s era of young filmmakers breaking in… [+3089 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "merger",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_0bafce9e2d95",
+      "title": "XRP Ledger proposal blocks flash loan attacks, enhancing DeFi security",
+      "content": "XRPL's security-first approach may attract risk-averse investors, potentially reshaping DeFi by prioritizing safety over composability.\nThe post XRP Ledger proposal blocks flash loan attacks, enhancing DeFi security appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/xrpl-blocks-flash-loan-attacks-defi/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-05-31T02:35:18Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "XRP Ledger proposal blocks flash loan attacks, enhancing DeFi security",
+        "description": "XRPL's security-first approach may attract risk-averse investors, potentially reshaping DeFi by prioritizing safety over composability.\nThe post XRP Ledger proposal blocks flash loan attacks, enhancing DeFi security appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/xrpl-blocks-flash-loan-attacks-defi/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/30223513/flash-loan-attacks-understanding-defi-security-risks-800x420.jpeg",
+        "publishedAt": "2026-05-31T02:35:18Z",
+        "content": "XRPL's atomic transaction architecture makes flash loans structurally impossible, giving it a security edge as DeFi losses from exploits continue to mount on other chains. Flash loans have cost DeFi … [+3409 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "XRP Ledger提案增强DeFi安全性。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及DeFi安全",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "关注DeFi安全技术进展。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_b2cce539b818",
+      "title": "Shanghai Report: Collaboration Talks with OpenKylin",
+      "content": "Back in March at FOSSASIA in Bangkok, I got invited to visit the OpenKylin team in Shanghai. I mentioned it briefly at the end of that report, and here we are — the follow-up post.",
+      "url": "https://tcanabrava.github.io/openkylin-shanghai/",
+      "source": "Github.io",
+      "source_type": "news",
+      "author": "Tomaz Canabrava",
+      "published_at": "2026-05-31T00:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Github.io"
+        },
+        "author": "Tomaz Canabrava",
+        "title": "Shanghai Report: Collaboration Talks with OpenKylin",
+        "description": "Back in March at FOSSASIA in Bangkok, I got invited to visit the OpenKylin team in Shanghai. I mentioned it briefly at the end of that report, and here we are — the follow-up post.",
+        "url": "https://tcanabrava.github.io/openkylin-shanghai/",
+        "urlToImage": null,
+        "publishedAt": "2026-05-31T00:00:00Z",
+        "content": "Back in March at FOSSASIA in Bangkok, I got invited to visit the OpenKylin team in Shanghai. I mentioned it briefly at the end of that report, and here we are the follow-up post.\r\nThe meeting took pl… [+4417 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "上海报告提到与OpenKylin的合作谈判。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_4da4710ee90c",
+      "title": "2027: ADC must not fail Nigerians, says Mark",
+      "content": "David Mark, ADC National Chairman, urges party not to fail Nigerians seeking credible alternatives amid economic hardship and insecurity ahead of 2027 elec\n\nRead More: https://punchng.com/2027-adc-must-not-fail-nigerians-says-mark/",
+      "url": "https://punchng.com/2027-adc-must-not-fail-nigerians-says-mark/",
+      "source": "The Punch",
+      "source_type": "news",
+      "author": "Punch Newspapers",
+      "published_at": "2026-05-31T01:01:32Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Punch"
+        },
+        "author": "Punch Newspapers",
+        "title": "2027: ADC must not fail Nigerians, says Mark",
+        "description": "David Mark, ADC National Chairman, urges party not to fail Nigerians seeking credible alternatives amid economic hardship and insecurity ahead of 2027 elec\n\nRead More: https://punchng.com/2027-adc-must-not-fail-nigerians-says-mark/",
+        "url": "https://punchng.com/2027-adc-must-not-fail-nigerians-says-mark/",
+        "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/04/25164654/678816024_1804523720988680_3524843818609969645_n.jpg",
+        "publishedAt": "2026-05-31T01:01:32Z",
+        "content": "The National Chairman of the African Democratic Congress, David Mark, has said millions of Nigerians who are frustrated by worsening economic hardship and insecurity are searching for a credible poli… [+4880 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Mark 强调 ADC 不应辜负尼日利亚人。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及尼日利亚市场",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注尼日利亚市场动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_15eec9bbca25",
+      "title": "Transitional Mandate versus Institutional Continuity",
+      "content": "Nepal is no longer merely passing through a routine democratic cycle. The country is entering a deeper phase of political transition in which public expectations are shifting from symbolic republicanism toward demands for state effectiveness, institutional re…",
+      "url": "https://english.khabarhub.com/2026/31/551222/",
+      "source": "Khabarhub.com",
+      "source_type": "news",
+      "author": "Binoj Basnyat",
+      "published_at": "2026-05-31T00:15:04Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Khabarhub.com"
+        },
+        "author": "Binoj Basnyat",
+        "title": "Transitional Mandate versus Institutional Continuity",
+        "description": "Nepal is no longer merely passing through a routine democratic cycle. The country is entering a deeper phase of political transition in which public expectations are shifting from symbolic republicanism toward demands for state effectiveness, institutional re…",
+        "url": "https://english.khabarhub.com/2026/31/551222/",
+        "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2026/05/Khabar-Hub-Article_Binoj-Basnyat_1200px-630X-px-Final_2026.05.29-Upload-1.jpg",
+        "publishedAt": "2026-05-31T00:15:04Z",
+        "content": "Nepal is no longer merely passing through a routine democratic cycle. The country is entering a deeper phase of political transition in which public expectations are shifting from symbolic republican… [+18558 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional compliance",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "讨论了加密货币行业的监管政策变化。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化，调整业务策略。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "title": "The Funding: How crypto hedge funds are navigating weak markets",
+      "description": "As crypto markets remain weak, fund managers say asset selection, fundamentals, and alpha matter more than ever.",
+      "url": "https://www.theblock.co/post/403128/the-funding-how-crypto-hedge-funds-are-navigating-weak-markets?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-06-01T03:33:52",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "加密对冲基金在弱市中强调资产选择和基本面重要性。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态以调整策略",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "title": "How President Trump’s Immigration Order Will Feed the Stablecoin Economy, Bitcoin ATMs",
+      "description": "When the Trump family faced pressure from banks, it embraced crypto. Now, immigrants who are in the U.S. illegally face a similar choice.",
+      "url": "https://decrypt.co/369479/how-president-trump-immigration-order-feed-stablecoin-bitcoin-atms",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-05-31T15:49:18",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "特朗普移民令可能推动稳定币经济发展。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及移民与加密选择",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注移民政策对加密市场的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "NALA Secures $50 Million Credit Facility To Scale Global Stablecoin Payments Infrastructure - Pulse 2.0",
+      "description": "NALA Secures $50 Million Credit Facility To Scale Global Stablecoin Payments Infrastructure&nbsp;&nbsp;Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbUxnV3lRVmdsUW1ZNUpwMDlocUNBS01pcHBkMERVbHVTYWFZM2pNTVdjLUxaUGMweXAzemthWWZVRFJaYUxoVFo2UWpROVV4NG1SaWFDdkV4NS04ZXR5RUpnSXVOVENlUk4yWElCdFVkSWRXejFZNTVyX2VIQmVMb2JhM0g4WTBCUHlaaVlaSjhMMFVaUTQzX3ZDWTZtSVBqdWpNc2FsR01seGxaeUNn0gG0AUFVX3lxTE1Da1hlOWNwM0Y5TTR1S2xJUEpISGh4MXdubWRGRlJHVnExekIzT0VMUUd6VlMwMzJ5d3VfQnUwajljcXg3elEzNUQwQ1I2U3UtemVSVFJrQ2JJcUV2dzc4c3lFWklwY2QyM09MeXV5TzIwTG5FLVlraldhYlBkRnZfelExa1dvYWI1RVhjU1JhT0ZWdFp5ZTc3Ui1CNFVFODZMY2NDeDd4d1FwMmFDWlVnOXp3bw?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-05-31T20:52:39",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "NALA获得5000万美元信贷以扩展稳定币支付基础设施。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币支付基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币支付市场动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Hong Kong Pushes Ahead With Regulated Stablecoin Rollout - Crowdfund Insider",
+      "description": "Hong Kong Pushes Ahead With Regulated Stablecoin Rollout&nbsp;&nbsp;Crowdfund Insider",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQzNRcXhNLU84N1IzcmljTnEtc1R6VGh6M0g1WmdmQkx5NE13SlZubV9mMGxjOC1sM0x4SnE3M0FNc3FscUxSQXNFS05uSkVySVNUWFByM0dYczMya3VVVERwMnpCcFFlYzZnWjlkN1d2VlRhTlk0ZTIxUnJsYXpNSFhpMnZhQm4tZ0lHZXRBa0c?oc=5",
+      "source": "Google News (stablecoin regulation Hong Kong)",
+      "source_category": "google_news",
+      "published_at": "2026-05-31T15:55:13",
+      "data_type": "rss",
+      "search_keyword": "stablecoin regulation Hong Kong",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "香港推进受监管的稳定币发行。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币监管动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注香港稳定币政策变化。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    }
+  ]
+}
