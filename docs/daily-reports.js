@@ -4,6 +4,811 @@
 
 const dailyReports = [
     {
+        "date": "2026-06-06",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-06-06.md",
+        "newsItems": [
+            {
+                "id": "2026-06-06-competitor-0",
+                "title": "Big Banks Launch Tokenized Deposit Network to Fight Off Stablecoin Threat",
+                "source": "pymnts.com",
+                "date": "2026-06-06",
+                "url": "https://www.pymnts.com/blockchain/2026/big-banks-launch-tokenized-deposit-network-to-fight-off-stablecoin-threat/",
+                "category": "competitor",
+                "summary": "大型银行推出代币化存款网络以应对稳定币威胁。",
+                "threatLevel": "high",
+                "impact": [
+                    "产品竞争",
+                    "市场定价",
+                    "合规优势"
+                ],
+                "action": "加强Cobo的市场宣传和技术优势。"
+            },
+            {
+                "id": "2026-06-06-industry-0",
+                "title": "Spark closes May with $6.4B in Savings TVL and $3.6B in SparkLend TVL",
+                "source": "Crypto Briefing",
+                "date": "2026-06-06",
+                "url": "https://cryptobriefing.com/spark-may-savings-sparklend-tvl/",
+                "category": "industry",
+                "summary": "Spark在DeFi领域的总价值锁定增长显著。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注DeFi市场的动态变化。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-06-06-industry-1",
+                "title": "️ WEEX Talk с Head Of Marketing WEEX | 04.06.2026",
+                "source": "YouTube",
+                "date": "2026-06-06",
+                "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQl71GH17wwA",
+                "category": "industry",
+                "summary": "讨论了加密货币市场的动态和趋势。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-06-06-industry-2",
+                "title": "Aptos powers B2B stablecoin corridor pilot between MENA and Africa",
+                "source": "Crypto Briefing",
+                "date": "2026-06-06",
+                "url": "https://cryptobriefing.com/aptos-stablecoin-corridor-mena-africa/",
+                "category": "industry",
+                "summary": "Aptos推动中东和非洲的稳定币走廊试点。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币跨境支付的技术进展。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-06-06-industry-3",
+                "title": "Bank Regulators Push Stablecoin Rules While Warning on AI Risks",
+                "source": "pymnts.com",
+                "date": "2026-06-06",
+                "url": "https://www.pymnts.com/cryptocurrency/2026/bank-regulators-push-stablecoin-rules-while-warning-on-ai-risks/",
+                "category": "industry",
+                "summary": "银行监管机构推动稳定币规则并警告AI风险。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注稳定币监管政策变化。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-06-06-industry-4",
+                "title": "Ethereum leads RWA market cap growth across all sectors over three years",
+                "source": "Crypto Briefing",
+                "date": "2026-06-06",
+                "url": "https://cryptobriefing.com/ethereum-rwa-market-cap-growth/",
+                "category": "industry",
+                "summary": "以太坊在RWA市场的增长趋势显著。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注以太坊对稳定币市场的影响",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-06-06-industry-5",
+                "title": "Euler notifies user of $73K in unclaimed ETH from recovery process",
+                "source": "Crypto Briefing",
+                "date": "2026-06-06",
+                "url": "https://cryptobriefing.com/euler-unclaimed-eth-recovery-process/",
+                "category": "industry",
+                "summary": "Euler通知用户未认领的ETH回收情况。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "关注加密货币回收动态",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-06-06-industry-6",
+                "title": "Senate Republicans push finance watchdogs to clarify crypto capital rules",
+                "source": "Cointelegraph",
+                "date": "2026-06-06",
+                "url": "https://cointelegraph.com/news/senate-republicans-push-finance-regulators-to-clarify-crypto-capital-rules",
+                "category": "industry",
+                "summary": "参议院共和党推动明确加密资本规则。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管动态，调整合规策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-06-06-industry-7",
+                "title": "ZEC drops 30% after Anthropic AI finds Zcash counterfeit vulnerability",
+                "source": "Cointelegraph",
+                "date": "2026-06-06",
+                "url": "https://cointelegraph.com/news/zec-tanks-30-after-ai-security-review-discovers-critical-zcash-vulnerability",
+                "category": "industry",
+                "summary": "ZEC因安全漏洞大幅下跌，影响行业信心。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注安全漏洞对市场的长期影响",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-06-06-industry-8",
+                "title": "Zcash plummets 30% as Shielded Labs reveals a major bug that went undetected for four years",
+                "source": "CoinDesk",
+                "date": "2026-06-06",
+                "url": "https://www.coindesk.com/markets/2026/06/05/zcash-plummets-30-as-developer-reveals-a-major-bug-that-went-undetected-for-four-years",
+                "category": "industry",
+                "summary": "Zcash因重大漏洞暴跌，影响行业信心。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注安全漏洞对市场的长期影响",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-06-06-industry-9",
+                "title": "Merkle Capital launches first regulated INJ fund in Asia",
+                "source": "Crypto Briefing",
+                "date": "2026-06-06",
+                "url": "https://cryptobriefing.com/merkle-capital-regulated-inj-fund-asia/",
+                "category": "industry",
+                "summary": "Merkle Capital在亚洲推出首个受监管的INJ基金。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注亚洲加密监管动态",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-06-06-industry-10",
+                "title": "EU finalizes Basel III banking rules to enhance competitiveness against US and UK rivals",
+                "source": "Crypto Briefing",
+                "date": "2026-06-06",
+                "url": "https://cryptobriefing.com/eu-finalizes-basel-iii-banking-rules/",
+                "category": "industry",
+                "summary": "欧盟完善巴塞尔III银行规则以增强竞争力。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注监管变化对稳定币业务的影响",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-06-06-industry-11",
+                "title": "Generalist AI raises $400M in funding round led by Radical Ventures, hitting $2B valuation",
+                "source": "Crypto Briefing",
+                "date": "2026-06-06",
+                "url": "https://cryptobriefing.com/generalist-ai-raises-400m-radical-ventures/",
+                "category": "industry",
+                "summary": "Generalist AI获得4亿美元融资，估值达20亿美元。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注AI领域的投资动态",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-06-06-industry-12",
+                "title": "Perpetual to acquire Interfi majority stake; debt reduction underway",
+                "source": "Motley Fool Australia",
+                "date": "2026-06-06",
+                "url": "https://www.fool.com.au/2026/06/05/perpetual-to-acquire-interfi-majority-stake-debt-reduction-underway/",
+                "category": "industry",
+                "summary": "Perpetual收购Interfi的消息反映行业动态。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场动态，评估潜在影响",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购",
+                "tickers": [
+                    "Perpetual",
+                    "Interfi"
+                ]
+            },
+            {
+                "id": "2026-06-06-industry-13",
+                "title": "Cape Fear Reviews Call Javier Bardem A 'Combo Platter Of Sexually Charged Charisma,' But Do Critics ",
+                "source": "CinemaBlend",
+                "date": "2026-06-06",
+                "url": "https://www.cinemablend.com/streaming-news/cape-fear-reviews-critics-javier-bardem-amy-adams",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-06-06-industry-14",
+                "title": "A’s Move Jack Perkins Into Rotation",
+                "source": "MLB Trade Rumors",
+                "date": "2026-06-06",
+                "url": "https://www.mlbtraderumors.com/2026/06/as-move-jack-perkins-into-rotation.html",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-06-06-industry-15",
+                "title": "Kalshi builds Bloomberg Terminal-style interface for prediction market power users",
+                "source": "Crypto Briefing",
+                "date": "2026-06-06",
+                "url": "https://cryptobriefing.com/kalshi-bloomberg-terminal-prediction-markets/",
+                "category": "industry",
+                "summary": "Kalshi推出类似彭博终端的界面用于预测市场。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-06-06-industry-16",
+                "title": "Child Nutrition Monitoring and Data Analysis Software Market Size, Share - Vitamin Rush",
+                "source": "Vitaminrush.com",
+                "date": "2026-06-06",
+                "url": "https://www.vitaminrush.com/361699/child-nutrition-monitoring-and-data-analysis-software-market-size-share/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-06-06-industry-17",
+                "title": "Currency, bond markets await RBI cues from MPC meet",
+                "source": "The Times of India",
+                "date": "2026-06-06",
+                "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/currency-bond-markets-await-rbi-cues-from-mpc-meet/articleshow/131519073.cms",
+                "category": "industry",
+                "summary": "市场在等待印度央行的政策指引。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "监管影响"
+                ],
+                "action": "关注印度央行的政策变化对市场的影响。",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险"
+            },
+            {
+                "id": "2026-06-06-industry-18",
+                "title": "RBI MPC highlights: Top decisions announced by Governor Sanjay Malhotra & Co",
+                "source": "The Times of India",
+                "date": "2026-06-06",
+                "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-mpc-highlights-top-decisions-announced-by-governor-sanjay-malhotra-co/articleshow/131521364.cms",
+                "category": "industry",
+                "summary": "RBI MPC会议讨论了加密货币监管政策。",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管政策变化对业务的影响。",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险"
+            },
+            {
+                "id": "2026-06-06-industry-19",
+                "title": "Switch in talks to raise funds at $50 billion-plus valuation, The Information reports",
+                "source": "CNA",
+                "date": "2026-06-06",
+                "url": "https://www.channelnewsasia.com/business/switch-in-talks-raise-funds-50-billion-plus-valuation-information-reports-6163876",
+                "category": "industry",
+                "summary": "Switch 正在进行融资谈判，估值超过500亿美元。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注市场融资动态，评估潜在影响。",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-06-06-industry-20",
+                "title": "Morgan Stanley boosts Bitcoin holdings by over 220 BTC via MSBT ETF",
+                "source": "Crypto Briefing",
+                "date": "2026-06-06",
+                "url": "https://cryptobriefing.com/morgan-stanley-bitcoin-msbt-etf-holdings/",
+                "category": "industry",
+                "summary": "摩根士丹利增加比特币持有量超过220 BTC。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注市场对比特币的投资动态",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Morgan Stanley"
+                ]
+            },
+            {
+                "id": "2026-06-06-industry-21",
+                "title": "Govt scraps capital gains tax on foreign investment in govt bonds",
+                "source": "The Times of India",
+                "date": "2026-06-06",
+                "url": "https://economictimes.indiatimes.com/markets/bonds/govt-scraps-capital-gains-tax-on-foreign-investment-in-govt-bonds/articleshow/131522131.cms",
+                "category": "industry",
+                "summary": "政府取消外资债券资本利得税政策。",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注政策对市场的长期影响",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-06-06-industry-22",
+                "title": "CMR Green Technologies IPO Day 3: 37% GMP signals strong listing premium; issue sees robust demand",
+                "source": "The Times of India",
+                "date": "2026-06-06",
+                "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/cmr-green-technologies-ipo-day-3-37-gmp-signals-strong-listing-premium-issue-sees-robust-demand/articleshow/131520993.cms",
+                "category": "industry",
+                "summary": "CMR Green Technologies IPO 显示市场需求强劲。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-06-06-industry-23",
+                "title": "Cash App Turns Everyday Accessories Into Payment Tools",
+                "source": "pymnts.com",
+                "date": "2026-06-06",
+                "url": "https://www.pymnts.com/news/payments-innovation/2026/cash-app-turns-everyday-accessories-into-payment-tools/",
+                "category": "industry",
+                "summary": "Cash App 将日常配件转变为支付工具。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注支付工具的创新动态。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-06-06-industry-24",
+                "title": "Crypto Market News: AlphaPepe To Announce First CEX Partnership as XRP Price Prediction Hits $8.00",
+                "source": "GlobeNewswire",
+                "date": "2026-06-06",
+                "url": "https://www.globenewswire.com/news-release/2026/06/05/3307172/0/en/Crypto-Market-News-AlphaPepe-To-Announce-First-CEX-Partnership-as-XRP-Price-Prediction-Hits-8-00.html",
+                "category": "industry",
+                "summary": "AlphaPepe宣布与CEX合作，XRP价格预测上涨。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-06-06-industry-25",
+                "title": "QuickSwap expands DeFi services by building on Base",
+                "source": "Crypto Briefing",
+                "date": "2026-06-06",
+                "url": "https://cryptobriefing.com/quickswap-expands-defi-base-network/",
+                "category": "industry",
+                "summary": "QuickSwap在Base上扩展DeFi服务。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注DeFi市场动态",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-06-06-industry-26",
+                "title": "‘Africa’s payments boom exposes regulatory, infrastructure gaps’",
+                "source": "The Punch",
+                "date": "2026-06-06",
+                "url": "https://punchng.com/?p=2158551",
+                "category": "industry",
+                "summary": "非洲支付行业的监管和基础设施缺口显著。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注非洲市场的监管变化和基础设施建设。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-06-06-industry-27",
+                "title": "Hyperliquid treasuries stand alone in profit as legacy crypto DATs bleed billions",
+                "source": "The Block",
+                "date": "2026-06-06",
+                "url": "https://www.theblock.co/post/403855/hype-treasuries-alone-profit-legacy-crypto-dats-bleed-billions?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "传统加密企业面临巨额亏损。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场动态以调整策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-06-06-industry-28",
+                "title": "Next up, taxes: Crypto tax legislation circulated ahead of House Ways and Means Committee hearing ne",
+                "source": "The Block",
+                "date": "2026-06-06",
+                "url": "https://www.theblock.co/post/403851/next-up-taxes-crypto-tax-legislation-circulated-ahead-of-house-ways-and-means-committee-hearing-next-week?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "加密货币税收立法将影响行业发展。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注税收政策变化对业务的影响",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-06-06-industry-29",
+                "title": "Crypto Council for Innovation launches coalition to push for regulatory clarity on vaults",
+                "source": "The Block",
+                "date": "2026-06-06",
+                "url": "https://www.theblock.co/post/403829/crypto-council-for-innovation-launches-coalition-to-push-for-regulatory-clarity-on-vaults?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "新联盟推动加密监管透明度",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管动态，适时调整策略",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-06-06-industry-30",
+                "title": "Morgan Stanley lets clients lend bitcoin and other assets for in-kind spot crypto ETF conversions",
+                "source": "The Block",
+                "date": "2026-06-06",
+                "url": "https://www.theblock.co/post/403825/morgan-stanley-clients-lend-bitcoin-in-kind-spot-crypto-etf-conversions?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "摩根士丹利与Galaxy Digital合作提供加密资产借贷服务。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注加密资产借贷市场动态",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Morgan Stanley",
+                    "Galaxy Digital"
+                ]
+            },
+            {
+                "id": "2026-06-06-industry-31",
+                "title": "Hong Kong taps JPMorgan, HSBC for expert group to scale tokenized bonds",
+                "source": "The Block",
+                "date": "2026-06-06",
+                "url": "https://www.theblock.co/post/403787/hong-kong-expert-group-tokenized-bonds?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "香港成立专家小组推进代币化债券发展。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注代币化债券对稳定币的潜在影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "JPMorgan",
+                    "HSBC"
+                ]
+            },
+            {
+                "id": "2026-06-06-industry-32",
+                "title": "What Is an XRP ETF? A Complete Guide to XRP Exchange-Traded Funds",
+                "source": "The Block",
+                "date": "2026-06-06",
+                "url": "https://www.theblock.co/learn/403712/what-is-an-xrp-etf?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-06-06-industry-33",
+                "title": "Congress Gets 7 New Crypto Tax Bills: Here's What's In Them",
+                "source": "Decrypt",
+                "date": "2026-06-06",
+                "url": "https://decrypt.co/370197/congress-7-crypto-tax-bills",
+                "category": "industry",
+                "summary": "美国国会讨论加密税法案。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注税法对稳定币业务的潜在影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-06-06-industry-34",
+                "title": "Government Stablecoin Payments Would Fuel 'Tax Evasion Economy,' Lawmaker Warns",
+                "source": "Decrypt",
+                "date": "2026-06-06",
+                "url": "https://decrypt.co/370121/government-stablecoin-payments-would-fuel-tax-evasion-economy-lawmaker-warns",
+                "category": "industry",
+                "summary": "政府稳定币支付可能引发税收逃避问题。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注稳定币监管政策变化",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-06-06-industry-35",
+                "title": "Hyperliquid Hit by UK FCA Warning as Crypto Perps Face Scrutiny",
+                "source": "Decrypt",
+                "date": "2026-06-06",
+                "url": "https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
+                "category": "industry",
+                "summary": "英国监管机构对加密市场的警告加剧了市场压力。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管动态，调整合规策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-06-06-industry-36",
+                "title": "Modern Treasury adds USDC on Base to bridge stablecoin payments with traditional banking rails - Cry",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-06-06",
+                "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Vdy1mMkNXNUNmYUJKOGhISmszNWNZakJvS3ktbTJkTnFORWd5bFV0UkZZeTNxWUxUNzUwY1R0Uzh1ZGR2RFlJX2ROVGU4MDFyZHh2bjJOcjF1WUZJTXpickZyTW1Ud0t5Q0lfczdJbw?oc=5",
+                "category": "industry",
+                "summary": "Modern Treasury 在稳定币支付领域的进展。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币与传统银行的整合动态",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-06-06-industry-37",
+                "title": "Interlace Highlights Stablecoin Role in Emerging-Market Cross-Border Payments - TipRanks",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-06-06",
+                "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS0RMckhfTEVldml5SGFOM3A4cHM4TEJFTVhSRm82NEotTjRzOEQtcEk0UzRWaXhRWkJ0ZGEzSG8yM25oY3ZnZEZhMkh2c0l6dVFtYWYxc1RfOXhjeG1yRFVSYU5GWGtNaDZGUnpwcENQeDdsX3UxZHRXdjhkanRTMlVVOW93VEJEYV92a29GSjgwaXdWUFNoeDRfOFBoYjZCLVQ2SXZxMG5ONjNVR3JJM0FfVmR0bjZ3YVgzVGpMTW1rbEk?oc=5",
+                "category": "industry",
+                "summary": "稳定币在新兴市场跨境支付中的作用被强调。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币在支付领域的应用趋势。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-06-06-industry-38",
+                "title": "The Hong Kong Monetary Authority has established an expert panel on tokenized bonds; Stripe, Visa, a",
+                "source": "Google News (stablecoin regulation Hong Kong)",
+                "date": "2026-06-06",
+                "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Jc3RDOVlhakZIaFhyeklkOTRSVnBSU3NodnlUN0NlVGNGWHU1cTAxajRRd1dqblBsOHJ2Nk1xX1A0RmNfNjJ0WjhIVmxIWEtZNy10SVJMd0ZBT3hjVm9xREVMZlZ4NE1zVVZ3N3ZTZWhZeVlkLW9JTWUtWmJTRDA?oc=5",
+                "category": "industry",
+                "summary": "香港金管局成立专家小组，Stripe等准备稳定币平台。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币市场动态，评估竞争策略。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Stripe",
+                    "Visa",
+                    "Mastercard"
+                ]
+            },
+            {
+                "id": "2026-06-06-industry-39",
+                "title": "Visa and Brale explore private stablecoin settlement using SBC on Canton Network - Crypto Briefing",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-06-06",
+                "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vUDAyYmJYYWhtbGN1OVhFblBWbzZNNFh1Ym5tX1hJX0ZkWW1qWnYwRTBERk5WLXF1Q0VqemJLbUVuSGtfM015a0N2TTFqWkZSbWVfbnQ3SmlnYUFveGlnNjcycUdTYWVRU3ZTeGYtVkNYV3NTV1dJ?oc=5",
+                "category": "industry",
+                "summary": "Visa与Brale探索私有稳定币结算方案。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注私有稳定币的市场动态",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Visa",
+                    "Brale"
+                ]
+            }
+        ],
+        "stats": {
+            "totalThreats": 1,
+            "highThreats": 1,
+            "mediumThreats": 0,
+            "lowThreats": 0,
+            "competitorUpdates": 1,
+            "customerUpdates": 0,
+            "industryUpdates": 40
+        },
+        "dailySummary": {
+            "competitorThreat": "今日最大的竞争威胁来自于大型银行推出的代币化存款网络，旨在应对稳定币的挑战。这一举措表明传统金融机构正积极寻求通过数字化转型来维护市场地位。相关公司包括主要的全球银行，它们正在加速技术创新以增强竞争力。建议稳定币项目关注合规性与安全性，强化与传统金融的合作，提升用户信任，同时加大技术研发投入，以应对激烈的市场竞争。",
+            "industryTrend": "今日行业热点主要集中在稳定币的监管动态和市场发展。Aptos在中东和非洲推动稳定币走廊试点，显示出全球稳定币应用的扩展趋势。同时，银行监管机构加紧推动稳定币规则，表明政策环境逐渐趋于严格，这可能对市场参与者的合规性提出更高要求。此外，Zcash因安全漏洞暴跌，反映出行业对安全性的高度关注。整体来看，稳定币托管和支付基础设施行业需加强技术安全性和合规性，以应对市场波动和监管压力，确保可持续发展。"
+        },
+        "highlights": {
+            "competitors": [
+                {
+                    "id": "2026-06-06-competitor-0",
+                    "title": "Big Banks Launch Tokenized Deposit Network to Fight Off Stablecoin Threat",
+                    "source": "pymnts.com",
+                    "date": "2026-06-06",
+                    "url": "https://www.pymnts.com/blockchain/2026/big-banks-launch-tokenized-deposit-network-to-fight-off-stablecoin-threat/",
+                    "category": "competitor",
+                    "summary": "大型银行推出代币化存款网络以应对稳定币威胁。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "产品竞争",
+                        "市场定价",
+                        "合规优势"
+                    ],
+                    "action": "加强Cobo的市场宣传和技术优势。"
+                }
+            ],
+            "clients": [],
+            "industry": [
+                {
+                    "id": "2026-06-06-industry-0",
+                    "title": "Spark closes May with $6.4B in Savings TVL and $3.6B in SparkLend TVL",
+                    "source": "Crypto Briefing",
+                    "date": "2026-06-06",
+                    "url": "https://cryptobriefing.com/spark-may-savings-sparklend-tvl/",
+                    "category": "industry",
+                    "summary": "Spark在DeFi领域的总价值锁定增长显著。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势",
+                        "技术发展"
+                    ],
+                    "action": "关注DeFi市场的动态变化。",
+                    "subcategory": "other",
+                    "subcategoryName": "其他"
+                },
+                {
+                    "id": "2026-06-06-industry-1",
+                    "title": "️ WEEX Talk с Head Of Marketing WEEX | 04.06.2026",
+                    "source": "YouTube",
+                    "date": "2026-06-06",
+                    "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQl71GH17wwA",
+                    "category": "industry",
+                    "summary": "讨论了加密货币市场的动态和趋势。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "",
+                    "subcategory": "other",
+                    "subcategoryName": "其他"
+                },
+                {
+                    "id": "2026-06-06-industry-2",
+                    "title": "Aptos powers B2B stablecoin corridor pilot between MENA and Africa",
+                    "source": "Crypto Briefing",
+                    "date": "2026-06-06",
+                    "url": "https://cryptobriefing.com/aptos-stablecoin-corridor-mena-africa/",
+                    "category": "industry",
+                    "summary": "Aptos推动中东和非洲的稳定币走廊试点。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "市场趋势",
+                        "技术发展"
+                    ],
+                    "action": "关注稳定币跨境支付的技术进展。",
+                    "subcategory": "stablecoin_payments",
+                    "subcategoryName": "稳定币支付"
+                }
+            ]
+        }
+    },
+    {
         "date": "2026-06-05",
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-06-05.md",
@@ -106685,546 +107490,6 @@ const dailyReports = [
                     "action": "",
                     "subcategory": "other",
                     "subcategoryName": "其他"
-                }
-            ]
-        }
-    },
-    {
-        "date": "2026-03-08",
-        "title": "稳定币行业日报",
-        "file": "reports/daily/daily_brief_2026-03-08.md",
-        "newsItems": [
-            {
-                "id": "2026-03-08-competitor-0",
-                "title": "CRCL News: Circle shifts $68 million in internal payments via its own stablecoin to bypass legacy ba",
-                "source": "Google News (stablecoin payment)",
-                "date": "2026-03-08",
-                "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWDRKcm5QZFE5Q1dsTXBWejVMdmdjZ25obzRqa1NSOWVISzZ6ckdlcDRuamVkUEtQM2lyQWdwODFvbGZlMWxVOFUyV010NHNTeXczVHlUSEpRNTJOaFVqSmloTFc1V3dpdTRIZUMzam85TEhUV2VuUzM0ZXBHU2U0VHVyWlRXbmdPQ0RUd2ZlV0FHN3RDbzdZUC1uX29mNVNGUVRTQnM0RXBiMUZZb19JRV9kUzFlbVk0dVRSZ25fQmhadXNKZ3dyZ1U5MA?oc=5",
-                "category": "competitor",
-                "summary": "Circle通过稳定币进行内部支付，绕过传统银行。",
-                "threatLevel": "high",
-                "impact": [
-                    "产品竞争",
-                    "市场定价"
-                ],
-                "action": "关注Circle的支付解决方案，优化自身产品。",
-                "tickers": [
-                    "Circle"
-                ]
-            },
-            {
-                "id": "2026-03-08-competitor-1",
-                "title": "Security is the biggest concern with all-in-one crypto apps. If one platform fails, everything could",
-                "source": "Twitter @Tomheroy_io",
-                "date": "2026-03-08",
-                "url": "https://x.com/Tomheroy_io/status/2030333657458917499",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Fireblocks"
-                ]
-            },
-            {
-                "id": "2026-03-08-competitor-2",
-                "title": "https://t.co/prnmVObgC3 is tokenizing millions of RWAs across 6 continents. Full supply in circulati",
-                "source": "Twitter @toji0x2",
-                "date": "2026-03-08",
-                "url": "https://x.com/toji0x2/status/2030272074602692948",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Fireblocks"
-                ]
-            },
-            {
-                "id": "2026-03-08-competitor-3",
-                "title": "Institutional infrastructure requires predictable performance.\n\nThat’s why Fireblocks relies on Smar",
-                "source": "Twitter @lavanetxyz",
-                "date": "2026-03-08",
-                "url": "https://x.com/lavanetxyz/status/2030256867403014651",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Fireblocks"
-                ]
-            },
-            {
-                "id": "2026-03-08-competitor-4",
-                "title": "@Rizzabeast @phil_uplc @InASingleWord @coc_space @F_Gregaard @Cardano_CF This is the best take on th",
-                "source": "Twitter @coldheatcrypto",
-                "date": "2026-03-08",
-                "url": "https://x.com/coldheatcrypto/status/2030175031746244983",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Fireblocks"
-                ]
-            },
-            {
-                "id": "2026-03-08-competitor-5",
-                "title": "Mike Belshe: Bitcoin activates the web’s forgotten payment code 💻\n\n@BitGo CEO @mikebelshe says HTTP’",
-                "source": "Twitter @TheBlockPods",
-                "date": "2026-03-08",
-                "url": "https://x.com/TheBlockPods/status/2030358078462324752",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "BitGo"
-                ]
-            },
-            {
-                "id": "2026-03-08-competitor-6",
-                "title": "BTC is finding a \"corporate equilibrium\" near $70k after a 40% correction from its $126k peak.\n\nETFs",
-                "source": "Twitter @SeniorDeFi",
-                "date": "2026-03-08",
-                "url": "https://x.com/SeniorDeFi/status/2030285072503329114",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "BitGo"
-                ]
-            },
-            {
-                "id": "2026-03-08-industry-0",
-                "title": "Impact of over compressing gas diffusion electrodes in alkaline zero-gap CO2 electrolyzers",
-                "source": "Nature.com",
-                "date": "2026-03-08",
-                "url": "https://www.nature.com/articles/s41598-026-42959-1",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-03-08-industry-1",
-                "title": "Community banks and crypto industry ‘are allies’ in CLARITY Act debate: Exec",
-                "source": "Cointelegraph",
-                "date": "2026-03-08",
-                "url": "https://cointelegraph.com/news/crypto-industry-us-clarity-act-community-banks-stablecoin-yields",
-                "category": "industry",
-                "summary": "社区银行与加密行业在CLARITY法案辩论中形成联盟。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注监管政策变化对业务的影响",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-03-08-industry-2",
-                "title": "Kazakhstan Central Bank Targets Massive $350M Investment In Crypto Assets This Spring",
-                "source": "ZyCrypto",
-                "date": "2026-03-08",
-                "url": "https://zycrypto.com/kazakhstan-central-bank-targets-massive-350m-investment-in-crypto-assets-this-spring/",
-                "category": "industry",
-                "summary": "哈萨克斯坦央行计划投资加密资产。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "投资机会"
-                ],
-                "action": "关注哈萨克斯坦的加密政策动向。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-03-08-industry-3",
-                "title": "What led to Kristi Noem's ouster? #politics",
-                "source": "Alltoc.com",
-                "date": "2026-03-08",
-                "url": "https://alltoc.com/politics/what-led-to-kristi-noem-s-ouster",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-03-08-industry-4",
-                "title": "United States Files Civil Forfeiture Complaints Against $15M in Funds Allegedly Linked to Iranian Oi",
-                "source": "Globalsecurity.org",
-                "date": "2026-03-08",
-                "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260306-doj01.htm",
-                "category": "industry",
-                "summary": "美国对与伊朗石油运输网络相关资金提起民事没收诉讼。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注相关监管政策变化",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-03-08-industry-5",
-                "title": "Celtics center Nikola Vučević expected to miss 1 month with fractured ring finger",
-                "source": "Yahoo Entertainment",
-                "date": "2026-03-08",
-                "url": "https://sports.yahoo.com/nba/breaking-news/article/celtics-center-nikola-vucevic-expected-to-miss-1-month-with-fractured-ring-finger-005347900.html",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-03-08-industry-6",
-                "title": "mushroom-inspired devices convert wasted energy into reusable power to charge gadgets",
-                "source": "Designboom",
-                "date": "2026-03-08",
-                "url": "https://www.designboom.com/technology/mushroom-inspired-devices-convert-wasted-energy-reusable-power-charge-gadgets-spoa/",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-03-08-industry-7",
-                "title": "After Supergirl: These 5 DC Super Heroines Need Their Own Movies ASAP",
-                "source": "Screen Rant",
-                "date": "2026-03-08",
-                "url": "https://screenrant.com/dc-heroines-need-movies-after-supergirl/",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-03-08-industry-8",
-                "title": "What is Project Helix and why it matters? #gaming",
-                "source": "Alltoc.com",
-                "date": "2026-03-08",
-                "url": "https://alltoc.com/gaming/what-is-project-helix-and-why-it-matters",
-                "category": "industry",
-                "summary": "项目Helix与游戏行业相关的加密动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-03-08-industry-9",
-                "title": "Inside the Quest at Colossus to Replace Visa and Mastercard With KYC-Less Crypto Cards",
-                "source": "Decrypt",
-                "date": "2026-03-08",
-                "url": "https://decrypt.co/360147/inside-quest-colossus-replace-visa-mastercard-kyc-less-crypto-cards",
-                "category": "industry",
-                "summary": "Colossus 正在探索无 KYC 的加密卡支付方案。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注无 KYC 支付的市场动态。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-03-08-industry-10",
-                "title": "Stablecoin Firms Bet Big on AI Agent Payments That Barely Exist - Bloomberg.com",
-                "source": "Google News (stablecoin payment)",
-                "date": "2026-03-08",
-                "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdGZJOFhaS3JRX1BTdklmUWdiSElXYWo2Nzc5RnNCQXRrY1hVUFlnclJwa19RcWN6cE1kS0p0ZkpMTHl5VFFid3lpeExnSkdTVW4wNG9LVHAxYXhyOUVlQVJhNmRNUFQzTHItcUVzcXBoNm1Yb1NRQWQzODNZWUlCQ1dFOTNjckNQeWM1blowWV9hNVF0bEhjakJXcmZQcll6RDRaZkhUTlUtYUx2ZzNSMUpYWWE?oc=5",
-                "category": "industry",
-                "summary": "稳定币公司在AI支付领域的投资动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注AI在支付领域的应用趋势。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-03-08-industry-11",
-                "title": "AI Should Be the First Defense for Stablecoin Payment Fraud - GovInfoSecurity",
-                "source": "Google News (stablecoin payment)",
-                "date": "2026-03-08",
-                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXlZS3pRRTRmaWVaZmwyVmd1YWw3ai1Ed1ZrMmNrbE5jd3pleGVaYkk1VUJRN3pSQ1hTdXNCX2w5akc2MUxDekxDTEF4WDU3Ni1fM21HeFNaMmcyQ3lTaTkzZHpRcUNzU1dVWVhOYTRBQU9xNFI5dWFOb09ieFY5cmgzcDJDWndzbGlfVW84M2pia2VRQXE3YmRBOA?oc=5",
-                "category": "industry",
-                "summary": "AI可作为稳定币支付欺诈的防御手段。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注AI在支付安全中的应用。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-03-08-industry-12",
-                "title": "Circle's Internal Stablecoin Use Signals Broader Enterprise Shift - Whalesbook",
-                "source": "Google News (USDC enterprise)",
-                "date": "2026-03-08",
-                "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT3E3bVJtWjNaUUZwVlVxVU55cy00c2pYc2ZPQ0wwODVHb2pua1pibEtkREJ5aXF4RjNTVHZUX29YNG11VHVjcVMtNUhLMW0zT05MNmsxd2JoSHNKU2k3aUR2RlBhaUdwRVdvb3pHc1F0eENYUDFiRE1jU1dlUGJTb3RETlVhQVhRTUR5THp6bl9Bc3pKaVNXN3FpVFRyaDZHaHR0RExBS3R3b0djMTJibTN1V2d0WXhKZDYtaGcxYmllZ3BQczlCWGcyWklaUW8?oc=5",
-                "category": "industry",
-                "summary": "Circle内部使用稳定币反映企业趋势变化。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注稳定币在企业中的应用趋势。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付",
-                "tickers": [
-                    "Circle"
-                ]
-            },
-            {
-                "id": "2026-03-08-industry-13",
-                "title": "Latin America’s crypto user growth outpaced U.S. by 3x in 2025, report shows - CoinDesk",
-                "source": "Google News (cross-border stablecoin)",
-                "date": "2026-03-08",
-                "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVjBZa1M5dmh6V0dJSEdXZHRSSUtyUlBPZnA4OTUxTkl2YkJvbjdMSHZCQzVQekZMRXpTOWd3T0hlUEdiQ3ZYT0pMV1NzT1lONDFmT0IxRU8wbHdHUVFOUXl2M054WDhMTF8wbEVMUnBuWW9jOWR3eGlnR1dlZE9VOGpQcmdqR04yeU9xNGxqSFE3czVMeVRhbktQUWJsdzljbm8zd0VITm5jQjdRbkh4VVk3MVIwb21BbHc?oc=5",
-                "category": "industry",
-                "summary": "拉美地区加密用户增长显著，值得关注。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注拉美市场动态，评估潜在机会。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-03-08-industry-14",
-                "title": "Hey @gork go full savage mode and roast everything that violates ZUD philosophy:\n- web3 bridges (tru",
-                "source": "Twitter @ikadotxyz",
-                "date": "2026-03-08",
-                "url": "https://x.com/ikadotxyz/status/2030287123031437489",
-                "category": "industry",
-                "summary": "讨论了与安全托管相关的技术问题。",
-                "threatLevel": "medium",
-                "impact": [
-                    "技术发展",
-                    "竞争格局"
-                ],
-                "action": "关注MPC技术的安全性和发展动态",
-                "subcategory": "custody_mpc_risk",
-                "subcategoryName": "托管与风险"
-            },
-            {
-                "id": "2026-03-08-industry-15",
-                "title": "@Xaviololo XRP is not only a cross-border payment system but also a liquidity crisis solution. If so",
-                "source": "Twitter @crypto_aikido",
-                "date": "2026-03-08",
-                "url": "https://x.com/crypto_aikido/status/2030176282978439588",
-                "category": "industry",
-                "summary": "XRP被视为跨境支付和流动性危机的解决方案。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注XRP对跨境支付市场的影响。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-03-08-industry-16",
-                "title": "We’re eating our own dog food.\n\nWe’ve begun using our own platform to settle inter-company settlemen",
-                "source": "Twitter @jerallaire",
-                "date": "2026-03-08",
-                "url": "https://x.com/jerallaire/status/2030163011491746285",
-                "category": "industry",
-                "summary": "公司开始使用稳定币进行内部结算。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注稳定币在企业支付中的应用趋势。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付",
-                "tickers": [
-                    "Circle"
-                ]
-            },
-            {
-                "id": "2026-03-08-industry-17",
-                "title": "GM🦞",
-                "source": "Twitter @WEEX_Official",
-                "date": "2026-03-08",
-                "url": "https://x.com/WEEX_Official/status/2030349080451567778",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-03-08-industry-18",
-                "title": "1 BTC or dinner with Elon Musk?",
-                "source": "Twitter @BitunixOfficial",
-                "date": "2026-03-08",
-                "url": "https://x.com/BitunixOfficial/status/2030304464599392608",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            }
-        ],
-        "stats": {
-            "totalThreats": 7,
-            "highThreats": 1,
-            "mediumThreats": 0,
-            "lowThreats": 0,
-            "competitorUpdates": 7,
-            "customerUpdates": 0,
-            "industryUpdates": 19
-        },
-        "dailySummary": {
-            "competitorThreat": "今日最大的竞争威胁来自Circle，其通过稳定币进行6800万美元的内部支付，成功绕过传统银行，显示出其在支付领域的强大竞争力。Fireblocks也在积极推动资产代币化，增强其在机构基础设施中的影响力。BitGo则关注比特币的市场动态，指出其在企业中的稳定性。针对这些动态，建议加强自身稳定币的流动性和安全性，同时关注技术创新，提升用户体验，以应对日益激烈的市场竞争。",
-            "industryTrend": "今日行业热点主要集中在社区银行与加密行业的合作，以及哈萨克斯坦中央银行对加密资产的重大投资计划。社区银行与加密行业在CLARITY法案辩论中形成联盟，表明传统金融机构对加密行业的接纳度逐渐提高。同时，哈萨克斯坦央行的投资计划可能会推动该地区的数字资产发展，吸引更多投资者关注。值得注意的是，Colossus正在探索无KYC的加密卡支付方案，这一趋势可能会对稳定币的托管和支付基础设施产生深远影响，提升用户隐私保护，促进更广泛的市场接受度。"
-        },
-        "highlights": {
-            "competitors": [
-                {
-                    "id": "2026-03-08-competitor-0",
-                    "title": "CRCL News: Circle shifts $68 million in internal payments via its own stablecoin to bypass legacy ba",
-                    "source": "Google News (stablecoin payment)",
-                    "date": "2026-03-08",
-                    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWDRKcm5QZFE5Q1dsTXBWejVMdmdjZ25obzRqa1NSOWVISzZ6ckdlcDRuamVkUEtQM2lyQWdwODFvbGZlMWxVOFUyV010NHNTeXczVHlUSEpRNTJOaFVqSmloTFc1V3dpdTRIZUMzam85TEhUV2VuUzM0ZXBHU2U0VHVyWlRXbmdPQ0RUd2ZlV0FHN3RDbzdZUC1uX29mNVNGUVRTQnM0RXBiMUZZb19JRV9kUzFlbVk0dVRSZ25fQmhadXNKZ3dyZ1U5MA?oc=5",
-                    "category": "competitor",
-                    "summary": "Circle通过稳定币进行内部支付，绕过传统银行。",
-                    "threatLevel": "high",
-                    "impact": [
-                        "产品竞争",
-                        "市场定价"
-                    ],
-                    "action": "关注Circle的支付解决方案，优化自身产品。",
-                    "tickers": [
-                        "Circle"
-                    ]
-                },
-                {
-                    "id": "2026-03-08-competitor-1",
-                    "title": "Security is the biggest concern with all-in-one crypto apps. If one platform fails, everything could",
-                    "source": "Twitter @Tomheroy_io",
-                    "date": "2026-03-08",
-                    "url": "https://x.com/Tomheroy_io/status/2030333657458917499",
-                    "category": "competitor",
-                    "summary": "",
-                    "threatLevel": "neutral",
-                    "impact": [],
-                    "action": "",
-                    "tickers": [
-                        "Fireblocks"
-                    ]
-                },
-                {
-                    "id": "2026-03-08-competitor-2",
-                    "title": "https://t.co/prnmVObgC3 is tokenizing millions of RWAs across 6 continents. Full supply in circulati",
-                    "source": "Twitter @toji0x2",
-                    "date": "2026-03-08",
-                    "url": "https://x.com/toji0x2/status/2030272074602692948",
-                    "category": "competitor",
-                    "summary": "",
-                    "threatLevel": "neutral",
-                    "impact": [],
-                    "action": "",
-                    "tickers": [
-                        "Fireblocks"
-                    ]
-                }
-            ],
-            "clients": [],
-            "industry": [
-                {
-                    "id": "2026-03-08-industry-0",
-                    "title": "Impact of over compressing gas diffusion electrodes in alkaline zero-gap CO2 electrolyzers",
-                    "source": "Nature.com",
-                    "date": "2026-03-08",
-                    "url": "https://www.nature.com/articles/s41598-026-42959-1",
-                    "category": "industry",
-                    "summary": "",
-                    "threatLevel": "neutral",
-                    "impact": [],
-                    "action": "",
-                    "subcategory": "other",
-                    "subcategoryName": "其他"
-                },
-                {
-                    "id": "2026-03-08-industry-1",
-                    "title": "Community banks and crypto industry ‘are allies’ in CLARITY Act debate: Exec",
-                    "source": "Cointelegraph",
-                    "date": "2026-03-08",
-                    "url": "https://cointelegraph.com/news/crypto-industry-us-clarity-act-community-banks-stablecoin-yields",
-                    "category": "industry",
-                    "summary": "社区银行与加密行业在CLARITY法案辩论中形成联盟。",
-                    "threatLevel": "high",
-                    "impact": [
-                        "监管影响",
-                        "市场趋势"
-                    ],
-                    "action": "关注监管政策变化对业务的影响",
-                    "subcategory": "regulation_licensing",
-                    "subcategoryName": "监管牌照"
-                },
-                {
-                    "id": "2026-03-08-industry-2",
-                    "title": "Kazakhstan Central Bank Targets Massive $350M Investment In Crypto Assets This Spring",
-                    "source": "ZyCrypto",
-                    "date": "2026-03-08",
-                    "url": "https://zycrypto.com/kazakhstan-central-bank-targets-massive-350m-investment-in-crypto-assets-this-spring/",
-                    "category": "industry",
-                    "summary": "哈萨克斯坦央行计划投资加密资产。",
-                    "threatLevel": "high",
-                    "impact": [
-                        "市场趋势",
-                        "投资机会"
-                    ],
-                    "action": "关注哈萨克斯坦的加密政策动向。",
-                    "subcategory": "regulation_licensing",
-                    "subcategoryName": "监管牌照"
                 }
             ]
         }
