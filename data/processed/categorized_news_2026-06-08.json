@@ -1,0 +1,1257 @@
+{
+  "policy": [
+    {
+      "id": "news_51dbf9c89850",
+      "title": "Crypto Council for Innovation launches Vault Coalition to push for regulatory clarity on yield-generating vaults",
+      "content": "The coalition's proactive approach could shape future DeFi regulations, impacting investment strategies and legal frameworks in the crypto space.\nThe post Crypto Council for Innovation launches Vault Coalition to push for regulatory clarity on yield-generatin…",
+      "url": "https://cryptobriefing.com/vault-coalition-crypto-regulatory-clarity/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-07T00:58:06Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Crypto Council for Innovation launches Vault Coalition to push for regulatory clarity on yield-generating vaults",
+        "description": "The coalition's proactive approach could shape future DeFi regulations, impacting investment strategies and legal frameworks in the crypto space.\nThe post Crypto Council for Innovation launches Vault Coalition to push for regulatory clarity on yield-generatin…",
+        "url": "https://cryptobriefing.com/vault-coalition-crypto-regulatory-clarity/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
+        "publishedAt": "2026-06-07T00:58:06Z",
+        "content": "Galaxy, Morpho, a16z crypto, and BitGo anchor a new industry effort to shape how US regulators treat crypto vault structures. The Crypto Council for Innovation has assembled a coalition of heavyweigh… [+3294 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "BitGo",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Crypto Council for Innovation发起监管清晰度倡议",
+      "business_relevance": 0.7,
+      "relevance_reason": "加密货币监管相关",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，调整合规策略",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_4e2964a591be",
+      "title": "TRON lists TRX on Bitnomial to enhance regulated US access",
+      "content": "The TRX listing on Bitnomial could significantly boost TRON's US market presence, attracting institutional investors seeking regulated access.\nThe post TRON lists TRX on Bitnomial to enhance regulated US access appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/trx-bitnomial-listing-regulated-us-access/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-07T04:28:11Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "TRON lists TRX on Bitnomial to enhance regulated US access",
+        "description": "The TRX listing on Bitnomial could significantly boost TRON's US market presence, attracting institutional investors seeking regulated access.\nThe post TRON lists TRX on Bitnomial to enhance regulated US access appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/trx-bitnomial-listing-regulated-us-access/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/07002810/tron-dao-expands-regulated-u-s-access-with-bitnomial-trx-spo-1-800x420.jpeg",
+        "publishedAt": "2026-06-07T04:28:11Z",
+        "content": "The CFTC-regulated exchange now offers spot trading for TRX, giving US market participants a compliant on-ramp to the TRON ecosystem. TRX, the native token of the TRON network, is now available for s… [+2148 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "Anchorage Digital",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "TRON在Bitnomial上市以增强美国合规性。",
+      "business_relevance": 0.7,
+      "relevance_reason": "加密货币监管动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注美国市场的合规动态。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_c74dbaa354b1",
+      "title": "Apyx Finance’s apxUSD stablecoin slips to 90 cents amid STRC drop",
+      "content": "The apxUSD depeg highlights the risks of stablecoins backed by volatile assets, emphasizing the need for robust collateral management.\nThe post Apyx Finance’s apxUSD stablecoin slips to 90 cents amid STRC drop appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/apxusd-stablecoin-depeg-strc-drop/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-07T01:20:23Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Apyx Finance’s apxUSD stablecoin slips to 90 cents amid STRC drop",
+        "description": "The apxUSD depeg highlights the risks of stablecoins backed by volatile assets, emphasizing the need for robust collateral management.\nThe post Apyx Finance’s apxUSD stablecoin slips to 90 cents amid STRC drop appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/apxusd-stablecoin-depeg-strc-drop/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/06212023/introducing-apyx-double-digit-savings-for-everyone-1-800x420.png",
+        "publishedAt": "2026-06-07T01:20:23Z",
+        "content": "The dividend-backed synthetic stablecoin lost its dollar peg as Bitcoin fell below $63K, dragging down the preferred shares that collateralize it. A stablecoin is supposed to do one thing: stay at a … [+3100 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "apxUSD 稳定币价格下跌至 90 美分。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币价格波动",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态，评估潜在影响。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_53a9d007d325",
+      "title": "Ethena’s USDe launches on Mercado Bitcoin, Brazil’s largest exchange",
+      "content": "USDe's launch on Mercado Bitcoin could accelerate stablecoin adoption in Latin America, influencing regional crypto regulations and market dynamics.\nThe post Ethena’s USDe launches on Mercado Bitcoin, Brazil’s largest exchange appeared first on Crypto Briefin…",
+      "url": "https://cryptobriefing.com/ethena-usde-mercado-bitcoin-brazil/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-07T00:34:38Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Ethena’s USDe launches on Mercado Bitcoin, Brazil’s largest exchange",
+        "description": "USDe's launch on Mercado Bitcoin could accelerate stablecoin adoption in Latin America, influencing regional crypto regulations and market dynamics.\nThe post Ethena’s USDe launches on Mercado Bitcoin, Brazil’s largest exchange appeared first on Crypto Briefin…",
+        "url": "https://cryptobriefing.com/ethena-usde-mercado-bitcoin-brazil/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/06203438/ethena-labs-unveils-bold-2025-roadmap-after-reaching-6b-usde-1-800x420.jpeg",
+        "publishedAt": "2026-06-07T00:34:38Z",
+        "content": "The synthetic dollar token taps into Latin America's surging appetite for USD-denominated crypto assets. Ethena’s synthetic dollar token USDe is now live on Mercado Bitcoin, giving Brazil’s largest d… [+2686 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Ethena的稳定币在巴西交易所上线。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币及交易所",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注巴西市场动态，评估影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_27e634e52e6c",
+      "title": "House Ways and Means Committee circulates seven digital asset tax bills ahead of June 9 hearing",
+      "content": "The proposed crypto tax reforms could significantly ease compliance burdens, fostering broader adoption and reshaping digital asset economics.\nThe post House Ways and Means Committee circulates seven digital asset tax bills ahead of June 9 hearing appeared fi…",
+      "url": "https://cryptobriefing.com/house-ways-means-digital-asset-tax-bills/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-07T03:43:56Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "House Ways and Means Committee circulates seven digital asset tax bills ahead of June 9 hearing",
+        "description": "The proposed crypto tax reforms could significantly ease compliance burdens, fostering broader adoption and reshaping digital asset economics.\nThe post House Ways and Means Committee circulates seven digital asset tax bills ahead of June 9 hearing appeared fi…",
+        "url": "https://cryptobriefing.com/house-ways-means-digital-asset-tax-bills/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/06234355/house-committee-preparing-bills-to-forge-crypto-tax-structur-1-800x420.jpeg",
+        "publishedAt": "2026-06-07T03:43:56Z",
+        "content": "The proposed legislation tackles everything from de minimis exemptions to staking reward deferrals, signaling Congress is finally serious about crypto tax clarity. Seven draft bills. One hearing. And… [+5191 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "美国国会讨论数字资产税法案。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注税法变化对业务的潜在影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_79a6792dc2b2",
+      "title": "Senate blocks FISA surveillance extension ahead of June 12 expiration, with crypto implications buried in the bill",
+      "content": "The Senate's block on FISA extension highlights ongoing tensions over surveillance and digital currency, impacting future crypto regulations.\nThe post Senate blocks FISA surveillance extension ahead of June 12 expiration, with crypto implications buried in th…",
+      "url": "https://cryptobriefing.com/senate-blocks-fisa-extension-crypto-cbdc/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-07T02:30:44Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Senate blocks FISA surveillance extension ahead of June 12 expiration, with crypto implications buried in the bill",
+        "description": "The Senate's block on FISA extension highlights ongoing tensions over surveillance and digital currency, impacting future crypto regulations.\nThe post Senate blocks FISA surveillance extension ahead of June 12 expiration, with crypto implications buried in th…",
+        "url": "https://cryptobriefing.com/senate-blocks-fisa-extension-crypto-cbdc/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/06223043/us-senate-blocks-debate-on-fisa-surveillance-law-days-before-1.jpeg",
+        "publishedAt": "2026-06-07T02:30:44Z",
+        "content": "Seven Republicans joined Democrats to kill a procedural vote 47-52, letting Section 702 spy powers lapse while a House-passed anti-CBDC provision rides along for the fall. The US Senate voted 47-52 o… [+3284 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "参议院阻止FISA监控延长，影响加密监管政策。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化对业务的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_9f1c062423c3",
+      "title": "U.S. Treasury Sanctions Iran’s Nobitex Crypto Exchange Amid Regional Conflict",
+      "content": "The U.S. Treasury Department imposed sanctions on Nobitex, Iran’s largest cryptocurrency exchange, accusing it of facilitating transactions for Iran’s military, according to a Treasury statement [1]. The action, conducted by the Office of Foreign Assets Contr…",
+      "url": "https://www.naturalnews.com/2026-06-07-us-treasury-sanctions-iran-nobitex-crypto-exchange.html",
+      "source": "Naturalnews.com",
+      "source_type": "news",
+      "author": "Sterling Ashworth",
+      "published_at": "2026-06-07T06:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Naturalnews.com"
+        },
+        "author": "Sterling Ashworth",
+        "title": "U.S. Treasury Sanctions Iran’s Nobitex Crypto Exchange Amid Regional Conflict",
+        "description": "The U.S. Treasury Department imposed sanctions on Nobitex, Iran’s largest cryptocurrency exchange, accusing it of facilitating transactions for Iran’s military, according to a Treasury statement [1]. The action, conducted by the Office of Foreign Assets Contr…",
+        "url": "https://www.naturalnews.com/2026-06-07-us-treasury-sanctions-iran-nobitex-crypto-exchange.html",
+        "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/nobitex-us-treasury-sanctions-iran-1886-original.jpg",
+        "publishedAt": "2026-06-07T06:00:00Z",
+        "content": "The U.S. Treasury Department imposed sanctions on Nobitex, Irans largest cryptocurrency exchange, accusing it of facilitating transactions for Irans military, according to a Treasury statement [1]. T… [+5486 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_fd74336501fe",
+      "title": "WTO reports slowing global merchandise trade growth, signaling risks for crypto and risk assets",
+      "content": "Slowing global trade growth may dampen economic optimism, impacting risk assets like crypto, which often mirror traditional market trends.\nThe post WTO reports slowing global merchandise trade growth, signaling risks for crypto and risk assets appeared first …",
+      "url": "https://cryptobriefing.com/wto-slowing-global-trade-growth-crypto/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-07T05:15:48Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "WTO reports slowing global merchandise trade growth, signaling risks for crypto and risk assets",
+        "description": "Slowing global trade growth may dampen economic optimism, impacting risk assets like crypto, which often mirror traditional market trends.\nThe post WTO reports slowing global merchandise trade growth, signaling risks for crypto and risk assets appeared first …",
+        "url": "https://cryptobriefing.com/wto-slowing-global-trade-growth-crypto/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/07011548/file-wto-logo-svg-wikimedia-commons-1-800x420.png",
+        "publishedAt": "2026-06-07T05:15:48Z",
+        "content": "The WTO's latest trade barometer dipped to 101.7 from 102.3 in January, as projected 2026 growth drops sharply from last year's AI-fueled surge. Global trade is losing steam. The World Trade Organiza… [+2617 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "全球贸易放缓可能影响加密市场",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到全球贸易增长放缓与加密资产风险",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注全球经济变化对加密市场的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_db54005cc6c6",
+      "title": "Iran fires warning missiles and drones at US warships as crypto becomes a geopolitical weapon in the Gulf",
+      "content": "The incident highlights escalating tensions and the strategic use of cryptocurrency in geopolitical conflicts, impacting global security dynamics.\nThe post Iran fires warning missiles and drones at US warships as crypto becomes a geopolitical weapon in the Gu…",
+      "url": "https://cryptobriefing.com/iran-us-warships-gulf-oman-crypto/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-07T01:43:30Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Iran fires warning missiles and drones at US warships as crypto becomes a geopolitical weapon in the Gulf",
+        "description": "The incident highlights escalating tensions and the strategic use of cryptocurrency in geopolitical conflicts, impacting global security dynamics.\nThe post Iran fires warning missiles and drones at US warships as crypto becomes a geopolitical weapon in the Gu…",
+        "url": "https://cryptobriefing.com/iran-us-warships-gulf-oman-crypto/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/06214329/news-iran-says-it-fired-warning-missiles-drones-at-us-warshi-1-800x420.jpeg",
+        "publishedAt": "2026-06-07T01:43:30Z",
+        "content": "The Gulf of Oman confrontation highlights how Bitcoin is becoming entangled with military brinkmanship and sanctions evasion in one of the world's most critical shipping corridors. Iran’s navy says i… [+2182 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "伊朗在地缘政治中利用加密货币的潜力。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币与地缘政治",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注加密货币在国际关系中的作用。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_9498c762513b",
+      "title": "Bitcoin faces worst performance in a decade as AI stocks attract investors",
+      "content": "Bitcoin's decline highlights a strategic shift as investors prioritize AI, potentially reshaping asset allocation and market dynamics long-term.\nThe post Bitcoin faces worst performance in a decade as AI stocks attract investors appeared first on Crypto Brief…",
+      "url": "https://cryptobriefing.com/bitcoin-worst-decade-ai-stocks-rotation/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-07T01:44:23Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Bitcoin faces worst performance in a decade as AI stocks attract investors",
+        "description": "Bitcoin's decline highlights a strategic shift as investors prioritize AI, potentially reshaping asset allocation and market dynamics long-term.\nThe post Bitcoin faces worst performance in a decade as AI stocks attract investors appeared first on Crypto Brief…",
+        "url": "https://cryptobriefing.com/bitcoin-worst-decade-ai-stocks-rotation/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/06214422/bitcoin-drops-under-60-000-a-first-since-late-2024-3-1-800x420.jpeg",
+        "publishedAt": "2026-06-07T01:44:23Z",
+        "content": "Capital is flooding out of Bitcoin ETFs and into semiconductor and AI equities, dragging BTC down 15% in a single week and pushing it to its 13th spot among global assets by market cap. Bitcoin is ha… [+2446 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_f349d126140c",
+      "title": "Steve Sosnick: DOJ’s insider trading prosecutions target prediction markets, legal definitions of insider trading differ from public perception, and the Chastain case reshapes digital asset regulation | Unchained",
+      "content": "DOJ's insider trading prosecutions in prediction markets signal a major shift in legal landscape.\nThe post Steve Sosnick: DOJ’s insider trading prosecutions target prediction markets, legal definitions of insider trading differ from public perception, and the…",
+      "url": "https://cryptobriefing.com/steve-sosnick-dojs-insider-trading-prosecutions-target-prediction-markets-legal-definitions-of-insider-trading-differ-from-public-perception-and-the-chastain-case-reshapes-digital-asset-regulatio/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-07T04:48:43Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Steve Sosnick: DOJ’s insider trading prosecutions target prediction markets, legal definitions of insider trading differ from public perception, and the Chastain case reshapes digital asset regulation | Unchained",
+        "description": "DOJ's insider trading prosecutions in prediction markets signal a major shift in legal landscape.\nThe post Steve Sosnick: DOJ’s insider trading prosecutions target prediction markets, legal definitions of insider trading differ from public perception, and the…",
+        "url": "https://cryptobriefing.com/steve-sosnick-dojs-insider-trading-prosecutions-target-prediction-markets-legal-definitions-of-insider-trading-differ-from-public-perception-and-the-chastain-case-reshapes-digital-asset-regulatio/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2025/12/24141205/unchained-podcast-featured-800x420.png",
+        "publishedAt": "2026-06-07T04:48:43Z",
+        "content": "DOJ's insider trading prosecutions in prediction markets signal a major shift in legal landscape. Key takeaways\r\n<ul><li>The DOJ’s recent insider trading prosecutions against prediction market partic… [+6820 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto regulation",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "文章讨论了加密资产监管的变化和影响。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_fec8df19f76b",
+      "title": "Senate rejects warrantless surveillance law, raising doubts on its future",
+      "content": "The Senate's decision highlights growing bipartisan concerns over privacy, potentially reshaping future surveillance and tech industry regulations.\nThe post Senate rejects warrantless surveillance law, raising doubts on its future appeared first on Crypto Bri…",
+      "url": "https://cryptobriefing.com/senate-rejects-fisa-702-surveillance-reauthorization/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-07T06:03:47Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Senate rejects warrantless surveillance law, raising doubts on its future",
+        "description": "The Senate's decision highlights growing bipartisan concerns over privacy, potentially reshaping future surveillance and tech industry regulations.\nThe post Senate rejects warrantless surveillance law, raising doubts on its future appeared first on Crypto Bri…",
+        "url": "https://cryptobriefing.com/senate-rejects-fisa-702-surveillance-reauthorization/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/07020347/senate-rejects-an-initial-attempt-to-ban-trump-s-1-8-billion-1-800x420.jpeg",
+        "publishedAt": "2026-06-07T06:03:47Z",
+        "content": "A 52-47 vote fell short of the 60 needed to advance FISA Section 702 reauthorization, with the program set to expire on June 12. The US Senate voted 52-47 on June 5 to block advancement of a bill tha… [+3642 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto regulation",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "参议院拒绝无证监控法案，影响监管环境。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及监管政策",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化对业务的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_3a9404f06145",
+      "title": "Revolut plans secondary share sale at $115B valuation",
+      "content": "Revolut's potential $115B valuation highlights fintech's growing parity with traditional banks, signaling a shift in financial industry dynamics.\nThe post Revolut plans secondary share sale at $115B valuation appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/revolut-secondary-share-sale-115b-valuation/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-07T05:39:51Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Revolut plans secondary share sale at $115B valuation",
+        "description": "Revolut's potential $115B valuation highlights fintech's growing parity with traditional banks, signaling a shift in financial industry dynamics.\nThe post Revolut plans secondary share sale at $115B valuation appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/revolut-secondary-share-sale-115b-valuation/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/07013950/revolut-is-reportedly-exploring-a-secondary-share-sale-at-a--1.jpeg",
+        "publishedAt": "2026-06-07T05:39:51Z",
+        "content": "The UK digital bank's proposed deal would mark a 53% jump from its $75B valuation just seven months ago, potentially making CEO Nik Storonsky worth over $36B. Revolut is eyeing a secondary share sale… [+2356 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto license",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "Revolut"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Revolut计划进行二次股权销售，估值1150亿美元。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到金融科技动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注Revolut的市场动态和估值变化。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_99de832d7e91",
+      "title": "Pump.fun launches bounty platform for viral memecoin stunts with rewards up to $57,000",
+      "content": "Pump.fun's bounty platform could drive increased Solana network activity but raises ethical concerns over incentivizing risky behavior.\nThe post Pump.fun launches bounty platform for viral memecoin stunts with rewards up to $57,000 appeared first on Crypto Br…",
+      "url": "https://cryptobriefing.com/pump-fun-go-bounty-platform-memecoin-stunts/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-07T02:54:01Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Pump.fun launches bounty platform for viral memecoin stunts with rewards up to $57,000",
+        "description": "Pump.fun's bounty platform could drive increased Solana network activity but raises ethical concerns over incentivizing risky behavior.\nThe post Pump.fun launches bounty platform for viral memecoin stunts with rewards up to $57,000 appeared first on Crypto Br…",
+        "url": "https://cryptobriefing.com/pump-fun-go-bounty-platform-memecoin-stunts/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/06225401/pump-fun-go-bounty-platform-sparks-backlash-over-extreme-cry-1-800x420.jpeg",
+        "publishedAt": "2026-06-07T02:54:01Z",
+        "content": "The Solana-based memecoin launchpad's new GO platform already has over 230 live bounties and $100,000 in escrow, offering crypto rewards for everything from forehead tattoos to skydiving into World C… [+2988 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Pump.fun推出了一个用于病毒性memecoin活动的赏金平台。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币和奖励机制",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注memecoin市场动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_beb5426fa716",
+      "title": "Inclusive wealth creation key to market growth, says NGX",
+      "content": "NGX Group CEO, Temi Popoola, highlights inclusive wealth creation as vital for Nigeria’s capital market growth and long-term economic strength. Discover ho\n\nRead More: https://punchng.com/inclusive-wealth-creation-key-to-market-growth-says-ngx/",
+      "url": "https://punchng.com/inclusive-wealth-creation-key-to-market-growth-says-ngx/",
+      "source": "The Punch",
+      "source_type": "news",
+      "author": "Punch Newspapers",
+      "published_at": "2026-06-07T00:00:37Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Punch"
+        },
+        "author": "Punch Newspapers",
+        "title": "Inclusive wealth creation key to market growth, says NGX",
+        "description": "NGX Group CEO, Temi Popoola, highlights inclusive wealth creation as vital for Nigeria’s capital market growth and long-term economic strength. Discover ho\n\nRead More: https://punchng.com/inclusive-wealth-creation-key-to-market-growth-says-ngx/",
+        "url": "https://punchng.com/inclusive-wealth-creation-key-to-market-growth-says-ngx/",
+        "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/07/12182201/stock-exchange-NSE-e1475170356501.jpg",
+        "publishedAt": "2026-06-07T00:00:37Z",
+        "content": "the Group Managing Director and Chief Executive Officer of Nigerian Exchange Group Plc, Temi Popoola, has stated that Nigerias capital market should evolve beyond wealth generation to promoting prosp… [+6183 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "市场增长与财富创造的关系被强调。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到市场增长与财富创造",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注市场增长的潜在机会",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_e4840be1198e",
+      "title": "Marlon Wayans Reveals Melissa Joan Hart Was Supposed To Play Anna Faris’ Role In ‘Scary Movie’",
+      "content": "Anna Faris’ iconic role as Cindy in the horror parody feature film series Scary Movie almost went to another actress, revealed writer, producer and star Marlon Wayans. In a recent interview with Entertainment Tonight, Faris asked Marlon Wayans and Shawn Wayan…",
+      "url": "http://deadline.com/2026/06/melissa-joan-hart-scary-movie-anna-faris-wayans-brothers-1236942910/",
+      "source": "Deadline",
+      "source_type": "news",
+      "author": "Natalie Oganesyan",
+      "published_at": "2026-06-07T02:29:02Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Deadline"
+        },
+        "author": "Natalie Oganesyan",
+        "title": "Marlon Wayans Reveals Melissa Joan Hart Was Supposed To Play Anna Faris’ Role In ‘Scary Movie’",
+        "description": "Anna Faris’ iconic role as Cindy in the horror parody feature film series Scary Movie almost went to another actress, revealed writer, producer and star Marlon Wayans. In a recent interview with Entertainment Tonight, Faris asked Marlon Wayans and Shawn Wayan…",
+        "url": "http://deadline.com/2026/06/melissa-joan-hart-scary-movie-anna-faris-wayans-brothers-1236942910/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2026/06/scary-movie-1.jpg?w=1000",
+        "publishedAt": "2026-06-07T02:29:02Z",
+        "content": "Anna Faris‘ iconic role as Cindy in the horror parody feature film series Scary Movie almost went to another actress, revealed writer, producer and star Marlon Wayans.\r\nIn a recent interview with Ent… [+1299 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series A",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_761045abe0b3",
+      "title": "Bitcoin, Ethereum see largest weekly drop since FTX, market cap down $390B",
+      "content": "The significant drop in Bitcoin and Ethereum highlights increased market volatility and a potential shift in investor focus away from cryptocurrencies.\nThe post Bitcoin, Ethereum see largest weekly drop since FTX, market cap down $390B appeared first on Crypt…",
+      "url": "https://cryptobriefing.com/bitcoin-ethereum-see-largest-weekly-drop-since-ftx-market-cap-down-390b/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-06-07T06:16:43Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Bitcoin, Ethereum see largest weekly drop since FTX, market cap down $390B",
+        "description": "The significant drop in Bitcoin and Ethereum highlights increased market volatility and a potential shift in investor focus away from cryptocurrencies.\nThe post Bitcoin, Ethereum see largest weekly drop since FTX, market cap down $390B appeared first on Crypt…",
+        "url": "https://cryptobriefing.com/bitcoin-ethereum-see-largest-weekly-drop-since-ftx-market-cap-down-390b/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/07021642/BTCfullsize-16-457x457.png",
+        "publishedAt": "2026-06-07T06:16:43Z",
+        "content": "Bitcoin and Ethereum prices have experienced their steepest weekly declines since the FTX collapse, with Bitcoin dropping 17.3% and Ethereum 22%, leading to a $390 billion reduction in market cap. An… [+1498 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "比特币和以太坊价格大幅下跌，市场影响显著。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场变化，调整策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_b89290f055d3",
+      "title": "Midas powers Ether.fi’s second Liquid RWA vault in partnership with Plume Network",
+      "content": "Ether.fi's new vault expands access to tokenized traditional assets, diversifying investor portfolios but introducing distinct market risks.\nThe post Midas powers Ether.fi’s second Liquid RWA vault in partnership with Plume Network appeared first on Crypto Br…",
+      "url": "https://cryptobriefing.com/midas-etherfi-liquid-rwa-vault-plume/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-07T00:32:46Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Midas powers Ether.fi’s second Liquid RWA vault in partnership with Plume Network",
+        "description": "Ether.fi's new vault expands access to tokenized traditional assets, diversifying investor portfolios but introducing distinct market risks.\nThe post Midas powers Ether.fi’s second Liquid RWA vault in partnership with Plume Network appeared first on Crypto Br…",
+        "url": "https://cryptobriefing.com/midas-etherfi-liquid-rwa-vault-plume/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/06203245/ether-fi-allocates-100m-to-plume-rwa-vault-1-800x420.jpeg",
+        "publishedAt": "2026-06-07T00:32:46Z",
+        "content": "Ether.fi commits $100M to the new vault, giving its $6B deposit base access to institutional-grade real-world asset yields. Ether.fi just dropped $100 million into a new Liquid RWA vault built on Mid… [+1658 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "Midas",
+        "Ether.fi",
+        "Plume Network"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Midas与Ether.fi合作推出Liquid RWA金库。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到DeFi和区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注DeFi和RWA市场动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "What Is Crypto Market Structure? A Guide to How Crypto Markets Work",
+      "description": "Crypto market structure refers to the framework of participants, platforms, rules, and infrastructure that comprise the digital asset markets. It includes crypto exchanges, brokers, custodians, market makers, token issuers, investors, and the regulators that oversee them. When lawmakers and analysts talk about “crypto market structure,” they are usually talking about who is allowed to do [&hellip;]",
+      "url": "https://www.theblock.co/learn/403749/what-is-crypto-market-structure?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-06-08T02:05:08",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "加密市场结构影响稳定币托管业务。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密市场结构",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场结构变化，调整策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "JPMorgan says Strategy may need to rebuild dollar reserves to restore confidence",
+      "description": "JPMorgan said crypto's outlook depends on Strategy's dividend plan and the Clarity Act, for which it now sees less than a 50% chance of passage this year.",
+      "url": "https://www.theblock.co/post/403905/jpmorgan-strategy-dollar-reserves-crypto-bill-chance?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-06-07T17:08:36",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "JPMorgan 认为加密货币前景受监管政策影响。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化对市场的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Bybit follows Kraken in offering tokenized SpaceX IPO access via xStocks",
+      "description": "The product is built on Payward's xStocks framework, the tokenized equities platform Kraken acquired through its purchase of Backed Finance in late 2025.",
+      "url": "https://www.theblock.co/post/403893/bybit-follows-kraken-in-offering-tokenized-spacex-ipo-access-via-xstocks?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-06-07T14:05:40",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Bybit",
+        "Kraken",
+        "Payward"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Bybit推出与Kraken类似的产品，影响市场动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "交易所动态相关",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，评估竞争策略。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "title": "Frontier AI Models Can Find Crypto's Biggest Bugs. Experts Warn the Industry Isn't Ready",
+      "description": "The Zcash vulnerability uncovered with help from Anthropic's Claude Opus 4.8 signals a shift in who may discover critical flaws first.",
+      "url": "https://decrypt.co/370232/frontier-ai-models-find-crypto-bugs-industry-isnt-ready",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-06-07T18:01:03",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Anthropic"
+      ],
+      "importance_score": 6,
+      "ai_summary": "前沿AI模型揭示加密货币漏洞，行业需警惕。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币漏洞",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注漏洞修复与安全技术进展",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "WasabiCard Raises Nearly $10 Million In Pre-A Funding To Expand Stablecoin Payment Infrastructure - Pulse 2.0",
+      "description": "WasabiCard Raises Nearly $10 Million In Pre-A Funding To Expand Stablecoin Payment Infrastructure&nbsp;&nbsp;Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaUI5U0tIWjF1bGxIbERYNWN0ZGFsTnlLNVRydHNzNmRHcThXOHVIU1BGVzItal9CdFBJZjN6ZUdKTTRZS0xFQnp1Nmt4Z1FKNXpnMDdWYWg0Z1pJelE1eG9BOFAyTFBjTkRyazNKS2d3aEpTendaLW13N0JpQnoyOUFtSnIwakE5aXprWC1ydE1pU2Z6RmRCUTl0bExaczA2SWljRUNYcEZfT0RaV2YzRS1GQU9BOXPSAbwBQVVfeXFMTjg5OU5xZjhnWGR0dlR1Wkx4RGFfbmZaWkI2bXpycGpVV0plLV8yZW5KdUVDb3RrbHhkNjM3bzhMd3lXRlpKYnpONjNRbGtjWDNDZXlXRTdlbTI2UHd5QklfRXNkbHBJd05rTFgxYUx5d0c5RDBYbDh5UERsMVhrMjN6RmFvaVhfNTRqLVduNmZWYktCTTdVcHhNb2xZQXM5WWh5UXVTek5uV3B1a2VhbFVrRkZzWC1Qa2NpaXQ?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-06-07T19:46:55",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "WasabiCard融资扩展稳定币支付基础设施。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币支付基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币支付市场动态。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "title": "Asia's weekly TOP10 crypto news: Japan Eyes Yen Stablecoins & Crypto ETFs, Korea Forms KRW Stablecoin Alliance, Coinbase Launches INR Deposits in India and Top10 News - WuBlockchain",
+      "description": "Asia's weekly TOP10 crypto news: Japan Eyes Yen Stablecoins & Crypto ETFs, Korea Forms KRW Stablecoin Alliance, Coinbase Launches INR Deposits in India and Top10 News&nbsp;&nbsp;WuBlockchain",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FMFBfUTBGaE1HUEhXUHgxSEprb3JleDVNS21va3habzc5eXM1T1FVWFBxRzBxTzdaZ1E1c09lSnp2S1B6WXVmRE5SQXJicENXZ1ZhaXpDTlhNZTI0QzhZQk5uVzEycUtUMUNVNUR0TUVSMlhEX0MwZzRVRQ?oc=5",
+      "source": "Google News (stablecoin regulation Hong Kong)",
+      "source_category": "google_news",
+      "published_at": "2026-06-07T12:19:15",
+      "data_type": "rss",
+      "search_keyword": "stablecoin regulation Hong Kong",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "亚洲稳定币和加密ETF的动态引人关注。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "监管影响"
+      ],
+      "industry_action": "关注稳定币政策变化，调整策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    }
+  ],
+  "company": [
+    {
+      "title": "Checkout.com and Fireblocks partner to provide stablecoin settlement capabilities - qz.com",
+      "description": "Checkout.com and Fireblocks partner to provide stablecoin settlement capabilities&nbsp;&nbsp;qz.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS29BbWRfWl9sbUlIZlFOUGdjbHUtQmM0OUVXQ21QUXpoTGdMa2hXWmtMTGYyRzR2Zi1FRll3LUJzOU43X2NjNE1COENFSEYyR0NicG1tRTVkdGxIci1iYjNRdnVjNmVSTXU3b3dpTS04QmFfdEM0VDdZTDJJcnY4QW01dTlOY1NZUEdlSTB6WDJhT0l5b1E?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-06-07T15:44:10",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Checkout.com",
+        "Fireblocks"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Checkout.com与Fireblocks合作提供稳定币结算服务。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币结算能力",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "市场定价",
+        "技术差距"
+      ],
+      "suggested_action": "关注竞争对手动态，提升自身技术能力。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    }
+  ],
+  "funding": []
+}
