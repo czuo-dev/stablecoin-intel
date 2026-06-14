@@ -1,0 +1,1063 @@
+{
+  "competitors": [],
+  "clients": [],
+  "industry": [
+    {
+      "id": "news_29b16c6d6138",
+      "title": "Major crypto exchanges cancel SpaceX IPO allocations, promising refunds",
+      "content": "Elon Musk’s SpaceX completed its landmark IPO on the Nasdaq on Friday, but crypto users seeking tokenized exposure to the IPO were left empty-handed after allocations fell through.",
+      "url": "https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Cointelegraph",
+      "published_at": "2026-06-13T02:17:55Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Cointelegraph",
+        "title": "Major crypto exchanges cancel SpaceX IPO allocations, promising refunds",
+        "description": "Elon Musk’s SpaceX completed its landmark IPO on the Nasdaq on Friday, but crypto users seeking tokenized exposure to the IPO were left empty-handed after allocations fell through.",
+        "url": "https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-projects-should-end-up-in-decentralized-governance-spacex-ipo.jpg",
+        "publishedAt": "2026-06-13T02:17:55Z",
+        "content": "Crypto trading platforms Bybit, Binance, Bitget Wallet and MEXC canceled their tokenized SpaceX IPO campaigns and offered refunds for users as SpaceX went public on the Nasdaq on Friday. \r\nSpaceXs IP… [+1637 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "SpaceX"
+      ],
+      "importance_score": 6,
+      "ai_summary": "主要加密交易所取消SpaceX IPO配额并承诺退款。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注交易所动态对市场的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_93cf2376b85b",
+      "title": "NEURA Robotics raises $1.4B to build global data collection facilities, with Tether leading the charge",
+      "content": "NEURA's initiative could revolutionize robotics and stablecoin use, potentially reshaping economic transactions and data collection globally.\nThe post NEURA Robotics raises $1.4B to build global data collection facilities, with Tether leading the charge appea…",
+      "url": "https://cryptobriefing.com/neura-robotics-raises-1b-data-facilities/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-13T05:51:20Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "NEURA Robotics raises $1.4B to build global data collection facilities, with Tether leading the charge",
+        "description": "NEURA's initiative could revolutionize robotics and stablecoin use, potentially reshaping economic transactions and data collection globally.\nThe post NEURA Robotics raises $1.4B to build global data collection facilities, with Tether leading the charge appea…",
+        "url": "https://cryptobriefing.com/neura-robotics-raises-1b-data-facilities/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/13015112/neura-robotics-secures-120m-in-series-b-for-its-cognitive-an-1-800x420.jpeg",
+        "publishedAt": "2026-06-13T05:51:20Z",
+        "content": "The German robotics startup is building specialized gyms where robots learn from real-world sensor data, and crypto wallets might come baked into the hardware. A robotics company wants to build gyms.… [+2948 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Tether"
+      ],
+      "importance_score": 7,
+      "ai_summary": "NEURA Robotics获得资金，Tether参与投资。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到Tether，相关稳定币",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注稳定币在新兴科技领域的应用",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_f4eb25411590",
+      "title": "SpaceX IPO scramble reveals difference between tokenizing a stock and getting one",
+      "content": "Crypto platforms promised early access to the blockbuster SpaceX IPO through tokenized shares. The problem wasn't technology, but getting the actual stock.",
+      "url": "https://www.coindesk.com/tech/2026/06/13/spacex-ipo-scramble-reveals-difference-between-tokenizing-a-stock-and-getting-one",
+      "source": "CoinDesk",
+      "source_type": "news",
+      "author": "Krisztian Sandor",
+      "published_at": "2026-06-13T05:16:10Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Krisztian Sandor",
+        "title": "SpaceX IPO scramble reveals difference between tokenizing a stock and getting one",
+        "description": "Crypto platforms promised early access to the blockbuster SpaceX IPO through tokenized shares. The problem wasn't technology, but getting the actual stock.",
+        "url": "https://www.coindesk.com/tech/2026/06/13/spacex-ipo-scramble-reveals-difference-between-tokenizing-a-stock-and-getting-one",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/97bf2e29eb3c1b7bbc38861e392cdd3baacfcacf-1919x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "publishedAt": "2026-06-13T05:16:10Z",
+        "content": "One person familiar with the matter told CoinDesk that xStocks and its distribution partners gathered more than $1 billion in customer orders. But when underwriters finalized allocations, many of tho… [+1376 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "SpaceX IPO揭示代币化股票的差异",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及代币化股票",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注代币化技术的发展动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_a91b18a698d3",
+      "title": "ETH futures flash bearish signal, but stakers’ resilience points to underlying strength",
+      "content": "ETH price has not escaped the bears’ grasp yet, but accelerating corporate accumulation and steady staking demand could put a floor under $1,600.",
+      "url": "https://cointelegraph.com/markets/eth-futures-flash-bearish-signal-but-stakers-resilience-points-to-underlying-strength",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Marcel Pechman",
+      "published_at": "2026-06-13T03:24:05Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Marcel Pechman",
+        "title": "ETH futures flash bearish signal, but stakers’ resilience points to underlying strength",
+        "description": "ETH price has not escaped the bears’ grasp yet, but accelerating corporate accumulation and steady staking demand could put a floor under $1,600.",
+        "url": "https://cointelegraph.com/markets/eth-futures-flash-bearish-signal-but-stakers-resilience-points-to-underlying-strength",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/article-covers-175444-ether-price-uptick-cboe-bzx-exchange-21shares-spot-ether-etf-staking.jpg",
+        "publishedAt": "2026-06-13T03:24:05Z",
+        "content": "Key takeaways:\r\n<ul><li>While bearish ETH futures trends and spot ETF outflows signal weak institutional appetite, staking demand prevents further decline.</li><li>Falling exchange deposits and accum… [+3202 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "ETH期货显示看跌信号，但质押者表现出韧性。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及加密市场趋势",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态以调整策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_b34996d2f9d3",
+      "title": "Iran refuses nuclear talks until interim deal is implemented, crypto sanctions implications linger",
+      "content": "Iran's stance delays nuclear talks, prolonging crypto sanctions impact, affecting regional security and global crypto market dynamics.\nThe post Iran refuses nuclear talks until interim deal is implemented, crypto sanctions implications linger appeared first o…",
+      "url": "https://cryptobriefing.com/iran-nuclear-talks-interim-deal-crypto-sanctions/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-13T00:43:55Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Iran refuses nuclear talks until interim deal is implemented, crypto sanctions implications linger",
+        "description": "Iran's stance delays nuclear talks, prolonging crypto sanctions impact, affecting regional security and global crypto market dynamics.\nThe post Iran refuses nuclear talks until interim deal is implemented, crypto sanctions implications linger appeared first o…",
+        "url": "https://cryptobriefing.com/iran-nuclear-talks-interim-deal-crypto-sanctions/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/12204348/a-satellite-image-shows-iran-s-natanz-nuclear-facility-south-3-800x420.jpeg",
+        "publishedAt": "2026-06-13T00:43:55Z",
+        "content": "Foreign minister Abbas Araghchi's sequencing demand keeps nuclear issues on ice while a 14-article memorandum of understanding takes priority. Iran’s top diplomat just drew a line in the sand. Foreig… [+3394 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "伊朗拒绝核谈判，影响加密制裁政策。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密制裁影响",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密制裁政策变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_fc8e6a4f1c41",
+      "title": "US forces shoot down multiple Iranian drones heading to Strait of Hormuz, rattling oil and crypto markets",
+      "content": "Escalating US-Iran tensions could destabilize global markets, impacting oil prices and crypto investments, while potentially increasing Iran's crypto adoption.\nThe post US forces shoot down multiple Iranian drones heading to Strait of Hormuz, rattling oil and…",
+      "url": "https://cryptobriefing.com/us-shoots-down-iranian-drones-hormuz/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-13T00:42:22Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "US forces shoot down multiple Iranian drones heading to Strait of Hormuz, rattling oil and crypto markets",
+        "description": "Escalating US-Iran tensions could destabilize global markets, impacting oil prices and crypto investments, while potentially increasing Iran's crypto adoption.\nThe post US forces shoot down multiple Iranian drones heading to Strait of Hormuz, rattling oil and…",
+        "url": "https://cryptobriefing.com/us-shoots-down-iranian-drones-hormuz/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/12204215/us-forces-shot-down-four-iranian-drones-headed-toward-strait-800x420.jpeg",
+        "publishedAt": "2026-06-13T00:42:22Z",
+        "content": "The military escalation in one of the world's most critical oil chokepoints is sending ripple effects through risk assets, including Bitcoin American forces intercepted and destroyed multiple Iranian… [+2017 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "美军击落伊朗无人机影响油市和加密市场波动。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提及加密市场波动",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注市场波动对稳定币的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_89a4c25eb944",
+      "title": "Crypto meets the World Cup as Pochettino’s USMNT takes on Paraguay with Kraken and Chiliz watching closely",
+      "content": "The integration of crypto with the World Cup could redefine fan engagement and investment dynamics, influencing future sports sponsorships.\nThe post Crypto meets the World Cup as Pochettino’s USMNT takes on Paraguay with Kraken and Chiliz watching closely app…",
+      "url": "https://cryptobriefing.com/crypto-world-cup-kraken-chiliz-usmnt/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-13T02:21:20Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Crypto meets the World Cup as Pochettino’s USMNT takes on Paraguay with Kraken and Chiliz watching closely",
+        "description": "The integration of crypto with the World Cup could redefine fan engagement and investment dynamics, influencing future sports sponsorships.\nThe post Crypto meets the World Cup as Pochettino’s USMNT takes on Paraguay with Kraken and Chiliz watching closely app…",
+        "url": "https://cryptobriefing.com/crypto-world-cup-kraken-chiliz-usmnt/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/12222113/u-s-men-s-national-soccer-team-names-mauricio-pochettino-nex-1-800x420.jpeg",
+        "publishedAt": "2026-06-13T02:21:20Z",
+        "content": "The intersection of soccer and digital assets is heating up as the 2026 FIFA World Cup kicks off on American soil with major crypto sponsorships in play Mauricio Pochettino did two things in rapid su… [+1944 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Kraken",
+        "Chiliz"
+      ],
+      "importance_score": 6,
+      "ai_summary": "加密货币与世界杯赛事结合的动态",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币和赛事",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注加密货币在体育领域的应用",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_a67a1efc5e95",
+      "title": "Pendle named to Fortune’s Crypto Innovators list among 30 leading projects",
+      "content": "Pendle's recognition highlights the growing importance of innovative DeFi solutions, but also underscores the volatility and risks in the sector.\nThe post Pendle named to Fortune’s Crypto Innovators list among 30 leading projects appeared first on Crypto Brie…",
+      "url": "https://cryptobriefing.com/pendle-fortune-crypto-innovators-list/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-13T02:59:07Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Pendle named to Fortune’s Crypto Innovators list among 30 leading projects",
+        "description": "Pendle's recognition highlights the growing importance of innovative DeFi solutions, but also underscores the volatility and risks in the sector.\nThe post Pendle named to Fortune’s Crypto Innovators list among 30 leading projects appeared first on Crypto Brie…",
+        "url": "https://cryptobriefing.com/pendle-fortune-crypto-innovators-list/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/12225900/what-is-a-cryptocurrency-node-800x420.png",
+        "publishedAt": "2026-06-13T02:59:07Z",
+        "content": "The fixed-income DeFi protocol earned a spot on Fortune Magazine's inaugural list recognizing companies pushing digital assets forward Fortune Magazine just published its first-ever Crypto Innovators… [+2019 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Pendle被评选为加密创新项目之一。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密项目动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注行业创新动态，评估影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_2efea761bdc2",
+      "title": "Fable 5, Mythos 5 users lose access after Trump administration security risk declaration",
+      "content": "Export controls on AI models may prompt stricter global regulations, impacting market dynamics and increasing investment risks in AI sectors.\nThe post Fable 5, Mythos 5 users lose access after Trump administration security risk declaration appeared first on C…",
+      "url": "https://cryptobriefing.com/fable-mythos-5-trump-export-controls/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-13T01:50:14Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Fable 5, Mythos 5 users lose access after Trump administration security risk declaration",
+        "description": "Export controls on AI models may prompt stricter global regulations, impacting market dynamics and increasing investment risks in AI sectors.\nThe post Fable 5, Mythos 5 users lose access after Trump administration security risk declaration appeared first on C…",
+        "url": "https://cryptobriefing.com/fable-mythos-5-trump-export-controls/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/12215006/anthropic-s-ai-will-now-tell-users-when-requests-are-downgra-800x420.jpeg",
+        "publishedAt": "2026-06-13T01:50:14Z",
+        "content": "Anthropic's newest AI models face sweeping export controls after jailbreak concerns prompt the administration to treat frontier AI like semiconductor technology Every international user of Anthropic’… [+3650 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto regulation",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "特朗普政府宣布安全风险，影响加密用户访问。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，评估潜在影响。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_36a457dbcefe",
+      "title": "Mistral reportedly seeking $3.5B funding round amid physics AI push",
+      "content": "French foundation model developer Mistral AI SAS is reportedly in talks to raise €3 billion, or about $3.5 billion, from investors. Bloomberg today cited sources as saying that the round could value the company at €20 billion. That’s nearly double the valuati…",
+      "url": "https://siliconangle.com/2026/06/12/mistral-reportedly-seeking-3-5b-funding-round-amid-physics-ai-push/",
+      "source": "SiliconANGLE News",
+      "source_type": "news",
+      "author": "Maria Deutscher",
+      "published_at": "2026-06-13T00:03:27Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "SiliconANGLE News"
+        },
+        "author": "Maria Deutscher",
+        "title": "Mistral reportedly seeking $3.5B funding round amid physics AI push",
+        "description": "French foundation model developer Mistral AI SAS is reportedly in talks to raise €3 billion, or about $3.5 billion, from investors. Bloomberg today cited sources as saying that the round could value the company at €20 billion. That’s nearly double the valuati…",
+        "url": "https://siliconangle.com/2026/06/12/mistral-reportedly-seeking-3-5b-funding-round-amid-physics-ai-push/",
+        "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Mistral1.png",
+        "publishedAt": "2026-06-13T00:03:27Z",
+        "content": "French foundation model developer Mistral AI SAS is reportedly in talks to raise 3 billion, or about $3.5 billion, from investors.\r\nBloomberg today cited sources as saying that the round could value … [+4304 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Mistral正在寻求融资以推动物理AI发展。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到融资事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_a37849e16a53",
+      "title": "Investing in African Startups: Opportunities and Challenges",
+      "content": "Investment into African startups held up in 2025, even as funding conditions tightened. According to AVCA, more than $5 billion ...",
+      "url": "https://biztoc.com/x/a09ab565b712b483",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "youtube.com",
+      "published_at": "2026-06-13T06:20:15Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "youtube.com",
+        "title": "Investing in African Startups: Opportunities and Challenges",
+        "description": "Investment into African startups held up in 2025, even as funding conditions tightened. According to AVCA, more than $5 billion ...",
+        "url": "https://biztoc.com/x/a09ab565b712b483",
+        "urlToImage": "https://biztoc.com/cdn/a09ab565b712b483_s.webp",
+        "publishedAt": "2026-06-13T06:20:15Z",
+        "content": "Investment into African startups held up in 2025, even as funding conditions tightened. According to AVCA, more than $5 billion ...\r\nThis story appeared on youtube.com, 2026-06-13 05:00:20.",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "非洲初创企业投资机会与挑战分析。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到非洲初创企业投资",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注非洲市场动态，寻找投资机会。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_4b9f5aab4d37",
+      "title": "It was not Elon Musk but Gwynne Shotwell, the engineer who has turned his ambitions into operating reality since becoming SpaceX’s president in 2008, who helped ring the Nasdaq bell on Friday — the moment a company built on reusable rockets and satellite internet became, on paper, worth more than two trillion dollars.",
+      "content": "When SpaceX listed on the Nasdaq on Friday, Elon Musk appeared on a video feed from Starbase in Texas, projected into the exchange’s headquarters. The person physically on the floor in New York, helping ring the bell, was Gwynne Shotwell, the company’s presid…",
+      "url": "https://spacedaily.com/t-it-was-not-elon-musk-but-gwynne-shotwell-the-engineer-who-has-turned-his-ambitions-into-operating-reality-since-becoming-spacexs-president-in-2008-who-helped-ring-the-nasdaq-bell-on-friday/",
+      "source": "Space Daily",
+      "source_type": "news",
+      "author": "Space Daily Editorial Team",
+      "published_at": "2026-06-13T01:30:56Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Space Daily"
+        },
+        "author": "Space Daily Editorial Team",
+        "title": "It was not Elon Musk but Gwynne Shotwell, the engineer who has turned his ambitions into operating reality since becoming SpaceX’s president in 2008, who helped ring the Nasdaq bell on Friday — the moment a company built on reusable rockets and satellite internet became, on paper, worth more than two trillion dollars.",
+        "description": "When SpaceX listed on the Nasdaq on Friday, Elon Musk appeared on a video feed from Starbase in Texas, projected into the exchange’s headquarters. The person physically on the floor in New York, helping ring the bell, was Gwynne Shotwell, the company’s presid…",
+        "url": "https://spacedaily.com/t-it-was-not-elon-musk-but-gwynne-shotwell-the-engineer-who-has-turned-his-ambitions-into-operating-reality-since-becoming-spacexs-president-in-2008-who-helped-ring-the-nasdaq-bell-on-friday/",
+        "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/06/newimagesize-2026-06-13T085801.822.png",
+        "publishedAt": "2026-06-13T01:30:56Z",
+        "content": "When SpaceX listed on the Nasdaq on Friday, Elon Musk appeared on a video feed from Starbase in Texas, projected into the exchange’s headquarters. The person physically on the floor in New York, help… [+5606 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_38f6c7c26a8f",
+      "title": "From Wall Street to Data Platforms",
+      "content": "* Kim Hatton’s transition from finance to Databricks shows how Databricks values deep industry expertise to help solve modern data challenges.\r\n* Our collaborative environment encourages employees to grow beyond their core roles and become active contributors…",
+      "url": "https://www.databricks.com/blog/wall-street-data-platforms",
+      "source": "Databricks.com",
+      "source_type": "news",
+      "author": "Andrea Fernández, Kim Hatton",
+      "published_at": "2026-06-13T00:30:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Databricks.com"
+        },
+        "author": "Andrea Fernández, Kim Hatton",
+        "title": "From Wall Street to Data Platforms",
+        "description": "* Kim Hatton’s transition from finance to Databricks shows how Databricks values deep industry expertise to help solve modern data challenges.\r\n* Our collaborative environment encourages employees to grow beyond their core roles and become active contributors…",
+        "url": "https://www.databricks.com/blog/wall-street-data-platforms",
+        "urlToImage": "https://www.databricks.com/sites/default/files/2026-06/BV-Blog-Kim-Hatton.png",
+        "publishedAt": "2026-06-13T00:30:00Z",
+        "content": "Brickster Voices is a series that spotlights the people who make our work possible. Through personal career journeys, behind-the-scenes looks at impactful projects, and a glimpse into how we work tog… [+4149 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series C",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "报道了加密货币行业的动态与趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币行业动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注行业动态，调整市场策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_7160f1da0365",
+      "title": "Bitcoin, XRP spot ETFs see inflows while Ethereum records outflows on June 12",
+      "content": "Bitcoin and XRP ETF inflows suggest cautious optimism, while Ethereum's outflows highlight potential liquidity and investor confidence issues.\nThe post Bitcoin, XRP spot ETFs see inflows while Ethereum records outflows on June 12 appeared first on Crypto Brie…",
+      "url": "https://cryptobriefing.com/bitcoin-xrp-etf-inflows-ethereum-outflows/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-13T05:06:25Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Bitcoin, XRP spot ETFs see inflows while Ethereum records outflows on June 12",
+        "description": "Bitcoin and XRP ETF inflows suggest cautious optimism, while Ethereum's outflows highlight potential liquidity and investor confidence issues.\nThe post Bitcoin, XRP spot ETFs see inflows while Ethereum records outflows on June 12 appeared first on Crypto Brie…",
+        "url": "https://cryptobriefing.com/bitcoin-xrp-etf-inflows-ethereum-outflows/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/13010618/xrp-etf-inflows-stay-positive-as-bitcoin-and-ethereum-see-ou-800x420.jpeg",
+        "publishedAt": "2026-06-13T05:06:25Z",
+        "content": "Divergent fund flows suggest institutional investors are picking favorites, and Ethereum isn't one of them right now Bitcoin and XRP spot ETFs pulled in fresh capital on June 12, while Ethereum’s spo… [+2339 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "比特币和XRP ETF吸引资金流入，影响市场趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态以调整策略",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_161e2d34e025",
+      "title": "FG may pay salaries through eNaira platform – Report",
+      "content": "The Federal Government is considering paying salaries, pensions, and benefits through the eNaira platform, according to a new CBN roadmap. Learn how this c\n\nRead More: https://punchng.com/fg-may-pay-salaries-through-enaira-platform-report/",
+      "url": "https://punchng.com/fg-may-pay-salaries-through-enaira-platform-report/",
+      "source": "The Punch",
+      "source_type": "news",
+      "author": "Punch Newspapers",
+      "published_at": "2026-06-13T01:09:59Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Punch"
+        },
+        "author": "Punch Newspapers",
+        "title": "FG may pay salaries through eNaira platform – Report",
+        "description": "The Federal Government is considering paying salaries, pensions, and benefits through the eNaira platform, according to a new CBN roadmap. Learn how this c\n\nRead More: https://punchng.com/fg-may-pay-salaries-through-enaira-platform-report/",
+        "url": "https://punchng.com/fg-may-pay-salaries-through-enaira-platform-report/",
+        "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2021/09/28064409/E-Naira-logo.jpg",
+        "publishedAt": "2026-06-13T01:09:59Z",
+        "content": "The Federal Government may begin paying salaries, pensions and social welfare benefits through the eNaira under a new Central Bank of Nigeria roadmap aimed at transforming the countrys digital curren… [+4760 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "尼日利亚可能通过eNaira平台支付工资。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到数字货币平台",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注数字货币支付的监管动态。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams",
+      "description": "Google alleges a Chinese network weaponized its Gemini AI to create phishing sites that stole millions of credit card numbers and targeted crypto investors.",
+      "url": "https://decrypt.co/371014/google-sues-chinese-crime-group-gemini-ai-phishing-scams",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-06-13T16:01:04",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "谷歌起诉中国犯罪团伙利用AI进行网络钓鱼。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币诈骗",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注网络安全和诈骗防范措施。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC - CoinDesk",
+      "description": "Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC&nbsp;&nbsp;CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV1FnQnhiNkY5ZW04TmR6Vk02VjFvZzF4RlFkZmVQQzR4M3hRZzlpbXVZMEgzRkp1a3BhdXctY3JOTFhrRzR2THpHUmRXdWxBZUNSUnhJNkRHN05TTGVoYVdWWVdKakFzLXhiYkZRUUVPLVVlWmlFRWFkR2Z4bFZDZDlUSDc1amphQ3BheUxZTlU1MFJPSzJpNTZmZkstNlB0SmF1SEpyWFk5Q1pYbC1xaEktclZ0YkxtV3l3?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-06-13T11:30:37",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Ripple"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Ripple希望AI代理使用XRP和RLUSD进行支付。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币RLUSD",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态，评估竞争影响。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Best Ways to Use Stripe and MoneyGram Stablecoin Rails for Global B2B Payroll - FinanceFeeds",
+      "description": "Best Ways to Use Stripe and MoneyGram Stablecoin Rails for Global B2B Payroll&nbsp;&nbsp;FinanceFeeds",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXVkajhxbVNaMXhJRjFZNGVhMXhjR1pwUEpWSU1QcVZCZXFZSXVsOTJwSEN2Y2FEMVhYNE1mbTVOeWtVdUMyRUxFLThwdzB2VlZYVDhQXzlENjFTR0hUT1pDRmJ1LS1GMDY3OUUxbEMtNm0wMHY4UHJCMWJXc3FJdlZMdnZxdGtHVmdhUVJsQjBqN0tKWGJrbzN4WllaSmhqUTBPOWF3?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-06-13T22:30:42",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Stripe",
+        "MoneyGram"
+      ],
+      "importance_score": 7,
+      "ai_summary": "探讨了稳定币在全球B2B薪资中的应用",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币在支付领域的应用趋势",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Visa Expands AI Commerce With Stablecoin, Tokenization - Let's Data Science",
+      "description": "Visa Expands AI Commerce With Stablecoin, Tokenization&nbsp;&nbsp;Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdkUxQ3VfbTF4emdocS1WeUxDM2NmMG5aNWlkTW5oQWF2ejJSSkFkc1VqeHVkMzN0eUI2MVQyeUU3M00xcGwzNk5uNHRmbGFFUlhUY0ZvclVweDMtcnVQLTN0NzkzdXFPM0UxRTljWGlZYktVYXlRSlB1bV85dklLU3NVOC1fTGtrN1FIYU9xTm10VUt2YmtlWjc1WQ?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-06-13T17:59:56",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Visa"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Visa扩展稳定币和支付业务，涉及AI商业应用。",
+      "business_relevance": 0.8,
+      "relevance_reason": "涉及稳定币和支付业务",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注Visa的技术进展，评估市场影响。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Binance Sees Pre-IPO Boom as $225B IPO Wave Drives Demand for On-Chain Access - Cryptonews.net",
+      "description": "Binance Sees Pre-IPO Boom as $225B IPO Wave Drives Demand for On-Chain Access&nbsp;&nbsp;Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YTGp1VkVfYTNscHItRmowNloyYTdGSjNmSENPc0dFbWRmc3hoUGlGel8xVE5Vc1c2MFN3MFVzaDBKVVlUX1ZvclZfb2FyaWd2SUxhUVlrRQ?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-06-14T04:31:37",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Binance因IPO潮推动链上访问需求增长。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Bitget Wallet Launches $300,000 Crypto Card Campaign to Drive Stablecoin Payments Across Emerging Markets - 24-7 Press Release Newswire",
+      "description": "Bitget Wallet Launches $300,000 Crypto Card Campaign to Drive Stablecoin Payments Across Emerging Markets&nbsp;&nbsp;24-7 Press Release Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQY3hzYlBkaE51Q2p6ZXFabE5leG1ZVHlQTWROZFBrcFRyeTN2TXpKelVIRjZ5dU51VExqVk1FU0RLWmFEd2pCNFpPNGJmS2VFeENzLUYwN3VwRy1nZkVxeVk4dlJKSTRYV0dUVmd6dG5tYk03ZF9rZzFHTzd5eC0yejgta1VCNERsZnRncWJTaTZKQ3Y4elE5THdDRl9aa1dyYlZjXzBFSUlmWElDVWxEdjZmMDBOb1BaYlJhY3FzY2FzRl9GSjdYd2EwVUlxQ3UtaDB2bXZOcWJDVzM2N0d0MWZCU0hpLUdKVHpZLWZn?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-06-13T10:02:52",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Bitget Wallet推出稳定币支付活动以推动市场发展。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币支付市场动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    }
+  ]
+}
