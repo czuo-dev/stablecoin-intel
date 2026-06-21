@@ -1,0 +1,974 @@
+{
+  "competitors": [],
+  "clients": [],
+  "industry": [
+    {
+      "id": "news_4150ee8de0a2",
+      "title": "Oobit – Pay anywhere with crypto from your own wallet with tap to pay",
+      "content": "Pay anywhere with crypto from your own wallet with tap to pay",
+      "url": "https://betalist.com/startups/oobit",
+      "source": "Betalist.com",
+      "source_type": "news",
+      "author": "BetaList",
+      "published_at": "2026-06-20T04:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Betalist.com"
+        },
+        "author": "BetaList",
+        "title": "Oobit – Pay anywhere with crypto from your own wallet with tap to pay",
+        "description": "Pay anywhere with crypto from your own wallet with tap to pay",
+        "url": "https://betalist.com/startups/oobit",
+        "urlToImage": "https://resize.imagekit.co/OYHk0pbSE4-XDhCEAkPDD3D9sWN-f7SDklnQibxGNB4/plain/s3://betalist-production/cltekcjah0uf84m6dha5c9x5ju2u",
+        "publishedAt": "2026-06-20T04:00:00Z",
+        "content": "Oobit lets you spend crypto anywhere using the wallet you already have. It converts assets like Bitcoin and USDT to fiat at the moment you pay, so you can tap to pay at regular merchants via Visa and… [+292 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Oobit 提供加密支付解决方案。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注加密支付技术的进展。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_912203f16f92",
+      "title": "United States and Qatar propose plan for Iran to access $6B in frozen funds",
+      "content": "The proposed plan could ease humanitarian access in Iran but faces geopolitical hurdles, potentially prolonging regional tensions and economic uncertainty.\nThe post United States and Qatar propose plan for Iran to access $6B in frozen funds appeared first on …",
+      "url": "https://cryptobriefing.com/us-qatar-iran-6b-frozen-funds/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-20T06:19:22Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "United States and Qatar propose plan for Iran to access $6B in frozen funds",
+        "description": "The proposed plan could ease humanitarian access in Iran but faces geopolitical hurdles, potentially prolonging regional tensions and economic uncertainty.\nThe post United States and Qatar propose plan for Iran to access $6B in frozen funds appeared first on …",
+        "url": "https://cryptobriefing.com/us-qatar-iran-6b-frozen-funds/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/20021914/a-local-s-guide-to-iran-cond-nast-traveler-5-800x420.jpeg",
+        "publishedAt": "2026-06-20T06:19:22Z",
+        "content": "The frozen oil revenues, held in restricted Qatari accounts since a 2023 prisoner swap deal, remain locked behind a dual-key oversight mechanism The US and Qatar are negotiating a pathway for Iran to… [+2553 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "美国和卡塔尔提议让伊朗获取冻结资金。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及资金流动与支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "监管影响"
+      ],
+      "industry_action": "关注国际资金流动对稳定币的影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_c4db94188a2b",
+      "title": "Two arrested in Kathmandu with Rs 2.2 million cash over cryptocurrency trading",
+      "content": "KATHMANDU: Police have arrested two individuals from Kathmandu with Rs 2.2 million in unexplained cash in connection with cryptocurrency trading. According to the District Police Range, Kathmandu, the arrested individuals have been identified as 47-year-old T…",
+      "url": "https://english.khabarhub.com/2026/20/554714/",
+      "source": "Khabarhub.com",
+      "source_type": "news",
+      "author": "Khabarhub",
+      "published_at": "2026-06-20T06:00:25Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Khabarhub.com"
+        },
+        "author": "Khabarhub",
+        "title": "Two arrested in Kathmandu with Rs 2.2 million cash over cryptocurrency trading",
+        "description": "KATHMANDU: Police have arrested two individuals from Kathmandu with Rs 2.2 million in unexplained cash in connection with cryptocurrency trading. According to the District Police Range, Kathmandu, the arrested individuals have been identified as 47-year-old T…",
+        "url": "https://english.khabarhub.com/2026/20/554714/",
+        "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2026/04/pakrau-arrest-3.jpg",
+        "publishedAt": "2026-06-20T06:00:25Z",
+        "content": "KATHMANDU: Police have arrested two individuals from Kathmandu with Rs 2.2 million in unexplained cash in connection with cryptocurrency trading.\r\nAccording to the District Police Range, Kathmandu, t… [+1088 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDT",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "加德满都因加密货币交易逮捕两人。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币交易",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密货币监管动态。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_96f06e181d23",
+      "title": "Crypto kidnappers who robbed a Minnesota family of $8M plead guilty",
+      "content": "Two brothers pleaded guilty to kidnapping a Minnesota family and stealing $8 million in crypto. They face up to 20 years in prison and $8 million in restitution.",
+      "url": "https://cointelegraph.com/news/crypto-kidnappers-who-robbed-a-minnesota-family-of-8m-plead-guilty",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph",
+      "published_at": "2026-06-20T05:12:43Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph",
+        "title": "Crypto kidnappers who robbed a Minnesota family of $8M plead guilty",
+        "description": "Two brothers pleaded guilty to kidnapping a Minnesota family and stealing $8 million in crypto. They face up to 20 years in prison and $8 million in restitution.",
+        "url": "https://cointelegraph.com/news/crypto-kidnappers-who-robbed-a-minnesota-family-of-8m-plead-guilty",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-how-a-243-million-crypto-heist-led-to-a-real-world-kidnapping.jpg",
+        "publishedAt": "2026-06-20T05:12:43Z",
+        "content": "Two brothers accused of kidnapping a Minnesota family at gunpoint last year to steal $8 million in cryptocurrency pleaded guilty in connection with the armed robbery. \r\nIsiah Angelo Garcia and Raymon… [+2782 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "明尼苏达州家庭遭遇加密货币绑架案。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币犯罪",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密货币相关犯罪的监管动态。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_b6bcebc63228",
+      "title": "DefyTON – Stake crypto on habits, AI verifies, earn or lose",
+      "content": "Stake crypto on habits, AI verifies, earn or lose",
+      "url": "https://betalist.com/startups/defyton",
+      "source": "Betalist.com",
+      "source_type": "news",
+      "author": "BetaList",
+      "published_at": "2026-06-20T03:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Betalist.com"
+        },
+        "author": "BetaList",
+        "title": "DefyTON – Stake crypto on habits, AI verifies, earn or lose",
+        "description": "Stake crypto on habits, AI verifies, earn or lose",
+        "url": "https://betalist.com/startups/defyton",
+        "urlToImage": "https://resize.imagekit.co/C3Ube6G9AcAirdlXBvjS1apiuVm_dIhmzwIEib_tzFI/plain/s3://betalist-production/nsixnvvd880m6hcsrup801yt0wu2",
+        "publishedAt": "2026-06-20T03:00:00Z",
+        "content": "DefyTON is a Telegram Mini App where you put real crypto on the line to build habits. Pick a challenge like running, reading, or meditation, deposit TON, and upload a photo daily as proof. AI verifie… [+260 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "DefyTON项目涉及加密货币的DeFi领域。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及DeFi和加密货币",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注DeFi市场动态，评估潜在影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_13add437de8d",
+      "title": "The crypto-treasury dream unravels after a 90% stock plunge",
+      "content": "ReserveOne had agreed to combine with M3-Brigade Acquisition V Corp., a special-purpose acquisition company, or SPAC, whose sole purpose is to find another entity to buy, taking it public in the process. Ross did not back the deal financially, but after it cl…",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/the-crypto-treasury-dream-unravels-after-a-90-stock-plunge/articleshow/131869889.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "Bloomberg",
+      "published_at": "2026-06-20T03:25:24Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Bloomberg",
+        "title": "The crypto-treasury dream unravels after a 90% stock plunge",
+        "description": "ReserveOne had agreed to combine with M3-Brigade Acquisition V Corp., a special-purpose acquisition company, or SPAC, whose sole purpose is to find another entity to buy, taking it public in the process. Ross did not back the deal financially, but after it cl…",
+        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/the-crypto-treasury-dream-unravels-after-a-90-stock-plunge/articleshow/131869889.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-131869869,width-1200,height-630,imgsize-84564,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-06-20T03:25:24Z",
+        "content": "The business model of launching a public company to buy crypto is falling apart. As a result, those in the queue to do so through blank-check companies are facing pressure from investors against a ma… [+6531 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "加密货币市场面临重大挑战，股价暴跌。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场变化，调整策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_a0b7adba8ab2",
+      "title": "Igloo develops instrument for crypto tokens to list on NYSE as registered securities",
+      "content": "Igloo's innovation could bridge crypto and traditional finance, but high costs and regulatory hurdles may limit widespread adoption.\nThe post Igloo develops instrument for crypto tokens to list on NYSE as registered securities appeared first on Crypto Briefin…",
+      "url": "https://cryptobriefing.com/igloo-crypto-tokens-nyse-registered-securities/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-20T04:07:38Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Igloo develops instrument for crypto tokens to list on NYSE as registered securities",
+        "description": "Igloo's innovation could bridge crypto and traditional finance, but high costs and regulatory hurdles may limit widespread adoption.\nThe post Igloo develops instrument for crypto tokens to list on NYSE as registered securities appeared first on Crypto Briefin…",
+        "url": "https://cryptobriefing.com/igloo-crypto-tokens-nyse-registered-securities/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/20000731/new-york-stock-exchange-your-guide-to-nyc-tourism-1-800x420.jpeg",
+        "publishedAt": "2026-06-20T04:07:38Z",
+        "content": "The Pudgy Penguins parent company says it has built a bridge between crypto tokens and traditional stock exchanges, but a $10-20 million underwriting bill stands in the way Igloo Inc., the company be… [+4547 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Igloo开发工具以便加密代币上市纽约证券交易所。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注相关监管政策变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_233c9edea381",
+      "title": "Belgium vs Iran World Cup match sparks crypto prediction market frenzy and fan token buzz",
+      "content": "The convergence of crypto markets and sports events like the World Cup could redefine fan engagement and regulatory landscapes globally.\nThe post Belgium vs Iran World Cup match sparks crypto prediction market frenzy and fan token buzz appeared first on Crypt…",
+      "url": "https://cryptobriefing.com/belgium-iran-world-cup-crypto-prediction-markets/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-20T02:35:39Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Belgium vs Iran World Cup match sparks crypto prediction market frenzy and fan token buzz",
+        "description": "The convergence of crypto markets and sports events like the World Cup could redefine fan engagement and regulatory landscapes globally.\nThe post Belgium vs Iran World Cup match sparks crypto prediction market frenzy and fan token buzz appeared first on Crypt…",
+        "url": "https://cryptobriefing.com/belgium-iran-world-cup-crypto-prediction-markets/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/19223530/world-cup-photos-iraq-norway-face-off-at-boston-stadium-800x420.jpeg",
+        "publishedAt": "2026-06-20T02:35:39Z",
+        "content": "Belgium's $BELG fan token launch and Polymarket betting odds highlight how crypto is weaving itself into the 2026 World Cup fabric. Belgium and Iran square off on June 21 at SoFi Stadium in Inglewood… [+2677 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "比利时与伊朗的世界杯比赛引发加密市场热潮。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注加密市场的动态变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_b546e4362b42",
+      "title": "JD Vance leads US negotiations for provisional Iran peace deal, and crypto markets are paying attention",
+      "content": "The provisional Iran peace deal's success could stabilize geopolitical tensions, impacting global oil flow and influencing crypto market volatility.\nThe post JD Vance leads US negotiations for provisional Iran peace deal, and crypto markets are paying attenti…",
+      "url": "https://cryptobriefing.com/vance-iran-peace-deal-crypto-impact/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-20T04:14:29Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "JD Vance leads US negotiations for provisional Iran peace deal, and crypto markets are paying attention",
+        "description": "The provisional Iran peace deal's success could stabilize geopolitical tensions, impacting global oil flow and influencing crypto market volatility.\nThe post JD Vance leads US negotiations for provisional Iran peace deal, and crypto markets are paying attenti…",
+        "url": "https://cryptobriefing.com/vance-iran-peace-deal-crypto-impact/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/20001426/jd-vance-at-a-rally-in-minnesota-on-july-27-2024-left-and-a--8-800x420.jpeg",
+        "publishedAt": "2026-06-20T04:14:29Z",
+        "content": "The vice president's diplomatic gambit with Iran has triggered notable volatility in Bitcoin and Ether as traders price in geopolitical risk Vice President JD Vance has stepped into what might be the… [+2443 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "美国与伊朗的和平谈判引起加密市场关注。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及加密市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注市场动态，评估潜在影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_5d97f62bc45a",
+      "title": "Kraken becomes FIFA’s first-ever crypto exchange supporter as World Cup 2026 kicks off",
+      "content": "Kraken's FIFA partnership marks a pivotal moment for crypto's mainstream acceptance, signaling evolving trust and potential market growth.\nThe post Kraken becomes FIFA’s first-ever crypto exchange supporter as World Cup 2026 kicks off appeared first on Crypto…",
+      "url": "https://cryptobriefing.com/kraken-fifa-world-cup-2026-crypto-sponsor/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-20T04:48:01Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Kraken becomes FIFA’s first-ever crypto exchange supporter as World Cup 2026 kicks off",
+        "description": "Kraken's FIFA partnership marks a pivotal moment for crypto's mainstream acceptance, signaling evolving trust and potential market growth.\nThe post Kraken becomes FIFA’s first-ever crypto exchange supporter as World Cup 2026 kicks off appeared first on Crypto…",
+        "url": "https://cryptobriefing.com/kraken-fifa-world-cup-2026-crypto-sponsor/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/20004754/trivolusia-10-6-in-world-cup-trophy-replica-for-2026-pvc-sou-1-800x420.jpeg",
+        "publishedAt": "2026-06-20T04:48:01Z",
+        "content": "The exchange's landmark deal with FIFA puts crypto front and center at the most-watched sporting event on Earth, starting with matches like New Zealand vs Egypt on June 21. FIFA just handed crypto it… [+3017 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Kraken"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Kraken成为FIFA首个加密交易所支持者。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注加密交易所与体育的结合趋势。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_7ecbbe1fdb51",
+      "title": "Is Cardano Too Cheap to Ignore at Today's Price?",
+      "content": "At June 18's price near $0.17, Cardano (CRYPTO: ADA) is 94% below its 2021 peak and down 48% year to date. Now, rather than being on the cusp of a turnaround, there's reason to believe this coin's prospects are dimming further.\nIn late May, its community vote…",
+      "url": "https://biztoc.com/x/24601ddc5e998f03",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "finance.yahoo.com",
+      "published_at": "2026-06-20T06:24:02Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "Is Cardano Too Cheap to Ignore at Today's Price?",
+        "description": "At June 18's price near $0.17, Cardano (CRYPTO: ADA) is 94% below its 2021 peak and down 48% year to date. Now, rather than being on the cusp of a turnaround, there's reason to believe this coin's prospects are dimming further.\nIn late May, its community vote…",
+        "url": "https://biztoc.com/x/24601ddc5e998f03",
+        "urlToImage": "https://biztoc.com/cdn/24601ddc5e998f03_s.webp",
+        "publishedAt": "2026-06-20T06:24:02Z",
+        "content": "At June 18's price near $0.17, Cardano (CRYPTO: ADA) is 94% below its 2021 peak and down 48% year to date. Now, rather than being on the cusp of a turnaround, there's reason to believe this coin's pr… [+143 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Cardano价格引发市场关注，可能影响行业趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，调整策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_f7a4869519b5",
+      "title": "Abu Dhabi's MGX weighs multi-billion deal for data centre operator DayOne",
+      "content": "Abu Dhabi's AI investor, MGX, is reportedly exploring the acquisition of Singapore-based data centre operator DayOne, signaling a significant global expansion. While DayOne has been planning a $20 billion U.S. IPO, MGX may not match that valuation. This poten…",
+      "url": "https://economictimes.indiatimes.com/tech/technology/abu-dhabis-mgx-weighs-multi-billion-deal-for-data-centre-operator-dayone/articleshow/131869283.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "Reuters",
+      "published_at": "2026-06-20T01:52:01Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Reuters",
+        "title": "Abu Dhabi's MGX weighs multi-billion deal for data centre operator DayOne",
+        "description": "Abu Dhabi's AI investor, MGX, is reportedly exploring the acquisition of Singapore-based data centre operator DayOne, signaling a significant global expansion. While DayOne has been planning a $20 billion U.S. IPO, MGX may not match that valuation. This poten…",
+        "url": "https://economictimes.indiatimes.com/tech/technology/abu-dhabis-mgx-weighs-multi-billion-deal-for-data-centre-operator-dayone/articleshow/131869283.cms",
+        "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-162520,resizemode-75,msid-131869283/tech/technology/abu-dhabis-mgx-weighs-multi-billion-deal-for-data-centre-operator-dayone.jpg",
+        "publishedAt": "2026-06-20T01:52:01Z",
+        "content": "Abu Dhabi-backed artificial intelligence investor MGX has been exploring buying Singapore-based data centre operator DayOne, three sources said, in what would mark a major step in its global expansio… [+2127 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "DayOne"
+      ],
+      "importance_score": 6,
+      "ai_summary": "阿布扎比MGX考虑收购数据中心运营商DayOne。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及数据中心运营",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注数据中心对加密行业的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_adc37dcd5dc2",
+      "title": "Crypto’s World Cup play: Kraken and Chiliz chase billions in eyeballs while USMNT leaves money on the table",
+      "content": "The World Cup's crypto partnerships highlight a missed opportunity for USMNT to capitalize on digital engagement, impacting future revenue streams.\nThe post Crypto’s World Cup play: Kraken and Chiliz chase billions in eyeballs while USMNT leaves money on the …",
+      "url": "https://cryptobriefing.com/crypto-world-cup-usmnt-kraken-chiliz/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-06-20T00:28:40Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Crypto’s World Cup play: Kraken and Chiliz chase billions in eyeballs while USMNT leaves money on the table",
+        "description": "The World Cup's crypto partnerships highlight a missed opportunity for USMNT to capitalize on digital engagement, impacting future revenue streams.\nThe post Crypto’s World Cup play: Kraken and Chiliz chase billions in eyeballs while USMNT leaves money on the …",
+        "url": "https://cryptobriefing.com/crypto-world-cup-usmnt-kraken-chiliz/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/19202833/https-upload-wikimedia-org-wikipedia-commons-4-46-u-s-soccer-2-800x420.jpeg",
+        "publishedAt": "2026-06-20T00:28:40Z",
+        "content": "The US men's national team is undefeated at Lumen Field and cruising through the World Cup, but it's one of the few major squads without a crypto sponsorship deal. The US men’s national team beat Aus… [+2168 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "Kraken",
+        "Chiliz"
+      ],
+      "importance_score": 6,
+      "ai_summary": "加密货币市场在世界杯期间的动态分析。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币和市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注世界杯期间的市场机会和竞争对手动态。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_fdd8a56fa1a1",
+      "title": "Dragon Striker Is Disney's Avatar Replacement, And It's 11 Episodes Of Pure Perfection",
+      "content": "Disney has finally made and released the perfect replacement series for fans of Avatar: The Last Airbender who are wanting more to watch.",
+      "url": "https://screenrant.com/dragon-striker-is-disneys-avatar-replacement-and-its-11-episodes-of-pure-perfection/",
+      "source": "Screen Rant",
+      "source_type": "news",
+      "author": "Hannah Diffey",
+      "published_at": "2026-06-20T00:00:22Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Screen Rant"
+        },
+        "author": "Hannah Diffey",
+        "title": "Dragon Striker Is Disney's Avatar Replacement, And It's 11 Episodes Of Pure Perfection",
+        "description": "Disney has finally made and released the perfect replacement series for fans of Avatar: The Last Airbender who are wanting more to watch.",
+        "url": "https://screenrant.com/dragon-striker-is-disneys-avatar-replacement-and-its-11-episodes-of-pure-perfection/",
+        "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/aang-from-avatar-the-last-airbender-and-the-disney-logo-in-front-of-a-background-from-dragon-striker-anime-tv-featured-image.png?w=1600&h=900&fit=crop",
+        "publishedAt": "2026-06-20T00:00:22Z",
+        "content": "Disney has spent years searching for a fantasy adventure capable of capturing the same sense of wonder, lore, and character-driven storytelling that made Avatar: The Last Airbender such a beloved cla… [+4922 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series A",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_aa5b36e6ec4d",
+      "title": "The Best Summer Watches: Daan’s Picks From Tissot, Sinn, Tudor, Grand Seiko, And Daniel Roth",
+      "content": "This article comes right on time, as tomorrow marks the official start of summer here in Amsterdam. Besides, temperatures are already rising well above 30° Celcius here these days, so it’s the perfect moment to think about which watches I’d like to take with …",
+      "url": "https://www.fratellowatches.com/daans-favorite-summer-watches-2026/",
+      "source": "Fratellowatches.com",
+      "source_type": "news",
+      "author": "Daan de Groot",
+      "published_at": "2026-06-20T05:00:11Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Fratellowatches.com"
+        },
+        "author": "Daan de Groot",
+        "title": "The Best Summer Watches: Daan’s Picks From Tissot, Sinn, Tudor, Grand Seiko, And Daniel Roth",
+        "description": "This article comes right on time, as tomorrow marks the official start of summer here in Amsterdam. Besides, temperatures are already rising well above 30° Celcius here these days, so it’s the perfect moment to think about which watches I’d like to take with …",
+        "url": "https://www.fratellowatches.com/daans-favorite-summer-watches-2026/",
+        "urlToImage": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/06/Daniel-Roth-Extra-Plat-Skeleton.jpeg",
+        "publishedAt": "2026-06-20T05:00:11Z",
+        "content": "This article comes right on time, as tomorrow marks the official start of summer here in Amsterdam. Besides, temperatures are already rising well above 30° Celcius here these days, so it’s the perfec… [+7598 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series B",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_de8d98355ddc",
+      "title": "India vs Afghanistan 3rd ODI live win probability, prediction, odds & chances of victory at MA Chidambaram Stadium, Chennai",
+      "content": "With India looking to do a clean sweep of the Afghanistan side, here is everything you would need to know about the third ODI between India and Afghanistan.",
+      "url": "https://www.sportingnews.com/in/cricket/news/india-afghanistan-3rd-odi-live-win-probability-prediction-odds-chances-chennai/3b1c4416beb5568eb4d6ffc3",
+      "source": "Sporting News",
+      "source_type": "news",
+      "author": "Soham Mukherjee",
+      "published_at": "2026-06-20T06:28:12Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Sporting News"
+        },
+        "author": "Soham Mukherjee",
+        "title": "India vs Afghanistan 3rd ODI live win probability, prediction, odds & chances of victory at MA Chidambaram Stadium, Chennai",
+        "description": "With India looking to do a clean sweep of the Afghanistan side, here is everything you would need to know about the third ODI between India and Afghanistan.",
+        "url": "https://www.sportingnews.com/in/cricket/news/india-afghanistan-3rd-odi-live-win-probability-prediction-odds-chances-chennai/3b1c4416beb5568eb4d6ffc3",
+        "urlToImage": "https://s.yimg.com/os/en/the_sporting_news_articles_584/e0448c3df29409813c330e30736f759e",
+        "publishedAt": "2026-06-20T06:28:12Z",
+        "content": "India will lock horns with Afghanistan for the final time in the bilateral series at the MA Chidambaram Stadium in Chennai on Saturday afternoon.\r\nWith the hosts having already sealed the series with… [+1266 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series C",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_88c3d480efb4",
+      "title": "SBI, Axis Bank among lenders set for $2 billion ECB fundraising via RBI swap",
+      "content": "Major Indian banks, including SBI, Axis Bank, and Bank of Baroda, alongside Power Finance Corporation, are set to raise over $2 billion from overseas markets next week. This move capitalizes on the Reserve Bank of India's 1.5% fixed-rate swap incentive for ex…",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-axis-bank-among-lenders-set-for-2-billion-ecb-fundraising-via-rbi-swap/articleshow/131865930.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "Joel Rebello",
+      "published_at": "2026-06-20T00:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Joel Rebello",
+        "title": "SBI, Axis Bank among lenders set for $2 billion ECB fundraising via RBI swap",
+        "description": "Major Indian banks, including SBI, Axis Bank, and Bank of Baroda, alongside Power Finance Corporation, are set to raise over $2 billion from overseas markets next week. This move capitalizes on the Reserve Bank of India's 1.5% fixed-rate swap incentive for ex…",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-axis-bank-among-lenders-set-for-2-billion-ecb-fundraising-via-rbi-swap/articleshow/131865930.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-131866103,width-1200,height-630,imgsize-91244,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-06-20T00:00:00Z",
+        "content": "Mumbai: State Bank of India (SBI), Axis Bank, Bank of Baroda (BoB) and government-owned non-bank lender Power Finance Corporation (PFC) will tap the overseas bond markets, perhaps as early as next we… [+3153 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "MPC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "SBI",
+        "Axis Bank"
+      ],
+      "importance_score": 7,
+      "ai_summary": "SBI和Axis Bank计划通过RBI交换进行20亿美元的融资，涉及跨境支付领域。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及跨境支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注跨境支付市场动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    }
+  ]
+}
