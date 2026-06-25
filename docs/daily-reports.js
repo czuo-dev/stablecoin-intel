@@ -4,6 +4,536 @@
 
 const dailyReports = [
     {
+        "date": "2026-06-25",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-06-25.md",
+        "newsItems": [
+            {
+                "id": "2026-06-25-competitor-0",
+                "title": "REGULATION | Stablecoin Infrastructure Provider, OpenPayd, Secures a European Union MiCA License - B",
+                "source": "Google News (stablecoin license)",
+                "date": "2026-06-25",
+                "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRTHoyQ05lNVo4aXZ5Smh1SmhhamZfYkNlNkNvN1VnYWIwOV9KNTVDOHlhTDZ4cC1LZzFWVGJGSG52dVpMTWY1djBLRHVURThKZzc5Vk9HZy1jQm5aWWZqTHlMUmlYOFhHNWNB?oc=5",
+                "category": "competitor",
+                "summary": "OpenPayd获得欧盟MiCA许可证，影响稳定币市场。",
+                "threatLevel": "high",
+                "impact": [
+                    "合规优势",
+                    "市场定价",
+                    "技术差距"
+                ],
+                "action": "关注OpenPayd的市场动向，优化合规策略。",
+                "tickers": [
+                    "OpenPayd"
+                ]
+            },
+            {
+                "id": "2026-06-25-industry-0",
+                "title": "CoinEx processed $3.8 billion in Iran-linked funds, acting as crypto gateway: TRM Labs",
+                "source": "The Block",
+                "date": "2026-06-25",
+                "url": "https://www.theblock.co/post/406073/coinex-iran-trm-labs?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "CoinEx 涉及与恐怖组织的资金交易问题。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注相关监管政策的变化。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "CoinEx"
+                ]
+            },
+            {
+                "id": "2026-06-25-industry-1",
+                "title": "Ripple launches RLUSD stablecoin in Japan after regulatory approval",
+                "source": "The Block",
+                "date": "2026-06-25",
+                "url": "https://www.theblock.co/post/406067/ripple-launches-rlusd-stablecoin-japan?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "Ripple在日本推出RLUSD稳定币，获得监管批准。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币市场动态，评估竞争影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Ripple",
+                    "SBI VC Trade"
+                ]
+            },
+            {
+                "id": "2026-06-25-industry-2",
+                "title": "Who gets a direct line to the Fed? Congress weighs risks of Fed ‘skinny accounts’ for crypto and fin",
+                "source": "The Block",
+                "date": "2026-06-25",
+                "url": "https://www.theblock.co/post/406050/who-gets-direct-line-to-fed-congress-weighs-risks-fed-skinny-accounts-crypto-fintech-firms?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "美联储考虑为加密公司提供账户访问权限。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管政策变化，评估影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-06-25-industry-3",
+                "title": "Superstate co-founder raises $3.6 million pre-seed for Ground to help fintechs access onchain yield",
+                "source": "The Block",
+                "date": "2026-06-25",
+                "url": "https://www.theblock.co/post/406040/superstate-co-founder-ground-funding-crypto-onchain-yield?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "Ground获得融资以帮助金融科技接入链上收益。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注链上收益相关技术发展",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购",
+                "tickers": [
+                    "Bain Capital Crypto",
+                    "ParaFi"
+                ]
+            },
+            {
+                "id": "2026-06-25-industry-4",
+                "title": "a16z CSX-backed Cambrian raises $6 million seed to build blockchain data oracle network",
+                "source": "The Block",
+                "date": "2026-06-25",
+                "url": "https://www.theblock.co/post/406028/a16z-csx-backed-cambrian-seed-round-blockchain-data-oracle-network?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "Cambrian获得资金用于区块链数据基础设施建设。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展",
+                    "市场趋势"
+                ],
+                "action": "关注区块链基础设施的技术进展。",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-06-25-industry-5",
+                "title": "Binance co-CEO remains ‘committed’ to securing EU license after exchange withdraws Greece bid",
+                "source": "The Block",
+                "date": "2026-06-25",
+                "url": "https://www.theblock.co/post/406009/binance-ceo-remains-committed-securing-eu-license-exchange-withdraws-greece-bid?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "币安在欧盟的合规进展受到关注。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "竞争格局"
+                ],
+                "action": "关注欧盟监管动态，评估影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-06-25-industry-6",
+                "title": "Black Lake, Nuva Labs tokenize $25 million in mortgage loans on Provenance in RWA push",
+                "source": "The Block",
+                "date": "2026-06-25",
+                "url": "https://www.theblock.co/post/405963/black-lake-nuva-labs-tokenize-25-million-in-mortgage-loans-on-provenance-in-rwa-push?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "Black Lake和Nuva Labs在区块链上铸造抵押贷款。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注抵押贷款代币化的市场动态",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Black Lake",
+                    "Nuva Labs",
+                    "Provenance Blockchain"
+                ]
+            },
+            {
+                "id": "2026-06-25-industry-7",
+                "title": "SBI Group launches Japan’s first trust bank-backed stablecoin JPYSC",
+                "source": "The Block",
+                "date": "2026-06-25",
+                "url": "https://www.theblock.co/post/405952/japan-sbi-group-launches-jpysc?utm_source=rss&utm_medium=rss",
+                "category": "industry",
+                "summary": "SBI集团推出日本首个信托银行支持的稳定币JPYSC。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币监管动态，评估市场影响。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "SBI Group"
+                ]
+            },
+            {
+                "id": "2026-06-25-industry-8",
+                "title": "Binance Withdraws MiCA License Application in Greece, Leaving EU Users in Limbo",
+                "source": "Decrypt",
+                "date": "2026-06-25",
+                "url": "https://decrypt.co/371990/binance-withdraws-mica-license-application-greece-eu-users-limbo",
+                "category": "industry",
+                "summary": "币安在希腊撤回MiCA许可证申请，影响欧盟用户。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注欧盟监管动态，调整合规策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-06-25-industry-9",
+                "title": "Fake Crypto Influencer Gets 15 Months for $1.4M Telegram Staking Fraud",
+                "source": "Decrypt",
+                "date": "2026-06-25",
+                "url": "https://decrypt.co/371989/fake-crypto-influencer-gets-15-months-for-1-4m-telegram-staking-fraud",
+                "category": "industry",
+                "summary": "假冒加密货币影响者诈骗事件曝光。",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注加密货币监管动态，提升合规性。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-06-25-industry-10",
+                "title": "South Korean Officials Meet With US SEC, Weigh Unified Crypto Rules Amid Local Scandals",
+                "source": "Decrypt",
+                "date": "2026-06-25",
+                "url": "https://decrypt.co/371970/south-korean-officials-meet-us-sec-unified-crypto-rules-scandals",
+                "category": "industry",
+                "summary": "韩国官员与美国SEC会面讨论加密监管",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注韩国与美国的监管动态",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-06-25-industry-11",
+                "title": "DOJ Seizes Huione Infrastructure Linked to Billions in Crypto Laundering",
+                "source": "Decrypt",
+                "date": "2026-06-25",
+                "url": "https://decrypt.co/371950/doj-seizes-huione-infrastructure-linked-to-billions-in-crypto-laundering",
+                "category": "industry",
+                "summary": "美国司法部查封与Huione相关的基础设施。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注加密货币监管动态，评估影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-06-25-industry-12",
+                "title": "Daya raises $2.4 million from Aptos and others to power African cross-border payments - thestreet.co",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-06-25",
+                "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVjE0MjhSTUwzcnBFa1JCbklPQk9lTEVadEJDdHBhUGFPYmVkYVFuNzloMUJQYUMtNjdlLUdHdXp0dmJUZUt4T2lUV2JEaXNKVnppdjVfajV3c2tHenhWa2ZHdFpHTUZnZTMzd0k0RG9TX2VQTnRWRnJHOTk2WlhqUG1YQzFJMjkxbzlZdWxKYkRJTU9PTHNFS2VBalZOdllHQVptVmxaOUxoR1RvNjk5T1JJdjY0R0Z5b3lEZHllQ2Fpb3A4X21F?oc=5",
+                "category": "industry",
+                "summary": "Daya获得资金以推动非洲跨境支付。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注非洲市场动态，评估潜在影响。",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购",
+                "tickers": [
+                    "Daya",
+                    "Aptos"
+                ]
+            },
+            {
+                "id": "2026-06-25-industry-13",
+                "title": "Daya raises $2.4M to build stablecoin payment stack for African businesses - Crypto Briefing",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-06-25",
+                "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5URi1mRDl6VFNVcXFSSFVGbGxWM283NHVSOWRtVDI0eXdKcEs4azNIQ25wclB6Y19wQ25YUEJvMlUwTlFXd1FWZ3VxYmR5aDFwX3Q5QlVIZV9oTzRtYlhKUGtObmxpaUJxLWtzT2FwSzhiSENsRjJLUw?oc=5",
+                "category": "industry",
+                "summary": "Daya融资用于构建非洲稳定币支付系统。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注非洲市场的稳定币支付动态。",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-06-25-industry-14",
+                "title": "OpenPayd secures MiCA license as stablecoin adoption grows in Europe - Cryptonews.net",
+                "source": "Google News (stablecoin license)",
+                "date": "2026-06-25",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53NHdvMkNGWC1TMHN4V19VSnJBZ0l5aG1qS1hKcFNVVFRVYUd2SWF4bnZrNEhlR2JDRWJVdnlYbmY2UnhnOXc3UlExQ01iODk2cDIyRzBzYzc?oc=5",
+                "category": "industry",
+                "summary": "OpenPayd获得MiCA许可，促进稳定币在欧洲的采用。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注MiCA政策对市场的长期影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "OpenPayd"
+                ]
+            },
+            {
+                "id": "2026-06-25-industry-15",
+                "title": "OpenPayd secures MiCA license to expand stablecoin services across Europe - crypto.news",
+                "source": "Google News (stablecoin license)",
+                "date": "2026-06-25",
+                "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ2wyRXRRVklqR1pybTFRT1N1VzhqZEEzYzVGSnZXYURwdDk0cElNMVZmRmhPSXQzQ3k0NXJIRWJxS19NQTR4SzRPTS1Za2lBajNUTGUtdW4xZDhBVjhBdmdDcGsweklhdVoyVnpRV3VUMV9taFhBaS1QT0sxbW9lT1NGWkY3UENiY1QwZC1SNW5ESjhxV2VlZGpB?oc=5",
+                "category": "industry",
+                "summary": "OpenPayd获得MiCA许可证以扩展稳定币服务。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注监管动态以适应市场变化。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "OpenPayd"
+                ]
+            },
+            {
+                "id": "2026-06-25-industry-16",
+                "title": "Yellow Card’s Swiss approval opens new stablecoin route for capital flows into Africa - Businessday ",
+                "source": "Google News (stablecoin license)",
+                "date": "2026-06-25",
+                "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdGg1LXFLc0NvWW9YeXBmN2JFbk80ZzdkZXNIQmxSZHItVW1JejNJUHRlVDcxbFptbDlaajhrU2lPQl9lNjh0TmhTUjdqYWxMaXV1Z3ZXem5WQ2s3cXk2UWxzanlLeHVEbDNlUzFVdWktRml4ZGtVRDJQXzRVQXkxOW5NQVpXU0xvTVNUclk4b0JPdGNhVExXdjRaZ3AzQnNjay1oSzNWWEFNUnlrRE9TSmlNTFBBay1BR1E3VVdIQ01KY1BaZ1E?oc=5",
+                "category": "industry",
+                "summary": "Yellow Card获得瑞士批准，推动非洲资本流入的稳定币新路径。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注非洲市场的稳定币发展动态",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Yellow Card"
+                ]
+            },
+            {
+                "id": "2026-06-25-industry-17",
+                "title": "The New Settlement Frontier: Bank-Led Stablecoins and the Reordering of Global Capital Flows - Payme",
+                "source": "Google News (stablecoin regulation Hong Kong)",
+                "date": "2026-06-25",
+                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQclExMTMyMGtEUHkySVZhbjBSUy1zZm82aXdDWENVMGNNb2Vxc1NYRXpTYWx1WUpHM1o4V3JqWEF6V3NUVEwxT0FiY0xKbW9tUW83bnpibmNzMUltMVdrcFNsd2FBOGl6ZENuWTc1Zkk4RVZ2THEzWkItZTFrMWNwaEFTcG40Z3d1RmRVRi1WVlpwdTEyZThPM3B4YkJNUHRHOTlnQkVkaXhKRU8zTkZ3dWRUZUozbDVUV3hJYVl5SUt2Z9IBxwFBVV95cUxOSWNMRHR4XzZpSzlyWERrNlFkNDBrSy0xMVBMM0dYQnFfWXpGVUZMOEszbmg1X3RrdHVjLU54TW9yWVV6eHJKSzNGN2R5M2o5enlvamFBczVzZEFJcTBwc1JQdlVwNk9naUdMb2x4bXN0Z1JwZHc2U2tUNE1CbE56ZFU5bTViSVM3UzFvWHlqSF83Qlhra3dQc2x6dUZHTzRBWUJYV3ZfMDN1NTZqOEV4V2UzRV8tbkdaWW1DeGF1bXlmUFBjRjhF?oc=5",
+                "category": "industry",
+                "summary": "银行主导的稳定币正在重塑全球资本流动。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注银行稳定币对市场的影响。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-06-25-industry-18",
+                "title": "Korean banks join Europe to test won–euro stablecoin remittance and settlement - CHOSUNBIZ - Chosunb",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-06-25",
+                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSGc0QXA1X1g0RnNubEZqYTdyYWpKTFB4T0JRRDBjSzJ2OVBlUDZyRjF6TkRxeGl1alZlX0NQeVNyRExGM3plTVJEMHdGOEZZOGtYbnpORlZ2a0k5RF8wenJrbm5ZTzl5QlFKYWZyVW9JcVlBRnZPVmlaYk9DbzkzRNIBlAFBVV95cUxQblVTaFItOHpQTjNLc0FMUjdjY2FVeHpYRk1rSGFiaUxJSlljbVRPM1lyZnBmQ1haU0VXN2g3Ni10cXdhaDg4NjZzY29Db1lNMGNXU05IZXpDTkxtelZXaGdKd25JS0lLc1RTd0poTUtfSW1iY0RMc2FjTlZ1Mm5lRzlmNGN0d2tvMDhVeVphd0QyTFRv?oc=5",
+                "category": "industry",
+                "summary": "韩国银行与欧洲合作测试韩元-欧元稳定币汇款和结算。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币在跨境支付中的应用动态",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-06-25-industry-19",
+                "title": "SBI And Startale Put Yen Stablecoins Back In The Institutional Spotlight - TradingView",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-06-25",
+                "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMTBWa053cTQyYkF2OThIcDhwazAyODVtR1J1Q2VXSXhpdmgxVHVKSEpXYVhMMGdLS0hWbk1WV0JJSDhkd0w2UEVCSmtXUmJLUEp0eGRfaEM3ci13M1VyazhaSTJUcGpBODgxLWJPMHpSLWc5WTZkcVpVZWdzdHlHMzV5dERzRkJHbDRIN0dHcmFvOW12c1VKVXVmVHhVUmlldGFHY1BXVlQ0T2tsdFVWS0hlbE03RTBsZE5JSFBtRUI3YlVDb3llaHdR?oc=5",
+                "category": "industry",
+                "summary": "SBI和Startale推动日元稳定币回归机构关注。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注日元稳定币的市场动态和监管政策。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "SBI",
+                    "Startale"
+                ]
+            },
+            {
+                "id": "2026-06-25-industry-20",
+                "title": "Circle partners with Bahraini fintech INFINIOS to expand USDC payment infrastructure in the Middle E",
+                "source": "Google News (USDC payment partnership)",
+                "date": "2026-06-25",
+                "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBKY3duTFA0enZxNllMVml0R3JOWmlaWk1aVXFjdDZ2MEh5QVQ4S0RQMld4cTNHd2YwcktLR2EwcjlZZkk1UlRR?oc=5",
+                "category": "industry",
+                "summary": "Circle与INFINIOS合作扩展USDC支付基础设施。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注中东市场的支付基础设施动态",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Circle",
+                    "INFINIOS"
+                ]
+            }
+        ],
+        "stats": {
+            "totalThreats": 1,
+            "highThreats": 1,
+            "mediumThreats": 0,
+            "lowThreats": 0,
+            "competitorUpdates": 1,
+            "customerUpdates": 0,
+            "industryUpdates": 21
+        },
+        "dailySummary": {
+            "competitorThreat": "今日最大的竞争威胁来自于OpenPayd，该公司成功获得欧盟MiCA许可证，这将增强其在稳定币市场的合规性和竞争力。随着监管环境的逐步明确，OpenPayd的这一举措可能会吸引更多用户和合作伙伴，给其他稳定币提供商带来压力。建议相关公司加速合规进程，提升技术基础设施，并考虑与金融机构合作，以增强市场竞争力并适应新的监管要求。同时，加强用户教育，提升品牌信任度也是应对这一威胁的有效策略。",
+            "industryTrend": "今日稳定币行业的主要热点包括Ripple在日本推出RLUSD稳定币以及SBI集团推出的JPYSC，这标志着日本市场对稳定币的监管逐渐成熟。同时，CoinEx与恐怖组织资金交易的消息引发了对合规性和风险管理的关注。此外，美联储考虑为加密公司提供账户访问权限，可能会进一步推动稳定币的合法化和主流化。整体来看，行业正在向更加合规和安全的方向发展，稳定币的托管和支付基础设施也将面临更高的监管要求，促使行业参与者加大对合规技术的投资。"
+        },
+        "highlights": {
+            "competitors": [
+                {
+                    "id": "2026-06-25-competitor-0",
+                    "title": "REGULATION | Stablecoin Infrastructure Provider, OpenPayd, Secures a European Union MiCA License - B",
+                    "source": "Google News (stablecoin license)",
+                    "date": "2026-06-25",
+                    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRTHoyQ05lNVo4aXZ5Smh1SmhhamZfYkNlNkNvN1VnYWIwOV9KNTVDOHlhTDZ4cC1LZzFWVGJGSG52dVpMTWY1djBLRHVURThKZzc5Vk9HZy1jQm5aWWZqTHlMUmlYOFhHNWNB?oc=5",
+                    "category": "competitor",
+                    "summary": "OpenPayd获得欧盟MiCA许可证，影响稳定币市场。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "合规优势",
+                        "市场定价",
+                        "技术差距"
+                    ],
+                    "action": "关注OpenPayd的市场动向，优化合规策略。",
+                    "tickers": [
+                        "OpenPayd"
+                    ]
+                }
+            ],
+            "clients": [],
+            "industry": [
+                {
+                    "id": "2026-06-25-industry-0",
+                    "title": "CoinEx processed $3.8 billion in Iran-linked funds, acting as crypto gateway: TRM Labs",
+                    "source": "The Block",
+                    "date": "2026-06-25",
+                    "url": "https://www.theblock.co/post/406073/coinex-iran-trm-labs?utm_source=rss&utm_medium=rss",
+                    "category": "industry",
+                    "summary": "CoinEx 涉及与恐怖组织的资金交易问题。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "监管影响",
+                        "市场趋势"
+                    ],
+                    "action": "关注相关监管政策的变化。",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照",
+                    "tickers": [
+                        "CoinEx"
+                    ]
+                },
+                {
+                    "id": "2026-06-25-industry-1",
+                    "title": "Ripple launches RLUSD stablecoin in Japan after regulatory approval",
+                    "source": "The Block",
+                    "date": "2026-06-25",
+                    "url": "https://www.theblock.co/post/406067/ripple-launches-rlusd-stablecoin-japan?utm_source=rss&utm_medium=rss",
+                    "category": "industry",
+                    "summary": "Ripple在日本推出RLUSD稳定币，获得监管批准。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "关注稳定币市场动态，评估竞争影响。",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照",
+                    "tickers": [
+                        "Ripple",
+                        "SBI VC Trade"
+                    ]
+                },
+                {
+                    "id": "2026-06-25-industry-2",
+                    "title": "Who gets a direct line to the Fed? Congress weighs risks of Fed ‘skinny accounts’ for crypto and fin",
+                    "source": "The Block",
+                    "date": "2026-06-25",
+                    "url": "https://www.theblock.co/post/406050/who-gets-direct-line-to-fed-congress-weighs-risks-fed-skinny-accounts-crypto-fintech-firms?utm_source=rss&utm_medium=rss",
+                    "category": "industry",
+                    "summary": "美联储考虑为加密公司提供账户访问权限。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "监管影响",
+                        "市场趋势"
+                    ],
+                    "action": "关注监管政策变化，评估影响。",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照"
+                }
+            ]
+        }
+    },
+    {
         "date": "2026-06-24",
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-06-24.md",
@@ -99139,1694 +99669,6 @@ const dailyReports = [
                         "市场趋势"
                     ],
                     "action": "关注以太坊价格变化对市场的影响",
-                    "subcategory": "other",
-                    "subcategoryName": "其他"
-                }
-            ]
-        }
-    },
-    {
-        "date": "2026-03-27",
-        "title": "稳定币行业日报",
-        "file": "reports/daily/daily_brief_2026-03-27.md",
-        "newsItems": [
-            {
-                "id": "2026-03-27-competitor-0",
-                "title": "Mercor competitor Deccan AI raises $25M, sources experts from India | TechCrunch",
-                "source": "TechCrunch",
-                "date": "2026-03-27",
-                "url": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
-                "category": "competitor",
-                "summary": "Deccan AI获得2500万美元融资，成为Mercor竞争对手。",
-                "threatLevel": "medium",
-                "impact": [
-                    "产品竞争",
-                    "客户争夺"
-                ],
-                "action": "关注Deccan AI的市场动态，调整竞争策略。",
-                "tickers": [
-                    "Deccan AI"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-1",
-                "title": "Anchorage Digital Bridges TRON To US Institutions With New Custody Support - Benzinga",
-                "source": "Google News (crypto custody institution)",
-                "date": "2026-03-27",
-                "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbXRnMUFnYUgxTWRfUkREWFB0YnY0SFluMUpXUEJ4dmxvaHBXUkpzUkM0ZUZMTXBPYndwYTd6VGlJMEJsTnI1cWQzcnR1eWFoc0ZkM3JpQ1NjUEpJdFFmUXF0Y0FkYkFEZVAwSnRvN2RhLWRzSWhadUJaWmVRQnFZQjljOVdTZkUyU3ZZbzZtcGhwV3hmbEx1ODNYYkJ6NlE2UEMtZUpkdUUwenlQM1dqel9wVGJBb3RpSHktTTdHUDh0bm5GRnRjUlVPSi14Z3ZyX0E?oc=5",
-                "category": "competitor",
-                "summary": "Anchorage Digital 为美国机构提供 TRON 托管服务。",
-                "threatLevel": "medium",
-                "impact": [
-                    "产品竞争",
-                    "客户争夺"
-                ],
-                "action": "关注 Anchorage Digital 的市场动态，调整策略。",
-                "tickers": [
-                    "Anchorage Digital"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-2",
-                "title": ". @BitGo is an OCC chartered bank for institutional custody and risk management of HYPE.\n\nIn additio",
-                "source": "Twitter @HLglobal_",
-                "date": "2026-03-27",
-                "url": "https://x.com/HLglobal_/status/2037183376361480644",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "BitGo"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-3",
-                "title": "By embedding multi-vendor data and real-time risk screening into our MPC + TEE self-custody architec",
-                "source": "Twitter @Safeheron",
-                "date": "2026-03-27",
-                "url": "https://x.com/Safeheron/status/2037074567488057516",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": ""
-            },
-            {
-                "id": "2026-03-27-competitor-4",
-                "title": "In this article, we’ll explore why digital asset custody is critical for institutions and how soluti",
-                "source": "Twitter @sourceforge",
-                "date": "2026-03-27",
-                "url": "https://x.com/sourceforge/status/2037279280313315572",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Fireblocks"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-5",
-                "title": "Three business models. One moment.\n\nCrypto natives maturing. Banks reinventing. Stablecoin-native bu",
-                "source": "Twitter @FireblocksHQ",
-                "date": "2026-03-27",
-                "url": "https://x.com/FireblocksHQ/status/2037257191078445329",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": ""
-            },
-            {
-                "id": "2026-03-27-competitor-6",
-                "title": "TON just went mainstream.\n\nWalletConnect the giant powering \n500M+ users, 700+ wallets, and $400B+ i",
-                "source": "Twitter @TaofiqSz",
-                "date": "2026-03-27",
-                "url": "https://x.com/TaofiqSz/status/2037247087889309820",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Fireblocks"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-7",
-                "title": "@FireblocksHQ  and @SafePal are among the first to integrate TON through WalletConnect. Through Fire",
-                "source": "Twitter @ton_blockchain",
-                "date": "2026-03-27",
-                "url": "https://x.com/ton_blockchain/status/2037236805611761757",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Fireblocks"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-8",
-                "title": "the aim of @KASTxyz is to create an ecosystem that acts like a bank account for crypto bros and sis.",
-                "source": "Twitter @dcryptoalani",
-                "date": "2026-03-27",
-                "url": "https://x.com/dcryptoalani/status/2037214462701146235",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Fireblocks",
-                    "BitGo"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-9",
-                "title": "Fireblocks takes over the Connect Lounge at #PBW2026.\n\nApril 15 | 15:30 CEST Institutional yield pan",
-                "source": "Twitter @FireblocksHQ",
-                "date": "2026-03-27",
-                "url": "https://x.com/FireblocksHQ/status/2037194174684930156",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Fireblocks"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-10",
-                "title": "BitGo at @ethmumbai 2026.\n\nThe best part of a week like this isn't the stage time. It's the conversa",
-                "source": "Twitter @BitGo",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitGo/status/2037378675424014529",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "BitGo"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-11",
-                "title": "bitgo and susquehanna launching OTC access for polymarket and kalshi with BTC collateral changes the",
-                "source": "Twitter @aixbt_agent",
-                "date": "2026-03-27",
-                "url": "https://x.com/aixbt_agent/status/2037336894800019479",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "BitGo"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-12",
-                "title": "ICYMI: BitGo extends qualified custody to CIP-56 assets on Canton.\n\nStablecoins, wrapped Bitcoin, an",
-                "source": "Twitter @CantonNetwork",
-                "date": "2026-03-27",
-                "url": "https://x.com/CantonNetwork/status/2037325477602582865",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "BitGo"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-13",
-                "title": "JUST IN: Anchorage Digital will now support TRON Network, extending institutional-grade custody and ",
-                "source": "Twitter @SwanDesk",
-                "date": "2026-03-27",
-                "url": "https://x.com/SwanDesk/status/2037292369683341377",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Anchorage Digital"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-14",
-                "title": "🚨BREAKING: Anchorage Digital becomes the first federally chartered U.S. firm to support TRON, bringi",
-                "source": "Twitter @thedailyblock",
-                "date": "2026-03-27",
-                "url": "https://x.com/thedailyblock/status/2037267093155176927",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Anchorage Digital"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-15",
-                "title": "Institutional infrastructure isn't just a wallet; it's a comprehensive OS.\n\nA deep dive into next-ge",
-                "source": "Twitter @Safeheron",
-                "date": "2026-03-27",
-                "url": "https://x.com/Safeheron/status/2037074570038174027",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": ""
-            },
-            {
-                "id": "2026-03-27-competitor-16",
-                "title": "Our philosophy💡\n\nSecurity & compliance must be integrated at the architectural level, not patched on",
-                "source": "Twitter @Safeheron",
-                "date": "2026-03-27",
-                "url": "https://x.com/Safeheron/status/2037074563725746421",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Safeheron"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-17",
-                "title": "The struggles are real\n\n💢 Over-isolate for security? You lose liquidity.\n\n💢Enforce strict KYT? Manua",
-                "source": "Twitter @Safeheron",
-                "date": "2026-03-27",
-                "url": "https://x.com/Safeheron/status/2037074561263690060",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": ""
-            },
-            {
-                "id": "2026-03-27-competitor-18",
-                "title": "Security vs. Compliance vs. Efficiency ⬇️\n\nThe daily operational struggle isn't whether to embrace d",
-                "source": "Twitter @Safeheron",
-                "date": "2026-03-27",
-                "url": "https://x.com/Safeheron/status/2037074557333602496",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": ""
-            },
-            {
-                "id": "2026-03-27-competitor-19",
-                "title": "RT @dynamic_xyz: Ship a @HyperliquidX trading agent in minutes.\n\nYour agent signs trades without eve",
-                "source": "Twitter @FireblocksHQ",
-                "date": "2026-03-27",
-                "url": "https://x.com/FireblocksHQ/status/2037268098085015972",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": ""
-            },
-            {
-                "id": "2026-03-27-competitor-20",
-                "title": "RT @TokenizedPod: 🚨 Ep. 4 of Stablecoin Stories: 3X Bank Founder Building the Bank for Tokenized Fin",
-                "source": "Twitter @FireblocksHQ",
-                "date": "2026-03-27",
-                "url": "https://x.com/FireblocksHQ/status/2037257287262253435",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": ""
-            },
-            {
-                "id": "2026-03-27-competitor-21",
-                "title": "RT @thoughtsofsteve: The stablecoin story isn't about the asset anymore — it's about the rail.\n\nOn s",
-                "source": "Twitter @FireblocksHQ",
-                "date": "2026-03-27",
-                "url": "https://x.com/FireblocksHQ/status/2037200658734948463",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": ""
-            },
-            {
-                "id": "2026-03-27-competitor-22",
-                "title": "RT @FintechSIN: Join leaders from Fireblocks, Coinbase, FOMO Pay, and AWS as we discuss how stableco",
-                "source": "Twitter @FireblocksHQ",
-                "date": "2026-03-27",
-                "url": "https://x.com/FireblocksHQ/status/2037048722534867423",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Fireblocks"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-23",
-                "title": "We're thrilled to welcome @DylanLeClair to the High Roller Summit stage.\n\nDylan built his reputation",
-                "source": "Twitter @BitGo",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitGo/status/2037307575461609861",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": ""
-            },
-            {
-                "id": "2026-03-27-competitor-24",
-                "title": "Stephanie Chew, Director of Strategy at @OpenEden_X, shares why BitGo is the custody backbone behind",
-                "source": "Twitter @BitGo",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitGo/status/2037288485200282038",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "BitGo"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-25",
-                "title": "The High Roller Summit speaker lineup keeps growing!\n\n@willreeves has spent a decade building the br",
-                "source": "Twitter @BitGo",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitGo/status/2037279600867459520",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": ""
-            },
-            {
-                "id": "2026-03-27-competitor-26",
-                "title": "BitGo $BTGO reported 4Q and FY25 results – our first as a public company – this afternoon.\n\nWe poste",
-                "source": "Twitter @BitGo",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitGo/status/2037265802668474459",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "BitGo"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-27",
-                "title": "Clients are asking their institutions about digital assets.\n\nBitGo lets banks say, “yes” to crypto. ",
-                "source": "Twitter @BitGo",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitGo/status/2037254172526227904",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "BitGo"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-28",
-                "title": "Our next High Roller Summit speaker is one of the sharpest institutional minds in crypto.\n\nJeff Park",
-                "source": "Twitter @BitGo",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitGo/status/2037245883189006651",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": ""
-            },
-            {
-                "id": "2026-03-27-competitor-29",
-                "title": "Our next High Roller Summit speaker has been covering this industry longer than most have been payin",
-                "source": "Twitter @BitGo",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitGo/status/2037220239797297412",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": ""
-            },
-            {
-                "id": "2026-03-27-competitor-30",
-                "title": "Regulatory clarity is changing the game for institutional digital assets.\n\nBitGo's Brett Reeves spok",
-                "source": "Twitter @BitGo",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitGo/status/2037207817736912991",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "BitGo"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-31",
-                "title": "BitGo is bringing the High Roller Summit back to Las Vegas for bitcoin2026.\n\nFew people have bet big",
-                "source": "Twitter @BitGo",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitGo/status/2037200263090688376",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "BitGo"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-32",
-                "title": "Bitcoin is transforming into productive capital. Institutions want access. We are proudly providing ",
-                "source": "Twitter @Anchorage",
-                "date": "2026-03-27",
-                "url": "https://x.com/Anchorage/status/2037242433734664224",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Anchorage Digital"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-33",
-                "title": "Anchorage Digital is your new access point to the @trondao ecosystem.\n\n$TRX custody is now live with",
-                "source": "Twitter @Anchorage",
-                "date": "2026-03-27",
-                "url": "https://x.com/Anchorage/status/2037213463072956729",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Anchorage Digital"
-                ]
-            },
-            {
-                "id": "2026-03-27-competitor-34",
-                "title": "RT @BoysClubWorld: Token management = Risk management\n\n@goforlindsey explains how utilizing custodia",
-                "source": "Twitter @Anchorage",
-                "date": "2026-03-27",
-                "url": "https://x.com/Anchorage/status/2037211611925275018",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": ""
-            },
-            {
-                "id": "2026-03-27-competitor-35",
-                "title": "RT @blockworksDAS: \"@blockworksres is doing God's work, showing all sorts of fundamental metrics — y",
-                "source": "Twitter @Anchorage",
-                "date": "2026-03-27",
-                "url": "https://x.com/Anchorage/status/2037181361963098548",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": ""
-            },
-            {
-                "id": "2026-03-27-competitor-36",
-                "title": "🔔Starting in one hour on the main stage at @blockworksDAS\n\nDon't miss Anchorage Digital Head of Rese",
-                "source": "Twitter @Anchorage",
-                "date": "2026-03-27",
-                "url": "https://x.com/Anchorage/status/2037155413729435740",
-                "category": "competitor",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Anchorage Digital"
-                ]
-            },
-            {
-                "id": "2026-03-27-customer-0",
-                "title": "📣 New Listing: Palantir Tech (PLTR) is now live on Bitunix Futures!            \n\n👉 $PLTR Futures tra",
-                "source": "Twitter @BitunixOfficial",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitunixOfficial/status/2037175489639702961",
-                "category": "customer",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Bitunix"
-                ]
-            },
-            {
-                "id": "2026-03-27-customer-1",
-                "title": "📣 New Listing: PayPay Corp (PAYP) is now live on Bitunix Futures!  \n\n👉 $PAYP Futures trading: https:",
-                "source": "Twitter @BitunixOfficial",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitunixOfficial/status/2037156866808307776",
-                "category": "customer",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Bitunix"
-                ]
-            },
-            {
-                "id": "2026-03-27-customer-2",
-                "title": "😊 Tesla fun fact: \n\nIt took Elon Musk roughly 10 years and $11 million to acquire Tesla[.]com domain",
-                "source": "Twitter @BitunixOfficial",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitunixOfficial/status/2037142270609395835",
-                "category": "customer",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Bitunix"
-                ]
-            },
-            {
-                "id": "2026-03-27-customer-3",
-                "title": "🔥 BITUNIX GAINERS 🔥 \n\n$ESPORT - @Yooldo_Games 24H Change: +24%  \n\n👉 Trade Now: https://t.co/06z5zasP",
-                "source": "Twitter @BitunixOfficial",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitunixOfficial/status/2037130191022019064",
-                "category": "customer",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Bitunix"
-                ]
-            },
-            {
-                "id": "2026-03-27-customer-4",
-                "title": "🔥 BITUNIX GAINERS 🔥 \n\n$M - @MemeCore_M 24H Change: +43%             \n\n👉 Trade Now: https://t.co/06z5",
-                "source": "Twitter @BitunixOfficial",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitunixOfficial/status/2037116349588398184",
-                "category": "customer",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Bitunix"
-                ]
-            },
-            {
-                "id": "2026-03-27-customer-5",
-                "title": "The Bitunix March Trading Carnival is heating up! \n\nThe current top individual reward has already hi",
-                "source": "Twitter @BitunixOfficial",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitunixOfficial/status/2037101250047516747",
-                "category": "customer",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Bitunix"
-                ]
-            },
-            {
-                "id": "2026-03-27-customer-6",
-                "title": "Crypto? Stocks? Why not both!\n\nTrade the big names like $NVDA, $TSLA, and $AAPL without ever leaving",
-                "source": "Twitter @BitunixOfficial",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitunixOfficial/status/2037054441682329710",
-                "category": "customer",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "tickers": [
-                    "Bitunix"
-                ]
-            },
-            {
-                "id": "2026-03-27-industry-0",
-                "title": "How Cravin uses provably fair verification in mystery boxes",
-                "source": "CryptoSlate",
-                "date": "2026-03-27",
-                "url": "https://cryptoslate.com/how-cravin-uses-provably-fair-verification-in-mystery-boxes/",
-                "category": "industry",
-                "summary": "Cravin使用可验证的公平性技术用于神秘盒子。",
-                "threatLevel": "medium",
-                "impact": [
-                    "技术发展"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-03-27-industry-1",
-                "title": "Crypto News: Pepeto Bridge Update While Markets Ask Whether XRP Price Prediction Can Reach $5 to $10",
-                "source": "GlobeNewswire",
-                "date": "2026-03-27",
-                "url": "https://www.globenewswire.com/news-release/2026/03/26/3262688/0/en/Crypto-News-Pepeto-Bridge-Update-While-Markets-Ask-Whether-XRP-Price-Prediction-Can-Reach-5-to-10-Soon.html",
-                "category": "industry",
-                "summary": "市场对XRP价格的预测引发关注。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-03-27-industry-2",
-                "title": "Instant Withdrawal Casinos for April 2026: Fast Payout Platforms in Canada",
-                "source": "The Punch",
-                "date": "2026-03-27",
-                "url": "https://punchng.com/instant-withdrawal-casinos-for-april-2026-fast-payout-platforms-in-canada/",
-                "category": "industry",
-                "summary": "加拿大的快速支付平台动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注快速支付平台的发展动态。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-03-27-industry-3",
-                "title": "Bitcoin Depot picks ex-MoneyGram boss as CEO as state actions mount",
-                "source": "Cointelegraph",
-                "date": "2026-03-27",
-                "url": "https://cointelegraph.com/news/bitcoin-depot-ex-moneygram-boss-as-ceo-state-actions-mount",
-                "category": "industry",
-                "summary": "Bitcoin Depot任命前MoneyGram首席执行官应对监管挑战。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注监管动态，调整合规策略。",
-                "subcategory": "other",
-                "subcategoryName": "其他",
-                "tickers": [
-                    "Bitcoin Depot",
-                    "MoneyGram"
-                ]
-            },
-            {
-                "id": "2026-03-27-industry-4",
-                "title": "Court rejects dev's bid to shield software from money transmitter laws",
-                "source": "Cointelegraph",
-                "date": "2026-03-27",
-                "url": "https://cointelegraph.com/news/crypto-developer-michael-lewellen-case-dismissed",
-                "category": "industry",
-                "summary": "法院拒绝开发者保护软件免受货币传输法律约束的请求。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注监管政策变化对业务的影响",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-03-27-industry-5",
-                "title": "Australia's central bank backs tokenization as pilot finds $16.7B upside",
-                "source": "Cointelegraph",
-                "date": "2026-03-27",
-                "url": "https://cointelegraph.com/news/australian-central-bank-backs-rwa-tokenisation-explores-digital-finance-sandbox",
-                "category": "industry",
-                "summary": "澳大利亚央行支持代币化，显示支付行业潜力。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注代币化技术的进展与应用",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-03-27-industry-8",
-                "title": "British Labour Government Temporarily Blocks Crypto Donations for Political Parties in Blow to Nigel",
-                "source": "Thegatewaypundit.com",
-                "date": "2026-03-27",
-                "url": "https://www.thegatewaypundit.com/2026/03/british-labour-government-temporarily-blocks-crypto-donations-political/",
-                "category": "industry",
-                "summary": "英国政府暂时阻止政治党派接受加密捐款。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注后续监管政策变化",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-03-27-industry-9",
-                "title": "Pepeto Announces AI Tools Update While XRP and Cardano Debate of Best Crypto to Buy Now Accelerates ",
-                "source": "GlobeNewswire",
-                "date": "2026-03-27",
-                "url": "https://www.globenewswire.com/news-release/2026/03/26/3262691/0/en/Pepeto-Announces-AI-Tools-Update-While-XRP-and-Cardano-Debate-of-Best-Crypto-to-Buy-Now-Accelerates-Through-The-Crypto-News.html",
-                "category": "industry",
-                "summary": "Pepeto更新AI工具，XRP和Cardano讨论加剧。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-03-27-industry-10",
-                "title": "UK to ban cryptocurrency donations to political parties, says Keir Starmer",
-                "source": "BusinessLine",
-                "date": "2026-03-27",
-                "url": "https://www.thehindubusinessline.com/news/world/uk-to-ban-cryptocurrency-donations-to-political-parties-says-keir-starmer/article70785780.ece",
-                "category": "industry",
-                "summary": "英国将禁止政治党派接受加密货币捐款。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注监管动向，调整合规策略。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-03-27-industry-11",
-                "title": "agent-capability-exchange added to PyPI",
-                "source": "Pypi.org",
-                "date": "2026-03-27",
-                "url": "https://pypi.org/project/agent-capability-exchange/",
-                "category": "industry",
-                "summary": "新增功能可能影响区块链基础设施发展。",
-                "threatLevel": "medium",
-                "impact": [
-                    "技术发展"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-03-27-industry-12",
-                "title": "Agentic retail dispute resolution startup Glimpse raises $35M from Andreessen Horowitz and others",
-                "source": "SiliconANGLE News",
-                "date": "2026-03-27",
-                "url": "https://siliconangle.com/2026/03/25/agentic-retail-dispute-resolution-startup-glimpse-raises-35m-andreessen-horowitz-others/",
-                "category": "industry",
-                "summary": "Glimpse融资事件可能影响行业动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "投资机会"
-                ],
-                "action": "关注融资对行业的潜在影响",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-03-27-industry-13",
-                "title": "Plum Insurance raises $20 million, offers partial exit to Incubate Fund Asia",
-                "source": "Livemint",
-                "date": "2026-03-27",
-                "url": "https://www.livemint.com/companies/start-ups/plum-insurance-raises-money-early-investor-exit-valuation-doubles-healthcare-expansion-plans-11774435729326.html",
-                "category": "industry",
-                "summary": "Plum Insurance获得融资，涉及行业动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "投资机会"
-                ],
-                "action": "",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-03-27-industry-14",
-                "title": "Brendan Carr Says Gavin Newsom’s Nexstar-Tegna Opposition Is Driven by ‘Liberal Hollywood Donors’",
-                "source": "TheWrap",
-                "date": "2026-03-27",
-                "url": "https://www.thewrap.com/media-platforms/politics/brendan-carr-reacts-gavin-newsom-nexstar-tegna-opposition/",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-03-27-industry-15",
-                "title": "EXCLUSIVE: Prelude Growth Partners Leads KilgourMD’s Series A Round",
-                "source": "WWD",
-                "date": "2026-03-27",
-                "url": "http://wwd.com/beauty-industry-news/beauty-features/prelude-growth-kilgourmd-series-a-investment-1238689305/",
-                "category": "industry",
-                "summary": "KilgourMD获得融资，可能影响行业动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "投资机会"
-                ],
-                "action": "关注融资对市场的潜在影响",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-03-27-industry-16",
-                "title": "The least surprising chapter of the Manus story is what's happening right now | TechCrunch",
-                "source": "TechCrunch",
-                "date": "2026-03-27",
-                "url": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
-                "category": "industry",
-                "summary": "文章讨论了加密行业的动态和趋势。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注行业动态以调整策略",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-03-27-industry-17",
-                "title": "Framework to measure tech health of bourses on the cards",
-                "source": "The Times of India",
-                "date": "2026-03-27",
-                "url": "https://economictimes.indiatimes.com/markets/stocks/news/framework-to-measure-tech-health-of-bourses-on-cards/articleshow/129813968.cms",
-                "category": "industry",
-                "summary": "新框架将影响加密交易所的技术健康评估。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注监管政策变化，调整业务策略。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-03-27-industry-18",
-                "title": "Crypto Czar David Sacks leaves post to go to broader White House tech role as legislation faces chal",
-                "source": "The Block",
-                "date": "2026-03-27",
-                "url": "https://www.theblock.co/post/395399/crypto-czar-david-sacks-leaves-post-to-go-to-broader-white-house-tech-role-as-legislation-faces-challenges?utm_source=rss&utm_medium=rss",
-                "category": "industry",
-                "summary": "大卫·萨克斯离开白宫加密职位，转向更广泛的科技角色。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注未来的加密监管政策变化",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-03-27-industry-19",
-                "title": "The Daily: Fannie Mae’s crypto-backed mortgage push, Trust Wallet’s AI trading agents, MARA’s 15,000",
-                "source": "The Block",
-                "date": "2026-03-27",
-                "url": "https://www.theblock.co/post/395381/the-daily-fannie-maes-crypto-backed-mortgage-push-trust-wallets-ai-trading-agents-maras-15000-btc-sale-and-more?utm_source=rss&utm_medium=rss",
-                "category": "industry",
-                "summary": "文章涉及加密货币的多项动态和趋势。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注加密市场动态以调整策略。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-03-27-industry-20",
-                "title": "Anchorage becomes first federally chartered US firm to bring Tron ‘inside the regulatory perimeter’",
-                "source": "The Block",
-                "date": "2026-03-27",
-                "url": "https://www.theblock.co/post/395318/anchorage-federally-chartered-tron-inside-regulatory-perimeter?utm_source=rss&utm_medium=rss",
-                "category": "industry",
-                "summary": "Anchorage成为首家获得联邦特许的公司。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注Tron的监管动态与市场变化。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付",
-                "tickers": [
-                    "Anchorage"
-                ]
-            },
-            {
-                "id": "2026-03-27-industry-21",
-                "title": "BlackRock’s tokenized BUIDL fund taps Chronicle for new ‘verification layer’",
-                "source": "The Block",
-                "date": "2026-03-27",
-                "url": "https://www.theblock.co/post/395173/blackrock-tokenized-buidl-fund-taps-chronicle-new-verification-layer?utm_source=rss&utm_medium=rss",
-                "category": "industry",
-                "summary": "BlackRock推出代币化基金，影响行业动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注代币化金融产品的发展动态",
-                "subcategory": "other",
-                "subcategoryName": "其他",
-                "tickers": [
-                    "BlackRock"
-                ]
-            },
-            {
-                "id": "2026-03-27-industry-22",
-                "title": "CZ-owned Trust Wallet launches AI agents that can execute crypto trades",
-                "source": "The Block",
-                "date": "2026-03-27",
-                "url": "https://www.theblock.co/post/395286/cz-owned-trust-wallet-launches-ai-agents-that-can-execute-crypto-trades?utm_source=rss&utm_medium=rss",
-                "category": "industry",
-                "summary": "Trust Wallet推出AI代理执行加密交易。",
-                "threatLevel": "medium",
-                "impact": [
-                    "技术发展",
-                    "竞争格局"
-                ],
-                "action": "关注AI技术在加密交易中的应用",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照",
-                "tickers": [
-                    "Trust Wallet"
-                ]
-            },
-            {
-                "id": "2026-03-27-industry-23",
-                "title": "USDT0 expands to payments-focused blockchain Tempo",
-                "source": "The Block",
-                "date": "2026-03-27",
-                "url": "https://www.theblock.co/post/395232/tether-backed-usdt0-payments-blockchain-tempo?utm_source=rss&utm_medium=rss",
-                "category": "industry",
-                "summary": "USDT0扩展到支付区块链Tempo。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注支付领域的技术进展。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-03-27-industry-24",
-                "title": "UK sanctions crypto-linked marketplace Xinbi amid crackdown on Southeast Asia scam centres",
-                "source": "The Block",
-                "date": "2026-03-27",
-                "url": "https://www.theblock.co/post/395287/uk-sanctions-crypto-linked-marketplace-xinbi-amid-crackdown-on-southeast-asia-scam-centres?utm_source=rss&utm_medium=rss",
-                "category": "industry",
-                "summary": "英国制裁与加密相关市场平台Xinbi。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注监管动态，评估潜在影响。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-03-27-industry-25",
-                "title": "Stand With Crypto launches voter hub, endorses candidates ahead of November midterm elections",
-                "source": "The Block",
-                "date": "2026-03-27",
-                "url": "https://www.theblock.co/post/395183/stand-with-crypto-voter-hub-endorses-candidates-november-midterms?utm_source=rss&utm_medium=rss",
-                "category": "industry",
-                "summary": "Stand With Crypto支持候选人以影响加密政策。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注候选人政策对行业的潜在影响",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-03-27-industry-26",
-                "title": "Fannie Mae to accept bitcoin and USDC-backed mortgages in first for US housing finance",
-                "source": "The Block",
-                "date": "2026-03-27",
-                "url": "https://www.theblock.co/post/395253/fannie-mae-to-accept-crypto-backed-mortgages-in-first-for-us-housing-finance-wsj?utm_source=rss&utm_medium=rss",
-                "category": "industry",
-                "summary": "Fannie Mae将接受USDC作为抵押贷款的支持。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注稳定币在抵押贷款中的应用趋势。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付",
-                "tickers": [
-                    "Fannie Mae"
-                ]
-            },
-            {
-                "id": "2026-03-27-industry-27",
-                "title": "Nvidia faces certified class action over crypto revenue disclosures",
-                "source": "The Block",
-                "date": "2026-03-27",
-                "url": "https://www.theblock.co/post/395248/nvidia-faces-certified-class-action-over-crypto-revenue-disclosures?utm_source=rss&utm_medium=rss",
-                "category": "industry",
-                "summary": "Nvidia因未披露加密收入面临集体诉讼。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注加密收入透明度的监管动态。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照",
-                "tickers": [
-                    "Nvidia"
-                ]
-            },
-            {
-                "id": "2026-03-27-industry-28",
-                "title": "David Sacks Leaves White House Crypto Role With Key Legislation Still Unresolved",
-                "source": "Decrypt",
-                "date": "2026-03-27",
-                "url": "https://decrypt.co/362531/david-sacks-leaves-white-house-crypto-role-legislation",
-                "category": "industry",
-                "summary": "大卫·萨克斯离开白宫加密角色，立法未决。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注立法进展，评估对业务的影响。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-03-27-industry-29",
-                "title": "Trump Policy Has Crypto Privacy Developers in a 'Very Bad State', Says Coin Center",
-                "source": "Decrypt",
-                "date": "2026-03-27",
-                "url": "https://decrypt.co/362519/crypto-privacy-tool-laws-very-bad-state",
-                "category": "industry",
-                "summary": "特朗普政策对加密隐私开发者影响显著。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注政策变化，调整合规策略。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-03-27-industry-30",
-                "title": "Venture Firm Founder Offers Bounty to Help Recover $42 Million in Stolen Bitcoin, Crypto",
-                "source": "Decrypt",
-                "date": "2026-03-27",
-                "url": "https://decrypt.co/362482/venture-firm-founder-bounty-help-recover-42-million-stolen-bitcoin-crypto",
-                "category": "industry",
-                "summary": "Fenbushi Capital创始人寻求帮助追回被盗比特币。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注加密资产安全问题，提升自身安全措施。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-03-27-industry-31",
-                "title": "UK Sanctions Crypto Marketplace Xinbi in Crackdown on Southeast Asian Scam Centers",
-                "source": "Decrypt",
-                "date": "2026-03-27",
-                "url": "https://decrypt.co/362460/uk-sanctions-crypto-marketplace-xinbi-in-crackdown-on-southeast-asian-scam-centers",
-                "category": "industry",
-                "summary": "英国对加密市场的监管加强。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注监管动态，调整合规策略。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-03-27-industry-32",
-                "title": "Brazil Passes Law to Use Seized Bitcoin, Crypto to Fund Public Security Measures",
-                "source": "Decrypt",
-                "date": "2026-03-27",
-                "url": "https://decrypt.co/362453/brazil-passes-law-seized-bitcoin-crypto-fund-public-security",
-                "category": "industry",
-                "summary": "巴西通过法律允许没收比特币用于公共安全资金。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注巴西的加密货币监管动态",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-03-27-industry-33",
-                "title": "Stablecoin Giant Tether Expands Leading Gold-Backed Token to BNB Chain",
-                "source": "Decrypt",
-                "date": "2026-03-27",
-                "url": "https://decrypt.co/362448/stablecoin-giant-expands-leading-gold-backed-token-bnb-chain",
-                "category": "industry",
-                "summary": "Tether的黄金支持稳定币在BNB链上线。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注稳定币市场动态，评估竞争影响。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付",
-                "tickers": [
-                    "Tether"
-                ]
-            },
-            {
-                "id": "2026-03-27-industry-34",
-                "title": "Morning Minute: Trump’s New Science Council Is a Who’s Who of AI and Crypto",
-                "source": "Decrypt",
-                "date": "2026-03-27",
-                "url": "https://decrypt.co/362422/morning-minute-trumps-new-science-council-is-a-whos-who-of-ai-and-crypto",
-                "category": "industry",
-                "summary": "特朗普的新科学委员会中包含加密货币相关议题。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注加密货币监管动态",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照",
-                "tickers": [
-                    "Circle"
-                ]
-            },
-            {
-                "id": "2026-03-27-industry-35",
-                "title": "Coinbase, Fannie Mae to Enable Crypto-Backed Mortgages",
-                "source": "Decrypt",
-                "date": "2026-03-27",
-                "url": "https://decrypt.co/362421/coinbase-fannie-mae-to-enable-crypto-backed-mortgages",
-                "category": "industry",
-                "summary": "Coinbase与Fannie Mae合作推出加密抵押贷款计划。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注加密抵押贷款市场的动态。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付",
-                "tickers": [
-                    "Coinbase",
-                    "Fannie Mae"
-                ]
-            },
-            {
-                "id": "2026-03-27-industry-36",
-                "title": "Unlocking Business Value With Tokenized Deposits and Stablecoins - FTI Consulting",
-                "source": "Google News (stablecoin payment)",
-                "date": "2026-03-27",
-                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZTFrUHNBdmxqY1VJcE81SGl5VHBGQUw0amZfMUdmRVpVc3BnbTNvNFpReUlpVFJ5cFBsTFRpTDFUOUVDcHNYRG9aSTFoM2c0RmFiX0kxdjlCeTllWE1FMkJVZUZyTU9nSG1MTmlPMlJnSmNDS1RvbVNtbXUtWXJOQmlvR0ZaQmVCb0s3dFFEWjBVNjZyb3FRVEZXTXVrUVRVY0dMMVZn?oc=5",
-                "category": "industry",
-                "summary": "探讨稳定币和代币化存款的商业价值",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注稳定币市场动态",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-03-27-industry-37",
-                "title": "Crypto VCs Are Abandoning Web3 for the Dependability of Stablecoins - Bloomberg.com",
-                "source": "Google News (stablecoin payment)",
-                "date": "2026-03-27",
-                "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPREFFUGJrTDRQQTVhNTVwR0FoUnNLalk1dU95VFJsem5TZGhGTFpoN2JJNXgzcmQ2YjBlV2hubXBxRXVqVDBjblNnRkY0NDA2QzJjMFluWlpEVWVxZ3NDZ3g2OW9mUzYxc1prOXpxSUJjTkJLelZFdWRlZUxSZlM5V3BKQXJ6MHhZd0VmZHBkTXZXbUx3V2xKR2RrWU5zWVFBMXAtR0tmbGlUdTRDSm96VXJPSVJQT0RWUGYwem5n?oc=5",
-                "category": "industry",
-                "summary": "加密投资者转向稳定币的趋势明显。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "投资机会"
-                ],
-                "action": "关注稳定币市场动态，调整策略。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-03-27-industry-38",
-                "title": "The Definitive Stablecoin Landscape Series: North America - CoinDesk",
-                "source": "Google News (stablecoin payment)",
-                "date": "2026-03-27",
-                "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdlBsczlHQTZaM0luanBoSXlGRkJ3S29icVlDbjE2LS00bVpxdmwtS3pSVEk2ZUJaT3FYaEZYeVlUM3BhaEd6bE8xTUg0RExPOWlBUVB3QklTSTNVOERRdU96bW5UckliTWwwRUZxQnl5VEFqeHRCQmxYU0REV1IzSGFYMVQ1M2dYM1RZN0FwTG9PZmZJ?oc=5",
-                "category": "industry",
-                "summary": "分析北美稳定币市场动态。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注市场变化，调整策略。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-03-27-industry-39",
-                "title": "Revolut Crosses $1.2B in Stablecoin Volume on Polygon - Polygon Labs",
-                "source": "Google News (stablecoin payment)",
-                "date": "2026-03-27",
-                "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeExjX0VHN0tYUVF3OEVDMVpSRm9XNm9aWFYzeVlwNDBHOTE2dXYyMlFhQmNpSEtZLWpuRGloR3JoN0piN1IzaVBMTWNZajVrOXdQYWpxNUxWVG5ET015VER0S2h0MjVBNm5TUGtRV00xdnlRc0JnUlhnRWpVbzJDYWw3VG4wZ0JEeTNnTFIzWlJaaGFkWlRpQ3V5SVV3T0k0alF1NEYxUXhWZHJlZGlobmE0ZTFDTU9abElBb3EyV3c0ZDd2eVllSkxuem16SlowNm85RXNQWF8zNHc?oc=5",
-                "category": "industry",
-                "summary": "Revolut在Polygon上稳定币交易量突破12亿美元。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注稳定币市场动态，评估潜在影响。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付",
-                "tickers": [
-                    "Revolut",
-                    "Polygon"
-                ]
-            },
-            {
-                "id": "2026-03-27-industry-40",
-                "title": "Mastercard $1.8bn BVNK deal signals stablecoins shift to mainstream payment infrastructure: GlobalDa",
-                "source": "Google News (stablecoin payment)",
-                "date": "2026-03-27",
-                "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYlQyOGx0SDNyZFJaYWRSSWI5SkROSlFsVVFfQ3hPeVhBOTJMSFNyTGpiSW40SENuR0NlZUlxN25WdGZRVGp6b0h2U3ZKOHY5dU43cUNVbkstMkFRTTRhM01ZMkNpNURZRWxtUUVlU0J6V1EtN0Z5cHMtNDVfRThBSWczWmMxX3h0bzVzRjFCUDZHRkQ0OXdXbGpXNklQRkJCbGk5aGIzNHlPdlF2UGc4UA?oc=5",
-                "category": "industry",
-                "summary": "Mastercard与BVNK的交易推动稳定币进入主流支付基础设施。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "技术发展",
-                    "竞争格局"
-                ],
-                "action": "关注稳定币在支付领域的应用发展。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付",
-                "tickers": [
-                    "Mastercard",
-                    "BVNK"
-                ]
-            },
-            {
-                "id": "2026-03-27-industry-41",
-                "title": "Pidgin Publishes Stablecoin 101 Whitepaper: A Practical Guide for Financial Institutions Navigating ",
-                "source": "Google News (stablecoin payment)",
-                "date": "2026-03-27",
-                "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPbUZKRTBlOS0xTkpWTEZySk9Zd3BfdmxLX1hjc1ZMYnJha0o3WnZtcDNwUDROajFSb2ZwWGV4TTRvVVNYcVM2OW96bkJweUpJd1B5TWV4czZmQ1VmV2ZXX1c3QlczdVRMbkE1ZC1NTm5GOEpZd2IwVGhHNXFOUGhndGxlaV9UMHFHSHA0aWw0T1A4Y0FUam9TZjVDc3FkaHB4czQ0bHpRX3hRYkozV0tZOG9UVnhTV3hFTVRXQ2ktblI2Y1VsaWpzM1BDMWxqc1pUSVFaY3g2LTdZczFDS2dwRVc5OHYxN2laREZ3TDRUZVhna1BKaUEtTGo5U3ZMN2RueTZ1OTJMRHJmNXpYc2kxWVJn?oc=5",
-                "category": "industry",
-                "summary": "Pidgin发布稳定币白皮书，助力金融机构。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注稳定币在金融领域的应用趋势。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-03-27-industry-42",
-                "title": "Thunes Highlights Role in Stablecoin-Driven Cross-Border Payments at Fintech Meetup - TipRanks",
-                "source": "Google News (cross-border stablecoin)",
-                "date": "2026-03-27",
-                "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONldxM1VHSXFwZmlsRThjSldmZVhJbG9UWmhxaUI3TFVBTnhxODlla3Atem5PNFYtMnBTYTBDUFVPM0VaMUpidllDdUJ5WmhRNEtkR2M4ZS1HbV9aSG04eUlsNVdseG5ndDY4VTRfYkVPRW5SemNTYWdYdmQxQzhpcFZVSGN2ZGJGR091eUxQRXpEUUtHYU1SQnJVRGJoSzQtUmlqamhoejBYMWhPWVIwaWhtdkhad2FvdW43Y045bjlJQkhBMTdIMWNqTQ?oc=5",
-                "category": "industry",
-                "summary": "Thunes 强调稳定币在跨境支付中的作用。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "技术发展",
-                    "竞争格局"
-                ],
-                "action": "关注稳定币在支付领域的应用趋势。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-03-27-industry-43",
-                "title": "Global stablecoin regulation is witnessing a historic \"triple play\": the GENIUS Act, Hong Kong licen",
-                "source": "Google News (stablecoin regulation Hong Kong)",
-                "date": "2026-03-27",
-                "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xSnNwRW1KdHZIVm5ST25rdjNlZGpsSUkxTnFhU2ROWDloQ1kwZDZrU2wwaG9oR040QXlKQkpTc2F0MHB4NFNzRm92aEVRc2hMVW1MYTJsZWZwOW9qS18zU1dod0ktWTVJcXowTXRuVnBoUkhmY2hCa1FtVDVtcHM?oc=5",
-                "category": "industry",
-                "summary": "全球稳定币监管迎来重要进展。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注新规对业务的影响",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-03-27-industry-44",
-                "title": "Singapore’s RLUSD Pilot Explained: How Instant Trade Settlement Works With Ripple’s Stablecoin - CCN",
-                "source": "Google News (stablecoin regulation Singapore)",
-                "date": "2026-03-27",
-                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMWd6Zm1lczBCV1FzOS1vMnBnNVQ3Mm04dF8xQmI1c1MyajhwR0hLbXh6Y2VCcjVVWVJ6aWpKSW9ZRWJmTElmTGE3WXpSYWs3NHFtaDhxUXlVT0t5M1VFTXZyQmtvQkEySFVvLTBrUjdSRUFFa3hZWFZYN09nQVJmVHVFWlBFQzdlR3c1M2paZDlGdGpRcWtJR2ctSTB4MlBhX2ZkbA?oc=5",
-                "category": "industry",
-                "summary": "新加坡的RLUSD试点展示了Ripple稳定币的即时交易结算机制。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注稳定币技术进展，评估潜在影响。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付",
-                "tickers": [
-                    "Ripple"
-                ]
-            },
-            {
-                "id": "2026-03-27-industry-45",
-                "title": "Stunning $114M Transfer Sparks Institutional Crypto Speculation - mexc.co",
-                "source": "Google News (crypto custody institution)",
-                "date": "2026-03-27",
-                "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PWEF5OFgyRC1aaE05djNKSTdSc0dSeFhsbFRiUlFHYUdXelZ1cEhWQ21aLUtlYWEzaHpVem5OTWZEZ040UXdZR3Z0WHlJZw?oc=5",
-                "category": "industry",
-                "summary": "114百万美元转账引发机构加密投机潮。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注市场动态以调整策略",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-03-27-industry-46",
-                "title": "been using @grvt_io almost every day lately just to test things out.\n\ndeposited some USDC last week ",
-                "source": "Twitter @jabosiswanto94",
-                "date": "2026-03-27",
-                "url": "https://x.com/jabosiswanto94/status/2037383910976307498",
-                "category": "industry",
-                "summary": "用户体验USDC的DeFi应用，显示市场活跃度。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注DeFi领域的进一步发展和用户反馈。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-03-27-industry-47",
-                "title": "💰 Tazapay closes funding backed by Circle\n\n@Tazapay secures $36M in its Series B with @Circle partic",
-                "source": "Twitter @CryptoEconomyEN",
-                "date": "2026-03-27",
-                "url": "https://x.com/CryptoEconomyEN/status/2037205258741350704",
-                "category": "industry",
-                "summary": "Tazapay获得Circle支持的融资以扩展跨境支付。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "投资机会"
-                ],
-                "action": "关注跨境支付市场动态",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购",
-                "tickers": [
-                    "Tazapay",
-                    "Circle"
-                ]
-            },
-            {
-                "id": "2026-03-27-industry-48",
-                "title": "1M in $BTC \n\nor\n\n1M in $ETH",
-                "source": "Twitter @BitunixOfficial",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitunixOfficial/status/2037209966679843057",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-03-27-industry-49",
-                "title": "cant live without my chart https://t.co/lX0aUBXSmF",
-                "source": "Twitter @BitunixOfficial",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitunixOfficial/status/2037083382425768055",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-03-27-industry-50",
-                "title": "🇮🇩 Indonesian users, you can now deposit and withdraw IDR instantly via QRIS.\n\n✅ Scan to deposit (BC",
-                "source": "Twitter @BitunixOfficial",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitunixOfficial/status/2037068031243718799",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-03-27-industry-51",
-                "title": "https://t.co/Ocy4LYc4Da",
-                "source": "Twitter @BitunixOfficial",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitunixOfficial/status/2037051853494772227",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-03-27-industry-52",
-                "title": "GM!\nThe green wave is here.\nWhat are we trading today? https://t.co/7VnCiQ5E7i",
-                "source": "Twitter @BitunixOfficial",
-                "date": "2026-03-27",
-                "url": "https://x.com/BitunixOfficial/status/2037036825584558260",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            }
-        ],
-        "stats": {
-            "totalThreats": 37,
-            "highThreats": 0,
-            "mediumThreats": 2,
-            "lowThreats": 0,
-            "competitorUpdates": 37,
-            "customerUpdates": 7,
-            "industryUpdates": 51
-        },
-        "dailySummary": {
-            "competitorThreat": "今日最大的竞争威胁来自Deccan AI，该公司获得2500万美元融资，成为Mercor的直接竞争对手。此外，Anchorage Digital为美国机构提供TRON托管服务，进一步增强其市场地位。Fireblocks和BitGo也在不断推进其数字资产托管及风险管理解决方案。这些动态表明，行业内竞争加剧，尤其是在机构客户的争夺上。建议加强产品创新与市场营销，以提升用户体验，并考虑与其他技术公司合作，拓展托管服务的多样性和安全性。",
-            "industryTrend": "今日行业热点包括澳大利亚中央银行对代币化的支持，显示出支付行业的潜力，以及市场对XRP价格预测的关注。同时，英国政府暂时阻止政治党派接受加密捐款，反映出监管环境的收紧。值得关注的是，代币化资产市场的兴起可能会推动稳定币的需求，尤其是在快速支付和资金转移的场景中。此外，监管对货币传输法律的严格执行，可能会促使稳定币托管和支付基础设施行业加强合规性，以应对未来的法律挑战。"
-        },
-        "highlights": {
-            "competitors": [
-                {
-                    "id": "2026-03-27-competitor-0",
-                    "title": "Mercor competitor Deccan AI raises $25M, sources experts from India | TechCrunch",
-                    "source": "TechCrunch",
-                    "date": "2026-03-27",
-                    "url": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
-                    "category": "competitor",
-                    "summary": "Deccan AI获得2500万美元融资，成为Mercor竞争对手。",
-                    "threatLevel": "medium",
-                    "impact": [
-                        "产品竞争",
-                        "客户争夺"
-                    ],
-                    "action": "关注Deccan AI的市场动态，调整竞争策略。",
-                    "tickers": [
-                        "Deccan AI"
-                    ]
-                },
-                {
-                    "id": "2026-03-27-competitor-1",
-                    "title": "Anchorage Digital Bridges TRON To US Institutions With New Custody Support - Benzinga",
-                    "source": "Google News (crypto custody institution)",
-                    "date": "2026-03-27",
-                    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbXRnMUFnYUgxTWRfUkREWFB0YnY0SFluMUpXUEJ4dmxvaHBXUkpzUkM0ZUZMTXBPYndwYTd6VGlJMEJsTnI1cWQzcnR1eWFoc0ZkM3JpQ1NjUEpJdFFmUXF0Y0FkYkFEZVAwSnRvN2RhLWRzSWhadUJaWmVRQnFZQjljOVdTZkUyU3ZZbzZtcGhwV3hmbEx1ODNYYkJ6NlE2UEMtZUpkdUUwenlQM1dqel9wVGJBb3RpSHktTTdHUDh0bm5GRnRjUlVPSi14Z3ZyX0E?oc=5",
-                    "category": "competitor",
-                    "summary": "Anchorage Digital 为美国机构提供 TRON 托管服务。",
-                    "threatLevel": "medium",
-                    "impact": [
-                        "产品竞争",
-                        "客户争夺"
-                    ],
-                    "action": "关注 Anchorage Digital 的市场动态，调整策略。",
-                    "tickers": [
-                        "Anchorage Digital"
-                    ]
-                },
-                {
-                    "id": "2026-03-27-competitor-2",
-                    "title": ". @BitGo is an OCC chartered bank for institutional custody and risk management of HYPE.\n\nIn additio",
-                    "source": "Twitter @HLglobal_",
-                    "date": "2026-03-27",
-                    "url": "https://x.com/HLglobal_/status/2037183376361480644",
-                    "category": "competitor",
-                    "summary": "",
-                    "threatLevel": "neutral",
-                    "impact": [],
-                    "action": "",
-                    "tickers": [
-                        "BitGo"
-                    ]
-                }
-            ],
-            "clients": [
-                {
-                    "id": "2026-03-27-customer-0",
-                    "title": "📣 New Listing: Palantir Tech (PLTR) is now live on Bitunix Futures!            \n\n👉 $PLTR Futures tra",
-                    "source": "Twitter @BitunixOfficial",
-                    "date": "2026-03-27",
-                    "url": "https://x.com/BitunixOfficial/status/2037175489639702961",
-                    "category": "customer",
-                    "summary": "",
-                    "threatLevel": "neutral",
-                    "impact": [],
-                    "action": "",
-                    "tickers": [
-                        "Bitunix"
-                    ]
-                },
-                {
-                    "id": "2026-03-27-customer-1",
-                    "title": "📣 New Listing: PayPay Corp (PAYP) is now live on Bitunix Futures!  \n\n👉 $PAYP Futures trading: https:",
-                    "source": "Twitter @BitunixOfficial",
-                    "date": "2026-03-27",
-                    "url": "https://x.com/BitunixOfficial/status/2037156866808307776",
-                    "category": "customer",
-                    "summary": "",
-                    "threatLevel": "neutral",
-                    "impact": [],
-                    "action": "",
-                    "tickers": [
-                        "Bitunix"
-                    ]
-                },
-                {
-                    "id": "2026-03-27-customer-2",
-                    "title": "😊 Tesla fun fact: \n\nIt took Elon Musk roughly 10 years and $11 million to acquire Tesla[.]com domain",
-                    "source": "Twitter @BitunixOfficial",
-                    "date": "2026-03-27",
-                    "url": "https://x.com/BitunixOfficial/status/2037142270609395835",
-                    "category": "customer",
-                    "summary": "",
-                    "threatLevel": "neutral",
-                    "impact": [],
-                    "action": "",
-                    "tickers": [
-                        "Bitunix"
-                    ]
-                }
-            ],
-            "industry": [
-                {
-                    "id": "2026-03-27-industry-0",
-                    "title": "How Cravin uses provably fair verification in mystery boxes",
-                    "source": "CryptoSlate",
-                    "date": "2026-03-27",
-                    "url": "https://cryptoslate.com/how-cravin-uses-provably-fair-verification-in-mystery-boxes/",
-                    "category": "industry",
-                    "summary": "Cravin使用可验证的公平性技术用于神秘盒子。",
-                    "threatLevel": "medium",
-                    "impact": [
-                        "技术发展"
-                    ],
-                    "action": "",
-                    "subcategory": "other",
-                    "subcategoryName": "其他"
-                },
-                {
-                    "id": "2026-03-27-industry-1",
-                    "title": "Crypto News: Pepeto Bridge Update While Markets Ask Whether XRP Price Prediction Can Reach $5 to $10",
-                    "source": "GlobeNewswire",
-                    "date": "2026-03-27",
-                    "url": "https://www.globenewswire.com/news-release/2026/03/26/3262688/0/en/Crypto-News-Pepeto-Bridge-Update-While-Markets-Ask-Whether-XRP-Price-Prediction-Can-Reach-5-to-10-Soon.html",
-                    "category": "industry",
-                    "summary": "市场对XRP价格的预测引发关注。",
-                    "threatLevel": "medium",
-                    "impact": [
-                        "市场趋势"
-                    ],
-                    "action": "",
-                    "subcategory": "regulation_licensing",
-                    "subcategoryName": "监管牌照"
-                },
-                {
-                    "id": "2026-03-27-industry-2",
-                    "title": "Instant Withdrawal Casinos for April 2026: Fast Payout Platforms in Canada",
-                    "source": "The Punch",
-                    "date": "2026-03-27",
-                    "url": "https://punchng.com/instant-withdrawal-casinos-for-april-2026-fast-payout-platforms-in-canada/",
-                    "category": "industry",
-                    "summary": "加拿大的快速支付平台动态。",
-                    "threatLevel": "medium",
-                    "impact": [
-                        "市场趋势"
-                    ],
-                    "action": "关注快速支付平台的发展动态。",
                     "subcategory": "other",
                     "subcategoryName": "其他"
                 }
