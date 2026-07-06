@@ -1,0 +1,912 @@
+{
+  "policy": [
+    {
+      "id": "news_e088d4ce730c",
+      "title": "Clare need something out of the ordinary against revitalised Limerick",
+      "content": "Banner have impressed in flashes but John Kiely’s men have been a team on a mission all championship",
+      "url": "https://www.irishtimes.com/sport/gaelic-games/2026/07/05/clare-need-something-out-of-the-ordinary-against-revitalised-limerick/",
+      "source": "The Irish Times",
+      "source_type": "news",
+      "author": "Seán Moran",
+      "published_at": "2026-07-05T05:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-irish-times",
+          "name": "The Irish Times"
+        },
+        "author": "Seán Moran",
+        "title": "Clare need something out of the ordinary against revitalised Limerick",
+        "description": "Banner have impressed in flashes but John Kiely’s men have been a team on a mission all championship",
+        "url": "https://www.irishtimes.com/sport/gaelic-games/2026/07/05/clare-need-something-out-of-the-ordinary-against-revitalised-limerick/",
+        "urlToImage": "https://www.irishtimes.com/resizer/v2/J56ULVJA7FFXXBF2TBJJDODXUE.jpg?smart=true&auth=6696df7c13616ff71b429a90e3517f4518edf8d0c78f10953c1b4515fb6e8d2e&width=1200&height=630",
+        "publishedAt": "2026-07-05T05:00:00Z",
+        "content": "All-Ireland SHC semi-final: Limerick v Clare, Croke Park, Sunday, 4pm Live RTÉ 2 &amp; BBC Two\r\nThe rivalry that defined the revived Munster round-robin immediately after Covid looks diminished. At t… [+4151 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "Copper",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_e6e0b199b64a",
+      "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
+      "content": "Moonbeam didn’t provide a timeline for when it would launch the AI agent platform but told GLMR holders to bridge their tokens from the Polkadot parachain to Base before July 31.",
+      "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Brayden Lindrea",
+      "published_at": "2026-07-05T00:50:30Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Brayden Lindrea",
+        "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
+        "description": "Moonbeam didn’t provide a timeline for when it would launch the AI agent platform but told GLMR holders to bridge their tokens from the Polkadot parachain to Base before July 31.",
+        "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/magazine-ai-agents-on-base.jpg",
+        "publishedAt": "2026-07-05T00:50:30Z",
+        "content": "Polkadot-based interoperability protocol Moonbeam said it is pivoting to Ethereum layer 2 Base to launch an AI agent communication and settlement network, aimed at capturing a share of the emerging m… [+2618 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Moonbeam 将从 Polkadot 转向 Base，推出 AI 代理框架。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "关注技术发展动态，评估影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_871279a4ffbf",
+      "title": "Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap",
+      "content": "Ethereum co-founder Vitalik Buterin said the new “Lean Ethereum” strawmap is focused on making the network quantum-resistant and improving Ethereum’s scalability and privacy.",
+      "url": "https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Brayden Lindrea",
+      "published_at": "2026-07-05T03:50:36Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Brayden Lindrea",
+        "title": "Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap",
+        "description": "Ethereum co-founder Vitalik Buterin said the new “Lean Ethereum” strawmap is focused on making the network quantum-resistant and improving Ethereum’s scalability and privacy.",
+        "url": "https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-formal-verification-and-why-does-vitalik-think-ai-can-help.jpg",
+        "publishedAt": "2026-07-05T03:50:36Z",
+        "content": "Ethereum co-founder Vitalik Buterin has named quantum resistance, scalability and privacy as three of Ethereum's top priorities under a new \"Lean Ethereum\" strawmap, which lays out the network's tech… [+1991 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Vitalik Buterin 分享了以太坊的未来发展方向。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到以太坊技术发展",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_0ada82080b20",
+      "title": "Security Affairs newsletter Round 584 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "content": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. U.S. Gov…",
+      "url": "https://securityaffairs.com/194772/security/security-affairs-newsletter-round-584-by-pierluigi-paganini-international-edition.html",
+      "source": "Securityaffairs.com",
+      "source_type": "news",
+      "author": "Pierluigi Paganini",
+      "published_at": "2026-07-05T05:07:31Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Securityaffairs.com"
+        },
+        "author": "Pierluigi Paganini",
+        "title": "Security Affairs newsletter Round 584 by Pierluigi Paganini – INTERNATIONAL EDITION",
+        "description": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. U.S. Gov…",
+        "url": "https://securityaffairs.com/194772/security/security-affairs-newsletter-round-584-by-pierluigi-paganini-international-edition.html",
+        "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+        "publishedAt": "2026-07-05T05:07:31Z",
+        "content": "Security Affairs newsletter Round 584 by Pierluigi Paganini INTERNATIONAL EDITION\r\nEnjoy a new round of the weekly SecurityAffairs newsletter, including the international press.\r\nInternational Press … [+2597 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "新闻涉及加密货币监管动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，适时调整策略。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_d33816e325b8",
+      "title": "Mexico City caps World Cup celebration crowds at 25,000 after four fan deaths, as crypto betting volumes surge",
+      "content": "The crowd cap in Mexico City highlights the urgent need for enhanced public safety measures, while crypto betting's rise may prompt regulatory scrutiny.\nThe post Mexico City caps World Cup celebration crowds at 25,000 after four fan deaths, as crypto betting …",
+      "url": "https://cryptobriefing.com/mexico-world-cup-crowd-restrictions-crypto-betting/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-05T05:01:08Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Mexico City caps World Cup celebration crowds at 25,000 after four fan deaths, as crypto betting volumes surge",
+        "description": "The crowd cap in Mexico City highlights the urgent need for enhanced public safety measures, while crypto betting's rise may prompt regulatory scrutiny.\nThe post Mexico City caps World Cup celebration crowds at 25,000 after four fan deaths, as crypto betting …",
+        "url": "https://cryptobriefing.com/mexico-world-cup-crowd-restrictions-crypto-betting/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/05010100/11-best-things-to-do-in-mexico-city-cdmx-travel-guide-1-800x420.jpeg",
+        "publishedAt": "2026-07-05T05:01:08Z",
+        "content": "Tragic asphyxiation deaths near the Angel of Independence monument prompt doubled security for Mexico-England match while digital sports wagering hits new highs Four people are dead after Mexico’s Wo… [+2097 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "墨西哥城限制世界杯庆祝活动，且加密投注量激增。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币投注",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注加密投注市场动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_694640cd5b96",
+      "title": "Bending Spoons lists on NASDAQ at $25.7B valuation as tokenized shares bridge crypto and traditional equity",
+      "content": "Bending Spoons' IPO highlights the growing intersection of crypto and traditional finance, raising regulatory questions for tokenized securities.\nThe post Bending Spoons lists on NASDAQ at $25.7B valuation as tokenized shares bridge crypto and traditional equ…",
+      "url": "https://cryptobriefing.com/bending-spoons-nasdaq-ipo-tokenized-shares/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-05T06:01:44Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Bending Spoons lists on NASDAQ at $25.7B valuation as tokenized shares bridge crypto and traditional equity",
+        "description": "Bending Spoons' IPO highlights the growing intersection of crypto and traditional finance, raising regulatory questions for tokenized securities.\nThe post Bending Spoons lists on NASDAQ at $25.7B valuation as tokenized shares bridge crypto and traditional equ…",
+        "url": "https://cryptobriefing.com/bending-spoons-nasdaq-ipo-tokenized-shares/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/05020136/where-is-ryan-reynolds-investing-milan-s-bending-spoons-scoo-800x420.jpeg",
+        "publishedAt": "2026-07-05T06:01:44Z",
+        "content": "The Italian tech conglomerate's blockbuster IPO debut also introduced tokenized stock exposure through platforms like Kraken, blurring the line between TradFi and crypto investing. An Italian company… [+2162 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Bending Spoons在NASDAQ上市，展示了加密与传统市场的融合。",
+      "business_relevance": 0.6,
+      "relevance_reason": "涉及加密与传统股权的桥梁",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注加密与传统金融的结合动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_5eb46947a579",
+      "title": "Kraken’s FIFA World Cup moment arrives as Round of 16 kicks off and fan tokens find their footing",
+      "content": "Kraken's involvement in the World Cup highlights crypto's growing influence in global sports, despite fan token price volatility.\nThe post Kraken’s FIFA World Cup moment arrives as Round of 16 kicks off and fan tokens find their footing appeared first on Cryp…",
+      "url": "https://cryptobriefing.com/kraken-fifa-world-cup-crypto-fan-tokens-4/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-05T01:05:36Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Kraken’s FIFA World Cup moment arrives as Round of 16 kicks off and fan tokens find their footing",
+        "description": "Kraken's involvement in the World Cup highlights crypto's growing influence in global sports, despite fan token price volatility.\nThe post Kraken’s FIFA World Cup moment arrives as Round of 16 kicks off and fan tokens find their footing appeared first on Cryp…",
+        "url": "https://cryptobriefing.com/kraken-fifa-world-cup-crypto-fan-tokens-4/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/04210527/kraken-wikipedia-1-800x420.jpeg",
+        "publishedAt": "2026-07-05T01:05:36Z",
+        "content": "The world's biggest sporting event now has its first official crypto exchange partner, and the market is paying attention, sort of. The 2026 FIFA World Cup Round of 16 began on July 4, with France ed… [+1638 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Kraken在世界杯期间的动态影响市场趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注世界杯期间的加密货币市场变化",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_0b05244523b2",
+      "title": "Crypto News: AlphaPepe Reveals CEX Partnership With Biconomy As Ethereum Price Prediction Targets $7,000",
+      "content": "MONACO , July 04, 2026 (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project revealed its CEX partnership with Biconomy, adding another exchange-facing milestone before public trading begins. The update strengthens AlphaPepe’s pre-list…",
+      "url": "https://www.globenewswire.com/news-release/2026/07/05/3322051/0/en/Crypto-News-AlphaPepe-Reveals-CEX-Partnership-With-Biconomy-As-Ethereum-Price-Prediction-Targets-7-000.html",
+      "source": "GlobeNewswire",
+      "source_type": "news",
+      "author": "AlphaPepe",
+      "published_at": "2026-07-05T01:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "AlphaPepe",
+        "title": "Crypto News: AlphaPepe Reveals CEX Partnership With Biconomy As Ethereum Price Prediction Targets $7,000",
+        "description": "MONACO , July 04, 2026 (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project revealed its CEX partnership with Biconomy, adding another exchange-facing milestone before public trading begins. The update strengthens AlphaPepe’s pre-list…",
+        "url": "https://www.globenewswire.com/news-release/2026/07/05/3322051/0/en/Crypto-News-AlphaPepe-Reveals-CEX-Partnership-With-Biconomy-As-Ethereum-Price-Prediction-Targets-7-000.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/b554799d-af3c-479e-888b-2730bfe28097",
+        "publishedAt": "2026-07-05T01:00:00Z",
+        "content": "MONACO , July 04, 2026 (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe after the project revealed its CEX partnership with Biconomy, adding another exchange-facing milestone before public… [+8275 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "AlphaPepe",
+        "Biconomy"
+      ],
+      "importance_score": 6,
+      "ai_summary": "AlphaPepe与Biconomy的合作揭示市场动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场合作动态，评估潜在影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_91d0ac215d9f",
+      "title": "Aptos fixes critical vulnerability that cost hundreds of dollars to exploit",
+      "content": "The incident underscores the critical need for robust security measures in blockchain networks, highlighting potential systemic vulnerabilities.\nThe post Aptos fixes critical vulnerability that cost hundreds of dollars to exploit appeared first on Crypto Brie…",
+      "url": "https://cryptobriefing.com/aptos-fixes-critical-vulnerability-move-vm/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-05T01:06:06Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Aptos fixes critical vulnerability that cost hundreds of dollars to exploit",
+        "description": "The incident underscores the critical need for robust security measures in blockchain networks, highlighting potential systemic vulnerabilities.\nThe post Aptos fixes critical vulnerability that cost hundreds of dollars to exploit appeared first on Crypto Brie…",
+        "url": "https://cryptobriefing.com/aptos-fixes-critical-vulnerability-move-vm/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/04210559/image-aptos-a-highly-scalable-and-decidedly-modular-layer-1--800x420.jpeg",
+        "publishedAt": "2026-07-05T01:06:06Z",
+        "content": "A stale-cache bug in the Move VM threatened up to $70 billion in assets before a same-day patch stopped it cold A blockchain that processes billions in daily transactions came within a few hundred do… [+2987 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Aptos修复了一个关键漏洞，影响区块链安全。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链技术漏洞",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注区块链安全技术的进展。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_e01abaa0ef6e",
+      "title": "Asymmetric Lawfare",
+      "content": "Photo Credit:ChatGPT\n \n ChatGPTBy August HarrimanThere’s actually a small window of time to completely break the Left, and this opportunity will not come again.",
+      "url": "https://www.americanthinker.com/articles/2026/07/asymmetric-lawfare/",
+      "source": "Americanthinker.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-07-05T04:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Americanthinker.com"
+        },
+        "author": null,
+        "title": "Asymmetric Lawfare",
+        "description": "Photo Credit:ChatGPT\n \n ChatGPTBy August HarrimanThere’s actually a small window of time to completely break the Left, and this opportunity will not come again.",
+        "url": "https://www.americanthinker.com/articles/2026/07/asymmetric-lawfare/",
+        "urlToImage": "https://images.americanthinker.com/jy/jytk9yaqyacxhqzo9brf_1200.jpg",
+        "publishedAt": "2026-07-05T04:00:00Z",
+        "content": "The Left can be badly weakened — perhaps even broken.  The process has a misleadingly dry name — civil asset forfeiture.\r\nThis legal procedure allows law enforcement officials — typically the Attorne… [+7232 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_8fb3dfbc44a3",
+      "title": "AJ Chronicles: So What’s Working in this Arts Bear Market?",
+      "content": "When you look across the culture at what is gaining traction, some common themes emerge.",
+      "url": "https://www.artsjournal.com/diacritical/2026/07/aj-chronicles-so-whats-working-in-this-arts-bear-market.html",
+      "source": "Artsjournal.com",
+      "source_type": "news",
+      "author": "Douglas McLennan",
+      "published_at": "2026-07-05T04:34:08Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Artsjournal.com"
+        },
+        "author": "Douglas McLennan",
+        "title": "AJ Chronicles: So What’s Working in this Arts Bear Market?",
+        "description": "When you look across the culture at what is gaining traction, some common themes emerge.",
+        "url": "https://www.artsjournal.com/diacritical/2026/07/aj-chronicles-so-whats-working-in-this-arts-bear-market.html",
+        "urlToImage": "https://i0.wp.com/www.artsjournal.com/diacritical/wordpress/wp-content/uploads/2026/07/Screenshot_4-7-2026_213054_salesmanonbroadway.com_.jpg?fit=300%2C344&ssl=1",
+        "publishedAt": "2026-07-05T04:34:08Z",
+        "content": "This week we collected 139 stories. Here’s what I learned:\r\nIt’s difficult to deny that something structural is failing the arts. Week after week we’ve been documenting a collapse across the sector t… [+6676 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series B",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "艺术市场熊市中的加密趋势分析。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密市场趋势",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注艺术市场对加密的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_9b6ea88ab157",
+      "title": "C Suite to startup street: The second act that corporate veterans are choosing",
+      "content": "Senior founders, who give up the comforts of India Inc for the chaotic energy of startups, bring to the table instant credibility, networks and industry knowledge that young founders strive for years to build.",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/c-suite-to-startup-street-the-second-act-that-corporate-veterans-are-choosing/articleshow/132190212.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "Lijee Philip and Kala Vijayraghavan",
+      "published_at": "2026-07-05T05:03:51Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Lijee Philip and Kala Vijayraghavan",
+        "title": "C Suite to startup street: The second act that corporate veterans are choosing",
+        "description": "Senior founders, who give up the comforts of India Inc for the chaotic energy of startups, bring to the table instant credibility, networks and industry knowledge that young founders strive for years to build.",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/c-suite-to-startup-street-the-second-act-that-corporate-veterans-are-choosing/articleshow/132190212.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-132190667,width-1200,height-630,imgsize-203082,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-07-05T05:03:51Z",
+        "content": "When he quit Tech Mahindra two years ago, Jagdish Mitra could have walked into the boardroom of almost any technology company in India. Over three decades at the IT services giant, Mitra had held man… [+10515 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "企业高管转型创业的趋势显著。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到企业家转型",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注高管转型对行业的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "How Sovereign Wealth Funds Invest in Digital Assets",
+      "description": "Sovereign wealth funds invest in digital assets mainly through regulated vehicles: spot bitcoin exchange-traded funds (ETFs), publicly traded companies with crypto exposure, blockchain infrastructure firms, and venture capital funds. Direct ownership of bitcoin or other tokens remains uncommon, held back by governance rules, custody requirements, and political accountability. At present, only a small number of [&hellip;]",
+      "url": "https://www.theblock.co/learn/407186/how-sovereign-wealth-funds-invest-in-digital-assets?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-07-06T06:14:32",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "主权财富基金投资数字资产的方式分析。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到数字资产投资",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注主权财富基金的投资动向",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Nigel Farage failed to declare funding from crypto gambling figure convicted of fraud: Sunday Times",
+      "description": "Farage already faces a parliamentary standards investigation over an undisclosed £5 million gift from Tether stakeholder Christopher Harborne.",
+      "url": "https://www.theblock.co/post/407178/nigel-farage-failed-to-declare-funding-from-crypto-gambling-figure-convicted-of-fraud-sunday-times?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-07-05T22:53:05",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Tether"
+      ],
+      "importance_score": 7,
+      "ai_summary": "法拉奇未申报来自Tether股东的资金",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币Tether",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "竞争格局"
+      ],
+      "industry_action": "关注相关监管动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Crypto Payments Firm Mesh Eyes $2 Billion Valuation Backed by Binance - PYMNTS.com",
+      "description": "Crypto Payments Firm Mesh Eyes $2 Billion Valuation Backed by Binance&nbsp;&nbsp;PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc1d5X0Z4SDByYUN2eUJWMzJIamQ5bUpQak9WRlF4MWxKVnM0Y1RQMXBweXZfbVpYbjY5TkZuSDBxUFRVd1BRMkppZUd6TnhRUzNVMGJOT0JjSXIyT285UEhHb2hFLThkcGxZSlhYcm1sQUQxVmgtS19aMjVmRUdiZi1Lc1NVX2dJSHJRclpaalR5UFk4M3YtY2R5Ym5SNUZQbU8taWQtdzhHazJ1QTc5eFlR?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-07-06T01:06:46",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "title": "Why Binance’s reported $2B Mesh investment could decide who controls stablecoin payments - CryptoSlate",
+      "description": "Why Binance’s reported $2B Mesh investment could decide who controls stablecoin payments&nbsp;&nbsp;CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWhpZEgwOTRXd3JUV1pNenRzcXh6VzV6elA0d1g5dmRyYm9TQWMxUnQ1Tk9RTjBTb0l0SVl3VUthQXlZVk4yZE8ycDdlRzN1S1RDajFqRUxSczQzZGxNRXNaMVBGSi1VX242bUxnbWdxUEpoSXlDUDlzejB3UkhiUXpBM1Zabmk4WGJfVTRCODNDejhRZEFJ?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-07-05T10:00:28",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Binance的投资可能影响稳定币支付的控制权。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付控制",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币支付市场的动态变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Forbes Special Report: Stablecoin cross-border payments are faster now, but not cheaper yet - 链捕手ChainCatcher",
+      "description": "Forbes Special Report: Stablecoin cross-border payments are faster now, but not cheaper yet&nbsp;&nbsp;链捕手ChainCatcher",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nWTNKaHRWTmFEVHI2Q0JFREpnTnY0SU1lQVd0TDFyYllUSE1SNV81Rnc5cmNucXFpa3VWczJDYjJCOGg5aV9kTWNrcDB5UThHeGpCeEpKTjluYnc?oc=5",
+      "source": "Google News (cross-border stablecoin)",
+      "source_category": "google_news",
+      "published_at": "2026-07-05T10:40:39",
+      "data_type": "rss",
+      "search_keyword": "cross-border stablecoin",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "稳定币跨境支付速度提高但成本未降。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币跨境支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币支付成本变化，调整策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Bank Adoption Stablecoins: Institutional Shifts in USDC Access - The Cryptonomist",
+      "description": "Bank Adoption Stablecoins: Institutional Shifts in USDC Access&nbsp;&nbsp;The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS2N5QkkyQVVRSExDSGJnd1plWDQ1TDV2TGVLY2s3UUhyMC1mdUt0OFJ1bllKeWVKcFllWFpsOGlJT2NDeG9EQkxKdVA4MGdZdExUREt1em0xTVZRUW1yM0ZZOVV2X0E5V0VvejE1clpDbDVjbUh0SzVpaDBDLU5tU1N3?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-07-05T17:57:40",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "银行对稳定币的采用正在变化。",
+      "business_relevance": 0.8,
+      "relevance_reason": "提到稳定币的银行采用",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币在银行业的应用动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    }
+  ],
+  "company": [],
+  "funding": [
+    {
+      "title": "Why Binance’s reported $2B Mesh investment could decide who controls stablecoin payments - CryptoSlate",
+      "description": "Why Binance’s reported $2B Mesh investment could decide who controls stablecoin payments&nbsp;&nbsp;CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWhpZEgwOTRXd3JUV1pNenRzcXh6VzV6elA0d1g5dmRyYm9TQWMxUnQ1Tk9RTjBTb0l0SVl3VUthQXlZVk4yZE8ycDdlRzN1S1RDajFqRUxSczQzZGxNRXNaMVBGSi1VX242bUxnbWdxUEpoSXlDUDlzejB3UkhiUXpBM1Zabmk4WGJfVTRCODNDejhRZEFJ?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-07-05T10:00:28",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Binance的投资可能影响稳定币支付的控制权。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付控制",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币支付市场的动态变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    }
+  ]
+}
