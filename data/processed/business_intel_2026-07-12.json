@@ -1,0 +1,1515 @@
+{
+  "competitors": [],
+  "clients": [],
+  "industry": [
+    {
+      "id": "news_101cd99c6105",
+      "title": "Injective launches institutional infrastructure page to onboard enterprises into onchain finance",
+      "content": "Injective's new infrastructure could accelerate enterprise adoption of blockchain, enhancing asset tokenization and compliance in finance.\nThe post Injective launches institutional infrastructure page to onboard enterprises into onchain finance appeared first…",
+      "url": "https://cryptobriefing.com/injective-institutional-infrastructure-launch/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-11T00:20:50Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Injective launches institutional infrastructure page to onboard enterprises into onchain finance",
+        "description": "Injective's new infrastructure could accelerate enterprise adoption of blockchain, enhancing asset tokenization and compliance in finance.\nThe post Injective launches institutional infrastructure page to onboard enterprises into onchain finance appeared first…",
+        "url": "https://cryptobriefing.com/injective-institutional-infrastructure-launch/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/10202045/what-is-injective-inj-1-800x420.png",
+        "publishedAt": "2026-07-11T00:20:50Z",
+        "content": "The Layer-1 blockchain is rolling out permissioned environments, programmable compliance, and custody partnerships to lure institutional capital onto its network. Injective has launched a dedicated I… [+1935 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "Fireblocks",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Injective推出机构基础设施页面以吸引企业进入链上金融。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注链上金融的发展动态",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_414195147ae0",
+      "title": "Robinhood says its AI agent feature will ‘soon’ be assisting crypto traders",
+      "content": "Brokerage firm said it will expand its AI agent trading feature for equities and options to crypto “soon,” enabling agentic accounts to place crypto trades on behalf of users.",
+      "url": "https://cointelegraph.com/news/robinhood-says-ai-agents-will-be-trading-for-crypto-users-soon",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Brayden Lindrea",
+      "published_at": "2026-07-11T04:12:30Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Brayden Lindrea",
+        "title": "Robinhood says its AI agent feature will ‘soon’ be assisting crypto traders",
+        "description": "Brokerage firm said it will expand its AI agent trading feature for equities and options to crypto “soon,” enabling agentic accounts to place crypto trades on behalf of users.",
+        "url": "https://cointelegraph.com/news/robinhood-says-ai-agents-will-be-trading-for-crypto-users-soon",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/robinhood-us.jpg",
+        "publishedAt": "2026-07-11T04:12:30Z",
+        "content": "Robinhood said eligible US-based customers will soon be able to connect third-party AI agents to make crypto trades on their behalf, marking the latest expansion in autonomous trading after the compa… [+2917 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Robinhood即将推出AI助手以协助加密交易。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币交易",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注AI技术在加密交易中的应用。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_c6a33e1c97bd",
+      "title": "Institutions are freezing innocent users’ funds",
+      "content": "It’s impossible to cleanly separate lawful funds from illicit ones without catching innocent users in the crossfire.",
+      "url": "https://www.newsweek.com/institutions-are-freezing-innocent-users-funds-12182533",
+      "source": "Newsweek",
+      "source_type": "news",
+      "author": "Dr. Jan Philipp Fritsche",
+      "published_at": "2026-07-11T00:38:41Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "newsweek",
+          "name": "Newsweek"
+        },
+        "author": "Dr. Jan Philipp Fritsche",
+        "title": "Institutions are freezing innocent users’ funds",
+        "description": "It’s impossible to cleanly separate lawful funds from illicit ones without catching innocent users in the crossfire.",
+        "url": "https://www.newsweek.com/institutions-are-freezing-innocent-users-funds-12182533",
+        "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/07/GettyImages-2227254673.jpg?w=1200&crop=1",
+        "publishedAt": "2026-07-11T00:38:41Z",
+        "content": "Imagine checking your account and discovering your money has been frozen. Not because of anything you did, but because of someone else's illegal activity.\r\nThat is exactly what happened last month, w… [+7146 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "机构冻结用户资金引发监管关注。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化，评估影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_d55c2a7d03a2",
+      "title": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report",
+      "content": "The US DOJ is looking to drop its case against BitClub founder Matthew Goettsche, despite three of his colleagues having pleaded guilty for their involvement in the $722 million fraud scheme.",
+      "url": "https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Brayden Lindrea",
+      "published_at": "2026-07-11T01:30:31Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Brayden Lindrea",
+        "title": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report",
+        "description": "The US DOJ is looking to drop its case against BitClub founder Matthew Goettsche, despite three of his colleagues having pleaded guilty for their involvement in the $722 million fraud scheme.",
+        "url": "https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-spot-an-exit-scam-doj-1.jpg",
+        "publishedAt": "2026-07-11T01:30:31Z",
+        "content": "The US Department of Justice is reportedly moving to drop charges against the founder of BitClub Network, a purported crypto mining platform that allegedly defrauded investors of $722 million between… [+2307 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "DOJ拟撤销对BitClub诈骗者的指控，影响加密行业监管动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化对市场的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_7a643bde37fb",
+      "title": "Trump declares Iran ceasefire over but says talks will continue, rattling crypto markets",
+      "content": "The end of the ceasefire heightens geopolitical tensions, impacting global markets by increasing oil prices and causing crypto sell-offs.\nThe post Trump declares Iran ceasefire over but says talks will continue, rattling crypto markets appeared first on Crypt…",
+      "url": "https://cryptobriefing.com/trump-iran-ceasefire-crypto-markets-2/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-11T05:05:10Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Trump declares Iran ceasefire over but says talks will continue, rattling crypto markets",
+        "description": "The end of the ceasefire heightens geopolitical tensions, impacting global markets by increasing oil prices and causing crypto sell-offs.\nThe post Trump declares Iran ceasefire over but says talks will continue, rattling crypto markets appeared first on Crypt…",
+        "url": "https://cryptobriefing.com/trump-iran-ceasefire-crypto-markets-2/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/11010507/https-upload-wikimedia-org-wikipedia-commons-9-97-donald-tru-66-800x420.jpeg",
+        "publishedAt": "2026-07-11T05:05:10Z",
+        "content": "The collapse of the Islamabad ceasefire has triggered selling pressure across major crypto assets as geopolitical risk reprices in real time. President Trump announced on Truth Social that the ceasef… [+2372 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "特朗普宣布伊朗停火，影响加密市场情绪。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及加密市场波动",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注市场动态，评估潜在影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_ba3849077a13",
+      "title": "World Cup quarterfinal hype is spilling into crypto markets, from fan tokens to meme coins",
+      "content": "The World Cup's influence on crypto highlights the volatile intersection of sports and digital assets, underscoring both risks and opportunities.\nThe post World Cup quarterfinal hype is spilling into crypto markets, from fan tokens to meme coins appeared firs…",
+      "url": "https://cryptobriefing.com/world-cup-crypto-fan-tokens-meme-coins/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-11T04:06:19Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "World Cup quarterfinal hype is spilling into crypto markets, from fan tokens to meme coins",
+        "description": "The World Cup's influence on crypto highlights the volatile intersection of sports and digital assets, underscoring both risks and opportunities.\nThe post World Cup quarterfinal hype is spilling into crypto markets, from fan tokens to meme coins appeared firs…",
+        "url": "https://cryptobriefing.com/world-cup-crypto-fan-tokens-meme-coins/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/11000616/world-cup-trophy-12-800x420.jpeg",
+        "publishedAt": "2026-07-11T04:06:19Z",
+        "content": "England vs. Norway has become a catalyst for speculative trading across player-linked tokens, NFTs, and prediction markets Harry Kane called Erling Haaland a “beast.” Crypto traders, apparently, agre… [+3073 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "世界杯四分之一决赛热潮影响加密市场。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注世界杯期间的市场动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_1affc8445881",
+      "title": "BlackRock leads $86M Bitcoin ETF inflow day, snapping weeks of bleeding",
+      "content": "BlackRock's significant inflow into Bitcoin ETFs highlights institutional confidence and potential stabilization in the crypto market landscape.\nThe post BlackRock leads $86M Bitcoin ETF inflow day, snapping weeks of bleeding appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/blackrock-bitcoin-etf-inflow-reversal/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-11T04:55:06Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "BlackRock leads $86M Bitcoin ETF inflow day, snapping weeks of bleeding",
+        "description": "BlackRock's significant inflow into Bitcoin ETFs highlights institutional confidence and potential stabilization in the crypto market landscape.\nThe post BlackRock leads $86M Bitcoin ETF inflow day, snapping weeks of bleeding appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/blackrock-bitcoin-etf-inflow-reversal/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/11005502/a-man-walks-into-a-blackrock-office-building-1-800x420.jpeg",
+        "publishedAt": "2026-07-11T04:55:06Z",
+        "content": "The world's largest asset manager drove nearly two-thirds of a single-day reversal that followed $1.67 billion in outflows from spot Bitcoin ETFs. After weeks of watching money walk out the door, US … [+1603 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "BlackRock引领比特币ETF流入，市场回暖。",
+      "business_relevance": 0.5,
+      "relevance_reason": "比特币ETF流入影响市场",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注市场动态，评估投资机会。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_c9ff1f83746e",
+      "title": "Marc Cucurella’s Real Madrid move highlights football’s growing intersection with crypto-sponsored clubs",
+      "content": "Cucurella's transfer underscores the increasing influence of cryptocurrency in football, potentially reshaping club sponsorship dynamics.\nThe post Marc Cucurella’s Real Madrid move highlights football’s growing intersection with crypto-sponsored clubs appeare…",
+      "url": "https://cryptobriefing.com/cucurella-real-madrid-transfer-crypto-sports/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-11T05:05:05Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Marc Cucurella’s Real Madrid move highlights football’s growing intersection with crypto-sponsored clubs",
+        "description": "Cucurella's transfer underscores the increasing influence of cryptocurrency in football, potentially reshaping club sponsorship dynamics.\nThe post Marc Cucurella’s Real Madrid move highlights football’s growing intersection with crypto-sponsored clubs appeare…",
+        "url": "https://cryptobriefing.com/cucurella-real-madrid-transfer-crypto-sports/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/11010501/real-madrid-complete-60m-marc-cucurella-signing-from-chelsea-800x420.jpeg",
+        "publishedAt": "2026-07-11T05:05:05Z",
+        "content": "The 60 million transfer from Chelsea to Real Madrid lands as both clubs navigate massive commercial partnerships, including ones tied to digital assets. Marc Cucurella is officially a Real Madrid pla… [+1153 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "足球与加密货币的结合日益明显。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密与体育的交集",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注体育与加密结合的趋势",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_2a1ebca70563",
+      "title": "SF Farmers Market allows laundering food stamps for drug purchases",
+      "content": "At the Heart of the City Farmers’ Market, Jessica waits in line. She is slouched forward in the characteristic fentanyl fold, supporting her weight by leaning heavily on a wire pushcart. At the front of the line, she produces her Calfresh EBT card. The farmer…",
+      "url": "http://thevoicesf.org/snap-to-cash-how-food-assistance-vouchers-were-traded-for-cash-at-the-heart-of-the-city-farmers-market/",
+      "source": "Thevoicesf.org",
+      "source_type": "news",
+      "author": "Guest Authors",
+      "published_at": "2026-07-11T00:21:12Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Thevoicesf.org"
+        },
+        "author": "Guest Authors",
+        "title": "SF Farmers Market allows laundering food stamps for drug purchases",
+        "description": "At the Heart of the City Farmers’ Market, Jessica waits in line. She is slouched forward in the characteristic fentanyl fold, supporting her weight by leaning heavily on a wire pushcart. At the front of the line, she produces her Calfresh EBT card. The farmer…",
+        "url": "http://thevoicesf.org/snap-to-cash-how-food-assistance-vouchers-were-traded-for-cash-at-the-heart-of-the-city-farmers-market/",
+        "urlToImage": "https://thevoicesf.org/wp-content/uploads/2026/06/Picture1.png",
+        "publishedAt": "2026-07-11T00:21:12Z",
+        "content": "At the Heart of the City Farmers Market, Jessica waits in line. She is slouched forward in the characteristic fentanyl fold, supporting her weight by leaning heavily on a wire pushcart. At the front … [+9897 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_b80f723157f5",
+      "title": "Irony meter becomes intergalactic weapon of mass destruction as billionaire Reform backer demands to know who's funding Count Binface. Well, that would be the glorious Recyclon Empire of Sigma IX, Arron [Dumbass]",
+      "content": "Irony meter becomes intergalactic weapon of mass destruction as billionaire Reform backer demands to know who's funding Count Binface. Well, that would be the glorious Recyclon Empire of Sigma IX, Arron",
+      "url": "https://www.fark.com/comments/14126262/Irony-meter-becomes-intergalactic-weapon-of-mass-destruction-as-billionaire-Reform-backer-demands-to-know-whos-funding-Count-Binface-Well-that-would-be-glorious-Recyclon-Empire-of-Sigma-IX-Arron",
+      "source": "Fark.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-07-11T00:46:32Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Fark.com"
+        },
+        "author": null,
+        "title": "Irony meter becomes intergalactic weapon of mass destruction as billionaire Reform backer demands to know who's funding Count Binface. Well, that would be the glorious Recyclon Empire of Sigma IX, Arron [Dumbass]",
+        "description": "Irony meter becomes intergalactic weapon of mass destruction as billionaire Reform backer demands to know who's funding Count Binface. Well, that would be the glorious Recyclon Empire of Sigma IX, Arron",
+        "url": "https://www.fark.com/comments/14126262/Irony-meter-becomes-intergalactic-weapon-of-mass-destruction-as-billionaire-Reform-backer-demands-to-know-whos-funding-Count-Binface-Well-that-would-be-glorious-Recyclon-Empire-of-Sigma-IX-Arron",
+        "urlToImage": "https://usrimg-full.fark.net/E/EQ/fark_EQ_t1GSzFNM85OhSqk2vHtvX2AY.jpg?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1783915200&Signature=uO%2BTEo6Zm%2BradKpC%2Foti8nny4sk%3D",
+        "publishedAt": "2026-07-11T00:46:32Z",
+        "content": "scalpod:iheartscotch: He may not win...but he's already made Nigel look like a schmuck\r\nDid Nigel need any help on that front?\r\nIt was not difficult to make Nigel look like a schmuck.The best thing i… [+69 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_3a1944982fec",
+      "title": "‘Why Delta’s Anti-Open Grazing Law failed’",
+      "content": "Across several Delta communities, reports of cattle destroying crops, roaming highways and grazing on cultivated land continue to surface\nThe post ‘Why Delta’s Anti-Open Grazing Law failed’  appeared first on Vanguard News.",
+      "url": "https://www.vanguardngr.com/2026/07/why-deltas-anti-open-grazing-law-failed/",
+      "source": "Vanguard",
+      "source_type": "news",
+      "author": "Oboh",
+      "published_at": "2026-07-11T04:13:26Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Vanguard"
+        },
+        "author": "Oboh",
+        "title": "‘Why Delta’s Anti-Open Grazing Law failed’",
+        "description": "Across several Delta communities, reports of cattle destroying crops, roaming highways and grazing on cultivated land continue to surface\nThe post ‘Why Delta’s Anti-Open Grazing Law failed’  appeared first on Vanguard News.",
+        "url": "https://www.vanguardngr.com/2026/07/why-deltas-anti-open-grazing-law-failed/",
+        "urlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/11/Open-Grazing.jpg",
+        "publishedAt": "2026-07-11T04:13:26Z",
+        "content": "File: Cows on Mabuchi Road, Mabuchi District, Abuja, at 4.30 p.m. on Thursday, November 13, 2025. Photo: Onochie AnibezeBy Akpokona Omafuaire\r\nOn September 30, 2021, Delta State joined several southe… [+7980 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_99ad77d59dcf",
+      "title": "SBI Funds raises Rs 1,655 crore in a pre-IPO placement",
+      "content": "SBI Funds Management secured ₹1,655 crore from investors before its IPO.  This pre-IPO share sale occurred ahead of the company's upcoming public offering.  The asset manager's ₹11,693 crore IPO is the largest public issue scheduled for 2026.  PI Opportunitie…",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-raises-rs-1655-crore-in-a-pre-ipo-placement/articleshow/132323686.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "ET Bureau",
+      "published_at": "2026-07-11T02:36:26Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "ET Bureau",
+        "title": "SBI Funds raises Rs 1,655 crore in a pre-IPO placement",
+        "description": "SBI Funds Management secured ₹1,655 crore from investors before its IPO.  This pre-IPO share sale occurred ahead of the company's upcoming public offering.  The asset manager's ₹11,693 crore IPO is the largest public issue scheduled for 2026.  PI Opportunitie…",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-raises-rs-1655-crore-in-a-pre-ipo-placement/articleshow/132323686.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-132323676,width-1200,height-630,imgsize-260842,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-07-11T02:36:26Z",
+        "content": "Mumbai: SBI Funds Management has raised 1,655 crore through a pre-IPO share sale to a clutch of institutional investors and individuals ahead of the launch of its initial public offering (IPO) next w… [+1012 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "SBI Funds 在 IPO 前融资成功。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及融资事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注市场融资动态，评估潜在影响。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_6474182617a4",
+      "title": "X-Men '97's Biggest Death Is Going to Have Major Repercussions For Seasons 3 & 4",
+      "content": "According to X-Men '97's executive producer, Larry Houston, the Disney+ animated series' most shocking death to date will have a lasting impact.",
+      "url": "https://screenrant.com/xmen-97-magneto-death-repercussions-seasons-3-4/",
+      "source": "Screen Rant",
+      "source_type": "news",
+      "author": "Jennifer Chu",
+      "published_at": "2026-07-11T03:23:58Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Screen Rant"
+        },
+        "author": "Jennifer Chu",
+        "title": "X-Men '97's Biggest Death Is Going to Have Major Repercussions For Seasons 3 & 4",
+        "description": "According to X-Men '97's executive producer, Larry Houston, the Disney+ animated series' most shocking death to date will have a lasting impact.",
+        "url": "https://screenrant.com/xmen-97-magneto-death-repercussions-seasons-3-4/",
+        "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2024/05/magneto-on-trial-in-x-men-97.jpg?w=1200&h=675&fit=crop",
+        "publishedAt": "2026-07-11T03:23:58Z",
+        "content": "One of X-Men '97's biggest deaths will affect the next two seasons.\r\nX-Men '97 delivered one of its most shocking moments and permanently altered the future of mutantkind. After En Sabah Nur (Adetoku… [+7087 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_b053d4e7b078",
+      "title": "Why is the Brewers-Pirates Game Delayed Today? When Will it Start?",
+      "content": "The Brewers-Pirates game has been delayed. Here is the reason for the delay, the latest start-time update and what fans need to know. The post Why is the Brewers-Pirates Game Delayed Today? When Will it Start? appeared first on HEAVY.",
+      "url": "https://heavy.com/sports/mlb/milwaukee-brewers/brewers-pirates-game-delay-start-time-today/",
+      "source": "Heavy.com",
+      "source_type": "news",
+      "author": "Jonathan Vankin",
+      "published_at": "2026-07-11T00:56:29Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Heavy.com"
+        },
+        "author": "Jonathan Vankin",
+        "title": "Why is the Brewers-Pirates Game Delayed Today? When Will it Start?",
+        "description": "The Brewers-Pirates game has been delayed. Here is the reason for the delay, the latest start-time update and what fans need to know. The post Why is the Brewers-Pirates Game Delayed Today? When Will it Start? appeared first on HEAVY.",
+        "url": "https://heavy.com/sports/mlb/milwaukee-brewers/brewers-pirates-game-delay-start-time-today/",
+        "urlToImage": "https://s.yimg.com/os/en/heavy_214/4387698d067b4c2ec2ac1bb65335bb0b",
+        "publishedAt": "2026-07-11T00:56:29Z",
+        "content": "The Brewers-Pirates game was delayed before first pitch Friday because of weather. Heres why the game may not start on schedule and the latest projected first pitch time.\r\nWEATHER UPDATE: Tonightâs… [+5327 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_94122d479836",
+      "title": "Apple accuses OpenAI of stealing secrets to fast-track its hardware ambitions",
+      "content": "Apple just slapped OpenAI with a massive lawsuit, claiming the ChatGPT maker poached former employees to steal secret hardware blueprints.",
+      "url": "https://www.androidauthority.com/apple-sues-openai-over-trade-secret-theft-3686592/",
+      "source": "Android Authority",
+      "source_type": "news",
+      "author": "Jay Bonggolto",
+      "published_at": "2026-07-11T01:00:32Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Android Authority"
+        },
+        "author": "Jay Bonggolto",
+        "title": "Apple accuses OpenAI of stealing secrets to fast-track its hardware ambitions",
+        "description": "Apple just slapped OpenAI with a massive lawsuit, claiming the ChatGPT maker poached former employees to steal secret hardware blueprints.",
+        "url": "https://www.androidauthority.com/apple-sues-openai-over-trade-secret-theft-3686592/",
+        "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/09/openai-chatgpt-o1-model-logo-header-scaled.jpg",
+        "publishedAt": "2026-07-11T01:00:32Z",
+        "content": "<ul><li>Apple is suing OpenAI, accusing the AI company of building its hardware ambitions using confidential Apple trade secrets.</li><li>The lawsuit names OpenAI, io Products, and former Apple emplo… [+2504 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_437055072ca1",
+      "title": "Bank of America and JPMorgan Chase Consider Teaming Up for Scheme to Extract Higher Card Transaction Fees",
+      "content": "There could be a major battle brewing between banks, regulators, and merchants.\nThe post Bank of America and JPMorgan Chase Consider Teaming Up for Scheme to Extract Higher Card Transaction Fees appeared first on The Gateway Pundit.",
+      "url": "https://www.thegatewaypundit.com/2026/07/bank-america-jpmorgan-chase-consider-teaming-scheme-extract/",
+      "source": "Thegatewaypundit.com",
+      "source_type": "news",
+      "author": "Bryan Chai, The Western Journal",
+      "published_at": "2026-07-11T00:20:31Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Thegatewaypundit.com"
+        },
+        "author": "Bryan Chai, The Western Journal",
+        "title": "Bank of America and JPMorgan Chase Consider Teaming Up for Scheme to Extract Higher Card Transaction Fees",
+        "description": "There could be a major battle brewing between banks, regulators, and merchants.\nThe post Bank of America and JPMorgan Chase Consider Teaming Up for Scheme to Extract Higher Card Transaction Fees appeared first on The Gateway Pundit.",
+        "url": "https://www.thegatewaypundit.com/2026/07/bank-america-jpmorgan-chase-consider-teaming-scheme-extract/",
+        "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2026/03/bank-of-america-building-by-alex-proimos-wiki-commons-1200x630.jpg",
+        "publishedAt": "2026-07-11T00:20:31Z",
+        "content": "There could be a major battle brewing between banks, regulators, and merchants.\r\nAnd caught in the middle of all that might very well be you, the paying customer.\r\nThe Wall Street Journal put out a b… [+3647 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Bank of America",
+        "JPMorgan Chase"
+      ],
+      "importance_score": 7,
+      "ai_summary": "美银和摩根大通考虑合作提高卡交易费用。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及支付交易费用",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注支付行业动态，评估影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_291858ec614c",
+      "title": "Paramount-WBD Merger: Oregon AG Withdraws Records Request, Motion to Delay",
+      "content": "Dan Rayfield was seeking a court order to delay the $110 billion deal's closing by 60 days as it reviewed records from the David Ellison-led media giant\nThe post Paramount-WBD Merger: Oregon AG Withdraws Records Request, Motion to Delay appeared first on TheW…",
+      "url": "https://www.thewrap.com/industry-news/deals-ma/oregon-ag-withdraws-paramount-warner-bros-delay-motion/",
+      "source": "TheWrap",
+      "source_type": "news",
+      "author": "Lucas Manfredi",
+      "published_at": "2026-07-11T01:52:02Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "TheWrap"
+        },
+        "author": "Lucas Manfredi",
+        "title": "Paramount-WBD Merger: Oregon AG Withdraws Records Request, Motion to Delay",
+        "description": "Dan Rayfield was seeking a court order to delay the $110 billion deal's closing by 60 days as it reviewed records from the David Ellison-led media giant\nThe post Paramount-WBD Merger: Oregon AG Withdraws Records Request, Motion to Delay appeared first on TheW…",
+        "url": "https://www.thewrap.com/industry-news/deals-ma/oregon-ag-withdraws-paramount-warner-bros-delay-motion/",
+        "urlToImage": "https://www.thewrap.com/wp-content/uploads/2026/07/Untitled-design-2026-07-07T200408.625.jpg",
+        "publishedAt": "2026-07-11T01:52:02Z",
+        "content": "Oregon attorney general Dan Rayfield has withdrawn the state’s records request and motion to delay the closing of the $110 billion Paramount Warner Bros. merger, according to a filing with the Multno… [+3323 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "merger",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_3f999aed8e4d",
+      "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
+      "content": "The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg9r80908o",
+      "source": "BBC News",
+      "source_type": "news",
+      "author": "https://www.facebook.com/bbcnews",
+      "published_at": "2026-07-11T00:08:51Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
+        "description": "The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up.",
+        "url": "https://www.bbc.co.uk/news/articles/cjrg9r80908o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1de2/live/a36e0e60-7aee-11f1-94d8-c95634a95d3e.jpg",
+        "publishedAt": "2026-07-11T00:08:51Z",
+        "content": "But despite all the new assets and graphics, there is no escaping the fact it is based on a game first released in 2013.\r\nUbisoft had to make lots of calls about what to reuse and change from the ori… [+1070 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series A",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_26d268e086c3",
+      "title": "Watch A Knight Of The Seven Kingdoms' Egg Actor Adorably React To His Show’s Emmy Nomination",
+      "content": "Dexter Sol Ansell had the purest reaction to the Emmy love for A Knight of the Seven Kingdoms.",
+      "url": "https://www.cinemablend.com/television/watch-a-knight-of-the-seven-kingdoms-egg-actor-react-emmy-nomination-dexter-sol-ansell",
+      "source": "CinemaBlend",
+      "source_type": "news",
+      "author": "Christina Radish",
+      "published_at": "2026-07-11T00:45:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CinemaBlend"
+        },
+        "author": "Christina Radish",
+        "title": "Watch A Knight Of The Seven Kingdoms' Egg Actor Adorably React To His Show’s Emmy Nomination",
+        "description": "Dexter Sol Ansell had the purest reaction to the Emmy love for A Knight of the Seven Kingdoms.",
+        "url": "https://www.cinemablend.com/television/watch-a-knight-of-the-seven-kingdoms-egg-actor-react-emmy-nomination-dexter-sol-ansell",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/Vuw7hRDBFnAH2d4r3Y9CjX-2000-80.jpg",
+        "publishedAt": "2026-07-11T00:45:00Z",
+        "content": "The 2026 Emmy nominations are out, and the HBO fantasy series A Knight of the Seven Kingdoms scored an incredible nine noms ahead of the big award show on the 2026 TV schedule. Getting a nod for Outs… [+2709 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series A",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_cb79810aa930",
+      "title": "Plum picks Rothschild for a record $100 mn fundraise",
+      "content": "D2C beauty brand Plum is gearing up for its next phase of growth, tapping Rothschild &amp; Co to raise $75-100 million for offline expansion and new product launches. If successful, the round would set a record for a standalone beauty and personal care brand …",
+      "url": "https://www.livemint.com/companies/plum-rothschild-d2c-beauty-personal-care-fundraise-fmcg-skincare-body-care-makeup-haircare-11783677788765.html",
+      "source": "Livemint",
+      "source_type": "news",
+      "author": "Vaeshnavi Kasthuril, Sneha Shah",
+      "published_at": "2026-07-11T00:30:31Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Vaeshnavi Kasthuril, Sneha Shah",
+        "title": "Plum picks Rothschild for a record $100 mn fundraise",
+        "description": "D2C beauty brand Plum is gearing up for its next phase of growth, tapping Rothschild &amp; Co to raise $75-100 million for offline expansion and new product launches. If successful, the round would set a record for a standalone beauty and personal care brand …",
+        "url": "https://www.livemint.com/companies/plum-rothschild-d2c-beauty-personal-care-fundraise-fmcg-skincare-body-care-makeup-haircare-11783677788765.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2026/07/10/1600x900/logo/plummmm_1783689896194_1783689909398_a3d81218-d3f9-40a4-a38e-e9da18cd83b0.jpg",
+        "publishedAt": "2026-07-11T00:30:31Z",
+        "content": "Plum and Rothschild did not respond to Mint's emailed queries until the time of publication.\r\nPlum has raised over $50 million in institutional funding to date. Its last fundraising came in March 202… [+4274 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series C",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Plum",
+        "Rothschild"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Plum成功融资1亿美元，创纪录。",
+      "business_relevance": 0.5,
+      "relevance_reason": "融资事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注市场融资动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_e775e0a4d933",
+      "title": "US spot Bitcoin ETFs see $90M inflows, Ethereum ETFs add $18M on July 10",
+      "content": "The recent inflows into Bitcoin and Ethereum ETFs suggest a renewed investor confidence in crypto assets, potentially stabilizing the market.\nThe post US spot Bitcoin ETFs see $90M inflows, Ethereum ETFs add $18M on July 10 appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/bitcoin-ethereum-etf-inflows-july-10/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-11T05:18:52Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "US spot Bitcoin ETFs see $90M inflows, Ethereum ETFs add $18M on July 10",
+        "description": "The recent inflows into Bitcoin and Ethereum ETFs suggest a renewed investor confidence in crypto assets, potentially stabilizing the market.\nThe post US spot Bitcoin ETFs see $90M inflows, Ethereum ETFs add $18M on July 10 appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/bitcoin-ethereum-etf-inflows-july-10/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/11011849/how-to-buy-bitcoin-15-800x420.jpeg",
+        "publishedAt": "2026-07-11T05:18:52Z",
+        "content": "The modest but meaningful inflows suggest institutional investors are tiptoeing back after a brutal June that saw roughly $4 billion flee Bitcoin ETFs US spot Bitcoin ETFs pulled in $90.4 million in … [+2824 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "比特币和以太坊ETF吸引资金流入，影响市场趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到比特币和以太坊ETF",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注ETF市场动态，评估对业务的潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_98de4d4850e8",
+      "title": "‘No Interest’",
+      "content": "Our statement in response to this suit: We have no interest in other companies' trade secrets. We remain focused on building innovative technology that empowers people everywhere.",
+      "url": "https://x.com/drewpusateri/status/2075708238650089981",
+      "source": "X.com",
+      "source_type": "news",
+      "author": "John Gruber",
+      "published_at": "2026-07-11T03:41:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "X.com"
+        },
+        "author": "John Gruber",
+        "title": "‘No Interest’",
+        "description": "Our statement in response to this suit: We have no interest in other companies' trade secrets. We remain focused on building innovative technology that empowers people everywhere.",
+        "url": "https://x.com/drewpusateri/status/2075708238650089981",
+        "urlToImage": "https://pbs.twimg.com/profile_images/2038598874579767296/pESGbdWo_200x200.jpg",
+        "publishedAt": "2026-07-11T03:41:00Z",
+        "content": "Drew Pusateri, director of communications at OpenAI, on Twitter/X (or XCancel):\n\n\n Our statement in response to this suit: We have no interest in\nother companies’ trade secrets. We remain focused on … [+378 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_166d7af4dc32",
+      "title": "SK Hynix surges in NASDAQ debut after raising $26.5B in share sale, as tokenized versions launch on Solana",
+      "content": "SK Hynix's dual listing highlights the growing convergence of traditional finance and decentralized finance, impacting global investment dynamics.\nThe post SK Hynix surges in NASDAQ debut after raising $26.5B in share sale, as tokenized versions launch on Sol…",
+      "url": "https://cryptobriefing.com/sk-hynix-nasdaq-debut-tokenized-solana/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-11T00:05:13Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "SK Hynix surges in NASDAQ debut after raising $26.5B in share sale, as tokenized versions launch on Solana",
+        "description": "SK Hynix's dual listing highlights the growing convergence of traditional finance and decentralized finance, impacting global investment dynamics.\nThe post SK Hynix surges in NASDAQ debut after raising $26.5B in share sale, as tokenized versions launch on Sol…",
+        "url": "https://cryptobriefing.com/sk-hynix-nasdaq-debut-tokenized-solana/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/10200510/sk-hynix-a-south-korean-chipmaker-to-debut-on-nasdaq-800x420.jpeg",
+        "publishedAt": "2026-07-11T00:05:13Z",
+        "content": "The memory chipmaker's blockbuster US listing coincides with tokenized stock trading on Solana, bridging traditional equity markets and crypto infrastructure SK Hynix just pulled off one of the large… [+2087 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "SK Hynix"
+      ],
+      "importance_score": 6,
+      "ai_summary": "SK Hynix在纳斯达克上市并推出代币化版本。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到代币化和区块链",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注代币化技术的发展动态。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_6c5aeb8935d0",
+      "title": "eth-rescue added to PyPI",
+      "content": "An interactive Ethereum CLI for recovering assets and contract control from an account whose private key or seed phrase has been compromised.",
+      "url": "https://pypi.org/project/eth-rescue/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-07-11T05:16:40Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "eth-rescue added to PyPI",
+        "description": "An interactive Ethereum CLI for recovering assets and contract control from an account whose private key or seed phrase has been compromised.",
+        "url": "https://pypi.org/project/eth-rescue/",
+        "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+        "publishedAt": "2026-07-11T05:16:40Z",
+        "content": "eth-rescue is an interactive Ethereum CLI for recovering assets and contract control from an account whose private key or seed phrase has been compromised.\r\nWhen a compromised account is watched by a… [+10296 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "eth-rescue被添加到PyPI，涉及加密技术发展。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币相关技术",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
+      "description": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
+      "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-07-11T16:21:34",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Robinhood Chain 是一个以太坊二层网络，专注于代币化资产。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "关注区块链基础设施的进展",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Internet Economy Stablecoins - Trend Hunter",
+      "description": "Internet Economy Stablecoins&nbsp;&nbsp;Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5ejlYU1RNRU1rV1VfTEhHckZoZlVVSi1FMkJFblFTQ2E4SkZSSmc5YUV4aTluQmcxNUplc0FNY19tb25oMHBWU2VYTTJERzlvaUc1RWprYThIcmfSAVtBVV95cUxQOXo5WFNUTUVNa1dVX0xIR3JGaGZVVUotRTJCRW5RU0NhOEpGUkpnOWFFeGk5bkJnMTVKZXNBTWNfbW9uaDBwVlNlWE0yREc5b2lHNUVqa2E4SHJn?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-07-11T12:08:09",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "稳定币在互联网经济中的趋势分析。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币趋势",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币市场动态，调整策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Coinbase (COIN) CEO Backs Cloudflare Stablecoin Gateway For AI Payments - simplywall.st",
+      "description": "Coinbase (COIN) CEO Backs Cloudflare Stablecoin Gateway For AI Payments&nbsp;&nbsp;simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUEFzWTNXOFptdmRJd1ctMmsyR3BjazJYRzlOUUhhX3dJOFU3ay1nY0VPUjJ4TWNZZXIzanhPcTB6T2JrZ1M2OUhFUU5uYkFWdkROZnh1eWFZejdTQ2R2ejZwSHp4UWwxSnYzZy1HVW55c2wwWlpQQ2hVNWdEcElBZExSVHBsdVFUbHZCMnk1RldNeU5DNXRiUXMzZlE0LVN1eElqN3cwUXZBbGl4Nk5Nenl3bHVwWEpyVVN4bXppVEVaU1F4dl93RFRxZjVNZGljQ09TbXhaeFBjNDV5akdzdzVR0gHnAUFVX3lxTFAzSXo0bXMxT1ZsVUhyM0lTSTdfSjI3RW1CSE12c0wxanJZaEpSa0RIdWZZNnJyXzZ1QjA4c0xFV3VPUUhpaGZ4VUlkTHN0SzJxQ0VLU3lBQm5zblBkazlWVDFERktaZEZOSHIzOFVfSkUzUG0tQ19Sa25XQ3MyT3lnanZPenJLWHlhM3pGZEJOTmdnSzlfTkdocmk3YkpZT2VWTmVIUlNZa0NnWVk5UVJDSXNDdXNGdWpoUEJzdGZxLWZIRE5uMUlMY1RTelRURDhpUG5iYzc4a3p6SEhPZWgySWdqRUktcw?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-07-12T02:31:04",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Coinbase",
+        "Cloudflare"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Coinbase CEO 支持 Cloudflare 的稳定币支付网关。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币支付技术的进展。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Circle Just Became The Only Licensed Stablecoin Bank. Here's Why That Matters (NYSE:CRCL) - Seeking Alpha",
+      "description": "Circle Just Became The Only Licensed Stablecoin Bank. Here's Why That Matters (NYSE:CRCL)&nbsp;&nbsp;Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbTRwQXRHS3E4WWFwWmY1b3lYY1dpQWQxbXRvV0h2dl93LUNJTGtZUlpSMm1nYUdTdF8wREhXOFZxbWNJRW5vR3dvcHNPNUdmb1o2VGNadVdoU1NSTGVWUS1xZ3l4T3lfc2NYMldGeUpBODg5NkwtbFRVYndzbkNqRE9lUEJqanZadHlWeEpDQzMtMkhMSktpdGdmNWN4Um1pRjh4MHdXMHdOek1pSG1UYnFMbW1uckVEY3h6aUhCcl9rZkljM3J2UUZobw?oc=5",
+      "source": "Google News (stablecoin license)",
+      "source_category": "google_news",
+      "published_at": "2026-07-11T12:13:25",
+      "data_type": "rss",
+      "search_keyword": "stablecoin license",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Circle"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Circle成为唯一持牌稳定币银行，影响行业格局。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币银行",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注监管动态与市场反应",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "MILESTONE | TRON Dominates Issuance, Settlement of World’s Largest Stablecoin in H1 2026 - BitKE",
+      "description": "MILESTONE | TRON Dominates Issuance, Settlement of World’s Largest Stablecoin in H1 2026&nbsp;&nbsp;BitKE",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9td2EzUHR2MGpCemtaTGR6MWx3cDdYX2FJUUZ5T0JXQ0NRX015OV9Rajd1c1lHd1lrVzR3V19jaHBMY2h5ZXNKR0JxLUhyUmpqTzQ5Sk15SnlPQ3FmdHJvTU92dmxOMUY2ZFdPYnF5NnRMNWg3SjlON1hOVQ?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-07-11T06:00:24",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "TRON"
+      ],
+      "importance_score": 8,
+      "ai_summary": "TRON在2026年上半年主导稳定币的发行和结算。",
+      "business_relevance": 0.8,
+      "relevance_reason": "提到稳定币发行和结算",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态，调整策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    }
+  ]
+}
