@@ -1,0 +1,844 @@
+{
+  "competitors": [],
+  "clients": [],
+  "industry": [
+    {
+      "id": "news_0060ab2903d7",
+      "title": "Launches Expanded Crypto Access With Stablecoin Transfers",
+      "content": "Find your next quality investment with Simply Wall St's easy and powerful screener, trusted by over 7 million individual investors worldwide.\n- Interactive Brokers Group (NasdaqGS:IBKR) has expanded its cryptocurrency offerings with new token listings. \n- The…",
+      "url": "https://biztoc.com/x/3dd00c65444e82ea",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "finance.yahoo.com",
+      "published_at": "2026-07-19T02:33:20Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "Launches Expanded Crypto Access With Stablecoin Transfers",
+        "description": "Find your next quality investment with Simply Wall St's easy and powerful screener, trusted by over 7 million individual investors worldwide.\n- Interactive Brokers Group (NasdaqGS:IBKR) has expanded its cryptocurrency offerings with new token listings. \n- The…",
+        "url": "https://biztoc.com/x/3dd00c65444e82ea",
+        "urlToImage": "https://biztoc.com/cdn/3dd00c65444e82ea_s.webp",
+        "publishedAt": "2026-07-19T02:33:20Z",
+        "content": "Find your next quality investment with Simply Wall St's easy and powerful screener, trusted by over 7 million individual investors worldwide.- Interactive Brokers Group (NasdaqGS:IBKR) has expanded i… [+144 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "扩展稳定币转账的加密访问权限。",
+      "business_relevance": 0.8,
+      "relevance_reason": "提到稳定币转账",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币转账的市场动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_435128170af3",
+      "title": "‘AI agents’ll drive next wave of digital commerce’",
+      "content": "Visa has disclosed plans to strengthen its payment infrastructure by leveraging Artificial Intelligence, AI, stablecoin and tokenisation technologies to improve payment experiences for consumers and businesses. The company said the initiative is aimed at prov…",
+      "url": "https://www.vanguardngr.com/2026/07/ai-agentsll-drive-next-wave-of-digital-commerce/",
+      "source": "Vanguard",
+      "source_type": "news",
+      "author": "Urowayino Jeremiah",
+      "published_at": "2026-07-19T00:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Vanguard"
+        },
+        "author": "Urowayino Jeremiah",
+        "title": "‘AI agents’ll drive next wave of digital commerce’",
+        "description": "Visa has disclosed plans to strengthen its payment infrastructure by leveraging Artificial Intelligence, AI, stablecoin and tokenisation technologies to improve payment experiences for consumers and businesses. The company said the initiative is aimed at prov…",
+        "url": "https://www.vanguardngr.com/2026/07/ai-agentsll-drive-next-wave-of-digital-commerce/",
+        "urlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
+        "publishedAt": "2026-07-19T00:00:00Z",
+        "content": "Visa has disclosed plans to strengthen its payment infrastructure by leveraging Artificial Intelligence, AI, stablecoin and tokenisation technologies to improve payment experiences for consumers and … [+2113 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "AI代理将推动数字商业的新潮流。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到数字商业趋势",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注AI在支付领域的应用",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_636d24c04fb1",
+      "title": "Why would Stripe want PayPal?",
+      "content": "Investing.com -- Stripe could gain consumer reach, merchant-processing scale and a stronger stablecoin position by acquiring PayPal Holdings Inc. (NASDAQ:PYPL), though analysts at Cantor Fitzgerald, Bernstein and Mizuho questioned whether the reported $60.50-…",
+      "url": "https://biztoc.com/x/6d0a0d56d9501fca",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "finance.yahoo.com",
+      "published_at": "2026-07-19T01:32:21Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "Why would Stripe want PayPal?",
+        "description": "Investing.com -- Stripe could gain consumer reach, merchant-processing scale and a stronger stablecoin position by acquiring PayPal Holdings Inc. (NASDAQ:PYPL), though analysts at Cantor Fitzgerald, Bernstein and Mizuho questioned whether the reported $60.50-…",
+        "url": "https://biztoc.com/x/6d0a0d56d9501fca",
+        "urlToImage": "https://biztoc.com/cdn/6d0a0d56d9501fca_s.webp",
+        "publishedAt": "2026-07-19T01:32:21Z",
+        "content": "Investing.com -- Stripe could gain consumer reach, merchant-processing scale and a stronger stablecoin position by acquiring PayPal Holdings Inc. (NASDAQ:PYPL), though analysts at Cantor Fitzgerald, … [+153 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "Stripe",
+        "PayPal"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Stripe对PayPal的兴趣反映支付行业的竞争动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及支付行业动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "竞争格局",
+        "市场趋势"
+      ],
+      "industry_action": "关注支付行业的竞争变化",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_1f4335b4b2e5",
+      "title": "US strike on Iranian desalination plant triggers crypto selloff and $700M in liquidations",
+      "content": "A US strike on an Iranian desalination plant cut water to 10,000 people and sent Bitcoin below $100K, triggering $700M in crypto liquidations and new\nThe post US strike on Iranian desalination plant triggers crypto selloff and $700M in liquidations appeared f…",
+      "url": "https://cryptobriefing.com/us-iran-strike-bitcoin-liquidations-sanctions/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-19T00:24:48Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "US strike on Iranian desalination plant triggers crypto selloff and $700M in liquidations",
+        "description": "A US strike on an Iranian desalination plant cut water to 10,000 people and sent Bitcoin below $100K, triggering $700M in crypto liquidations and new\nThe post US strike on Iranian desalination plant triggers crypto selloff and $700M in liquidations appeared f…",
+        "url": "https://cryptobriefing.com/us-iran-strike-bitcoin-liquidations-sanctions/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/18202446/a-seawater-desalination-facility-near-the-coastline-adobe-st-800x420.jpeg",
+        "publishedAt": "2026-07-19T00:24:48Z",
+        "content": "A missile strike on civilian water infrastructure in Jask has rippled from the Persian Gulf into crypto markets, with Bitcoin sliding below $100K and US sanctions freezing $130M in Iranian crypto ass… [+2108 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "美国对伊朗海水淡化厂的打击引发加密货币抛售。",
+      "business_relevance": 0.5,
+      "relevance_reason": "加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场波动对稳定币的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_c8b26a140ed5",
+      "title": "Bot traffic now outnumbers human traffic online, and crypto markets should pay attention",
+      "content": "Cloudflare data shows bots now account for 57.4% of web traffic. Here's what that means for crypto markets, AI trading, and blockchain infrastructure.\nThe post Bot traffic now outnumbers human traffic online, and crypto markets should pay attention appeared f…",
+      "url": "https://cryptobriefing.com/bot-traffic-surpasses-human-traffic-cloudflare/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-19T01:06:38Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Bot traffic now outnumbers human traffic online, and crypto markets should pay attention",
+        "description": "Cloudflare data shows bots now account for 57.4% of web traffic. Here's what that means for crypto markets, AI trading, and blockchain infrastructure.\nThe post Bot traffic now outnumbers human traffic online, and crypto markets should pay attention appeared f…",
+        "url": "https://cryptobriefing.com/bot-traffic-surpasses-human-traffic-cloudflare/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/18210636/server-room-wikipedia-800x420.jpeg",
+        "publishedAt": "2026-07-19T01:06:38Z",
+        "content": "Cloudflare's data shows bots account for more than half of all web traffic, a shift with real consequences for AI-driven trading and blockchain infrastructure. The internet quietly crossed a threshol… [+2598 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "机器人流量超过人类流量，影响加密市场。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_a838c008b065",
+      "title": "US combat deaths in Jordan trigger crypto selloff as Iran conflict escalates",
+      "content": "Two US service members killed in Iranian strikes in Jordan triggered a Bitcoin drop to $62K and $350M in crypto liquidations as the Iran conflict escalates.\nThe post US combat deaths in Jordan trigger crypto selloff as Iran conflict escalates appeared first o…",
+      "url": "https://cryptobriefing.com/us-combat-deaths-jordan-crypto-selloff/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-19T00:48:44Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "US combat deaths in Jordan trigger crypto selloff as Iran conflict escalates",
+        "description": "Two US service members killed in Iranian strikes in Jordan triggered a Bitcoin drop to $62K and $350M in crypto liquidations as the Iran conflict escalates.\nThe post US combat deaths in Jordan trigger crypto selloff as Iran conflict escalates appeared first o…",
+        "url": "https://cryptobriefing.com/us-combat-deaths-jordan-crypto-selloff/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/18204841/a-satellite-photo-from-planet-labs-pbc-shows-a-military-base-3-800x420.jpeg",
+        "publishedAt": "2026-07-19T00:48:44Z",
+        "content": "Two American service members killed in Iranian strikes mark first combat fatalities since ceasefire collapsed, sending Bitcoin below $62K and liquidating $350 million in crypto positions Two US servi… [+3018 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "美国在约旦的战斗死亡引发加密货币市场波动。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注市场波动对稳定币的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_6c1b7a1405ef",
+      "title": "Iran smuggles $6B of oil to China during brief truce, with crypto playing a key role in sanctions evasion",
+      "content": "Iran shipped 70 million barrels of oil to China during a brief truce, with $7.8 billion in crypto trading helping evade US sanctions in the Strait of\nThe post Iran smuggles $6B of oil to China during brief truce, with crypto playing a key role in sanctions ev…",
+      "url": "https://cryptobriefing.com/iran-smuggles-oil-china-crypto-sanctions/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-19T01:35:38Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Iran smuggles $6B of oil to China during brief truce, with crypto playing a key role in sanctions evasion",
+        "description": "Iran shipped 70 million barrels of oil to China during a brief truce, with $7.8 billion in crypto trading helping evade US sanctions in the Strait of\nThe post Iran smuggles $6B of oil to China during brief truce, with crypto playing a key role in sanctions ev…",
+        "url": "https://cryptobriefing.com/iran-smuggles-oil-china-crypto-sanctions/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/18213536/inside-world-s-largest-tankers-moving-million-barrels-of-oil-2-800x420.jpeg",
+        "publishedAt": "2026-07-19T01:35:38Z",
+        "content": "Shadow fleets, teapot refineries, and $7.8 billion in crypto trading are keeping Iran's oil revenue flowing despite US naval blockades During a brief ceasefire window, Iran reportedly shipped oil to … [+1686 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "伊朗利用加密货币规避制裁，涉及跨境支付。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币在制裁规避中的作用",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注加密货币在国际贸易中的应用",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_7e58a9ce8a4a",
+      "title": "US strikes on Iran’s Qeshm Island rattle oil markets and test crypto’s geopolitical immunity",
+      "content": "US warplanes hit Iran's Qeshm Island near the Strait of Hormuz. Bitcoin dipped to $99,500 then recovered as Treasury froze $130M in Iranian crypto assets.\nThe post US strikes on Iran’s Qeshm Island rattle oil markets and test crypto’s geopolitical immunity ap…",
+      "url": "https://cryptobriefing.com/us-strikes-qeshm-island-crypto-oil-markets/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-19T02:57:30Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "US strikes on Iran’s Qeshm Island rattle oil markets and test crypto’s geopolitical immunity",
+        "description": "US warplanes hit Iran's Qeshm Island near the Strait of Hormuz. Bitcoin dipped to $99,500 then recovered as Treasury froze $130M in Iranian crypto assets.\nThe post US strikes on Iran’s Qeshm Island rattle oil markets and test crypto’s geopolitical immunity ap…",
+        "url": "https://cryptobriefing.com/us-strikes-qeshm-island-crypto-oil-markets/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/18225728/qeshm-island-is-considered-as-an-amazing-island-in-the-heart-800x420.jpeg",
+        "publishedAt": "2026-07-19T02:57:30Z",
+        "content": "Bitcoin briefly dipped below $100K as US warplanes hit IRGC facilities near the Strait of Hormuz, but digital assets largely shrugged off the escalation US warplanes struck Iran’s Qeshm Island in mid… [+2300 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "美国对伊朗的打击影响加密市场情绪。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币的地缘政治影响",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注地缘政治对加密市场的潜在影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_fa5b25ad7891",
+      "title": "China team cuts 3D optical chip production time from hours to seconds, and it matters for crypto’s AI hardware race",
+      "content": "Tsinghua University's DISH technology prints 3D optical structures in 0.6 seconds, potentially transforming photonic chip manufacturing for AI and crypto.\nThe post China team cuts 3D optical chip production time from hours to seconds, and it matters for crypt…",
+      "url": "https://cryptobriefing.com/china-dish-3d-optical-chip-production/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-19T03:29:40Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "China team cuts 3D optical chip production time from hours to seconds, and it matters for crypto’s AI hardware race",
+        "description": "Tsinghua University's DISH technology prints 3D optical structures in 0.6 seconds, potentially transforming photonic chip manufacturing for AI and crypto.\nThe post China team cuts 3D optical chip production time from hours to seconds, and it matters for crypt…",
+        "url": "https://cryptobriefing.com/china-dish-3d-optical-chip-production/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/18232937/an-illustration-of-the-ultra-high-parallel-optical-computing-800x420.jpeg",
+        "publishedAt": "2026-07-19T03:29:40Z",
+        "content": "Tsinghua University's DISH technology fabricates complex 3D structures in 0.6 seconds, potentially reshaping the photonic chip landscape that underpins AI and next-gen computing. A research team at T… [+3203 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "中国团队将3D光学芯片生产时间缩短至秒，影响加密硬件竞争。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密硬件技术",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注相关技术进展，评估影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_3686229b7350",
+      "title": "Has Tech Become the Currency of Online Gambling Marketing?",
+      "content": "Recent headlines have focused on an influencer giving away 100 iPhones tied to a casino page, sparking debate not just...\nThe post Has Tech Become the Currency of Online Gambling Marketing? appeared first on YugaTech | Philippines Tech News & Reviews.",
+      "url": "https://www.yugatech.com/opinion/has-tech-become-the-currency-of-online-gambling-marketing/",
+      "source": "Yugatech.com",
+      "source_type": "news",
+      "author": "Anton Gabriel",
+      "published_at": "2026-07-19T05:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Yugatech.com"
+        },
+        "author": "Anton Gabriel",
+        "title": "Has Tech Become the Currency of Online Gambling Marketing?",
+        "description": "Recent headlines have focused on an influencer giving away 100 iPhones tied to a casino page, sparking debate not just...\nThe post Has Tech Become the Currency of Online Gambling Marketing? appeared first on YugaTech | Philippines Tech News & Reviews.",
+        "url": "https://www.yugatech.com/opinion/has-tech-become-the-currency-of-online-gambling-marketing/",
+        "urlToImage": "https://www.yugatech.com/wp-content/uploads/2026/07/d95d4e1d-6a27-43c4-9b94-b6bd8ad38708.webp",
+        "publishedAt": "2026-07-19T05:00:00Z",
+        "content": "TL;DR: Premium tech gadgets like iPhones are being used as marketing bait in online gambling to drive engagement and user acquisition.\r\n<ul><li>iPhones are given away in gambling promotions to attrac… [+5616 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "科技在在线赌博营销中的作用被探讨。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到在线赌博市场",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注在线赌博市场的动态和趋势",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_4fce0a2d09cf",
+      "title": "Lakers 3-Team Trade Pitch Nets Jonathan Kuminga on Eye-Popping Deal",
+      "content": "The Los Angeles Lakers may still be able to land Jonathan Kuminga at the price point he wants via a complicated, multi-team trade. The post Lakers 3-Team Trade Pitch Nets Jonathan Kuminga on Eye-Popping Deal appeared first on HEAVY.",
+      "url": "https://heavy.com/sports/nba/los-angeles-lakers/jonathan-kuminga-trade-hawks-bucks-jericho-sims/",
+      "source": "Heavy.com",
+      "source_type": "news",
+      "author": "Max Dible",
+      "published_at": "2026-07-19T02:19:46Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Heavy.com"
+        },
+        "author": "Max Dible",
+        "title": "Lakers 3-Team Trade Pitch Nets Jonathan Kuminga on Eye-Popping Deal",
+        "description": "The Los Angeles Lakers may still be able to land Jonathan Kuminga at the price point he wants via a complicated, multi-team trade. The post Lakers 3-Team Trade Pitch Nets Jonathan Kuminga on Eye-Popping Deal appeared first on HEAVY.",
+        "url": "https://heavy.com/sports/nba/los-angeles-lakers/jonathan-kuminga-trade-hawks-bucks-jericho-sims/",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XKizWm_reCsMNcduHZIXuQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/heavy_214/1c62b90eb247f2239f84098a1faf2119",
+        "publishedAt": "2026-07-19T02:19:46Z",
+        "content": "Hawks forward Jonathan Kuminga has reportedly become more flexible on contract structure as the Lakers continue exploring a sign-and-trade to acquire the 23-year-old. Getty\r\nThe Los Angeles Lakers pr… [+3213 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_3355082494ea",
+      "title": "South Korea opens the door wider for foreign investors to trade won-denominated bonds",
+      "content": "South Korea's finance ministry allows foreign investors to trade more won bonds and access won loans, easing settlement through Euroclear and Clearstream.\nThe post South Korea opens the door wider for foreign investors to trade won-denominated bonds appeared …",
+      "url": "https://cryptobriefing.com/south-korea-foreign-investors-won-bonds/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-19T03:07:28Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "South Korea opens the door wider for foreign investors to trade won-denominated bonds",
+        "description": "South Korea's finance ministry allows foreign investors to trade more won bonds and access won loans, easing settlement through Euroclear and Clearstream.\nThe post South Korea opens the door wider for foreign investors to trade won-denominated bonds appeared …",
+        "url": "https://cryptobriefing.com/south-korea-foreign-investors-won-bonds/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/18230726/cafe-seoulism-1-800x420.jpeg",
+        "publishedAt": "2026-07-19T03:07:28Z",
+        "content": "Seoul's finance ministry is dismantling barriers that have long kept overseas capital on the sidelines of one of Asia's largest bond markets. South Korea’s Ministry of Economy and Finance is loosenin… [+2369 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "韩国放宽外资投资政策，影响市场动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到外资与市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注外资对市场的影响",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "title": "Japanese logistics firm turns to JPYC stablecoin to fight labor shortages: report",
+      "description": "By offering contractors faster payments with stablecoins, the firm seeks to attract more business partners, according to Nikkei.",
+      "url": "https://www.theblock.co/post/408862/japanese-logistics-firm-jpyc?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-07-20T03:48:32",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "日本物流公司使用稳定币应对劳动力短缺。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币在支付领域的应用趋势。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Stablecoins vs Traditional Banking",
+      "description": "A stablecoin is a cryptocurrency pegged to a reference asset, such as the U.S. dollar or Euro. Like a bank, stablecoin issuers hold onto vast amounts of deposits, as they take cash in return for issuing their coin onchain. This makes them similar in some ways to a traditional bank, but the two differ in [&hellip;]",
+      "url": "https://www.theblock.co/learn/408854/stablecoins-vs-traditional-banking?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-07-20T03:29:46",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "稳定币与传统银行的相似性和差异性分析。",
+      "business_relevance": 0.8,
+      "relevance_reason": "涉及稳定币与传统银行的比较",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币对传统银行的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Upbit parent Dunamu faces sanction process nearly eight months after $30 million hack: report",
+      "description": "The severity of any sanctions remains unclear because South Korea's current crypto law contains no direct sanction provisions for hacking or IT failures.",
+      "url": "https://www.theblock.co/post/408848/upbit-parent-dunamu-faces-sanction-process-nearly-eight-months-after-30-million-hack-report?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-07-19T20:31:29",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Dunamu面临制裁，影响加密行业监管动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注南韩加密监管政策变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Cyclops secures $20m Series A to scale stablecoin payments infrastructure - FinTech Futures",
+      "description": "Cyclops secures $20m Series A to scale stablecoin payments infrastructure&nbsp;&nbsp;FinTech Futures",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc2Vzdk5KUWkwbWxRZ0NYS2Vyb05aRzFNMkFMSGpyVGZOYWU2TnktcFh6SVBXbWc2MmNVOThONGNQVERRWU5neEk2VjJZbTJUelBpU2dvemR3X2RJZkdIeFdJVTRpYWdIVTJZMFNnOHdiYVdhS0RITEQwODdnOERDNVZ2OHkwRFhfbjNj?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-07-20T03:01:35",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "Cyclops获得融资以扩展稳定币支付基础设施。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币支付基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币支付市场动态",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "title": "Japanese logistics company eyes JPYC stablecoin to pay drivers - TradingView",
+      "description": "Japanese logistics company eyes JPYC stablecoin to pay drivers&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQekpqMFNuZ2dSYWtBNG9BcC1vbnNzQWk4dGMxQ1Z1MHo0TWF2N1VpcEpqeDZsZV9xcFFhcUpzQWl6WUlqaTgwSjNmWW5mZGkwRU9KOXctd2MxcmUzeXo0TXFXNWhnS1FfT2F4by1tX0t1eFJxU3BKc2prOUpPSnhDS0Q3NnpZTmpiNTFscVZ6a19aQklnSTZQV3k2SlpYSDYyS0cyanVhM2I5OUJKVzJpT3daMHU3bi15YjdmNWRsbjlDQmJr?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-07-20T01:27:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "日本物流公司计划使用JPYC稳定币支付司机",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币在物流行业的应用",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    }
+  ]
+}
