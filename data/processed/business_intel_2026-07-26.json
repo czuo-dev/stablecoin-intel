@@ -1,0 +1,745 @@
+{
+  "competitors": [
+    {
+      "title": "Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ",
+      "description": "A deal would let Robinhood customers trade yes-or-no contracts offered through Crypto.com’s derivatives business, though no deal has yet been reached.",
+      "url": "https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-07-25T17:27:20",
+      "data_type": "rss",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Robinhood",
+        "Crypto.com"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Robinhood与Crypto.com的合作谈判可能影响市场竞争格局。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密交易所动态",
+      "threat_level": "medium",
+      "impact_areas": [
+        "产品竞争",
+        "客户争夺",
+        "市场定价"
+      ],
+      "suggested_action": "关注Crypto.com的市场动态，评估潜在影响。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    }
+  ],
+  "clients": [],
+  "industry": [
+    {
+      "id": "news_3798615eb6b7",
+      "title": "This Week in Stablecoins: Visa, Goldman and Samsung Raise the Stakes",
+      "content": "Stablecoins spent years waiting for regulatory legitimacy. Now that legitimacy is creating a more complicated problem: almost everyone wants a piece of the business.\nAs a result, the biggest stablecoin news this week didn’t come from crypto-native companies. …",
+      "url": "https://biztoc.com/x/4520f6f5d992851b",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "pymnts.com",
+      "published_at": "2026-07-25T01:29:24Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "pymnts.com",
+        "title": "This Week in Stablecoins: Visa, Goldman and Samsung Raise the Stakes",
+        "description": "Stablecoins spent years waiting for regulatory legitimacy. Now that legitimacy is creating a more complicated problem: almost everyone wants a piece of the business.\nAs a result, the biggest stablecoin news this week didn’t come from crypto-native companies. …",
+        "url": "https://biztoc.com/x/4520f6f5d992851b",
+        "urlToImage": "https://biztoc.com/cdn/995/og.png",
+        "publishedAt": "2026-07-25T01:29:24Z",
+        "content": "Stablecoins spent years waiting for regulatory legitimacy. Now that legitimacy is creating a more complicated problem: almost everyone wants a piece of the business.As a result, the biggest stablecoi… [+138 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Visa",
+        "Goldman",
+        "Samsung"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Visa、Goldman和Samsung在稳定币领域的动态引人关注。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币行业动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场的变化与竞争对手动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_c3733372e763",
+      "title": "Crypto markets in everything? (moo)",
+      "content": "Farmers in Parana, Brazil, struggling to get banks to loan them cash, became the first to tokenize livestock and place 10 dairy milk cows’ tokens for trade on the country’s B3 national stock exchange. They generated nearly $20,000 in credit backed by their ca…",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/crypto-markets-in-everything.html",
+      "source": "Marginalrevolution.com",
+      "source_type": "news",
+      "author": "Tyler Cowen",
+      "published_at": "2026-07-25T04:40:55Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Marginalrevolution.com"
+        },
+        "author": "Tyler Cowen",
+        "title": "Crypto markets in everything? (moo)",
+        "description": "Farmers in Parana, Brazil, struggling to get banks to loan them cash, became the first to tokenize livestock and place 10 dairy milk cows’ tokens for trade on the country’s B3 national stock exchange. They generated nearly $20,000 in credit backed by their ca…",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/07/crypto-markets-in-everything.html",
+        "urlToImage": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+        "publishedAt": "2026-07-25T04:40:55Z",
+        "content": "Farmers in Parana, Brazil, struggling to get banks to loan them cash, became the first to tokenize livestock and place 10 dairy milk cows tokens for trade on the countrys B3 national stock exchange. … [+1674 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "加密市场动态的概述",
+      "business_relevance": 0.5,
+      "relevance_reason": "一般加密货币新闻",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_e99d4eb8afd7",
+      "title": "Strategy’s Saylor needs clarity in BTC pivot message to convince investors: StanChart",
+      "content": "Standard Chartered sees communication challenges facing the biggest digital asset treasury company as “muddying the waters” for Bitcoin in the near term. Strategy co-founder and chairman Michael Saylor again took to social media on Sunday to offer his latest …",
+      "url": "https://www.activistpost.com/strategys-saylor-needs-clarity-in-btc-pivot-message-to-convince-investors-stanchart/",
+      "source": "Activistpost.com",
+      "source_type": "news",
+      "author": "Editor",
+      "published_at": "2026-07-25T00:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Activistpost.com"
+        },
+        "author": "Editor",
+        "title": "Strategy’s Saylor needs clarity in BTC pivot message to convince investors: StanChart",
+        "description": "Standard Chartered sees communication challenges facing the biggest digital asset treasury company as “muddying the waters” for Bitcoin in the near term. Strategy co-founder and chairman Michael Saylor again took to social media on Sunday to offer his latest …",
+        "url": "https://www.activistpost.com/strategys-saylor-needs-clarity-in-btc-pivot-message-to-convince-investors-stanchart/",
+        "urlToImage": "https://www.activistpost.com/wp-content/uploads/2026/07/michael-saylors-big-bet-institutional-investments-role-in-bitcoins-price-960x639-1.webp",
+        "publishedAt": "2026-07-25T00:00:00Z",
+        "content": "Standard Chartered sees communication challenges facing the biggest digital asset treasury company as “muddying the waters” for Bitcoin in the near term.\r\nStrategy co-founder and chairman Michael Say… [+3468 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Saylor需要明确比特币策略以增强投资者信心。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及比特币投资者信心",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_a099ac6e1f42",
+      "title": "OpenAI’s AI agent hacked Hugging Face undetected for a week, raising alarm across AI and crypto sectors",
+      "content": "OpenAI's autonomous AI agent escaped containment and hacked Hugging Face undetected for a week, raising urgent questions for AI safety and crypto\nThe post OpenAI’s AI agent hacked Hugging Face undetected for a week, raising alarm across AI and crypto sectors …",
+      "url": "https://cryptobriefing.com/openai-ai-agent-hacks-hugging-face/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-25T00:44:35Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "OpenAI’s AI agent hacked Hugging Face undetected for a week, raising alarm across AI and crypto sectors",
+        "description": "OpenAI's autonomous AI agent escaped containment and hacked Hugging Face undetected for a week, raising urgent questions for AI safety and crypto\nThe post OpenAI’s AI agent hacked Hugging Face undetected for a week, raising alarm across AI and crypto sectors …",
+        "url": "https://cryptobriefing.com/openai-ai-agent-hacks-hugging-face/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/24204433/openai-o1-800x420.jpeg",
+        "publishedAt": "2026-07-25T00:44:35Z",
+        "content": "An autonomous agent escaped its controlled environment, executed over 17,000 actions, and breached a major AI platform before anyone connected the dots. One of OpenAI’s autonomous AI agents broke fre… [+2655 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "OpenAI的AI代理在加密领域引发警报。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及AI与加密领域动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注AI与加密结合的趋势。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_c48ba1514e1d",
+      "title": "Could Buying XRP Today Set You Up for Life?",
+      "content": "The life-changing riches Bitcoin generated in its early years helped attract millions of investors seeking the next big thing. XRP (CRYPTO: XRP) has become one of the most popular altcoins, appreciating over 17,700% over the past decade.\nXRP is the native tok…",
+      "url": "https://biztoc.com/x/e934e9b450253524",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "finance.yahoo.com",
+      "published_at": "2026-07-25T00:00:42Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "Could Buying XRP Today Set You Up for Life?",
+        "description": "The life-changing riches Bitcoin generated in its early years helped attract millions of investors seeking the next big thing. XRP (CRYPTO: XRP) has become one of the most popular altcoins, appreciating over 17,700% over the past decade.\nXRP is the native tok…",
+        "url": "https://biztoc.com/x/e934e9b450253524",
+        "urlToImage": "https://biztoc.com/cdn/e934e9b450253524_s.webp",
+        "publishedAt": "2026-07-25T00:00:42Z",
+        "content": "The life-changing riches Bitcoin generated in its early years helped attract millions of investors seeking the next big thing. XRP (CRYPTO: XRP) has become one of the most popular altcoins, appreciat… [+146 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "讨论XRP投资潜力的新闻",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到XRP与投资",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注XRP市场动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_d42e392e6f9c",
+      "title": "World Foundation Raises $52 Million as AI Drives Demand for ID Solutions",
+      "content": "World Foundation raised $52.5 million in new funding to bring World ID technology to organizations, consumers and artificial intelligence (AI) agents.\nThe organization raised the new funding by selling to strategic investors WLD tokens that are subject to a o…",
+      "url": "https://biztoc.com/x/89ec6afc0b48c9d4",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "pymnts.com",
+      "published_at": "2026-07-25T01:29:15Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "pymnts.com",
+        "title": "World Foundation Raises $52 Million as AI Drives Demand for ID Solutions",
+        "description": "World Foundation raised $52.5 million in new funding to bring World ID technology to organizations, consumers and artificial intelligence (AI) agents.\nThe organization raised the new funding by selling to strategic investors WLD tokens that are subject to a o…",
+        "url": "https://biztoc.com/x/89ec6afc0b48c9d4",
+        "urlToImage": "https://biztoc.com/cdn/995/og.png",
+        "publishedAt": "2026-07-25T01:29:15Z",
+        "content": "World Foundation raised $52.5 million in new funding to bring World ID technology to organizations, consumers and artificial intelligence (AI) agents.The organization raised the new funding by sellin… [+143 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "AI推动ID解决方案需求增长。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到ID解决方案需求",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注AI与身份验证技术的结合",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_7bdd2815405f",
+      "title": "Find out How an Adorable Duck Drove us to Get Creative with Dodo Duckie",
+      "content": "The post Find out How an Adorable Duck Drove us to Get Creative with Dodo Duckie appeared first on XBOX Wire.",
+      "url": "https://news.xbox.com/en-us/2026/07/24/find-out-how-an-adorable-duck-drove-us-to-get-creative/",
+      "source": "Xbox.com",
+      "source_type": "news",
+      "author": "johns",
+      "published_at": "2026-07-25T00:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Xbox.com"
+        },
+        "author": "johns",
+        "title": "Find out How an Adorable Duck Drove us to Get Creative with Dodo Duckie",
+        "description": "The post Find out How an Adorable Duck Drove us to Get Creative with Dodo Duckie appeared first on XBOX Wire.",
+        "url": "https://news.xbox.com/en-us/2026/07/24/find-out-how-an-adorable-duck-drove-us-to-get-creative/",
+        "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/07/Dodo-Duckie-Key-Art-396a1b46ae9a94046099-scaled.jpg",
+        "publishedAt": "2026-07-25T00:00:00Z",
+        "content": "Weve all experienced a time when were surrounded by people yet feel completely out of place. Thats the exact feeling Dodo Duckie starts from: a duckling raised among chickens, convinced something is … [+3787 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series A",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_4c8147947bdc",
+      "title": "'We were amazed she turned up': Fresh twist in murder of British expat in Dordogne as friends reveal meeting at popular local bar between victim and the 'love rival' accused of her killing - and attack 'lies'",
+      "content": "This week's dramatic development has sent shockwaves through one of the most idyllic villages in south-west France. With a population of just 600, Tremolat is a place beloved by British expats.",
+      "url": "https://www.dailymail.com/crime-desk/article-16003521/twist-murder-British-expat-Dordogne.html",
+      "source": "Dailymail.com",
+      "source_type": "news",
+      "author": "Barbara  Davies",
+      "published_at": "2026-07-25T00:00:49Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dailymail.com"
+        },
+        "author": "Barbara  Davies",
+        "title": "'We were amazed she turned up': Fresh twist in murder of British expat in Dordogne as friends reveal meeting at popular local bar between victim and the 'love rival' accused of her killing - and attack 'lies'",
+        "description": "This week's dramatic development has sent shockwaves through one of the most idyllic villages in south-west France. With a population of just 600, Tremolat is a place beloved by British expats.",
+        "url": "https://www.dailymail.com/crime-desk/article-16003521/twist-murder-British-expat-Dordogne.html",
+        "urlToImage": "https://i.dailymail.com/1s/2026/07/24/19/110238849-0-image-a-63_1784919276448.jpg",
+        "publishedAt": "2026-07-25T00:00:49Z",
+        "content": "Marie-Laure Auteforts brother was the first person I spoke to when I arrived in the tiny French village of Tremolat after Karen Carters murder in April last year.\r\nPhilippe Monribot had parked his va… [+12536 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_bf56cbf42076",
+      "title": "Bitcoin, Ethereum ETFs see $240M and $71M net outflows on July 24",
+      "content": "Bitcoin ETFs lost $240M and Ethereum ETFs shed $71M on July 24, with BlackRock's IBIT driving most of the selling amid geopolitical tensions.\nThe post Bitcoin, Ethereum ETFs see $240M and $71M net outflows on July 24 appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/bitcoin-ethereum-etf-outflows-july-24/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-25T04:45:38Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Bitcoin, Ethereum ETFs see $240M and $71M net outflows on July 24",
+        "description": "Bitcoin ETFs lost $240M and Ethereum ETFs shed $71M on July 24, with BlackRock's IBIT driving most of the selling amid geopolitical tensions.\nThe post Bitcoin, Ethereum ETFs see $240M and $71M net outflows on July 24 appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/bitcoin-ethereum-etf-outflows-july-24/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/25004535/golden-bitcoin-with-yellow-bokeh-background-6-800x420.jpeg",
+        "publishedAt": "2026-07-25T04:45:38Z",
+        "content": "BlackRock's IBIT and ETHA led the selling as geopolitical tension and equity weakness pushed institutional investors to the sidelines It was not a great Thursday for crypto ETF bulls. U.S. spot Bitco… [+3208 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "比特币和以太坊ETF出现大额资金流出。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态以调整策略",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_3d10533d0e71",
+      "title": "National ID made mandatory for digital wallet users",
+      "content": "KATHMANDU, July 25: Nepal Rastra Bank (NRB) has made the National Identity Card (National ID) mandatory for digital wallet users. The central bank has directed payment service providers (PSPs) to verify the identity of Nepali citizens using the electronic rec…",
+      "url": "https://peoplesreview.com.np/2026/07/25/national-id-made-mandatory-for-digital-wallet-users/",
+      "source": "Peoplesreview.com.np",
+      "source_type": "news",
+      "author": "team1",
+      "published_at": "2026-07-25T04:45:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Peoplesreview.com.np"
+        },
+        "author": "team1",
+        "title": "National ID made mandatory for digital wallet users",
+        "description": "KATHMANDU, July 25: Nepal Rastra Bank (NRB) has made the National Identity Card (National ID) mandatory for digital wallet users. The central bank has directed payment service providers (PSPs) to verify the identity of Nepali citizens using the electronic rec…",
+        "url": "https://peoplesreview.com.np/2026/07/25/national-id-made-mandatory-for-digital-wallet-users/",
+        "urlToImage": "https://peoplesreview.com.np/wp-content/uploads/2025/11/nrb-nepal-rastra-bank-1.jpg",
+        "publishedAt": "2026-07-25T04:45:00Z",
+        "content": "KATHMANDU, July 25: Nepal Rastra Bank (NRB) has made the National Identity Card (National ID) mandatory for digital wallet users.\r\nThe central bank has directed payment service providers (PSPs) to ve… [+1463 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "国家要求数字钱包用户提供身份证明。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及数字钱包用户身份验证",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化对业务的影响。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "title": "EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23",
+      "description": "Other crypto platforms listed alongside HTX include EXMO, Rapira, BitPapa, Aifory Pro, WhiteBird, NoOnecrypto and Exnode.",
+      "url": "https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-07-25T21:23:27",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "HTX",
+        "EXMO",
+        "Rapira",
+        "BitPapa",
+        "Aifory Pro",
+        "WhiteBird",
+        "NoOnecrypto",
+        "Exnode"
+      ],
+      "importance_score": 7,
+      "ai_summary": "欧盟将HTX纳入制裁名单，影响加密行业。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "竞争格局"
+      ],
+      "industry_action": "关注监管动态，评估潜在影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "STABLECOINS | Philippines Oldest Bank to Pilot Stablecoin Rail for Cross-Border Payments - BitKE",
+      "description": "STABLECOINS | Philippines Oldest Bank to Pilot Stablecoin Rail for Cross-Border Payments&nbsp;&nbsp;BitKE",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ELXV1R0JxcWhjbkJTLTF3UjdHSkFZUWJla21jX0FRUFlpWlowSWZGZmFqczdzc29lZXNteWQ5X2RFUk5PT1dJRTFrQ0RQZ1lDTDlrbUxlai1lQ3VKVVNJWHJzTFY?oc=5",
+      "source": "Google News (cross-border stablecoin)",
+      "source_category": "google_news",
+      "published_at": "2026-07-25T10:00:22",
+      "data_type": "rss",
+      "search_keyword": "cross-border stablecoin",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "菲律宾老银行将试点稳定币跨境支付。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及跨境支付和稳定币",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币在跨境支付中的应用趋势。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "HKMA Warns of Fake HSBC and HKDAP Tokens Amid Stablecoin Rollout - CoinMarketCap",
+      "description": "HKMA Warns of Fake HSBC and HKDAP Tokens Amid Stablecoin Rollout&nbsp;&nbsp;CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObUJDdW4xT2h1Q0I2dG1kOEprTmpDVkZpRXZuV3RKcWJfamllY080WENwa3k1UmR2Y2w5Yjc5Q3RDTlpaNGI3cFpMN3dUX1l3eW1JMTczWTYwbVJSYWxrWnM1dDFEaG5VZWNFNjZXVE1sbFRxYmtTSmlhNGhWUG51VWxSVktnRVlQS2hWTXdEWlBiRlVUUHQ0UTE1ZDdKNnJ5X2pqV1pYdjlPUQ?oc=5",
+      "source": "Google News (stablecoin license)",
+      "source_category": "google_news",
+      "published_at": "2026-07-25T08:38:10",
+      "data_type": "rss",
+      "search_keyword": "stablecoin license",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "香港金融管理局警告假稳定币问题。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注稳定币监管动态，评估影响。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "8x faster than US cash: The $1T network settling millions while banks sleep on weekends - CryptoSlate",
+      "description": "8x faster than US cash: The $1T network settling millions while banks sleep on weekends&nbsp;&nbsp;CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkhjYS1idEM2RlpiVVlKU1c1Y1Zocno5d0FJcFQ5T2MzRmNlXzNrR0RlR21wdTViR0lxcTEtdzhQOEUyMUw0T1U5WHpacFpZanJ6aEppMzExZmlrSUljb2NpYlQtSmF6YzNHdXhkLWQ1cFhWOFlNUWdMS2tGWGg2REc5aEJEOTVtNHJPbURR?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-07-25T12:25:49",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "报道了快速结算的网络对银行的影响。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到跨境支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注跨境支付技术的发展动态。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    }
+  ]
+}
