@@ -1,0 +1,971 @@
+{
+  "competitors": [
+    {
+      "title": "Visa expands digital payments strategy with new stablecoin platform - The Digital Banker",
+      "description": "Visa expands digital payments strategy with new stablecoin platform&nbsp;&nbsp;The Digital Banker",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR250SjR5M3JhcGI5Nk1oZlcxenltT3FQU1NPWjhNazFKMXI3OGhPYW5IZWhFTUNDWEYzLXlVZXd1ejZyckhlRGhZVDZiSFFFR3NhS2NzdmxwcmNwcGI2M29NNHNJb05CYlFIaFNhZUpHb0tiNTBKODVndXJPUTVKdGhmWU84aGItYUJTZGM5UzlBQzRRelBIcWZ5UERXdw?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-07-27T02:37:55",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Visa"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Visa推出新的稳定币平台，扩展数字支付策略。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币平台",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "市场定价",
+        "技术差距"
+      ],
+      "suggested_action": "关注Visa动态，优化自身产品竞争力。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    }
+  ],
+  "clients": [],
+  "industry": [
+    {
+      "id": "news_988e949171a9",
+      "title": "Binance ‘red teams’ its own staff every month to keep hackers out",
+      "content": "Crypto exchange Binance’s red team will regularly conduct simulated phishing attacks on the company’s staff to check for security weak points.",
+      "url": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Felix Ng",
+      "published_at": "2026-07-26T02:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Felix Ng",
+        "title": "Binance ‘red teams’ its own staff every month to keep hackers out",
+        "description": "Crypto exchange Binance’s red team will regularly conduct simulated phishing attacks on the company’s staff to check for security weak points.",
+        "url": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/phishing.jpg",
+        "publishedAt": "2026-07-26T02:00:00Z",
+        "content": "Cryptocurrency exchange Binance runs simulated phishing attacks against its own employees and can fire staff who repeatedly fail the tests, according to Binance chief security officer Jimmy Su.\r\nThe … [+2665 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance 每月进行安全测试以防黑客攻击。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币安全",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全技术的发展趋势。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_b8f955c2cda7",
+      "title": "BitMEX to shut down after 11-year run that reshaped crypto derivatives trading",
+      "content": "BitMEX will cease all operations on September 23, 2026, ending an 11-year run. Users must withdraw assets promptly as the crypto derivatives\nThe post BitMEX to shut down after 11-year run that reshaped crypto derivatives trading appeared first on Crypto Brief…",
+      "url": "https://cryptobriefing.com/bitmex-shutdown-operations-cease/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-26T02:21:44Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "BitMEX to shut down after 11-year run that reshaped crypto derivatives trading",
+        "description": "BitMEX will cease all operations on September 23, 2026, ending an 11-year run. Users must withdraw assets promptly as the crypto derivatives\nThe post BitMEX to shut down after 11-year run that reshaped crypto derivatives trading appeared first on Crypto Brief…",
+        "url": "https://cryptobriefing.com/bitmex-shutdown-operations-cease/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/25222141/bitmex-mobile-app-download-for-ios-and-android-800x420.png",
+        "publishedAt": "2026-07-26T02:21:44Z",
+        "content": "The exchange that pioneered 100x leverage perpetual swaps will cease all operations on September 23, giving users two months to withdraw assets BitMEX, the exchange that essentially invented the cryp… [+2365 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "BitMEX 关闭将影响加密衍生品市场",
+      "business_relevance": 0.7,
+      "relevance_reason": "交易所动态影响市场",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场变化和竞争对手动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_ff7d1ba9b390",
+      "title": "BlueNoroff targets crypto users with fake Zoom and Teams meetings, compromising victims in under five minutes",
+      "content": "North Korean hackers BlueNoroff use fake Zoom and Teams meetings to steal crypto wallet credentials, hitting over 100 victims across 20\nThe post BlueNoroff targets crypto users with fake Zoom and Teams meetings, compromising victims in under five minutes appe…",
+      "url": "https://cryptobriefing.com/bluenoroff-fake-zoom-teams-crypto-theft/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-26T03:26:05Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "BlueNoroff targets crypto users with fake Zoom and Teams meetings, compromising victims in under five minutes",
+        "description": "North Korean hackers BlueNoroff use fake Zoom and Teams meetings to steal crypto wallet credentials, hitting over 100 victims across 20\nThe post BlueNoroff targets crypto users with fake Zoom and Teams meetings, compromising victims in under five minutes appe…",
+        "url": "https://cryptobriefing.com/bluenoroff-fake-zoom-teams-crypto-theft/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/25232602/north-korean-hackers-800x420.jpeg",
+        "publishedAt": "2026-07-26T03:26:05Z",
+        "content": "The North Korean hacking group has hit over 100 targets across 20 countries using typosquatted meeting domains and AI-generated avatars to steal wallet credentials A North Korean hacking unit is usin… [+3426 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "BlueNoroff 针对加密用户的网络攻击事件。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密用户安全",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注网络安全对加密行业的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_9debee9fd014",
+      "title": "Investors use crypto exchanges to avoid Chinese controls on AI stocks",
+      "content": "Perpetual futures let investors circumvent restrictions on foreign access to China’s equity market",
+      "url": "https://biztoc.com/x/3e258c824e538105",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "ft.com",
+      "published_at": "2026-07-26T05:08:45Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "ft.com",
+        "title": "Investors use crypto exchanges to avoid Chinese controls on AI stocks",
+        "description": "Perpetual futures let investors circumvent restrictions on foreign access to China’s equity market",
+        "url": "https://biztoc.com/x/3e258c824e538105",
+        "urlToImage": "https://biztoc.com/cdn/995/og.png",
+        "publishedAt": "2026-07-26T05:08:45Z",
+        "content": "Perpetual futures let investors circumvent restrictions on foreign access to Chinas equity market\r\nThis story appeared on ft.com, 2026-07-26 04:00:15.",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "投资者利用加密交易所规避中国对AI股票的控制。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密监管动态，评估市场影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_5c2d1ac6658b",
+      "title": "Balaji Srinivasan’s Network School relocates to Kazakhstan after Malaysian authorities pull the plug",
+      "content": "Balaji Srinivasan's Network School signs five-year deal with Kazakhstan after Malaysian authorities revoke its business license over regulatory\nThe post Balaji Srinivasan’s Network School relocates to Kazakhstan after Malaysian authorities pull the plug appea…",
+      "url": "https://cryptobriefing.com/network-school-relocates-kazakhstan-malaysia-shutdown/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-26T05:07:42Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Balaji Srinivasan’s Network School relocates to Kazakhstan after Malaysian authorities pull the plug",
+        "description": "Balaji Srinivasan's Network School signs five-year deal with Kazakhstan after Malaysian authorities revoke its business license over regulatory\nThe post Balaji Srinivasan’s Network School relocates to Kazakhstan after Malaysian authorities pull the plug appea…",
+        "url": "https://cryptobriefing.com/network-school-relocates-kazakhstan-malaysia-shutdown/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/26010739/balaji-srinivasan-1-800x420.jpeg",
+        "publishedAt": "2026-07-26T05:07:42Z",
+        "content": "The former Coinbase CTO signed a five-year agreement with Kazakhstan's AI ministry just one day after Malaysia revoked the school's business license. Balaji Srinivasan’s experimental education commun… [+2545 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto license",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Balaji Srinivasan的网络学校迁至哈萨克斯坦，因马来西亚当局关闭相关业务。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注哈萨克斯坦的加密监管政策变化",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_280d2891e433",
+      "title": "Wait, Is Ryan Reynolds’ Deadpool In Avengers: Doomsday?",
+      "content": "Ryan Reynolds' Deadpool has returned with an exciting new costume, begging the question of whether he is really in Avengers: Doomsday with the X-Men.",
+      "url": "https://screenrant.com/avengers-doomsday-deadpool-ryan-reynolds-cast-sdcc/",
+      "source": "Screen Rant",
+      "source_type": "news",
+      "author": "Felipe Rangel",
+      "published_at": "2026-07-26T01:49:17Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Screen Rant"
+        },
+        "author": "Felipe Rangel",
+        "title": "Wait, Is Ryan Reynolds’ Deadpool In Avengers: Doomsday?",
+        "description": "Ryan Reynolds' Deadpool has returned with an exciting new costume, begging the question of whether he is really in Avengers: Doomsday with the X-Men.",
+        "url": "https://screenrant.com/avengers-doomsday-deadpool-ryan-reynolds-cast-sdcc/",
+        "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/closeup-of-deadpool-in-deadpool-wolverine.jpg?w=1600&h=900&fit=crop",
+        "publishedAt": "2026-07-26T01:49:17Z",
+        "content": "Ryan Reynolds' new Marvel appearance raises questions of whether he is in Avengers: Doomsday. The next MCU Avengers movie has put together quite the cast. Avengers: Doomsday's ensemble will feature m… [+1813 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_aaaa802b4d21",
+      "title": "data-aggregator-mcp 0.42.0",
+      "content": "Research-data acquisition MCP — find and fetch datasets across archives, omics registries, and literature",
+      "url": "https://pypi.org/project/data-aggregator-mcp/0.42.0/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": "mjarnold1998@gmail.com",
+      "published_at": "2026-07-26T02:27:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": "mjarnold1998@gmail.com",
+        "title": "data-aggregator-mcp 0.42.0",
+        "description": "Research-data acquisition MCP — find and fetch datasets across archives, omics registries, and literature",
+        "url": "https://pypi.org/project/data-aggregator-mcp/0.42.0/",
+        "urlToImage": null,
+        "publishedAt": "2026-07-26T02:27:00Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_86f2d65e838d",
+      "title": "‘Black Panther 3’ Introduces T’Challa Jr. at Marvel’s Comic-Con Presentation",
+      "content": "Marvel’s presentation on Saturday night.",
+      "url": "https://www.cnet.com/culture/entertainment/black-panther-3-introduces-tchalla-jr-at-marvels-comic-con-presentation/",
+      "source": "CNET",
+      "source_type": "news",
+      "author": "Kourtnee Jackson",
+      "published_at": "2026-07-26T02:22:42Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Kourtnee Jackson",
+        "title": "‘Black Panther 3’ Introduces T’Challa Jr. at Marvel’s Comic-Con Presentation",
+        "description": "Marvel’s presentation on Saturday night.",
+        "url": "https://www.cnet.com/culture/entertainment/black-panther-3-introduces-tchalla-jr-at-marvels-comic-con-presentation/",
+        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2287654077-coogler-jonsson-black-panther-3.jpg",
+        "publishedAt": "2026-07-26T02:22:42Z",
+        "content": "A new, adult T’Challa is joining the Marvel Cinematic Universe. Kevin Feige hit the stage for Marvel’s Hall H Comic-Con showing on Saturday and, toward the end, gave the audience an update on Black P… [+1414 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series A",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_1186052637f9",
+      "title": "China’s Moment of Weakness: Economic Decay and America’s Strategic Opening",
+      "content": "The PRC's economic tools for generating growth are fundamentally broken, leaving it dependent on exports and steadily declining as a share of global GDP—which means the U.S. no longer faces a long-term systemic economic rivalry and instead has an urgent, pote…",
+      "url": "https://www.foreignaffairs.com/china/chinas-moment-weakness",
+      "source": "Foreign Affairs",
+      "source_type": "news",
+      "author": "July 26, 2026",
+      "published_at": "2026-07-26T00:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Foreign Affairs"
+        },
+        "author": "July 26, 2026",
+        "title": "China’s Moment of Weakness: Economic Decay and America’s Strategic Opening",
+        "description": "The PRC's economic tools for generating growth are fundamentally broken, leaving it dependent on exports and steadily declining as a share of global GDP—which means the U.S. no longer faces a long-term systemic economic rivalry and instead has an urgent, pote…",
+        "url": "https://www.foreignaffairs.com/china/chinas-moment-weakness",
+        "urlToImage": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/07/22/2026-07-15T014230Z_632949344_RC2M9MAQFK13_RTRMADP_3_CHINA-ECONOMY-GDP.JPG?itok=KKkeHTJO",
+        "publishedAt": "2026-07-26T00:00:00Z",
+        "content": "The China challenge facing the United States is often presented as so large and so existential that it encompasses topics as varied as military planning, technology policy, and student visa applicati… [+25041 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding strategic investment",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "文章讨论了中国经济衰退对市场的影响。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到经济衰退与市场趋势",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场变化，调整策略",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_94786b74f0a8",
+      "title": "secondsign-core added to PyPI",
+      "content": "Runtime authorization for financial AI agents — the gate between an agent and real money",
+      "url": "https://pypi.org/project/secondsign-core/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-07-26T05:15:54Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "secondsign-core added to PyPI",
+        "description": "Runtime authorization for financial AI agents — the gate between an agent and real money",
+        "url": "https://pypi.org/project/secondsign-core/",
+        "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+        "publishedAt": "2026-07-26T05:15:54Z",
+        "content": "Runtime authorization for financial AI agents.The gate between an AI agent and real money.\r\nWhy this exists\r\nGive an AI agent a payment tool and you have given it the ability to lose real\r\nmoney. A b… [+9212 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "secondsign-core 被添加到 PyPI，涉及区块链基础设施的技术进展。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_3cdfeee8e4c0",
+      "title": "Secure electronic voting system based on blockchain with dilithium authentication and zero-knowledge proof verification",
+      "content": "Scientific Reports - Secure electronic voting system based on blockchain with dilithium authentication and zero-knowledge proof verification",
+      "url": "https://www.nature.com/articles/s41598-026-62925-1",
+      "source": "Nature.com",
+      "source_type": "news",
+      "author": "Emad Alsuwat",
+      "published_at": "2026-07-26T00:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Nature.com"
+        },
+        "author": "Emad Alsuwat",
+        "title": "Secure electronic voting system based on blockchain with dilithium authentication and zero-knowledge proof verification",
+        "description": "Scientific Reports - Secure electronic voting system based on blockchain with dilithium authentication and zero-knowledge proof verification",
+        "url": "https://www.nature.com/articles/s41598-026-62925-1",
+        "urlToImage": null,
+        "publishedAt": "2026-07-26T00:00:00Z",
+        "content": "Electronic voting has become an important digital governance mechanism for remote elections, institutional decision-making, shareholder voting, public consultations, and large-scale Internet-based de… [+1996 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "区块链电子投票系统的技术进展",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链技术",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_baf7f98c8c1a",
+      "title": "North’s decline rooted in leadership failure, loss of values, Ango Abdullahi, Bugaje, Al-Mustapha lament",
+      "content": "By Ibrahim Hassan-Wuyo Elder statesman and former Vice-Chancellor of Ahmadu Bello llo University, ABU, Professor Ango Abdullahi; political economist, Professor Usman Bugaje; former Chief Security Officer to the late Head of State, Gen Sani Abacha, Major Hamza…",
+      "url": "https://www.vanguardngr.com/2026/07/norths-decline-rooted-in-leadership-failure-loss-of-values-ango-abdullahi-bugaje-al-mustapha-lament/",
+      "source": "Vanguard",
+      "source_type": "news",
+      "author": "Nwafor",
+      "published_at": "2026-07-26T05:15:27Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Vanguard"
+        },
+        "author": "Nwafor",
+        "title": "North’s decline rooted in leadership failure, loss of values, Ango Abdullahi, Bugaje, Al-Mustapha lament",
+        "description": "By Ibrahim Hassan-Wuyo Elder statesman and former Vice-Chancellor of Ahmadu Bello llo University, ABU, Professor Ango Abdullahi; political economist, Professor Usman Bugaje; former Chief Security Officer to the late Head of State, Gen Sani Abacha, Major Hamza…",
+        "url": "https://www.vanguardngr.com/2026/07/norths-decline-rooted-in-leadership-failure-loss-of-values-ango-abdullahi-bugaje-al-mustapha-lament/",
+        "urlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2022/02/Prof.-Ango-Abdullahi-spokesperson-of-the-Northern-Elders-Forum-1280x720-1.jpg",
+        "publishedAt": "2026-07-26T05:15:27Z",
+        "content": "By Ibrahim Hassan-Wuyo\r\nElder statesman and former Vice-Chancellor of Ahmadu Bello llo University, ABU, Professor Ango Abdullahi; political economist, Professor Usman Bugaje; former Chief Security Of… [+3318 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_54c01c3856fa",
+      "title": "Upbit to list Morpho and Euler tokens in KRW market, signaling DeFi lending’s growing appeal in Asia",
+      "content": "Upbit will list Morpho (MORPHO) and Euler (EUL) tokens in the KRW market on July 25 and 26, boosting DeFi lending protocol access for Korean\nThe post Upbit to list Morpho and Euler tokens in KRW market, signaling DeFi lending’s growing appeal in Asia appeared…",
+      "url": "https://cryptobriefing.com/upbit-morpho-euler-krw-listing/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-07-26T01:10:57Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Upbit to list Morpho and Euler tokens in KRW market, signaling DeFi lending’s growing appeal in Asia",
+        "description": "Upbit will list Morpho (MORPHO) and Euler (EUL) tokens in the KRW market on July 25 and 26, boosting DeFi lending protocol access for Korean\nThe post Upbit to list Morpho and Euler tokens in KRW market, signaling DeFi lending’s growing appeal in Asia appeared…",
+        "url": "https://cryptobriefing.com/upbit-morpho-euler-krw-listing/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/25211054/crypto-lending-protocol-morpho-raises-175-million-to-aid-wal-800x420.jpeg",
+        "publishedAt": "2026-07-26T01:10:57Z",
+        "content": "South Korea's largest crypto exchange adds two modular lending protocols back to back, and Morpho's price has already started moving. South Korea’s dominant crypto exchange is rolling out the welcome… [+3154 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Upbit",
+        "Morpho",
+        "Euler"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Upbit上线Morpho和Euler代币，显示DeFi借贷在亚洲的吸引力上升。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到DeFi借贷趋势",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注DeFi借贷市场的发展动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "The Funding: Are crypto vaults funds and curators fund managers?",
+      "description": "The SEC's Hester Peirce says some of them may be — which could mean registration. Here's what that means, and what comes next.",
+      "url": "https://www.theblock.co/post/409690/are-crypto-vaults-funds-curators-fund-managers?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-07-27T04:39:17",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "SEC对加密货币托管的监管讨论。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，调整合规策略。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "title": "Lambda256 Completes Stablecoin Payment and Settlement Proof of Concept With Card Issuers - thelec.net",
+      "description": "Lambda256 Completes Stablecoin Payment and Settlement Proof of Concept With Card Issuers&nbsp;&nbsp;thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzWTNFOHhFOWdDWFc3SlJmNTN1TUpEOU1UNk5wd0JLTHdVcDYzTzBVSGh3eC00b2ctRVU1TGlRSGRaQ3UyN2ZZZnR4SF81R252VVF0ODB4bnNIa1Fkc0lVYmIyMjZlTjA?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-07-26T23:07:28",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "Lambda256完成稳定币支付概念验证。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付概念",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币支付技术的发展动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Can Bitcoin Miners Become Part Of The Payment Stack? - Forbes",
+      "description": "Can Bitcoin Miners Become Part Of The Payment Stack?&nbsp;&nbsp;Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWXByOXA1Vm9TN251OVAzVGZ1YUtKM0w3UUE5cGlrUjBHYzB4WG54cHJDX0ppcGxibW9YUVkzQ0VHcWdzZFZTUkNxUm1tZHpZRWRaMEZLZmZKYTY5WFVLSUloNUFTZXhtX2VORkVYWnpsQ05WRXltZWNfMk1icjV0a2VhWHhmeXVFenRWaEdGSUItNVNJY1l1UTJ5M0FxV284TVh6U2pGMHlvaEk?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-07-27T00:00:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "比特币矿工可能融入支付体系。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及比特币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注比特币支付的技术进展。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "\"Hecto Financial's Stablecoin and AI-Powered Global Payment Network... Driving Corporate Value Growth\" - 아시아경제",
+      "description": "\"Hecto Financial's Stablecoin and AI-Powered Global Payment Network... Driving Corporate Value Growth\"&nbsp;&nbsp;아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55R2kxdnl1dVRYSVV5Y21GaG1sWXd3dzlKYU9RQ1N6VnBWeDA3YnZQWVVYWEl6d2hqTF9aZFNoN1lIMHhKMHhJTTNWTTdpUm14c01Ha0VPU1VhTjh4ZTEyOHdLVzRZTVN3T3dpdENfT3VjSkFqUzJybFRLOA?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-07-27T02:08:47",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Hecto Financial"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Hecto Financial推出稳定币和支付网络推动企业价值增长。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币和支付网络",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币和支付网络的市场动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Funding Weekly | Korean Crypto Exchanges Become Acquisition Hotspots; Stablecoin Settlement Bank Augustus Secures $180 Million Funding - PANews",
+      "description": "Funding Weekly | Korean Crypto Exchanges Become Acquisition Hotspots; Stablecoin Settlement Bank Augustus Secures $180 Million Funding&nbsp;&nbsp;PANews",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtUGl0MWE5NTNzWFNiNnQyVS1wQWJacnUtbUpVWk94S2x6bTl2MEFLR25iT2hTaWhOMHY4SHJVOHFsS214b082LXk2RDNId0ZnN0xjdHB4NEVfVWJ1R0FsYVpPdkJ5MkNubG9MTnhBV1VJSEM0cnNKMmFlZzlzMHc?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-07-27T03:06:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Augustus"
+      ],
+      "importance_score": 7,
+      "ai_summary": "稳定币结算银行Augustus获得融资，影响行业动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币银行融资",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注稳定币市场融资动态，评估潜在影响。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "title": "Coupang, Woori Bank Complete Real-Time Settlement Test Using Won Stablecoin, a Korean First - bloomingbit",
+      "description": "Coupang, Woori Bank Complete Real-Time Settlement Test Using Won Stablecoin, a Korean First&nbsp;&nbsp;bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZcHh0OVJtUE9BcHA5RnZYeDgzNmgxSmZKaXBpZnpseW00aUJ3Q0ZEa1B0elZScTV0VXV4YzYzTkx4ejNvcUVtMlZaTENkVk1xSW55MQ?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-07-27T00:10:13",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Coupang",
+        "Woori Bank"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Coupang与Woori Bank完成了首个韩元稳定币实时结算测试。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付测试",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币在支付领域的应用进展",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    }
+  ]
+}
