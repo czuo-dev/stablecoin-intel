@@ -1,0 +1,671 @@
+{
+  "policy": [
+    {
+      "id": "news_055d92754fbb",
+      "title": "Bitget Wallet Card Turns Cashback Into Bitcoin, Gold and Tokenized Stocks",
+      "content": "Bitget Wallet, a self-custodial crypto wallet for everyday finance, has introduced Assetback, an asset cashback program turning the Bitget Wallet Card ....",
+      "url": "https://www.globenewswire.com/news-release/2026/08/01/3337111/0/en/Bitget-Wallet-Card-Turns-Cashback-Into-Bitcoin-Gold-and-Tokenized-Stocks.html",
+      "source": "GlobeNewswire",
+      "source_type": "news",
+      "author": "Bitget Limited",
+      "published_at": "2026-08-01T02:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Bitget Limited",
+        "title": "Bitget Wallet Card Turns Cashback Into Bitcoin, Gold and Tokenized Stocks",
+        "description": "Bitget Wallet, a self-custodial crypto wallet for everyday finance, has introduced Assetback, an asset cashback program turning the Bitget Wallet Card ....",
+        "url": "https://www.globenewswire.com/news-release/2026/08/01/3337111/0/en/Bitget-Wallet-Card-Turns-Cashback-Into-Bitcoin-Gold-and-Tokenized-Stocks.html",
+        "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/a615fa74-7a93-49f5-9504-0d22e905f906",
+        "publishedAt": "2026-08-01T02:00:00Z",
+        "content": "SAN SALVADOR, El Salvador, Aug. 01, 2026 (GLOBE NEWSWIRE) -- Bitget Wallet, a self-custodial crypto wallet for everyday finance, has introduced Assetback, an asset cashback program turning the Bitget… [+6223 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Bitget Wallet Card 提供比特币返现服务。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注支付领域的新兴趋势。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_383ff73da387",
+      "title": "Trade.xyz begins compensating users for SKHYNIX perpetual futures pricing incident",
+      "content": "The incident highlights the vulnerability of synthetic equity derivatives to external data feeds, urging a reevaluation of oracle systems.\nThe post Trade.xyz begins compensating users for SKHYNIX perpetual futures pricing incident appeared first on Crypto Bri…",
+      "url": "https://cryptobriefing.com/trade-xyz-skhynix-compensation-liquidation-incident/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-08-01T04:08:10Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Trade.xyz begins compensating users for SKHYNIX perpetual futures pricing incident",
+        "description": "The incident highlights the vulnerability of synthetic equity derivatives to external data feeds, urging a reevaluation of oracle systems.\nThe post Trade.xyz begins compensating users for SKHYNIX perpetual futures pricing incident appeared first on Crypto Bri…",
+        "url": "https://cryptobriefing.com/trade-xyz-skhynix-compensation-liquidation-incident/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/01000806/trade-xyz-to-launch-a-perpetual-s-p-500-futures-contract-on--800x420.jpeg",
+        "publishedAt": "2026-08-01T04:08:10Z",
+        "content": "A single trade on a thinly traded Korean venue triggered $60M in liquidations, and now the platform is paying users back On July 27, 2026, at 23:01 UTC, the mark price of SK Hynix perpetual futures o… [+3512 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "Trade.xyz"
+      ],
+      "importance_score": 5,
+      "ai_summary": "Trade.xyz因SKHYNIX期货定价事件开始补偿用户。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，评估对业务的影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_4cf7bf7a6b1f",
+      "title": "Minnesota bans crypto kiosks after residents lost nearly $1M to scams",
+      "content": "The ban on crypto kiosks in Minnesota highlights the need for stronger consumer protection measures in the rapidly evolving crypto industry.\nThe post Minnesota bans crypto kiosks after residents lost nearly $1M to scams appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/minnesota-bans-crypto-kiosks-scam-losses/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-08-01T04:49:33Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Minnesota bans crypto kiosks after residents lost nearly $1M to scams",
+        "description": "The ban on crypto kiosks in Minnesota highlights the need for stronger consumer protection measures in the rapidly evolving crypto industry.\nThe post Minnesota bans crypto kiosks after residents lost nearly $1M to scams appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/minnesota-bans-crypto-kiosks-scam-losses/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/01004929/eastern-steps-to-the-capitol-800x420.jpeg",
+        "publishedAt": "2026-08-01T04:49:33Z",
+        "content": "Governor Tim Walz signed the prohibition into law on May 5, making Minnesota the third state to fully outlaw the machines after Tennessee and Indiana. Minnesota just ran out of patience with crypto k… [+2591 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "明尼苏达州禁止加密货币自助终端，因居民被骗近百万。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，评估对业务的潜在影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_03a002a7dc72",
+      "title": "OpenAI showcases Astra AI model in Washington D.C. preview, and crypto markets should be paying attention",
+      "content": "Astra's multi-agent capabilities could revolutionize industries, impacting sectors like finance and technology, including crypto markets.\nThe post OpenAI showcases Astra AI model in Washington D.C. preview, and crypto markets should be paying attention appear…",
+      "url": "https://cryptobriefing.com/openai-astra-ai-model-dc-preview/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-08-01T00:48:57Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "OpenAI showcases Astra AI model in Washington D.C. preview, and crypto markets should be paying attention",
+        "description": "Astra's multi-agent capabilities could revolutionize industries, impacting sectors like finance and technology, including crypto markets.\nThe post OpenAI showcases Astra AI model in Washington D.C. preview, and crypto markets should be paying attention appear…",
+        "url": "https://cryptobriefing.com/openai-astra-ai-model-dc-preview/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/31204848/openai-logo-and-astral-logo-side-by-side-against-a-dark-code-800x420.jpeg",
+        "publishedAt": "2026-08-01T00:48:57Z",
+        "content": "The next-gen model family targets multi-agent coordination, a capability that could reshape how AI intersects with decentralized systems OpenAI quietly showed off its next generation of AI models to … [+651 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "OpenAI展示新模型，可能影响加密市场趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注AI与加密结合的潜在机会",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_33b573d213ac",
+      "title": "Coinbase reports delayed MultiversX transactions for some users",
+      "content": "Coinbase's temporary transaction delays highlight the critical need for robust integration layers to ensure seamless crypto asset management.\nThe post Coinbase reports delayed MultiversX transactions for some users appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/coinbase-multiversx-egld-transaction-delays/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-08-01T00:54:43Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Coinbase reports delayed MultiversX transactions for some users",
+        "description": "Coinbase's temporary transaction delays highlight the critical need for robust integration layers to ensure seamless crypto asset management.\nThe post Coinbase reports delayed MultiversX transactions for some users appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/coinbase-multiversx-egld-transaction-delays/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/31205436/shaping-the-future-of-blockchain-education-multiversx-labs-p-800x420.jpeg",
+        "publishedAt": "2026-08-01T00:54:43Z",
+        "content": "The exchange flagged delays in sending and receiving EGLD tokens, though buying, selling, and fiat operations remained unaffected throughout the incident. Some Coinbase users found themselves in a ho… [+2590 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Coinbase"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Coinbase报告部分用户的MultiversX交易延迟问题。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注交易所动态，评估市场影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_3926f5e98f36",
+      "title": "Public Storage Q2 Earnings Call Highlights",
+      "content": "Key Points\n- Public Storage raised its 2026 guidance as operating trends improved, including higher occupancy and move-in rents. Core FFO guidance increased to $16.75–$17.05 per share, while same-store revenue and NOI forecasts were upgraded. \n- The company c…",
+      "url": "https://biztoc.com/x/fea55533040c41b9",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "finance.yahoo.com",
+      "published_at": "2026-08-01T00:24:39Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "Public Storage Q2 Earnings Call Highlights",
+        "description": "Key Points\n- Public Storage raised its 2026 guidance as operating trends improved, including higher occupancy and move-in rents. Core FFO guidance increased to $16.75–$17.05 per share, while same-store revenue and NOI forecasts were upgraded. \n- The company c…",
+        "url": "https://biztoc.com/x/fea55533040c41b9",
+        "urlToImage": "https://biztoc.com/cdn/fea55533040c41b9_s.webp",
+        "publishedAt": "2026-08-01T00:24:39Z",
+        "content": "Key Points- Public Storage raised its 2026 guidance as operating trends improved, including higher occupancy and move-in rents. Core FFO guidance increased to $16.75$17.05 per share, while same-store… [+147 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_741abe2fdcd2",
+      "title": "How To Launch Your Business Successfully With Your Company Formations Support",
+      "content": "Turning a business idea into a successful company takes more than enthusiasm. You must incorporate your business properly, comply with any legal regulations, create a professional image, and plan long-term development. Regrettably, most entrepreneurs waste pr…",
+      "url": "https://addicted2success.com/scale-your-business/launch-business-company-formation-support/",
+      "source": "Addicted2success.com",
+      "source_type": "news",
+      "author": "Addicted2Success Editor",
+      "published_at": "2026-08-01T03:27:27Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Addicted2success.com"
+        },
+        "author": "Addicted2Success Editor",
+        "title": "How To Launch Your Business Successfully With Your Company Formations Support",
+        "description": "Turning a business idea into a successful company takes more than enthusiasm. You must incorporate your business properly, comply with any legal regulations, create a professional image, and plan long-term development. Regrettably, most entrepreneurs waste pr…",
+        "url": "https://addicted2success.com/scale-your-business/launch-business-company-formation-support/",
+        "urlToImage": "https://addicted2success.com/wp-content/uploads/2026/08/Workers-talking-about-Company-formation-1000x600.jpeg",
+        "publishedAt": "2026-08-01T03:27:27Z",
+        "content": "The initial step in building an online business is to find a good marketing strategy. A lot of people mix up SMM and SEM because, in different ways, they both are responsible for improving visibility… [+15557 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_a053d03a48e2",
+      "title": "Emergent Ventures India, 18th cohort",
+      "content": "Adithyan Madhu, 14, an independent researcher, received his grant to study early writing systems, applying computational linguistics, pattern analysis, and structural methods to the Indus Valley script. Aparajeet Shadangi, 17, received his grant to explore co…",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-india-18th-cohort.html",
+      "source": "Marginalrevolution.com",
+      "source_type": "news",
+      "author": "Tyler Cowen",
+      "published_at": "2026-08-01T04:24:42Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Marginalrevolution.com"
+        },
+        "author": "Tyler Cowen",
+        "title": "Emergent Ventures India, 18th cohort",
+        "description": "Adithyan Madhu, 14, an independent researcher, received his grant to study early writing systems, applying computational linguistics, pattern analysis, and structural methods to the Indus Valley script. Aparajeet Shadangi, 17, received his grant to explore co…",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-india-18th-cohort.html",
+        "urlToImage": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+        "publishedAt": "2026-08-01T04:24:42Z",
+        "content": "Adithyan Madhu, 14, an independent researcher, received his grant to study early writing systems, applying computational linguistics, pattern analysis, and structural methods to the Indus Valley scri… [+5004 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series A",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Emergent Ventures India 的第18期活动涉及加密行业动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密行业动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_675e1805025a",
+      "title": "Galaxy Digital Says $70,000,000 Drained From Bitcoin Holders in Coldcard Wallet Exploit",
+      "content": "A flaw in Coldcard seed generation reduced entropy on multiple models and firmware versions, leading to the theft of 594 BTC from 500 addresses.\nThe post Galaxy Digital Says $70,000,000 Drained From Bitcoin Holders in Coldcard Wallet Exploit appeared first on…",
+      "url": "https://dailyhodl.com/2026/07/31/galaxy-digital-says-70000000-drained-from-bitcoin-holders-in-coldcard-wallet-exploit/",
+      "source": "The Daily Hodl",
+      "source_type": "news",
+      "author": "Daily Hodl Staff",
+      "published_at": "2026-08-01T00:06:15Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Daily Hodl"
+        },
+        "author": "Daily Hodl Staff",
+        "title": "Galaxy Digital Says $70,000,000 Drained From Bitcoin Holders in Coldcard Wallet Exploit",
+        "description": "A flaw in Coldcard seed generation reduced entropy on multiple models and firmware versions, leading to the theft of 594 BTC from 500 addresses.\nThe post Galaxy Digital Says $70,000,000 Drained From Bitcoin Holders in Coldcard Wallet Exploit appeared first on…",
+        "url": "https://dailyhodl.com/2026/07/31/galaxy-digital-says-70000000-drained-from-bitcoin-holders-in-coldcard-wallet-exploit/",
+        "urlToImage": "https://dailyhodl.com/wp-content/uploads/2024/03/bitcoin-btc-breaks-high.jpg?resize=266,156",
+        "publishedAt": "2026-08-01T00:06:15Z",
+        "content": "Researchers at Galaxy Digital say about $70 million has been stolen due to an exploit in the popular Bitcoin wallet Coldcard.\r\nThe attack was enabled by a firmware bug that dramatically reduced the r… [+2125 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Coldcard 钱包遭到攻击，损失7000万美元。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币安全事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注安全技术的改进和市场反应。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_c200e2df66ad",
+      "title": "BlackRock clients sell 1,948 Bitcoin for $123M as ETF redemptions continue",
+      "content": "Continued ETF redemptions may signal shifting investor sentiment, impacting Bitcoin's market stability and influencing future institutional strategies.\nThe post BlackRock clients sell 1,948 Bitcoin for $123M as ETF redemptions continue appeared first on Crypt…",
+      "url": "https://cryptobriefing.com/blackrock-clients-sell-bitcoin-etf-redemptions/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-08-01T04:33:10Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "BlackRock clients sell 1,948 Bitcoin for $123M as ETF redemptions continue",
+        "description": "Continued ETF redemptions may signal shifting investor sentiment, impacting Bitcoin's market stability and influencing future institutional strategies.\nThe post BlackRock clients sell 1,948 Bitcoin for $123M as ETF redemptions continue appeared first on Crypt…",
+        "url": "https://cryptobriefing.com/blackrock-clients-sell-bitcoin-etf-redemptions/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/01003306/blackrock-logo-side-by-side-stainless-steel-external-sign-800x420.jpeg",
+        "publishedAt": "2026-08-01T04:33:10Z",
+        "content": "The sell-off reflects client-driven withdrawals from the iShares Bitcoin Trust, not a strategic shift by the world's largest asset manager BlackRock’s iShares Bitcoin Trust (IBIT) saw clients offload… [+2019 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "BlackRock客户出售比特币，反映市场动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及比特币交易动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注市场对稳定币的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances - CoinDesk",
+      "description": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances&nbsp;&nbsp;CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZVMxWHg5OFg0bHBhWHpaZkljcE9xZVBIclFtRHlwU3ZJYnM0dzE0R19IaUx3elVZUFdDeXJ0bzZpb09peXFYTXRfWDNyNFlXUWF5WFk1QjNzczVQalNJeHFfSzJaYWN2cWZGWTJRMXFGMklnN0I4MTMxdkdhR2lGbWV4UGNYZUFNcE8tWlRsaFVVSVNyck9EUzN1ZzZhdEpncVlHemdDcXJnSnZ6bzFrUHlqR3RBNWJ3OU1FZDNQSC1scHJHclRoNzBFRQ?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-08-01T16:13:13",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "意大利银行研究稳定币汇款成本问题。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币汇款成本",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币在汇款中的应用变化",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Cathie Wood Buys More Circle Stock Amid New York License Success - Cryptonews.net",
+      "description": "Cathie Wood Buys More Circle Stock Amid New York License Success&nbsp;&nbsp;Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mWG5na1dMYjFDcnZtNkgya1kzSWFMd0FTUkN0ZkQ0eTA3bUp5dHNPS0ppdENRUjEtMmdwV09pd29FcEU4ZFBTOTBXaWdfelp2dkFEcEJsMVQ?oc=5",
+      "source": "Google News (stablecoin license)",
+      "source_category": "google_news",
+      "published_at": "2026-08-01T10:46:40",
+      "data_type": "rss",
+      "search_keyword": "stablecoin license",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Circle"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Cathie Wood增持Circle股票，反映市场动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注Circle的市场表现和监管动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Why Africa Has The Highest Stablecoin Adoption Rate In The World - Tech Build Africa",
+      "description": "Why Africa Has The Highest Stablecoin Adoption Rate In The World&nbsp;&nbsp;Tech Build Africa",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zQU4xbUtub3lGMlJHZkRyNDhTS05rakItSnI5ZllOMkRmbDJRak9tenJmMnNNWUdjSWFzY0s0SGhBY3B5eHdjSUxSYWVhMVhGSFlyVFpLTkhuWUdUUlhob2JwYm9pRkVURFJpN3BuT1o0d3ZCSFZnMA?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-08-01T18:39:47",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "非洲稳定币采用率最高的原因分析。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币采用率",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注非洲市场动态，调整策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    }
+  ],
+  "company": [],
+  "funding": []
+}
