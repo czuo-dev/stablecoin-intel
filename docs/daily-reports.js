@@ -4,6 +4,280 @@
 
 const dailyReports = [
     {
+        "date": "2026-08-09",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-08-09.md",
+        "newsItems": [
+            {
+                "id": "2026-08-09-industry-0",
+                "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
+                "source": "Activistpost.com",
+                "date": "2026-08-09",
+                "url": "https://www.activistpost.com/binance-co-founder-cz-backs-crypto-license-passporting-across-asean/",
+                "category": "industry",
+                "summary": "CZ支持东盟地区的加密监管通行证。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注东盟地区的监管动态。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-08-09-industry-1",
+                "title": "Trump-linked fintech firm AI Financial sells unit to Prime Delta",
+                "source": "CNA",
+                "date": "2026-08-09",
+                "url": "https://www.channelnewsasia.com/business/trump-linked-fintech-firm-ai-financial-sells-unit-prime-delta-6307176",
+                "category": "industry",
+                "summary": "特朗普相关的金融科技公司出售业务单元。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注金融科技行业动态",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购",
+                "tickers": [
+                    "AI Financial",
+                    "Prime Delta"
+                ]
+            },
+            {
+                "id": "2026-08-09-industry-2",
+                "title": "Senate fails to pass Crypto Clarity Act before summer recess",
+                "source": "Crypto Briefing",
+                "date": "2026-08-09",
+                "url": "https://cryptobriefing.com/senate-fails-to-pass-crypto-clarity-act-before-summer-recess/",
+                "category": "industry",
+                "summary": "参议院未能通过加密监管法案。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注后续监管动态，调整合规策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-08-09-industry-3",
+                "title": "Nigel Farage’s gold and crypto side-hustles | If You're Listening | ABC NEWS In-depth",
+                "source": "Biztoc.com",
+                "date": "2026-08-09",
+                "url": "https://biztoc.com/x/f90e67a8f7cd0fa1",
+                "category": "industry",
+                "summary": "报道了Nigel Farage的加密货币活动。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "关注加密货币市场动态。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-08-09-industry-4",
+                "title": "Crypto News: Pepeto Closes In on Its Binance Listing While XRP Price Targets $3.5 Soon",
+                "source": "GlobeNewswire",
+                "date": "2026-08-09",
+                "url": "https://www.globenewswire.com/news-release/2026/08/08/3341427/0/en/crypto-news-pepeto-closes-in-on-its-binance-listing-while-xrp-price-targets-3-5-soon.html",
+                "category": "industry",
+                "summary": "Pepeto即将上市，XRP价格走势引关注。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-08-09-industry-5",
+                "title": "This FTX claims broker is now courting victims of a $155-million hack of a Canadian bitcoin firm",
+                "source": "Biztoc.com",
+                "date": "2026-08-09",
+                "url": "https://biztoc.com/x/bc71037e8d8e436b",
+                "category": "industry",
+                "summary": "报道了加拿大比特币公司遭遇黑客事件的情况。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注加密安全问题，增强自身防护措施。",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "FTX",
+                    "加拿大比特币公司"
+                ]
+            },
+            {
+                "id": "2026-08-09-industry-6",
+                "title": "New Mexico judge declares Meta a public nuisance, orders $942M in penalties",
+                "source": "Crypto Briefing",
+                "date": "2026-08-09",
+                "url": "https://cryptobriefing.com/new-mexico-meta-public-nuisance-942m-penalties/",
+                "category": "industry",
+                "summary": "新墨西哥州法官裁定Meta为公共滋扰，罚款9.42亿美元。",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管政策变化对行业的影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-08-09-industry-7",
+                "title": "Lido publishes post-mortem on Staking Router v3 incident, traces bug to accounting oracle oversight",
+                "source": "Crypto Briefing",
+                "date": "2026-08-09",
+                "url": "https://cryptobriefing.com/lido-staking-router-v3-post-mortem/",
+                "category": "industry",
+                "summary": "Lido发布了关于其Staking Router v3事件的后期分析，涉及区块链技术问题。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注技术问题对行业的影响",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-08-09-industry-8",
+                "title": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
+                "source": "Decrypt",
+                "date": "2026-08-09",
+                "url": "https://decrypt.co/375174/senate-keeps-clarity-act-alive-with-crypto-bill-vote-set-for-september",
+                "category": "industry",
+                "summary": "参议院将讨论加密货币相关法案。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注法案进展，评估影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-08-09-industry-9",
+                "title": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
+                "source": "Decrypt",
+                "date": "2026-08-09",
+                "url": "https://decrypt.co/375158/robinhood-crypto-two-wolves-robinhood-chain-rwa-meme-coins",
+                "category": "industry",
+                "summary": "Robinhood Crypto 讨论内部动态与客户关心的内容。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场动态与竞争对手策略",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-08-09-industry-10",
+                "title": "South Africa wants to ban companies from moving stablecoins abroad. Individuals keep their allowance",
+                "source": "Google News (cross-border stablecoin)",
+                "date": "2026-08-09",
+                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNFdZbGJIMkp3RWMwRmM2YmpPQ3FHeWdhdTY3aEsxdkxvSGtfNi1uVVdqTFQ3RXVobjJRanZzb0VPWGEzY2F5TTJidHg3TkdhR3JWLUxrcElSOXFxYkpqYXpFd2F4d1RoZG1lbVUwUk5fNzhEWEVBeG1VUWNiV1QzRTN5eGtDR1VYWEVXdHdLVWFkTHlrcXc?oc=5",
+                "category": "industry",
+                "summary": "南非计划禁止公司将稳定币转移至国外。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注南非的稳定币监管政策变化",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            }
+        ],
+        "stats": {
+            "totalThreats": 0,
+            "highThreats": 0,
+            "mediumThreats": 0,
+            "lowThreats": 0,
+            "competitorUpdates": 0,
+            "customerUpdates": 0,
+            "industryUpdates": 11
+        },
+        "dailySummary": {
+            "competitorThreat": "今日暂无竞争对手相关动态。",
+            "industryTrend": "今日行业热点集中在加密监管和市场动态上。CZ支持东盟地区的加密监管通行证，显示出对区域性合作的重视，可能推动稳定币在东南亚的合规发展。同时，参议院未能通过Crypto Clarity Act，反映出美国在加密监管方面的政策不确定性，可能影响投资者信心。Lido的技术问题则提醒我们，基础设施的安全性仍是行业关注的重点。整体来看，稳定币托管和支付基础设施需要适应不断变化的监管环境，并加强技术安全性，以确保市场信任和合规性。"
+        },
+        "highlights": {
+            "competitors": [],
+            "clients": [],
+            "industry": [
+                {
+                    "id": "2026-08-09-industry-0",
+                    "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
+                    "source": "Activistpost.com",
+                    "date": "2026-08-09",
+                    "url": "https://www.activistpost.com/binance-co-founder-cz-backs-crypto-license-passporting-across-asean/",
+                    "category": "industry",
+                    "summary": "CZ支持东盟地区的加密监管通行证。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "监管影响",
+                        "市场趋势"
+                    ],
+                    "action": "关注东盟地区的监管动态。",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照"
+                },
+                {
+                    "id": "2026-08-09-industry-1",
+                    "title": "Trump-linked fintech firm AI Financial sells unit to Prime Delta",
+                    "source": "CNA",
+                    "date": "2026-08-09",
+                    "url": "https://www.channelnewsasia.com/business/trump-linked-fintech-firm-ai-financial-sells-unit-prime-delta-6307176",
+                    "category": "industry",
+                    "summary": "特朗普相关的金融科技公司出售业务单元。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "关注金融科技行业动态",
+                    "subcategory": "funding_mna",
+                    "subcategoryName": "融资并购",
+                    "tickers": [
+                        "AI Financial",
+                        "Prime Delta"
+                    ]
+                },
+                {
+                    "id": "2026-08-09-industry-2",
+                    "title": "Senate fails to pass Crypto Clarity Act before summer recess",
+                    "source": "Crypto Briefing",
+                    "date": "2026-08-09",
+                    "url": "https://cryptobriefing.com/senate-fails-to-pass-crypto-clarity-act-before-summer-recess/",
+                    "category": "industry",
+                    "summary": "参议院未能通过加密监管法案。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "监管影响",
+                        "市场趋势"
+                    ],
+                    "action": "关注后续监管动态，调整合规策略。",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照"
+                }
+            ]
+        }
+    },
+    {
         "date": "2026-08-08",
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-08-08.md",
@@ -75923,434 +76197,6 @@ const dailyReports = [
                         "市场趋势"
                     ],
                     "action": "关注监管动态，调整合规策略。",
-                    "subcategory": "regulation_licensing",
-                    "subcategoryName": "监管牌照"
-                }
-            ]
-        }
-    },
-    {
-        "date": "2026-05-11",
-        "title": "稳定币行业日报",
-        "file": "reports/daily/daily_brief_2026-05-11.md",
-        "newsItems": [
-            {
-                "id": "2026-05-11-competitor-0",
-                "title": "CZ says crypto exchange rivals opposed his pardon bid",
-                "source": "Cointelegraph",
-                "date": "2026-05-11",
-                "url": "https://cointelegraph.com/news/cz-says-crypto-exchange-rivals-opposed-his-pardon-bid",
-                "category": "competitor",
-                "summary": "CZ称竞争对手反对其赦免请求",
-                "threatLevel": "medium",
-                "impact": [
-                    "产品竞争",
-                    "市场定价"
-                ],
-                "action": "关注竞争对手动态，调整策略"
-            },
-            {
-                "id": "2026-05-11-competitor-1",
-                "title": "Top 15 Digital Asset Custody Providers for Institutions in 2026 - BeInCrypto",
-                "source": "Google News (crypto custody institution)",
-                "date": "2026-05-11",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRT3RIOWI0VnNPanVyeVFBeVRtdFp1OUNVTmVvRjJwUVJnNExOOE1VamoxNHRIdnFIV0dRSWxkTUdGTTVjVE5mejhZaTdva0JEWXdnRnJMUGRIS2x6S0s3d1JWdVFWT29VSWpwZlhPMzNGeWZla2c?oc=5",
-                "category": "competitor",
-                "summary": "2026年机构数字资产托管服务提供商排名",
-                "threatLevel": "high",
-                "impact": [
-                    "产品竞争",
-                    "客户争夺",
-                    "市场定价",
-                    "技术差距"
-                ],
-                "action": "关注竞争对手动态，优化自身服务",
-                "tickers": [
-                    "Fireblocks",
-                    "BitGo",
-                    "Copper",
-                    "Anchorage Digital",
-                    "Safeheron",
-                    "Cregis",
-                    "OSL",
-                    "BVNK"
-                ]
-            },
-            {
-                "id": "2026-05-11-industry-0",
-                "title": "Senate panel considers CLARITY Act as banking groups propose stablecoin yield changes",
-                "source": "Crypto Briefing",
-                "date": "2026-05-11",
-                "url": "https://cryptobriefing.com/senate-clarity-act-stablecoin-yield-banking/",
-                "category": "industry",
-                "summary": "参议院小组讨论稳定币监管法案。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注法案进展，评估影响",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-05-11-industry-1",
-                "title": "What are stablecoins? Why Amazon, BlackRock and big banks are adopting digital dollars amid tighter ",
-                "source": "Livemint",
-                "date": "2026-05-11",
-                "url": "https://www.livemint.com/money/personal-finance/what-are-stablecoins-why-amazon-blackrock-and-big-banks-are-adopting-digital-dollars-amid-tighter-crypto-rules-11778374295137.html",
-                "category": "industry",
-                "summary": "大公司开始采用稳定币应对监管变化。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注稳定币的监管动态和市场趋势。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照",
-                "tickers": [
-                    "Amazon",
-                    "BlackRock"
-                ]
-            },
-            {
-                "id": "2026-05-11-industry-2",
-                "title": "Banks and Crypto Backers Tussle as Senators Eye Landmark Digital Asset Bill",
-                "source": "Livemint",
-                "date": "2026-05-11",
-                "url": "https://www.livemint.com/companies/banks-and-crypto-backers-tussle-as-senators-eye-landmark-digital-asset-bill-11778371965397.html",
-                "category": "industry",
-                "summary": "美国参议员关注数字资产法案，影响加密行业发展。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注法案进展，评估合规策略。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-05-11-industry-3",
-                "title": "CZR Exchange Surpasses 100,000 Global Users, Marking Major Milestone in Platform Growth",
-                "source": "GlobeNewswire",
-                "date": "2026-05-11",
-                "url": "https://www.globenewswire.com/news-release/2026/05/10/3291468/0/en/CZR-Exchange-Surpasses-100-000-Global-Users-Marking-Major-Milestone-in-Platform-Growth.html",
-                "category": "industry",
-                "summary": "CZR交易所用户突破10万，标志着平台增长的重要里程碑。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注市场竞争动态，调整策略。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-05-11-industry-4",
-                "title": "langchain-spraay added to PyPI",
-                "source": "Pypi.org",
-                "date": "2026-05-11",
-                "url": "https://pypi.org/project/langchain-spraay/",
-                "category": "industry",
-                "summary": "发布了新的区块链工具库。",
-                "threatLevel": "medium",
-                "impact": [
-                    "技术发展"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-05-11-industry-5",
-                "title": "The Party’s Over",
-                "source": "Americanthinker.com",
-                "date": "2026-05-11",
-                "url": "https://www.americanthinker.com/articles/2026/05/the_party_s_over.html",
-                "category": "industry",
-                "summary": "文章讨论了加密货币监管的变化。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注监管动态，调整合规策略。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-05-11-industry-6",
-                "title": "Paperwork causing AI mission lag as startups flag funding, IP concerns",
-                "source": "The Times of India",
-                "date": "2026-05-11",
-                "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/paperwork-causing-ai-mission-lag-as-startups-flag-funding-ip-concerns/articleshow/130981221.cms",
-                "category": "industry",
-                "summary": "创业公司因融资和知识产权问题导致AI任务延迟。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注行业融资动态和技术进展。",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-05-11-industry-7",
-                "title": "Defiant Dubois sheds quitter tag to write new narrative",
-                "source": "BBC News",
-                "date": "2026-05-11",
-                "url": "https://www.bbc.com/sport/boxing/articles/cx21rlkl5jgo",
-                "category": "industry",
-                "summary": "Defiant Dubois 重新塑造形象，影响行业动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-05-11-industry-8",
-                "title": "The Thunder are making the Lakers face a harsh reality",
-                "source": "Silver Screen and Roll ",
-                "date": "2026-05-11",
-                "url": "https://www.silverscreenandroll.com/lakers-analysis/116896/lakers-2026-nba-playoffs-recap-box-score-stats-jj-redick-luke-kennard-thunder",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-05-11-industry-9",
-                "title": "Omniflow HQ – Turn spreadsheets into clear financial insights in seconds",
-                "source": "Betalist.com",
-                "date": "2026-05-11",
-                "url": "https://betalist.com/startups/omniflow-hq",
-                "category": "industry",
-                "summary": "Omniflow 提供财务分析工具，涉及金融科技领域。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注金融科技工具的市场动态",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-05-11-industry-10",
-                "title": "What Is the Instructure Canvas Breach? Impact, Risks, and What Institutions Should Do",
-                "source": "Trendmicro.com",
-                "date": "2026-05-11",
-                "url": "https://www.trendmicro.com/en_us/research/26/e/What-Is-the-Instructure-Canvas-Breach.html",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "custody_mpc_risk",
-                "subcategoryName": "托管与风险"
-            },
-            {
-                "id": "2026-05-11-industry-11",
-                "title": "Canton Network developer Digital Asset eyes $300 million raise at $2 billion valuation, led by a16z ",
-                "source": "The Block",
-                "date": "2026-05-11",
-                "url": "https://www.theblock.co/post/400647/canton-network-developer-digital-asset-eyes-300-million-raise-at-2-billion-valuation-led-by-a16z-crypto-bloomberg?utm_source=rss&utm_medium=rss",
-                "category": "industry",
-                "summary": "Canton Network吸引了多家大牌合作伙伴。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "投资机会"
-                ],
-                "action": "关注Canton Network的后续发展",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照",
-                "tickers": [
-                    "Visa",
-                    "Goldman Sachs"
-                ]
-            },
-            {
-                "id": "2026-05-11-industry-12",
-                "title": "Crypto Firms Race to 'Quantum-Proof' Wallets Before Bitcoin, Ethereum Networks Catch Up",
-                "source": "Decrypt",
-                "date": "2026-05-11",
-                "url": "https://decrypt.co/367321/crypto-firms-race-quantum-proof-wallets-bitcoin-ethereum",
-                "category": "industry",
-                "summary": "加密公司正在升级钱包以应对量子计算威胁。",
-                "threatLevel": "high",
-                "impact": [
-                    "技术发展",
-                    "竞争格局"
-                ],
-                "action": "关注量子技术对钱包安全的影响",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-05-11-industry-13",
-                "title": "Visa rallies after stablecoin settlement hits $7 billion, adds five new blockchains - MSN",
-                "source": "Google News (stablecoin settlement)",
-                "date": "2026-05-11",
-                "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMzlCWUNkdmx5V0hoQ1ROS0NOcnFNWE9GODgwUmdZeHVQS21QaWNReWNESG1mZl9EQmxyZ1VYVXdXTUNkNlFnb1pIcEE2S25pZWxsbzVMbTY5UG56THc3V3hxRjVfd0hONncxU2J2VHFjYjN5UGdwUXRubmxrT19mczFZOEJSRUk2VnhSQ3FkOGRFOGFLTW50MWZnN0tpT1B6eTNLQ0ZOLUtLZzV4XzVjbnA5T3R1RGdzdmY5UW15WXNuSkZGZGdGdlE5bWYteGE0Y1RuaTlqQkx4S1Y0aDVrVS1pWUVzcU5QamoweWJzZXhHWE9pRTdhMw?oc=5",
-                "category": "industry",
-                "summary": "Visa的稳定币结算额达到70亿美元，扩展了区块链业务。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "技术发展",
-                    "竞争格局"
-                ],
-                "action": "关注稳定币市场动态，评估影响。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付",
-                "tickers": [
-                    "Visa"
-                ]
-            },
-            {
-                "id": "2026-05-11-industry-14",
-                "title": "Offshore Won Stablecoins Thrive Amid Legal Delays - 조선일보",
-                "source": "Google News (stablecoin settlement)",
-                "date": "2026-05-11",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUktkZmZXSXpDZXU5dVQtNDlKblhSWkhwaE8xbVgxdWM4dXFnVDh4OGlCaWVJV2dUR1JXQWY1MGU4TVVNLUpUMld6elNFYjUwWVd5WmlkTWVINTlnNVhQeW5RZzNXc3d3LW0wV1k2aUVMS1pkaC1WcjhNaWo5bWpjM3pmTmczdTdNZlk1NEZ3?oc=5",
-                "category": "industry",
-                "summary": "离岸韩元稳定币在法律延迟中蓬勃发展。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注稳定币法律政策变化。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            }
-        ],
-        "stats": {
-            "totalThreats": 2,
-            "highThreats": 1,
-            "mediumThreats": 1,
-            "lowThreats": 0,
-            "competitorUpdates": 2,
-            "customerUpdates": 0,
-            "industryUpdates": 15
-        },
-        "dailySummary": {
-            "competitorThreat": "今日最大的竞争威胁来自于2026年机构数字资产托管服务提供商的排名，这表明市场对托管服务的需求将持续增长，尤其是Fireblocks、BitGo、Copper等公司表现突出。这可能会影响稳定币的流动性和市场份额。与此同时，CZ的赦免请求遭到竞争对手反对，显示出行业内的竞争态势日益激烈。建议稳定币项目加强与托管服务提供商的合作，提升自身的安全性和合规性，以应对日益激烈的市场竞争。",
-            "industryTrend": "今日稳定币行业的主要热点集中在美国参议院对CLARITY法案的讨论，以及大公司如亚马逊和黑石开始采用稳定币以应对监管变化。这表明，稳定币在主流金融体系中的接受度正在提升，尤其是在监管环境日益严格的背景下。此外，CZR交易所用户数量突破10万，显示出市场对稳定币交易平台的需求持续增长。未来，稳定币托管和支付基础设施可能会受到更加明确的监管框架影响，推动行业规范化发展，同时也为金融科技公司提供新的商机。"
-        },
-        "highlights": {
-            "competitors": [
-                {
-                    "id": "2026-05-11-competitor-0",
-                    "title": "CZ says crypto exchange rivals opposed his pardon bid",
-                    "source": "Cointelegraph",
-                    "date": "2026-05-11",
-                    "url": "https://cointelegraph.com/news/cz-says-crypto-exchange-rivals-opposed-his-pardon-bid",
-                    "category": "competitor",
-                    "summary": "CZ称竞争对手反对其赦免请求",
-                    "threatLevel": "medium",
-                    "impact": [
-                        "产品竞争",
-                        "市场定价"
-                    ],
-                    "action": "关注竞争对手动态，调整策略"
-                },
-                {
-                    "id": "2026-05-11-competitor-1",
-                    "title": "Top 15 Digital Asset Custody Providers for Institutions in 2026 - BeInCrypto",
-                    "source": "Google News (crypto custody institution)",
-                    "date": "2026-05-11",
-                    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRT3RIOWI0VnNPanVyeVFBeVRtdFp1OUNVTmVvRjJwUVJnNExOOE1VamoxNHRIdnFIV0dRSWxkTUdGTTVjVE5mejhZaTdva0JEWXdnRnJMUGRIS2x6S0s3d1JWdVFWT29VSWpwZlhPMzNGeWZla2c?oc=5",
-                    "category": "competitor",
-                    "summary": "2026年机构数字资产托管服务提供商排名",
-                    "threatLevel": "high",
-                    "impact": [
-                        "产品竞争",
-                        "客户争夺",
-                        "市场定价",
-                        "技术差距"
-                    ],
-                    "action": "关注竞争对手动态，优化自身服务",
-                    "tickers": [
-                        "Fireblocks",
-                        "BitGo",
-                        "Copper",
-                        "Anchorage Digital",
-                        "Safeheron",
-                        "Cregis",
-                        "OSL",
-                        "BVNK"
-                    ]
-                }
-            ],
-            "clients": [],
-            "industry": [
-                {
-                    "id": "2026-05-11-industry-0",
-                    "title": "Senate panel considers CLARITY Act as banking groups propose stablecoin yield changes",
-                    "source": "Crypto Briefing",
-                    "date": "2026-05-11",
-                    "url": "https://cryptobriefing.com/senate-clarity-act-stablecoin-yield-banking/",
-                    "category": "industry",
-                    "summary": "参议院小组讨论稳定币监管法案。",
-                    "threatLevel": "high",
-                    "impact": [
-                        "监管影响",
-                        "市场趋势"
-                    ],
-                    "action": "关注法案进展，评估影响",
-                    "subcategory": "stablecoin_payments",
-                    "subcategoryName": "稳定币支付"
-                },
-                {
-                    "id": "2026-05-11-industry-1",
-                    "title": "What are stablecoins? Why Amazon, BlackRock and big banks are adopting digital dollars amid tighter ",
-                    "source": "Livemint",
-                    "date": "2026-05-11",
-                    "url": "https://www.livemint.com/money/personal-finance/what-are-stablecoins-why-amazon-blackrock-and-big-banks-are-adopting-digital-dollars-amid-tighter-crypto-rules-11778374295137.html",
-                    "category": "industry",
-                    "summary": "大公司开始采用稳定币应对监管变化。",
-                    "threatLevel": "high",
-                    "impact": [
-                        "监管影响",
-                        "市场趋势"
-                    ],
-                    "action": "关注稳定币的监管动态和市场趋势。",
-                    "subcategory": "regulation_licensing",
-                    "subcategoryName": "监管牌照",
-                    "tickers": [
-                        "Amazon",
-                        "BlackRock"
-                    ]
-                },
-                {
-                    "id": "2026-05-11-industry-2",
-                    "title": "Banks and Crypto Backers Tussle as Senators Eye Landmark Digital Asset Bill",
-                    "source": "Livemint",
-                    "date": "2026-05-11",
-                    "url": "https://www.livemint.com/companies/banks-and-crypto-backers-tussle-as-senators-eye-landmark-digital-asset-bill-11778371965397.html",
-                    "category": "industry",
-                    "summary": "美国参议员关注数字资产法案，影响加密行业发展。",
-                    "threatLevel": "high",
-                    "impact": [
-                        "监管影响",
-                        "市场趋势",
-                        "竞争格局"
-                    ],
-                    "action": "关注法案进展，评估合规策略。",
                     "subcategory": "regulation_licensing",
                     "subcategoryName": "监管牌照"
                 }

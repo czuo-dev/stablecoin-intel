@@ -1,0 +1,560 @@
+{
+  "policy": [
+    {
+      "id": "news_67a9224e0002",
+      "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
+      "content": "Binance co-founder CZ backed crypto license passporting across ASEAN to simplify approvals, reduce compliance costs and encourage competition. Binance co-founder Changpeng “CZ” Zhao backed crypto license passporting across ASEAN, arguing that firms regulated …",
+      "url": "https://www.activistpost.com/binance-co-founder-cz-backs-crypto-license-passporting-across-asean/",
+      "source": "Activistpost.com",
+      "source_type": "news",
+      "author": "Editor",
+      "published_at": "2026-08-08T02:18:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Activistpost.com"
+        },
+        "author": "Editor",
+        "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
+        "description": "Binance co-founder CZ backed crypto license passporting across ASEAN to simplify approvals, reduce compliance costs and encourage competition. Binance co-founder Changpeng “CZ” Zhao backed crypto license passporting across ASEAN, arguing that firms regulated …",
+        "url": "https://www.activistpost.com/binance-co-founder-cz-backs-crypto-license-passporting-across-asean/",
+        "urlToImage": "https://www.activistpost.com/wp-content/uploads/2026/08/hi-cz-vs-eu-960x644-1.webp",
+        "publishedAt": "2026-08-08T02:18:00Z",
+        "content": "Binance co-founder CZ backed crypto license passporting across ASEAN to simplify approvals, reduce compliance costs and encourage competition.\r\nBinance co-founder Changpeng CZ Zhao backed crypto lice… [+3135 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "CZ支持东盟地区的加密监管通行证。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注东盟地区的监管动态。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_8fd046bfed69",
+      "title": "Trump-linked fintech firm AI Financial sells unit to Prime Delta",
+      "content": "Aug 7 : AI Financial Corp, a company closely affiliated with World ‌Liberty Financial, the crypto venture backed by the Trump family, has sold its Canadian unit to New York-based Prime Delta, weeks after fintech firm Perpetuals.com ended talks to buy the subs…",
+      "url": "https://www.channelnewsasia.com/business/trump-linked-fintech-firm-ai-financial-sells-unit-prime-delta-6307176",
+      "source": "CNA",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-08-08T01:08:26Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CNA"
+        },
+        "author": null,
+        "title": "Trump-linked fintech firm AI Financial sells unit to Prime Delta",
+        "description": "Aug 7 : AI Financial Corp, a company closely affiliated with World ‌Liberty Financial, the crypto venture backed by the Trump family, has sold its Canadian unit to New York-based Prime Delta, weeks after fintech firm Perpetuals.com ended talks to buy the subs…",
+        "url": "https://www.channelnewsasia.com/business/trump-linked-fintech-firm-ai-financial-sells-unit-prime-delta-6307176",
+        "urlToImage": "https://dam.mediacorp.sg/image/upload/s--ZdHPGX9S--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=npguKy4y",
+        "publishedAt": "2026-08-08T01:08:26Z",
+        "content": "Aug 7 : AI Financial Corp, a company closely affiliated with World Liberty Financial, the crypto venture backed by the Trump family, has sold its Canadian unit to New York-based Prime Delta, weeks af… [+1675 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "AI Financial",
+        "Prime Delta"
+      ],
+      "importance_score": 5,
+      "ai_summary": "特朗普相关的金融科技公司出售业务单元。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及金融科技公司动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注金融科技行业动态",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_bcc4388d4f95",
+      "title": "Senate fails to pass Crypto Clarity Act before summer recess",
+      "content": "The Senate's delay on the Crypto Clarity Act may hinder regulatory clarity, affecting market confidence and future legislative efforts.\nThe post Senate fails to pass Crypto Clarity Act before summer recess appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/senate-fails-to-pass-crypto-clarity-act-before-summer-recess/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-08-08T00:57:49Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Senate fails to pass Crypto Clarity Act before summer recess",
+        "description": "The Senate's delay on the Crypto Clarity Act may hinder regulatory clarity, affecting market confidence and future legislative efforts.\nThe post Senate fails to pass Crypto Clarity Act before summer recess appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/senate-fails-to-pass-crypto-clarity-act-before-summer-recess/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/07205748/arkansas-senate-chamber-5-1-800x420.jpeg",
+        "publishedAt": "2026-08-08T00:57:49Z",
+        "content": "The U.S. Senate has not passed the Crypto Clarity Act before its summer recess, according to a report from WatcherGuru. This setback places the future of the bill, formally known as the Digital Asset… [+1504 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "参议院未能通过加密监管法案。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注后续监管动态，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_5a9a49244434",
+      "title": "Nigel Farage’s gold and crypto side-hustles | If You're Listening | ABC NEWS In-depth",
+      "content": "Nigel Farage has some…strange revenue streams. He's been paid about £700000 to front ads for a gold bullion company.",
+      "url": "https://biztoc.com/x/f90e67a8f7cd0fa1",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "youtube.com",
+      "published_at": "2026-08-08T01:46:38Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "youtube.com",
+        "title": "Nigel Farage’s gold and crypto side-hustles | If You're Listening | ABC NEWS In-depth",
+        "description": "Nigel Farage has some…strange revenue streams. He's been paid about £700000 to front ads for a gold bullion company.",
+        "url": "https://biztoc.com/x/f90e67a8f7cd0fa1",
+        "urlToImage": "https://biztoc.com/cdn/f90e67a8f7cd0fa1_s.webp",
+        "publishedAt": "2026-08-08T01:46:38Z",
+        "content": "Nigel Farage has somestrange revenue streams. He's been paid about £700000 to front ads for a gold bullion company.\r\nThis story appeared on youtube.com, 2026-08-07 21:58:13.",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "报道了Nigel Farage的加密货币活动。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注加密货币市场动态。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_1f18f9a5080b",
+      "title": "Crypto News: Pepeto Closes In on Its Binance Listing While XRP Price Targets $3.5 Soon",
+      "content": "DUBAI, United Arab Emirates, Aug. 08, 2026 (GLOBE NEWSWIRE) -- Pepeto\r\n has announced its presale passed $10.336 million as its Binance listing approaches, and few token sales in this cycle's crypto news have filled faster. That speed alone turns heads, but t…",
+      "url": "https://www.globenewswire.com/news-release/2026/08/08/3341427/0/en/crypto-news-pepeto-closes-in-on-its-binance-listing-while-xrp-price-targets-3-5-soon.html",
+      "source": "GlobeNewswire",
+      "source_type": "news",
+      "author": "Pepeto",
+      "published_at": "2026-08-08T00:32:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "GlobeNewswire"
+        },
+        "author": "Pepeto",
+        "title": "Crypto News: Pepeto Closes In on Its Binance Listing While XRP Price Targets $3.5 Soon",
+        "description": "DUBAI, United Arab Emirates, Aug. 08, 2026 (GLOBE NEWSWIRE) -- Pepeto\r\n has announced its presale passed $10.336 million as its Binance listing approaches, and few token sales in this cycle's crypto news have filled faster. That speed alone turns heads, but t…",
+        "url": "https://www.globenewswire.com/news-release/2026/08/08/3341427/0/en/crypto-news-pepeto-closes-in-on-its-binance-listing-while-xrp-price-targets-3-5-soon.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/402bc883-5844-47a3-9b15-61bfb94a4e7a",
+        "publishedAt": "2026-08-08T00:32:00Z",
+        "content": "DUBAI, United Arab Emirates, Aug. 08, 2026 (GLOBE NEWSWIRE) -- Pepeto\r\n has announced its presale passed $10.336 million as its Binance listing approaches, and few token sales in this cycle's crypto … [+5406 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Pepeto即将上市，XRP价格走势引关注。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_be376e2597ea",
+      "title": "This FTX claims broker is now courting victims of a $155-million hack of a Canadian bitcoin firm",
+      "content": "A U.S. firm that specializes in distressed cryptocurrency investing and previously brokered close to US$1-billion of FTX bankruptcy claims is bringing together victims of the Coinkite Inc. hack for a potential lawsuit against the Toronto-based crypto wallet m…",
+      "url": "https://biztoc.com/x/bc71037e8d8e436b",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "theglobeandmail.com",
+      "published_at": "2026-08-08T00:58:53Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "theglobeandmail.com",
+        "title": "This FTX claims broker is now courting victims of a $155-million hack of a Canadian bitcoin firm",
+        "description": "A U.S. firm that specializes in distressed cryptocurrency investing and previously brokered close to US$1-billion of FTX bankruptcy claims is bringing together victims of the Coinkite Inc. hack for a potential lawsuit against the Toronto-based crypto wallet m…",
+        "url": "https://biztoc.com/x/bc71037e8d8e436b",
+        "urlToImage": "https://biztoc.com/cdn/bc71037e8d8e436b_s.webp",
+        "publishedAt": "2026-08-08T00:58:53Z",
+        "content": "A U.S. firm that specializes in distressed cryptocurrency investing and previously brokered close to US$1-billion of FTX bankruptcy claims is bringing together victims of the Coinkite Inc. hack for a… [+149 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "FTX",
+        "加拿大比特币公司"
+      ],
+      "importance_score": 6,
+      "ai_summary": "报道了加拿大比特币公司遭遇黑客事件的情况。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币黑客事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注加密安全问题，增强自身防护措施。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_034c1aeed88d",
+      "title": "New Mexico judge declares Meta a public nuisance, orders $942M in penalties",
+      "content": "This ruling could set a legal precedent for holding tech companies accountable for mental health impacts, influencing future regulations globally.\nThe post New Mexico judge declares Meta a public nuisance, orders $942M in penalties appeared first on Crypto Br…",
+      "url": "https://cryptobriefing.com/new-mexico-meta-public-nuisance-942m-penalties/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-08-08T00:54:47Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "New Mexico judge declares Meta a public nuisance, orders $942M in penalties",
+        "description": "This ruling could set a legal precedent for holding tech companies accountable for mental health impacts, influencing future regulations globally.\nThe post New Mexico judge declares Meta a public nuisance, orders $942M in penalties appeared first on Crypto Br…",
+        "url": "https://cryptobriefing.com/new-mexico-meta-public-nuisance-942m-penalties/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/07205439/facebook-headquarters-800x420.jpeg",
+        "publishedAt": "2026-08-08T00:54:47Z",
+        "content": "The landmark ruling compares Facebook and Instagram to a polluting factory, creating a legal precedent for social media accountability over harm to children. A New Mexico state court judge has ordere… [+2574 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "新墨西哥州法官裁定Meta为公共滋扰，罚款9.42亿美元。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化对行业的影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_930186804a97",
+      "title": "Lido publishes post-mortem on Staking Router v3 incident, traces bug to accounting oracle oversight",
+      "content": "Lido's transparency in addressing operational glitches reinforces trust in DeFi, highlighting the importance of robust migration strategies.\nThe post Lido publishes post-mortem on Staking Router v3 incident, traces bug to accounting oracle oversight appeared …",
+      "url": "https://cryptobriefing.com/lido-staking-router-v3-post-mortem/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-08-08T00:36:18Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Lido publishes post-mortem on Staking Router v3 incident, traces bug to accounting oracle oversight",
+        "description": "Lido's transparency in addressing operational glitches reinforces trust in DeFi, highlighting the importance of robust migration strategies.\nThe post Lido publishes post-mortem on Staking Router v3 incident, traces bug to accounting oracle oversight appeared …",
+        "url": "https://cryptobriefing.com/lido-staking-router-v3-post-mortem/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/07203609/lido-dao-discovered-a-security-vulnerability-in-ethereum-pro-800x420.jpeg",
+        "publishedAt": "2026-08-08T00:36:18Z",
+        "content": "A missing 32 ETH validator deposit caused an anomalous stETH rebase calculation during the protocol's biggest infrastructure upgrade in months Lido’s contributors dropped a post-mortem on July 25 det… [+2894 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Lido发布了关于其Staking Router v3事件的后期分析，涉及区块链技术问题。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链技术问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注技术问题对行业的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
+      "description": "Senate Majority Leader John Thune filed the motion to proceed early Saturday, setting up a mid-September showdown.",
+      "url": "https://decrypt.co/375174/senate-keeps-clarity-act-alive-with-crypto-bill-vote-set-for-september",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-08-08T16:33:02",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "参议院将讨论加密货币相关法案。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注法案进展，评估影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
+      "description": "“We want to show customers that we care about what they care about,\" Robinhood head of crypto Johann Kerbrat told Decrypt.",
+      "url": "https://decrypt.co/375158/robinhood-crypto-two-wolves-robinhood-chain-rwa-meme-coins",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-08-08T14:01:05",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Robinhood Crypto 讨论内部动态与客户关心的内容。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态与竞争对手策略",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "South Africa wants to ban companies from moving stablecoins abroad. Individuals keep their allowance. - The Next Web",
+      "description": "South Africa wants to ban companies from moving stablecoins abroad. Individuals keep their allowance.&nbsp;&nbsp;The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNFdZbGJIMkp3RWMwRmM2YmpPQ3FHeWdhdTY3aEsxdkxvSGtfNi1uVVdqTFQ3RXVobjJRanZzb0VPWGEzY2F5TTJidHg3TkdhR3JWLUxrcElSOXFxYkpqYXpFd2F4d1RoZG1lbVUwUk5fNzhEWEVBeG1VUWNiV1QzRTN5eGtDR1VYWEVXdHdLVWFkTHlrcXc?oc=5",
+      "source": "Google News (cross-border stablecoin)",
+      "source_category": "google_news",
+      "published_at": "2026-08-08T11:04:49",
+      "data_type": "rss",
+      "search_keyword": "cross-border stablecoin",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "南非计划禁止公司将稳定币转移至国外。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注南非的稳定币监管政策变化",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    }
+  ],
+  "company": [],
+  "funding": []
+}
