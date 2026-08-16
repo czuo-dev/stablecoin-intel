@@ -1,0 +1,478 @@
+{
+  "policy": [
+    {
+      "id": "news_f5a64da15f03",
+      "title": "Trump-linked World Liberty crypto venture gets preliminary approval from currency comptroller",
+      "content": "The Office of the Comptroller of the Currency (OCC) on Friday granted preliminary conditional approval for a national trust bank tied to World Liberty Financial, a crypto venture partially owned by President Donald Trump's family.\nThe decision, announced in a…",
+      "url": "https://biztoc.com/x/3835a5770d08655f",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "foxbusiness.com",
+      "published_at": "2026-08-15T02:29:40Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "foxbusiness.com",
+        "title": "Trump-linked World Liberty crypto venture gets preliminary approval from currency comptroller",
+        "description": "The Office of the Comptroller of the Currency (OCC) on Friday granted preliminary conditional approval for a national trust bank tied to World Liberty Financial, a crypto venture partially owned by President Donald Trump's family.\nThe decision, announced in a…",
+        "url": "https://biztoc.com/x/3835a5770d08655f",
+        "urlToImage": "https://biztoc.com/cdn/3835a5770d08655f_s.webp",
+        "publishedAt": "2026-08-15T02:29:40Z",
+        "content": "The Office of the Comptroller of the Currency (OCC) on Friday granted preliminary conditional approval for a national trust bank tied to World Liberty Financial, a crypto venture partially owned by P… [+154 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "特朗普相关的加密货币项目获得初步批准。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，评估潜在影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_d08621e64553",
+      "title": "CyberWallet users have until Aug. 15 before crypto withdrawals become a smart contract recovery job",
+      "content": "Tokens stay on-chain, but Cyber says post-cutoff recovery requires direct contracts and will receive no support.\nThe post CyberWallet users have until Aug. 15 before crypto withdrawals become a smart contract recovery job appeared first on CryptoSlate.",
+      "url": "https://cryptoslate.com/cyberwallet-users-have-until-aug-15-before-crypto-withdrawals-become-a-smart-contract-recovery-job/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam 'Akiba' Wright",
+      "published_at": "2026-08-15T02:30:39Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam 'Akiba' Wright",
+        "title": "CyberWallet users have until Aug. 15 before crypto withdrawals become a smart contract recovery job",
+        "description": "Tokens stay on-chain, but Cyber says post-cutoff recovery requires direct contracts and will receive no support.\nThe post CyberWallet users have until Aug. 15 before crypto withdrawals become a smart contract recovery job appeared first on CryptoSlate.",
+        "url": "https://cryptoslate.com/cyberwallet-users-have-until-aug-15-before-crypto-withdrawals-become-a-smart-contract-recovery-job/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/08/cyber_wallet_shutdown_standard_image.jpg",
+        "publishedAt": "2026-08-15T02:30:39Z",
+        "content": "Crypto company Cyber is telling CyberWallet and Cyber Passkey Wallet users to move their assets ahead of an Aug. 15 shutdown that will take both interfaces offline. Users who still hold balances afte… [+2705 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "CyberWallet 用户需注意提款变更。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注相关监管动态，评估影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_477db2ef10fd",
+      "title": "Fermi receives subpoena from US District Court for Project Matador documents",
+      "content": "Fermi's legal and governance challenges could undermine investor confidence and jeopardize the ambitious Project Matador's future viability.\nThe post Fermi receives subpoena from US District Court for Project Matador documents appeared first on Crypto Briefin…",
+      "url": "https://cryptobriefing.com/fermi-subpoena-project-matador-documents/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-08-15T00:06:48Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Fermi receives subpoena from US District Court for Project Matador documents",
+        "description": "Fermi's legal and governance challenges could undermine investor confidence and jeopardize the ambitious Project Matador's future viability.\nThe post Fermi receives subpoena from US District Court for Project Matador documents appeared first on Crypto Briefin…",
+        "url": "https://cryptobriefing.com/fermi-subpoena-project-matador-documents/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/14200638/nyc-token-est-symbolis-par-un-ab-me-lumineux-en-forme-de-cry-800x420.jpeg",
+        "publishedAt": "2026-08-15T00:06:48Z",
+        "content": "The AI energy startup faces mounting legal pressure as both a federal court and the SEC demand records related to its 17 GW power campus and former management. Fermi Inc. disclosed that it received a… [+2156 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Fermi因Project Matador被传唤，涉及监管问题。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "竞争格局"
+      ],
+      "industry_action": "关注监管动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_0e058413998a",
+      "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
+      "content": "Wall Street's largest banks are riding a lucrative new wave — bankrolling the AI gold rush. Goldman Sachs was a key facilitator in this week's artificial intelligence funding announcements from both Nvidia and Intel . These are just two of several recent high…",
+      "url": "https://biztoc.com/x/9ca8a366b42527a3",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "cnbc.com",
+      "published_at": "2026-08-15T02:29:07Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "cnbc.com",
+        "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
+        "description": "Wall Street's largest banks are riding a lucrative new wave — bankrolling the AI gold rush. Goldman Sachs was a key facilitator in this week's artificial intelligence funding announcements from both Nvidia and Intel . These are just two of several recent high…",
+        "url": "https://biztoc.com/x/9ca8a366b42527a3",
+        "urlToImage": "https://biztoc.com/cdn/9ca8a366b42527a3_s.webp",
+        "publishedAt": "2026-08-15T02:29:07Z",
+        "content": "Wall Street's largest banks are riding a lucrative new wave bankrolling the AI gold rush. Goldman Sachs was a key facilitator in this week's artificial intelligence funding announcements from both Nv… [+145 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "Goldman Sachs"
+      ],
+      "importance_score": 6,
+      "ai_summary": "高盛正在投资AI基础设施，可能影响金融科技行业发展。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到AI基础设施与金融科技",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注AI与金融科技结合的动态",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_938123aabb07",
+      "title": "‘The Shards’ Fashion Play: Bringing Back the Dark Glam of ’80s LA",
+      "content": "WrapStyle: Plus, The Makeup Archive gives Marilyn Monroe's lipstick and more beauty treasures the museum treatment\nThe post ‘The Shards’ Fashion Play: Bringing Back the Dark Glam of ’80s LA appeared first on TheWrap.",
+      "url": "https://www.thewrap.com/culture-lifestyle/fashion/the-shards-fashion-breakdown-fx/",
+      "source": "TheWrap",
+      "source_type": "news",
+      "author": "Booth Moore",
+      "published_at": "2026-08-15T00:29:20Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "TheWrap"
+        },
+        "author": "Booth Moore",
+        "title": "‘The Shards’ Fashion Play: Bringing Back the Dark Glam of ’80s LA",
+        "description": "WrapStyle: Plus, The Makeup Archive gives Marilyn Monroe's lipstick and more beauty treasures the museum treatment\nThe post ‘The Shards’ Fashion Play: Bringing Back the Dark Glam of ’80s LA appeared first on TheWrap.",
+        "url": "https://www.thewrap.com/culture-lifestyle/fashion/the-shards-fashion-breakdown-fx/",
+        "urlToImage": "https://www.thewrap.com/wp-content/uploads/2026/08/the-shards-igby-rigney-kaia-gerber-fx.jpeg",
+        "publishedAt": "2026-08-15T00:29:20Z",
+        "content": "“The Shards” costumes bring back the dark glam of early 1980s L.A., and Igby Rigney is dressing the part in real life. The Makeup Archive is giving Marilyn Monroe’s lipstick, Mary Quant’s false eyela… [+14240 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_878c292b2be1",
+      "title": "Matt Groening teases The Simpsons: Hit & Run remaster or remake at D23 expo",
+      "content": "Renewed optimism surrounds a potential Simpsons: Hit & Run remaster or remake. At the Disney D23 event, show creator Matt Groening hinted the GTA-inspired game would return. The studio behind the 2003 release has also reemerged, focusing on modernizing classi…",
+      "url": "https://www.notebookcheck.net/Matt-Groening-teases-The-Simpsons-Hit-Run-remaster-or-remake-at-D23-expo.1368971.0.html",
+      "source": "Notebookcheck.net",
+      "source_type": "news",
+      "author": "Adam Corsetti",
+      "published_at": "2026-08-15T00:23:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Notebookcheck.net"
+        },
+        "author": "Adam Corsetti",
+        "title": "Matt Groening teases The Simpsons: Hit & Run remaster or remake at D23 expo",
+        "description": "Renewed optimism surrounds a potential Simpsons: Hit & Run remaster or remake. At the Disney D23 event, show creator Matt Groening hinted the GTA-inspired game would return. The studio behind the 2003 release has also reemerged, focusing on modernizing classi…",
+        "url": "https://www.notebookcheck.net/Matt-Groening-teases-The-Simpsons-Hit-Run-remaster-or-remake-at-D23-expo.1368971.0.html",
+        "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TheSimpsonsHitandRunXbox.jpg",
+        "publishedAt": "2026-08-15T00:23:00Z",
+        "content": "The Simpsons: Hit &amp; Run is arguably the most popular game based on the long-running animated sitcom. Yet the Springfield-based spin on the Grand Theft Auto series has had no remaster or sequel si… [+2017 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "merger",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "Trump, CFTC Chair Selig expected at Wednesday White House meeting with crypto and prediction market executives",
+      "description": "The session is scheduled for 2:30 p.m. ET on Wednesday and is intended as a kickoff for the CFTC's first Innovation Advisory Committee meeting the next day.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-15-trump-cftc-chair-selig-expected-at-wednesday-white-house-meeting-with-crypto-and-prediction-market-executives-411919",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-08-15T15:20:19",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "特朗普与CFTC主席将讨论加密监管政策。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注CFTC的监管动向，评估对业务的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Visa Stock And 2 Payment Shares In The Stablecoin Shift - simplywall.st",
+      "description": "Visa Stock And 2 Payment Shares In The Stablecoin Shift&nbsp;&nbsp;simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSk1HOVZibWtDcDNtOURGQnZZN2pnMTZPX05jemtZaTFGejNpNV9rcERRMkxFUzB0YUNvMlpXczlubzhUVVhMWExsUlprUkhDV1hELVdUSFdyWllhTzdrUUpaQ242ZFk2cDBCOVhyYmQzREVSdXU3SEJrQVZWZjFUWS1SbFN3T2RHTDhrM0dMREt1NzgydzFMRDk2QXBnb2tadjd2S002OGNKbTFmZ2ZlNng4NExLaEpRX0FaeXAzUzZsNE11ZTlGLWZXZVZNd9IB0wFBVV95cUxQMVpYWG8wZzlGX0xQNW5Fd2RXRFBJTzFsbDQyQzZfZFZJVFFnMmF4cGpyT21yZzN2WkRpeHVZUl9Ob0JrT2VNdmZkVzNvMWN0WFFocjZfVUs3UE5TMkI1T3ZEeEFETk1uZXliUWFqcDZTSW4wcmJqQlU5UVdyYVQ2eGFiamVjSHJ0UXNBb1RRYWxFcmF2QVFWbEJJZmg3THM4djFuZy1mejB6ZUo2dlJwVnN6alB2V2FIZHZEMnlCb2hWM3BjX1YtczEyRnBVM2F1M2NN?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-08-15T13:32:48",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Visa"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Visa等支付公司正参与稳定币市场的变化。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到支付公司与稳定币的关系",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态，调整策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Hong Kong Grants First Stablecoin Licenses To HSBC And Standard Chartered Venture - Yellow.com",
+      "description": "Hong Kong Grants First Stablecoin Licenses To HSBC And Standard Chartered Venture&nbsp;&nbsp;Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KamlhUUJSMndNRzlEb2JMeHVPZF9OOGZTdG8xVFBoSFRSUHludzNZdUFhNTgxaElQS19URXUxcjRib1RJb2JTSjRvZVFGSEFOMmlYZHdRTE5Zb29tTlR5UEpOZHJRaXlpNVpxT1dSdzJpUDdJdlpIZDFHMXF1V00?oc=5",
+      "source": "Google News (stablecoin regulation Hong Kong)",
+      "source_category": "google_news",
+      "published_at": "2026-08-15T16:23:24",
+      "data_type": "rss",
+      "search_keyword": "stablecoin regulation Hong Kong",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "HSBC",
+        "Standard Chartered"
+      ],
+      "importance_score": 8,
+      "ai_summary": "香港首次向银行颁发稳定币许可证。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币监管动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注香港稳定币监管政策变化。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    }
+  ],
+  "company": [
+    {
+      "title": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
+      "description": "The proposed World Liberty Trust Company would take over issuance of the USD1 stablecoin from BitGo.",
+      "url": "https://decrypt.co/375726/trump-world-liberty-bank-charter-usd1-stablecoin",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-08-15T13:01:04",
+      "data_type": "rss",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "BitGo"
+      ],
+      "importance_score": 8,
+      "ai_summary": "World Liberty Trust Company 将接管 USD1 稳定币发行。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币发行",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "客户争夺",
+        "市场定价"
+      ],
+      "suggested_action": "关注竞争动态，优化产品策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    }
+  ],
+  "funding": []
+}
