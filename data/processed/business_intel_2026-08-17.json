@@ -1,0 +1,758 @@
+{
+  "competitors": [
+    {
+      "id": "news_17e8b515a499",
+      "title": "Apollo scores over Max with a strong revenue, margin outperformance in Q1",
+      "content": "Apollo Hospitals and Max Healthcare beat June-quarter expectations, but Apollo stood out on hospital revenue growth, operating metrics and stock returns",
+      "url": "https://www.business-standard.com/companies/quarterly-results/apollo-hospitals-max-healthcare-q1-revenue-margin-outperformance-126081600047_1.html",
+      "source": "Business Standard",
+      "source_type": "news",
+      "author": "Ram Prasad Sahu",
+      "published_at": "2026-08-16T02:02:11Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Business Standard"
+        },
+        "author": "Ram Prasad Sahu",
+        "title": "Apollo scores over Max with a strong revenue, margin outperformance in Q1",
+        "description": "Apollo Hospitals and Max Healthcare beat June-quarter expectations, but Apollo stood out on hospital revenue growth, operating metrics and stock returns",
+        "url": "https://www.business-standard.com/companies/quarterly-results/apollo-hospitals-max-healthcare-q1-revenue-margin-outperformance-126081600047_1.html",
+        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-09/24/thumb/featurecrop/1200X628/1758735272-5829.jpg",
+        "publishedAt": "2026-08-16T02:02:11Z",
+        "content": "Apollo Hospitals and Max Healthcare beat June-quarter expectations, but Apollo stood out on hospital revenue growth, operating metrics and stock returns\r\nApollo expects overall hospital revenue growt… [+5137 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Apollo",
+        "Max"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Apollo在Q1的收入和利润表现超越Max。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到竞争对手的财务表现",
+      "threat_level": "medium",
+      "impact_areas": [
+        "市场定价",
+        "品牌影响"
+      ],
+      "suggested_action": "关注竞争对手的财务动态，调整市场策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    }
+  ],
+  "clients": [],
+  "industry": [
+    {
+      "id": "news_1680e3d9014c",
+      "title": "Tale of two crypto routs, and why no one saw them coming",
+      "content": "A president's crypto fortune and a broken wallet expose what the small saver is not able to see.&nbsp;",
+      "url": "https://www.livemint.com/money/crypto-currency-crypto-platforms-virtual-digital-asset-bitcoin-11786700981148.html",
+      "source": "Livemint",
+      "source_type": "news",
+      "author": "Dhirendra Kumar (Value Research)",
+      "published_at": "2026-08-16T01:30:26Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Dhirendra Kumar (Value Research)",
+        "title": "Tale of two crypto routs, and why no one saw them coming",
+        "description": "A president's crypto fortune and a broken wallet expose what the small saver is not able to see.&nbsp;",
+        "url": "https://www.livemint.com/money/crypto-currency-crypto-platforms-virtual-digital-asset-bitcoin-11786700981148.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/im-92494486_1756991198688_1786727652363_b3d0636d-a02e-4970-b98d-21b4dd261e07.jpg",
+        "publishedAt": "2026-08-16T01:30:26Z",
+        "content": "Crypto ads are back in full force. Four years ago, India imposed a tax regime that looked like a ban, but over time, punters have come to accept the 1% tax deducted at source (TDS) as routine. My scr… [+4286 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "分析了加密货币市场的两次下跌及其原因。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态以调整策略",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_3e75a65e282b",
+      "title": "Trump-linked crypto venture World Liberty Trust granted bank status in unprecedented move for president - ABC News",
+      "content": "Trump-linked crypto venture World Liberty Trust granted bank status in unprecedented move for president\nDemocratic lawmakers are warning about potential conflicts of interest.\nA Trump-appointed national bank regulator granted a wing of the Trump family's cryp…",
+      "url": "https://biztoc.com/x/ec69ab537cf36c75",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "abcnews.com",
+      "published_at": "2026-08-16T01:12:14Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "abcnews.com",
+        "title": "Trump-linked crypto venture World Liberty Trust granted bank status in unprecedented move for president - ABC News",
+        "description": "Trump-linked crypto venture World Liberty Trust granted bank status in unprecedented move for president\nDemocratic lawmakers are warning about potential conflicts of interest.\nA Trump-appointed national bank regulator granted a wing of the Trump family's cryp…",
+        "url": "https://biztoc.com/x/ec69ab537cf36c75",
+        "urlToImage": "https://biztoc.com/cdn/ec69ab537cf36c75_s.webp",
+        "publishedAt": "2026-08-16T01:12:14Z",
+        "content": "Trump-linked crypto venture World Liberty Trust granted bank status in unprecedented move for presidentDemocratic lawmakers are warning about potential conflicts of interest.A Trump-appointed nationa… [+145 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "特朗普相关的加密项目获得银行地位，影响监管环境。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化对市场的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_7adcb83da396",
+      "title": "Nomura’s McElligott highlights $300B market chaos potential from autocallable structures",
+      "content": "The interplay of massive debt issuance and autocallable structures could trigger unexpected volatility, challenging traditional risk metrics.\nThe post Nomura’s McElligott highlights $300B market chaos potential from autocallable structures appeared first on C…",
+      "url": "https://cryptobriefing.com/nomura-mcelligott-300b-autocallable-market-risk/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-08-16T01:12:46Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Nomura’s McElligott highlights $300B market chaos potential from autocallable structures",
+        "description": "The interplay of massive debt issuance and autocallable structures could trigger unexpected volatility, challenging traditional risk metrics.\nThe post Nomura’s McElligott highlights $300B market chaos potential from autocallable structures appeared first on C…",
+        "url": "https://cryptobriefing.com/nomura-mcelligott-300b-autocallable-market-risk/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/15211242/nomura-s-mcelligott-highlights-300b-market-chaos-potential-f-800x420.jpeg",
+        "publishedAt": "2026-08-16T01:12:46Z",
+        "content": "A massive pile of derivatives tied to mega-cap tech stocks could act as a 'coiled spring' for volatility, while AI and datacenter debt issuance hits 12 times the prior decade's average. Charlie McEll… [+4649 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "市场潜在混乱可能影响稳定币业务。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到市场混乱潜力",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，评估风险",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_cc91775d0c6a",
+      "title": "Trump Family’s World Liberty Financial Gets Preliminary Approval to Launch a Bank - WSJ",
+      "content": "Trump Family’s World Liberty Financial Gets Preliminary Approval to Launch a BankWSJ The Trumps’ Crypto Project Just Got One Step Closer to Becoming a BankMother Jones Trump-appointed regulator OKs banking license for Trump-linked crypto firmpolitico.com US r…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184992472",
+      "source": "Slashdot.org",
+      "source_type": "news",
+      "author": "feedfeeder",
+      "published_at": "2026-08-16T00:32:06Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Slashdot.org"
+        },
+        "author": "feedfeeder",
+        "title": "Trump Family’s World Liberty Financial Gets Preliminary Approval to Launch a Bank - WSJ",
+        "description": "Trump Family’s World Liberty Financial Gets Preliminary Approval to Launch a BankWSJ The Trumps’ Crypto Project Just Got One Step Closer to Becoming a BankMother Jones Trump-appointed regulator OKs banking license for Trump-linked crypto firmpolitico.com US r…",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184992472",
+        "urlToImage": null,
+        "publishedAt": "2026-08-16T00:32:06Z",
+        "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "特朗普家族的金融公司获得银行牌照初步批准。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及金融服务行业动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注金融服务行业的监管动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_7a73e47a2b0c",
+      "title": "DR ELLIE: Why I fear thousands risk DYING after taking fat jabs: as 216 UK deaths are linked to the drugs, here's the precise diet, dose and other steps to cut the risk",
+      "content": "Last week it was reported a 19-year-old American law student living in London had died after taking a weight-loss drug containing tirzepatide - the active ingredient in NHS-approved Mounjaro.",
+      "url": "https://www.dailymail.com/health/article-16054717/weight-loss-patients-life-threatening-effects-DR-ELLIE.html",
+      "source": "Dailymail.com",
+      "source_type": "news",
+      "author": "Dr Ellie Cannon",
+      "published_at": "2026-08-16T00:00:55Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dailymail.com"
+        },
+        "author": "Dr Ellie Cannon",
+        "title": "DR ELLIE: Why I fear thousands risk DYING after taking fat jabs: as 216 UK deaths are linked to the drugs, here's the precise diet, dose and other steps to cut the risk",
+        "description": "Last week it was reported a 19-year-old American law student living in London had died after taking a weight-loss drug containing tirzepatide - the active ingredient in NHS-approved Mounjaro.",
+        "url": "https://www.dailymail.com/health/article-16054717/weight-loss-patients-life-threatening-effects-DR-ELLIE.html",
+        "urlToImage": "https://i.dailymail.com/1s/2026/08/15/12/110655121-0-image-m-42_1786792338372.jpg",
+        "publishedAt": "2026-08-16T00:00:55Z",
+        "content": "It was a shocking story and a warning for those looking to get thin quick. Last week it was reported a 19-year-old American law student living in London had died after taking a weight-loss drug conta… [+6318 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_6d7d78dfa770",
+      "title": "Prashant Kishor demands probe into Roshan Yadav's alleged custody death",
+      "content": "Prashant Kishor demanded a thorough investigation into Roshan Yadav's alleged custodial death.  Yadav's family claims he was beaten to death while in police custody.  They allege his arrest occurred without proper notice at Rahika police station.  Police offi…",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/prashant-kishor-demands-probe-into-roshan-yadavs-alleged-custody-death/articleshow/133268945.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "ANI",
+      "published_at": "2026-08-16T02:24:15Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "ANI",
+        "title": "Prashant Kishor demands probe into Roshan Yadav's alleged custody death",
+        "description": "Prashant Kishor demanded a thorough investigation into Roshan Yadav's alleged custodial death.  Yadav's family claims he was beaten to death while in police custody.  They allege his arrest occurred without proper notice at Rahika police station.  Police offi…",
+        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/prashant-kishor-demands-probe-into-roshan-yadavs-alleged-custody-death/articleshow/133268945.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-133268944,width-1200,height-630,imgsize-59030,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-08-16T02:24:15Z",
+        "content": "Madhub: Jan Suraaj founder and Bankipur MLA Prashant Kishor on Sunday demanded a thorough investigation into the alleged custodial death of Roshan Yadav, saying his family has claimed that he was bea… [+1593 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_088cdc07ec6d",
+      "title": "Data governance culture gives companies competitive edge — Taxtech boss",
+      "content": "Discover how a strong data governance culture, powered by advanced fintech, gives Nigerian companies a competitive edge in tax and compliance, according to\n\nRead More: https://punchng.com/data-governance-culture-gives-companies-competitive-edge-taxtech-boss/",
+      "url": "https://punchng.com/data-governance-culture-gives-companies-competitive-edge-taxtech-boss/",
+      "source": "The Punch",
+      "source_type": "news",
+      "author": "Punch Newspapers",
+      "published_at": "2026-08-16T00:07:24Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Punch"
+        },
+        "author": "Punch Newspapers",
+        "title": "Data governance culture gives companies competitive edge — Taxtech boss",
+        "description": "Discover how a strong data governance culture, powered by advanced fintech, gives Nigerian companies a competitive edge in tax and compliance, according to\n\nRead More: https://punchng.com/data-governance-culture-gives-companies-competitive-edge-taxtech-boss/",
+        "url": "https://punchng.com/data-governance-culture-gives-companies-competitive-edge-taxtech-boss/",
+        "urlToImage": "https://punchng.com/wp-content/uploads/2026/08/Screenshot-2026-08-15-203706_1786822655-803x630.webp",
+        "publishedAt": "2026-08-16T00:07:24Z",
+        "content": "Chief Executive Officer of Taxaide Technologies Limited, Bidemi Olumide, speaks with ARINZE NWAFOR on managing a technology-driven business, particularly in tax and compliance, and how leading Nigeri… [+9393 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "数据治理文化为企业提供竞争优势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到数据治理文化",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注数据治理对行业的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_5fc37ad77c34",
+      "title": "Novig Promo Code TSNEWS: Get $25 UFC 330 Bonus for Makhachev vs. Machado Garry Predictions",
+      "content": "New players who take advantage of Novig promo code TSNEWS and make $10 in trades this weekend will secure $25 in total bonuses for UFC 330 on Saturday night.",
+      "url": "https://www.sportingnews.com/us/predictions-markets/news/novig-promo-code-tsnews-get-25-ufc-330-bonus-makhachev-vs-machado-garry-predictions/22fb40e82637409d9551ab2d",
+      "source": "Sporting News",
+      "source_type": "news",
+      "author": "Alex Payton",
+      "published_at": "2026-08-16T01:10:02Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Sporting News"
+        },
+        "author": "Alex Payton",
+        "title": "Novig Promo Code TSNEWS: Get $25 UFC 330 Bonus for Makhachev vs. Machado Garry Predictions",
+        "description": "New players who take advantage of Novig promo code TSNEWS and make $10 in trades this weekend will secure $25 in total bonuses for UFC 330 on Saturday night.",
+        "url": "https://www.sportingnews.com/us/predictions-markets/news/novig-promo-code-tsnews-get-25-ufc-330-bonus-makhachev-vs-machado-garry-predictions/22fb40e82637409d9551ab2d",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/361e29cba4d6776b3f9bbe424b98c5418defc9e4464e24b252f3b444e2db7fc1/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F1d2a2f53fb888defe30ab998d431f7cd.jpg",
+        "publishedAt": "2026-08-16T01:10:02Z",
+        "content": "Novig Promo Code TSNEWS: Get $25 UFC 330 Bonus for Makhachev vs. Machado Garry Predictions originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nSpo… [+4305 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_b1b5292418de",
+      "title": "Digital payments at core — Here's what Gen Z's UPI payments for essentials, discretionary, travel and subscriptions show",
+      "content": "From managing utility bills, recurring subscriptions and financial services, Gen Z's financial habits show they are a generation that has grown up with digital payments at its core. Here's a look at what they spend their salaries on…",
+      "url": "https://www.livemint.com/money/personal-finance/gen-z-upi-digital-payment-trend-show-daily-essential-bills-grocery-discretionary-spend-travel-entertainment-subscription-11786810591175.html",
+      "source": "Livemint",
+      "source_type": "news",
+      "author": "Jocelyn Fernandes",
+      "published_at": "2026-08-16T01:05:05Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Jocelyn Fernandes",
+        "title": "Digital payments at core — Here's what Gen Z's UPI payments for essentials, discretionary, travel and subscriptions show",
+        "description": "From managing utility bills, recurring subscriptions and financial services, Gen Z's financial habits show they are a generation that has grown up with digital payments at its core. Here's a look at what they spend their salaries on…",
+        "url": "https://www.livemint.com/money/personal-finance/gen-z-upi-digital-payment-trend-show-daily-essential-bills-grocery-discretionary-spend-travel-entertainment-subscription-11786810591175.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2026/08/15/1600x900/logo/2-0-1248827046-rupee-0_1679614292013_1786811537324_23276dcf-025c-43c3-af3a-e77d62ff9c60.jpg",
+        "publishedAt": "2026-08-16T01:05:05Z",
+        "content": "Analysis of millions of UPI transactions, reflecting the spending habits of more than 5.2 lakh salaried Gen Z users by SalarySe showed that digital payments formed the core of the generation's financ… [+4268 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Z世代的数字支付趋势显示市场变化。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及数字支付趋势",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注Z世代支付习惯变化，调整市场策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_5a249559e082",
+      "title": "debank-scraper added to PyPI",
+      "content": "EVM wallet portfolio and DeFi position scraper from DeBank with MCP support",
+      "url": "https://pypi.org/project/debank-scraper/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-08-16T02:01:08Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "debank-scraper added to PyPI",
+        "description": "EVM wallet portfolio and DeFi position scraper from DeBank with MCP support",
+        "url": "https://pypi.org/project/debank-scraper/",
+        "urlToImage": null,
+        "publishedAt": "2026-08-16T02:01:08Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "debank-scraper 被添加到 PyPI，涉及区块链工具。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注区块链工具的技术进展",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "Hong Kong cleared stablecoins for take-off. Getting them to work across Asia is the hard part - Asian Banking & Finance",
+      "description": "Hong Kong cleared stablecoins for take-off. Getting them to work across Asia is the hard part&nbsp;&nbsp;Asian Banking & Finance",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcTR4ekQxU1Q0VGNkTGxjakJjNXFJSUI2bU4tUTBUdEk2ZUdBVjBjUVFZTTRmLV9LNF9NM1BGWm1mMEJUMU5oTVgzRjgxZmYxQ0ZNZ2JDX085eTloY0JUajZKR2dna3l0bzJ1Q0k1aGxhdlJrNTBGVGtYMm1uZTFYdF9mWXgxU0kzZWs1Wjh6V2x5cG4ySG1XcVlmaE1fRlBzSkxqc3prV0owRHZwOFRXMThKSWhON2RZVHR5bTg0aDg1Zw?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-08-17T01:00:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "香港为稳定币的发展铺平了道路。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币的监管政策",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注稳定币在亚洲的应用和监管动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "RedotPay uses stablecoins to cut cross-border payment costs - Hong Kong Business",
+      "description": "RedotPay uses stablecoins to cut cross-border payment costs&nbsp;&nbsp;Hong Kong Business",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQjhtM19HektEMzdESDRzM0J3QVhnLUtNZk1zNE04bWJJMzdBZXJoY3NzbXRENFplcTlWWXktOHJxYTVSYzdJQndkeWJLaXN3TGR6enI4X05lbHhHMnA0R0tzeEhiM2F6RDBQZ2JMcTVXczBNME4tb2g4TUJfYlhBb3AwQVhKcE5kWXc1bW92cFFaZGdYbF9kTlFGaDN4b1FBMEpFb1hFc1h2TlQ5SHdzUjNEQQ?oc=5",
+      "source": "Google News (cross-border stablecoin)",
+      "source_category": "google_news",
+      "published_at": "2026-08-17T01:23:44",
+      "data_type": "rss",
+      "search_keyword": "cross-border stablecoin",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "RedotPay利用稳定币降低跨境支付成本。",
+      "business_relevance": 0.8,
+      "relevance_reason": "提到稳定币和跨境支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币在支付领域的应用趋势。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Stablecoin payments see the highest volume in domestic transactions, not cross-border. - KuCoin",
+      "description": "Stablecoin payments see the highest volume in domestic transactions, not cross-border.&nbsp;&nbsp;KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONm5XdERVNE5PMGtJQmI2RG54SVAxMzRRWVREbzZpMzlraHh4S1M4T19TdTN3Y2d5VTRONC1Ja191Q0p1RmZKQXpVS2l2ZGtHNFJLWG5HSUhjTjdrRW9UNUFXa2xBanhNYnprSzQ3cXF3Y3NQbU1vU3h0cFFvN09MX0s3elk4ei1qQzNpV1VwTF9MVmFWUDMxZ0lKYVNoOFNJU3hCS3k0cEdkYXhIWFZNOE5mZ2s?oc=5",
+      "source": "Google News (cross-border stablecoin)",
+      "source_category": "google_news",
+      "published_at": "2026-08-16T06:02:42",
+      "data_type": "rss",
+      "search_keyword": "cross-border stablecoin",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "KuCoin"
+      ],
+      "importance_score": 7,
+      "ai_summary": "稳定币支付在国内交易中表现突出。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注国内稳定币支付市场动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Polygon joins BofE's Digital Pound Lab to test cross-border settlement - Finextra Research",
+      "description": "Polygon joins BofE's Digital Pound Lab to test cross-border settlement&nbsp;&nbsp;Finextra Research",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0JNUEVTNE5IMlRzbGxRT1NaNmRtLVhBazZGMXZKOUFmM05LRFpYcVgwNllmSjhtRXVmd3FGSXltMC1lSm12WUJPYnUwS0VYNFlHakdpS0RWa3BkUERtNGpteFY5SDFTQVZFTkJvVWdLdFdOcDZzT1J0aWRWeXdwWXd5eE85SWRLS3lEVkM1ZmY3S1NVbDdhdVBBdEg0MVZiMUhZRk5IUllqNy1xZWxFY3RR?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-08-16T23:02:50",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Polygon"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Polygon 加入英央行数字英镑实验室测试跨境结算。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及跨境支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注跨境支付技术的发展动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    }
+  ]
+}
