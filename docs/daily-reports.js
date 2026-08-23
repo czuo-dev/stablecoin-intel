@@ -4,6 +4,387 @@
 
 const dailyReports = [
     {
+        "date": "2026-08-23",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-08-23.md",
+        "newsItems": [
+            {
+                "id": "2026-08-23-industry-0",
+                "title": "In 1991, hikers in the Alps found a body melting out of a glacier and called the police, assuming it",
+                "source": "Space Daily",
+                "date": "2026-08-23",
+                "url": "https://spacedaily.com/b-in-1991-hikers-in-the-alps-found-a-body-melting-out-of-a-glacier-and-called-the-police-assuming-it-was-a-lost-mountaineer-it-turned-out-to-be-a-5300-year-old-man-with-61-tattoos-an-unfin/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-08-23-industry-1",
+                "title": "Justin Sun accuses World Liberty Financial’s USD1 of having backdoor functions, files fraud lawsuit",
+                "source": "Crypto Briefing",
+                "date": "2026-08-23",
+                "url": "https://cryptobriefing.com/justin-sun-accuses-wlfi-usd1-backdoor/",
+                "category": "industry",
+                "summary": "Justin Sun控告World Liberty Financial的法律纠纷引发关注。",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响",
+                    "竞争格局"
+                ],
+                "action": "关注法律动态以评估市场影响",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "World Liberty Financial"
+                ]
+            },
+            {
+                "id": "2026-08-23-industry-2",
+                "title": "Ethena and FalconX: Institutionalizing the USDe Yield Pipeline",
+                "source": "Forkast.news",
+                "date": "2026-08-23",
+                "url": "https://forkast.news/ethena-and-falconx-institutionalizing-the-usde-yield-pipeline/",
+                "category": "industry",
+                "summary": "Ethena与FalconX在稳定币收益方面的合作动态。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币收益相关技术发展。",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险",
+                "tickers": [
+                    "Ethena",
+                    "FalconX"
+                ]
+            },
+            {
+                "id": "2026-08-23-industry-3",
+                "title": "Coinbase defends ETH holdings amid community criticism: Jesse Pollak",
+                "source": "Crypto Briefing",
+                "date": "2026-08-23",
+                "url": "https://cryptobriefing.com/coinbase-defends-eth-holdings-pollak/",
+                "category": "industry",
+                "summary": "Coinbase 在社区批评中为其 ETH 持有辩护。",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管动态，调整策略。",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Coinbase"
+                ]
+            },
+            {
+                "id": "2026-08-23-industry-4",
+                "title": "Fast and Hard Code",
+                "source": "Pocoo.org",
+                "date": "2026-08-23",
+                "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+                "category": "industry",
+                "summary": "该新闻涉及加密货币领域的动态。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-08-23-industry-5",
+                "title": "Over $33M in Solana short positions liquidated as SOL nears $95",
+                "source": "Crypto Briefing",
+                "date": "2026-08-23",
+                "url": "https://cryptobriefing.com/solana-short-liquidations-sol-nears-95/",
+                "category": "industry",
+                "summary": "Solana短期头寸被强平，市场波动加剧。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场波动对稳定币的影响",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-08-23-industry-6",
+                "title": "Zcash surges over 42% to surpass $800 as Grayscale files for ZEC ETF",
+                "source": "Crypto Briefing",
+                "date": "2026-08-23",
+                "url": "https://cryptobriefing.com/zcash-surges-42-percent-past-800-grayscale-etf/",
+                "category": "industry",
+                "summary": "Zcash价格大幅上涨，反映市场趋势。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-08-23-industry-7",
+                "title": "Dollar weakness lifts emerging-market currencies to fresh records",
+                "source": "Crypto Briefing",
+                "date": "2026-08-23",
+                "url": "https://cryptobriefing.com/dollar-weakness-lifts-emerging-market-currencies-to-fresh-records/",
+                "category": "industry",
+                "summary": "美元走弱推动新兴市场货币上涨。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "关注新兴市场货币对稳定币的影响",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-08-23-industry-8",
+                "title": "Colorado Is Writing AI Transparency Rules. The FTC Says Federal Law May Override Them.",
+                "source": "Forkast.news",
+                "date": "2026-08-23",
+                "url": "https://forkast.news/colorado-is-writing-ai-transparency-rules-the-ftc-says-federal-law-may-override-them/",
+                "category": "industry",
+                "summary": "科罗拉多州正在制定AI透明度规则，可能影响加密监管。",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管动态，评估影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-08-23-industry-9",
+                "title": "Daily Hacker News for 2026-08-21",
+                "source": "Daemonology.net",
+                "date": "2026-08-23",
+                "url": "https://www.daemonology.net/hn-daily/2026-08-21.html",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-08-23-industry-10",
+                "title": "ToneTag wants to make India’s ubiquitous soundbox more than a payment alert",
+                "source": "Livemint",
+                "date": "2026-08-23",
+                "url": "https://www.livemint.com/companies/news/tonetag-wants-to-make-india-s-ubiquitous-soundbox-more-than-a-payment-alert-upi-digital-payments-ekosha-fintech-11787294337916.html",
+                "category": "industry",
+                "summary": "ToneTag希望提升印度音箱的支付功能。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注支付技术的演变",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-08-23-industry-11",
+                "title": "Thunderbirds Go! Iconic TV Series Joins Pixel Starships on August 23",
+                "source": "Bleeding Cool News",
+                "date": "2026-08-23",
+                "url": "https://bleedingcool.com/games/thunderbirds-go-iconic-tv-series-joins-pixel-starships-on-august-23/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-08-23-industry-12",
+                "title": "Iconic Film Character Intros: Captain Jack Sparrow - How to Steal a Movie in Seconds",
+                "source": "Nofilmschool.com",
+                "date": "2026-08-23",
+                "url": "https://nofilmschool.com/jack-sparrows-unforgettable-intro",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-08-23-industry-13",
+                "title": "A privacy-preserving data augmentation approach for credit card fraud detection",
+                "source": "Nature.com",
+                "date": "2026-08-23",
+                "url": "https://www.nature.com/articles/s41598-026-66541-x.pdf",
+                "category": "industry",
+                "summary": "提出了一种用于信用卡欺诈检测的新方法。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展"
+                ],
+                "action": "关注数据隐私保护技术的进展。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-08-23-industry-14",
+                "title": "Sebi proposes new channel partner network to boost retail bond access",
+                "source": "The Times of India",
+                "date": "2026-08-23",
+                "url": "https://economictimes.indiatimes.com/markets/bonds/sebi-proposes-new-channel-partner-network-to-boost-retail-bond-access/articleshow/133416068.cms",
+                "category": "industry",
+                "summary": "印度证券监管机构提议新渠道以促进零售债券访问。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "监管影响"
+                ],
+                "action": "关注零售债券市场动态",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-08-23-industry-15",
+                "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-08-23",
+                "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQeUR6WG5mSEpNUWtmSmNMMkhEeWxNeEhwR2ZubkczRHlPbnJBQVJURXRNZ0F2R3U3cVZ4QVVCNHZpelhBQ3NWeUphRF9qZjFPSl9xUTE1WTRpeXZIeXdiUEdabXBKa2dfdEhrNDAwNVpEVFk4LXFNOTR4SnBwVFE4YXpnZFpmVEY5ZEhPWVVjRkE0Z3BmeWdmc0RxUWhsZHUyZWk1R0pjanQ4R0JUazZycDVmT040dndGaXVrd29Zczc4NjRSUnhCMDd0NGdQY25BTXRrTFBkTVFrWG54c1NpUjhMVndJZHlLMzBKOUdYSTZubHZhT1NEckJDc1drRWxzVnVRY1lrbjB2dGNT?oc=5",
+                "category": "industry",
+                "summary": "马斯克的X计划用稳定币支付创作者。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币支付的市场动态。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-08-23-industry-16",
+                "title": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins - CoinDesk",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-08-23",
+                "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcVBtNjFGWFFHU2xKeGZYTTRGSmhYUXQzbmlQa2hGTkp0eE1BMEIxUWl4S2NqTGdQbG51NTFEY3poZDBzbGNGSzNLc2tWYVp2Y2N0QTUxYkFsdGh4VnBMQTJXcU5JTGllSlhvNlc0TzRlQThycGpZVkJyTzBNUFdWb3pmbEQ4MWNreklZQi1fcEtkTTlLWGZkUnVoM1lveHhfNW5SUDVoNmNSQU5jWFl1X3RJUkw2QVFGUmd6UElTYk1NRlFEQWc?oc=5",
+                "category": "industry",
+                "summary": "AI代理可能成为稳定币的新用户。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注AI与稳定币结合的市场动态。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-08-23-industry-17",
+                "title": "Stablecoin Payments: Asia's Hubs Lead the Way - OneSafe.io",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-08-23",
+                "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KOS1zYnhneVZMNW9YMkpaZ0hTVTV2WENaWTJZT1BKTWdvc2hzUlFLbnJfbDlCX1BfN3FjYmVQNEdnZzljWUlyeS1JaWlITV9kYy1VYnZ3czJNMGdBcUxJM3didEFxb0JU?oc=5",
+                "category": "industry",
+                "summary": "亚洲在稳定币支付领域领先。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注亚洲市场的稳定币支付动态。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            }
+        ],
+        "stats": {
+            "totalThreats": 0,
+            "highThreats": 0,
+            "mediumThreats": 0,
+            "lowThreats": 0,
+            "competitorUpdates": 0,
+            "customerUpdates": 0,
+            "industryUpdates": 18
+        },
+        "dailySummary": {
+            "competitorThreat": "今日暂无竞争对手相关动态。",
+            "industryTrend": "今日行业热点主要集中在Justin Sun对World Liberty Financial的控告，以及Ethena与FalconX在稳定币收益方面的合作。Sun的法律纠纷引发了对稳定币透明度和安全性的关注，可能促使市场对合规和审计的需求加大。同时，美元走弱推动新兴市场货币上涨，可能影响稳定币的使用场景及其与法币的兑换率。整体来看，稳定币托管和支付基础设施行业需加强风险管理和透明度，以应对市场波动和监管压力。"
+        },
+        "highlights": {
+            "competitors": [],
+            "clients": [],
+            "industry": [
+                {
+                    "id": "2026-08-23-industry-0",
+                    "title": "In 1991, hikers in the Alps found a body melting out of a glacier and called the police, assuming it",
+                    "source": "Space Daily",
+                    "date": "2026-08-23",
+                    "url": "https://spacedaily.com/b-in-1991-hikers-in-the-alps-found-a-body-melting-out-of-a-glacier-and-called-the-police-assuming-it-was-a-lost-mountaineer-it-turned-out-to-be-a-5300-year-old-man-with-61-tattoos-an-unfin/",
+                    "category": "industry",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照"
+                },
+                {
+                    "id": "2026-08-23-industry-1",
+                    "title": "Justin Sun accuses World Liberty Financial’s USD1 of having backdoor functions, files fraud lawsuit",
+                    "source": "Crypto Briefing",
+                    "date": "2026-08-23",
+                    "url": "https://cryptobriefing.com/justin-sun-accuses-wlfi-usd1-backdoor/",
+                    "category": "industry",
+                    "summary": "Justin Sun控告World Liberty Financial的法律纠纷引发关注。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "监管影响",
+                        "竞争格局"
+                    ],
+                    "action": "关注法律动态以评估市场影响",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照",
+                    "tickers": [
+                        "World Liberty Financial"
+                    ]
+                },
+                {
+                    "id": "2026-08-23-industry-2",
+                    "title": "Ethena and FalconX: Institutionalizing the USDe Yield Pipeline",
+                    "source": "Forkast.news",
+                    "date": "2026-08-23",
+                    "url": "https://forkast.news/ethena-and-falconx-institutionalizing-the-usde-yield-pipeline/",
+                    "category": "industry",
+                    "summary": "Ethena与FalconX在稳定币收益方面的合作动态。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势",
+                        "技术发展"
+                    ],
+                    "action": "关注稳定币收益相关技术发展。",
+                    "subcategory": "custody_mpc_risk",
+                    "subcategoryName": "托管与风险",
+                    "tickers": [
+                        "Ethena",
+                        "FalconX"
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "date": "2026-08-22",
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-08-22.md",
@@ -73486,216 +73867,6 @@ const dailyReports = [
                         "市场趋势"
                     ],
                     "action": "关注监管动态，评估影响。",
-                    "subcategory": "other",
-                    "subcategoryName": "其他"
-                }
-            ]
-        }
-    },
-    {
-        "date": "2026-05-25",
-        "title": "稳定币行业日报",
-        "file": "reports/daily/daily_brief_2026-05-25.md",
-        "newsItems": [
-            {
-                "id": "2026-05-25-industry-0",
-                "title": "Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit",
-                "source": "Cointelegraph",
-                "date": "2026-05-25",
-                "url": "https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit",
-                "category": "industry",
-                "summary": "欧元和美元稳定币因安全漏洞脱钩。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注稳定币市场动态，评估风险。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-05-25-industry-1",
-                "title": "Stablecoin issuer StablR potentially exploited for over $3M in dual contract attack: ZachXBT",
-                "source": "Crypto Briefing",
-                "date": "2026-05-25",
-                "url": "https://cryptobriefing.com/stablecoin-issuer-stablr-hit-suspected-3m-smart-contract-exploit-zachxbt/",
-                "category": "industry",
-                "summary": "StablR 稳定币遭遇安全攻击，损失超300万美元。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "技术发展",
-                    "竞争格局"
-                ],
-                "action": "关注稳定币安全性提升的趋势",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-05-25-industry-2",
-                "title": "NEAR Protocol surges 50% in 7 days, leads AI token rally",
-                "source": "Crypto Briefing",
-                "date": "2026-05-25",
-                "url": "https://cryptobriefing.com/near-protocol-surges-ai-token-rally/",
-                "category": "industry",
-                "summary": "NEAR Protocol 在加密市场中表现强劲。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-05-25-industry-3",
-                "title": "Trump postpones AI executive order after David Sacks warns of regulatory risks",
-                "source": "Crypto Briefing",
-                "date": "2026-05-25",
-                "url": "https://cryptobriefing.com/trump-postpones-ai-executive-order-sacks/",
-                "category": "industry",
-                "summary": "特朗普推迟AI行政命令因监管风险警告。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注AI监管政策变化对行业的影响",
-                "subcategory": "custody_mpc_risk",
-                "subcategoryName": "托管与风险"
-            },
-            {
-                "id": "2026-05-25-industry-4",
-                "title": "Moment raises $78M Series C for AI trading #tech",
-                "source": "Alltoc.com",
-                "date": "2026-05-25",
-                "url": "https://alltoc.com/tech/moment-raises-78m-series-c-for-ai-trading",
-                "category": "industry",
-                "summary": "Moment公司融资用于AI交易，间接影响加密市场。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注AI在加密交易中的应用动态",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-05-25-industry-5",
-                "title": "Karl-Anthony Towns returns as offensive ‘hub’ for Knicks and Cavaliers have no answers",
-                "source": "New York Post",
-                "date": "2026-05-25",
-                "url": "https://nypost.com/2026/05/24/sports/karl-anthony-towns-returns-as-offensive-hub-for-knicks/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-05-25-industry-6",
-                "title": "Kyrgyzstan Gold-Backed Stablecoin Enters Hong Kong’s Regulated Crypto Market - Crowdfund Insider",
-                "source": "Google News (stablecoin payment)",
-                "date": "2026-05-25",
-                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRkRuNUVQTlgwN3hXTTRYa2xnSzJUR0FtdHF0SjBhdGVXSVpsYVQ4X3JIOXozTHl5eXpUUkd3NERhZW1pRUR2N3JDSDZmX2NhQkJzYkZudDhYVVFzeF83cXpsWk4tRW1WN09SUHEwZjNsX2J5Mm5CTmtHamVfbUw0Nm4zb1U5c3JK?oc=5",
-                "category": "industry",
-                "summary": "吉尔吉斯斯坦的黄金支持稳定币进入香港市场。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注稳定币市场的监管变化",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-05-25-industry-7",
-                "title": "Iran conflict accelerates UAE stablecoin push - Arabian Gulf Business Insight | AGBI",
-                "source": "Google News (stablecoin settlement)",
-                "date": "2026-05-25",
-                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2t2eVhyN2FhakdYNDR2cmpvQ1NJTUo3Ri1taGI3UGtCUVh2V1paQWFBUHJrQ2g1SmhuM3hDZkJZZEgtZUY5czVDblVzSjZ1d190TTFlRnJVMlN2cUdwZDg4QlRWTXM5WHotc2xJNXVFeldtVEt3QzVlSHpLSjM4dl96QmNEaFRZZjZFS0VwR1ZkXzNuM1VF?oc=5",
-                "category": "industry",
-                "summary": "伊朗冲突推动阿联酋稳定币发展",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注阿联酋稳定币政策变化",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            }
-        ],
-        "stats": {
-            "totalThreats": 0,
-            "highThreats": 0,
-            "mediumThreats": 0,
-            "lowThreats": 0,
-            "competitorUpdates": 0,
-            "customerUpdates": 0,
-            "industryUpdates": 8
-        },
-        "dailySummary": {
-            "competitorThreat": "今日暂无竞争对手相关动态。",
-            "industryTrend": "今日行业热点集中在StablR稳定币的安全漏洞事件，导致其与美元和欧元脱钩，损失超过300万美元。这一事件突显了稳定币市场对安全性的脆弱性，可能引发投资者对稳定币的信任危机。同时，吉尔吉斯斯坦的黄金支持稳定币进入香港市场，显示出各国对稳定币多样化的探索。阿联酋在地缘政治冲突背景下加快稳定币发展，表明稳定币在国际支付和金融稳定中的潜在角色日益重要。这些趋势可能促使稳定币托管和支付基础设施的监管加强，推动行业向更安全和合规的方向发展。"
-        },
-        "highlights": {
-            "competitors": [],
-            "clients": [],
-            "industry": [
-                {
-                    "id": "2026-05-25-industry-0",
-                    "title": "Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit",
-                    "source": "Cointelegraph",
-                    "date": "2026-05-25",
-                    "url": "https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit",
-                    "category": "industry",
-                    "summary": "欧元和美元稳定币因安全漏洞脱钩。",
-                    "threatLevel": "high",
-                    "impact": [
-                        "市场趋势",
-                        "竞争格局"
-                    ],
-                    "action": "关注稳定币市场动态，评估风险。",
-                    "subcategory": "stablecoin_payments",
-                    "subcategoryName": "稳定币支付"
-                },
-                {
-                    "id": "2026-05-25-industry-1",
-                    "title": "Stablecoin issuer StablR potentially exploited for over $3M in dual contract attack: ZachXBT",
-                    "source": "Crypto Briefing",
-                    "date": "2026-05-25",
-                    "url": "https://cryptobriefing.com/stablecoin-issuer-stablr-hit-suspected-3m-smart-contract-exploit-zachxbt/",
-                    "category": "industry",
-                    "summary": "StablR 稳定币遭遇安全攻击，损失超300万美元。",
-                    "threatLevel": "high",
-                    "impact": [
-                        "市场趋势",
-                        "技术发展",
-                        "竞争格局"
-                    ],
-                    "action": "关注稳定币安全性提升的趋势",
-                    "subcategory": "regulation_licensing",
-                    "subcategoryName": "监管牌照"
-                },
-                {
-                    "id": "2026-05-25-industry-2",
-                    "title": "NEAR Protocol surges 50% in 7 days, leads AI token rally",
-                    "source": "Crypto Briefing",
-                    "date": "2026-05-25",
-                    "url": "https://cryptobriefing.com/near-protocol-surges-ai-token-rally/",
-                    "category": "industry",
-                    "summary": "NEAR Protocol 在加密市场中表现强劲。",
-                    "threatLevel": "medium",
-                    "impact": [
-                        "市场趋势"
-                    ],
-                    "action": "",
                     "subcategory": "other",
                     "subcategoryName": "其他"
                 }
