@@ -1,0 +1,1629 @@
+{
+  "policy": [
+    {
+      "id": "news_37c475a9f659",
+      "title": "Chelsea agree front-of-shirt sponsorship with Circle Internet Group",
+      "content": "A front-of-shirt sponsor, in this economy?",
+      "url": "https://weaintgotnohistory.sbnation.com/chelsea-fc-finances/171581/chelsea-agree-front-of-shirt-sponsorship-with-circle-internet-group",
+      "source": "SB Nation",
+      "source_type": "news",
+      "author": "David Pasztor",
+      "published_at": "2026-08-29T06:58:21Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "SB Nation"
+        },
+        "author": "David Pasztor",
+        "title": "Chelsea agree front-of-shirt sponsorship with Circle Internet Group",
+        "description": "A front-of-shirt sponsor, in this economy?",
+        "url": "https://weaintgotnohistory.sbnation.com/chelsea-fc-finances/171581/chelsea-agree-front-of-shirt-sponsorship-with-circle-internet-group",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/09321b9b378b25a689da3ee90332080927a8be143d2c89b8d12a756a1c2fdeb2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F523d04e1a35efab3817999aecbf91688.jpg",
+        "publishedAt": "2026-08-29T06:58:21Z",
+        "content": "Friday was a momentous day in the history of BlueCo Chelsea. Believe it or not, we finally got a proper front-of-shirt sponsor! I know! Absolutely unfathomable. And not just for the last few weeks or… [+1124 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Circle Internet Group"
+      ],
+      "importance_score": 7,
+      "ai_summary": "切尔西与Circle达成前胸赞助协议。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币公司",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态和赞助效果。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_867204e571d6",
+      "title": "Aptos integrates Circle’s CCTP V2 for rapid USDC transfers",
+      "content": "Aptos' integration of CCTP V2 enhances DeFi automation and cross-chain liquidity, potentially transforming decentralized finance operations.\nThe post Aptos integrates Circle’s CCTP V2 for rapid USDC transfers appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/aptos-circle-cctp-v2-usdc-transfers/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-08-29T01:05:16Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Aptos integrates Circle’s CCTP V2 for rapid USDC transfers",
+        "description": "Aptos' integration of CCTP V2 enhances DeFi automation and cross-chain liquidity, potentially transforming decentralized finance operations.\nThe post Aptos integrates Circle’s CCTP V2 for rapid USDC transfers appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/aptos-circle-cctp-v2-usdc-transfers/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/28210513/library-aptos-integrates-circle-s-cctp-v2-for-rapid-usdc-transfe-800x450.png",
+        "publishedAt": "2026-08-29T01:05:16Z",
+        "content": "The integration delivers native USDC in seconds instead of minutes, with programmable hooks that automate lending, trading, and treasury actions on arrival Aptos has activated Circle’s Cross-Chain Tr… [+2236 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Aptos",
+        "Circle"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Aptos集成Circle的CCTP V2以加速USDC转账。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币USDC转账",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注USDC转账技术发展动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_66dde2dabeff",
+      "title": "BIS chief says stablecoins lack credibility for large-scale payments, pushes tokenized deposits instead",
+      "content": "Tokenized deposits could reshape financial systems by enhancing stability and compliance, potentially impacting global monetary sovereignty and banking.\nThe post BIS chief says stablecoins lack credibility for large-scale payments, pushes tokenized deposits i…",
+      "url": "https://cryptobriefing.com/bis-chief-stablecoins-lack-credibility-payments/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-08-29T01:59:38Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "BIS chief says stablecoins lack credibility for large-scale payments, pushes tokenized deposits instead",
+        "description": "Tokenized deposits could reshape financial systems by enhancing stability and compliance, potentially impacting global monetary sovereignty and banking.\nThe post BIS chief says stablecoins lack credibility for large-scale payments, pushes tokenized deposits i…",
+        "url": "https://cryptobriefing.com/bis-chief-stablecoins-lack-credibility-payments/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/28215934/library-bis-chief-says-stablecoins-lack-credibility-for-large-sc-800x450.png",
+        "publishedAt": "2026-08-29T01:59:38Z",
+        "content": "Pablo Hernández de Cos used his Jackson Hole speech to argue that stablecoins fail basic tests of money and that bank-backed tokenized deposits are the safer path forward. The head of the world’s mos… [+2739 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "BIS 行长对稳定币支付的看法影响行业发展。",
+      "business_relevance": 0.8,
+      "relevance_reason": "提到稳定币支付的可信度",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币监管政策变化",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_b05afc060ad9",
+      "title": "crypto-liquidity-intelligence added to PyPI",
+      "content": "VOIDTRACE AI Crypto Liquidity Intelligence Engine — blockchain intelligence for cross-chain liquidity flows, stablecoin movements, capital rotation, and DEX activity.",
+      "url": "https://pypi.org/project/crypto-liquidity-intelligence/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": "info@voidtraceai.com",
+      "published_at": "2026-08-29T05:39:09Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": "info@voidtraceai.com",
+        "title": "crypto-liquidity-intelligence added to PyPI",
+        "description": "VOIDTRACE AI Crypto Liquidity Intelligence Engine — blockchain intelligence for cross-chain liquidity flows, stablecoin movements, capital rotation, and DEX activity.",
+        "url": "https://pypi.org/project/crypto-liquidity-intelligence/",
+        "urlToImage": null,
+        "publishedAt": "2026-08-29T05:39:09Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "PyPI上新增加密流动性智能工具。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币技术",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注新技术对市场的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_be66b545cea8",
+      "title": "Israeli crime groups increasingly use Bitcoin, Tether for money laundering",
+      "content": "The rise in crypto use for laundering by Israeli crime groups complicates law enforcement efforts, necessitating advanced international cooperation.\nThe post Israeli crime groups increasingly use Bitcoin, Tether for money laundering appeared first on Crypto B…",
+      "url": "https://cryptobriefing.com/israeli-crime-groups-bitcoin-tether-laundering/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-08-29T07:36:04Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Israeli crime groups increasingly use Bitcoin, Tether for money laundering",
+        "description": "The rise in crypto use for laundering by Israeli crime groups complicates law enforcement efforts, necessitating advanced international cooperation.\nThe post Israeli crime groups increasingly use Bitcoin, Tether for money laundering appeared first on Crypto B…",
+        "url": "https://cryptobriefing.com/israeli-crime-groups-bitcoin-tether-laundering/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/29033601/library-israeli-crime-groups-increasingly-use-bitcoin-tether-for-800x450.png",
+        "publishedAt": "2026-08-29T07:36:04Z",
+        "content": "Law enforcement is fighting back with blockchain analytics contracts and cross-border wallet freezes, but organized crime's shift to crypto is accelerating faster than regulators can keep up When sev… [+3134 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "以色列犯罪集团利用稳定币进行洗钱。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币Tether",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注稳定币监管动态，评估风险。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_05110a960717",
+      "title": "How to Compare Cryptocurrency Exchanges: The CryptoVantage Research Framework",
+      "content": "Choosing a cryptocurrency exchange can be more complicated than it first appears. Platforms advertise low fees, extensive asset selections, strong security, and beginner-friendly software, but those claims are not always easy to compare. Costs may be calculat…",
+      "url": "https://www.solidsmack.com/finance/how-to-compare-cryptocurrency-exchanges-the-cryptovantage-research-framework/",
+      "source": "Solidsmack.com",
+      "source_type": "news",
+      "author": "Kyrie Mattos",
+      "published_at": "2026-08-29T02:20:12Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Solidsmack.com"
+        },
+        "author": "Kyrie Mattos",
+        "title": "How to Compare Cryptocurrency Exchanges: The CryptoVantage Research Framework",
+        "description": "Choosing a cryptocurrency exchange can be more complicated than it first appears. Platforms advertise low fees, extensive asset selections, strong security, and beginner-friendly software, but those claims are not always easy to compare. Costs may be calculat…",
+        "url": "https://www.solidsmack.com/finance/how-to-compare-cryptocurrency-exchanges-the-cryptovantage-research-framework/",
+        "urlToImage": "https://www.solidsmack.com/wp-content/uploads/2026/08/fixlqxahcfk-e1787907723263.jpg",
+        "publishedAt": "2026-08-29T02:20:12Z",
+        "content": "Choosing a cryptocurrency exchange can be more complicated than it first appears. Platforms advertise low fees, extensive asset selections, strong security, and beginner-friendly software, but those … [+21630 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "分析加密货币交易所的比较方法",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注交易所动态以调整策略",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_298713ecdbef",
+      "title": "Institutions poured $580M into crypto ETFs right before Warsh’s hawkish speech cratered the market",
+      "content": "Institutional enthusiasm for crypto ETFs highlights the volatility and risk of market timing amid regulatory and policy shifts impacting digital assets.\nThe post Institutions poured $580M into crypto ETFs right before Warsh’s hawkish speech cratered the marke…",
+      "url": "https://cryptobriefing.com/institutions-580m-crypto-etfs-warsh-speech/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-08-29T00:06:10Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Institutions poured $580M into crypto ETFs right before Warsh’s hawkish speech cratered the market",
+        "description": "Institutional enthusiasm for crypto ETFs highlights the volatility and risk of market timing amid regulatory and policy shifts impacting digital assets.\nThe post Institutions poured $580M into crypto ETFs right before Warsh’s hawkish speech cratered the marke…",
+        "url": "https://cryptobriefing.com/institutions-580m-crypto-etfs-warsh-speech/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/28200607/library-institutions-poured-580m-into-crypto-etfs-right-before-w-800x450.png",
+        "publishedAt": "2026-08-29T00:06:10Z",
+        "content": "An eight-session inflow streak worth $2.8 billion brought Bitcoin ETF assets within striking distance of $100 billion, then the Fed intervened Timing, as they say, is everything. In the days before F… [+2522 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "机构投资者在加密ETF上的投入受到市场波动影响。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注市场动态以调整策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_a16f26caab59",
+      "title": "When the spender isn't a person",
+      "content": "By Monty DonohewCoinbase spent February building crypto wallets for AI agents. It is worth pausing on what that sentence actually means.",
+      "url": "https://www.americanthinker.com/blog/2026/08/when-the-spender-isn-t-a-person/",
+      "source": "Americanthinker.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-08-29T04:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Americanthinker.com"
+        },
+        "author": null,
+        "title": "When the spender isn't a person",
+        "description": "By Monty DonohewCoinbase spent February building crypto wallets for AI agents. It is worth pausing on what that sentence actually means.",
+        "url": "https://www.americanthinker.com/blog/2026/08/when-the-spender-isn-t-a-person/",
+        "urlToImage": "https://images.americanthinker.com/c4/c48ovlio0sq1wvpieqqo_1200.jpg",
+        "publishedAt": "2026-08-29T04:00:00Z",
+        "content": "The system runs on x402, a payments protocol Coinbase introduced in 2025 that lets software send and receive money directly, modeled on an old and mostly unused piece of the internet’s plumbing: the … [+4775 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "讨论了非个人的消费行为在加密货币中的影响。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币的消费行为",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注非个人消费对市场的潜在影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_0a46957f6cc3",
+      "title": "Reform UK plays down crypto ties as it courts business, diplomats",
+      "content": "Investing.com -- Reform UK is reducing the prominence of cryptocurrency companies at its annual conference as Nigel Farage's party seeks to strengthen its credentials with businesses and foreign governments, Bloomberg reported Saturday.\nNo crypto companies ap…",
+      "url": "https://biztoc.com/x/32ea2a65dcef5dc4",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "yahoo.com",
+      "published_at": "2026-08-29T05:31:40Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "yahoo.com",
+        "title": "Reform UK plays down crypto ties as it courts business, diplomats",
+        "description": "Investing.com -- Reform UK is reducing the prominence of cryptocurrency companies at its annual conference as Nigel Farage's party seeks to strengthen its credentials with businesses and foreign governments, Bloomberg reported Saturday.\nNo crypto companies ap…",
+        "url": "https://biztoc.com/x/32ea2a65dcef5dc4",
+        "urlToImage": "https://biztoc.com/cdn/32ea2a65dcef5dc4_s.webp",
+        "publishedAt": "2026-08-29T05:31:40Z",
+        "content": "Investing.com -- Reform UK is reducing the prominence of cryptocurrency companies at its annual conference as Nigel Farage's party seeks to strengthen its credentials with businesses and foreign gove… [+140 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Reform UK 在寻求商业和外交关系时淡化与加密货币的联系。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密货币监管动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_3f9a20a30b8f",
+      "title": "ETHB Emerges as a Favorite Among Ethereum ETFs",
+      "content": "Crypto has come roaring back in recent weeks, but the rally hasn't been enough to erase what's still been a rough year. Even after the bounce, the iShares Bitcoin Trust ETF (IBIT) is down 11.6% in 2026 and the iShares Ethereum Trust ETF (ETHA) has fallen 18.1…",
+      "url": "https://biztoc.com/x/26e4da8cc6a39e1e",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "finance.yahoo.com",
+      "published_at": "2026-08-29T05:01:27Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "ETHB Emerges as a Favorite Among Ethereum ETFs",
+        "description": "Crypto has come roaring back in recent weeks, but the rally hasn't been enough to erase what's still been a rough year. Even after the bounce, the iShares Bitcoin Trust ETF (IBIT) is down 11.6% in 2026 and the iShares Ethereum Trust ETF (ETHA) has fallen 18.1…",
+        "url": "https://biztoc.com/x/26e4da8cc6a39e1e",
+        "urlToImage": "https://biztoc.com/cdn/26e4da8cc6a39e1e_s.webp",
+        "publishedAt": "2026-08-29T05:01:27Z",
+        "content": "Crypto has come roaring back in recent weeks, but the rally hasn't been enough to erase what's still been a rough year. Even after the bounce, the iShares Bitcoin Trust ETF (IBIT) is down 11.6% in 20… [+152 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "以太坊ETF受欢迎，影响市场趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到以太坊ETF动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注以太坊ETF对市场的潜在影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_b7061a63c065",
+      "title": "Trump Family's New Crypto Bank Is 49% Owned by Group Behind $500 Million World Liberty Bet: WSJ",
+      "content": "An Abu Dhabi royal who invested $500 million in President Donald Trump’s World Liberty Financial is deepening his ties to the family crypto business.\nSheikh Tahnoon bin Zayed Al Nahyan and co-investors are now behind an entity that owns 49% of the holding com…",
+      "url": "https://biztoc.com/x/8ca3c43f706ca575",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "benzinga.com",
+      "published_at": "2026-08-29T06:46:33Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "benzinga.com",
+        "title": "Trump Family's New Crypto Bank Is 49% Owned by Group Behind $500 Million World Liberty Bet: WSJ",
+        "description": "An Abu Dhabi royal who invested $500 million in President Donald Trump’s World Liberty Financial is deepening his ties to the family crypto business.\nSheikh Tahnoon bin Zayed Al Nahyan and co-investors are now behind an entity that owns 49% of the holding com…",
+        "url": "https://biztoc.com/x/8ca3c43f706ca575",
+        "urlToImage": "https://biztoc.com/cdn/8ca3c43f706ca575_s.webp",
+        "publishedAt": "2026-08-29T06:46:33Z",
+        "content": "An Abu Dhabi royal who invested $500 million in President Donald Trumps World Liberty Financial is deepening his ties to the family crypto business.Sheikh Tahnoon bin Zayed Al Nahyan and co-investors… [+146 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "特朗普家族的新加密银行引发关注。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密银行业务",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注加密银行的发展动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_8921f2a35eac",
+      "title": "GitHub - godaddy/sshenc: Eliminate plaintext keys: Hardware-backed SSH and Git security via Secure Enclave and TPM 2.0",
+      "content": "Hardware-backed SSH key management, with first-class git identity and commit signing. sshenc generates SSH keys inside the Secure Enclave (macOS), TPM 2.0 (Windows/Linux), or a software fallback and serves them via a standard SSH agent. Private key material n…",
+      "url": "https://github.com/godaddy/sshenc",
+      "source": "Github.com",
+      "source_type": "news",
+      "author": "godaddy",
+      "published_at": "2026-08-29T03:49:14Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Github.com"
+        },
+        "author": "godaddy",
+        "title": "GitHub - godaddy/sshenc: Eliminate plaintext keys: Hardware-backed SSH and Git security via Secure Enclave and TPM 2.0",
+        "description": "Hardware-backed SSH key management, with first-class git identity and commit signing. sshenc generates SSH keys inside the Secure Enclave (macOS), TPM 2.0 (Windows/Linux), or a software fallback and serves them via a standard SSH agent. Private key material n…",
+        "url": "https://github.com/godaddy/sshenc",
+        "urlToImage": "https://opengraph.githubassets.com/0f4998610ae44a849e0d517a9037dfd0d8e06d5225796ad966f552a5ed85afc5/godaddy/sshenc",
+        "publishedAt": "2026-08-29T03:49:14Z",
+        "content": "Hardware-backed SSH key management, with first-class git identity and\r\ncommit signing.\r\nsshenc generates SSH keys inside the Secure Enclave (macOS), TPM 2.0\r\n(Windows/Linux), or a software fallback a… [+24057 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto license",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "讨论了加密技术的安全性",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密技术",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注加密安全技术的进展",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_3fb348794844",
+      "title": "crypto-toolkit-py added to PyPI",
+      "content": "Modern Cryptography & Hashing Toolkit - a misuse-resistant, high-level cryptography library for Python",
+      "url": "https://pypi.org/project/crypto-toolkit-py/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": "parthiv05022000@gmail.com",
+      "published_at": "2026-08-29T07:06:22Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": "parthiv05022000@gmail.com",
+        "title": "crypto-toolkit-py added to PyPI",
+        "description": "Modern Cryptography & Hashing Toolkit - a misuse-resistant, high-level cryptography library for Python",
+        "url": "https://pypi.org/project/crypto-toolkit-py/",
+        "urlToImage": null,
+        "publishedAt": "2026-08-29T07:06:22Z",
+        "content": "A misuse-resistant, high-level cryptography library with safe defaults, constant-time verification, and a clear API for hashing, password hashing, key derivation, symmetric encryption, HMAC, and digi… [+1733 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto license",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "新增加密工具库，可能影响技术发展。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密工具开发",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注工具库对行业技术的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_a10fcff15e33",
+      "title": "Safety First, Comrade",
+      "content": "Photo Credit:Image via Max Pixel.\r\n\n\n \n Max PixelBy Joan SwirskyThe communists who want to run our country and our lives have no regard for our well-being. Just look at a little history, plus the present day.",
+      "url": "https://www.americanthinker.com/articles/2026/08/safety-first-comrade/",
+      "source": "Americanthinker.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-08-29T04:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Americanthinker.com"
+        },
+        "author": null,
+        "title": "Safety First, Comrade",
+        "description": "Photo Credit:Image via Max Pixel.\r\n\n\n \n Max PixelBy Joan SwirskyThe communists who want to run our country and our lives have no regard for our well-being. Just look at a little history, plus the present day.",
+        "url": "https://www.americanthinker.com/articles/2026/08/safety-first-comrade/",
+        "urlToImage": "https://images.americanthinker.com/imported/2023-02/244378_1200.jpg",
+        "publishedAt": "2026-08-29T04:00:00Z",
+        "content": "When I was studying to become a nurse in the late 1960s, I learned that the most important value in patient care, for both nurses and doctors, is safety.  Not curing, which is hoped for but often imp… [+10219 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "文章讨论了加密货币监管的重要性。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，调整合规策略",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_cde4d69e80bb",
+      "title": "IndiGo Ventures backs sovereign AI firm Sarvam in ongoing Series B funding round",
+      "content": "The investment by the corporate venture capital arm of IndiGo builds on an existing relationship between the two entities. Both companies previously collaborated to deploy artificial intelligence technologies aimed at enhancing passenger experience, assisting…",
+      "url": "https://economictimes.indiatimes.com/tech/funding/indigo-ventures-backs-sovereign-ai-firm-sarvam-in-ongoing-series-b-funding-round/articleshow/133602926.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "ANI",
+      "published_at": "2026-08-29T03:07:14Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "ANI",
+        "title": "IndiGo Ventures backs sovereign AI firm Sarvam in ongoing Series B funding round",
+        "description": "The investment by the corporate venture capital arm of IndiGo builds on an existing relationship between the two entities. Both companies previously collaborated to deploy artificial intelligence technologies aimed at enhancing passenger experience, assisting…",
+        "url": "https://economictimes.indiatimes.com/tech/funding/indigo-ventures-backs-sovereign-ai-firm-sarvam-in-ongoing-series-b-funding-round/articleshow/133602926.cms",
+        "urlToImage": "https://img.etimg.com/photo/42031747.cms",
+        "publishedAt": "2026-08-29T03:07:14Z",
+        "content": "IndiGo Ventures invested in Sarvam AI as part of the full-stack sovereign artificial intelligence company's Series B round of funding.The investment by the corporate venture capital arm of IndiGo bui… [+2507 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "Sarvam"
+      ],
+      "importance_score": 5,
+      "ai_summary": "IndiGo Ventures 投资于 AI 公司 Sarvam 进行融资。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及融资事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注 AI 领域的投资动态",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_13b4e725b7f0",
+      "title": "NatWest (NWG) Looks to America for Growth as UK Banking Competition Intensifies",
+      "content": "NatWest Group plc (NYSE:NWG) is making a renewed push into the U.S. market more than a decade after the financial crisis forced the bank to retreat from inte...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/natwest-nwg-looks-america-growth-022902673.html",
+      "source": "Yahoo Entertainment",
+      "source_type": "news",
+      "author": "Sultan Khalid",
+      "published_at": "2026-08-29T02:29:02Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Sultan Khalid",
+        "title": "NatWest (NWG) Looks to America for Growth as UK Banking Competition Intensifies",
+        "description": "NatWest Group plc (NYSE:NWG) is making a renewed push into the U.S. market more than a decade after the financial crisis forced the bank to retreat from inte...",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/natwest-nwg-looks-america-growth-022902673.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/875defdd489c5621ce04aede9bb2e1188563e496a6b17ad38eebc7f12fe6fe93/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fb58295f2cc764e7a24ca032713294476.jpg",
+        "publishedAt": "2026-08-29T02:29:02Z",
+        "content": "NatWest Group plc (NYSE:NWG) is making a renewed push into the U.S. market more than a decade after the financial crisis forced the bank to retreat from international operations. The bank has receive… [+6560 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "NatWest寻求在美国市场增长以应对竞争。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到银行竞争与市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注美国市场的银行竞争动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_fed8b87b57e1",
+      "title": "Solstice (SOLS) Jumps 12.8% on Merger Exit, $500M Buyback",
+      "content": "Solstice Advanced Materials (NASDAQ:SOLS) jumped by 12.76 percent on Friday to finish at $63.53 apiece after abandoning a plan to acquire Element Solutions f...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/solstice-sols-jumps-12-8-015312475.html",
+      "source": "Yahoo Entertainment",
+      "source_type": "news",
+      "author": "Angelica Ballesteros",
+      "published_at": "2026-08-29T01:53:12Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Angelica Ballesteros",
+        "title": "Solstice (SOLS) Jumps 12.8% on Merger Exit, $500M Buyback",
+        "description": "Solstice Advanced Materials (NASDAQ:SOLS) jumped by 12.76 percent on Friday to finish at $63.53 apiece after abandoning a plan to acquire Element Solutions f...",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/solstice-sols-jumps-12-8-015312475.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/1c6bd6b3d65a1baa83ef54593d3ea7d702805f2f5976818c300ca9e827fae58f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fcc08a36a8916f394dffb66ac8122192e.jpg",
+        "publishedAt": "2026-08-29T01:53:12Z",
+        "content": "Solstice Advanced Materials (NASDAQ:SOLS) jumped by 12.76 percent on Friday to finish at $63.53 apiece after abandoning a plan to acquire Element Solutions for $14.5 billion, while investors also che… [+3443 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Solstice因合并退出和回购而上涨。",
+      "business_relevance": 0.5,
+      "relevance_reason": "一般加密货币新闻",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_1a78cd4d0045",
+      "title": "SSL to introduce O-Series V2.0",
+      "content": "SSL's upcoming O-Series V2.0 software will establishing complete project compatibility between the Oracle and the recently launched Odyssey console.",
+      "url": "https://www.soundonsound.com/news/ssl-introduce-o-series-v20",
+      "source": "Soundonsound.com",
+      "source_type": "news",
+      "author": "Luke Wood SOS News Editor",
+      "published_at": "2026-08-29T06:30:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Soundonsound.com"
+        },
+        "author": "Luke Wood SOS News Editor",
+        "title": "SSL to introduce O-Series V2.0",
+        "description": "SSL's upcoming O-Series V2.0 software will establishing complete project compatibility between the Oracle and the recently launched Odyssey console.",
+        "url": "https://www.soundonsound.com/news/ssl-introduce-o-series-v20",
+        "urlToImage": null,
+        "publishedAt": "2026-08-29T06:30:00Z",
+        "content": "With a second console now joining their O-Series, SSL have announced the upcoming launch of O-Series V2.0, a software update that will deliver some powerful new tools for session compatibility, autom… [+3124 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series A",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "SSL推出O-Series V2.0，影响行业动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密行业动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_394f1800483e",
+      "title": "Kraken builds comprehensive wallet for onchain financial life",
+      "content": "Kraken's wallet evolution signifies a shift towards integrated onchain services, challenging traditional exchanges and enhancing user engagement.\nThe post Kraken builds comprehensive wallet for onchain financial life appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/kraken-wallet-onchain-financial-life/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-08-29T01:53:01Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Kraken builds comprehensive wallet for onchain financial life",
+        "description": "Kraken's wallet evolution signifies a shift towards integrated onchain services, challenging traditional exchanges and enhancing user engagement.\nThe post Kraken builds comprehensive wallet for onchain financial life appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/kraken-wallet-onchain-financial-life/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/28215256/library-kraken-builds-comprehensive-wallet-for-onchain-financial-800x450.png",
+        "publishedAt": "2026-08-29T01:53:01Z",
+        "content": "The exchange's wallet now combines self-custody, DeFi vaults, tokenized assets, and payments into a single app experience. Kraken has been quietly assembling something that looks less like a crypto w… [+2922 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Kraken推出全面的加密钱包，影响行业发展。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币钱包",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注钱包技术的市场反应",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_1cd7d4edfa87",
+      "title": "Ethereum ETFs see 10 straight days of net inflows as Bitcoin streak snaps",
+      "content": "Ethereum's sustained ETF inflows highlight growing institutional confidence, potentially shifting investment dynamics and competitive focus away from Bitcoin.\nThe post Ethereum ETFs see 10 straight days of net inflows as Bitcoin streak snaps appeared first on…",
+      "url": "https://cryptobriefing.com/ethereum-etf-inflows-10-day-streak-bitcoin-outflow/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-08-29T06:39:09Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Ethereum ETFs see 10 straight days of net inflows as Bitcoin streak snaps",
+        "description": "Ethereum's sustained ETF inflows highlight growing institutional confidence, potentially shifting investment dynamics and competitive focus away from Bitcoin.\nThe post Ethereum ETFs see 10 straight days of net inflows as Bitcoin streak snaps appeared first on…",
+        "url": "https://cryptobriefing.com/ethereum-etf-inflows-10-day-streak-bitcoin-outflow/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/29023908/us-strikes-on-iran-wipe-80b-off-crypto-as-bitcoin-ethereum-s-38-800x420.jpeg",
+        "publishedAt": "2026-08-29T06:39:09Z",
+        "content": "BlackRock's ETHA product drove nearly three-quarters of the $1.42B haul, while Bitcoin funds logged a $202M outflow on August 28 For ten straight trading days, investors kept hitting the buy button o… [+1938 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "以太坊ETF连续十天净流入，反映市场趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到以太坊ETF流入",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注以太坊市场动态，评估影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_964b0f565946",
+      "title": "BlackRock clients sell $33M worth of Bitcoin through IBIT ETF",
+      "content": "Institutional rebalancing amid Bitcoin's price surge highlights the volatility and strategic adjustments in digital asset portfolios.\nThe post BlackRock clients sell $33M worth of Bitcoin through IBIT ETF appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/blackrock-clients-sell-33m-bitcoin/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-08-29T06:23:27Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "BlackRock clients sell $33M worth of Bitcoin through IBIT ETF",
+        "description": "Institutional rebalancing amid Bitcoin's price surge highlights the volatility and strategic adjustments in digital asset portfolios.\nThe post BlackRock clients sell $33M worth of Bitcoin through IBIT ETF appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/blackrock-clients-sell-33m-bitcoin/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/29022323/library-blackrock-clients-sell-33m-worth-of-bitcoin-through-ibit-800x450.png",
+        "publishedAt": "2026-08-29T06:23:27Z",
+        "content": "The redemption is modest by IBIT standards, but adds to a pattern of institutional outflows worth watching closely BlackRock’s iShares Bitcoin Trust (IBIT) recorded roughly $33.4 million in client re… [+1463 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "BlackRock"
+      ],
+      "importance_score": 6,
+      "ai_summary": "BlackRock客户通过ETF出售比特币。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到比特币交易",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注比特币市场动态。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_f7a755b33ff5",
+      "title": "A Greek Mythical Trojan Horse May Portend An Islamic Reality For America",
+      "content": "Photo Credit:ChatGPT\n \n ChatGPT for American ThinkerBy James ZumwaltThe citizens of Troy sealed their fate by assuming there was no war. Are we going to make the same mistake?",
+      "url": "https://www.americanthinker.com/articles/2026/08/a-greek-mythical-trojan-horse-may-portend-an-islamic-reality-for-america/",
+      "source": "Americanthinker.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-08-29T04:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Americanthinker.com"
+        },
+        "author": null,
+        "title": "A Greek Mythical Trojan Horse May Portend An Islamic Reality For America",
+        "description": "Photo Credit:ChatGPT\n \n ChatGPT for American ThinkerBy James ZumwaltThe citizens of Troy sealed their fate by assuming there was no war. Are we going to make the same mistake?",
+        "url": "https://www.americanthinker.com/articles/2026/08/a-greek-mythical-trojan-horse-may-portend-an-islamic-reality-for-america/",
+        "urlToImage": "https://images.americanthinker.com/ym/yms0kconunroouxpuoxz_1200.jpg",
+        "publishedAt": "2026-08-29T04:00:00Z",
+        "content": "A product of Greek mythology, the Trojan War tale includes a great deception that ended it. After a ten-year siege of Troy, residents awoke to find a massive statue of a horse outside their city gate… [+6585 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_c840454d9fa6",
+      "title": "Ripple prepares XRP Ledger for quantum computing risks ahead of Q-Day",
+      "content": "Ripple's proactive quantum-proofing of XRP Ledger highlights the urgent need for blockchain networks to adapt to emerging quantum threats.\nThe post Ripple prepares XRP Ledger for quantum computing risks ahead of Q-Day appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/ripple-xrp-ledger-quantum-computing-readiness/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-08-29T02:35:23Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Ripple prepares XRP Ledger for quantum computing risks ahead of Q-Day",
+        "description": "Ripple's proactive quantum-proofing of XRP Ledger highlights the urgent need for blockchain networks to adapt to emerging quantum threats.\nThe post Ripple prepares XRP Ledger for quantum computing risks ahead of Q-Day appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/ripple-xrp-ledger-quantum-computing-readiness/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/28223518/library-ripple-prepares-xrp-ledger-for-quantum-computing-risks-a-800x450.png",
+        "publishedAt": "2026-08-29T02:35:23Z",
+        "content": "A four-phase roadmap targets full quantum readiness by 2028, with emergency migration plans already in place if threats arrive sooner Ripple has laid out a detailed four-phase plan to make the XRP Le… [+3683 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody audit",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Ripple为量子计算风险做准备。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到区块链技术发展",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注量子计算对行业的潜在影响。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "title": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
+      "description": "The affected tokens make up about 4% of FOGO's genesis supply and were worth about $3 million at the time of the incident.",
+      "url": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-08-29T21:16:51",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Fogo区块链因攻击暂停主网，影响其代币供应。",
+      "business_relevance": 0.5,
+      "relevance_reason": "一般加密货币新闻",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场安全性和竞争动态。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "Former White House teleprompter operator ordered to pay $172,000 for Kalshi trades on mention markets",
+      "description": "The fine marks the CFTC's second insider trading case against a federal employee trading event contracts and its second related settlement in four weeks.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-29-former-white-house-teleprompter-operator-ordered-to-pay-172000-for-kalshi-trades-on-mention-markets-413058",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-08-29T13:58:02",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "前白宫操作员因内幕交易被罚款172,000美元。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到监管和交易动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，评估影响。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Circle Launches Native USDC and EURC on Stablecoin-Focused Layer-1 Blockchain Plasma - finance.biggo.com",
+      "description": "Circle Launches Native USDC and EURC on Stablecoin-Focused Layer-1 Blockchain Plasma&nbsp;&nbsp;finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9icVFaS25yZHAtalF6eEEtQ0daUVFIOXJFRXNKMG9NQVFFRjlJRTJjM3d2SmFyMXdaOTh0T1lKWGoyNkY0QWhqc1hRZExVX293SUhUSENVUUpvMlpySzdIOHdEcm9ibEs4ZUZNNlRkVHVKeGxFbWc?oc=5",
+      "source": "Google News (USDC enterprise)",
+      "source_category": "google_news",
+      "published_at": "2026-08-29T10:55:00",
+      "data_type": "rss",
+      "search_keyword": "USDC enterprise",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Circle"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Circle在稳定币领域推出新产品。",
+      "business_relevance": 0.8,
+      "relevance_reason": "涉及稳定币业务",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注新兴稳定币的市场动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Stablecoins not credible for payments at scale, BIS chief says - Cryptonews.net",
+      "description": "Stablecoins not credible for payments at scale, BIS chief says&nbsp;&nbsp;Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41eHpvNm9IWHo5NmxkOEZIWEdrbEpabHVXUVpVcHVuMGdiUUVzUnc2Yk5sNHNXZE04WXoyWUJBNzJVUDdqbVVYYXBmb3Ytb2k0YkZSOU9XMkM?oc=5",
+      "source": "Google News (stablecoin regulation Hong Kong)",
+      "source_category": "google_news",
+      "published_at": "2026-08-29T13:58:40",
+      "data_type": "rss",
+      "search_keyword": "stablecoin regulation Hong Kong",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "BIS首席表示稳定币在大规模支付中不可信。",
+      "business_relevance": 0.8,
+      "relevance_reason": "提到稳定币支付的可信度",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币支付的监管动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Hong Kong Regulators Sound Alarm on Unlicensed Cryptocurrency Operators - OneSafe",
+      "description": "Hong Kong Regulators Sound Alarm on Unlicensed Cryptocurrency Operators&nbsp;&nbsp;OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWkRIeXpaYm02VlljRHRnRTY5V2FwQ3JrNXBTWUN6OWRUZFYtaXg5WDNUTEl2MWtibmwtZXZiSXVROXRVV2E1ZzNqLS0zZVd1Ul9EZW1TQzVWRkhHWG8yR0NJS0VjRlBVNm5aZTdHSUtsZkgyRkFrbjJRbS1XeUc4Wg?oc=5",
+      "source": "Google News (stablecoin regulation Hong Kong)",
+      "source_category": "google_news",
+      "published_at": "2026-08-29T11:02:10",
+      "data_type": "rss",
+      "search_keyword": "stablecoin regulation Hong Kong",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "香港监管机构对无牌加密货币运营商发出警告。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注香港的监管动态，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "SEC Custody Rule Enters Final Review. Combined With Four Other Regulatory Tracks, the Institutional Stack Is Nearly Complete. - forkast.news",
+      "description": "SEC Custody Rule Enters Final Review. Combined With Four Other Regulatory Tracks, the Institutional Stack Is Nearly Complete.&nbsp;&nbsp;forkast.news",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUzVGN2JhWGF0ME0zRmdTM1podHQtWWRKWjZHd2phMGFILTFQaUhmNGo1RDJsMmV1LWpjckh5SHBTQWE1NHpkY05VOTJ2N0xLVmp2V25JLXNUcG00bDlFd1M4a3VuS2xzcC1DSnRKck1uY3IwNG9tZmNzOUszX3JGQlZYX0RmMDRwWkQxRVoteTctQ2RheHN3QnAzMVp3Q0FlSDZQVWxxMkZ1bmw5akEyWXpma25yVUc2U19TSjZVZzdlclpFbTRzUUJxek14UF9WZjRYOGQ3ZUU0dFkx?oc=5",
+      "source": "Google News (crypto custody institution)",
+      "source_category": "google_news",
+      "published_at": "2026-08-29T20:16:21",
+      "data_type": "rss",
+      "search_keyword": "crypto custody institution",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "SEC托管规则进入最终审查阶段，影响行业发展。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，调整合规策略。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    }
+  ],
+  "company": [
+    {
+      "id": "news_ea63290929be",
+      "title": "iTrustCapital vs Bitcoin IRA",
+      "content": "iTrustCapital and BitcoinIRA are two prominent platforms for holding cryptocurrency inside a self-directed retirement account. Both let eligible US investors transfer or roll over retirement funds, buy supported digital assets, and trade within a tax-advantag…",
+      "url": "https://themattwalshblog.com/itrustcapital-vs-bitcoin-ira/",
+      "source": "Themattwalshblog.com",
+      "source_type": "news",
+      "author": "Matt Walsh",
+      "published_at": "2026-08-29T05:08:41Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Themattwalshblog.com"
+        },
+        "author": "Matt Walsh",
+        "title": "iTrustCapital vs Bitcoin IRA",
+        "description": "iTrustCapital and BitcoinIRA are two prominent platforms for holding cryptocurrency inside a self-directed retirement account. Both let eligible US investors transfer or roll over retirement funds, buy supported digital assets, and trade within a tax-advantag…",
+        "url": "https://themattwalshblog.com/itrustcapital-vs-bitcoin-ira/",
+        "urlToImage": "https://themattwalshblog.com/wp-content/uploads/2026/08/iTrustCapital-vs-Bitcoin-IRA.png",
+        "publishedAt": "2026-08-29T05:08:41Z",
+        "content": "iTrustCapital and BitcoinIRA are two prominent platforms for holding cryptocurrency inside a self-directed retirement account. Both let eligible US investors transfer or roll over retirement funds, b… [+31445 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "Fireblocks",
+        "source_quality": "medium"
+      },
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "iTrustCapital",
+        "Bitcoin IRA"
+      ],
+      "importance_score": 7,
+      "ai_summary": "iTrustCapital与Bitcoin IRA的竞争动态分析。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币IRA竞争",
+      "threat_level": "medium",
+      "impact_areas": [
+        "产品竞争",
+        "客户争夺",
+        "市场定价"
+      ],
+      "suggested_action": "关注竞争对手的产品和服务变化。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "id": "news_a4b6e4256934",
+      "title": "BitGo Pays Up to $57.5M for NYDIG’s Trading Business, but the Real Asset Is 250 Institutional Clients",
+      "content": "BitGo Holdings (NYSE: BTGO) is paying up to $57.5 million to acquire NYDIG’s institutional trading business, but the real value of the deal lies in the 250 institutional client relationships that come with the package. While the headline figure includes a $15…",
+      "url": "https://forkast.news/bitgo-pays-up-to-57-5m-for-nydigs-trading-business-but-the-real-asset-is-250-institutional-clients/",
+      "source": "Forkast.news",
+      "source_type": "news",
+      "author": "Nolan Pratt",
+      "published_at": "2026-08-29T07:00:21Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Forkast.news"
+        },
+        "author": "Nolan Pratt",
+        "title": "BitGo Pays Up to $57.5M for NYDIG’s Trading Business, but the Real Asset Is 250 Institutional Clients",
+        "description": "BitGo Holdings (NYSE: BTGO) is paying up to $57.5 million to acquire NYDIG’s institutional trading business, but the real value of the deal lies in the 250 institutional client relationships that come with the package. While the headline figure includes a $15…",
+        "url": "https://forkast.news/bitgo-pays-up-to-57-5m-for-nydigs-trading-business-but-the-real-asset-is-250-institutional-clients/",
+        "urlToImage": "https://forkast.news/wp-content/uploads/2026/08/bitgo-nydig-trading-acquisition-hero-1024x687.jpg",
+        "publishedAt": "2026-08-29T07:00:21Z",
+        "content": "BitGo Holdings (NYSE: BTGO) is paying up to $57.5 million to acquire NYDIGs institutional trading business, but the real value of the deal lies in the 250 institutional client relationships that come… [+4405 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "BitGo",
+        "source_quality": "medium"
+      },
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "BitGo",
+        "NYDIG"
+      ],
+      "importance_score": 7,
+      "ai_summary": "BitGo收购NYDIG交易业务，重点在客户群体上。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及竞争对手动态",
+      "threat_level": "medium",
+      "impact_areas": [
+        "客户争夺",
+        "市场定价"
+      ],
+      "suggested_action": "关注BitGo的客户动态，评估竞争策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    }
+  ],
+  "funding": []
+}
