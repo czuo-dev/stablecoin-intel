@@ -1,0 +1,1370 @@
+{
+  "policy": [
+    {
+      "id": "news_ff3de2051468",
+      "title": "De-hyphenate thy neighbour",
+      "content": "India is caught in a trap of its own making. While the BJP may find it convenient to play on insecurities, it gives Pakistan and Bangladesh leverage in our politics",
+      "url": "https://www.business-standard.com/opinion/columns/de-hyphenate-thy-neighbour-126091801491_1.html",
+      "source": "Business Standard",
+      "source_type": "news",
+      "author": "Shekhar Gupta",
+      "published_at": "2026-09-19T04:00:43Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Business Standard"
+        },
+        "author": "Shekhar Gupta",
+        "title": "De-hyphenate thy neighbour",
+        "description": "India is caught in a trap of its own making. While the BJP may find it convenient to play on insecurities, it gives Pakistan and Bangladesh leverage in our politics",
+        "url": "https://www.business-standard.com/opinion/columns/de-hyphenate-thy-neighbour-126091801491_1.html",
+        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-09/27/thumb/fitandfill/1200X628/1727425527-8391.jpg",
+        "publishedAt": "2026-09-19T04:00:43Z",
+        "content": "(Photo: Shutterstock)\r\nShekhar Gupta7 min read Last Updated : Sep 19 2026 | 9:30 AM IST\r\nCompared to about two years ago, Indias immediate neighbourhood now looks more fraught. \r\nThe important outcom… [+8129 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "Vantage",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "文章讨论了加密货币监管的相关问题。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，调整合规策略",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_5c65be8e379e",
+      "title": "US OCC grants conditional banking license approval to Bastion",
+      "content": "Bastion's federal charter approval signifies a regulatory shift, streamlining operations for digital asset firms and enhancing stablecoin infrastructure.\nThe post US OCC grants conditional banking license approval to Bastion appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/occ-bastion-national-trust-bank-charter/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-09-19T03:32:52Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "US OCC grants conditional banking license approval to Bastion",
+        "description": "Bastion's federal charter approval signifies a regulatory shift, streamlining operations for digital asset firms and enhancing stablecoin infrastructure.\nThe post US OCC grants conditional banking license approval to Bastion appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/occ-bastion-national-trust-bank-charter/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/18233248/library-us-occ-grants-conditional-banking-license-approval-to-ba-800x450.png",
+        "publishedAt": "2026-09-19T03:32:52Z",
+        "content": "The stablecoin infrastructure firm becomes one of a select few crypto-focused companies to receive a national trust bank charter from federal regulators. The Office of the Comptroller of the Currency… [+2775 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "OCC向Bastion授予有条件银行牌照，影响加密监管环境。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，评估对业务的潜在影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_735413c8ce8c",
+      "title": "Circle CPTO Nikhil Chandhok explains why Arc won’t roll back USDC thefts",
+      "content": "Circle's stance on immutability in Arc highlights the trade-off between security and trust, impacting user confidence in blockchain systems.\nThe post Circle CPTO Nikhil Chandhok explains why Arc won’t roll back USDC thefts appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/circle-cpto-arc-immutability-usdc-theft/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-09-19T00:05:42Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Circle CPTO Nikhil Chandhok explains why Arc won’t roll back USDC thefts",
+        "description": "Circle's stance on immutability in Arc highlights the trade-off between security and trust, impacting user confidence in blockchain systems.\nThe post Circle CPTO Nikhil Chandhok explains why Arc won’t roll back USDC thefts appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/circle-cpto-arc-immutability-usdc-theft/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
+        "publishedAt": "2026-09-19T00:05:42Z",
+        "content": "Arc's immutability is a feature, not a bug, even when it means stolen funds stay stolen Circle launched its Arc mainnet on September 16, 2026, and the first hard question arrived almost immediately: … [+3478 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Circle"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Circle解释为何不回滚USDC盗窃事件。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币USDC盗窃事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币安全性和监管动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_a78f5f83b20b",
+      "title": "Binance lists new TradFi perpetual futures contracts for seven stocks including Hut 8 and AMC",
+      "content": "Binance's move to offer perpetual futures on US equities highlights the growing convergence of crypto and traditional finance, enhancing market fluidity.\nThe post Binance lists new TradFi perpetual futures contracts for seven stocks including Hut 8 and AMC ap…",
+      "url": "https://cryptobriefing.com/binance-tradfi-perpetual-futures-stocks/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-09-19T03:04:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Binance lists new TradFi perpetual futures contracts for seven stocks including Hut 8 and AMC",
+        "description": "Binance's move to offer perpetual futures on US equities highlights the growing convergence of crypto and traditional finance, enhancing market fluidity.\nThe post Binance lists new TradFi perpetual futures contracts for seven stocks including Hut 8 and AMC ap…",
+        "url": "https://cryptobriefing.com/binance-tradfi-perpetual-futures-stocks/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/18230356/library-binance-lists-new-tradfi-perpetual-futures-contracts-for-800x450.png",
+        "publishedAt": "2026-09-19T03:04:00Z",
+        "content": "The exchange continues blurring the line between crypto and equities with USDT-margined stock contracts offering 20x leverage around the clock Binance Futures rolled out seven new USDT-margined perpe… [+2649 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance",
+        "Hut 8",
+        "AMC"
+      ],
+      "importance_score": 5,
+      "ai_summary": "Binance上线新股票永续合约，影响市场动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_94ecb1178a73",
+      "title": "Circle stock leads tokenized equity market with $306M in deployments",
+      "content": "Circle's dominance in tokenized equities highlights the rapid evolution of digital asset markets, driven by regulatory frameworks and investor interest.\nThe post Circle stock leads tokenized equity market with $306M in deployments appeared first on Crypto Bri…",
+      "url": "https://cryptobriefing.com/circle-stock-leads-tokenized-equity-market/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-09-19T01:03:38Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Circle stock leads tokenized equity market with $306M in deployments",
+        "description": "Circle's dominance in tokenized equities highlights the rapid evolution of digital asset markets, driven by regulatory frameworks and investor interest.\nThe post Circle stock leads tokenized equity market with $306M in deployments appeared first on Crypto Bri…",
+        "url": "https://cryptobriefing.com/circle-stock-leads-tokenized-equity-market/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/18210331/library-circle-stock-leads-tokenized-equity-market-with-306m-in--800x450.png",
+        "publishedAt": "2026-09-19T01:03:38Z",
+        "content": "Tokenized versions of Circle's shares have reached $305.5M across blockchain platforms as the broader tokenized equities market hits a $3.1B all-time high Circle Internet Group went public on the New… [+3126 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Circle"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Circle在代币化股权市场中表现突出。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到代币化股权市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注代币化市场动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_47c5a9451fbf",
+      "title": "The Code is the Credit: S&P Global’s Acquisition of OpenZeppelin",
+      "content": "In a move that signals the final maturation of digital asset infrastructure, S&P Global announced on September 17, 2026, its acquisition of OpenZeppelin. This is not merely a corporate consolidation; it is the formal emergence of a 'credit rating for code'—a …",
+      "url": "https://forkast.news/the-code-is-the-credit-sp-globals-acquisition-of-openzeppelin/",
+      "source": "Forkast.news",
+      "source_type": "news",
+      "author": "Nolan Pratt",
+      "published_at": "2026-09-19T01:37:45Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Forkast.news"
+        },
+        "author": "Nolan Pratt",
+        "title": "The Code is the Credit: S&P Global’s Acquisition of OpenZeppelin",
+        "description": "In a move that signals the final maturation of digital asset infrastructure, S&P Global announced on September 17, 2026, its acquisition of OpenZeppelin. This is not merely a corporate consolidation; it is the formal emergence of a 'credit rating for code'—a …",
+        "url": "https://forkast.news/the-code-is-the-credit-sp-globals-acquisition-of-openzeppelin/",
+        "urlToImage": "https://forkast.news/wp-content/uploads/2026/09/spg-openzeppelin-acquisition-hero-1024x572.jpg",
+        "publishedAt": "2026-09-19T01:37:45Z",
+        "content": "Analysis\r\nIn a move that signals the final maturation of digital asset infrastructure, S&amp;P Global announced on September 17, 2026, its acquisition of OpenZeppelin. This is not merely a corporate … [+6149 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "S&P Global",
+        "OpenZeppelin"
+      ],
+      "importance_score": 7,
+      "ai_summary": "S&P Global收购OpenZeppelin，影响区块链行业发展。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注区块链技术进展，评估潜在影响。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_e748d39ef7b8",
+      "title": "Stanford study reveals retail traders face high fees in crypto boom",
+      "content": "Retail traders' high fees in crypto markets highlight a systemic wealth transfer to experienced traders, potentially widening financial inequality.\nThe post Stanford study reveals retail traders face high fees in crypto boom appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/stanford-study-retail-crypto-trading-fees/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-09-19T00:23:21Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Stanford study reveals retail traders face high fees in crypto boom",
+        "description": "Retail traders' high fees in crypto markets highlight a systemic wealth transfer to experienced traders, potentially widening financial inequality.\nThe post Stanford study reveals retail traders face high fees in crypto boom appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/stanford-study-retail-crypto-trading-fees/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/18202317/library-stanford-study-reveals-retail-traders-face-high-fees-in--800x450.png",
+        "publishedAt": "2026-09-19T00:23:21Z",
+        "content": "New research from Stanford and Columbia finds that individual traders systematically end up on the expensive side of the order book when trading perpetual futures on platforms like Hyperliquid. The c… [+3172 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "研究表明零售交易者在加密货币中面临高费用。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币费用",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注费用对市场参与者的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_315336965712",
+      "title": "Bitcoin ETFs see $433M in inflows as Ethereum ETFs add $144M in single-day surge",
+      "content": "The surge in Bitcoin and Ethereum ETF inflows highlights growing institutional interest, potentially stabilizing and legitimizing the crypto market.\nThe post Bitcoin ETFs see $433M in inflows as Ethereum ETFs add $144M in single-day surge appeared first on Cr…",
+      "url": "https://cryptobriefing.com/bitcoin-ethereum-etf-inflows-september-18/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-09-19T04:19:05Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Bitcoin ETFs see $433M in inflows as Ethereum ETFs add $144M in single-day surge",
+        "description": "The surge in Bitcoin and Ethereum ETF inflows highlights growing institutional interest, potentially stabilizing and legitimizing the crypto market.\nThe post Bitcoin ETFs see $433M in inflows as Ethereum ETFs add $144M in single-day surge appeared first on Cr…",
+        "url": "https://cryptobriefing.com/bitcoin-ethereum-etf-inflows-september-18/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/19001901/library-bitcoin-etfs-see-433m-in-inflows-as-ethereum-etfs-add-14-800x450.png",
+        "publishedAt": "2026-09-19T04:19:05Z",
+        "content": "Fidelity and BlackRock dominated the session, with combined inflows signaling renewed institutional appetite for crypto exposure. US spot Bitcoin ETFs pulled in $433 million in net inflows on Septemb… [+2229 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "比特币和以太坊ETF吸引大量资金流入。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及比特币和以太坊ETF",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注ETF市场动态，评估影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_36416b52ad6a",
+      "title": "Is Solana a Good Investment Right Now? It Reclaimed $100 After Losing It on the Vote",
+      "content": "The post Is Solana a Good Investment Right Now? It Reclaimed $100 After Losing It on the Vote. appeared first on 24/7 Wall St..\nOn September 13, 2026, Solana (CRYPTO:SOL) closed below $100 at $99.26, following a Senate vote on the crypto market structure bill…",
+      "url": "https://biztoc.com/x/77dee84c11648665",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "247wallst.com",
+      "published_at": "2026-09-19T00:08:58Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "247wallst.com",
+        "title": "Is Solana a Good Investment Right Now? It Reclaimed $100 After Losing It on the Vote",
+        "description": "The post Is Solana a Good Investment Right Now? It Reclaimed $100 After Losing It on the Vote. appeared first on 24/7 Wall St..\nOn September 13, 2026, Solana (CRYPTO:SOL) closed below $100 at $99.26, following a Senate vote on the crypto market structure bill…",
+        "url": "https://biztoc.com/x/77dee84c11648665",
+        "urlToImage": "https://biztoc.com/cdn/77dee84c11648665_s.webp",
+        "publishedAt": "2026-09-19T00:08:58Z",
+        "content": "The post Is Solana a Good Investment Right Now? It Reclaimed $100 After Losing It on the Vote. appeared first on 24/7 Wall St..On September 13, 2026, Solana (CRYPTO:SOL) closed below $100 at $99.26, … [+146 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Solana的投资价值被讨论。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币投资",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_5757f6fce213",
+      "title": "Clearpool Finance to expand institutional credit on XRP Ledger",
+      "content": "Clearpool's integration with XRP Ledger could boost institutional adoption, enhancing XRP's utility and potentially influencing its market value.\nThe post Clearpool Finance to expand institutional credit on XRP Ledger appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/clearpool-finance-to-expand-institutional-credit-on-xrp-ledger/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-09-19T03:24:49Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Clearpool Finance to expand institutional credit on XRP Ledger",
+        "description": "Clearpool's integration with XRP Ledger could boost institutional adoption, enhancing XRP's utility and potentially influencing its market value.\nThe post Clearpool Finance to expand institutional credit on XRP Ledger appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/clearpool-finance-to-expand-institutional-credit-on-xrp-ledger/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/18232448/library-clearpool-finance-to-expand-institutional-credit-on-xrp--1-800x450.png",
+        "publishedAt": "2026-09-19T03:24:49Z",
+        "content": "Clearpool Finance is expanding its institutional credit infrastructure by leveraging the XRP Ledger, as announced on social media. This initiative aims to enhance the XRP Ledger’s capabilities beyond… [+1392 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Clearpool Finance将在XRP Ledger上扩展机构信贷。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注XRP Ledger的技术进展。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_5e8bfcd27188",
+      "title": "BlackRock clients buy $108M worth of Bitcoin through IBIT as institutional demand holds firm",
+      "content": "Institutional adoption of Bitcoin via BlackRock's IBIT signals a shift towards mainstream acceptance, potentially stabilizing the cryptocurrency market.\nThe post BlackRock clients buy $108M worth of Bitcoin through IBIT as institutional demand holds firm appe…",
+      "url": "https://cryptobriefing.com/blackrock-clients-buy-108m-bitcoin-ibit/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-09-19T07:07:56Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "BlackRock clients buy $108M worth of Bitcoin through IBIT as institutional demand holds firm",
+        "description": "Institutional adoption of Bitcoin via BlackRock's IBIT signals a shift towards mainstream acceptance, potentially stabilizing the cryptocurrency market.\nThe post BlackRock clients buy $108M worth of Bitcoin through IBIT as institutional demand holds firm appe…",
+        "url": "https://cryptobriefing.com/blackrock-clients-buy-108m-bitcoin-ibit/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/19030752/library-blackrock-clients-buy-108m-worth-of-bitcoin-through-ibit-800x450.png",
+        "publishedAt": "2026-09-19T07:07:56Z",
+        "content": "BlackRock's spot Bitcoin ETF continues pulling in nine-figure daily inflows, cementing its dominance over the US crypto ETF market BlackRock clients purchased $108.44 million worth of Bitcoin in a si… [+2465 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "机构对比特币的需求依然强劲。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到比特币机构需求",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注机构投资动态，调整市场策略。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_305fb597f408",
+      "title": "FBI Director Defends Surveillance Partnerships at Senate Judiciary Hearing",
+      "content": "FBI Director Kash Patel testified before the Senate Judiciary Committee on Sept. 15, 2026, defending the bureau’s access to license plate reader data and its expanding partnerships with private technology companies. The hearing, which lasted several hours, ex…",
+      "url": "https://www.naturalnews.com/2026-09-19-fbi-director-defends-surveillance-partnerships-senate-hearing.html",
+      "source": "Naturalnews.com",
+      "source_type": "news",
+      "author": "Edison Reed",
+      "published_at": "2026-09-19T06:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Naturalnews.com"
+        },
+        "author": "Edison Reed",
+        "title": "FBI Director Defends Surveillance Partnerships at Senate Judiciary Hearing",
+        "description": "FBI Director Kash Patel testified before the Senate Judiciary Committee on Sept. 15, 2026, defending the bureau’s access to license plate reader data and its expanding partnerships with private technology companies. The hearing, which lasted several hours, ex…",
+        "url": "https://www.naturalnews.com/2026-09-19-fbi-director-defends-surveillance-partnerships-senate-hearing.html",
+        "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/fisa-section-702-license-plate-readers-fbi-surveillance-4211-original.jpg",
+        "publishedAt": "2026-09-19T06:00:00Z",
+        "content": "FBI Director Kash Patel testified before the Senate Judiciary Committee on Sept. 15, 2026, defending the bureau's access to license plate reader data and its expanding partnerships with private techn… [+9929 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "FBI局长在参议院听证会上辩护监控合作关系。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化对业务的影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_b484f286e89c",
+      "title": "7 Star Trek Character Deaths We’ll Never Get Over, Including One That Came Back",
+      "content": "IMAGE COURTESY OF PARAMOUNT\n\nStar Trek has been telling us the future is going to be fine since 1966, and it has spent that entire time quietly proving that fine does not mean safe. The franchise has killed hundreds of people. Most of them wore red and lasted…",
+      "url": "http://comicbook.com/tv-shows/list/7-star-trek-character-deaths-well-never-get-over-including-one-that-came-back/",
+      "source": "ComicBook.com",
+      "source_type": "news",
+      "author": "Jay Payton",
+      "published_at": "2026-09-19T01:59:25Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "ComicBook.com"
+        },
+        "author": "Jay Payton",
+        "title": "7 Star Trek Character Deaths We’ll Never Get Over, Including One That Came Back",
+        "description": "IMAGE COURTESY OF PARAMOUNT\n\nStar Trek has been telling us the future is going to be fine since 1966, and it has spent that entire time quietly proving that fine does not mean safe. The franchise has killed hundreds of people. Most of them wore red and lasted…",
+        "url": "http://comicbook.com/tv-shows/list/7-star-trek-character-deaths-well-never-get-over-including-one-that-came-back/",
+        "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2026/09/Star-Trek-The-Original-Series-Total-Millions-Viewing-Years-Hours.jpeg?w=2000",
+        "publishedAt": "2026-09-19T01:59:25Z",
+        "content": "Star Trek has been telling us the future is going to be fine since 1966, and it has spent that entire time quietly proving that fine does not mean safe. The franchise has killed hundreds of people. M… [+8570 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series B",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_4082a5e095e8",
+      "title": "NASCAR Results Tonight: Food City 300 Winner, O’Reilly Series Results at Bristol",
+      "content": "Who won the NASCAR race tonight? Friday night’s NASCAR ‘Reilly Auto Parts Series race at Bristol Motor Speedway marked the […]",
+      "url": "https://sportsnaut.com/nascar/nascar-results-tonight-food-city-300-results-oreilly-series-bristol",
+      "source": "Sportsnaut",
+      "source_type": "news",
+      "author": "Matt Johnson",
+      "published_at": "2026-09-19T01:47:35Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Sportsnaut"
+        },
+        "author": "Matt Johnson",
+        "title": "NASCAR Results Tonight: Food City 300 Winner, O’Reilly Series Results at Bristol",
+        "description": "Who won the NASCAR race tonight? Friday night’s NASCAR ‘Reilly Auto Parts Series race at Bristol Motor Speedway marked the […]",
+        "url": "https://sportsnaut.com/nascar/nascar-results-tonight-food-city-300-results-oreilly-series-bristol",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/be212a6cd5585123245a1e3840c3b8a0688476ca74ecfbb4403a1aa13a1404a0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsportsnaut_articles_397%2F3711dbfac15e380d7af11888b0da28b8.jpg",
+        "publishedAt": "2026-09-19T01:47:35Z",
+        "content": "Who won the NASCAR race tonight? Friday night's NASCAR 'Reilly Auto Parts Series race at Bristol Motor Speedway marked the third race in the chase. The Food City 300 under the lights at Bristol prove… [+4921 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series C",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_d883d6159989",
+      "title": "EU-Canada: Marriage of convenience or red rag to Trump?",
+      "content": "Ursula von der Leyen's startling offer for Canada to become \"the first associate member\" of the EU during Wednesday's State of the Union speech took many by surprise, not least the member states whose approval would be required for such an outcome.",
+      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0919/1592110-canada-analysis/",
+      "source": "RTE",
+      "source_type": "news",
+      "author": "Tony Connelly",
+      "published_at": "2026-09-19T06:00:02Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "rte",
+          "name": "RTE"
+        },
+        "author": "Tony Connelly",
+        "title": "EU-Canada: Marriage of convenience or red rag to Trump?",
+        "description": "Ursula von der Leyen's startling offer for Canada to become \"the first associate member\" of the EU during Wednesday's State of the Union speech took many by surprise, not least the member states whose approval would be required for such an outcome.",
+        "url": "https://www.rte.ie/news/analysis-and-comment/2026/0919/1592110-canada-analysis/",
+        "urlToImage": "https://www.rte.ie/images/0024ea5a-1600.jpg",
+        "publishedAt": "2026-09-19T06:00:02Z",
+        "content": "Ursula von der Leyen's startling offer for Canada to become \"the first associate member\" of the EU during Wednesdays State of the Union speech took many by surprise, not least the member states whose… [+17769 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series C",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "欧盟与加拿大的关系可能影响加密监管政策。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注欧盟与加拿大的监管动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_ea339b8afe1e",
+      "title": "Flock Offers Employees Buyouts as Customers Flee",
+      "content": "As dozens of cities end contracts for its controversial license plate readers, Flock is rolling out a voluntary severance program, WIRED has learned.",
+      "url": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
+      "source": "Wired",
+      "source_type": "news",
+      "author": "Paresh Dave, Dhruv Mehrotra",
+      "published_at": "2026-09-19T02:22:54Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Paresh Dave, Dhruv Mehrotra",
+        "title": "Flock Offers Employees Buyouts as Customers Flee",
+        "description": "As dozens of cities end contracts for its controversial license plate readers, Flock is rolling out a voluntary severance program, WIRED has learned.",
+        "url": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
+        "urlToImage": "https://media.wired.com/photos/6aade6510dbdc43ec89970ee/191:100/w_1280,c_limit/2265184841",
+        "publishedAt": "2026-09-19T02:22:54Z",
+        "content": "Flock Safety announced a voluntary employee separation program on Friday, offering a generous severance package to those who want to leave amid growing backlash against the surveillance technology co… [+3369 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding funding round",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Flock因客户流失而提供员工买断方案。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及客户流失",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注客户流失对市场的影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_31a3a137aaf2",
+      "title": "Obi vs Soludo: Deconstructing the Anambra debt claims – Revisionist history",
+      "content": "If you remember, when Obi completed payment, former Governor Chimaroke Mbadinuju cried out that he was not paid\nThe post Obi vs Soludo: Deconstructing the Anambra debt claims – Revisionist history appeared first on Vanguard News.",
+      "url": "https://www.vanguardngr.com/2026/09/obi-vs-soludo-deconstructing-the-anambra-debt-claims-revisionist-history/",
+      "source": "Vanguard",
+      "source_type": "news",
+      "author": "Oboh",
+      "published_at": "2026-09-19T06:00:07Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Vanguard"
+        },
+        "author": "Oboh",
+        "title": "Obi vs Soludo: Deconstructing the Anambra debt claims – Revisionist history",
+        "description": "If you remember, when Obi completed payment, former Governor Chimaroke Mbadinuju cried out that he was not paid\nThe post Obi vs Soludo: Deconstructing the Anambra debt claims – Revisionist history appeared first on Vanguard News.",
+        "url": "https://www.vanguardngr.com/2026/09/obi-vs-soludo-deconstructing-the-anambra-debt-claims-revisionist-history/",
+        "urlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/02/Charles-Soludo-and-Peter-Obi.png",
+        "publishedAt": "2026-09-19T06:00:07Z",
+        "content": "Charles Soludo and Peter Obi.By Valentine Obienyem\r\nGov. Charles Soludo promised to release a second part of his essay on Obi. I am surprised many people are not aware that that was what he just rele… [+21850 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding strategic investment",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_df15722bca88",
+      "title": "XRP ETFs hit a speed bump, but big investors aren’t dumping their tokens yet",
+      "content": "A $5.15 million redemption was concentrated in two funds, leaving the next weekly flow pattern to decide whether the pause becomes a broader retreat.\nThe post XRP ETFs hit a speed bump, but big investors aren’t dumping their tokens yet appeared first on Crypt…",
+      "url": "https://cryptoslate.com/xrp-etfs-hit-a-speed-bump-but-big-investors-arent-dumping-their-tokens-yet/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam 'Akiba' Wright",
+      "published_at": "2026-09-19T02:50:47Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam 'Akiba' Wright",
+        "title": "XRP ETFs hit a speed bump, but big investors aren’t dumping their tokens yet",
+        "description": "A $5.15 million redemption was concentrated in two funds, leaving the next weekly flow pattern to decide whether the pause becomes a broader retreat.\nThe post XRP ETFs hit a speed bump, but big investors aren’t dumping their tokens yet appeared first on Crypt…",
+        "url": "https://cryptoslate.com/xrp-etfs-hit-a-speed-bump-but-big-investors-arent-dumping-their-tokens-yet/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/09/xrp-etf-bull-test.webp",
+        "publishedAt": "2026-09-19T02:50:47Z",
+        "content": "A roughly $5.15 million outflow from US spot XRP exchange-traded products on Sept. 17 interrupted a $192 million inflow month. The reversal creates the first clean test of whether recent demand is co… [+5450 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "XRP ETF面临挑战，但大投资者仍持币。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，评估影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_0dafb2153877",
+      "title": "Morgan Stanley’s MSBT ETF buys $52M in Bitcoin, sees no outflows",
+      "content": "Morgan Stanley's MSBT ETF's success highlights growing mainstream acceptance of Bitcoin, potentially influencing broader financial market dynamics.\nThe post Morgan Stanley’s MSBT ETF buys $52M in Bitcoin, sees no outflows appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/morgan-stanley-msbt-etf-bitcoin-accumulation/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-09-19T06:03:47Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Editorial Team",
+        "title": "Morgan Stanley’s MSBT ETF buys $52M in Bitcoin, sees no outflows",
+        "description": "Morgan Stanley's MSBT ETF's success highlights growing mainstream acceptance of Bitcoin, potentially influencing broader financial market dynamics.\nThe post Morgan Stanley’s MSBT ETF buys $52M in Bitcoin, sees no outflows appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/morgan-stanley-msbt-etf-bitcoin-accumulation/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/19020344/library-morgan-stanley-s-msbt-etf-buys-52m-in-bitcoin-sees-no-ou-800x450.png",
+        "publishedAt": "2026-09-19T06:03:47Z",
+        "content": "The bank's spot Bitcoin fund has quietly accumulated over 640 BTC from Coinbase Prime in two weeks, extending a streak of zero net outflow days. Morgan Stanley’s spot Bitcoin ETF has been on a shoppi… [+2404 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "摩根士丹利投资5200万美元比特币，未见资金流出。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到比特币投资动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注比特币市场动态，评估投资机会。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_432ffe65610f",
+      "title": "Agent Infrastructure Gets Its Own Conference: 3,500+ Expected at AGNTCon + MCPCon Under the Linux Foundation",
+      "content": "On October 22-23, 2026, the San Jose McEnery Convention Center will host AGNTCon + MCPCon North America. With over 3,500 attendees and 150 talks, the event marks a shift in the agent economy: the transition from experimental, isolated scripts to a standardize…",
+      "url": "https://forkast.news/agent-infrastructure-gets-its-own-conference-3500-expected-at-agntcon-mcpcon-under-the-linux-foundation/",
+      "source": "Forkast.news",
+      "source_type": "news",
+      "author": "Blair Hayes",
+      "published_at": "2026-09-19T04:18:42Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Forkast.news"
+        },
+        "author": "Blair Hayes",
+        "title": "Agent Infrastructure Gets Its Own Conference: 3,500+ Expected at AGNTCon + MCPCon Under the Linux Foundation",
+        "description": "On October 22-23, 2026, the San Jose McEnery Convention Center will host AGNTCon + MCPCon North America. With over 3,500 attendees and 150 talks, the event marks a shift in the agent economy: the transition from experimental, isolated scripts to a standardize…",
+        "url": "https://forkast.news/agent-infrastructure-gets-its-own-conference-3500-expected-at-agntcon-mcpcon-under-the-linux-foundation/",
+        "urlToImage": "https://forkast.news/wp-content/uploads/2026/09/agntcon-mcpcon-agent-infrastructure-conference-1024x687.jpg",
+        "publishedAt": "2026-09-19T04:18:42Z",
+        "content": "On October 22-23, 2026, the San Jose McEnery Convention Center will host AGNTCon + MCPCon North America. With over 3,500 attendees and 150 talks, the event marks a shift in the agent economy: the tra… [+3869 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional compliance",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "AGNTCon + MCPCon 会议聚焦区块链基础设施",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注区块链基础设施的最新动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
+      "description": "The Clarity Act failed to advance in the Senate, shifting the industry’s focus to a new wave of action from the SEC and CFTC.",
+      "url": "https://decrypt.co/378688/how-clarity-act-defeat-sec-cftc-wheel-crypto",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-09-19T17:01:03",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Clarity法案未通过影响加密监管动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注SEC和CFTC的后续监管措施",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Grayscale Is Making Its Red-Hot Zcash ETF More Affordable",
+      "description": "The Zcash ETF is splitting its shares three ways after pulling in more than $233 million in under a month, as Wall Street piles into crypto's hottest privacy trade.",
+      "url": "https://decrypt.co/378675/grayscale-zcash-etf-more-affordable-split",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-09-19T15:01:03",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Grayscale推出Zcash ETF，吸引市场关注。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币ETF动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注加密ETF市场动态，评估影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Brazil blocks stablecoins from key cross-border payment rail as $1.1 trillion market faces new limits - CryptoSlate",
+      "description": "Brazil blocks stablecoins from key cross-border payment rail as $1.1 trillion market faces new limits&nbsp;&nbsp;CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZktJbjF2VEZtM2JNYk9jZlhfMVY3SGRvUzdBbi1IUmN3WS02MjVsMENNV2xlZmhwWnA1SXJJQnlmQ3FXQ0luakhFcGdtRDNBU1JLc1RCYnVtOWloT3R4QUZmSlNwLVVFRFNmTVdmYXJEWk1MTUhtWjhtbmdvVHFCMEJ4cEZrTV9MemFxeGM3Q3ZLdFZyaEZpRHdJTmt5cEdFUkxmNy1VT2dwNDExLUQtLXhOYlpBdEphY0l6M21TWW0taHM?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-09-19T10:40:55",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "巴西限制稳定币跨境支付，影响市场发展。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注巴西政策变化对市场的影响",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Binance MiCA License: Did Lagarde Personally Block Binance From the EU? - CryptoTicker",
+      "description": "Binance MiCA License: Did Lagarde Personally Block Binance From the EU?&nbsp;&nbsp;CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHhIQzJXa2g3RVJwdVoyV281emNycFcwcmJ5QkkyVGQwTzVxdHlYWS1aMVdFSy1BVzdYZnBvdGtGMUpoOGRjSEQ1TGFyRm0xVndkODlKZDdnRHpHVEcxX0xwVlBFdWx5WERkSmduMGYtdlYtcGRZX2N6MUhvTG13LQ?oc=5",
+      "source": "Google News (stablecoin license)",
+      "source_category": "google_news",
+      "published_at": "2026-09-19T15:02:10",
+      "data_type": "rss",
+      "search_keyword": "stablecoin license",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance在欧盟的监管问题引发关注。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "竞争格局"
+      ],
+      "industry_action": "关注欧盟监管政策变化对市场的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Coinbase Opens Stablecoins to More Banks as Remittix Targets the Future of Global Payments - StreetInsider",
+      "description": "Coinbase Opens Stablecoins to More Banks as Remittix Targets the Future of Global Payments&nbsp;&nbsp;StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSk1IZkp5VlI3MFRXenJXUzN2cS1VMkNEWWk4RmQzcTdFOS1sS0N3VC1zWndMM3RCNkNhaXA1aS1TTkd5QWg1UnNrTk0teVh3eGJWcTE5VFpMZTFwU0o0OUNTcUg2UDhfQW5LWUgyd2ozak1IVUJJaDEyTk5kdTBLSXFxWElyTEs2NWxwTGZKSGhNaVdDM2tDX2FNMUdtWEFUaTJtVHY0R3hDZGFXZElxYmRqUC1rTkRpOUo4WjFRa1cwYmh6WDZ4ZzBIMlVrQTlPZ0xMMVdDREJLcmdnSXpicXNHb1I?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-09-19T16:42:36",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Coinbase",
+        "Remittix"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Coinbase扩大稳定币服务，影响全球支付趋势。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币和支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态，调整策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    }
+  ],
+  "company": [],
+  "funding": [
+    {
+      "id": "news_36416b52ad6a",
+      "title": "Is Solana a Good Investment Right Now? It Reclaimed $100 After Losing It on the Vote",
+      "content": "The post Is Solana a Good Investment Right Now? It Reclaimed $100 After Losing It on the Vote. appeared first on 24/7 Wall St..\nOn September 13, 2026, Solana (CRYPTO:SOL) closed below $100 at $99.26, following a Senate vote on the crypto market structure bill…",
+      "url": "https://biztoc.com/x/77dee84c11648665",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "247wallst.com",
+      "published_at": "2026-09-19T00:08:58Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "247wallst.com",
+        "title": "Is Solana a Good Investment Right Now? It Reclaimed $100 After Losing It on the Vote",
+        "description": "The post Is Solana a Good Investment Right Now? It Reclaimed $100 After Losing It on the Vote. appeared first on 24/7 Wall St..\nOn September 13, 2026, Solana (CRYPTO:SOL) closed below $100 at $99.26, following a Senate vote on the crypto market structure bill…",
+        "url": "https://biztoc.com/x/77dee84c11648665",
+        "urlToImage": "https://biztoc.com/cdn/77dee84c11648665_s.webp",
+        "publishedAt": "2026-09-19T00:08:58Z",
+        "content": "The post Is Solana a Good Investment Right Now? It Reclaimed $100 After Losing It on the Vote. appeared first on 24/7 Wall St..On September 13, 2026, Solana (CRYPTO:SOL) closed below $100 at $99.26, … [+146 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Solana的投资价值被讨论。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币投资",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    }
+  ]
+}
