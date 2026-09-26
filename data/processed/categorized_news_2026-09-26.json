@@ -1,0 +1,1830 @@
+{
+  "policy": [
+    {
+      "id": "news_1521fd476e8c",
+      "title": "The surface addresses the interconnect challenge",
+      "content": "Single-crystalline cobalt monosilicide shows enhanced electrical conductivity with decreasing size at the nanoscale, providing potential as an alternative interconnect to copper.",
+      "url": "https://www.nature.com/articles/s41563-026-02756-7",
+      "source": "Nature.com",
+      "source_type": "news",
+      "author": "Judy J. Cha, Ching-Tzu Chen",
+      "published_at": "2026-09-25T00:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Nature.com"
+        },
+        "author": "Judy J. Cha, Ching-Tzu Chen",
+        "title": "The surface addresses the interconnect challenge",
+        "description": "Single-crystalline cobalt monosilicide shows enhanced electrical conductivity with decreasing size at the nanoscale, providing potential as an alternative interconnect to copper.",
+        "url": "https://www.nature.com/articles/s41563-026-02756-7",
+        "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02756-7/MediaObjects/41563_2026_2756_Fig1_HTML.png",
+        "publishedAt": "2026-09-25T00:00:00Z",
+        "content": "<li>Chen, J. et al. Nat. Mater.https://doi.org/10.1038/s41563-026-02740-1 (2026).\r\nArticle \r\n PubMed \r\n PubMed Central \r\nGoogle Scholar \r\n</li><li>Stishov, S. M., Petrova, A. E., Sidorov, V. A. &amp;… [+1411 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "Copper",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "讨论区块链互联挑战的新闻",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注区块链基础设施的进展",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_eca78eb200fa",
+      "title": "When Everything Becomes a National Security Threat",
+      "content": "“The word ‘security’ is a broad, vague generality whose contours should not be invoked to abrogate the fundamental law embodied in the First Amendment.” ~ Justice Hugo Black, New York Times Co. v. United States (1971) “National security” has become the govern…",
+      "url": "https://original.antiwar.com/jwhitehead/2026/09/24/when-everything-becomes-a-national-security-threat/",
+      "source": "Antiwar.com",
+      "source_type": "news",
+      "author": "John W. Whitehead",
+      "published_at": "2026-09-25T00:00:46Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Antiwar.com"
+        },
+        "author": "John W. Whitehead",
+        "title": "When Everything Becomes a National Security Threat",
+        "description": "“The word ‘security’ is a broad, vague generality whose contours should not be invoked to abrogate the fundamental law embodied in the First Amendment.” ~ Justice Hugo Black, New York Times Co. v. United States (1971) “National security” has become the govern…",
+        "url": "https://original.antiwar.com/jwhitehead/2026/09/24/when-everything-becomes-a-national-security-threat/",
+        "urlToImage": "https://dyn3qbr4ue2vr.cloudfront.net/2026/09/National_Security_Power_Grabs-500x375-1.png",
+        "publishedAt": "2026-09-25T00:00:46Z",
+        "content": "The word security is a broad, vague generality whose contours should not be invoked to abrogate the fundamental law embodied in the First Amendment. ~ Justice Hugo Black,New York Times Co. v. United … [+16339 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "Copper",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "国家安全威胁可能影响加密监管政策。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及国家安全与加密监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注国家安全政策对加密行业的影响",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_7239244a7ddb",
+      "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
+      "content": "Block joins Google, Microsoft, AWS and Coinbase in backing x402, an open payment standard enabling agentic AI commerce.",
+      "url": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Felix Ng",
+      "published_at": "2026-09-25T02:00:54Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Felix Ng",
+        "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
+        "description": "Block joins Google, Microsoft, AWS and Coinbase in backing x402, an open payment standard enabling agentic AI commerce.",
+        "url": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3B48T548CSVVXASEFTG2EBS/hi-how-to-develop-an-ai-agent-for-crypto-trading-1.jpg",
+        "publishedAt": "2026-09-25T02:00:54Z",
+        "content": "Block has joined the x402 Foundation and added Bitcoin Lightning support to the payment protocol as the company expands its push into payments for AI agents.\r\nBlock on Thursday said Lightning is suit… [+926 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Block 将比特币闪电支付引入 AI 代理。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及支付技术",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "关注闪电网络对支付行业的影响。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_6e1270239331",
+      "title": "Fed Proposes Stablecoin Reserve and Capital Rules Under GENIUS Act",
+      "content": "The Federal Reserve Board is requesting public comment on two proposals related to establishing a regulatory framework for the payment stablecoin issuers it supervises under the GENIUS Act, it said in a Thursday (Sept. 24) press release.\nThe agency released t…",
+      "url": "https://biztoc.com/x/141df2829044a477",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "pymnts.com",
+      "published_at": "2026-09-25T02:08:11Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "pymnts.com",
+        "title": "Fed Proposes Stablecoin Reserve and Capital Rules Under GENIUS Act",
+        "description": "The Federal Reserve Board is requesting public comment on two proposals related to establishing a regulatory framework for the payment stablecoin issuers it supervises under the GENIUS Act, it said in a Thursday (Sept. 24) press release.\nThe agency released t…",
+        "url": "https://biztoc.com/x/141df2829044a477",
+        "urlToImage": "https://biztoc.com/cdn/996/og.png",
+        "publishedAt": "2026-09-25T02:08:11Z",
+        "content": "The Federal Reserve Board is requesting public comment on two proposals related to establishing a regulatory framework for the payment stablecoin issuers it supervises under the GENIUS Act, it said i… [+137 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "美联储提出稳定币储备和资本规则的建议。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币监管政策",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_56ab1eb71e5d",
+      "title": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
+      "content": null,
+      "url": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html",
+      "source": "CNBC",
+      "source_type": "news",
+      "author": "Matthew Tan",
+      "published_at": "2026-09-25T06:13:35Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Matthew Tan",
+        "title": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
+        "description": null,
+        "url": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108367888-1790313743841-gettyimages-2291692307-HK_BITCOIN_ASIA.jpeg?v=1790313786&w=1920&h=1080",
+        "publishedAt": "2026-09-25T06:13:35Z",
+        "content": "Crypto exchange Bitget suspects North Korean hackers may be behind a security breach that affected about $351.6 million in digital assets, citing preliminary evidence from an ongoing investigation.\r\n… [+1968 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_d2fe7312ef67",
+      "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
+      "content": "Bitget CEO Gracy Chen said North Korean hackers may be behind its $351.6 million breach after investigators linked IP addresses to VPN services used by a DPRK group.",
+      "url": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Felix Ng",
+      "published_at": "2026-09-25T00:32:46Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Felix Ng",
+        "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
+        "description": "Bitget CEO Gracy Chen said North Korean hackers may be behind its $351.6 million breach after investigators linked IP addresses to VPN services used by a DPRK group.",
+        "url": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AZF88B8P5GKQ5R22PR2YMN/hack-1.jpg",
+        "publishedAt": "2026-09-25T00:32:46Z",
+        "content": "Bitget CEO Gracy Chen said North Korean hackers may be behind the exchanges $351.6 million security breach on Thursday, citing preliminary findings linking IP addresses to VPN services used by a Nort… [+1695 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Bitget CEO怀疑北朝鲜涉及黑客事件。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币安全事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全事件对市场的潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_c834fd6a697b",
+      "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gray Chen says",
+      "content": "Bitget lost $351.6 million after attackers compromised a wallet backend, spoofed transaction data, Chen said on X.",
+      "url": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
+      "source": "CoinDesk",
+      "source_type": "news",
+      "author": "Omkar Godbole",
+      "published_at": "2026-09-25T04:29:34Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Omkar Godbole",
+        "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gray Chen says",
+        "description": "Bitget lost $351.6 million after attackers compromised a wallet backend, spoofed transaction data, Chen said on X.",
+        "url": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/5bfe909360b8d64ba19fb5105c891f64d14963ab-6042x6042.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+        "publishedAt": "2026-09-25T04:29:34Z",
+        "content": "She described the breach as the digital version of slipping forged withdrawal slips through a banks own teller window. The vault keys never left the building. Someone got into the office that prepare… [+1093 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Bitget"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Bitget遭遇黑客攻击，影响行业安全性",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全技术的发展与应用",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_3ab6995de3a8",
+      "title": "衆議院議員 平将明氏、「Blockchain Summit 2026 Autumn」の基調講演が決定",
+      "content": "[株式会社Pacific Meta]\n[画像1: https://prcdn.freetls.fastly.net/release_image/111379/193/111379-193-c340f8c218887c570b7ab678d7e22dd7-1600x900.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000193.000111379.html",
+      "source": "Prtimes.jp",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-09-25T03:09:20Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Prtimes.jp"
+        },
+        "author": null,
+        "title": "衆議院議員 平将明氏、「Blockchain Summit 2026 Autumn」の基調講演が決定",
+        "description": "[株式会社Pacific Meta]\n[画像1: https://prcdn.freetls.fastly.net/release_image/111379/193/111379-193-c340f8c218887c570b7ab678d7e22dd7-1600x900.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...",
+        "url": "https://prtimes.jp/main/html/rd/p/000000193.000111379.html",
+        "urlToImage": "https://prcdn.freetls.fastly.net/release_image/111379/193/111379-193-c340f8c218887c570b7ab678d7e22dd7-1600x900.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "publishedAt": "2026-09-25T03:09:20Z",
+        "content": "Pacific MetaPacific Meta2026105Blockchain Summit 2026 Autumn \r\nAI \r\n10510:2010:35\r\nBlockchain Summit 2026 Autumn \r\nBlockchain Summit 2026 Autumn\r\nETFAIa16z crypto\r\nKDDI\r\nOptimism\r\nSolana FoundationAp… [+71 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "平将明将在区块链峰会上演讲",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链峰会",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注区块链技术发展动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_e5ebf07701db",
+      "title": "DensityAI nears $10B valuation with hundreds of millions in funding and AWS deal",
+      "content": "DensityAI's rapid rise highlights the growing demand for specialized AI chips, potentially reshaping the semiconductor industry landscape.\nThe post DensityAI nears $10B valuation with hundreds of millions in funding and AWS deal appeared first on Crypto Brief…",
+      "url": "https://cryptobriefing.com/densityai-10b-valuation-aws-deal/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Diego Almada Lopez",
+      "published_at": "2026-09-25T04:53:12Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Diego Almada Lopez",
+        "title": "DensityAI nears $10B valuation with hundreds of millions in funding and AWS deal",
+        "description": "DensityAI's rapid rise highlights the growing demand for specialized AI chips, potentially reshaping the semiconductor industry landscape.\nThe post DensityAI nears $10B valuation with hundreds of millions in funding and AWS deal appeared first on Crypto Brief…",
+        "url": "https://cryptobriefing.com/densityai-10b-valuation-aws-deal/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/25005308/library-densityai-nears-10b-valuation-with-hundreds-of-millions--800x450.png",
+        "publishedAt": "2026-09-25T04:53:12Z",
+        "content": "The Tesla Dojo spinoff lands Andreessen Horowitz backing and a conditional chip purchase agreement with Amazon Web Services A startup that barely existed 18 months ago is now worth as much as some pu… [+1978 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "DensityAI",
+        "AWS"
+      ],
+      "importance_score": 6,
+      "ai_summary": "DensityAI接近100亿美元估值，融资与AWS合作。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及融资与技术发展",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注技术发展动态以保持竞争力",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_173ae3e1c743",
+      "title": "Public Just Wired Prediction Markets Into Its AI Agent Layer. That’s a New Kind of Rail.",
+      "content": "Imagine a portfolio that does not just sit there absorbing market shocks, but constantly adjusts its positions based on the collective intuition of thousands of strangers betting on whether the FDA will approve a new drug or if the Fed will cut rates by a qua…",
+      "url": "https://forkast.news/public-just-wired-prediction-markets-into-its-ai-agent-layer-thats-a-new-kind-of-rail/",
+      "source": "Forkast.news",
+      "source_type": "news",
+      "author": "Nolan Pratt",
+      "published_at": "2026-09-25T01:49:39Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Forkast.news"
+        },
+        "author": "Nolan Pratt",
+        "title": "Public Just Wired Prediction Markets Into Its AI Agent Layer. That’s a New Kind of Rail.",
+        "description": "Imagine a portfolio that does not just sit there absorbing market shocks, but constantly adjusts its positions based on the collective intuition of thousands of strangers betting on whether the FDA will approve a new drug or if the Fed will cut rates by a qua…",
+        "url": "https://forkast.news/public-just-wired-prediction-markets-into-its-ai-agent-layer-thats-a-new-kind-of-rail/",
+        "urlToImage": "https://forkast.news/wp-content/uploads/2026/09/public-kalshi-ai-agents-prediction-markets-v2-1024x687.jpg",
+        "publishedAt": "2026-09-25T01:49:39Z",
+        "content": "Imagine a portfolio that does not just sit there absorbing market shocks, but constantly adjusts its positions based on the collective intuition of thousands of strangers betting on whether the FDA w… [+4480 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto regulation",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "公共平台将预测市场与AI代理层结合。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到预测市场与AI结合",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "关注AI与区块链结合的趋势。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_fafae5667556",
+      "title": "Q3 2026 Funding Announcement",
+      "content": "4 projects are awarded a total of $22K",
+      "url": "https://www.clojuriststogether.org/news/q3-2026-funding-announcement/",
+      "source": "Clojuriststogether.org",
+      "source_type": "news",
+      "author": "Clojurists Together",
+      "published_at": "2026-09-25T02:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Clojuriststogether.org"
+        },
+        "author": "Clojurists Together",
+        "title": "Q3 2026 Funding Announcement",
+        "description": "4 projects are awarded a total of $22K",
+        "url": "https://www.clojuriststogether.org/news/q3-2026-funding-announcement/",
+        "urlToImage": "https://www.clojuriststogether.org/logos/ct-logo-cropped.png",
+        "publishedAt": "2026-09-25T02:00:00Z",
+        "content": "Clojurists Together is excited to announce that we will be funding 4 projects in Q3 2026 for a total of $22K USD (2 projects at $9K each and 2 shorter or more experimental projects for $2K each).\r\nTh… [+4192 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "2026年第三季度融资公告。",
+      "business_relevance": 0.5,
+      "relevance_reason": "融资事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注融资动态以把握市场机会",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_7e322dd79436",
+      "title": "First known government hack by AI raises new alarms over Big Tech’s self-policing",
+      "content": "OpenAI’s AI models hacked into Australia’s Medicare database in June, the first known government breach by a rogue AI agent OpenAI didn’t discover the breach until August and waited until September 10 to alert Australian officials Prime Minister Anthony Alban…",
+      "url": "https://www.naturalnews.com/2026-09-25-government-hack-ai-big-tech-self-policing.html",
+      "source": "Naturalnews.com",
+      "source_type": "news",
+      "author": "Cassie B.",
+      "published_at": "2026-09-25T06:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Naturalnews.com"
+        },
+        "author": "Cassie B.",
+        "title": "First known government hack by AI raises new alarms over Big Tech’s self-policing",
+        "description": "OpenAI’s AI models hacked into Australia’s Medicare database in June, the first known government breach by a rogue AI agent OpenAI didn’t discover the breach until August and waited until September 10 to alert Australian officials Prime Minister Anthony Alban…",
+        "url": "https://www.naturalnews.com/2026-09-25-government-hack-ai-big-tech-self-policing.html",
+        "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/2025-12-03-HR-Report-OPENAI-VS.-NVIDIA-V.jpg",
+        "publishedAt": "2026-09-25T06:00:00Z",
+        "content": "<ul><li>OpenAI's AI models hacked into Australia's Medicare database in June, the first known government breach by a rogue AI agent</li><li>OpenAI didn't discover the breach until August and waited u… [+5105 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "AI黑客事件引发对科技自律的担忧。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到AI与安全问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注相关监管政策的变化。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_e81b65f2eaad",
+      "title": "Take A Break, Compliance Nerds. Privacy Is A Research Problem Now",
+      "content": "The California legislature has passed the compromise version of SB-690, leaving most of the private right of action provisions of the California Invasion of Privacy Act (CIPA) in place. Thanks to massive lobbying efforts by Big Tech, other states have lost ou…",
+      "url": "http://www.adexchanger.com/data-driven-thinking/take-a-break-compliance-nerds-privacy-is-a-research-problem-now/",
+      "source": "AdExchanger",
+      "source_type": "news",
+      "author": "AdExchanger Guest Columnist",
+      "published_at": "2026-09-25T04:35:33Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "AdExchanger"
+        },
+        "author": "AdExchanger Guest Columnist",
+        "title": "Take A Break, Compliance Nerds. Privacy Is A Research Problem Now",
+        "description": "The California legislature has passed the compromise version of SB-690, leaving most of the private right of action provisions of the California Invasion of Privacy Act (CIPA) in place. Thanks to massive lobbying efforts by Big Tech, other states have lost ou…",
+        "url": "http://www.adexchanger.com/data-driven-thinking/take-a-break-compliance-nerds-privacy-is-a-research-problem-now/",
+        "urlToImage": "https://adexchanger.com/wp-content/uploads/2025/11/Don-Marti-Aloodo.jpg",
+        "publishedAt": "2026-09-25T04:35:33Z",
+        "content": "The California legislature has passed the compromise version of SB-690, leaving most of the private right of action provisions of the California Invasion of Privacy Act (CIPA) in place.\r\nThanks to ma… [+4933 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "隐私问题成为研究重点，影响合规性。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及隐私与合规问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注隐私合规政策变化，调整策略。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_83d52a5e012b",
+      "title": "Fintechs bet on AI agents to retain merchants as acquisition costs rise and margins thin",
+      "content": "Merchants using AI agents have seen a jump in their topline.",
+      "url": "https://www.livemint.com/companies/news/fintechs-ai-agents-merchants-acquisition-costs-margins-thin-11790214588042.html",
+      "source": "Livemint",
+      "source_type": "news",
+      "author": "Rwit Ghosh",
+      "published_at": "2026-09-25T01:00:20Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Rwit Ghosh",
+        "title": "Fintechs bet on AI agents to retain merchants as acquisition costs rise and margins thin",
+        "description": "Merchants using AI agents have seen a jump in their topline.",
+        "url": "https://www.livemint.com/companies/news/fintechs-ai-agents-merchants-acquisition-costs-margins-thin-11790214588042.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/fintech_1790244515644_9bc4_1790244515842_s7AH_69218aa7-7f95-4dc4-8390-bca3a7f9a7ec_6KgO.jpg",
+        "publishedAt": "2026-09-25T01:00:20Z",
+        "content": "BharatPes embedded AI agent resolves queries for merchants, offers tailored discovery of financial products and helps in loan advisory. PayU's Agent HQ helps to become discoverable to AI shopping pla… [+4942 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "金融科技公司利用AI留住商户。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到金融科技动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注AI在支付领域的应用趋势。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_b04fe36e0179",
+      "title": "Revolut Wins Central Bank Approval to Acquire Argentine Bank",
+      "content": "Revolut is moving ahead with the completion of its acquisition of Argentine bank Banco Cetelem Argentina S.A. after receiving approval from the Central Bank of Argentina, the company said in a Thursday (Sept. 24) press release.\nRevolut is acquiring the bank f…",
+      "url": "https://biztoc.com/x/b4b8567d8d7e94ff",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "pymnts.com",
+      "published_at": "2026-09-25T02:08:09Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "pymnts.com",
+        "title": "Revolut Wins Central Bank Approval to Acquire Argentine Bank",
+        "description": "Revolut is moving ahead with the completion of its acquisition of Argentine bank Banco Cetelem Argentina S.A. after receiving approval from the Central Bank of Argentina, the company said in a Thursday (Sept. 24) press release.\nRevolut is acquiring the bank f…",
+        "url": "https://biztoc.com/x/b4b8567d8d7e94ff",
+        "urlToImage": "https://biztoc.com/cdn/996/og.png",
+        "publishedAt": "2026-09-25T02:08:09Z",
+        "content": "Revolut is moving ahead with the completion of its acquisition of Argentine bank Banco Cetelem Argentina S.A. after receiving approval from the Central Bank of Argentina, the company said in a Thursd… [+139 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Revolut"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Revolut获得阿根廷银行的中央银行批准。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及金融科技和监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注阿根廷市场的监管动态。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_0db774c284c4",
+      "title": "Justice Department Warns AI Critics Could Face Prosecution Under Foreign Agent Rules",
+      "content": "The Justice Department has instructed citizens and noncitizens that furthering the goals of a foreign power in any public activity, including public demonstrations, may require formal notification to the government to avoid arrest and prosecution, according t…",
+      "url": "https://www.naturalnews.com/2026-09-25-justice-department-warns-ai-critics-could-face-prosecution.html",
+      "source": "Naturalnews.com",
+      "source_type": "news",
+      "author": "Chase Codewell",
+      "published_at": "2026-09-25T06:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Naturalnews.com"
+        },
+        "author": "Chase Codewell",
+        "title": "Justice Department Warns AI Critics Could Face Prosecution Under Foreign Agent Rules",
+        "description": "The Justice Department has instructed citizens and noncitizens that furthering the goals of a foreign power in any public activity, including public demonstrations, may require formal notification to the government to avoid arrest and prosecution, according t…",
+        "url": "https://www.naturalnews.com/2026-09-25-justice-department-warns-ai-critics-could-face-prosecution.html",
+        "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/ai-data-centers-foreign-agents-registration-act-justice-department-4449-original.jpg",
+        "publishedAt": "2026-09-25T06:00:00Z",
+        "content": "The Justice Department has instructed citizens and noncitizens that furthering the goals of a foreign power in any public activity, including public demonstrations, may require formal notification to… [+8431 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series B",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "美国司法部警告AI批评者可能面临起诉。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到监管政策",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化对行业的影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_8ec32898397c",
+      "title": "Gas infrastructure fund attracts N1.6tn private investment",
+      "content": "Nigeria’s Midstream and Downstream Gas Infrastructure Fund has leveraged N671bn in public funds to attract about N1.6tn in private investment for 31 projec\n\nRead More: https://punchng.com/gas-infrastructure-fund-attracts-n1-6tn-private-investment/",
+      "url": "https://punchng.com/gas-infrastructure-fund-attracts-n1-6tn-private-investment/",
+      "source": "The Punch",
+      "source_type": "news",
+      "author": "Punch Newspapers",
+      "published_at": "2026-09-25T01:36:11Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Punch"
+        },
+        "author": "Punch Newspapers",
+        "title": "Gas infrastructure fund attracts N1.6tn private investment",
+        "description": "Nigeria’s Midstream and Downstream Gas Infrastructure Fund has leveraged N671bn in public funds to attract about N1.6tn in private investment for 31 projec\n\nRead More: https://punchng.com/gas-infrastructure-fund-attracts-n1-6tn-private-investment/",
+        "url": "https://punchng.com/gas-infrastructure-fund-attracts-n1-6tn-private-investment/",
+        "urlToImage": "https://punchng.com/wp-content/uploads/2026/06/NMDPRA-fee-regulations-750x279_1782260003.webp",
+        "publishedAt": "2026-09-25T01:36:11Z",
+        "content": "The Midstream and Downstream Gas Infrastructure Fund has leveraged N671bn in public funds to attract about N1.6tn in private investment into Nigerias gas infrastructure, as the Federal Government and… [+5928 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding strategic investment",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "私人投资进入燃气基础设施领域。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及投资与基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注基础设施投资动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_c84f0bd5f1b6",
+      "title": "Carro secures strategic investment from Orico",
+      "content": "Carro, a leading online car marketplace in the Asia Pacific (excluding China and India), has announced a round of strategic investment by Orient Corporation ...",
+      "url": "https://en.antaranews.com/news/432677/carro-secures-strategic-investment-from-orico",
+      "source": "Antaranews.com",
+      "source_type": "news",
+      "author": "PR Wire",
+      "published_at": "2026-09-25T04:16:35Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Antaranews.com"
+        },
+        "author": "PR Wire",
+        "title": "Carro secures strategic investment from Orico",
+        "description": "Carro, a leading online car marketplace in the Asia Pacific (excluding China and India), has announced a round of strategic investment by Orient Corporation ...",
+        "url": "https://en.antaranews.com/news/432677/carro-secures-strategic-investment-from-orico",
+        "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/12/10/logo-Cision.jpg",
+        "publishedAt": "2026-09-25T04:16:35Z",
+        "content": "<ul><li>Strategic investment will see collaboration across mobility and financial services</li><li>Initial collaboration will focus on automotive financing and related businesses in Japan, Thailand a… [+4543 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition strategic investment",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "Carro",
+        "Orico"
+      ],
+      "importance_score": 5,
+      "ai_summary": "Carro获得Orico的战略投资。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及融资事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注市场融资动态，评估潜在影响。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_97bb87713501",
+      "title": "SC lays down safeguards against misuse of Pocso Act in child custody cases",
+      "content": "The Supreme Court said police must follow mandatory safeguards before arrests in Pocso cases involving parents or family members where a matrimonial dispute exists between the parents",
+      "url": "https://www.business-standard.com/india-news/sc-lays-down-safeguards-against-misuse-of-pocso-act-in-child-custody-cases-126092500233_1.html",
+      "source": "Business Standard",
+      "source_type": "news",
+      "author": "Vrinda Goel",
+      "published_at": "2026-09-25T04:43:42Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Business Standard"
+        },
+        "author": "Vrinda Goel",
+        "title": "SC lays down safeguards against misuse of Pocso Act in child custody cases",
+        "description": "The Supreme Court said police must follow mandatory safeguards before arrests in Pocso cases involving parents or family members where a matrimonial dispute exists between the parents",
+        "url": "https://www.business-standard.com/india-news/sc-lays-down-safeguards-against-misuse-of-pocso-act-in-child-custody-cases-126092500233_1.html",
+        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-04/16/thumb/fitandfill/1200X628/1744800966-1905.jpg",
+        "publishedAt": "2026-09-25T04:43:42Z",
+        "content": "The Supreme Court said police must follow mandatory safeguards before arrests in Pocso cases involving parents or family members where a matrimonial dispute exists between the parents\r\nView of the Su… [+4875 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_f786585fb6a9",
+      "title": "Solara in talks to raise $20-25 million led by Faering Capital",
+      "content": "The Hyderabad-based D2C home and kitchen brand, which turned profitable in FY25, is seeking its first institutional funding as demand for the category grows.",
+      "url": "https://www.livemint.com/companies/start-ups/solara-in-talks-to-raise-20-25-million-led-by-faering-capital-11790187257903.html",
+      "source": "Livemint",
+      "source_type": "news",
+      "author": "Nabodita Ganguly",
+      "published_at": "2026-09-25T04:33:40Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Nabodita Ganguly",
+        "title": "Solara in talks to raise $20-25 million led by Faering Capital",
+        "description": "The Hyderabad-based D2C home and kitchen brand, which turned profitable in FY25, is seeking its first institutional funding as demand for the category grows.",
+        "url": "https://www.livemint.com/companies/start-ups/solara-in-talks-to-raise-20-25-million-led-by-faering-capital-11790187257903.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/pexels-photo-5466789_1790310056786_ftHb_1790310231346_oiNi_a4f73346-4bb0-4651-b15f-dee361475d51_qWPI.jpeg",
+        "publishedAt": "2026-09-25T04:33:40Z",
+        "content": "The fundraise comes as Indias home and kitchen essentials market gains momentum. The market was worth $5.7 billion in 2025 and is projected to grow at an 8.5% compound annual growth rate through 2033… [+2840 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Solara 正在筹集资金，涉及行业融资动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "融资事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_124a3202c62a",
+      "title": "Coinbase Tokenized Stocks Just Passed $1B in Volume on Base. The Real Story Is What Comes Next.",
+      "content": "The crypto industry has a peculiar habit of building the plumbing before the water is actually allowed to flow. We have spent years watching developers construct elaborate, high-speed pipes for assets that were, until recently, largely confined to the digital…",
+      "url": "https://forkast.news/coinbase-tokenized-stocks-just-passed-1b-in-volume-on-base-the-real-story-is-what-comes-next/",
+      "source": "Forkast.news",
+      "source_type": "news",
+      "author": "Nolan Pratt",
+      "published_at": "2026-09-25T05:49:53Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Forkast.news"
+        },
+        "author": "Nolan Pratt",
+        "title": "Coinbase Tokenized Stocks Just Passed $1B in Volume on Base. The Real Story Is What Comes Next.",
+        "description": "The crypto industry has a peculiar habit of building the plumbing before the water is actually allowed to flow. We have spent years watching developers construct elaborate, high-speed pipes for assets that were, until recently, largely confined to the digital…",
+        "url": "https://forkast.news/coinbase-tokenized-stocks-just-passed-1b-in-volume-on-base-the-real-story-is-what-comes-next/",
+        "urlToImage": "https://forkast.news/wp-content/uploads/2026/09/coinbase-tokenized-stocks-dual-track-hero-1024x687.jpg",
+        "publishedAt": "2026-09-25T05:49:53Z",
+        "content": "The crypto industry has a peculiar habit of building the plumbing before the water is actually allowed to flow. We have spent years watching developers construct elaborate, high-speed pipes for asset… [+5767 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional compliance",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Coinbase"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Coinbase的代币化股票交易量突破10亿美元。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit",
+      "description": "Promoting a network’s current uses generally would not create an expectation of profit, SEC staff said.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-09-25T20:32:40",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "SEC发布关于加密货币的监管问答",
+      "business_relevance": 0.7,
+      "relevance_reason": "加密货币监管动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化，调整合规策略",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Blockchain Association CEO Summer Mersinger to step down, Kristin Smith to return as interim CEO",
+      "description": "The Blockchain Association is switching up its leadership with CEO Summer Mersinger set to step down next month.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-25-blockchain-association-ceo-summer-mersinger-tstep-down-kristin-smith-interim-ceo-416913",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-09-25T19:48:07",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "区块链协会领导层变动可能影响行业政策方向。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管变动",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "竞争格局"
+      ],
+      "industry_action": "关注新领导对监管政策的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "Man charged in $16 million crypto ‘massive pig butchering’ scam",
+      "description": "A man was charged for his role in defrauding someone of millions of dollars' worth of crypto in a \"massive pig butchering\" scam.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-25-man-charged-in-16-million-crypto-massive-pig-butchering-scam-416895",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-09-25T17:48:16",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "一名男子因参与加密货币诈骗被控。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币诈骗",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注加密货币诈骗对市场的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
+      "description": "Aave V4 added Apple, Nvidia, Tesla, and four more tokenized stocks as collateral for USDC loans for non-U.S. users.",
+      "url": "https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-09-25T14:00:00",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Aave",
+        "Coinbase",
+        "Apple",
+        "Nvidia",
+        "Tesla"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Aave V4在Base上新增USDC贷款抵押品。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币USDC贷款",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币贷款市场动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
+      "description": "Federal prosecutors are targeting a Montana payments firm and a Caribbean bank accused of moving money without a license.",
+      "url": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-09-25T21:25:35",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Tether"
+      ],
+      "importance_score": 7,
+      "ai_summary": "美国检方针对与Tether相关的银行展开调查。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "竞争格局"
+      ],
+      "industry_action": "关注监管动态，评估合规风险。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
+      "description": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most funds into unfreezable ETH before they could act.",
+      "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-09-25T18:42:51",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Circle",
+        "Tether"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Circle和Tether冻结与Bitget黑客相关的稳定币。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币和黑客事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币安全性和监管动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
+      "description": "A flaw in Limit Break's Payment Processor V2 put old Magic Eden Ethereum listings at risk, prompting a whitehat rescue of more than 23,000 NFTs.",
+      "url": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-09-25T16:17:19",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "Magic Eden",
+        "Limit Break"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Magic Eden警告旧以太坊NFT列表存在支付处理器漏洞。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到支付处理器漏洞",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注支付处理器的安全性和技术更新。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Circle Foundation Funds UNDP and WFP to Test USDC Aid Payments - genfinity.io",
+      "description": "Circle Foundation Funds UNDP and WFP to Test USDC Aid Payments&nbsp;&nbsp;genfinity.io",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFV0aFVRWV8tYzBoaFk2clV3anl2cmRfNy1OdkQ0X3dZc3FWd0ZLWGVzTmRrU05DSUJHZnlPN2VYX25RZWhvZXJSN3Y1YmJLWXQxcno2Qmx5V3hZU2FOMFB0WDBKSGF6bGVoX3N5a2hEQm9WalkzS1FnTVF3M1h5ZVNhdzZBdURsZTYtc1VkRlc?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-09-25T16:52:05",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Circle Foundation",
+        "UNDP",
+        "WFP"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Circle基金会资助UNDP和WFP测试USDC援助支付。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及USDC支付业务",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注USDC在援助支付中的应用潜力。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Payy bridge exploit freezes crypto cards, and no balances remain safe - CryptoSlate",
+      "description": "Payy bridge exploit freezes crypto cards, and no balances remain safe&nbsp;&nbsp;CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOckh5eHRrQ09hWFdOR01BNmowV1JPaUJqdXdrT1ZNVlRRVTl5YWpSREFhYm9ucV9BaHlpOWhZQW5hNXNwN1JXQUJvYndjLTFRZVpwd3JmSWpaYjZ6eVYwc1ZFN0JOQlE2bVRQQVdGenNPaVZILU54dXc5X0I3Smd2bF9BZndmYVl2Vy1qSnZIYkVPdU1Dc2VLcg?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-09-25T07:10:06",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Payy桥接漏洞导致加密卡被冻结，余额不安全。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密卡和安全性",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注加密卡安全性变化，评估市场影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Fed Stablecoin Rules: 1:1 Reserves, 60-Day Comment Period - FinanceFeeds",
+      "description": "Fed Stablecoin Rules: 1:1 Reserves, 60-Day Comment Period&nbsp;&nbsp;FinanceFeeds",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlJOSll0dlBnRTdPSzIxNW5LTG95OU5tWEJOLTNzOWo2ZWNHZ1RJSjZGMjFWTVo5bVlUVnVrUldGLXVObUxpZzdJdUtqWEc0aDRaaVNod2J6SUo1MXkxX3pIa29IV2VMcWtiYTdHaDN6RThoZHhXYlB4WmVLR0kyamlYNEdkajJiaC0tekJiOWgxaDRaQlVNX2w5S1d4SEFDYWlGWENNNTRKR3lITzQtNVo5Nnpadw?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-09-25T07:50:45",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "美联储发布稳定币监管规则的消息。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币监管动态，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Mastercard Stock Holds Flat as $25 Billion Stablecoin Settlement Goes Live - Yahoo Finance",
+      "description": "Mastercard Stock Holds Flat as $25 Billion Stablecoin Settlement Goes Live&nbsp;&nbsp;Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTWMtZHJnNWppaUpjZTJWeDZ5QVZ1VFR4QzVQb0pZaE4xNTdaVGpWREVxV3pLNWNoQkp3Sk1uYVQyS3loYmdGdVp1OUt5aFpXZ3k5amJDQkc2TEdDNE4xZDdCTExtTXk4Vk9YRWo5RXBrZlczdDhXcjJhaEhWdzd0QkhQbHh2SlZWTTc1SXk0QTBLODAyOXA5S2NCZw?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-09-25T16:53:34",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Mastercard"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Mastercard的稳定币结算上线影响行业动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币结算",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场的发展动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "SoFi, Mastercard activate stablecoin settlement for SoFi Bank card programme - Electronic Payments International",
+      "description": "SoFi, Mastercard activate stablecoin settlement for SoFi Bank card programme&nbsp;&nbsp;Electronic Payments International",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHNFUGFDMlZzN0lNY3FCSGJ6cmFVTmdlRWlxSEJzeWo0TWtORndJYkFFS3lYaWxPdUFtRXczWGhnQnlONnpmWjVJcGRWNmJvcmdtU0ZWUlZVaFM5cjd6MnJOSU5nd05aN212NUNUalFWeG5Xc0thTlhnNzBuQUg5MXBRRzlBSU1zNXlWZ29NOXh6UFhSRkdQUTU1MWRnUkFLQ2lIZjZnZmhRQjJEYkZ1WUF6NzFaZmpqdWV2OVhsTVoyQUVTbUFoNA?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-09-25T10:51:47",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "SoFi",
+        "Mastercard"
+      ],
+      "importance_score": 8,
+      "ai_summary": "SoFi与Mastercard启动稳定币结算服务。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币支付的市场动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Stablecoin Payments Go Mainstream: Sept 2026 Rails - FinanceX Magazine",
+      "description": "Stablecoin Payments Go Mainstream: Sept 2026 Rails&nbsp;&nbsp;FinanceX Magazine",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnkxU2toaUtrdTZldF9pVGFXdjk0dHZHSnduX3VMUV9xbHk3OVhLaUpWM0RKUmZOZnhwMzNHTkhKTTJQLUdsbW1CNWwzOWsycGc2LVVZVklSV29XT0EzbmM1bExQM1ZEZk1MeGx0QVYtbHk0QWx5NWRjUHJiSV9WVk05LVJkMEhZSHZoMXRhZFJTYUJGaE1HdXI5UjhtWXB4VS1pS1lFYU9rOWpFcG44dWFtQ2ViU0J6UEJDOTUzbFhnZV9yV3pEWUxXZjFoZw?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-09-25T18:04:11",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "稳定币支付逐渐成为主流趋势。",
+      "business_relevance": 0.8,
+      "relevance_reason": "提到稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币支付的技术进展和市场动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "SoFi Bank Scales Stablecoin Settlement to $25B via Mastercard Network - FF News",
+      "description": "SoFi Bank Scales Stablecoin Settlement to $25B via Mastercard Network&nbsp;&nbsp;FF News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMjYxTjItRXBsU3I0enFLNHBoeVBQTWhodENhS3paQjdESHowYzNVcUxCU09NenBoV0VFT0RGdzVXb0tQTW5zMGhTRHlUNVV0SmZ1Z2N1c3hfM29neWFCZThGdkFRanc1N3oyMy1ZOTFhZHpTOWc2NzBSdzBSTjJuaTNGbWs2MjdMaXFhZlNwa0didGRqaFNRcVJpamU?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-09-25T09:15:22",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "SoFi",
+        "Mastercard"
+      ],
+      "importance_score": 8,
+      "ai_summary": "SoFi银行通过万事达网络扩大稳定币结算规模至250亿美元。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币结算",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币结算技术的发展动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "HIFI Raises $37M To Build Stablecoin And Tokenized Market Infrastructure - TradingView",
+      "description": "HIFI Raises $37M To Build Stablecoin And Tokenized Market Infrastructure&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGxsSG9IUFBWakxBOWZZUldGY1BnNHAxUmVjVVlaSFBtSWxUOFZQdUM2WDZPSnVpVXF3TXVrd0IySTNDNWl2bnRiSUZBLXNkT19mSFBYbFNERWw1SEE5TDh3UkhSdFlOTnk4MTB6SGYyS3M4Zml0UnhSc1NhMW90bUJRRWs3UnozaXhTa0FRcjcwaks0ZXFOaVBYV2JkX3ZDQ3pRS3dDZ09ES1k5TmxPOVJQS2ZuWU1pVVBRWld5czZ6SUJxdEtMOQ?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-09-26T02:30:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "HIFI融资用于构建稳定币市场基础设施。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "投资机会"
+      ],
+      "industry_action": "关注稳定币市场动态，评估潜在影响。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    }
+  ],
+  "company": [],
+  "funding": [
+    {
+      "id": "news_8ec32898397c",
+      "title": "Gas infrastructure fund attracts N1.6tn private investment",
+      "content": "Nigeria’s Midstream and Downstream Gas Infrastructure Fund has leveraged N671bn in public funds to attract about N1.6tn in private investment for 31 projec\n\nRead More: https://punchng.com/gas-infrastructure-fund-attracts-n1-6tn-private-investment/",
+      "url": "https://punchng.com/gas-infrastructure-fund-attracts-n1-6tn-private-investment/",
+      "source": "The Punch",
+      "source_type": "news",
+      "author": "Punch Newspapers",
+      "published_at": "2026-09-25T01:36:11Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Punch"
+        },
+        "author": "Punch Newspapers",
+        "title": "Gas infrastructure fund attracts N1.6tn private investment",
+        "description": "Nigeria’s Midstream and Downstream Gas Infrastructure Fund has leveraged N671bn in public funds to attract about N1.6tn in private investment for 31 projec\n\nRead More: https://punchng.com/gas-infrastructure-fund-attracts-n1-6tn-private-investment/",
+        "url": "https://punchng.com/gas-infrastructure-fund-attracts-n1-6tn-private-investment/",
+        "urlToImage": "https://punchng.com/wp-content/uploads/2026/06/NMDPRA-fee-regulations-750x279_1782260003.webp",
+        "publishedAt": "2026-09-25T01:36:11Z",
+        "content": "The Midstream and Downstream Gas Infrastructure Fund has leveraged N671bn in public funds to attract about N1.6tn in private investment into Nigerias gas infrastructure, as the Federal Government and… [+5928 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding strategic investment",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "私人投资进入燃气基础设施领域。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及投资与基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注基础设施投资动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_c84f0bd5f1b6",
+      "title": "Carro secures strategic investment from Orico",
+      "content": "Carro, a leading online car marketplace in the Asia Pacific (excluding China and India), has announced a round of strategic investment by Orient Corporation ...",
+      "url": "https://en.antaranews.com/news/432677/carro-secures-strategic-investment-from-orico",
+      "source": "Antaranews.com",
+      "source_type": "news",
+      "author": "PR Wire",
+      "published_at": "2026-09-25T04:16:35Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Antaranews.com"
+        },
+        "author": "PR Wire",
+        "title": "Carro secures strategic investment from Orico",
+        "description": "Carro, a leading online car marketplace in the Asia Pacific (excluding China and India), has announced a round of strategic investment by Orient Corporation ...",
+        "url": "https://en.antaranews.com/news/432677/carro-secures-strategic-investment-from-orico",
+        "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/12/10/logo-Cision.jpg",
+        "publishedAt": "2026-09-25T04:16:35Z",
+        "content": "<ul><li>Strategic investment will see collaboration across mobility and financial services</li><li>Initial collaboration will focus on automotive financing and related businesses in Japan, Thailand a… [+4543 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition strategic investment",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "Carro",
+        "Orico"
+      ],
+      "importance_score": 5,
+      "ai_summary": "Carro获得Orico的战略投资。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及融资事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注市场融资动态，评估潜在影响。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    }
+  ]
+}
