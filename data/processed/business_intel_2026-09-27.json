@@ -1,0 +1,1387 @@
+{
+  "competitors": [],
+  "clients": [],
+  "industry": [
+    {
+      "id": "news_1d668cd51cd9",
+      "title": "The Path to 2027: Mapping the Tokenized Deposit Regulatory Landscape Before the Sprint Begins",
+      "content": "The regulatory calendar for the remainder of 2026 is not merely a list of deadlines; it is a high-stakes architecture project. As we enter the final quarter, the industry is bracing for a sprint that will define the operational boundaries for digital money th…",
+      "url": "https://forkast.news/the-path-to-2027-mapping-the-tokenized-deposit-regulatory-landscape-before-the-sprint-begins/",
+      "source": "Forkast.news",
+      "source_type": "news",
+      "author": "Nolan Pratt",
+      "published_at": "2026-09-26T02:38:56Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Forkast.news"
+        },
+        "author": "Nolan Pratt",
+        "title": "The Path to 2027: Mapping the Tokenized Deposit Regulatory Landscape Before the Sprint Begins",
+        "description": "The regulatory calendar for the remainder of 2026 is not merely a list of deadlines; it is a high-stakes architecture project. As we enter the final quarter, the industry is bracing for a sprint that will define the operational boundaries for digital money th…",
+        "url": "https://forkast.news/the-path-to-2027-mapping-the-tokenized-deposit-regulatory-landscape-before-the-sprint-begins/",
+        "urlToImage": "https://forkast.news/wp-content/uploads/2026/09/tokenized-deposit-regulatory-landscape-2027-hero-1024x687.jpg",
+        "publishedAt": "2026-09-26T02:38:56Z",
+        "content": "The regulatory calendar for the remainder of 2026 is not merely a list of deadlines; it is a high-stakes architecture project. As we enter the final quarter, the industry is bracing for a sprint that… [+6201 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "文章讨论了代币化存款的监管前景。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，调整合规策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_ea2d441dc867",
+      "title": "EU faces September 30 clock to decide future of DeFi loans",
+      "content": "Its MiCA review response points to crypto firms’ access routes while any new lending duties remain a future legislative choice.\nThe post EU faces September 30 clock to decide future of DeFi loans appeared first on CryptoSlate.",
+      "url": "https://cryptoslate.com/eu-faces-september-30-clock-to-decide-future-of-defi-loans/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam 'Akiba' Wright",
+      "published_at": "2026-09-26T05:10:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam 'Akiba' Wright",
+        "title": "EU faces September 30 clock to decide future of DeFi loans",
+        "description": "Its MiCA review response points to crypto firms’ access routes while any new lending duties remain a future legislative choice.\nThe post EU faces September 30 clock to decide future of DeFi loans appeared first on CryptoSlate.",
+        "url": "https://cryptoslate.com/eu-faces-september-30-clock-to-decide-future-of-defi-loans/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/09/eba-defi-access-review-standard-image.jpg",
+        "publishedAt": "2026-09-26T05:10:00Z",
+        "content": "The European Banking Authority has asked the European Commission to examine new MiCA rules for crypto firms that connect customers to DeFi loans.\r\nIts September 24 response calls for a cost-benefit a… [+4559 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "欧盟面临DeFi贷款监管决策的截止日期。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及DeFi贷款监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注DeFi贷款监管动态，评估影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_a0ad3f355d84",
+      "title": "clearsigned-mcp added to PyPI",
+      "content": "MCP server for Clearsigned: calibrated claim verification for AI agents, paid per call over x402, receipts verified offline.",
+      "url": "https://pypi.org/project/clearsigned-mcp/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-09-26T03:57:12Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "clearsigned-mcp added to PyPI",
+        "description": "MCP server for Clearsigned: calibrated claim verification for AI agents, paid per call over x402, receipts verified offline.",
+        "url": "https://pypi.org/project/clearsigned-mcp/",
+        "urlToImage": null,
+        "publishedAt": "2026-09-26T03:57:12Z",
+        "content": "An MCP server that gives any agent a verify_claim tool: calibrated claim verification against\r\nlive web evidence, paid per call over x402 ($0.05 USDC on Base), with an Ed25519-signed receipt\r\nthe ser… [+1863 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "新增技术包与区块链相关。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到技术发展",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_89926d99c1b8",
+      "title": "Bitget hacker withdraws $1.23M from Binance, funnels funds to attacker-controlled wallet",
+      "content": "The Bitget hack highlights vulnerabilities in crypto exchanges, prompting urgent calls for enhanced security measures and international cooperation.\nThe post Bitget hacker withdraws $1.23M from Binance, funnels funds to attacker-controlled wallet appeared fir…",
+      "url": "https://cryptobriefing.com/bitget-hacker-withdraws-binance-transfers/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-09-26T04:22:26Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Bitget hacker withdraws $1.23M from Binance, funnels funds to attacker-controlled wallet",
+        "description": "The Bitget hack highlights vulnerabilities in crypto exchanges, prompting urgent calls for enhanced security measures and international cooperation.\nThe post Bitget hacker withdraws $1.23M from Binance, funnels funds to attacker-controlled wallet appeared fir…",
+        "url": "https://cryptobriefing.com/bitget-hacker-withdraws-binance-transfers/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/26002221/library-bitget-hacker-withdraws-1-23m-from-binance-funnels-funds-800x450.png",
+        "publishedAt": "2026-09-26T04:22:26Z",
+        "content": "On-chain sleuths trace fresh withdrawals from Binance hot wallets as investigators scramble to follow the money from a $387.5M exchange breach The attacker behind the massive Bitget security breach h… [+2601 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDT",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Bitget",
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Bitget黑客从Binance提取资金事件。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币安全事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全事件对市场信任的影响",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_e04e36de204b",
+      "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+      "content": "The CFTC claimed that Cash FX engaged in minimal forex trading and misappropriated most of the participant funds.",
+      "url": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Michael Millard",
+      "published_at": "2026-09-26T06:59:29Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Michael Millard",
+        "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+        "description": "The CFTC claimed that Cash FX engaged in minimal forex trading and misappropriated most of the participant funds.",
+        "url": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3E7R5YFBEX21VBGW5MY4472/hi-how-can-transform-government-sector-cftc.jpg",
+        "publishedAt": "2026-09-26T06:59:29Z",
+        "content": "The Commodity Futures Trading Commission said it is suing Cash FX Group and three individuals in a $950 million foreign-exchange investment case involving cryptocurrency.\r\nThe defendants are Cash FX … [+1868 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "CFTC起诉Cash FX，涉及加密货币监管问题。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，评估潜在影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_4cd07c9f32e3",
+      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+      "content": "Alpenglow is running on both public test networks, giving application teams a place to check their software before the live blockchain switches.",
+      "url": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+      "source": "CoinDesk",
+      "source_type": "news",
+      "author": "Shaurya Malwa",
+      "published_at": "2026-09-26T05:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Shaurya Malwa",
+        "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+        "description": "Alpenglow is running on both public test networks, giving application teams a place to check their software before the live blockchain switches.",
+        "url": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?auto=format&q=75",
+        "publishedAt": "2026-09-26T05:00:00Z",
+        "content": "Alpenglow changes how validators, the computers that check transactions, agree on the networks records. They will exchange votes directly instead of recording those votes as transactions inside block… [+1075 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Solana升级其结算速度，推动区块链技术进步。",
+      "business_relevance": 0.6,
+      "relevance_reason": "区块链技术发展",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_d819a826e4fe",
+      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "content": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
+      "url": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+      "source": "CoinDesk",
+      "source_type": "news",
+      "author": "Shaurya Malwa",
+      "published_at": "2026-09-26T04:02:13Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Shaurya Malwa",
+        "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+        "description": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
+        "url": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/bb91f522b50463896027288e6037d9a39f937ae2-5472x3648.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+        "publishedAt": "2026-09-26T04:02:13Z",
+        "content": "Mert Mumtaz, cofounder of Helius, which provides infrastructure for Solana developers, and a Zcash proponent, described the proposal on X as a synthetic ledger with significant tradeoffs.\r\nHe pointed… [+1242 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "比特币可能实现类似Zcash的隐私功能。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及比特币隐私技术",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "关注隐私技术对市场的潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_4368f1333318",
+      "title": "CFTC Clarifies Crypto Rules After Clarity Act Stalls",
+      "content": "The Commodity Futures Trading Commission (CFTC) has updated its FAQs about crypto assets and blockchain technologies to provide greater clarity, the regulator said in a Thursday (Sept. 24) press release.\nThe updates address investments of customer funds in to…",
+      "url": "https://biztoc.com/x/78970ca54db40eba",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "pymnts.com",
+      "published_at": "2026-09-26T02:22:41Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "pymnts.com",
+        "title": "CFTC Clarifies Crypto Rules After Clarity Act Stalls",
+        "description": "The Commodity Futures Trading Commission (CFTC) has updated its FAQs about crypto assets and blockchain technologies to provide greater clarity, the regulator said in a Thursday (Sept. 24) press release.\nThe updates address investments of customer funds in to…",
+        "url": "https://biztoc.com/x/78970ca54db40eba",
+        "urlToImage": "https://biztoc.com/cdn/996/og.png",
+        "publishedAt": "2026-09-26T02:22:41Z",
+        "content": "The Commodity Futures Trading Commission (CFTC) has updated its FAQs about crypto assets and blockchain technologies to provide greater clarity, the regulator said in a Thursday (Sept. 24) press rele… [+141 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "CFTC澄清加密货币监管规则。",
+      "business_relevance": 0.7,
+      "relevance_reason": "加密货币监管动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管变化对业务的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_59aedb6ebde8",
+      "title": "Bitcoin dominance falls below 60%, signaling potential altcoin season",
+      "content": "The shift in Bitcoin dominance may indicate a changing crypto landscape, potentially limiting altcoin growth due to ETF-driven capital flows.\nThe post Bitcoin dominance falls below 60%, signaling potential altcoin season appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/bitcoin-dominance-falls-below-60-altcoin-season/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Vivian Nguyen",
+      "published_at": "2026-09-26T05:37:22Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Vivian Nguyen",
+        "title": "Bitcoin dominance falls below 60%, signaling potential altcoin season",
+        "description": "The shift in Bitcoin dominance may indicate a changing crypto landscape, potentially limiting altcoin growth due to ETF-driven capital flows.\nThe post Bitcoin dominance falls below 60%, signaling potential altcoin season appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/bitcoin-dominance-falls-below-60-altcoin-season/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/26013717/library-bitcoin-dominance-falls-below-60-signaling-potential-alt-800x450.png",
+        "publishedAt": "2026-09-26T05:37:22Z",
+        "content": "Glassnode's altcoin cycle signal has surged to 81.25, but other indicators tell a more complicated story Bitcoin’s grip on the crypto market is loosening. BTC dominance, the metric tracking Bitcoin’s… [+2618 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "比特币主导地位下降，可能影响市场趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到比特币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，调整策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_1039f0ab9286",
+      "title": "Bitwise, Franklin ETF clients acquire $23M in XRP, boosting institutional interest",
+      "content": "Institutional investments in XRP ETFs could enhance market confidence, potentially driving price momentum and influencing future valuation forecasts.\nThe post Bitwise, Franklin ETF clients acquire $23M in XRP, boosting institutional interest appeared first on…",
+      "url": "https://cryptobriefing.com/bitwise-franklin-etf-clients-acquire-23m-in-xrp-boosting-institutional-interest/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-09-26T05:15:27Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Bitwise, Franklin ETF clients acquire $23M in XRP, boosting institutional interest",
+        "description": "Institutional investments in XRP ETFs could enhance market confidence, potentially driving price momentum and influencing future valuation forecasts.\nThe post Bitwise, Franklin ETF clients acquire $23M in XRP, boosting institutional interest appeared first on…",
+        "url": "https://cryptobriefing.com/bitwise-franklin-etf-clients-acquire-23m-in-xrp-boosting-institutional-interest/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/26011526/library-bitwise-franklin-etf-clients-acquire-23m-in-xrp-boosting-1-800x450.png",
+        "publishedAt": "2026-09-26T05:15:27Z",
+        "content": "Bitwise and Franklin Templeton ETF clients have purchased $22.65 million worth of XRP, according to WhaleInsider. This acquisition adds to the growing institutional interest in XRP-linked exchange-tr… [+1500 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "机构对XRP的兴趣提升了市场关注度。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到机构对XRP的兴趣",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注机构投资动态，调整市场策略。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_3dc33d3aea9d",
+      "title": "Kennedy Center whistleblowers expose leak fix Trump's chief shelved before shutdown",
+      "content": "Former Kennedy Center employees allege that the very leak problem now being used to justify shutting down the arts institution was actually canceled from repair months ago by the same official now citing it as an urgent safety emergency.A lawyer representing …",
+      "url": "https://www.rawstory.com/kennedy-center-2677941625/",
+      "source": "Raw Story",
+      "source_type": "news",
+      "author": "Matthew Chapman",
+      "published_at": "2026-09-26T00:01:16Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Raw Story"
+        },
+        "author": "Matthew Chapman",
+        "title": "Kennedy Center whistleblowers expose leak fix Trump's chief shelved before shutdown",
+        "description": "Former Kennedy Center employees allege that the very leak problem now being used to justify shutting down the arts institution was actually canceled from repair months ago by the same official now citing it as an urgent safety emergency.A lawyer representing …",
+        "url": "https://www.rawstory.com/kennedy-center-2677941625/",
+        "urlToImage": "https://www.rawstory.com/media-library/a-tarp-covers-the-facade-of-the-john-f-kennedy-memorial-center-for-the-performing-arts-following-a-federal-judges-order-to-re.jpg?id=67005694&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
+        "publishedAt": "2026-09-26T00:01:16Z",
+        "content": "Former Kennedy Center employees allege that the very leak problem now being used to justify shutting down the arts institution was actually canceled from repair months ago by the same official now ci… [+2434 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_e1a96580e8fb",
+      "title": "China’s AI Gamble -- and America’s Leverage",
+      "content": "Photo Credit:AI data center\n \n pixabayBy Mario Alexis PortellaThe U.S. is ahead of China in the AI race, and the Chinese know it. But the technological gap with China has narrowed dramatically.",
+      "url": "https://www.americanthinker.com/articles/2026/09/china-s-ai-gamble-and-america-s-leverage/",
+      "source": "Americanthinker.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-09-26T04:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Americanthinker.com"
+        },
+        "author": null,
+        "title": "China’s AI Gamble -- and America’s Leverage",
+        "description": "Photo Credit:AI data center\n \n pixabayBy Mario Alexis PortellaThe U.S. is ahead of China in the AI race, and the Chinese know it. But the technological gap with China has narrowed dramatically.",
+        "url": "https://www.americanthinker.com/articles/2026/09/china-s-ai-gamble-and-america-s-leverage/",
+        "urlToImage": "https://images.americanthinker.com/iv/ivasyhfxpcwlc9o1zpwm_1200.jpg",
+        "publishedAt": "2026-09-26T04:00:00Z",
+        "content": "The competition between the United States and China over artificial intelligence intensified over Thursday’s summit between President Donald Trump and general secretary of the Chinese Communist Party… [+7254 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "中国在AI领域的投资可能影响加密行业发展。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及AI与加密行业的关系",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注AI技术对加密行业的潜在影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_969f4a81abd6",
+      "title": "tabulixml added to PyPI",
+      "content": "Automated Tabular Machine Learning Toolkit",
+      "url": "https://pypi.org/project/tabulixml/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-09-26T06:49:15Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "tabulixml added to PyPI",
+        "description": "Automated Tabular Machine Learning Toolkit",
+        "url": "https://pypi.org/project/tabulixml/",
+        "urlToImage": null,
+        "publishedAt": "2026-09-26T06:49:15Z",
+        "content": "Lightweight, transparent, and deterministic tabular data cleaning for Machine Learning -- built with pure Python, pandas, numpy, and scipy.\r\nIntroduction\r\nTabulixML is a lightweight Python toolkit de… [+25061 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series C",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_8047240a71b1",
+      "title": "The $3.3b GST debt trap and the wrong tax businesses rely on – Josh Taylor",
+      "content": "OPINION: When cashflow becomes tight, money marked for GST often becomes the buffer.",
+      "url": "https://www.nzherald.co.nz/business/the-33b-gst-debt-trap-and-the-wrong-tax-businesses-rely-on-josh-taylor/premium/V3C7HAO2K5GE3AFS5ZGL7EPFME/",
+      "source": "New Zealand Herald",
+      "source_type": "news",
+      "author": "Josh Taylor",
+      "published_at": "2026-09-26T02:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "New Zealand Herald"
+        },
+        "author": "Josh Taylor",
+        "title": "The $3.3b GST debt trap and the wrong tax businesses rely on – Josh Taylor",
+        "description": "OPINION: When cashflow becomes tight, money marked for GST often becomes the buffer.",
+        "url": "https://www.nzherald.co.nz/business/the-33b-gst-debt-trap-and-the-wrong-tax-businesses-rely-on-josh-taylor/premium/V3C7HAO2K5GE3AFS5ZGL7EPFME/",
+        "urlToImage": "https://www.nzherald.co.nz/resizer/v2/3US2VOFSCVASPPJXCIDZEAWWQM.jpg?auth=ee39dab572a963eb056b4f471ead2f8fd1db0afb3bb49bff2d35ef2314e72106&width=1200&height=675&quality=70&focal=723%2C688&smart=false",
+        "publishedAt": "2026-09-26T02:00:00Z",
+        "content": "The real problem is cashflow\r\nFor many businesses, unpaid GST is the symptom. The real problem is cashflow.\r\nOver the past few years, businesses have had to contend with inflation, rising costs, high… [+4201 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding funding round",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "讨论了加密货币税务问题及其影响。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注税务政策变化对业务的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_bc8ee9c79897",
+      "title": "Avex AI – Get daily portfolio moves from your holdings, liquidity, and macro",
+      "content": "Get daily portfolio moves from your holdings, liquidity, and macro",
+      "url": "https://betalist.com/startups/avex-ai",
+      "source": "Betalist.com",
+      "source_type": "news",
+      "author": "BetaList",
+      "published_at": "2026-09-26T03:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Betalist.com"
+        },
+        "author": "BetaList",
+        "title": "Avex AI – Get daily portfolio moves from your holdings, liquidity, and macro",
+        "description": "Get daily portfolio moves from your holdings, liquidity, and macro",
+        "url": "https://betalist.com/startups/avex-ai",
+        "urlToImage": "https://resize.imagekit.co/S9f5yrO2BG2vs-LDjiJGfJ_C0xwbrQpMDt45nQNIG8Q/plain/s3://betalist-production/gxrfcs85xhnbi0qzlwusphdgwuqb",
+        "publishedAt": "2026-09-26T03:00:00Z",
+        "content": "Avex AI is a private wealth copilot for self-directed investors. It unifies holdings across multiple brokers, accounts, and currencies into one view, parses statements automatically, and analyzes all… [+88 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Avex AI 提供投资组合动态分析服务。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到宏观流动性",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注市场动态以调整策略。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_f466af51615d",
+      "title": "Swiss bank shields Bitget institutions while retail funds freeze",
+      "content": "Sygnum offers bank-held trading collateral to institutional clients, while Bitget's withdrawal pause leaves ordinary balances dependent on its own controls and fund.\nThe post Swiss bank shields Bitget institutions while retail funds freeze appeared first on C…",
+      "url": "https://cryptoslate.com/swiss-bank-shields-bitget-institutions-while-retail-funds-freeze/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam 'Akiba' Wright",
+      "published_at": "2026-09-26T02:30:16Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam 'Akiba' Wright",
+        "title": "Swiss bank shields Bitget institutions while retail funds freeze",
+        "description": "Sygnum offers bank-held trading collateral to institutional clients, while Bitget's withdrawal pause leaves ordinary balances dependent on its own controls and fund.\nThe post Swiss bank shields Bitget institutions while retail funds freeze appeared first on C…",
+        "url": "https://cryptoslate.com/swiss-bank-shields-bitget-institutions-while-retail-funds-freeze/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/09/bitget-custody-withdrawals.webp",
+        "publishedAt": "2026-09-26T02:30:16Z",
+        "content": "Bitget says about $387.5 million in assets was transferred to attacker-controlled addresses during a Sept. 24 wallet breach. Its withdrawals remained suspended in notices issued through Sept. 25, eve… [+6032 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "瑞士银行在加密监管中保护Bitget机构。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注瑞士的加密监管动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_287228478f90",
+      "title": "ETMarkets Smart Talk | Rate-cut cycle over, RBI may be at cusp of rate hikes; yields could inch higher: Puneet Pal",
+      "content": "PGIM India’s Puneet Pal expects India’s rate-cut cycle to end and policy rates to rise 50-75 basis points by FY27 amid higher crude and sticky inflation. He sees rising yields creating opportunities in high-quality corporate bond and target-maturity funds.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-rate-cut-cycle-over-rbi-may-be-at-cusp-of-rate-hikes-yields-could-inch-higher-puneet-pal/articleshow/134499579.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "Kshitij Anand",
+      "published_at": "2026-09-26T07:10:20Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Kshitij Anand",
+        "title": "ETMarkets Smart Talk | Rate-cut cycle over, RBI may be at cusp of rate hikes; yields could inch higher: Puneet Pal",
+        "description": "PGIM India’s Puneet Pal expects India’s rate-cut cycle to end and policy rates to rise 50-75 basis points by FY27 amid higher crude and sticky inflation. He sees rising yields creating opportunities in high-quality corporate bond and target-maturity funds.",
+        "url": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-rate-cut-cycle-over-rbi-may-be-at-cusp-of-rate-hikes-yields-could-inch-higher-puneet-pal/articleshow/134499579.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-134499627,width-1200,height-630,imgsize-5204170,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-09-26T07:10:20Z",
+        "content": "After an aggressive rate-cut cycle, the Indian fixed-income market could be entering a very different phase, with rising crude oil prices, elevated global bond yields and sticky inflation putting ren… [+3923 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "MPC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "印度央行可能加息，影响市场趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到利率和市场趋势",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注利率变化对市场的影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_6a0a2c02f3aa",
+      "title": "Best of BS Opinion: Don't hang the ECI just yet, make it work efficiently",
+      "content": "From electoral-roll revisions and Telangana politics to institutional trust and the business of spirituality, today's opinions examine governance, political strategy and consumer communities",
+      "url": "https://www.business-standard.com/opinion/specials/best-of-bs-opinion-don-t-hang-the-eci-just-yet-make-it-work-efficiently-126092501072_1.html",
+      "source": "Business Standard",
+      "source_type": "news",
+      "author": "Tanmaya Nanda",
+      "published_at": "2026-09-26T00:45:36Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Business Standard"
+        },
+        "author": "Tanmaya Nanda",
+        "title": "Best of BS Opinion: Don't hang the ECI just yet, make it work efficiently",
+        "description": "From electoral-roll revisions and Telangana politics to institutional trust and the business of spirituality, today's opinions examine governance, political strategy and consumer communities",
+        "url": "https://www.business-standard.com/opinion/specials/best-of-bs-opinion-don-t-hang-the-eci-just-yet-make-it-work-efficiently-126092501072_1.html",
+        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-11/20/thumb/fitandfill/1200X628/1700502351-8725.jpg",
+        "publishedAt": "2026-09-26T00:45:36Z",
+        "content": "From electoral-roll revisions and Telangana politics to institutional trust and the business of spirituality, today's opinions examine governance, political strategy and consumer communities\r\nElectio… [+3559 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "讨论加密货币监管效率的问题。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化，适时调整策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_24e339b9a89d",
+      "title": "FEI to inspect Nigeria’s facilities after NOC approves NEF",
+      "content": "The Fédération Équestre Internationale will begin a four-day inspection of Nigeria’s facilities as the Nigeria Equestrian Federation seeks full affiliation\n\nRead More: https://punchng.com/fei-to-inspect-nigerias-facilities-after-noc-approves-nef/",
+      "url": "https://punchng.com/fei-to-inspect-nigerias-facilities-after-noc-approves-nef/",
+      "source": "The Punch",
+      "source_type": "news",
+      "author": "Punch Newspapers",
+      "published_at": "2026-09-26T00:22:59Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Punch"
+        },
+        "author": "Punch Newspapers",
+        "title": "FEI to inspect Nigeria’s facilities after NOC approves NEF",
+        "description": "The Fédération Équestre Internationale will begin a four-day inspection of Nigeria’s facilities as the Nigeria Equestrian Federation seeks full affiliation\n\nRead More: https://punchng.com/fei-to-inspect-nigerias-facilities-after-noc-approves-nef/",
+        "url": "https://punchng.com/fei-to-inspect-nigerias-facilities-after-noc-approves-nef/",
+        "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/09/25221017/nef1_1790370617-1200x630.webp",
+        "publishedAt": "2026-09-26T00:22:59Z",
+        "content": "The Fédération Équestre Internationale will begin a four-day inspection of Nigerias equestrian facilities on Monday, September 28, running through to October 1, as the Nigeria Equestrian Federation p… [+3693 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_29bc5a88bcbf",
+      "title": "IBM links 17 banks to the SWIFT ledger, but the cloud risk persists",
+      "content": "Digital Asset Haven’s ISO 20022 adapter supports tokenized-deposit instructions, while final settlement stays with existing systems.\nThe post IBM links 17 banks to the SWIFT ledger, but the cloud risk persists appeared first on CryptoSlate.",
+      "url": "https://cryptoslate.com/ibm-links-17-banks-to-the-swift-ledger-but-the-cloud-risk-persists/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam 'Akiba' Wright",
+      "published_at": "2026-09-26T00:40:46Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam 'Akiba' Wright",
+        "title": "IBM links 17 banks to the SWIFT ledger, but the cloud risk persists",
+        "description": "Digital Asset Haven’s ISO 20022 adapter supports tokenized-deposit instructions, while final settlement stays with existing systems.\nThe post IBM links 17 banks to the SWIFT ledger, but the cloud risk persists appeared first on CryptoSlate.",
+        "url": "https://cryptoslate.com/ibm-links-17-banks-to-the-swift-ledger-but-the-cloud-risk-persists/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/09/tokenized-deposit-harbor.webp",
+        "publishedAt": "2026-09-26T00:40:46Z",
+        "content": "IBM announced a beta connection between its Digital Asset Haven and SWIFT's shared ledger for tokenized deposits on Sept. 24, using an ISO 20022 Messaging Adapter that lets participating institutions… [+3071 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody compliance",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "IBM将17家银行连接到SWIFT账本，影响跨境支付行业。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及跨境支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注SWIFT与银行的合作动态",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_b6cd03613552",
+      "title": "observed-knowledge-ledger added to PyPI",
+      "content": "Observed Knowledge Ledger — lessons your coding agents can trust: proven by checks, flagged when the code changes, shared across repos when you want.",
+      "url": "https://pypi.org/project/observed-knowledge-ledger/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-09-26T02:11:44Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "observed-knowledge-ledger added to PyPI",
+        "description": "Observed Knowledge Ledger — lessons your coding agents can trust: proven by checks, flagged when the code changes, shared across repos when you want.",
+        "url": "https://pypi.org/project/observed-knowledge-ledger/",
+        "urlToImage": null,
+        "publishedAt": "2026-09-26T02:11:44Z",
+        "content": "Lessons your coding agents can trust: proven by checks, flagged when the code changes,\r\nshared across repos when you want.\r\nA small database of the specific lessons a codebase has learned the bugs it… [+41021 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional compliance",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "观察到知识账本被添加到PyPI。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注区块链基础设施的进展。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
+      "description": "After the Clarity Act failed in the Senate, the SEC, CFTC, and the Fed moved within days to write crypto's rules themselves. Will it be enough?",
+      "url": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-09-26T16:06:03",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "加密监管机构开始制定规则。",
+      "business_relevance": 0.7,
+      "relevance_reason": "加密货币监管动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Stablecoin Payments Go Mainstream: Sept 2026 Rails - FinanceX Magazine",
+      "description": "Stablecoin Payments Go Mainstream: Sept 2026 Rails&nbsp;&nbsp;FinanceX Magazine",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnkxU2toaUtrdTZldF9pVGFXdjk0dHZHSnduX3VMUV9xbHk3OVhLaUpWM0RKUmZOZnhwMzNHTkhKTTJQLUdsbW1CNWwzOWsycGc2LVVZVklSV29XT0EzbmM1bExQM1ZEZk1MeGx0QVYtbHk0QWx5NWRjUHJiSV9WVk05LVJkMEhZSHZoMXRhZFJTYUJGaE1HdXI5UjhtWXB4VS1pS1lFYU9rOWpFcG44dWFtQ2ViU0J6UEJDOTUzbFhnZV9yV3pEWUxXZjFoZw?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-09-26T09:34:21",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "稳定币支付正在成为主流趋势。",
+      "business_relevance": 0.9,
+      "relevance_reason": "稳定币支付趋势",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币支付的技术进展和市场动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Stablecoins Are Coming For Payments: US Bank Tests Cross-Border Transfers As Marqeta, BVNK Target Card Spending - Stocktwits",
+      "description": "Stablecoins Are Coming For Payments: US Bank Tests Cross-Border Transfers As Marqeta, BVNK Target Card Spending&nbsp;&nbsp;Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOU0ZhX29ObXVrV2NHb0d6dGVpQUZqMDZHNHc1WnMzR3hLQ2lRZUlkNWtvTEktckwyLW1vTDFmM3dWTV8zN1hlYTVaWGN3NFEtQ2pfa194YU5JbXUwbW9NODRlYWppOFRFTTljdGlDX0l1UlpPblE2YkFUdm5ubHozS05ONDJfcmJXLW1XSnN1MnJ6RV9mRnA0ZGp6NGx3MkJyak1mTnIyQm5yM1FFamN0Vmtrak5xM19hZVlSU0gydFZnWGozY1BfYktoeG80cGY2YXVKOU5HWm9ON1dYUkV1ODM2SFZRU1pCYlJTLTB5aw?oc=5",
+      "source": "Google News (cross-border stablecoin)",
+      "source_category": "google_news",
+      "published_at": "2026-09-26T07:52:17",
+      "data_type": "rss",
+      "search_keyword": "cross-border stablecoin",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [
+        "BVNK"
+      ],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "15 Institutions Spoke to Bitwise: More Crypto Buyers May Be Coming - Cryptonews.net",
+      "description": "15 Institutions Spoke to Bitwise: More Crypto Buyers May Be Coming&nbsp;&nbsp;Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzYVZEc1lBc29LbGdtbUZ3Q0dHUXgzZFRSVWNQSTA4ZHFsZHQ2WEVjbnFGLTZjeTNoY0FSd2ZiR2NadHhMd2Rmb3p2SmRyQkpwMWNpTFZoaVI?oc=5",
+      "source": "Google News (crypto custody institution)",
+      "source_category": "google_news",
+      "published_at": "2026-09-27T04:31:52",
+      "data_type": "rss",
+      "search_keyword": "crypto custody institution",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "更多机构可能进入加密市场。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币买家趋势",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注市场动态，调整策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "SoFi Is Bypassing the Banking Bottleneck With Stablecoin Settlement - MarketBeat",
+      "description": "SoFi Is Bypassing the Banking Bottleneck With Stablecoin Settlement&nbsp;&nbsp;MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUWJ2UlZld1g0aURRNVliR09MWWlBS2lHa2c0LThyYW9ZakpMbG83THpkaWtNQzVBTVFCOERpb21UamFFcng4RTVDTGFickxaWlVTSHQ2OFJiTmNLYW5BdUJwU3ozLUdaaUtOeXI2VURzX01Vb1VRUjNqTl9zcTh2MG1aNHNYRzBjZ2ZQUTZaOUFEa0t5dkhmWXg2YUlFX2gyMkFSN085cw?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-09-26T15:42:05",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "SoFi"
+      ],
+      "importance_score": 8,
+      "ai_summary": "SoFi通过稳定币结算绕过银行瓶颈。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币结算",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币在支付中的应用趋势",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Is SoFi Technologies (SOFI) Fairly Valued After Its SoFiUSD Stablecoin Settlement Launch? - simplywall.st",
+      "description": "Is SoFi Technologies (SOFI) Fairly Valued After Its SoFiUSD Stablecoin Settlement Launch?&nbsp;&nbsp;simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZEs0S1dOcExoNkd4RjVoNjZxaXhDNFItSzczUmU4c192aDVuZHZBUHpndkctb3IwY3JZcF9HOVg3clpaenNrUUgyRXoxS2JSMTlkUEctSGpiSE8tTVBkTDA1VnJldWNEV2lVSjBNR1YyQnF0QVFMN3dzdERGSUlfSXhlMy1ySTZVYjBrR0dkajJ1RXRmOFB0U1ZnXzg4Yjlpc2p0aUZkVmd4RnlhWTNVS1ZPQUZvejNfTmktLVZZX3F6bmVSaGI5UFFtYWYtVWUxM2xHeUdvcUcyRVZOS2pseG9VcmPSAeoBQVVfeXFMT1FFeW93M0t0dDRDc09lWHJ5czgzS0U3dkRwbHBjNjhlRmhmcXhtWWdzVFA3TzNRZW05aFVySGNYSDR3YTJWbjAwUFkyWkJXcmlvb29ScWpJd1MyWFZBdTZoMVRDcHlSQk56cEtWTG1yVERKSjFmQUpyVjE2dEdyNUloU2xTWF8yR2laODdNQnU4Zl9kWDRaajBhTUVDdFJqY0xySVVTa3lyUTdZRXlaMkFKZzNDN19tUkZlejV4akN2bGFrZldYb0FHMl9aT2N4R0FfZ1NTTlBWSWJLRjRzdTE2YTNuQnJ2YU93?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-09-26T18:42:46",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "SoFi Technologies"
+      ],
+      "importance_score": 8,
+      "ai_summary": "SoFi推出稳定币结算服务，影响行业动态。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币业务",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场的监管动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    }
+  ]
+}
