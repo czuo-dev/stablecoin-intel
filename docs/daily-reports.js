@@ -4,6 +4,431 @@
 
 const dailyReports = [
     {
+        "date": "2026-10-04",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-10-04.md",
+        "newsItems": [
+            {
+                "id": "2026-10-04-industry-0",
+                "title": "What color salt block is best for deer?",
+                "source": "Lifesciencesworld.com",
+                "date": "2026-10-04",
+                "url": "https://www.lifesciencesworld.com/what-color-salt-block-is-best-for-deer/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-04-industry-1",
+                "title": "DOJ Seeks $61M in Iranian Oil Proceeds Laundered Through Binance Accounts",
+                "source": "Activistpost.com",
+                "date": "2026-10-04",
+                "url": "https://activistpost.com/doj-seeks-61m-in-iranian-oil-proceeds-laundered-through-binance-accounts/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-04-industry-2",
+                "title": "True Markets Launches Tokenized Equities, Bringing Best Execution On-Chain",
+                "source": "Antaranews.com",
+                "date": "2026-10-04",
+                "url": "https://en.antaranews.com/news/433970/true-markets-launches-tokenized-equities-bringing-best-execution-on-chain",
+                "category": "industry",
+                "summary": "True Markets推出代币化股票，推动市场发展。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注代币化资产的市场动态",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-04-industry-3",
+                "title": "Weekly Wrap: Crypto Rallies To Start ‘Uptober’",
+                "source": "Biztoc.com",
+                "date": "2026-10-04",
+                "url": "https://biztoc.com/x/966e50ac402be28f",
+                "category": "industry",
+                "summary": "加密市场在十月初出现上涨趋势。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "关注市场动态以调整策略",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-04-industry-4",
+                "title": "We Asked AI Which Coin Will Finish October on Top: XRP, Solana, Hyperliquid, or NEAR",
+                "source": "Biztoc.com",
+                "date": "2026-10-04",
+                "url": "https://biztoc.com/x/2cb9f420425e6df7",
+                "category": "industry",
+                "summary": "讨论了不同加密货币的市场表现",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场动态以调整策略",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-04-industry-5",
+                "title": "SEC approves 3x leveraged Bitcoin and Ether ETPs, but trading has to wait",
+                "source": "Crypto Briefing",
+                "date": "2026-10-04",
+                "url": "https://cryptobriefing.com/sec-approves-3x-leveraged-bitcoin-ether-etps/",
+                "category": "industry",
+                "summary": "SEC批准了3倍杠杆的比特币和以太坊ETP。",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管动态对市场的潜在影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-04-industry-6",
+                "title": "XRP Asia launches to push XRP Ledger adoption across the region",
+                "source": "Crypto Briefing",
+                "date": "2026-10-04",
+                "url": "https://cryptobriefing.com/xrp-asia-launches-xrp-ledger-adoption/",
+                "category": "industry",
+                "summary": "XRP Asia 推动 XRP Ledger 在亚太地区的采用。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注 XRP Ledger 的发展动态。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-04-industry-7",
+                "title": "Grayscale’s Zcash ETF sheds $93.56 million in a single week",
+                "source": "Crypto Briefing",
+                "date": "2026-10-04",
+                "url": "https://cryptobriefing.com/grayscale-zcash-etf-weekly-outflow/",
+                "category": "industry",
+                "summary": "Grayscale的Zcash ETF在一周内损失了9356万美元。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场动态，评估潜在影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Grayscale"
+                ]
+            },
+            {
+                "id": "2026-10-04-industry-8",
+                "title": "BlackRock’s IBIT buys $195.6 million of Bitcoin in a day, $1.57 billion over the past month",
+                "source": "Crypto Briefing",
+                "date": "2026-10-04",
+                "url": "https://cryptobriefing.com/blackrock-ibit-buys-bitcoin-past-month/",
+                "category": "industry",
+                "summary": "BlackRock在短时间内大量购买比特币，反映市场趋势。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注市场动态，评估投资机会。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-04-industry-9",
+                "title": "New SEC crypto rules threaten small advisers, but big firms win",
+                "source": "CryptoSlate",
+                "date": "2026-10-04",
+                "url": "https://cryptoslate.com/new-sec-crypto-rules-threaten-small-advisers-but-big-firms-win/",
+                "category": "industry",
+                "summary": "新SEC加密规则影响小型顾问公司",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注新规对市场的长期影响",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-04-industry-10",
+                "title": "ICBA Sues OCC to Stop Alleged Fast-Track of Crypto Bank Charters",
+                "source": "pymnts.com",
+                "date": "2026-10-04",
+                "url": "https://www.pymnts.com/legal/bank-regulation/2026/icba-sues-occ-to-stop-alleged-fast-track-of-crypto-bank-charters/",
+                "category": "industry",
+                "summary": "ICBA起诉OCC以阻止加密银行牌照的快速审批。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "竞争格局"
+                ],
+                "action": "关注监管政策变化对业务的影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-04-industry-11",
+                "title": "BNY and Kraken Parent Payward Eye Global Financial Infrastructure Partnership",
+                "source": "Biztoc.com",
+                "date": "2026-10-04",
+                "url": "https://biztoc.com/x/f764b4ef074ea730",
+                "category": "industry",
+                "summary": "BNY与Kraken母公司探讨全球金融基础设施合作。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注金融基础设施合作动态",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "BNY",
+                    "Kraken"
+                ]
+            },
+            {
+                "id": "2026-10-04-industry-12",
+                "title": "The Clarity Act Did Not Pass. But Here Are 2 Altcoins That Could Still Soar in Value",
+                "source": "Biztoc.com",
+                "date": "2026-10-04",
+                "url": "https://biztoc.com/x/7c8c36f7ef53e624",
+                "category": "industry",
+                "summary": "Clarity法案未通过，影响加密市场走势。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场动态，调整策略。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-04-industry-13",
+                "title": "Robotics AI developer FieldAI reportedly raising $700M in funding",
+                "source": "SiliconANGLE News",
+                "date": "2026-10-04",
+                "url": "https://siliconangle.com/2026/10/02/robotics-ai-developer-fieldai-reportedly-raising-700m-in-funding/",
+                "category": "industry",
+                "summary": "FieldAI 正在筹集 7 亿美元资金。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注机器人和 AI 领域的投资动态。",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-10-04-industry-14",
+                "title": "Ireland demand more rounded performance for second Test against Japan",
+                "source": "The Irish Times",
+                "date": "2026-10-04",
+                "url": "https://www.irishtimes.com/sport/rugby/2026/10/03/ireland-demand-more-rounded-performance-for-second-test-against-japan/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-04-industry-15",
+                "title": "Freddie Freeman vs. Atlanta? Dodgers star not buying into playoff narrative",
+                "source": "USA Today",
+                "date": "2026-10-04",
+                "url": "https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2026/10/02/dodgers-braves-nlds-freddie-freeman-return-mlb-playoffs/92066416007/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-04-industry-16",
+                "title": "Illegal immigrant with long rap sheet arrested twice in one day in NY — pols slam state’s ‘failed sa",
+                "source": "New York Post",
+                "date": "2026-10-04",
+                "url": "https://nypost.com/2026/10/02/us-news/brewster-man-arrested-twice-in-one-day-is-an-illegal-immigrant-with-long-rap-sheet-dhs/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-04-industry-17",
+                "title": "Large caps face investor apathy, mid and small caps fuel euphoria",
+                "source": "The Times of India",
+                "date": "2026-10-04",
+                "url": "https://economictimes.indiatimes.com/markets/stocks/news/large-caps-face-investor-apathy-mid-and-small-caps-fuel-euphoria/articleshow/134650331.cms",
+                "category": "industry",
+                "summary": "大型资本面临投资者冷淡，中小型资本引发热情。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "关注市场动态以调整策略",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-10-04-industry-18",
+                "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
+                "source": "Decrypt",
+                "date": "2026-10-04",
+                "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
+                "category": "industry",
+                "summary": "Chainalysis利用AI追踪北韩黑客资金流向。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注黑客事件对行业监管的影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-04-industry-19",
+                "title": "Visa Says Business Programs Drive 17% of Stablecoin Card Volume - Altcoin Buzz",
+                "source": "Google News (cross-border stablecoin)",
+                "date": "2026-10-04",
+                "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSnU0aDZRZjZJd0Q3ME9VSFlCLWdZSW9GSUtPUkZUMXBkQWFGT2pldWFibmtHNmE0X3dxUVhzdmVSTTU3eVZoX3ZIR01HVkQtaHMxejEtdnpvV0ZQRjlkVW9RVXpQWkpnSkZ0UTM3V3g2SUFIVzVRTXY2X1JQZURHRzJKdlEzSVVsVnllX1pESkE5UWM?oc=5",
+                "category": "industry",
+                "summary": "Visa 业务程序推动稳定币卡交易量增长。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币支付市场动态。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Visa"
+                ]
+            },
+            {
+                "id": "2026-10-04-industry-20",
+                "title": "SoFi’s US$25 Billion Card Portfolio Shift To Bank-Issued Stablecoin Might Change The Case For Invest",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-10-04",
+                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdWN2Q2tYbXVvejlQWndFcl91SXZfV0pBNnBKTTl6ZFRCU1NMaDFEWHc4cXllZjR1STR3eFJEbFRIdGZrTUs1dVA3TkxhRmI5RXRwbHlFVVFJU1JiNFV1UW8xSi1sVm5JeXVxTXN5blhhWF9TRS1Nam80bEN6TmdVN2VPQ2tBYXBaOGpTY3VKSUZjUQ?oc=5",
+                "category": "industry",
+                "summary": "SoFi转向银行发行稳定币可能影响投资前景。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注稳定币市场动态，评估投资机会。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "SoFi Technologies"
+                ]
+            }
+        ],
+        "stats": {
+            "totalThreats": 0,
+            "highThreats": 0,
+            "mediumThreats": 0,
+            "lowThreats": 0,
+            "competitorUpdates": 0,
+            "customerUpdates": 0,
+            "industryUpdates": 21
+        },
+        "dailySummary": {
+            "competitorThreat": "今日暂无竞争对手相关动态。",
+            "industryTrend": "今日加密行业的主要热点包括SEC批准3倍杠杆的比特币和以太坊ETP，以及BlackRock在短时间内大规模购买比特币，显示出机构投资者对市场的信心回暖。此外，True Markets推出代币化股票，可能为传统金融与加密市场的融合提供新机会。值得关注的是，新的SEC规则可能会对小型顾问公司造成压力，而大型机构则可能受益于市场整合。这些动态可能促使稳定币在支付基础设施中的应用加速，尤其是在跨境支付和资产管理领域，提升其作为流动性工具的角色。"
+        },
+        "highlights": {
+            "competitors": [],
+            "clients": [],
+            "industry": [
+                {
+                    "id": "2026-10-04-industry-0",
+                    "title": "What color salt block is best for deer?",
+                    "source": "Lifesciencesworld.com",
+                    "date": "2026-10-04",
+                    "url": "https://www.lifesciencesworld.com/what-color-salt-block-is-best-for-deer/",
+                    "category": "industry",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "subcategory": "other",
+                    "subcategoryName": "其他"
+                },
+                {
+                    "id": "2026-10-04-industry-1",
+                    "title": "DOJ Seeks $61M in Iranian Oil Proceeds Laundered Through Binance Accounts",
+                    "source": "Activistpost.com",
+                    "date": "2026-10-04",
+                    "url": "https://activistpost.com/doj-seeks-61m-in-iranian-oil-proceeds-laundered-through-binance-accounts/",
+                    "category": "industry",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "subcategory": "other",
+                    "subcategoryName": "其他"
+                },
+                {
+                    "id": "2026-10-04-industry-2",
+                    "title": "True Markets Launches Tokenized Equities, Bringing Best Execution On-Chain",
+                    "source": "Antaranews.com",
+                    "date": "2026-10-04",
+                    "url": "https://en.antaranews.com/news/433970/true-markets-launches-tokenized-equities-bringing-best-execution-on-chain",
+                    "category": "industry",
+                    "summary": "True Markets推出代币化股票，推动市场发展。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势",
+                        "技术发展"
+                    ],
+                    "action": "关注代币化资产的市场动态",
+                    "subcategory": "other",
+                    "subcategoryName": "其他"
+                }
+            ]
+        }
+    },
+    {
         "date": "2026-10-03",
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-10-03.md",
@@ -74093,386 +74518,6 @@ const dailyReports = [
                     "action": "关注安全漏洞对市场的影响。",
                     "subcategory": "custody_mpc_risk",
                     "subcategoryName": "托管与风险"
-                }
-            ]
-        }
-    },
-    {
-        "date": "2026-07-06",
-        "title": "稳定币行业日报",
-        "file": "reports/daily/daily_brief_2026-07-06.md",
-        "newsItems": [
-            {
-                "id": "2026-07-06-industry-0",
-                "title": "Clare need something out of the ordinary against revitalised Limerick",
-                "source": "The Irish Times",
-                "date": "2026-07-06",
-                "url": "https://www.irishtimes.com/sport/gaelic-games/2026/07/05/clare-need-something-out-of-the-ordinary-against-revitalised-limerick/",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-07-06-industry-1",
-                "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
-                "source": "Cointelegraph",
-                "date": "2026-07-06",
-                "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework",
-                "category": "industry",
-                "summary": "Moonbeam 将从 Polkadot 转向 Base，推出 AI 代理框架。",
-                "threatLevel": "medium",
-                "impact": [
-                    "技术发展",
-                    "市场趋势"
-                ],
-                "action": "关注技术发展动态，评估影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-07-06-industry-2",
-                "title": "Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap",
-                "source": "Cointelegraph",
-                "date": "2026-07-06",
-                "url": "https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap",
-                "category": "industry",
-                "summary": "Vitalik Buterin 分享了以太坊的未来发展方向。",
-                "threatLevel": "medium",
-                "impact": [
-                    "技术发展",
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-07-06-industry-3",
-                "title": "Security Affairs newsletter Round 584 by Pierluigi Paganini – INTERNATIONAL EDITION",
-                "source": "Securityaffairs.com",
-                "date": "2026-07-06",
-                "url": "https://securityaffairs.com/194772/security/security-affairs-newsletter-round-584-by-pierluigi-paganini-international-edition.html",
-                "category": "industry",
-                "summary": "新闻涉及加密货币监管动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注监管动态，适时调整策略。",
-                "subcategory": "custody_mpc_risk",
-                "subcategoryName": "托管与风险"
-            },
-            {
-                "id": "2026-07-06-industry-4",
-                "title": "Mexico City caps World Cup celebration crowds at 25,000 after four fan deaths, as crypto betting vol",
-                "source": "Crypto Briefing",
-                "date": "2026-07-06",
-                "url": "https://cryptobriefing.com/mexico-world-cup-crowd-restrictions-crypto-betting/",
-                "category": "industry",
-                "summary": "墨西哥城限制世界杯庆祝活动，且加密投注量激增。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注加密投注市场动态",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-07-06-industry-5",
-                "title": "Bending Spoons lists on NASDAQ at $25.7B valuation as tokenized shares bridge crypto and traditional",
-                "source": "Crypto Briefing",
-                "date": "2026-07-06",
-                "url": "https://cryptobriefing.com/bending-spoons-nasdaq-ipo-tokenized-shares/",
-                "category": "industry",
-                "summary": "Bending Spoons在NASDAQ上市，展示了加密与传统市场的融合。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注加密与传统金融的结合动态",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-07-06-industry-6",
-                "title": "Kraken’s FIFA World Cup moment arrives as Round of 16 kicks off and fan tokens find their footing",
-                "source": "Crypto Briefing",
-                "date": "2026-07-06",
-                "url": "https://cryptobriefing.com/kraken-fifa-world-cup-crypto-fan-tokens-4/",
-                "category": "industry",
-                "summary": "Kraken在世界杯期间的动态影响市场趋势。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注世界杯期间的加密货币市场变化",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-07-06-industry-7",
-                "title": "Crypto News: AlphaPepe Reveals CEX Partnership With Biconomy As Ethereum Price Prediction Targets $7",
-                "source": "GlobeNewswire",
-                "date": "2026-07-06",
-                "url": "https://www.globenewswire.com/news-release/2026/07/05/3322051/0/en/Crypto-News-AlphaPepe-Reveals-CEX-Partnership-With-Biconomy-As-Ethereum-Price-Prediction-Targets-7-000.html",
-                "category": "industry",
-                "summary": "AlphaPepe与Biconomy的合作揭示市场动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注市场合作动态，评估潜在影响。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照",
-                "tickers": [
-                    "AlphaPepe",
-                    "Biconomy"
-                ]
-            },
-            {
-                "id": "2026-07-06-industry-8",
-                "title": "Aptos fixes critical vulnerability that cost hundreds of dollars to exploit",
-                "source": "Crypto Briefing",
-                "date": "2026-07-06",
-                "url": "https://cryptobriefing.com/aptos-fixes-critical-vulnerability-move-vm/",
-                "category": "industry",
-                "summary": "Aptos修复了一个关键漏洞，影响区块链安全。",
-                "threatLevel": "medium",
-                "impact": [
-                    "技术发展",
-                    "竞争格局"
-                ],
-                "action": "关注区块链安全技术的进展。",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-07-06-industry-9",
-                "title": "Asymmetric Lawfare",
-                "source": "Americanthinker.com",
-                "date": "2026-07-06",
-                "url": "https://www.americanthinker.com/articles/2026/07/asymmetric-lawfare/",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-07-06-industry-10",
-                "title": "AJ Chronicles: So What’s Working in this Arts Bear Market?",
-                "source": "Artsjournal.com",
-                "date": "2026-07-06",
-                "url": "https://www.artsjournal.com/diacritical/2026/07/aj-chronicles-so-whats-working-in-this-arts-bear-market.html",
-                "category": "industry",
-                "summary": "艺术市场熊市中的加密趋势分析。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注艺术市场对加密的影响",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-07-06-industry-11",
-                "title": "C Suite to startup street: The second act that corporate veterans are choosing",
-                "source": "The Times of India",
-                "date": "2026-07-06",
-                "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/c-suite-to-startup-street-the-second-act-that-corporate-veterans-are-choosing/articleshow/132190212.cms",
-                "category": "industry",
-                "summary": "企业高管转型创业的趋势显著。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注高管转型对行业的影响",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-07-06-industry-12",
-                "title": "How Sovereign Wealth Funds Invest in Digital Assets",
-                "source": "The Block",
-                "date": "2026-07-06",
-                "url": "https://www.theblock.co/learn/407186/how-sovereign-wealth-funds-invest-in-digital-assets?utm_source=rss&utm_medium=rss",
-                "category": "industry",
-                "summary": "主权财富基金投资数字资产的方式分析。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "投资机会"
-                ],
-                "action": "关注主权财富基金的投资动向",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-07-06-industry-13",
-                "title": "Nigel Farage failed to declare funding from crypto gambling figure convicted of fraud: Sunday Times",
-                "source": "The Block",
-                "date": "2026-07-06",
-                "url": "https://www.theblock.co/post/407178/nigel-farage-failed-to-declare-funding-from-crypto-gambling-figure-convicted-of-fraud-sunday-times?utm_source=rss&utm_medium=rss",
-                "category": "industry",
-                "summary": "法拉奇未申报来自Tether股东的资金",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "竞争格局"
-                ],
-                "action": "关注相关监管动态",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照",
-                "tickers": [
-                    "Tether"
-                ]
-            },
-            {
-                "id": "2026-07-06-industry-14",
-                "title": "Crypto Payments Firm Mesh Eyes $2 Billion Valuation Backed by Binance - PYMNTS.com",
-                "source": "Google News (stablecoin payment)",
-                "date": "2026-07-06",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc1d5X0Z4SDByYUN2eUJWMzJIamQ5bUpQak9WRlF4MWxKVnM0Y1RQMXBweXZfbVpYbjY5TkZuSDBxUFRVd1BRMkppZUd6TnhRUzNVMGJOT0JjSXIyT285UEhHb2hFLThkcGxZSlhYcm1sQUQxVmgtS19aMjVmRUdiZi1Lc1NVX2dJSHJRclpaalR5UFk4M3YtY2R5Ym5SNUZQbU8taWQtdzhHazJ1QTc5eFlR?oc=5",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-07-06-industry-15",
-                "title": "Why Binance’s reported $2B Mesh investment could decide who controls stablecoin payments - CryptoSla",
-                "source": "Google News (stablecoin payment)",
-                "date": "2026-07-06",
-                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWhpZEgwOTRXd3JUV1pNenRzcXh6VzV6elA0d1g5dmRyYm9TQWMxUnQ1Tk9RTjBTb0l0SVl3VUthQXlZVk4yZE8ycDdlRzN1S1RDajFqRUxSczQzZGxNRXNaMVBGSi1VX242bUxnbWdxUEpoSXlDUDlzejB3UkhiUXpBM1Zabmk4WGJfVTRCODNDejhRZEFJ?oc=5",
-                "category": "industry",
-                "summary": "Binance的投资可能影响稳定币支付的控制权。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注稳定币支付市场的动态变化",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照",
-                "tickers": [
-                    "Binance"
-                ]
-            },
-            {
-                "id": "2026-07-06-industry-16",
-                "title": "Forbes Special Report: Stablecoin cross-border payments are faster now, but not cheaper yet - 链捕手Cha",
-                "source": "Google News (cross-border stablecoin)",
-                "date": "2026-07-06",
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nWTNKaHRWTmFEVHI2Q0JFREpnTnY0SU1lQVd0TDFyYllUSE1SNV81Rnc5cmNucXFpa3VWczJDYjJCOGg5aV9kTWNrcDB5UThHeGpCeEpKTjluYnc?oc=5",
-                "category": "industry",
-                "summary": "稳定币跨境支付速度提高但成本未降。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "技术发展",
-                    "竞争格局"
-                ],
-                "action": "关注稳定币支付成本变化，调整策略。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-07-06-industry-17",
-                "title": "Bank Adoption Stablecoins: Institutional Shifts in USDC Access - The Cryptonomist",
-                "source": "Google News (stablecoin settlement)",
-                "date": "2026-07-06",
-                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS2N5QkkyQVVRSExDSGJnd1plWDQ1TDV2TGVLY2s3UUhyMC1mdUt0OFJ1bllKeWVKcFllWFpsOGlJT2NDeG9EQkxKdVA4MGdZdExUREt1em0xTVZRUW1yM0ZZOVV2X0E5V0VvejE1clpDbDVjbUh0SzVpaDBDLU5tU1N3?oc=5",
-                "category": "industry",
-                "summary": "银行对稳定币的采用正在变化。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注稳定币在银行业的应用动态。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            }
-        ],
-        "stats": {
-            "totalThreats": 0,
-            "highThreats": 0,
-            "mediumThreats": 0,
-            "lowThreats": 0,
-            "competitorUpdates": 0,
-            "customerUpdates": 0,
-            "industryUpdates": 18
-        },
-        "dailySummary": {
-            "competitorThreat": "今日暂无竞争对手相关动态。",
-            "industryTrend": "今日行业热点主要集中在加密市场的动态与技术发展。Moonbeam从Polkadot转向Base，展现了跨链互操作性的趋势；Vitalik Buterin提出的“Lean Ethereum”发展方向，可能会推动以太坊的效率提升。同时，世界杯期间加密投注量激增，表明体育赛事正成为稳定币应用的新场景。此外，Bending Spoons的上市则显示了加密与传统市场的融合趋势。对于稳定币托管和支付基础设施行业而言，这些动态可能会加速合规需求的增加，同时推动稳定币在新兴应用场景中的普及与接受度。"
-        },
-        "highlights": {
-            "competitors": [],
-            "clients": [],
-            "industry": [
-                {
-                    "id": "2026-07-06-industry-0",
-                    "title": "Clare need something out of the ordinary against revitalised Limerick",
-                    "source": "The Irish Times",
-                    "date": "2026-07-06",
-                    "url": "https://www.irishtimes.com/sport/gaelic-games/2026/07/05/clare-need-something-out-of-the-ordinary-against-revitalised-limerick/",
-                    "category": "industry",
-                    "summary": "",
-                    "threatLevel": "neutral",
-                    "impact": [],
-                    "action": "",
-                    "subcategory": "other",
-                    "subcategoryName": "其他"
-                },
-                {
-                    "id": "2026-07-06-industry-1",
-                    "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
-                    "source": "Cointelegraph",
-                    "date": "2026-07-06",
-                    "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework",
-                    "category": "industry",
-                    "summary": "Moonbeam 将从 Polkadot 转向 Base，推出 AI 代理框架。",
-                    "threatLevel": "medium",
-                    "impact": [
-                        "技术发展",
-                        "市场趋势"
-                    ],
-                    "action": "关注技术发展动态，评估影响。",
-                    "subcategory": "other",
-                    "subcategoryName": "其他"
-                },
-                {
-                    "id": "2026-07-06-industry-2",
-                    "title": "Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap",
-                    "source": "Cointelegraph",
-                    "date": "2026-07-06",
-                    "url": "https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap",
-                    "category": "industry",
-                    "summary": "Vitalik Buterin 分享了以太坊的未来发展方向。",
-                    "threatLevel": "medium",
-                    "impact": [
-                        "技术发展",
-                        "市场趋势"
-                    ],
-                    "action": "",
-                    "subcategory": "other",
-                    "subcategoryName": "其他"
                 }
             ]
         }
