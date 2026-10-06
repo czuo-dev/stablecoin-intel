@@ -1,0 +1,3806 @@
+{
+  "policy": [
+    {
+      "id": "news_61dc0e84b499",
+      "title": "OpenPayd Sets Groundwork for 2027 US Stock Market Listing",
+      "content": "Payments infrastructure firm OpenPayd is reportedly setting the stage to go public in the U.S. The U.K. company expects to list on the Nasdaq by the year’s end as it prepares to enter the America market and embark on new acquisitions, CEO Iana Dimitrova said …",
+      "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/openpayd-sets-groundwork-for-2027-us-stock-market-listing/",
+      "source": "pymnts.com",
+      "source_type": "news",
+      "author": "PYMNTS",
+      "published_at": "2026-10-05T00:51:37Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "pymnts.com"
+        },
+        "author": "PYMNTS",
+        "title": "OpenPayd Sets Groundwork for 2027 US Stock Market Listing",
+        "description": "Payments infrastructure firm OpenPayd is reportedly setting the stage to go public in the U.S. The U.K. company expects to list on the Nasdaq by the year’s end as it prepares to enter the America market and embark on new acquisitions, CEO Iana Dimitrova said …",
+        "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/openpayd-sets-groundwork-for-2027-us-stock-market-listing/",
+        "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/09/OpenPayd.png?quality=82",
+        "publishedAt": "2026-10-05T00:51:37Z",
+        "content": "Payments infrastructure firm OpenPayd is reportedly setting the stage to go public in the U.S.The U.K. company expects to list on the Nasdaq by the years end as it prepares to enter the America marke… [+2238 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "Fireblocks",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "OpenPayd计划在2027年上市，影响行业动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及金融科技动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_ee8258420c5b",
+      "title": "Payward partners with Singapore Gulf Bank for 24/7 settlement services",
+      "content": "This partnership could revolutionize institutional trading by enabling seamless, round-the-clock capital movement, enhancing market responsiveness.\nThe post Payward partners with Singapore Gulf Bank for 24/7 settlement services appeared first on Crypto Briefi…",
+      "url": "https://cryptobriefing.com/payward-singapore-gulf-bank-24-7-settlement/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Kaye Quema",
+      "published_at": "2026-10-05T03:41:29Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Kaye Quema",
+        "title": "Payward partners with Singapore Gulf Bank for 24/7 settlement services",
+        "description": "This partnership could revolutionize institutional trading by enabling seamless, round-the-clock capital movement, enhancing market responsiveness.\nThe post Payward partners with Singapore Gulf Bank for 24/7 settlement services appeared first on Crypto Briefi…",
+        "url": "https://cryptobriefing.com/payward-singapore-gulf-bank-24-7-settlement/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/04234124/library-payward-partners-with-singapore-gulf-bank-for-24-7-settl-800x450.png",
+        "publishedAt": "2026-10-05T03:41:29Z",
+        "content": "Kraken's parent company is plugging into SGB Net to give institutional clients in Asia and the Gulf round-the-clock USD settlement Crypto markets never close. Banks, famously, still do.\r\nPayward, the… [+2954 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "Fireblocks",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Payward",
+        "Singapore Gulf Bank"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Payward与新加坡海湾银行合作提供24/7结算服务。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到跨境支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注跨境支付领域的动态变化。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_0518cae3c7cf",
+      "title": "Chemical profiling and safety evaluation of herbal eye cleansers marketed in Nigeria",
+      "content": "Scientific Reports - Chemical profiling and safety evaluation of herbal eye cleansers marketed in Nigeria",
+      "url": "https://www.nature.com/articles/s41598-026-71200-2.pdf",
+      "source": "Nature.com",
+      "source_type": "news",
+      "author": "Eze Elijah Ajaegbu, Victor Uchenna Chigozie, Obinna Joseph Mba, James Omachonu Egwumah",
+      "published_at": "2026-10-05T00:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Nature.com"
+        },
+        "author": "Eze Elijah Ajaegbu, Victor Uchenna Chigozie, Obinna Joseph Mba, James Omachonu Egwumah",
+        "title": "Chemical profiling and safety evaluation of herbal eye cleansers marketed in Nigeria",
+        "description": "Scientific Reports - Chemical profiling and safety evaluation of herbal eye cleansers marketed in Nigeria",
+        "url": "https://www.nature.com/articles/s41598-026-71200-2.pdf",
+        "urlToImage": null,
+        "publishedAt": "2026-10-05T00:00:00Z",
+        "content": "Herbal eye cleansers are widely used in traditional medicine to relieve ocular irritation and infections, yet their scientific validation remains limited. This study examined the phytochemical compos… [+1625 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "Copper",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_96d5cb9296b5",
+      "title": "Power Metallic Commences Preliminary Economic Assessment of the Nisk Project",
+      "content": "PEA targeted for completion in H1 2027; engineering, environmental and community engagement programs advancing in parallel TORONTO, Oct. 5, 2026 /PRNewswire/ -- Power Metallic Mines Inc. (the \"Company\" or \"Power Metallic\") (TSXV: PNPN) (OTCBB: PNPNF) (Frankfu…",
+      "url": "https://www.prnewswire.com/news-releases/power-metallic-commences-preliminary-economic-assessment-of-the-nisk-project-302897840.html",
+      "source": "PRNewswire",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-05T07:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "PRNewswire"
+        },
+        "author": null,
+        "title": "Power Metallic Commences Preliminary Economic Assessment of the Nisk Project",
+        "description": "PEA targeted for completion in H1 2027; engineering, environmental and community engagement programs advancing in parallel TORONTO, Oct. 5, 2026 /PRNewswire/ -- Power Metallic Mines Inc. (the \"Company\" or \"Power Metallic\") (TSXV: PNPN) (OTCBB: PNPNF) (Frankfu…",
+        "url": "https://www.prnewswire.com/news-releases/power-metallic-commences-preliminary-economic-assessment-of-the-nisk-project-302897840.html",
+        "urlToImage": "https://mmx.prnewswire.com/media/MS1883277/Power-Metallic-Mines-Inc-Power-Metallic-Commences-Preliminary-E.jpg?id=OA2985909&p=facebook",
+        "publishedAt": "2026-10-05T07:00:00Z",
+        "content": "PEA targeted for completion in H1 2027; engineering, environmental and community engagement programs advancing in parallel\r\nTORONTO, Oct. 5, 2026 /PRNewswire/ -- Power Metallic Mines Inc. (the \"Compa… [+14257 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "Copper",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_a0e26c13df49",
+      "title": "Lotus Tech to Join WasabiCard's TOKEN2049 Singapore Side Event, Spotlighting Real-World Stablecoin Applications",
+      "content": "SINGAPORE, Oct. 5, 2026 /PRNewswire/ -- WasabiCard, a stablecoin-powered global payment infrastructure platform, announced that it will host its TOKEN2049 Singapore Side Event, \"STABLECOIN & PAYMENTS: FUNDS FLOW,\" on October 6 at Raffles Singapore. Lotus Tech…",
+      "url": "https://www.prnewswire.com/news-releases/lotus-tech-to-join-wasabicards-token2049-singapore-side-event-spotlighting-real-world-stablecoin-applications-302898014.html",
+      "source": "PRNewswire",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-05T04:34:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "PRNewswire"
+        },
+        "author": null,
+        "title": "Lotus Tech to Join WasabiCard's TOKEN2049 Singapore Side Event, Spotlighting Real-World Stablecoin Applications",
+        "description": "SINGAPORE, Oct. 5, 2026 /PRNewswire/ -- WasabiCard, a stablecoin-powered global payment infrastructure platform, announced that it will host its TOKEN2049 Singapore Side Event, \"STABLECOIN & PAYMENTS: FUNDS FLOW,\" on October 6 at Raffles Singapore. Lotus Tech…",
+        "url": "https://www.prnewswire.com/news-releases/lotus-tech-to-join-wasabicards-token2049-singapore-side-event-spotlighting-real-world-stablecoin-applications-302898014.html",
+        "urlToImage": "https://mmx.prnewswire.com/media/MS2000524/20260930222646EDT_image_1.jpg?id=OA2981844&p=facebook",
+        "publishedAt": "2026-10-05T04:34:00Z",
+        "content": "SINGAPORE, Oct. 5, 2026 /PRNewswire/ -- WasabiCard, a stablecoin-powered global payment infrastructure platform, announced that it will host its TOKEN2049 Singapore Side Event, \"STABLECOIN &amp; PAYM… [+5771 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "Safeheron",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Lotus Tech",
+        "WasabiCard"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Lotus Tech参与稳定币应用活动。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币应用",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币应用趋势，调整战略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_b005165f372e",
+      "title": "Safe investor asks Swiss watchdog to intervene in governance dispute",
+      "content": "Greenfield Capital said it sought changes to Safe Ecosystem Foundation’s board for months before turning to the Swiss regulator.",
+      "url": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Felix Ng",
+      "published_at": "2026-10-05T03:12:21Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Felix Ng",
+        "title": "Safe investor asks Swiss watchdog to intervene in governance dispute",
+        "description": "Greenfield Capital said it sought changes to Safe Ecosystem Foundation’s board for months before turning to the Swiss regulator.",
+        "url": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M450M7X1NSRM61WXEJS579ZE/governance.jpg",
+        "publishedAt": "2026-10-05T03:12:21Z",
+        "content": "Greenfield Capital, an investor in Safe, says it has filed a supervisory complaint with Switzerlands foundation watchdog, seeking changes to Safe Ecosystem Foundations board after months of engagemen… [+2570 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "瑞士监管机构介入治理争议的新闻",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "竞争格局"
+      ],
+      "industry_action": "关注瑞士监管动态，评估影响",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_a70cbd321316",
+      "title": "株式会社DeFimans代表取締役・佐藤太思、Korea Blockchain Week 2026に登壇",
+      "content": "[株式会社DeFimans]\n[画像1: https://prcdn.freetls.fastly.net/release_image/111807/130/111807-130-de048619fa75b3afa35f8b62e37d4526-1600x900.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000130.000111807.html",
+      "source": "Prtimes.jp",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-05T01:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Prtimes.jp"
+        },
+        "author": null,
+        "title": "株式会社DeFimans代表取締役・佐藤太思、Korea Blockchain Week 2026に登壇",
+        "description": "[株式会社DeFimans]\n[画像1: https://prcdn.freetls.fastly.net/release_image/111807/130/111807-130-de048619fa75b3afa35f8b62e37d4526-1600x900.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...",
+        "url": "https://prtimes.jp/main/html/rd/p/000000130.000111807.html",
+        "urlToImage": "https://prcdn.freetls.fastly.net/release_image/111807/130/111807-130-de048619fa75b3afa35f8b62e37d4526-1600x900.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "publishedAt": "2026-10-05T01:00:00Z",
+        "content": "DeFimans DeFimansKorea Blockchain Week 2026KBW2026\r\nKorea Blockchain WeekKBW\r\n20252Korea Blockchain Week\r\nKorea Blockchain WeekKBW2018\r\n2026929101930101AIAI\r\nDeFimans Co-Founder &amp; CEO\r\nJobTribesN… [+174 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "佐藤太思在区块链周发表演讲。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及区块链行业动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_0b6edd053a07",
+      "title": "SwissBorg joins Eurøpe Consortium to back euro stablecoin EURØP",
+      "content": "SwissBorg's involvement in the Eurpe Consortium could accelerate euro stablecoin adoption, enhancing digital euro infrastructure and integration.\nThe post SwissBorg joins Eurøpe Consortium to back euro stablecoin EURØP appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/swissborg-joins-europe-consortium-europ-stablecoin/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Kaye Quema",
+      "published_at": "2026-10-05T07:26:49Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Kaye Quema",
+        "title": "SwissBorg joins Eurøpe Consortium to back euro stablecoin EURØP",
+        "description": "SwissBorg's involvement in the Eurpe Consortium could accelerate euro stablecoin adoption, enhancing digital euro infrastructure and integration.\nThe post SwissBorg joins Eurøpe Consortium to back euro stablecoin EURØP appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/swissborg-joins-europe-consortium-europ-stablecoin/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/05032644/library-swissborg-joins-eur-pe-consortium-to-back-euro-stablecoi-800x450.png",
+        "publishedAt": "2026-10-05T07:26:49Z",
+        "content": "The crypto app signs on as a founding member alongside Schuman Financial, eToro and LCX to push a MiCA-compliant euro token onchain SwissBorg has joined the Eurøpe Consortium as a founding member. Th… [+4039 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "SwissBorg"
+      ],
+      "importance_score": 7,
+      "ai_summary": "SwissBorg 加入欧元稳定币 EURØP 联盟。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币相关",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_6864b6ab4d5f",
+      "title": "The Fed Builds the GENIUS Act Bank-Grade Plumbing — Two NPRMs, Two Paths, One Deadline",
+      "content": "The Fed published two proposed rules implementing the GENIUS Act stablecoin framework for state member banks. Rule 1: reserve backing, reporting, capital requirements for Fed-supervised PPSIs. Rule 2: tailored application process for insured state member bank…",
+      "url": "https://forkast.news/the-fed-builds-the-genius-act-bank-grade-plumbing-two-nprms-two-paths-one-deadline/",
+      "source": "Forkast.news",
+      "source_type": "news",
+      "author": "Nolan Pratt",
+      "published_at": "2026-10-05T06:24:35Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Forkast.news"
+        },
+        "author": "Nolan Pratt",
+        "title": "The Fed Builds the GENIUS Act Bank-Grade Plumbing — Two NPRMs, Two Paths, One Deadline",
+        "description": "The Fed published two proposed rules implementing the GENIUS Act stablecoin framework for state member banks. Rule 1: reserve backing, reporting, capital requirements for Fed-supervised PPSIs. Rule 2: tailored application process for insured state member bank…",
+        "url": "https://forkast.news/the-fed-builds-the-genius-act-bank-grade-plumbing-two-nprms-two-paths-one-deadline/",
+        "urlToImage": "https://forkast.news/wp-content/uploads/2026/10/fed-genius-act-nprms-1024x572.jpg",
+        "publishedAt": "2026-10-05T06:24:35Z",
+        "content": "The GENIUS Act is evolving from static legislative text into a synchronized regulatory architecture executed through parallel rulemaking. Three federal agencies are currently constructing distinct, i… [+4353 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "美联储推出GENIUS法案相关政策。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注政策变化对业务的潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_f2f74af8e214",
+      "title": "Crypto Dealmaking Jumps 44% Despite Clarity Act Uncertainty",
+      "content": "Last month, the Senate failed to advance the Clarity Act, a bill designed to establish a regulatory framework for cryptocurrency. And as CoinDesk reported Sunday (Oct. 4), there is a shrinking window for lawmakers to pass the law this year, leaving regulatory…",
+      "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-dealmaking-jumps-44-percent-despite-clarity-act-uncertainty/",
+      "source": "pymnts.com",
+      "source_type": "news",
+      "author": "PYMNTS",
+      "published_at": "2026-10-05T00:27:23Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "pymnts.com"
+        },
+        "author": "PYMNTS",
+        "title": "Crypto Dealmaking Jumps 44% Despite Clarity Act Uncertainty",
+        "description": "Last month, the Senate failed to advance the Clarity Act, a bill designed to establish a regulatory framework for cryptocurrency. And as CoinDesk reported Sunday (Oct. 4), there is a shrinking window for lawmakers to pass the law this year, leaving regulatory…",
+        "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-dealmaking-jumps-44-percent-despite-clarity-act-uncertainty/",
+        "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/10/clarity-crypto-manda-1.jpg",
+        "publishedAt": "2026-10-05T00:27:23Z",
+        "content": "Last month, the Senate failed to advance the Clarity Act, a bill designed to establish a regulatory framework for cryptocurrency.And as CoinDesk reported Sunday (Oct. 4), there is a shrinking window … [+2690 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "尽管存在不确定性，加密交易活动仍显著增长。",
+      "business_relevance": 0.7,
+      "relevance_reason": "加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，调整策略以应对变化。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_3da30b88b053",
+      "title": "Reap and Collinson International Enter Landmark Partnership to Bring Priority Pass Airport Experiences to the Stablecoin and Crypto Ecosystem",
+      "content": "The collaboration connects digital asset customers to premium travel benefits, giving eligible cardholders access to Priority Pass' global network of over 1,900 airport lounges and travel experiences. SINGAPORE, Oct. 5, 2026 /PRNewswire/ -- Reap, a global fin…",
+      "url": "https://www.prnewswire.com/news-releases/reap-and-collinson-international-enter-landmark-partnership-to-bring-priority-pass-airport-experiences-to-the-stablecoin-and-crypto-ecosystem-302898198.html",
+      "source": "PRNewswire",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-05T08:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "PRNewswire"
+        },
+        "author": null,
+        "title": "Reap and Collinson International Enter Landmark Partnership to Bring Priority Pass Airport Experiences to the Stablecoin and Crypto Ecosystem",
+        "description": "The collaboration connects digital asset customers to premium travel benefits, giving eligible cardholders access to Priority Pass' global network of over 1,900 airport lounges and travel experiences. SINGAPORE, Oct. 5, 2026 /PRNewswire/ -- Reap, a global fin…",
+        "url": "https://www.prnewswire.com/news-releases/reap-and-collinson-international-enter-landmark-partnership-to-bring-priority-pass-airport-experiences-to-the-stablecoin-and-crypto-ecosystem-302898198.html",
+        "urlToImage": "https://mmx.prnewswire.com/media/MS1870943/REAP-Logo.jpg?id=OA2986289&p=facebook",
+        "publishedAt": "2026-10-05T08:00:00Z",
+        "content": "The collaboration connects digital asset customers to premium travel benefits, giving eligible cardholders access to Priority Pass' global network of over 1,900 airport lounges and travel experiences… [+4787 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Reap与Collinson的合作将稳定币引入机场体验。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币和加密生态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币在新场景的应用潜力。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_347e02e87022",
+      "title": "Plume launches nBND vault backed by Fidelity Total Bond ETF",
+      "content": "Plume's nBND vault could accelerate institutional adoption of tokenized assets, blending traditional finance with blockchain innovation.\nThe post Plume launches nBND vault backed by Fidelity Total Bond ETF appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/plume-nbnd-vault-fidelity-bond-etf/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Kaye Quema",
+      "published_at": "2026-10-05T07:05:42Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Kaye Quema",
+        "title": "Plume launches nBND vault backed by Fidelity Total Bond ETF",
+        "description": "Plume's nBND vault could accelerate institutional adoption of tokenized assets, blending traditional finance with blockchain innovation.\nThe post Plume launches nBND vault backed by Fidelity Total Bond ETF appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/plume-nbnd-vault-fidelity-bond-etf/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
+        "publishedAt": "2026-10-05T07:05:42Z",
+        "content": "The tokenized vault gives institutional investors onchain access to Fidelity's actively managed FBND bond fund Plume has launched a new vault called nBND, backed by Fidelity’s Total Bond ETF (FBND). … [+2628 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "Fidelity"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Plume推出由Fidelity债券ETF支持的nBND金库。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币相关产品",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注债券ETF对稳定币市场的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_67ea69c7d0c4",
+      "title": "Greenfield Capital takes Safe Ecosystem governance fight to Swiss regulator",
+      "content": "Greenfield's regulatory complaint could prompt increased scrutiny on governance practices in decentralized ecosystems, impacting investor trust.\nThe post Greenfield Capital takes Safe Ecosystem governance fight to Swiss regulator appeared first on Crypto Brie…",
+      "url": "https://cryptobriefing.com/greenfield-capital-safe-foundation-swiss-regulator/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-10-05T03:25:24Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Greenfield Capital takes Safe Ecosystem governance fight to Swiss regulator",
+        "description": "Greenfield's regulatory complaint could prompt increased scrutiny on governance practices in decentralized ecosystems, impacting investor trust.\nThe post Greenfield Capital takes Safe Ecosystem governance fight to Swiss regulator appeared first on Crypto Brie…",
+        "url": "https://cryptobriefing.com/greenfield-capital-safe-foundation-swiss-regulator/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/04232520/library-greenfield-capital-takes-safe-ecosystem-governance-fight-800x450.png",
+        "publishedAt": "2026-10-05T03:25:24Z",
+        "content": "An early Safe backer has filed a complaint with Switzerland's foundation watchdog after months of failed attempts to reshape the board Greenfield Capital, an early investor in Safe, has filed a forma… [+2772 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Greenfield Capital在瑞士监管机构的治理争斗涉及加密监管问题。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注瑞士监管动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_1ed48bf66136",
+      "title": "OKX files with SEC to bring tokenized-stock trading to the US",
+      "content": "OKX's move could reshape US equity markets by integrating blockchain, potentially enhancing liquidity and democratizing stock access.\nThe post OKX files with SEC to bring tokenized-stock trading to the US appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/okx-sec-filing-tokenized-stock-platform/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-10-05T01:58:54Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "OKX files with SEC to bring tokenized-stock trading to the US",
+        "description": "OKX's move could reshape US equity markets by integrating blockchain, potentially enhancing liquidity and democratizing stock access.\nThe post OKX files with SEC to bring tokenized-stock trading to the US appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/okx-sec-filing-tokenized-stock-platform/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/04215850/library-okx-files-with-sec-to-bring-tokenized-stock-trading-to-t-800x450.png",
+        "publishedAt": "2026-10-05T01:58:54Z",
+        "content": "The exchange is seeking to take its on-chain equity push into the one market its current products can't touch OKX has filed with the US Securities and Exchange Commission to launch a tokenized-stock … [+3443 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "OKX"
+      ],
+      "importance_score": 7,
+      "ai_summary": "OKX向SEC提交申请，计划在美国推出代币化股票交易。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注美国市场的监管动态和机会。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_7f6c3613c699",
+      "title": "Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes",
+      "content": "Article URL: https://huggingface.co/sriram1983007/SRA-RiskGate-4B\nComments URL: https://news.ycombinator.com/item?id=49960513\nPoints: 1\n# Comments: 0",
+      "url": "https://huggingface.co/sriram1983007/SRA-RiskGate-4B",
+      "source": "Huggingface.co",
+      "source_type": "news",
+      "author": "sriram1983007",
+      "published_at": "2026-10-05T03:57:49Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Huggingface.co"
+        },
+        "author": "sriram1983007",
+        "title": "Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes",
+        "description": "Article URL: https://huggingface.co/sriram1983007/SRA-RiskGate-4B\nComments URL: https://news.ycombinator.com/item?id=49960513\nPoints: 1\n# Comments: 0",
+        "url": "https://huggingface.co/sriram1983007/SRA-RiskGate-4B",
+        "urlToImage": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/sriram1983007/SRA-RiskGate-4B.png",
+        "publishedAt": "2026-10-05T03:57:49Z",
+        "content": "An autonomous risk scoring, compliance verification, and dispute adjudication model fine-tuned from Qwen/Qwen3-4B-Instruct-2507 on sra-stablecoin-risk-bench.\r\nA specialized 4B model designed for both… [+842 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "本新闻讨论稳定币风险管理技术的进展。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币风险管理",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币风险管理技术的动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_1389058f15be",
+      "title": "Hyperliquid receives first $15M USDC for HYPE buybacks via AQAv2 protocol",
+      "content": "The USDC infusion into Hyperliquid's buyback strategy may enhance HYPE token liquidity, potentially boosting market confidence and competitiveness.\nThe post Hyperliquid receives first $15M USDC for HYPE buybacks via AQAv2 protocol appeared first on Crypto Bri…",
+      "url": "https://cryptobriefing.com/hyperliquid-receives-first-15m-usdc-for-hype-buybacks-via-aqav2-protocol/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-10-05T08:05:13Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Hyperliquid receives first $15M USDC for HYPE buybacks via AQAv2 protocol",
+        "description": "The USDC infusion into Hyperliquid's buyback strategy may enhance HYPE token liquidity, potentially boosting market confidence and competitiveness.\nThe post Hyperliquid receives first $15M USDC for HYPE buybacks via AQAv2 protocol appeared first on Crypto Bri…",
+        "url": "https://cryptobriefing.com/hyperliquid-receives-first-15m-usdc-for-hype-buybacks-via-aqav2-protocol/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/05040512/library-hyperliquid-receives-first-15m-usdc-for-hype-buybacks-vi-1-800x450.png",
+        "publishedAt": "2026-10-05T08:05:13Z",
+        "content": "Hyperliquid has received its first $14.58 million USDC payment, marking a significant step in funding HYPE token buybacks through the AQAv2 protocol. This development is part of Hyperliquid’s strateg… [+1292 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Hyperliquid通过AQAv2协议进行USDC回购。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币USDC",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注稳定币市场动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_03b22a3ef936",
+      "title": "Bitwise brings its PAPY vault to Circle’s Arc for USDC-based RWA lending",
+      "content": "Bitwise's PAPY vault on Circle's Arc could enhance DeFi's appeal by offering diversified RWA lending, potentially boosting market liquidity.\nThe post Bitwise brings its PAPY vault to Circle’s Arc for USDC-based RWA lending appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/bitwise-papy-vault-arc-rwa-lending/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Kaye Quema",
+      "published_at": "2026-10-05T01:35:30Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Kaye Quema",
+        "title": "Bitwise brings its PAPY vault to Circle’s Arc for USDC-based RWA lending",
+        "description": "Bitwise's PAPY vault on Circle's Arc could enhance DeFi's appeal by offering diversified RWA lending, potentially boosting market liquidity.\nThe post Bitwise brings its PAPY vault to Circle’s Arc for USDC-based RWA lending appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/bitwise-papy-vault-arc-rwa-lending/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
+        "publishedAt": "2026-10-05T01:35:30Z",
+        "content": "The asset manager's Premium RWA Vault now lends USDC against tokenized real-world assets on Morpho, posting a net APY of 4.79% Bitwise Asset Management has taken its Premium RWA Vault, better known a… [+2660 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Bitwise",
+        "Circle"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Bitwise将其PAPY金库引入Circle的Arc平台进行USDC基础的RWA借贷。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币和借贷业务",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币借贷市场动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_c8cd950a22b4",
+      "title": "Zcash gets a Washington lobbyist to push crypto policy",
+      "content": "The newly registered lobbying operation lists the CLARITY Act and two digital asset tax proposals among the issues it plans to lobby on in Washington.",
+      "url": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Felix Ng",
+      "published_at": "2026-10-05T00:35:34Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Felix Ng",
+        "title": "Zcash gets a Washington lobbyist to push crypto policy",
+        "description": "The newly registered lobbying operation lists the CLARITY Act and two digital asset tax proposals among the issues it plans to lobby on in Washington.",
+        "url": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44PCPNQJ0FDJMVNEEJEXBKG/zcash-1.jpg",
+        "publishedAt": "2026-10-05T00:35:34Z",
+        "content": "A Zcash-focused advocacy group has filed to lobby in Washington, stepping up the privacy-oriented cryptocurrency ecosystems efforts to shape US policy on digital assets. \r\nPretty Good Policy for Zcas… [+1147 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Zcash聘请华盛顿游说者推动加密政策。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，适时调整策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_fc89a782cb1f",
+      "title": "OKXICE files for round-the-clock tokenized trading in U.S. stocks",
+      "content": "OKXICE, the joint venture of OKX and ICE, plans to launch tokenized U.S. stocks under SEC's new innovation exemption.",
+      "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+      "source": "CoinDesk",
+      "source_type": "news",
+      "author": "Omkar Godbole, AI Boost",
+      "published_at": "2026-10-05T04:45:03Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Omkar Godbole, AI Boost",
+        "title": "OKXICE files for round-the-clock tokenized trading in U.S. stocks",
+        "description": "OKXICE, the joint venture of OKX and ICE, plans to launch tokenized U.S. stocks under SEC's new innovation exemption.",
+        "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/cd4279f03bab73f6b5b9819d7342d6d6132dde54-674x489.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+        "publishedAt": "2026-10-05T04:45:03Z",
+        "content": "Wall Street just took a step toward trading stocks around the clock.\r\nOKXICE, a joint venture between crypto exchange OKX and NYSE parent Intercontinental Exchange (ICE), has notified the U.S. Securi… [+1421 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "OKXICE"
+      ],
+      "importance_score": 7,
+      "ai_summary": "OKXICE申请全天候代币化交易美国股票。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，评估竞争影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_5af6071b8b5c",
+      "title": "Bitcoin ETFs notch third inflow week as Ether ETFs shed $138M",
+      "content": "US spot Bitcoin ETFs drew $241 million after attracting $2.4 billion a week earlier, while Ether ETFs reversed course with $138 million in outflows.",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Helen Partz",
+      "published_at": "2026-10-05T08:00:49Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Helen Partz",
+        "title": "Bitcoin ETFs notch third inflow week as Ether ETFs shed $138M",
+        "description": "US spot Bitcoin ETFs drew $241 million after attracting $2.4 billion a week earlier, while Ether ETFs reversed course with $138 million in outflows.",
+        "url": "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45D9ZNYHF2EN0M2AETZ4WY1/eth-btc-etf.jpg",
+        "publishedAt": "2026-10-05T08:00:49Z",
+        "content": "US spot Bitcoin exchange-traded funds (ETFs) recorded a third consecutive week of net inflows as Ether ETFs flipped back to net outflows.\r\nBitcoin ETFs attracted $241.1 million last week, lifting cum… [+990 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "比特币ETF持续流入，影响市场趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_5bc26968d082",
+      "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
+      "content": "Zcash’s NU7 upgrade is now live on testnet, giving developers several weeks to assess 25-second blocks and other protocol changes before a planned November mainnet activation.",
+      "url": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Ezra Reguerra",
+      "published_at": "2026-10-05T03:47:19Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ezra Reguerra",
+        "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
+        "description": "Zcash’s NU7 upgrade is now live on testnet, giving developers several weeks to assess 25-second blocks and other protocol changes before a planned November mainnet activation.",
+        "url": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M452HAFP4NA562P7Y8XFANP1/testing.png",
+        "publishedAt": "2026-10-05T03:47:19Z",
+        "content": "Zcash has activated its NU7 network upgrade on testnet, moving the planned protocol changes into live testing about a month before its targeted mainnet rollout.\r\nAccording to Zcash testnet block expl… [+1152 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Zcash在测试网上激活NU7，推动技术发展。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链技术进展",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注Zcash技术进展对市场的潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_8041b43e350c",
+      "title": "Ethereum has a 25-day wait to start staking, with nearly 1.5 million ETH in line",
+      "content": "Ether waiting to enter staking has fallen by more than a quarter since early September, while the exit queue hit its longest of 2026.",
+      "url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
+      "source": "CoinDesk",
+      "source_type": "news",
+      "author": "Shaurya Malwa",
+      "published_at": "2026-10-05T06:40:29Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Shaurya Malwa",
+        "title": "Ethereum has a 25-day wait to start staking, with nearly 1.5 million ETH in line",
+        "description": "Ether waiting to enter staking has fallen by more than a quarter since early September, while the exit queue hit its longest of 2026.",
+        "url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/93f1e7de5c99aa4b545a0e06b9902b4328b2eea6-1324x732.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+        "publishedAt": "2026-10-05T06:40:29Z",
+        "content": "Demand to start staking has been cooling separately. About 1.5 million ETH, worth roughly $4 billion, was waiting to enter on Monday, with an estimated wait of roughly 25 days, down from about 2 mill… [+1113 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "以太坊质押等待时间延长，影响市场动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "与以太坊质押相关",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注以太坊质押对市场的长期影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_2f38fb1be001",
+      "title": "Binance Tightens Brazil Crypto Transfers From Nov. 1 With Mandatory New Checks",
+      "content": "Binance is implementing new requirements for Brazilians trading crypto with counterparts outside the country. These new requirements will apply to certain international crypto transactions by...\nThe post Binance Tightens Brazil Crypto Transfers From Nov. 1 Wi…",
+      "url": "https://bitcoinfoundation.org/news/crypto-exchanges/binance-tightens-brazil-crypto-transfers-from-nov-1-with-mandatory-new-checks/",
+      "source": "Bitcoinfoundation.org",
+      "source_type": "news",
+      "author": "Yevheny Serhiienko",
+      "published_at": "2026-10-05T08:00:10Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Bitcoinfoundation.org"
+        },
+        "author": "Yevheny Serhiienko",
+        "title": "Binance Tightens Brazil Crypto Transfers From Nov. 1 With Mandatory New Checks",
+        "description": "Binance is implementing new requirements for Brazilians trading crypto with counterparts outside the country. These new requirements will apply to certain international crypto transactions by...\nThe post Binance Tightens Brazil Crypto Transfers From Nov. 1 Wi…",
+        "url": "https://bitcoinfoundation.org/news/crypto-exchanges/binance-tightens-brazil-crypto-transfers-from-nov-1-with-mandatory-new-checks/",
+        "urlToImage": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/Binance-Tightens-Brazil-Crypto-Transfers-From-Nov.-1-With-Mandatory-New-Checks-2.webp",
+        "publishedAt": "2026-10-05T08:00:10Z",
+        "content": "Binance is implementing new requirements for Brazilians trading crypto with counterparts outside the country. These new requirements will apply to certain international crypto transactions by Brazili… [+3864 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance将在巴西加强加密货币转账监管措施。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注巴西市场的监管变化，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_72d5af60c7fd",
+      "title": "Trump Adviser Calls for Powell Exit as Bitcoin Watches Fed’s Next Move",
+      "content": "President Donald Trump’s top economic adviser, Kevin Hassett, is urging former Federal Reserve Chair Jerome Powell to resign from the Fed’s Board of Governors. This...\nThe post Trump Adviser Calls for Powell Exit as Bitcoin Watches Fed’s Next Move appeared fi…",
+      "url": "https://bitcoinfoundation.org/news/regulation/trump-adviser-calls-for-powell-exit-as-bitcoin-watches-feds-next-move/",
+      "source": "Bitcoinfoundation.org",
+      "source_type": "news",
+      "author": "Yevheny Serhiienko",
+      "published_at": "2026-10-05T08:13:37Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Bitcoinfoundation.org"
+        },
+        "author": "Yevheny Serhiienko",
+        "title": "Trump Adviser Calls for Powell Exit as Bitcoin Watches Fed’s Next Move",
+        "description": "President Donald Trump’s top economic adviser, Kevin Hassett, is urging former Federal Reserve Chair Jerome Powell to resign from the Fed’s Board of Governors. This...\nThe post Trump Adviser Calls for Powell Exit as Bitcoin Watches Fed’s Next Move appeared fi…",
+        "url": "https://bitcoinfoundation.org/news/regulation/trump-adviser-calls-for-powell-exit-as-bitcoin-watches-feds-next-move/",
+        "urlToImage": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/Trump-Adviser-Calls-for-Powell-Exit-as-Bitcoin-Watches-Feds-Next-Move-2.webp",
+        "publishedAt": "2026-10-05T08:13:37Z",
+        "content": "President Donald Trumps top economic adviser, Kevin Hassett, is urging former Federal Reserve Chair Jerome Powell to resign from the Feds Board of Governors. This could have implications for U.S. mon… [+3518 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "特朗普顾问呼吁鲍威尔辞职，影响比特币市场。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到比特币与美联储动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注美联储政策对加密市场的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_93f059a6acd5",
+      "title": "Binance will require Brazilian users to explain cross-border crypto transfers from Nov. 1",
+      "content": "Brazil's new crypto transfer rules may increase regulatory compliance costs and impact cross-border crypto activity efficiency.\nThe post Binance will require Brazilian users to explain cross-border crypto transfers from Nov. 1 appeared first on Crypto Briefin…",
+      "url": "https://cryptobriefing.com/binance-brazil-crypto-transfer-purpose-rules/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-10-05T01:39:40Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Binance will require Brazilian users to explain cross-border crypto transfers from Nov. 1",
+        "description": "Brazil's new crypto transfer rules may increase regulatory compliance costs and impact cross-border crypto activity efficiency.\nThe post Binance will require Brazilian users to explain cross-border crypto transfers from Nov. 1 appeared first on Crypto Briefin…",
+        "url": "https://cryptobriefing.com/binance-brazil-crypto-transfer-purpose-rules/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/04213929/library-binance-will-require-brazilian-users-to-explain-cross-bo-800x450.png",
+        "publishedAt": "2026-10-05T01:39:40Z",
+        "content": "Brazilian users must disclose transfer purposes and counterparties under a central bank rule that folds crypto into the foreign-exchange framework Starting November 1, 2026, Binance users in Brazil w… [+3365 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "巴西用户需解释跨境加密转账。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注巴西的监管动态。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_49175008561e",
+      "title": "Crypto bears get squeezed as $113 million in shorts liquidated in 24 hours",
+      "content": "The liquidation of crypto shorts highlights the volatility and risks in leveraged trading, potentially leading to further market instability.\nThe post Crypto bears get squeezed as $113 million in shorts liquidated in 24 hours appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/crypto-short-liquidations-113-million-24-hours/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Vivian Nguyen",
+      "published_at": "2026-10-05T04:10:06Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Vivian Nguyen",
+        "title": "Crypto bears get squeezed as $113 million in shorts liquidated in 24 hours",
+        "description": "The liquidation of crypto shorts highlights the volatility and risks in leveraged trading, potentially leading to further market instability.\nThe post Crypto bears get squeezed as $113 million in shorts liquidated in 24 hours appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/crypto-short-liquidations-113-million-24-hours/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/05000958/library-crypto-bears-get-squeezed-as-113-million-in-shorts-liqui-800x450.png",
+        "publishedAt": "2026-10-05T04:10:06Z",
+        "content": "Bitcoin and Ethereum shorts took the biggest hits as forced closures swept 42,225 traders across derivatives venues Betting against crypto turned expensive this weekend. Traders saw $113 million in s… [+2483 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "加密市场短期波动引发关注。",
+      "business_relevance": 0.5,
+      "relevance_reason": "加密市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，调整策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_9059dadbe87f",
+      "title": "US expands Hamas sanctions after tracing crypto transfers from France",
+      "content": "The October 2 action adds five blocked counterparties, while Treasury's alleged crypto transfers are separate from its wider fundraising total.\nThe post US expands Hamas sanctions after tracing crypto transfers from France appeared first on CryptoSlate.",
+      "url": "https://cryptoslate.com/us-expands-hamas-sanctions-after-tracing-crypto-transfers-from-france/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Oluwapelumi Adejumo",
+      "published_at": "2026-10-05T07:55:47Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Oluwapelumi Adejumo",
+        "title": "US expands Hamas sanctions after tracing crypto transfers from France",
+        "description": "The October 2 action adds five blocked counterparties, while Treasury's alleged crypto transfers are separate from its wider fundraising total.\nThe post US expands Hamas sanctions after tracing crypto transfers from France appeared first on CryptoSlate.",
+        "url": "https://cryptoslate.com/us-expands-hamas-sanctions-after-tracing-crypto-transfers-from-france/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/10/us-sanctions-crypto-lock.webp",
+        "publishedAt": "2026-10-05T07:55:47Z",
+        "content": "The US sanctioned two French charities and three individuals after alleging they helped channel cryptocurrency and other funds to Hamas.\r\nThe Treasury Departments Office of Foreign Assets Control (OF… [+3618 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "美国扩大对哈马斯的制裁，涉及加密转账追踪。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密货币监管动态，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_b0c9f216e5b9",
+      "title": "Zcash hires Washington lobbyist to influence crypto policy",
+      "content": "Zcash's lobbying efforts could enhance regulatory clarity, potentially boosting market confidence and influencing Bitcoin's future price trends.\nThe post Zcash hires Washington lobbyist to influence crypto policy appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/zcash-hires-washington-lobbyist-to-influence-crypto-policy/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-10-05T00:43:46Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Zcash hires Washington lobbyist to influence crypto policy",
+        "description": "Zcash's lobbying efforts could enhance regulatory clarity, potentially boosting market confidence and influencing Bitcoin's future price trends.\nThe post Zcash hires Washington lobbyist to influence crypto policy appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/zcash-hires-washington-lobbyist-to-influence-crypto-policy/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/04204344/library-zcash-hires-washington-lobbyist-to-influence-crypto-poli-1-800x450.png",
+        "publishedAt": "2026-10-05T00:43:46Z",
+        "content": "Zcash, a privacy-focused cryptocurrency, has taken a significant step in its advocacy efforts by registering a lobbyist in Washington, DC. The registration involves Divij Pandya, who will represent Z… [+2032 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Zcash雇佣游说者影响加密政策。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注政策变化对业务的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_3eee04d3130b",
+      "title": "Zcash NU7 Goes Live on Testnet as 25-Second Blocks Move Closer to Mainnet",
+      "content": "Zcash has implemented network hard fork NU7 on its testnet, introducing faster 25-second block times, updated features to shielded transactions, and other improvements.  NU7 became...\nThe post Zcash NU7 Goes Live on Testnet as 25-Second Blocks Move Closer to …",
+      "url": "https://bitcoinfoundation.org/news/blockchain-news/zcash-nu7-goes-live-on-testnet-as-25-second-blocks-move-closer-to-mainnet/",
+      "source": "Bitcoinfoundation.org",
+      "source_type": "news",
+      "author": "Yevheny Serhiienko",
+      "published_at": "2026-10-05T07:40:06Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Bitcoinfoundation.org"
+        },
+        "author": "Yevheny Serhiienko",
+        "title": "Zcash NU7 Goes Live on Testnet as 25-Second Blocks Move Closer to Mainnet",
+        "description": "Zcash has implemented network hard fork NU7 on its testnet, introducing faster 25-second block times, updated features to shielded transactions, and other improvements.  NU7 became...\nThe post Zcash NU7 Goes Live on Testnet as 25-Second Blocks Move Closer to …",
+        "url": "https://bitcoinfoundation.org/news/blockchain-news/zcash-nu7-goes-live-on-testnet-as-25-second-blocks-move-closer-to-mainnet/",
+        "urlToImage": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/Zcash-NU7-Goes-Live-on-Testnet-as-25-Second-Blocks-Move-Closer-to-Mainnet-2.webp",
+        "publishedAt": "2026-10-05T07:40:06Z",
+        "content": "Zcash has implemented network hard fork NU7 on its testnet, introducing faster 25-second block times, updated features to shielded transactions, and other improvements. \r\nNU7 became active on the tes… [+3429 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Zcash NU7在测试网上线，推动区块链技术发展。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及区块链技术进展",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_b2da3d229f02",
+      "title": "Every Dated Event That Could Impact Bitcoin and XRP Before 2027",
+      "content": "The post Every Dated Event That Could Impact Bitcoin and XRP Before 2027 appeared first on 24/7 Wall St..\nBetween October 6 and December 9, 2026, eleven significant events could influence Bitcoin (CRYPTO: BTC), XRP (CRYPTO: XRP), and the broader crypto market…",
+      "url": "https://biztoc.com/x/5b4fb5ee8d31e1e9",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "247wallst.com",
+      "published_at": "2026-10-05T07:13:23Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "247wallst.com",
+        "title": "Every Dated Event That Could Impact Bitcoin and XRP Before 2027",
+        "description": "The post Every Dated Event That Could Impact Bitcoin and XRP Before 2027 appeared first on 24/7 Wall St..\nBetween October 6 and December 9, 2026, eleven significant events could influence Bitcoin (CRYPTO: BTC), XRP (CRYPTO: XRP), and the broader crypto market…",
+        "url": "https://biztoc.com/x/5b4fb5ee8d31e1e9",
+        "urlToImage": "https://biztoc.com/cdn/5b4fb5ee8d31e1e9_s.webp",
+        "publishedAt": "2026-10-05T07:13:23Z",
+        "content": "The post Every Dated Event That Could Impact Bitcoin and XRP Before 2027 appeared first on 24/7 Wall St..Between October 6 and December 9, 2026, eleven significant events could influence Bitcoin (CRY… [+142 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "多项事件可能影响比特币和XRP市场动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及比特币和XRP影响事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注即将发生的事件对市场的潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_a80aa04a9df9",
+      "title": "El Salvador’s $666 million Bitcoin reserve survives IMF review",
+      "content": "Waivers for missed accumulation criteria accompany renewed commitments, with no further Bitcoin accumulation envisaged beyond documented donations.\nThe post El Salvador’s $666 million Bitcoin reserve survives IMF review appeared first on CryptoSlate.",
+      "url": "https://cryptoslate.com/el-salvadors-666-million-bitcoin-reserve-survives-imf-review/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Oluwapelumi Adejumo",
+      "published_at": "2026-10-05T00:00:39Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Oluwapelumi Adejumo",
+        "title": "El Salvador’s $666 million Bitcoin reserve survives IMF review",
+        "description": "Waivers for missed accumulation criteria accompany renewed commitments, with no further Bitcoin accumulation envisaged beyond documented donations.\nThe post El Salvador’s $666 million Bitcoin reserve survives IMF review appeared first on CryptoSlate.",
+        "url": "https://cryptoslate.com/el-salvadors-666-million-bitcoin-reserve-survives-imf-review/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-rate-barrier-test.webp",
+        "publishedAt": "2026-10-05T00:00:39Z",
+        "content": "El Salvador secured access to $138 million from the IMF while recommitting to limits on further state Bitcoin accumulation.\r\nThe International Monetary Fund (IMF) completed the second and third revie… [+3176 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto regulation",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "萨尔瓦多的比特币储备通过IMF审查。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及比特币储备",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "监管影响"
+      ],
+      "industry_action": "关注萨尔瓦多的加密货币政策变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_06636b7c0f29",
+      "title": "Sky Links Capital Appoints Hormoz Faryar as Managing Director to Spearhead Institutional Business Expansion",
+      "content": "Former Credit Suisse Vice President with 25+ Years of Institutional Trading Expertise Joins Sky Links Capital DUBAI, UAE, Oct. 5, 2026 /PRNewswire/ -- Sky Links Capital Group announced the appointment of Hormoz Faryar as Managing Director. Faryar brings over …",
+      "url": "https://www.prnewswire.com/news-releases/sky-links-capital-appoints-hormoz-faryar-as-managing-director-to-spearhead-institutional-business-expansion-302898228.html",
+      "source": "PRNewswire",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-05T08:06:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "PRNewswire"
+        },
+        "author": null,
+        "title": "Sky Links Capital Appoints Hormoz Faryar as Managing Director to Spearhead Institutional Business Expansion",
+        "description": "Former Credit Suisse Vice President with 25+ Years of Institutional Trading Expertise Joins Sky Links Capital DUBAI, UAE, Oct. 5, 2026 /PRNewswire/ -- Sky Links Capital Group announced the appointment of Hormoz Faryar as Managing Director. Faryar brings over …",
+        "url": "https://www.prnewswire.com/news-releases/sky-links-capital-appoints-hormoz-faryar-as-managing-director-to-spearhead-institutional-business-expansion-302898228.html",
+        "urlToImage": "https://mmx.prnewswire.com/media/MS2001435/Hormoz-Faryar-Managing-Director.jpg?id=OA2984432&p=facebook",
+        "publishedAt": "2026-10-05T08:06:00Z",
+        "content": "Former Credit Suisse Vice President with 25+ Years of Institutional Trading Expertise Joins Sky Links Capital \r\nDUBAI, UAE, Oct. 5, 2026 /PRNewswire/ -- Sky Links Capital Group announced the appointm… [+4023 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto license",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Sky Links Capital任命新董事以扩展业务。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及机构业务扩展",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注机构业务动态，评估市场影响。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_8b4bb743a0eb",
+      "title": "doxx.net opens Agentic Defined Networking public beta, raises $38 million",
+      "content": "doxx.net has launched the open beta of its Agentic Defined Networking (ADN) platform, which lets people and their agents create their own private, secure networks, communicate with no servers in the middle, and get started with no personal information require…",
+      "url": "https://www.helpnetsecurity.com/2026/10/05/doxx-net-agentic-defined-networking-platform/",
+      "source": "Help Net Security",
+      "source_type": "news",
+      "author": "Industry News",
+      "published_at": "2026-10-05T08:03:40Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Help Net Security"
+        },
+        "author": "Industry News",
+        "title": "doxx.net opens Agentic Defined Networking public beta, raises $38 million",
+        "description": "doxx.net has launched the open beta of its Agentic Defined Networking (ADN) platform, which lets people and their agents create their own private, secure networks, communicate with no servers in the middle, and get started with no personal information require…",
+        "url": "https://www.helpnetsecurity.com/2026/10/05/doxx-net-agentic-defined-networking-platform/",
+        "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
+        "publishedAt": "2026-10-05T08:03:40Z",
+        "content": "doxx.net has launched the open beta of its Agentic Defined Networking (ADN) platform, which lets people and their agents create their own private, secure networks, communicate with no servers in the … [+4839 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "doxx.net推出公共测试版并融资3800万美元。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注区块链基础设施的发展动态",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_edefbf5b0696",
+      "title": "Bitcoin-backed recruiter Connecting Excellence completes first acquisition",
+      "content": "Connecting Excellence Group Plc (AQSE:XCE, OTCQB:XCELF), the recruitment company that holds Bitcoin as a long-term reserve, has completed its first acquisition by buying James Gray Recruitment.\nThe deal also takes in James Gray Engineering and adds £1.79 mill…",
+      "url": "https://biztoc.com/x/1216e249ee54c384",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "finance.yahoo.com",
+      "published_at": "2026-10-05T07:28:40Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "Bitcoin-backed recruiter Connecting Excellence completes first acquisition",
+        "description": "Connecting Excellence Group Plc (AQSE:XCE, OTCQB:XCELF), the recruitment company that holds Bitcoin as a long-term reserve, has completed its first acquisition by buying James Gray Recruitment.\nThe deal also takes in James Gray Engineering and adds £1.79 mill…",
+        "url": "https://biztoc.com/x/1216e249ee54c384",
+        "urlToImage": "https://biztoc.com/cdn/1216e249ee54c384_s.webp",
+        "publishedAt": "2026-10-05T07:28:40Z",
+        "content": "Connecting Excellence Group Plc (AQSE:XCE, OTCQB:XCELF), the recruitment company that holds Bitcoin as a long-term reserve, has completed its first acquisition by buying James Gray Recruitment.The de… [+150 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Connecting Excellence 完成首次收购，反映加密行业动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密行业动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_a971f84d3b0d",
+      "title": "Asset manager Schroders to expand in Hong Kong after merger with Nuveen, CEO says",
+      "content": "UK fund house Schroders will increase investment and headcount in Hong Kong after being acquired by US asset manager Nuveen, according to Schroders’ global CEO.\n“Hong Kong is a critical interface for mainland China through schemes like Wealth Management Conne…",
+      "url": "https://biztoc.com/x/32e171ce45ef9dfc",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "scmp.com",
+      "published_at": "2026-10-05T03:13:22Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "scmp.com",
+        "title": "Asset manager Schroders to expand in Hong Kong after merger with Nuveen, CEO says",
+        "description": "UK fund house Schroders will increase investment and headcount in Hong Kong after being acquired by US asset manager Nuveen, according to Schroders’ global CEO.\n“Hong Kong is a critical interface for mainland China through schemes like Wealth Management Conne…",
+        "url": "https://biztoc.com/x/32e171ce45ef9dfc",
+        "urlToImage": "https://biztoc.com/cdn/32e171ce45ef9dfc_s.webp",
+        "publishedAt": "2026-10-05T03:13:22Z",
+        "content": "UK fund house Schroders will increase investment and headcount in Hong Kong after being acquired by US asset manager Nuveen, according to Schroders global CEO.Hong Kong is a critical interface for ma… [+139 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "merger",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Schroders",
+        "Nuveen"
+      ],
+      "importance_score": 6,
+      "ai_summary": "施罗德将在香港扩展业务。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及金融行业动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注香港市场动态，评估竞争策略。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_d140341aa2e4",
+      "title": "Nevada Asks Ninth Circuit to Move Ahead in Kalshi Case",
+      "content": "Kalshi rehearing remains before the Ninth Circuit as Nevada argues proposed CFTC event-contract rules do not change the statutory dispute.\nThe post Nevada Asks Ninth Circuit to Move Ahead in Kalshi Case appeared first on ReadWrite.",
+      "url": "https://readwrite.com/kalshi-rehearing-nevada/",
+      "source": "ReadWrite",
+      "source_type": "news",
+      "author": "ReadWrite",
+      "published_at": "2026-10-05T06:11:44Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "ReadWrite"
+        },
+        "author": "ReadWrite",
+        "title": "Nevada Asks Ninth Circuit to Move Ahead in Kalshi Case",
+        "description": "Kalshi rehearing remains before the Ninth Circuit as Nevada argues proposed CFTC event-contract rules do not change the statutory dispute.\nThe post Nevada Asks Ninth Circuit to Move Ahead in Kalshi Case appeared first on ReadWrite.",
+        "url": "https://readwrite.com/kalshi-rehearing-nevada/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2026/10/nevada-asks-ninth-circuit-kalshi-case.webp",
+        "publishedAt": "2026-10-05T06:11:44Z",
+        "content": "Nevada has opposed Kalshis request to delay proceedings on its rehearing petition in the Ninth Circuit while the CFTC develops proposed event-contract rules, keeping the states challenge to the platf… [+3728 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series A",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "内华达州在Kalshi案件中推进监管进程。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态以调整策略",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_804e8324324b",
+      "title": "What score is considered a trophy whitetail?",
+      "content": "What Score is Considered a Trophy Whitetail? Unveiling the Magic Number A trophy whitetail typically scores 125 or more on the Boone and Crockett (B&C) scoring system for typical antlers and 150 or more for non-typical antlers, though regional variations and …",
+      "url": "https://www.lifesciencesworld.com/what-score-is-considered-a-trophy-whitetail/",
+      "source": "Lifesciencesworld.com",
+      "source_type": "news",
+      "author": "Ava Reynolds",
+      "published_at": "2026-10-05T03:11:52Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Lifesciencesworld.com"
+        },
+        "author": "Ava Reynolds",
+        "title": "What score is considered a trophy whitetail?",
+        "description": "What Score is Considered a Trophy Whitetail? Unveiling the Magic Number A trophy whitetail typically scores 125 or more on the Boone and Crockett (B&C) scoring system for typical antlers and 150 or more for non-typical antlers, though regional variations and …",
+        "url": "https://www.lifesciencesworld.com/what-score-is-considered-a-trophy-whitetail/",
+        "urlToImage": null,
+        "publishedAt": "2026-10-05T03:11:52Z",
+        "content": "A trophy whitetail typically scores 125 or more on the Boone and Crockett (B&amp;C) scoring system for typical antlers and 150 or more for non-typical antlers, though regional variations and personal… [+8083 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series B",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_4bb3f41e99df",
+      "title": "The Rural Radiologist Who Already Exists",
+      "content": "By STEVEN GOODMAN The future of rural healthcare won’t be determined by how much money is invested. It will be determined by how wisely that money is used. That line gets noddedContinue reading...",
+      "url": "https://thehealthcareblog.com/blog/2026/10/05/the-rural-radiologist-who-already-exists/",
+      "source": "Thehealthcareblog.com",
+      "source_type": "news",
+      "author": "matthew holt",
+      "published_at": "2026-10-05T06:36:52Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Thehealthcareblog.com"
+        },
+        "author": "matthew holt",
+        "title": "The Rural Radiologist Who Already Exists",
+        "description": "By STEVEN GOODMAN The future of rural healthcare won’t be determined by how much money is invested. It will be determined by how wisely that money is used. That line gets noddedContinue reading...",
+        "url": "https://thehealthcareblog.com/blog/2026/10/05/the-rural-radiologist-who-already-exists/",
+        "urlToImage": null,
+        "publishedAt": "2026-10-05T06:36:52Z",
+        "content": "By STEVEN GOODMAN\r\nThe future of rural healthcare won’t be determined by how much money is invested. It will be determined by how wisely that money is used.\r\nThat line gets nodded along to at every r… [+8792 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding funding round",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_c556f278ed06",
+      "title": "Cosmos: Group enters new growth phase – 2026 revenue estimate at 105 million",
+      "content": "Cosmos Group is focusing on AI, its strategic partnership with NVIDIA, Data Center services and IT projects in both the public and private sectors, raising estimates for its growth prospects…\nCosmos: Group enters new growth phase – 2026 revenue estimate at 10…",
+      "url": "https://www.naftemporiki.gr/english/2170625/cosmos-group-enters-new-growth-phase-2026-revenue-estimate-at-105-million/",
+      "source": "Naftemporiki.gr",
+      "source_type": "news",
+      "author": "Αλεξία Σωτηρίου",
+      "published_at": "2026-10-05T05:32:36Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Naftemporiki.gr"
+        },
+        "author": "Αλεξία Σωτηρίου",
+        "title": "Cosmos: Group enters new growth phase – 2026 revenue estimate at 105 million",
+        "description": "Cosmos Group is focusing on AI, its strategic partnership with NVIDIA, Data Center services and IT projects in both the public and private sectors, raising estimates for its growth prospects…\nCosmos: Group enters new growth phase – 2026 revenue estimate at 10…",
+        "url": "https://www.naftemporiki.gr/english/2170625/cosmos-group-enters-new-growth-phase-2026-revenue-estimate-at-105-million/",
+        "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2025/06/cosmos.jpg",
+        "publishedAt": "2026-10-05T05:32:36Z",
+        "content": "Cosmos Group is focusing on AI, its strategic partnership with NVIDIA, Data Center services and IT projects in both the public and private sectors, raising estimates for its growth prospects and perf… [+3778 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition strategic investment",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Cosmos集团预计2026年收入增长显著。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到行业增长",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注行业增长动态，评估影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_feaa66f8a90b",
+      "title": "ASC Cookbookにロバート・馬場さんの「オトナのエビマヨ」レシピ公開",
+      "content": "[ASC（水産養殖管理協議会）]\n[画像1: https://prcdn.freetls.fastly.net/release_image/109673/12/109673-12-b65ab67c5e40757e60e7897bcda8e50f-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000012.000109673.html",
+      "source": "Prtimes.jp",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-05T04:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Prtimes.jp"
+        },
+        "author": null,
+        "title": "ASC Cookbookにロバート・馬場さんの「オトナのエビマヨ」レシピ公開",
+        "description": "[ASC（水産養殖管理協議会）]\n[画像1: https://prcdn.freetls.fastly.net/release_image/109673/12/109673-12-b65ab67c5e40757e60e7897bcda8e50f-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+        "url": "https://prtimes.jp/main/html/rd/p/000000012.000109673.html",
+        "urlToImage": "https://prcdn.freetls.fastly.net/release_image/109673/12/109673-12-b65ab67c5e40757e60e7897bcda8e50f-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "publishedAt": "2026-10-05T04:00:00Z",
+        "content": "ASC Cookbook\r\nASCASCASC CookbookCookbook\r\nASC\r\nASC5ASCASCASC\r\nYouTubeASC CookbookASC\r\nYouTube\r\nYouTube\r\nBaba Kitchen\r\nASC\r\nASC\r\nASCAquaculture Stewardship CouncilISEAL()\r\nASCCoCASCASCCoCChain of Cust… [+50 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_57b1b26d447f",
+      "title": "Daniel Kinahan case adjourned for one week to allow solicitor apply to represent him",
+      "content": "Kinahan appears via video link for brief mention but will attend court next week",
+      "url": "https://www.irishtimes.com/crime-law/courts/2026/10/05/daniel-kinahan-case-adjourned-for-one-week-to-allow-solicitor-apply-to-represent-him/",
+      "source": "The Irish Times",
+      "source_type": "news",
+      "author": "Mary Carolan",
+      "published_at": "2026-10-05T07:23:04Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-irish-times",
+          "name": "The Irish Times"
+        },
+        "author": "Mary Carolan",
+        "title": "Daniel Kinahan case adjourned for one week to allow solicitor apply to represent him",
+        "description": "Kinahan appears via video link for brief mention but will attend court next week",
+        "url": "https://www.irishtimes.com/crime-law/courts/2026/10/05/daniel-kinahan-case-adjourned-for-one-week-to-allow-solicitor-apply-to-represent-him/",
+        "urlToImage": "https://www.irishtimes.com/resizer/v2/GJJ4EYVYRVCZJNCT3F3GR6NL6A.jpg?smart=true&auth=466b1c2b8575b7ee1b8f0769bb0b3013308de1cdff0bfe62b4bc3264220bdd22&width=1200&height=630",
+        "publishedAt": "2026-10-05T07:23:04Z",
+        "content": "Alleged crime gang leader Daniel Kinahan appeared by video link from prison when his case came briefly before the Special Criminal Court on Monday afternoon. \r\nKinahan was charged last August with di… [+2191 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_666ca76d14ef",
+      "title": "Big Al Isn’t the Answer: Why Local Models Are the Real Revolution",
+      "content": "Why Local Models Now Beat Big AI Over the last 3 years, I’ve been building decentralized AI tools and watching the establishment move to lobotomize publicly available large language models to make sure they are nowhere near as intelligent as they could be [1]…",
+      "url": "https://www.naturalnews.com/2026-10-05-why-local-models-are-the-real-revolution.html",
+      "source": "Naturalnews.com",
+      "source_type": "news",
+      "author": "Mike Adams",
+      "published_at": "2026-10-05T06:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Naturalnews.com"
+        },
+        "author": "Mike Adams",
+        "title": "Big Al Isn’t the Answer: Why Local Models Are the Real Revolution",
+        "description": "Why Local Models Now Beat Big AI Over the last 3 years, I’ve been building decentralized AI tools and watching the establishment move to lobotomize publicly available large language models to make sure they are nowhere near as intelligent as they could be [1]…",
+        "url": "https://www.naturalnews.com/2026-10-05-why-local-models-are-the-real-revolution.html",
+        "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/local-ai-decentralized-ai-ai-centralization-4769-b7e1b07e-original.jpg",
+        "publishedAt": "2026-10-05T06:00:00Z",
+        "content": "Why Local Models Now Beat Big AI\r\nOver the last 3 years, I've been building decentralized AI tools and watching the establishment move to lobotomize publicly available large language models to make s… [+10836 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "地方模型在加密货币监管中具有革命性意义。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_f6744d410758",
+      "title": "Weekly policy watch: RBI monetary policy, GST Council meet and PMI in focus",
+      "content": "RBI MPC Meeting: India's policy calendar this week will track RBI's rate decision, GST process reforms and fresh forex reserves data",
+      "url": "https://www.business-standard.com/economy/news/weekly-policy-watch-rbi-mpc-gst-reforms-pmi-forex-reserves-october-2026-126100500213_1.html",
+      "source": "Business Standard",
+      "source_type": "news",
+      "author": "Rimjhim Singh",
+      "published_at": "2026-10-05T05:14:15Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Business Standard"
+        },
+        "author": "Rimjhim Singh",
+        "title": "Weekly policy watch: RBI monetary policy, GST Council meet and PMI in focus",
+        "description": "RBI MPC Meeting: India's policy calendar this week will track RBI's rate decision, GST process reforms and fresh forex reserves data",
+        "url": "https://www.business-standard.com/economy/news/weekly-policy-watch-rbi-mpc-gst-reforms-pmi-forex-reserves-october-2026-126100500213_1.html",
+        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/05/thumb/fitandfill/1200X628/1780639335-3469.JPG",
+        "publishedAt": "2026-10-05T05:14:15Z",
+        "content": "India's policy calendar this week will track RBI's rate decision, GST process reforms and fresh forex reserves data\r\nThe RBIs six-member MPC will meet from October 5 to 7. (Photo: Reuters)\r\nRimjhim S… [+3424 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "MPC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "关注货币政策与监管动态的新闻",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到货币政策与监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注政策变化对行业的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_1d042b203ade",
+      "title": "Payward and Singapore Gulf Bank Partner to Bring 24/7 Settlement to Institutional Digital Asset Markets",
+      "content": "Payward has integrated SGB Net, Singapore Gulf Bank's real-time clearing network, allowing institutional clients in Asia and the Gulf region to settle instantly at any hour. SGB will also onboard Kraken Prime as an additional source of digital asset liquidity…",
+      "url": "https://www.prnewswire.com/news-releases/payward-and-singapore-gulf-bank-partner-to-bring-247-settlement-to-institutional-digital-asset-markets-302897759.html",
+      "source": "PRNewswire",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-05T02:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "PRNewswire"
+        },
+        "author": null,
+        "title": "Payward and Singapore Gulf Bank Partner to Bring 24/7 Settlement to Institutional Digital Asset Markets",
+        "description": "Payward has integrated SGB Net, Singapore Gulf Bank's real-time clearing network, allowing institutional clients in Asia and the Gulf region to settle instantly at any hour. SGB will also onboard Kraken Prime as an additional source of digital asset liquidity…",
+        "url": "https://www.prnewswire.com/news-releases/payward-and-singapore-gulf-bank-partner-to-bring-247-settlement-to-institutional-digital-asset-markets-302897759.html",
+        "urlToImage": null,
+        "publishedAt": "2026-10-05T02:00:00Z",
+        "content": "Payward has integrated SGB Net, Singapore Gulf Bank's real-time clearing network, allowing institutional clients in Asia and the Gulf region to settle instantly at any hour. SGB will also onboard Kra… [+4893 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Payward",
+        "Singapore Gulf Bank"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Payward与新加坡海湾银行合作推动数字资产市场的24/7结算服务。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及数字资产市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注数字资产市场结算技术的进展",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_13b9864195c9",
+      "title": "Sovereign Wealth Fund Institute announces first I20 Summit alongside G20 Leaders' Summit, targets US$5tn capital deployment into US",
+      "content": "Five-day event set for Miami (11–15 December 2026) alongside the G20 Leaders' Summit at Trump National Doral. Convenes global sovereign, pension, and institutional allocators representing every G20 and allied nation. SWFI targets US$5 trillion in capital depl…",
+      "url": "https://www.prnewswire.com/news-releases/sovereign-wealth-fund-institute-announces-first-i20-summit-alongside-g20-leaders-summit-targets-us5tn-capital-deployment-into-us-302897638.html",
+      "source": "PRNewswire",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-05T07:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "PRNewswire"
+        },
+        "author": null,
+        "title": "Sovereign Wealth Fund Institute announces first I20 Summit alongside G20 Leaders' Summit, targets US$5tn capital deployment into US",
+        "description": "Five-day event set for Miami (11–15 December 2026) alongside the G20 Leaders' Summit at Trump National Doral. Convenes global sovereign, pension, and institutional allocators representing every G20 and allied nation. SWFI targets US$5 trillion in capital depl…",
+        "url": "https://www.prnewswire.com/news-releases/sovereign-wealth-fund-institute-announces-first-i20-summit-alongside-g20-leaders-summit-targets-us5tn-capital-deployment-into-us-302897638.html",
+        "urlToImage": "https://mmx.prnewswire.com/media/MS2001905/Image-1.jpg?id=OA2985674&p=facebook",
+        "publishedAt": "2026-10-05T07:00:00Z",
+        "content": "<ul><li>Five-day event set for Miami (1115 December 2026) alongside the G20 Leaders' Summit at Trump National Doral.</li><li>Convenes global sovereign, pension, and institutional allocators represent… [+2508 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "主权财富基金计划在美国部署资本。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到资本部署与市场趋势",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注资本流动对加密市场的影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_e7766fe94521",
+      "title": "Technology Officers Navigating ‘Age of Perpetual Change’",
+      "content": "Technology Officers Navigating ‘Age of Perpetual Change’\n\n \n\n\n \nkathryn.palmer…\n\nMon, 10/05/2026 - 03:00 AM\n\nDetermining where artificial intelligence adds value to colleges and future-proofing students for a volatile world are the most pressing issues for te…",
+      "url": "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/10/05/higher-ed-tech-officers-navigating-age",
+      "source": "Inside Higher Ed",
+      "source_type": "news",
+      "author": "kathryn.palmer@insidehighered.com",
+      "published_at": "2026-10-05T07:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Inside Higher Ed"
+        },
+        "author": "kathryn.palmer@insidehighered.com",
+        "title": "Technology Officers Navigating ‘Age of Perpetual Change’",
+        "description": "Technology Officers Navigating ‘Age of Perpetual Change’\n\n \n\n\n \nkathryn.palmer…\n\nMon, 10/05/2026 - 03:00 AM\n\nDetermining where artificial intelligence adds value to colleges and future-proofing students for a volatile world are the most pressing issues for te…",
+        "url": "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/10/05/higher-ed-tech-officers-navigating-age",
+        "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-10/IMG_5119.jpeg?itok=dVwFC1ag",
+        "publishedAt": "2026-10-05T07:00:00Z",
+        "content": "DENVERNavigating the age of artificial intelligence was top of mind for the 7,000-plus educators, information technology professionals and vendors who convened last week for Educause 2026, the ed-tec… [+5120 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "技术官在快速变化时代的挑战与应对",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币行业动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注技术变化对业务的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_f9553e984b04",
+      "title": "Ethereum liquidity drops below 50% of Bitcoin’s level",
+      "content": "Ethereum's reduced liquidity compared to Bitcoin may lead to increased trading costs and volatility, impacting institutional trading strategies.\nThe post Ethereum liquidity drops below 50% of Bitcoin’s level appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/ethereum-liquidity-drops-below-bitcoin-50-percent/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Vivian Nguyen",
+      "published_at": "2026-10-05T02:14:02Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Vivian Nguyen",
+        "title": "Ethereum liquidity drops below 50% of Bitcoin’s level",
+        "description": "Ethereum's reduced liquidity compared to Bitcoin may lead to increased trading costs and volatility, impacting institutional trading strategies.\nThe post Ethereum liquidity drops below 50% of Bitcoin’s level appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/ethereum-liquidity-drops-below-bitcoin-50-percent/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/04221354/library-ethereum-liquidity-drops-below-50-of-bitcoin-s-level-800x450.png",
+        "publishedAt": "2026-10-05T02:14:02Z",
+        "content": "A CoinGecko analysis of eight major exchanges shows Ethereum's market depth has fallen to 3545% of Bitcoin's, down from over 60% a year ago. Ethereum’s standing in the liquidity rankings has taken a … [+1956 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "以太坊流动性降至比特币的一半以下。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到以太坊流动性",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注以太坊流动性变化对市场的影响。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_208186ba3079",
+      "title": "Grayscale’s Zach Pandl to make the macro case for Zcash in Singapore",
+      "content": "Grayscale's push for Zcash highlights growing institutional interest in privacy-focused assets, potentially reshaping digital asset investment strategies.\nThe post Grayscale’s Zach Pandl to make the macro case for Zcash in Singapore appeared first on Crypto B…",
+      "url": "https://cryptobriefing.com/grayscale-zach-pandl-zcash-yield-summit/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-10-05T00:06:12Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Grayscale’s Zach Pandl to make the macro case for Zcash in Singapore",
+        "description": "Grayscale's push for Zcash highlights growing institutional interest in privacy-focused assets, potentially reshaping digital asset investment strategies.\nThe post Grayscale’s Zach Pandl to make the macro case for Zcash in Singapore appeared first on Crypto B…",
+        "url": "https://cryptobriefing.com/grayscale-zach-pandl-zcash-yield-summit/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
+        "publishedAt": "2026-10-05T00:06:12Z",
+        "content": "Grayscale's head of research will pitch Zcash to institutional allocators at the Digital Asset Yield Summit as the firm expands its privacy-coin push Grayscale’s Head of Research, Zach Pandl, is head… [+3360 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Zcash在新加坡的宏观案例讨论与监管相关。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注Zcash在监管环境中的发展",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_39e41e7d794f",
+      "title": "Hyperliquid perpetual contracts now available on Bloomberg Terminal",
+      "content": "The integration of Hyperliquid on Bloomberg Terminal signals a pivotal shift towards institutional acceptance of decentralized finance platforms.\nThe post Hyperliquid perpetual contracts now available on Bloomberg Terminal appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/hyperliquid-perpetual-contracts-now-available-on-bloomberg-terminal/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-10-05T06:17:51Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Hyperliquid perpetual contracts now available on Bloomberg Terminal",
+        "description": "The integration of Hyperliquid on Bloomberg Terminal signals a pivotal shift towards institutional acceptance of decentralized finance platforms.\nThe post Hyperliquid perpetual contracts now available on Bloomberg Terminal appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/hyperliquid-perpetual-contracts-now-available-on-bloomberg-terminal/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/05021750/library-hyperliquid-perpetual-contracts-now-available-on-bloombe-1-800x450.png",
+        "publishedAt": "2026-10-05T06:17:51Z",
+        "content": "Hyperliquid, a decentralized perpetual futures exchange, has made its perpetual contracts available on the Bloomberg Terminal, according to a report from @coinbureau. This marks a significant step fo… [+1785 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Hyperliquid 永续合约现已在 Bloomberg Terminal 上线。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密合约交易",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_66f1d0deb75f",
+      "title": "5 Digital Wallets To Try Instead Of Google Wallet",
+      "content": "While Google Wallet mostly gets the job done, alternative digital wallets like Klarna and Venmo offer different features and access to new financial tools.",
+      "url": "https://www.bgr.com/2271746/digital-wallets-to-try-instead-of-google-wallet/",
+      "source": "BGR",
+      "source_type": "news",
+      "author": "staff@bgr.com (Jonathan Sayers)",
+      "published_at": "2026-10-05T00:47:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "BGR"
+        },
+        "author": "staff@bgr.com (Jonathan Sayers)",
+        "title": "5 Digital Wallets To Try Instead Of Google Wallet",
+        "description": "While Google Wallet mostly gets the job done, alternative digital wallets like Klarna and Venmo offer different features and access to new financial tools.",
+        "url": "https://www.bgr.com/2271746/digital-wallets-to-try-instead-of-google-wallet/",
+        "urlToImage": "https://www.bgr.com/img/gallery/5-digital-wallets-to-try-instead-of-google-wallet/l-intro-1790684777.jpg",
+        "publishedAt": "2026-10-05T00:47:00Z",
+        "content": "Cash App has long been considered one of the top PayPal alternatives worth using, and it functions as a viable Google Wallet replacement as well. It's a digital wallet that operates on two extremes. … [+798 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "推荐替代谷歌钱包的数字钱包",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及数字钱包",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注数字钱包市场动态",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_bac7004c2495",
+      "title": "pg_vault_tde v1.7.2 : Critical crash fixes, new on-disk format, and stability improvements",
+      "content": "Version 1.7.2 of pg_vault_tde is now available. This is a binary patch release where extension version stays at 1.7, but users can distinguish the build at runtime using pg_vault_tde_build_version(). \nThis update focuses on critical stability, security, and c…",
+      "url": "https://www.postgresql.org/about/news/pg_vault_tde-v172-critical-crash-fixes-new-on-disk-format-and-stability-improvements-3393/",
+      "source": "Postgresql.org",
+      "source_type": "news",
+      "author": "Miriade Srl",
+      "published_at": "2026-10-05T00:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Postgresql.org"
+        },
+        "author": "Miriade Srl",
+        "title": "pg_vault_tde v1.7.2 : Critical crash fixes, new on-disk format, and stability improvements",
+        "description": "Version 1.7.2 of pg_vault_tde is now available. This is a binary patch release where extension version stays at 1.7, but users can distinguish the build at runtime using pg_vault_tde_build_version(). \nThis update focuses on critical stability, security, and c…",
+        "url": "https://www.postgresql.org/about/news/pg_vault_tde-v172-critical-crash-fixes-new-on-disk-format-and-stability-improvements-3393/",
+        "urlToImage": null,
+        "publishedAt": "2026-10-05T00:00:00Z",
+        "content": "Version 1.7.2 of pg_vault_tde is now available. This is a binary patch release where extension version stays at 1.7, but users can distinguish the build at runtime using pg_vault_tde_build_version().… [+1858 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "pg_vault_tde 更新了技术和稳定性改进。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及技术发展",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注技术更新对行业的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_b1f50c67920d",
+      "title": "Zcash activates NU7 network upgrade on testnet at block height 4,465,026",
+      "content": "Zcash's NU7 upgrade on testnet could enhance transaction speed and sustainability, potentially influencing broader blockchain adoption trends.\nThe post Zcash activates NU7 network upgrade on testnet at block height 4,465,026 appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/zcash-nu7-upgrade-activates-testnet/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-10-05T01:35:57Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Zcash activates NU7 network upgrade on testnet at block height 4,465,026",
+        "description": "Zcash's NU7 upgrade on testnet could enhance transaction speed and sustainability, potentially influencing broader blockchain adoption trends.\nThe post Zcash activates NU7 network upgrade on testnet at block height 4,465,026 appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/zcash-nu7-upgrade-activates-testnet/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/04213553/library-zcash-activates-nu7-network-upgrade-on-testnet-at-block--800x450.png",
+        "publishedAt": "2026-10-05T01:35:57Z",
+        "content": "The upgrade targets 25-second blocks, a new fee-recycling mechanism and the retirement of the Sprout shielded pool ahead of a mainnet decision Zcash has switched on its NU7 network upgrade on the pub… [+2610 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Zcash 在测试网上激活了 NU7 网络升级。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链技术升级",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注技术升级对市场的潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_c452564aaa6c",
+      "title": "Illinois backs delay to crypto tax rule after months of industry pushback",
+      "content": "The October 1 joint motion seeks a July 2027 tax start, while court entry remains unconfirmed and rule comments close Oct. 30.\nThe post Illinois backs delay to crypto tax rule after months of industry pushback appeared first on CryptoSlate.",
+      "url": "https://cryptoslate.com/illinois-backs-delay-to-crypto-tax-rule-after-months-of-industry-pushback/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Oluwapelumi Adejumo",
+      "published_at": "2026-10-05T02:00:45Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Oluwapelumi Adejumo",
+        "title": "Illinois backs delay to crypto tax rule after months of industry pushback",
+        "description": "The October 1 joint motion seeks a July 2027 tax start, while court entry remains unconfirmed and rule comments close Oct. 30.\nThe post Illinois backs delay to crypto tax rule after months of industry pushback appeared first on CryptoSlate.",
+        "url": "https://cryptoslate.com/illinois-backs-delay-to-crypto-tax-rule-after-months-of-industry-pushback/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/08/illinois-crypto-oversight.jpg",
+        "publishedAt": "2026-10-05T02:00:45Z",
+        "content": "Illinois officials have joined crypto industry groups in seeking a six-month delay to the states controversial digital-asset tax.\r\nThe agreed motion, filed Oct. 1 in Sangamon County, asks a judge to … [+3420 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "伊利诺伊州推迟加密税收规则的决定。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Treasury withdraws crypto mixing rule, citing concerns over ‘chilling effect on legitimate activity’",
+      "description": "FinCEN is withdrawing a proposal that would've designated crypto mixing a \"primary money laundering concern\" under the PATRIOT Act.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-10-05T17:22:37",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "财政部撤回加密混合规则提案，影响监管环境。",
+      "business_relevance": 0.7,
+      "relevance_reason": "加密货币监管动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注后续监管政策变化，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Umia raises $6.1 million at $18 million FDV to help crypto projects launch tokens",
+      "description": "Umia raised $6.11 million through a seven-day auction of its UMIA token, with ten funds and nearly 700 individual bidders taking part.",
+      "url": "https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-10-05T16:49:15",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Umia成功融资以支持加密项目发币。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密项目融资",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注加密项目融资动态",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "title": "CFTC proposes new federal framework for leveraged retail crypto trading",
+      "description": "The CFTC launched rulemaking on leveraged and margined retail crypto trading, proposing Regulation CTX and CAM and a new \"crypto asset market\" exchange.",
+      "url": "https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-10-05T16:09:02",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "CFTC提出新的加密交易监管框架。",
+      "business_relevance": 0.7,
+      "relevance_reason": "加密货币监管动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管变化对市场的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Visa, CoinShares find growing crypto appetite among consumers and affluent investors",
+      "description": "Visa and CoinShares surveys show rising stablecoin interest in Asia Pacific alongside strong digital-asset ownership among affluent investors.",
+      "url": "https://www.theblock.co/news/business/2026-10-05-visa-coinshares-find-growing-crypto-appetite-among-consumers-and-affluent-investors-417642",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-10-05T12:01:06",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Visa",
+        "CoinShares"
+      ],
+      "importance_score": 7,
+      "ai_summary": "调查显示亚太地区对稳定币的兴趣上升。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币兴趣",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注稳定币市场动态，调整策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
+      "description": "Built with input from J.P. Morgan, the open-source \"DvP\" program lets institutions settle trades atomically on Solana with finality in seconds instead of days.",
+      "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-10-06T02:01:03",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "J.P. Morgan"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Solana推出了新的结算标准，提升交易效率。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "关注区块链技术进展，评估影响。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "title": "Treasury Kills Crypto 'Unhosted Wallet' and Mixer Surveillance Rules",
+      "description": "FinCEN withdrew a 2020 proposal to track transactions with self-custodial crypto wallets and a 2023 plan to designate crypto mixing as a primary money laundering concern.",
+      "url": "https://decrypt.co/380120/treasury-kills-crypto-unhosted-wallet-mixer-surveillance-rules",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-10-05T20:19:38",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "财政部撤回加密钱包监管提案，影响行业发展。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注后续监管政策变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Crypto Sleuth ZachXBT Fronted $350K to Pose as a Client of Lazarus' Chinese Launderers",
+      "description": "The on-chain sleuth says he posed as a customer of a Chinese crime syndicate, fronting $349,700 and eating 5% on every order, to track Lazarus Group's Bybit loot in real time.",
+      "url": "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-10-05T18:46:02",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "ZachXBT通过伪装客户追踪洗钱活动。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币洗钱",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注洗钱相关的监管政策变化。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
+      "description": "The CFTC is seeking public comment on a framework that would create a new federal license for crypto exchanges, with leverage offers as the trigger for oversight.",
+      "url": "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-10-05T16:46:03",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "CFTC计划对加密交易所进行联邦监管。",
+      "business_relevance": 0.7,
+      "relevance_reason": "加密货币监管动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注监管变化对业务的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Morning Minute: Uptober Off to a Green Start",
+      "description": "Crypto majors and alts are rallying to start October. What’s driving the early action and will it continue?",
+      "url": "https://decrypt.co/380050/morning-minute-uptober-off-to-a-green-start",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-10-05T11:39:08",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "加密市场在十月初表现良好。",
+      "business_relevance": 0.5,
+      "relevance_reason": "加密市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注市场动态以调整策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme",
+      "description": "An association for AI enthusiasts was allegedly the recruiting vehicle, and two anonymous tips to a government portal started the case.",
+      "url": "https://decrypt.co/380040/greek-soldiers-among-alleged-leaders-of-8m-crypto-pyramid-scheme",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-10-05T11:18:01",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "希腊士兵涉嫌参与800万美元加密骗局",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币骗局",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密货币监管动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
+      "description": "Filed under the SEC's new Innovation Exemption, the notice lists more than 60 stocks, including Nvidia and SpaceX, paired with stablecoins.",
+      "url": "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-10-05T10:22:27",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "OKX",
+        "NYSE",
+        "ICE"
+      ],
+      "importance_score": 7,
+      "ai_summary": "OKX与ICE计划24/7代币化股票交易，涉及稳定币。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "监管影响"
+      ],
+      "industry_action": "关注稳定币在股票交易中的应用",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Fed issues notice of proposed rules for payment stablecoin issuers under GENIUS Act - JDSupra",
+      "description": "Fed issues notice of proposed rules for payment stablecoin issuers under GENIUS Act&nbsp;&nbsp;JDSupra",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUHl6U3ItVTZrSzBWcW9SYUpINXJiTFA3MXJKN3A3bUpVVTNPSVFOUFlUX0ZLTHk2Q3pqdTJuTGtpQlRtUUhMVGh6cHdIbXJkNTdIWlljS1ExSlVSWl9xNGV5aWN0MXEwZ1dMeWtqc1lPMkVmRDEwNTVBNUh1ckpOYkZLcHRHc0VPaFE?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-10-05T20:20:35",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "美联储发布稳定币发行者新规草案。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币监管政策",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注新规对稳定币市场的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Kora launches stablecoin rail for African cross-border payments - FinTech Global",
+      "description": "Kora launches stablecoin rail for African cross-border payments&nbsp;&nbsp;FinTech Global",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVzFwUkdjQVJwd09KMVhWZU54RkNDWHNPdzZTcS1MakVwS1NMcUZyenNSWmQ4cnp2U1hzQWdjajlxbHlobmNzMjh4MU04dVhQRDh5SVVuczRWaXYxZTA2bjhlcXFHU0ppdk9GM1U2ZTBwZGtqODRvbkRJeFBwZHRQLURIMm5vRWgtQkFteTZoUGVZZk5zSmthVTBXdWlWeE0?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-10-06T08:16:44",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "Kora推出了用于非洲跨境支付的稳定币通道。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及跨境支付和稳定币",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注非洲市场的稳定币支付动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Rain Pushes Into U.S. Banking With Stablecoin Trust Charter as OCC Faces Legal Challenge - bitcoinfoundation.org",
+      "description": "Rain Pushes Into U.S. Banking With Stablecoin Trust Charter as OCC Faces Legal Challenge&nbsp;&nbsp;bitcoinfoundation.org",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRzZydTE3bUNOWGJuTExWZGRfMFhLeE1NanJ4SVd4WG5mSEVSNmQ0UWFfTUgxaUpoSVMxQ0wtcEFFaWJNUUsxTWNLRlRkeGYzY09oNmlBVEVPTnFweGxCS2N6NEVtVklqdDZqd3Nublg1T29TVVVjaklORFBMdU54U1gtVmFFM3RwT2hOWXYtRG5Uak1vckMzNkVia29PNDFJV3Y2N1ZoRkFqTlJ5TkxYb0F2ZUJ5Sk00dnZvZzdXbGk0NzZ6VExlRmZySUVGZm8?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-10-06T07:24:21",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "Rain在美国推出稳定币信托牌照，影响行业动态。",
+      "business_relevance": 0.9,
+      "relevance_reason": "稳定币托管相关",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注美国稳定币监管动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Stablecoin payments are going mainstream. Hong Kong and APAC are showing how - Asian Banking & Finance",
+      "description": "Stablecoin payments are going mainstream. Hong Kong and APAC are showing how&nbsp;&nbsp;Asian Banking & Finance",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZzVjdnBxeS1IYy1nRW1HemhvdFZDcThoWU5qdXE1VnpIMXdCZUhQa1N3M0Z4VzR3SWx4NXpuT1NyT09NMU5kVUNVNk5pQlNOb2p6WnJST3Y2YkYtQlF2OVROVHU1R1h4cG53TUhUTTNqaWVhRzdYZDBiY1g5Y3lLNU9uQ3FYWVRnNnlCbUZKd3dIRWpUU21La1FNSXRmNHVHQTVVVnlReGlCdzZjSWZ1MC1VYXhJamEwdzFvcFIwZGRKRTBoRlR4UFFiSzFvVTlMTnRxbnRmRTkxUQ?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-10-06T02:00:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "稳定币支付在香港及亚太地区逐渐普及。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币支付的市场动态和技术进展。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Stablecoin Payments Top $400 Billion as Businesses Account for Over Half of Receipts - finance.biggo.com",
+      "description": "Stablecoin Payments Top $400 Billion as Businesses Account for Over Half of Receipts&nbsp;&nbsp;finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PYlpnWmJacTdzNW5pbmFWZ2RIMkJUQW5ndzRZeHhXUHMtaHBndFZTN0JPVWQ1VUcwTEJ1bURsUjYyZElnWGZGTmQtcWNVUzhfVUw4a3dyWDJjX3ZodGVwdnc1M2E0V0Qxd2JPU1Y1OVJoX0p0VHc?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-10-06T01:35:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "稳定币支付总额超过4000亿美元，企业占比过半。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态，调整策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Stripe Stablecoin Cards to Expand to 100+ Countries - altcoinbuzz.io",
+      "description": "Stripe Stablecoin Cards to Expand to 100+ Countries&nbsp;&nbsp;altcoinbuzz.io",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc2ZHeFNOSFFsd1BuRFJ6SWxtT3prMGE2RUNyVjB6UXhJVEZBdlRlOEY1THpqZmx5SEZyTVhkeW9LcFcxUjQxd0ZrcmdCQTB2em13QlJTRVRvZ1BrTnFaME1TcTBEaHphamtJb3NUNzBnS2JoUGlYOENSTWY1LUpVUU9UMnZKS0NIeUFN?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-10-06T05:58:49",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Stripe"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Stripe将稳定币卡扩展至100多个国家。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态，调整策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Stablecoin Payments Surge in B2B Payroll & Vendors - OneSafe",
+      "description": "Stablecoin Payments Surge in B2B Payroll & Vendors&nbsp;&nbsp;OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ka1M2OGRmd1l2b3J3czRMcndQdlNEZWlWMXlackxLT0tfTlRWOTdFOEZ5MDRvV29ibEhwdTNfVVBGRzllSFMzZktoLWlPZXRvRi02YnVKVmVrSUdyTG42dEtnTTZUR182M3NjZVJWcTVCbWlxSnlB?oc=5",
+      "source": "Google News (stablecoin B2B)",
+      "source_category": "google_news",
+      "published_at": "2026-10-06T03:13:36",
+      "data_type": "rss",
+      "search_keyword": "stablecoin B2B",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "稳定币支付在B2B薪资和供应商中激增。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付业务",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币支付的市场动态和技术进展。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "[Exclusive] Stablecoin Payments Surge at Companies for Vendor Settlements and Payroll - bloomingbit",
+      "description": "[Exclusive] Stablecoin Payments Surge at Companies for Vendor Settlements and Payroll&nbsp;&nbsp;bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zcnNuNENhZHI4N2JxT0N4dkVIc1BwMzJxRFRzZldPT2RDT2k1YV8tUDNCOVJNZTAwLUVnYjdqSXJteExyOTJ0TXctenp3ZE5QSDZfMQ?oc=5",
+      "source": "Google News (stablecoin B2B)",
+      "source_category": "google_news",
+      "published_at": "2026-10-06T01:01:22",
+      "data_type": "rss",
+      "search_keyword": "stablecoin B2B",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "稳定币支付在公司中激增，影响市场趋势。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币支付业务",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币支付的市场动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Barred at home, Korea Inc. trials overseas stablecoin shortcut for faster cross-border payments - Korea JoongAng Daily",
+      "description": "Barred at home, Korea Inc. trials overseas stablecoin shortcut for faster cross-border payments&nbsp;&nbsp;Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSlpYV08zYWQ3OWszV2ZnRy1fbEg4X19IN3NmTGcyWHVCOVQxM1FfdlBTcUhpQ19RU1NfdE5mSFkyUU5DTlRWRzlQRW9LN1VFbEd0Qk55NS01cnFyLXhFTHJxSUQ1aGtYZFdUVDVjc09qdmcxWFdQeTJMUWNfOWVTWkxTZzNCNktLeXdxbkpDSlhoWEFiaFYtUGxoTlpKU2RabFhPMGw2MF83dHBqdlRIRGgzOW9qMzhrVHIwSzFHdkg1UWcxRHJsYm1fUWJ6UWtTODh5ZllBVGk0OTZOc3c?oc=5",
+      "source": "Google News (cross-border stablecoin)",
+      "source_category": "google_news",
+      "published_at": "2026-10-05T22:09:48",
+      "data_type": "rss",
+      "search_keyword": "cross-border stablecoin",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "韩国企业尝试使用海外稳定币进行跨境支付。",
+      "business_relevance": 0.8,
+      "relevance_reason": "涉及跨境支付和稳定币",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币在跨境支付中的应用趋势。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Visa is Betting on Stablecoins and AI: Why Should Investors Care? - TradingView",
+      "description": "Visa is Betting on Stablecoins and AI: Why Should Investors Care?&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdmFIdk56LUFFNENKejdVNjlhcGFzLVh5MUNlaXZsUGc2bUs3c0hzMHpHY3lkS2o1eWsweEpvUVZPSVBsWUcxdTBoV3hFbHdlTHI4TDUwLTBaaUN6ZXdLbGRHZUVLQkxzb2VJbFVhcVlVZWNjd2EySGVzS3VIcVEtRzF2SmI0bnlLRmdISjh6bTBGWHlIZEVXQnNGOGxlRUEwUmNQVmp5VkhXaUZGc0RCc3Q4SXJaUi1VLVZj?oc=5",
+      "source": "Google News (cross-border stablecoin)",
+      "source_category": "google_news",
+      "published_at": "2026-10-05T15:40:00",
+      "data_type": "rss",
+      "search_keyword": "cross-border stablecoin",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Visa"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Visa 正在押注稳定币和人工智能。",
+      "business_relevance": 0.8,
+      "relevance_reason": "提到稳定币和支付业务",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态，调整策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Visa stablecoin card payments up nearly 200% year over year - CryptoRank",
+      "description": "Visa stablecoin card payments up nearly 200% year over year&nbsp;&nbsp;CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTXY1bG9SNzJwR3ppVmxqbEc3Wm1FZi1mdjJqQlZGNXViNWtUWUJYS0xidE9RQUJaX1FlMllLYk5vZV96cUR5M1ZURnZHWlJpSTdPNU9hWmd2b0dzR2lORDU3anZhNkZXbGYxUm94WkhNU2lUZWEtYlVWY1FXWG04TE5TeW5JUQ?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-10-05T22:50:07",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Visa"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Visa的稳定币卡支付增长显著。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币支付增长",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币支付市场动态。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    }
+  ],
+  "company": [
+    {
+      "title": "Stripe Plans Stablecoin Card Rollout in More Than 100 Countries - Northeast Times",
+      "description": "Stripe Plans Stablecoin Card Rollout in More Than 100 Countries&nbsp;&nbsp;Northeast Times",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVTlJeG1FQlVSLXBJdnN6bnNkRlpLRVN3WjB3SktqX1BwRmN4UUd1RkNBYmVQMUVERmdTVDlDYU1pVWpCLUhyNno5dVRlb1RhMkM5M0pHTlZGbnMzN3pHR3RPUmZXSlE1d1o5a2poUzRvODZDQTVoSDl6NUF6Z19BZi1oOV9iMnBHZW9KUll5SWprMjRYd043M0k5UUR5dkVuVlZrZA?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-10-05T14:32:32",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Stripe"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Stripe计划在100多个国家推出稳定币卡",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付业务",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "客户争夺",
+        "市场定价"
+      ],
+      "suggested_action": "关注Stripe的市场动态，调整产品策略",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "title": "DIMOCO launches stablecoin settlement - The Paypers",
+      "description": "DIMOCO launches stablecoin settlement&nbsp;&nbsp;The Paypers",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTGx2M05ZeWw0aTVrRHVRRXBUMUFtQWg5S1BGU1hCWkQxZ2E3SHotTjROSVphR0FySzctMUQxZnFrSmJtUGFEalk3Um5aLVlleTg2SnZQX2gzX0JvUm5HRy1XU1pwVlc4NDNyTFpjc21YZHZld19fUGlNWVdYSVM0LXVOTDFwNnZZNU5tN3BvVzU3RVhpUVhzM1NBOTZHSWlzWGVDbQ?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-10-05T15:49:57",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "DIMOCO"
+      ],
+      "importance_score": 8,
+      "ai_summary": "DIMOCO推出稳定币结算服务，直接相关竞争动态。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币结算业务",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "市场定价"
+      ],
+      "suggested_action": "关注DIMOCO的市场动态，调整竞争策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    }
+  ],
+  "funding": []
+}
