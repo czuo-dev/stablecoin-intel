@@ -1,0 +1,1641 @@
+{
+  "policy": [
+    {
+      "id": "news_aa6783c97708",
+      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+      "content": "Misconceptions and security fears remain primary friction points, with almost half of surveyed consumers assuming stablecoins are restricted solely to trading crypto assets.",
+      "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+      "source": "CoinDesk",
+      "source_type": "news",
+      "author": "Olivier Acuna",
+      "published_at": "2026-10-10T03:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Olivier Acuna",
+        "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+        "description": "Misconceptions and security fears remain primary friction points, with almost half of surveyed consumers assuming stablecoins are restricted solely to trading crypto assets.",
+        "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/6a3e8c93fcda98c3decad9229705aecebec1b999-1170x780.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+        "publishedAt": "2026-10-10T03:00:00Z",
+        "content": "The gap between interest and understanding remains wide. Only 6% of respondents demonstrated an accurate understanding of how stablecoins work, Visa said, while 49% of people aware of them thought th… [+1221 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "调查显示亚太地区消费者对稳定币的接受度上升。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币使用意愿",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态，调整策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_e0e4a356e9a1",
+      "title": "Ledger theft-linked funds shift from USDT to USDD to dodge Tether freezes",
+      "content": "The shift from USDT to USDD underscores vulnerabilities in stablecoin freeze mechanisms, prompting scrutiny on regulatory and security measures.\nThe post Ledger theft-linked funds shift from USDT to USDD to dodge Tether freezes appeared first on Crypto Briefi…",
+      "url": "https://cryptobriefing.com/ledger-theft-funds-usdt-usdd-freeze/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-10-10T02:16:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Ledger theft-linked funds shift from USDT to USDD to dodge Tether freezes",
+        "description": "The shift from USDT to USDD underscores vulnerabilities in stablecoin freeze mechanisms, prompting scrutiny on regulatory and security measures.\nThe post Ledger theft-linked funds shift from USDT to USDD to dodge Tether freezes appeared first on Crypto Briefi…",
+        "url": "https://cryptobriefing.com/ledger-theft-funds-usdt-usdd-freeze/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/09221557/library-ledger-theft-linked-funds-shift-from-usdt-to-usdd-to-dod-800x450.png",
+        "publishedAt": "2026-10-10T02:16:00Z",
+        "content": "A suspected thief tied to compromised Ledger devices swapped millions in USDT for USDD after Tether started blacklisting addresses A wallet tied to a wave of thefts from Ledger hardware wallet users … [+2857 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Tether",
+        "USDT",
+        "USDD"
+      ],
+      "importance_score": 8,
+      "ai_summary": "新闻提到资金从USDT转移至USDD以规避冻结，反映稳定币市场动态。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币转移",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场变化，评估潜在影响。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_cd0e338326a9",
+      "title": "Visa survey finds nearly half of Asia-Pacific consumers likely to use stablecoins",
+      "content": "The potential rise in stablecoin usage in Asia-Pacific could drive financial innovation but also highlights the need for better consumer education.\nThe post Visa survey finds nearly half of Asia-Pacific consumers likely to use stablecoins appeared first on Cr…",
+      "url": "https://cryptobriefing.com/visa-survey-asia-pacific-stablecoin-adoption/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Kaye Quema",
+      "published_at": "2026-10-10T05:05:22Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Kaye Quema",
+        "title": "Visa survey finds nearly half of Asia-Pacific consumers likely to use stablecoins",
+        "description": "The potential rise in stablecoin usage in Asia-Pacific could drive financial innovation but also highlights the need for better consumer education.\nThe post Visa survey finds nearly half of Asia-Pacific consumers likely to use stablecoins appeared first on Cr…",
+        "url": "https://cryptobriefing.com/visa-survey-asia-pacific-stablecoin-adoption/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/10010517/library-visa-survey-finds-nearly-half-of-asia-pacific-consumers--800x450.png",
+        "publishedAt": "2026-10-10T05:05:22Z",
+        "content": "Interest is climbing fast across the region, but 41% of respondents think stablecoins always go up in value Stablecoins are having a moment in Asia-Pacific. A new Visa study finds that 46% of consume… [+1692 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "调查显示亚太地区消费者对稳定币的使用意向高。",
+      "business_relevance": 0.8,
+      "relevance_reason": "提到稳定币使用意向",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态，调整策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_4751e6210c45",
+      "title": "Brazilian police seize $1.7M in crypto from phishing ring’s wallets",
+      "content": "The operation highlights growing regulatory scrutiny on self-custody wallets, potentially influencing crypto security practices and policies.\nThe post Brazilian police seize $1.7M in crypto from phishing ring’s wallets appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/brazilian-police-seize-crypto-phishing-ring/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-10-10T06:41:17Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Brazilian police seize $1.7M in crypto from phishing ring’s wallets",
+        "description": "The operation highlights growing regulatory scrutiny on self-custody wallets, potentially influencing crypto security practices and policies.\nThe post Brazilian police seize $1.7M in crypto from phishing ring’s wallets appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/brazilian-police-seize-crypto-phishing-ring/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/10024111/library-brazilian-police-seize-1-7m-in-crypto-from-phishing-ring-800x450.png",
+        "publishedAt": "2026-10-10T06:41:17Z",
+        "content": "Santa Catarina's civil police pulled Bitcoin, Ethereum, TRON and Tether out of self-custody wallets tied to a group dismantled in Operação ClickFix Brazilian police have pulled US$1,708,534 in crypto… [+3524 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDT",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "巴西警方查获170万美元加密货币",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密货币监管动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_7d9aab85278f",
+      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+      "content": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.",
+      "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+      "source": "CoinDesk",
+      "source_type": "news",
+      "author": "Shaurya Malwa",
+      "published_at": "2026-10-10T04:20:07Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Shaurya Malwa",
+        "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+        "description": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.",
+        "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+        "publishedAt": "2026-10-10T04:20:07Z",
+        "content": "An attacker could have, theoretically, open hundreds of accounts, have each one offer a tiny amount of a token in exchange for an unusually large amount of XRP, then send a single payment that bought… [+1177 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "XRP Ledger 修复了一个十年的漏洞。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链技术发展",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注区块链技术的安全性和稳定性。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_259295ea8d3f",
+      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+      "content": "The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability.",
+      "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Michael Millard",
+      "published_at": "2026-10-10T07:10:43Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Michael Millard",
+        "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+        "description": "The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability.",
+        "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4JA710W3MTHS923BYD1G7PT/hi-the-increasingly-acute-need-for-crypto-native-insurance.png",
+        "publishedAt": "2026-10-10T07:10:43Z",
+        "content": "Meanwhile, a life insurer licensed to operate completely in Bitcoin, announced $37.5 million in new funding from existing investors. \r\nBermuda-based Meanwhile, whose backers include OpenAI CEO Sam Al… [+1938 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "Meanwhile"
+      ],
+      "importance_score": 5,
+      "ai_summary": "Meanwhile获得新融资，涉及比特币保险业务。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到比特币保险",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注比特币保险市场动态",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_f55ff0f15e7d",
+      "title": "The U.S. Government Moved $1.5 Billion in Seized Crypto in Two Days. Will It Sell?",
+      "content": "The post The U.S. Government Moved $1.5 Billion in Seized Crypto in Two Days. Will It Sell? appeared first on 24/7 Wall St..\nU.S. government wallets transferred about $1.5 billion in seized cryptocurrency on October 7 and 8, 2026, mainly Bitcoin (CRYPTO: BTC)…",
+      "url": "https://biztoc.com/x/e68e74eb23cbfb60",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "247wallst.com",
+      "published_at": "2026-10-10T08:02:02Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "247wallst.com",
+        "title": "The U.S. Government Moved $1.5 Billion in Seized Crypto in Two Days. Will It Sell?",
+        "description": "The post The U.S. Government Moved $1.5 Billion in Seized Crypto in Two Days. Will It Sell? appeared first on 24/7 Wall St..\nU.S. government wallets transferred about $1.5 billion in seized cryptocurrency on October 7 and 8, 2026, mainly Bitcoin (CRYPTO: BTC)…",
+        "url": "https://biztoc.com/x/e68e74eb23cbfb60",
+        "urlToImage": "https://biztoc.com/cdn/e68e74eb23cbfb60_s.webp",
+        "publishedAt": "2026-10-10T08:02:02Z",
+        "content": "The post The U.S. Government Moved $1.5 Billion in Seized Crypto in Two Days. Will It Sell? appeared first on 24/7 Wall St..U.S. government wallets transferred about $1.5 billion in seized cryptocurr… [+143 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "美国政府转移被没收的加密货币，可能影响市场动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化对市场的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_f1ece4fed9bd",
+      "title": "Celsius founder faces lifetime ban, but can trade his own crypto",
+      "content": "A qualifying DOJ payment can satisfy the $25 million obligation, while a separate $10 million judgment has a sentence-completion condition with exceptions.\nThe post Celsius founder faces lifetime ban, but can trade his own crypto appeared first on CryptoSlate.",
+      "url": "https://cryptoslate.com/celsius-founder-faces-lifetime-ban-but-can-trade-his-own-crypto/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam 'Akiba' Wright",
+      "published_at": "2026-10-10T01:50:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam 'Akiba' Wright",
+        "title": "Celsius founder faces lifetime ban, but can trade his own crypto",
+        "description": "A qualifying DOJ payment can satisfy the $25 million obligation, while a separate $10 million judgment has a sentence-completion condition with exceptions.\nThe post Celsius founder faces lifetime ban, but can trade his own crypto appeared first on CryptoSlate.",
+        "url": "https://cryptoslate.com/celsius-founder-faces-lifetime-ban-but-can-trade-his-own-crypto/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/10/mashinsky-new-york-settlement-standard.jpg",
+        "publishedAt": "2026-10-10T01:50:00Z",
+        "content": "Bankrupt crypto lender Celsius founder Alex Mashinsky has agreed to a permanent ban from the securities, commodities, and crypto business under a New York settlement announced on Oct. 9.\r\n The agreem… [+2559 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Celsius创始人面临终身禁令，涉及监管问题。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "竞争格局"
+      ],
+      "industry_action": "关注监管动态，评估潜在影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_883c6a271c52",
+      "title": "Prediction: Zcash (ZEC) Will Be Worth This Much in 5 Years",
+      "content": "I predict Zcash (CRYPTO: ZEC) will be worth about $10,000 per coin by 2031. It's currently priced just over $1,200.\nIs that estimate absurd? Maybe, but the coin climbed from $45 in September 2025 to nearly $700 by that November, and has increased more than 70…",
+      "url": "https://biztoc.com/x/20a9b76b7f958060",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "finance.yahoo.com",
+      "published_at": "2026-10-10T05:17:22Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "Prediction: Zcash (ZEC) Will Be Worth This Much in 5 Years",
+        "description": "I predict Zcash (CRYPTO: ZEC) will be worth about $10,000 per coin by 2031. It's currently priced just over $1,200.\nIs that estimate absurd? Maybe, but the coin climbed from $45 in September 2025 to nearly $700 by that November, and has increased more than 70…",
+        "url": "https://biztoc.com/x/20a9b76b7f958060",
+        "urlToImage": "https://biztoc.com/cdn/20a9b76b7f958060_s.webp",
+        "publishedAt": "2026-10-10T05:17:22Z",
+        "content": "I predict Zcash (CRYPTO: ZEC) will be worth about $10,000 per coin by 2031. It's currently priced just over $1,200.Is that estimate absurd? Maybe, but the coin climbed from $45 in September 2025 to n… [+147 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "预测Zcash未来五年的价值变化。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币价格",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_1efdf24e621f",
+      "title": "Robinhood Chain transactions fall more than 40% as memecoin trading cools",
+      "content": "The decline in Robinhood Chain transactions highlights the volatility of memecoin markets and underscores the need for diversified blockchain applications.\nThe post Robinhood Chain transactions fall more than 40% as memecoin trading cools appeared first on Cr…",
+      "url": "https://cryptobriefing.com/robinhood-chain-transactions-fall-memecoin-cooldown/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-10-10T04:48:59Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Robinhood Chain transactions fall more than 40% as memecoin trading cools",
+        "description": "The decline in Robinhood Chain transactions highlights the volatility of memecoin markets and underscores the need for diversified blockchain applications.\nThe post Robinhood Chain transactions fall more than 40% as memecoin trading cools appeared first on Cr…",
+        "url": "https://cryptobriefing.com/robinhood-chain-transactions-fall-memecoin-cooldown/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
+        "publishedAt": "2026-10-10T04:48:59Z",
+        "content": "The Ethereum layer-2's slowdown has spread from fees to trading activity, though DEX volume and TVL have held up better than the headline numbers suggest Robinhood Chain’s memecoin party is winding d… [+2043 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Robinhood链交易量下降，反映市场趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "加密市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场变化，调整策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_be1e1915ca59",
+      "title": "Ripple fixes 2015 bug preventing unauthorized XRP minting",
+      "content": "Ripple's bug fix enhances XRP's stability, potentially boosting investor confidence and influencing future price dynamics amid regulatory challenges.\nThe post Ripple fixes 2015 bug preventing unauthorized XRP minting appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/ripple-fixes-2015-bug-preventing-unauthorized-xrp-minting/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-10-10T04:39:21Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Ripple fixes 2015 bug preventing unauthorized XRP minting",
+        "description": "Ripple's bug fix enhances XRP's stability, potentially boosting investor confidence and influencing future price dynamics amid regulatory challenges.\nThe post Ripple fixes 2015 bug preventing unauthorized XRP minting appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/ripple-fixes-2015-bug-preventing-unauthorized-xrp-minting/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/10003919/library-ripple-fixes-2015-bug-preventing-unauthorized-xrp-mintin-1-800x450.png",
+        "publishedAt": "2026-10-10T04:39:21Z",
+        "content": "Ripple has reportedly addressed a significant software bug from 2015 that, if exploited, could have led to unauthorized minting of billions of XRP. The bug remained dormant and unexploited, and the f… [+1701 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Ripple"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Ripple修复了影响XRP铸造的漏洞，影响行业发展。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到XRP及其技术修复",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注Ripple技术进展对市场的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_bbc141b89ab4",
+      "title": "CFTC proposes new swap definition to regulate prediction markets",
+      "content": "The CFTC's proposal could redefine prediction markets' regulatory landscape, impacting their growth, jurisdiction, and operational dynamics.\nThe post CFTC proposes new swap definition to regulate prediction markets appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/cftc-swap-definition-prediction-markets/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-10-10T00:17:58Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "CFTC proposes new swap definition to regulate prediction markets",
+        "description": "The CFTC's proposal could redefine prediction markets' regulatory landscape, impacting their growth, jurisdiction, and operational dynamics.\nThe post CFTC proposes new swap definition to regulate prediction markets appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/cftc-swap-definition-prediction-markets/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
+        "publishedAt": "2026-10-10T00:17:58Z",
+        "content": "The agency wants event contracts on sports, politics, culture and weather treated as swaps, while carving casino-style betting out of its reach The Commodity Futures Trading Commission wants to settl… [+3620 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto regulation",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "CFTC提议新定义以监管预测市场，影响加密行业。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，评估合规策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_852d5f1808fb",
+      "title": "Put a price on breakthroughs",
+      "content": "How frontier labs, neolabs, and investors can all win",
+      "url": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
+      "source": "Alexwang.ai",
+      "source_type": "news",
+      "author": "Alex Wang",
+      "published_at": "2026-10-10T02:37:47Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Alexwang.ai"
+        },
+        "author": "Alex Wang",
+        "title": "Put a price on breakthroughs",
+        "description": "How frontier labs, neolabs, and investors can all win",
+        "url": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
+        "urlToImage": "https://alexwang.ai/images/share-card_hu_5a8999b1bc09c73e.jpg",
+        "publishedAt": "2026-10-10T02:37:47Z",
+        "content": "Neolabs today are being asked to pull off two moonshots at once. Their investors want both a research breakthrough and a venture-scale business, even though each of those alone is a 1 in 100 outcome.… [+9773 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.6,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "新闻涉及加密货币的突破性进展。",
+      "business_relevance": 0.5,
+      "relevance_reason": "一般加密货币新闻",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注行业动态以把握市场机会。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_497e3c041e6c",
+      "title": "Valar Atomics Sues Its Own Investor, Day One, Over Funding Round Allocation",
+      "content": "Nuclear reactor startup Valar Atomics says it has sued one of its early backers, Day One Ventures, in Delaware court after shutting out the venture firm from its recent $1 billion funding round. Founders rarely sue their own investors, but Valar is asking the…",
+      "url": "https://info-reader-production.herokuapp.com/briefings/valar-atomics-sues-investor-day-one-funding-round-allocation",
+      "source": "Herokuapp.com",
+      "source_type": "news",
+      "author": "Amir Efrati",
+      "published_at": "2026-10-10T00:58:54Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Herokuapp.com"
+        },
+        "author": "Amir Efrati",
+        "title": "Valar Atomics Sues Its Own Investor, Day One, Over Funding Round Allocation",
+        "description": "Nuclear reactor startup Valar Atomics says it has sued one of its early backers, Day One Ventures, in Delaware court after shutting out the venture firm from its recent $1 billion funding round. Founders rarely sue their own investors, but Valar is asking the…",
+        "url": "https://info-reader-production.herokuapp.com/briefings/valar-atomics-sues-investor-day-one-funding-round-allocation",
+        "urlToImage": "https://tii.imgix.net/global/defaults/article_image_unavailable.jpg",
+        "publishedAt": "2026-10-10T00:58:54Z",
+        "content": "Nuclear reactor startup Valar Atomics says it has sued one of its early backers, Day One Ventures, in Delaware court after shutting out the venture firm from its recent $1 billion funding round. Foun… [+97 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "Valar Atomics",
+        "Day One"
+      ],
+      "importance_score": 5,
+      "ai_summary": "Valar Atomics起诉投资者关于融资分配问题。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及融资事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注融资动态对市场的影响",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_4b0da616eb8f",
+      "title": "Which fish has a secret weapon?",
+      "content": "Which Fish Has a Secret Weapon? The answer to which fish has a secret weapon? is the electric eel. This fascinating creature possesses specialized organs that generate powerful electric discharges used for hunting, defense, and communication. Introduction: Un…",
+      "url": "https://www.lifesciencesworld.com/which-fish-has-a-secret-weapon/",
+      "source": "Lifesciencesworld.com",
+      "source_type": "news",
+      "author": "Ava Reynolds",
+      "published_at": "2026-10-10T02:36:28Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Lifesciencesworld.com"
+        },
+        "author": "Ava Reynolds",
+        "title": "Which fish has a secret weapon?",
+        "description": "Which Fish Has a Secret Weapon? The answer to which fish has a secret weapon? is the electric eel. This fascinating creature possesses specialized organs that generate powerful electric discharges used for hunting, defense, and communication. Introduction: Un…",
+        "url": "https://www.lifesciencesworld.com/which-fish-has-a-secret-weapon/",
+        "urlToImage": null,
+        "publishedAt": "2026-10-10T02:36:28Z",
+        "content": "The answer to which fish has a secret weapon? is the electric eel. This fascinating creature possesses specialized organs that generate powerful electric discharges used for hunting, defense, and com… [+7527 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_3bd3e849003a",
+      "title": "OPay Files for US IPO with 50 Million Active Users and Expansion Plan",
+      "content": "OPay, a digital financial platform built for emerging markets, has 50.1 million monthly active users and sees an addressable opportunity across billions of users and millions of merchants, the company said in a registration statement filed with the Securities…",
+      "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/opay-files-for-us-ipo-with-50-million-active-users-and-expansion-plan/",
+      "source": "pymnts.com",
+      "source_type": "news",
+      "author": "PYMNTS",
+      "published_at": "2026-10-10T00:01:44Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "pymnts.com"
+        },
+        "author": "PYMNTS",
+        "title": "OPay Files for US IPO with 50 Million Active Users and Expansion Plan",
+        "description": "OPay, a digital financial platform built for emerging markets, has 50.1 million monthly active users and sees an addressable opportunity across billions of users and millions of merchants, the company said in a registration statement filed with the Securities…",
+        "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/opay-files-for-us-ipo-with-50-million-active-users-and-expansion-plan/",
+        "urlToImage": "https://www.pymnts.com/wp-content/uploads/2023/11/FinTech-IPO-Index.jpg",
+        "publishedAt": "2026-10-10T00:01:44Z",
+        "content": "OPay, a digital financial platform built for emerging markets, has 50.1 million monthly active users and sees an addressable opportunity across billions of users and millions of merchants, the compan… [+2199 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "OPay"
+      ],
+      "importance_score": 7,
+      "ai_summary": "OPay计划在美国上市，用户增长显著。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及支付业务扩展",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注OPay的市场动态与用户增长策略",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_d55450a0e154",
+      "title": "Morgan Stanley’s Capital Markets And Digital Push Might Change The Case For Investing In MS",
+      "content": "Morgan Stanley recently featured in several developments, including being named a lead underwriter for Solidigm's planned US initial public offering that could raise about US$10.00 billion and participating in merger interest discussions around UBS AG, while …",
+      "url": "https://biztoc.com/x/779a9aca490f4086",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "finance.yahoo.com",
+      "published_at": "2026-10-10T08:02:40Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "Morgan Stanley’s Capital Markets And Digital Push Might Change The Case For Investing In MS",
+        "description": "Morgan Stanley recently featured in several developments, including being named a lead underwriter for Solidigm's planned US initial public offering that could raise about US$10.00 billion and participating in merger interest discussions around UBS AG, while …",
+        "url": "https://biztoc.com/x/779a9aca490f4086",
+        "urlToImage": "https://biztoc.com/cdn/779a9aca490f4086_s.webp",
+        "publishedAt": "2026-10-10T08:02:40Z",
+        "content": "Morgan Stanley recently featured in several developments, including being named a lead underwriter for Solidigm's planned US initial public offering that could raise about US$10.00 billion and partic… [+147 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "merger",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "摩根士丹利的数字化推动可能影响投资决策。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到数字市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注市场动态，调整投资策略",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_3f1aafdcb118",
+      "title": "Slate Money - DiscoDance",
+      "content": "This week, we’re talking about a mega-merger, Spain, and artificial intelligence. First up, hosts Felix Salmon\r\n, Emily Peck\r\n, and Elizabeth Spiers\r\n go deep on the Paramount and Warner Bros. Discovery merger. They unpack David Ellison's calculus, the potent…",
+      "url": "https://shows.acast.com/slate-money/episodes/6ac95af8937a3c900f394234",
+      "source": "Acast.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-10T07:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Acast.com"
+        },
+        "author": null,
+        "title": "Slate Money - DiscoDance",
+        "description": "This week, we’re talking about a mega-merger, Spain, and artificial intelligence. First up, hosts Felix Salmon\r\n, Emily Peck\r\n, and Elizabeth Spiers\r\n go deep on the Paramount and Warner Bros. Discovery merger. They unpack David Ellison's calculus, the potent…",
+        "url": "https://shows.acast.com/slate-money/episodes/6ac95af8937a3c900f394234",
+        "urlToImage": "https://open-images.acast.com/shows/695ead68a32e86d775858194/show-cover.jpg?height=315",
+        "publishedAt": "2026-10-10T07:00:00Z",
+        "content": "This week, were talking about a mega-merger, Spain, and artificial intelligence. First up, hosts Felix Salmon, Emily Peck, and Elizabeth Spiers go deep on the Paramount and Warner Bros. Discovery mer… [+693 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "merger",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_d7f3a470bf2b",
+      "title": "What we've been playing - \"It's pure video game popcorn movie stuff\"",
+      "content": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Dom enjoys being back in Gears of War, which they should with a name like that; and Bertie ekes every last drop he can get out of The Blood of…",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff",
+      "source": "Eurogamer.net",
+      "source_type": "news",
+      "author": "Robert Purchese",
+      "published_at": "2026-10-10T07:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Eurogamer.net"
+        },
+        "author": "Robert Purchese",
+        "title": "What we've been playing - \"It's pure video game popcorn movie stuff\"",
+        "description": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Dom enjoys being back in Gears of War, which they should with a name like that; and Bertie ekes every last drop he can get out of The Blood of…",
+        "url": "https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff",
+        "urlToImage": "https://assetsio.gnwcdn.com/gears-of-war-e-day-june-2026-screen-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "publishedAt": "2026-10-10T07:00:00Z",
+        "content": "10th October\r\nHello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Dom enjoys being back in Gears of War, which they should with a name… [+2758 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series A",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_df03818593a8",
+      "title": "WEF urges leaders to treat cybersecurity as economic investment, not just a cost",
+      "content": "Decision-makers are urged to develop a common vocabulary to address cybersecurity as an economic stabilizer. The World Economic Forum report highlights the need for translating digital risks into measurable economic outcomes. Current investments in cybersecur…",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/wef-urges-leaders-to-treat-cybersecurity-as-economic-investment-not-just-a-cost/articleshow/134849914.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "ANI",
+      "published_at": "2026-10-10T07:53:04Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "ANI",
+        "title": "WEF urges leaders to treat cybersecurity as economic investment, not just a cost",
+        "description": "Decision-makers are urged to develop a common vocabulary to address cybersecurity as an economic stabilizer. The World Economic Forum report highlights the need for translating digital risks into measurable economic outcomes. Current investments in cybersecur…",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/wef-urges-leaders-to-treat-cybersecurity-as-economic-investment-not-just-a-cost/articleshow/134849914.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-134849913,width-1200,height-900,imgsize-209508,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-10-10T07:53:04Z",
+        "content": "New Delhi: Decision-makers need to align on a common language to translate digital risks into measurable economic outcomes, as cybersecurity has shifted from an operational concern into a condition o… [+3239 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding strategic investment",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "网络安全被视为经济投资的重要性提升。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及网络安全与经济投资",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注网络安全政策对加密行业的影响",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_cc4e937051ef",
+      "title": "Eurazeo (ENXTPA:RF) Opens Abu Dhabi Hub Following Undervalued View",
+      "content": "Eurazeo's Abu Dhabi move puts Gulf investors in closer reach\nEurazeo (ENXTPA:RF) has opened its first Middle East office in Abu Dhabi's ADGM, creating a new hub that brings the French investment group closer to Gulf institutional and sovereign investors.\nThe …",
+      "url": "https://biztoc.com/x/2d709fa6cb05de16",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "finance.yahoo.com",
+      "published_at": "2026-10-10T07:02:16Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "Eurazeo (ENXTPA:RF) Opens Abu Dhabi Hub Following Undervalued View",
+        "description": "Eurazeo's Abu Dhabi move puts Gulf investors in closer reach\nEurazeo (ENXTPA:RF) has opened its first Middle East office in Abu Dhabi's ADGM, creating a new hub that brings the French investment group closer to Gulf institutional and sovereign investors.\nThe …",
+        "url": "https://biztoc.com/x/2d709fa6cb05de16",
+        "urlToImage": "https://biztoc.com/cdn/2d709fa6cb05de16_s.webp",
+        "publishedAt": "2026-10-10T07:02:16Z",
+        "content": "Eurazeo's Abu Dhabi move puts Gulf investors in closer reachEurazeo (ENXTPA:RF) has opened its first Middle East office in Abu Dhabi's ADGM, creating a new hub that brings the French investment group… [+150 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Eurazeo在阿布扎比开设新中心，关注加密监管动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注阿布扎比的加密监管政策变化",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_4301a2f2827d",
+      "title": "Ledger pauses reseller sales amid suspected $72M-$87M wallet drains",
+      "content": "Ledger halted reseller sales and warned against buying hardware wallets from the reseller CryptoBilis after users reported drained accounts.\nThe post Ledger pauses reseller sales amid suspected $72M-$87M wallet drains appeared first on Techreport.",
+      "url": "https://techreport.com/news/business/ledger-cryptobilis-wallet-drain-investigation/",
+      "source": "Techreport.com",
+      "source_type": "news",
+      "author": "Krishi Chowdhary",
+      "published_at": "2026-10-10T04:05:17Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Techreport.com"
+        },
+        "author": "Krishi Chowdhary",
+        "title": "Ledger pauses reseller sales amid suspected $72M-$87M wallet drains",
+        "description": "Ledger halted reseller sales and warned against buying hardware wallets from the reseller CryptoBilis after users reported drained accounts.\nThe post Ledger pauses reseller sales amid suspected $72M-$87M wallet drains appeared first on Techreport.",
+        "url": "https://techreport.com/news/business/ledger-cryptobilis-wallet-drain-investigation/",
+        "urlToImage": "https://techreport.com/wp-content/uploads/2026/10/XsPQRMS0iT7jXcKY81wTq_EuPP4L1t.jpg",
+        "publishedAt": "2026-10-10T04:05:17Z",
+        "content": "Ledger said on October 9 that it is investigating reports of stolen funds from users in Southeast Asia who bought their devices through the reseller CryptoBilis, and has asked the reseller to halt al… [+3248 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Ledger 暂停销售因钱包安全问题引发关注。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币安全问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注钱包安全动态，评估市场影响。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_4b6d43488b5e",
+      "title": "wallet 2.51.0",
+      "content": "Official Python SDK for the Wallet Inc CRM & Digital Payments platform.",
+      "url": "https://pypi.org/project/wallet/2.51.0/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": "development@wallet.inc",
+      "published_at": "2026-10-10T07:30:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": "development@wallet.inc",
+        "title": "wallet 2.51.0",
+        "description": "Official Python SDK for the Wallet Inc CRM & Digital Payments platform.",
+        "url": "https://pypi.org/project/wallet/2.51.0/",
+        "urlToImage": null,
+        "publishedAt": "2026-10-10T07:30:00Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_cebb126ec56c",
+      "title": "Dormant Ethereum address holding 12,746 ETH wakes up after 10.2 years",
+      "content": "The reactivation of dormant Ethereum wallets highlights potential market shifts, as early holders may choose between selling or staking strategies.\nThe post Dormant Ethereum address holding 12,746 ETH wakes up after 10.2 years appeared first on Crypto Briefin…",
+      "url": "https://cryptobriefing.com/dormant-ethereum-address-12746-eth-activated/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Vivian Nguyen",
+      "published_at": "2026-10-10T00:58:30Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Vivian Nguyen",
+        "title": "Dormant Ethereum address holding 12,746 ETH wakes up after 10.2 years",
+        "description": "The reactivation of dormant Ethereum wallets highlights potential market shifts, as early holders may choose between selling or staking strategies.\nThe post Dormant Ethereum address holding 12,746 ETH wakes up after 10.2 years appeared first on Crypto Briefin…",
+        "url": "https://cryptobriefing.com/dormant-ethereum-address-12746-eth-activated/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/09205826/library-dormant-ethereum-address-holding-12-746-eth-wakes-up-aft-800x450.png",
+        "publishedAt": "2026-10-10T00:58:30Z",
+        "content": "Another early-era Ethereum wallet has come back online, joining a growing list of long-silent holders returning to the chain An Ethereum address holding 12,746 ETH has moved for the first time in rou… [+2594 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "一个沉睡的以太坊地址在10.2年后重新激活。",
+      "business_relevance": 0.5,
+      "relevance_reason": "一般加密货币新闻",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_9421b74b8504",
+      "title": "a-token-monitor added to PyPI",
+      "content": "Monitor Codex, Grok, Kimi, DeepSeek Harness and other code agents",
+      "url": "https://pypi.org/project/a-token-monitor/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": "clickly@163.com",
+      "published_at": "2026-10-10T05:58:20Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": "clickly@163.com",
+        "title": "a-token-monitor added to PyPI",
+        "description": "Monitor Codex, Grok, Kimi, DeepSeek Harness and other code agents",
+        "url": "https://pypi.org/project/a-token-monitor/",
+        "urlToImage": null,
+        "publishedAt": "2026-10-10T05:58:20Z",
+        "content": "English | \r\nOne local dashboard for every coding agent you pay for. Quota windows, live\r\nsessions, token spend and suspicious uploads for Codex, Claude Code, Grok, Kimi Code and\r\nseven more agents, o… [+28764 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "a-token-monitor工具的发布与加密基础设施相关。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注该工具对市场的潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_67d008ce182a",
+      "title": "Why Must Banks Rebuild Controls for Every Blockchain?",
+      "content": "Moving assets between blockchains is an interoperability problem. Must an institution also rebuild its governance on each network? In my SSRN paper, I propose separating institutional authority from transaction execution. Risk systems, compliance services, cu…",
+      "url": "https://slashdot.org/submission/17351386/why-must-banks-rebuild-controls-for-every-blockchain",
+      "source": "Slashdot.org",
+      "source_type": "news",
+      "author": "jays8088",
+      "published_at": "2026-10-10T01:25:03Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Slashdot.org"
+        },
+        "author": "jays8088",
+        "title": "Why Must Banks Rebuild Controls for Every Blockchain?",
+        "description": "Moving assets between blockchains is an interoperability problem. Must an institution also rebuild its governance on each network? In my SSRN paper, I propose separating institutional authority from transaction execution. Risk systems, compliance services, cu…",
+        "url": "https://slashdot.org/submission/17351386/why-must-banks-rebuild-controls-for-every-blockchain",
+        "urlToImage": null,
+        "publishedAt": "2026-10-10T01:25:03Z",
+        "content": "In seeking the unattainable, simplicity only gets in the way.\r\n-- Epigrams in Programming, ACM SIGPLAN Sept. 1982",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional compliance",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "银行需重建区块链控制机制以应对监管变化。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到区块链控制",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注区块链监管政策变化，调整合规策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+      "description": "The Bermuda-based insurer, which runs entirely on Bitcoin, drew the funding from existing backers led by Bain Capital Crypto after a record year driven by demand from wealthy families in Asia, Europe and the Middle East.",
+      "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-10-10T16:01:04",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "一家完全基于比特币的保险公司获得融资。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到比特币保险公司",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注比特币在保险行业的应用趋势。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
+      "description": "A National Assembly committee adopted amendments taxing stablecoin swaps and crypto exits by wealthy holders, then rejected the 2027 budget's revenue section.",
+      "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-10-10T13:01:03",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "法国委员会支持稳定币交易税收政策。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币税收政策",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注稳定币相关政策变化对市场的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Coinbase EU Stablecoin Ban: A Business Survival Guide - OneSafe",
+      "description": "Coinbase EU Stablecoin Ban: A Business Survival Guide&nbsp;&nbsp;OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRjVkV2U5aEd4SVcxZDUwODlCRy1nV013RU40eHRsN2JVNHc5TWRDZDBNU0x5Tm9BMWVQQnVGQ2FpUjNHU2NIZE9yZjFWd1RjelhzWTF6enZzZFhRRjlUeHJVMkNFSE9Jd3ZrWnJISkVpQXN3Y0tYY3ZycHZWZUZPazdtV1dnSzJ5?oc=5",
+      "source": "Google News (stablecoin license)",
+      "source_category": "google_news",
+      "published_at": "2026-10-10T20:27:25",
+      "data_type": "rss",
+      "search_keyword": "stablecoin license",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Coinbase"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Coinbase在欧盟的稳定币禁令影响行业动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注欧盟稳定币政策变化。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    }
+  ],
+  "company": [],
+  "funding": [
+    {
+      "id": "news_df03818593a8",
+      "title": "WEF urges leaders to treat cybersecurity as economic investment, not just a cost",
+      "content": "Decision-makers are urged to develop a common vocabulary to address cybersecurity as an economic stabilizer. The World Economic Forum report highlights the need for translating digital risks into measurable economic outcomes. Current investments in cybersecur…",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/wef-urges-leaders-to-treat-cybersecurity-as-economic-investment-not-just-a-cost/articleshow/134849914.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "ANI",
+      "published_at": "2026-10-10T07:53:04Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "ANI",
+        "title": "WEF urges leaders to treat cybersecurity as economic investment, not just a cost",
+        "description": "Decision-makers are urged to develop a common vocabulary to address cybersecurity as an economic stabilizer. The World Economic Forum report highlights the need for translating digital risks into measurable economic outcomes. Current investments in cybersecur…",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/wef-urges-leaders-to-treat-cybersecurity-as-economic-investment-not-just-a-cost/articleshow/134849914.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-134849913,width-1200,height-900,imgsize-209508,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-10-10T07:53:04Z",
+        "content": "New Delhi: Decision-makers need to align on a common language to translate digital risks into measurable economic outcomes, as cybersecurity has shifted from an operational concern into a condition o… [+3239 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding strategic investment",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "网络安全被视为经济投资的重要性提升。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及网络安全与经济投资",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注网络安全政策对加密行业的影响",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    }
+  ]
+}
