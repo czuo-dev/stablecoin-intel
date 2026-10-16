@@ -1,0 +1,24 @@
+{
+  "week": "2026-10-16",
+  "period": {
+    "start": "2026-10-10",
+    "end": "2026-10-16",
+    "days": 7
+  },
+  "generated_at": "2026-10-16T18:34:41.461916",
+  "stats": {
+    "total_news": 364,
+    "total_tweets": 0,
+    "total_items": 364,
+    "by_category": {
+      "policy": 341,
+      "company": 19,
+      "funding": 4
+    }
+  },
+  "version": "v2",
+  "model": "gpt-4o-mini",
+  "mode": "single",
+  "total_tokens": 8819,
+  "estimated_cost": 0.0035660999999999996
+}
