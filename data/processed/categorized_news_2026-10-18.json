@@ -1,0 +1,1465 @@
+{
+  "policy": [
+    {
+      "id": "news_3dbe99f2b931",
+      "title": "Visa and Mastercard adopt USDC payouts across 200 countries",
+      "content": "Visa's Inyo rollout and Mastercard's BVNK platform give businesses stablecoin funding routes, subject to eligibility and rollout limits.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in yo…",
+      "url": "https://cryptoslate.com/visa-and-mastercard-adopt-usdc-payouts-across-200-countries/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam 'Akiba' Wright",
+      "published_at": "2026-10-17T02:00:33Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam 'Akiba' Wright",
+        "title": "Visa and Mastercard adopt USDC payouts across 200 countries",
+        "description": "Visa's Inyo rollout and Mastercard's BVNK platform give businesses stablecoin funding routes, subject to eligibility and rollout limits.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in yo…",
+        "url": "https://cryptoslate.com/visa-and-mastercard-adopt-usdc-payouts-across-200-countries/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/10/visa-mastercard-stablecoin-payments-standard.jpg",
+        "publishedAt": "2026-10-17T02:00:33Z",
+        "content": "Visa and Mastercard announced commercial stablecoin funding routes on Oct. 15 that give eligible businesses new ways to fund payments.\r\nVisa's route prefunds Visa Direct cross-border payouts through … [+2740 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "BVNK",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Visa",
+        "Mastercard"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Visa和Mastercard在200个国家采用USDC支付。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币支付的市场动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_062b2cc5bc41",
+      "title": "Marqeta and Coinbase Take Stablecoin Spending Mainstream",
+      "content": "Marqeta’s enterprise customers can now offer stablecoin-backed cards powered by Coinbase, the companies said in a Friday (Oct. 16) press release. This offering is enabled by a new collaboration that integrates Marqeta’s card issuing platform with Coinbase’s i…",
+      "url": "https://biztoc.com/x/f688bc6cac4a8914",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "pymnts.com",
+      "published_at": "2026-10-17T00:49:32Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "pymnts.com",
+        "title": "Marqeta and Coinbase Take Stablecoin Spending Mainstream",
+        "description": "Marqeta’s enterprise customers can now offer stablecoin-backed cards powered by Coinbase, the companies said in a Friday (Oct. 16) press release. This offering is enabled by a new collaboration that integrates Marqeta’s card issuing platform with Coinbase’s i…",
+        "url": "https://biztoc.com/x/f688bc6cac4a8914",
+        "urlToImage": "https://biztoc.com/cdn/996/og.png",
+        "publishedAt": "2026-10-17T00:49:32Z",
+        "content": "Marqetas enterprise customers can now offer stablecoin-backed cards powered by Coinbase, the companies said in a Friday (Oct. 16) press release. This offering is enabled by a new collaboration that i… [+140 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Marqeta",
+        "Coinbase"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Marqeta与Coinbase推动稳定币支付普及。",
+      "business_relevance": 0.8,
+      "relevance_reason": "提到稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币支付的发展动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_3c6672f22656",
+      "title": "GENIUS Act factored into Samsung stablecoin move, Solana Foundation exec says",
+      "content": "Samsung's plan to put stablecoin transfers into the wallet app already sitting on 82 million Galaxy phones did not come together overnight. According to Lu Yin, head of APAC at the Solana Foundation, the deal was years in the making.\n\"Samsung announced today …",
+      "url": "https://biztoc.com/x/33c802069fd64e58",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "finance.yahoo.com",
+      "published_at": "2026-10-17T02:22:02Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "GENIUS Act factored into Samsung stablecoin move, Solana Foundation exec says",
+        "description": "Samsung's plan to put stablecoin transfers into the wallet app already sitting on 82 million Galaxy phones did not come together overnight. According to Lu Yin, head of APAC at the Solana Foundation, the deal was years in the making.\n\"Samsung announced today …",
+        "url": "https://biztoc.com/x/33c802069fd64e58",
+        "urlToImage": "https://biztoc.com/cdn/33c802069fd64e58_s.webp",
+        "publishedAt": "2026-10-17T02:22:02Z",
+        "content": "Samsung's plan to put stablecoin transfers into the wallet app already sitting on 82 million Galaxy phones did not come together overnight. According to Lu Yin, head of APAC at the Solana Foundation,… [+151 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Samsung",
+        "Solana Foundation"
+      ],
+      "importance_score": 7,
+      "ai_summary": "三星稳定币的动向与监管政策有关。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币及监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注稳定币相关的监管动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_02b8c17ad942",
+      "title": "Cardano shifts $26M to USDCx as bridge controls freeze payouts",
+      "content": "Converted Intersect-administered budgets reduce ADA exposure, while milestone release and stablecoin cash-out conditions still govern access to usable money.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. G…",
+      "url": "https://cryptoslate.com/cardano-shifts-26m-to-usdcx-as-bridge-controls-freeze-payouts/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam 'Akiba' Wright",
+      "published_at": "2026-10-17T05:00:24Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam 'Akiba' Wright",
+        "title": "Cardano shifts $26M to USDCx as bridge controls freeze payouts",
+        "description": "Converted Intersect-administered budgets reduce ADA exposure, while milestone release and stablecoin cash-out conditions still govern access to usable money.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. G…",
+        "url": "https://cryptoslate.com/cardano-shifts-26m-to-usdcx-as-bridge-controls-freeze-payouts/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/10/cardano-stablecoin-development-funding-standard.jpg",
+        "publishedAt": "2026-10-17T05:00:24Z",
+        "content": "Some of Cardanos development funding has already moved into dollar tokens, making ADAs price a less direct guide to the work those budgets can support.\r\nThe SundaeSwap treasury dashboard lists total … [+7478 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Cardano将2600万美元转移至USDCx，影响稳定币市场。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币USDCx",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态，评估影响。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_4fd09761498d",
+      "title": "Aptos burns 174K APT in 30 days as total burn hits 1.9 million",
+      "content": "Despite increased token burns, Aptos faces inflationary pressure due to high staking emissions, impacting non-staking holders' value.\nThe post Aptos burns 174K APT in 30 days as total burn hits 1.9 million appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/aptos-burns-174k-apt-total-burn-1-9m/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-10-17T03:03:47Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Aptos burns 174K APT in 30 days as total burn hits 1.9 million",
+        "description": "Despite increased token burns, Aptos faces inflationary pressure due to high staking emissions, impacting non-staking holders' value.\nThe post Aptos burns 174K APT in 30 days as total burn hits 1.9 million appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/aptos-burns-174k-apt-total-burn-1-9m/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/16230343/library-aptos-burns-174k-apt-in-30-days-as-total-burn-hits-1-9-m-800x450.png",
+        "publishedAt": "2026-10-17T03:03:47Z",
+        "content": "Higher gas fees have sped up token burns on Aptos, but staking emissions are still adding far more APT than the network destroys Aptos has been burning its native token faster than usual. Over the pa… [+4704 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Aptos在30天内燃烧了174K APT。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_8a099ce06a3c",
+      "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+      "content": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.",
+      "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+      "source": "CoinDesk",
+      "source_type": "news",
+      "author": "Shaurya Malwa",
+      "published_at": "2026-10-17T02:30:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Shaurya Malwa",
+        "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+        "description": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.",
+        "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/9f051c877190174f3a7cbc53e53d11e1620cee92-2560x1707.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+        "publishedAt": "2026-10-17T02:30:00Z",
+        "content": "The firm reported about 99.99% fidelity, a measure of how closely the finished states matched what researchers were aiming for.\r\nThat number applies only to the states that passed inspection. Willow … [+1260 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "谷歌新突破可能影响比特币安全性。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到量子威胁与加密技术",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注量子计算对加密技术的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_b8309dac6ed8",
+      "title": "U.S. Authorities Dismantle Crypto Scam Network, Seize 112 Servers and 241 Websites",
+      "content": "Authorities in Brooklyn working with the Federal Bureau of Investigation (FBI) have dismantled an Eastern European cryptocurrency scam network that stole tens of millions of dollars from Russian-speaking Americans, officials said Wednesday, Oct. 14. The opera…",
+      "url": "https://www.naturalnews.com/2026-10-17-us-authorities-dismantle-crypto-scam-network.html",
+      "source": "Naturalnews.com",
+      "source_type": "news",
+      "author": "Sterling Ashworth",
+      "published_at": "2026-10-17T06:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Naturalnews.com"
+        },
+        "author": "Sterling Ashworth",
+        "title": "U.S. Authorities Dismantle Crypto Scam Network, Seize 112 Servers and 241 Websites",
+        "description": "Authorities in Brooklyn working with the Federal Bureau of Investigation (FBI) have dismantled an Eastern European cryptocurrency scam network that stole tens of millions of dollars from Russian-speaking Americans, officials said Wednesday, Oct. 14. The opera…",
+        "url": "https://www.naturalnews.com/2026-10-17-us-authorities-dismantle-crypto-scam-network.html",
+        "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/crypto-scam-network-server-seizure-website-takedown-5175-9509aa07-original.jpg",
+        "publishedAt": "2026-10-17T06:00:00Z",
+        "content": "Authorities in Brooklyn working with the Federal Bureau of Investigation (FBI) have dismantled an Eastern European cryptocurrency scam network that stole tens of millions of dollars from Russian-spea… [+5753 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "美国当局打击加密诈骗网络，涉及监管动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_109de4ac8ddc",
+      "title": "The Dual Voids: SEC Reg CA and the AI Agent Liability Gap",
+      "content": "The Monday Deadline Monday, October 20, marks the close of the comment period for the Securities and Exchange Commission’s proposed Regulation Crypto Assets (Release No. 33-11434, Docket S7-2026-27). The proposal, published in the Federal Register on August 2…",
+      "url": "https://forkast.news/the-dual-voids-sec-reg-ca-and-the-ai-agent-liability-gap/",
+      "source": "Forkast.news",
+      "source_type": "news",
+      "author": "Priya Nair",
+      "published_at": "2026-10-17T06:28:07Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Forkast.news"
+        },
+        "author": "Priya Nair",
+        "title": "The Dual Voids: SEC Reg CA and the AI Agent Liability Gap",
+        "description": "The Monday Deadline Monday, October 20, marks the close of the comment period for the Securities and Exchange Commission’s proposed Regulation Crypto Assets (Release No. 33-11434, Docket S7-2026-27). The proposal, published in the Federal Register on August 2…",
+        "url": "https://forkast.news/the-dual-voids-sec-reg-ca-and-the-ai-agent-liability-gap/",
+        "urlToImage": "https://forkast.news/wp-content/uploads/2026/10/sec-reg-ca-dual-liability-void-1024x687.jpg",
+        "publishedAt": "2026-10-17T06:28:07Z",
+        "content": "The Monday Deadline\r\nMonday, October 20, marks the close of the comment period for the Securities and Exchange Commissions proposed Regulation Crypto Assets (Release No. 33-11434, Docket S7-2026-27).… [+4554 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "讨论了加密货币监管的空白问题。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，调整合规策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_43a3bde3e2c7",
+      "title": "Iran broke? $25 billion oil loss, $350 million crypto frozen as militias send money back to IRGC, says US",
+      "content": "Iran is facing mounting financial pressure after nine months of war, with a US naval blockade costing it $25 billion in lost oil revenue and $350 million",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-broke-25-billion-oil-loss-350-million-crypto-frozen-as-militias-send-money-back-to-irgc-says-us/articleshow/135006374.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "Aastha Jha",
+      "published_at": "2026-10-17T03:25:20Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Aastha Jha",
+        "title": "Iran broke? $25 billion oil loss, $350 million crypto frozen as militias send money back to IRGC, says US",
+        "description": "Iran is facing mounting financial pressure after nine months of war, with a US naval blockade costing it $25 billion in lost oil revenue and $350 million",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-broke-25-billion-oil-loss-350-million-crypto-frozen-as-militias-send-money-back-to-irgc-says-us/articleshow/135006374.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-135006595,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-17T03:25:20Z",
+        "content": "Follow Us On Social Media\r\nCopyright © 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "伊朗加密货币被冻结，影响行业动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币冻结",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "监管影响"
+      ],
+      "industry_action": "关注加密货币监管变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_55648fbafb99",
+      "title": "DOJ’s Hands-Off AI Enforcement Leaves States to Police the Agents",
+      "content": "Attorney General Todd Blanche has drawn a sharp line around the Department of Justice’s role in artificial intelligence: the DOJ will prosecute crimes that happen to involve AI, but it will not regulate the technology itself. That distinction—between enforcem…",
+      "url": "https://forkast.news/dojs-hands-off-ai-enforcement-leaves-states-to-police-the-agents/",
+      "source": "Forkast.news",
+      "source_type": "news",
+      "author": "Priya Nair",
+      "published_at": "2026-10-17T00:35:21Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Forkast.news"
+        },
+        "author": "Priya Nair",
+        "title": "DOJ’s Hands-Off AI Enforcement Leaves States to Police the Agents",
+        "description": "Attorney General Todd Blanche has drawn a sharp line around the Department of Justice’s role in artificial intelligence: the DOJ will prosecute crimes that happen to involve AI, but it will not regulate the technology itself. That distinction—between enforcem…",
+        "url": "https://forkast.news/dojs-hands-off-ai-enforcement-leaves-states-to-police-the-agents/",
+        "urlToImage": "https://forkast.news/wp-content/uploads/2026/10/d203-doj-hands-off-standalone-ai-enforcement-1024x687.jpg",
+        "publishedAt": "2026-10-17T00:35:21Z",
+        "content": "Attorney General Todd Blanche has drawn a sharp line around the Department of Justices role in artificial intelligence: the DOJ will prosecute crimes that happen to involve AI, but it will not regula… [+4828 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto regulation",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "美国司法部对AI执法的态度影响监管动态。",
+      "business_relevance": 0.6,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注各州对AI和加密的监管政策变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_66848c5ba47d",
+      "title": "New Twist Emerges In Quinn Hughes Saga With Wild",
+      "content": "One of the major storylines drawing attention from Minnesota Wild fans and hockey fans in general is the ongoing saga involving defenseman Quinn Hughes and whether the Wild will be able to sign him to a new contract.Hughes is playing in the final season of hi…",
+      "url": "https://heavy.com/sports/nhl/minnesota-wild/new-twist-emerges-quinn-hughes/",
+      "source": "Heavy.com",
+      "source_type": "news",
+      "author": "Michael Whitaker",
+      "published_at": "2026-10-17T03:18:59Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Heavy.com"
+        },
+        "author": "Michael Whitaker",
+        "title": "New Twist Emerges In Quinn Hughes Saga With Wild",
+        "description": "One of the major storylines drawing attention from Minnesota Wild fans and hockey fans in general is the ongoing saga involving defenseman Quinn Hughes and whether the Wild will be able to sign him to a new contract.Hughes is playing in the final season of hi…",
+        "url": "https://heavy.com/sports/nhl/minnesota-wild/new-twist-emerges-quinn-hughes/",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/20fbb517c69f8c6293378097593a9a76d737525dcb9e50f1b37dd0638b5e3a69/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fc8c6edbae4c8cd0d2e2792d756a998a0.jpg",
+        "publishedAt": "2026-10-17T03:18:59Z",
+        "content": "LAS VEGAS, NEVADA - SEPTEMBER 09: Quinn Hughes #43 of the Minnesota Wild is recorded by TNT during the NHL/NHLPA North American Player Media Tour at City National Arena on September 09, 2026 in Las V… [+2560 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_afd93d6db76b",
+      "title": "Recent mergers may face investigation following Government error",
+      "content": "Minister’s order increasing value for competition law scrutiny lapsed",
+      "url": "https://www.irishtimes.com/business/2026/10/17/recent-mergers-may-face-investigation-following-government-error/",
+      "source": "The Irish Times",
+      "source_type": "news",
+      "author": "Barry O'Halloran",
+      "published_at": "2026-10-17T05:00:01Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-irish-times",
+          "name": "The Irish Times"
+        },
+        "author": "Barry O'Halloran",
+        "title": "Recent mergers may face investigation following Government error",
+        "description": "Minister’s order increasing value for competition law scrutiny lapsed",
+        "url": "https://www.irishtimes.com/business/2026/10/17/recent-mergers-may-face-investigation-following-government-error/",
+        "urlToImage": "https://www.irishtimes.com/resizer/v2/B4IMFGL4MBE5NNSAK3TIRX2F7U.jpg?smart=true&auth=eebd3d8c3b23a9e769e77fdeb1f07e38c2df9c14c20ef75107e07159a2f8d0b6&width=1200&height=630",
+        "publishedAt": "2026-10-17T05:00:01Z",
+        "content": "Businesses that agreed mergers or takeovers in recent weeks may face investigation by competition regulators as a result of a Government mistake, it has emerged.\r\nMinister for Enterprise, Tourism and… [+3226 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "merger",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "近期合并可能因政府错误面临调查。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，评估潜在影响。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_7f1732f88c02",
+      "title": "The Trials And Tribulations Of Your First Badge",
+      "content": "On the face of it, making an event badge should be an easy process. After all, most of us can hand-assemble a microcontroller, some buttons, a battery, and a screen. But anyone who has been involve…",
+      "url": "https://hackaday.com/2026/10/16/the-trials-and-tribulations-of-your-first-badge/",
+      "source": "Hackaday",
+      "source_type": "news",
+      "author": "Jenny List",
+      "published_at": "2026-10-17T02:00:25Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Hackaday"
+        },
+        "author": "Jenny List",
+        "title": "The Trials And Tribulations Of Your First Badge",
+        "description": "On the face of it, making an event badge should be an easy process. After all, most of us can hand-assemble a microcontroller, some buttons, a battery, and a screen. But anyone who has been involve…",
+        "url": "https://hackaday.com/2026/10/16/the-trials-and-tribulations-of-your-first-badge/",
+        "urlToImage": "https://hackaday.com/wp-content/uploads/2026/10/hackthenorth-featured.jpg",
+        "publishedAt": "2026-10-17T02:00:25Z",
+        "content": "On the face of it, making an event badge should be an easy process. After all, most of us can hand-assemble a microcontroller, some buttons, a battery, and a screen. But anyone who has been involved … [+1033 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series A",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_40baf384d41d",
+      "title": "AI ecosystem may be booming but at what cost?",
+      "content": "The technology’s threat to junior positions could lead to companies creating their own future skills gap",
+      "url": "https://www.irishtimes.com/business/2026/10/17/ai-ecosystem-may-be-booming-but-at-what-cost/",
+      "source": "The Irish Times",
+      "source_type": "news",
+      "author": "Richard Cantillon",
+      "published_at": "2026-10-17T05:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-irish-times",
+          "name": "The Irish Times"
+        },
+        "author": "Richard Cantillon",
+        "title": "AI ecosystem may be booming but at what cost?",
+        "description": "The technology’s threat to junior positions could lead to companies creating their own future skills gap",
+        "url": "https://www.irishtimes.com/business/2026/10/17/ai-ecosystem-may-be-booming-but-at-what-cost/",
+        "urlToImage": "https://www.irishtimes.com/resizer/v2/5GZX5R5YKBXEVIMFZEG77FTCCM.jpg?smart=true&auth=c940ca14749eac64e4fcdac70a81d79bf8a32be9fef1a7e2b69377e67103ec2b&width=1200&height=630",
+        "publishedAt": "2026-10-17T05:00:00Z",
+        "content": "Irelands AI ecosystem is booming. That is the message that was broadcast loud and clear this week as the International AI Summit rolled into town. \r\nNearly 1 billion has been invested in Irish AI com… [+1891 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series C",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "AI生态系统的繁荣伴随成本问题。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到AI生态系统与成本",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注AI对加密行业的潜在影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_7eef2f5ab7c7",
+      "title": "HFA posts 26% increase in lending activity in first half",
+      "content": "The Housing Finance Agency, which provides financing to support the delivery of social and affordable homes, has reported a 26% increase in lending activity for the first half of this year.",
+      "url": "https://www.rte.ie/news/business/2026/1017/1595683-housing-finance-agencys-annual-report/",
+      "source": "RTE",
+      "source_type": "news",
+      "author": "RTÉ News",
+      "published_at": "2026-10-17T06:00:30Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "rte",
+          "name": "RTE"
+        },
+        "author": "RTÉ News",
+        "title": "HFA posts 26% increase in lending activity in first half",
+        "description": "The Housing Finance Agency, which provides financing to support the delivery of social and affordable homes, has reported a 26% increase in lending activity for the first half of this year.",
+        "url": "https://www.rte.ie/news/business/2026/1017/1595683-housing-finance-agencys-annual-report/",
+        "urlToImage": "https://www.rte.ie/images/002311df-1600.jpg",
+        "publishedAt": "2026-10-17T06:00:30Z",
+        "content": "The Housing Finance Agency, which provides financing to support the delivery of social and affordable homes, has reported a 26% increase in lending activity for the first half of this year.\r\nThe HFA … [+2960 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding funding round",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "HFA的借贷活动增长反映市场趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及借贷活动",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注借贷市场动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_cf6b92d727cc",
+      "title": "Christine Lagarde: IMFC Statement",
+      "content": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
+      "source": "Europa.eu",
+      "source_type": "news",
+      "author": "European Central Bank",
+      "published_at": "2026-10-17T05:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Europa.eu"
+        },
+        "author": "European Central Bank",
+        "title": "Christine Lagarde: IMFC Statement",
+        "description": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
+        "urlToImage": "https://www.ecb.europa.eu/press/key/shared/img/socialmedia/social-default.jpg?0dbb2de262f4f1fcaeae410be132177a",
+        "publishedAt": "2026-10-17T05:00:00Z",
+        "content": "Statement by Christine Lagarde, President of the ECB, at the fifty-fourth meeting of the International Monetary and Financial Committee\r\nIMF Annual Meetings, 17 October 2026\r\nIntroduction \r\nThe globa… [+9625 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding funding round",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "拉加德谈及IMFC声明与加密监管相关",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_28daac9938e5",
+      "title": "Ledger unveils Atom, an $899 Android signer with Solana Mobile integration",
+      "content": "Ledger unveiled Atom, a $849-$899 touchscreen Android signer with Solana Mobile integration, at its Op3n event in Paris.\nThe post Ledger unveils Atom, an $899 Android signer with Solana Mobile integration appeared first on Techreport.",
+      "url": "https://techreport.com/news/hardware/ledger-atom-android-signer-solana-mobile/",
+      "source": "Techreport.com",
+      "source_type": "news",
+      "author": "Krishi Chowdhary",
+      "published_at": "2026-10-17T02:20:31Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Techreport.com"
+        },
+        "author": "Krishi Chowdhary",
+        "title": "Ledger unveils Atom, an $899 Android signer with Solana Mobile integration",
+        "description": "Ledger unveiled Atom, a $849-$899 touchscreen Android signer with Solana Mobile integration, at its Op3n event in Paris.\nThe post Ledger unveils Atom, an $899 Android signer with Solana Mobile integration appeared first on Techreport.",
+        "url": "https://techreport.com/news/hardware/ledger-atom-android-signer-solana-mobile/",
+        "urlToImage": "https://techreport.com/wp-content/uploads/2026/10/ledger-atom-thumb.jpg",
+        "publishedAt": "2026-10-17T02:20:31Z",
+        "content": "Ledger announced Atom on October 15, a touchscreen Android device the company bills as a signer rather than a hardware wallet, with Solana Mobile integration and controls for AI agents, at its Op3n e… [+3406 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Ledger推出新产品，影响加密技术市场。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密技术和市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注新技术对市场的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_9b5d5e5cf19c",
+      "title": "Kim You Jung Meets Park Jinyoung Again After Becoming A Spy In “100 Days Of Deception”",
+      "content": "Kim You Jung will begin working as a spy on the next episode of “100 Days of Deception”! Set during the Japanese occupation of Korea, tvN’s “100 Days of Deception” is a period spy romance starring Kim You Jung as Lee Ga Kyeong (Kim You Jung), a pickpocket who…",
+      "url": "http://www.soompi.com/article/1879113wpp/kim-you-jung-meets-park-jinyoung-again-after-becoming-a-spy-in-100-days-of-deception",
+      "source": "soompi",
+      "source_type": "news",
+      "author": "E Cha",
+      "published_at": "2026-10-17T04:29:57Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "soompi"
+        },
+        "author": "E Cha",
+        "title": "Kim You Jung Meets Park Jinyoung Again After Becoming A Spy In “100 Days Of Deception”",
+        "description": "Kim You Jung will begin working as a spy on the next episode of “100 Days of Deception”! Set during the Japanese occupation of Korea, tvN’s “100 Days of Deception” is a period spy romance starring Kim You Jung as Lee Ga Kyeong (Kim You Jung), a pickpocket who…",
+        "url": "http://www.soompi.com/article/1879113wpp/kim-you-jung-meets-park-jinyoung-again-after-becoming-a-spy-in-100-days-of-deception",
+        "urlToImage": "https://0.soompi.io/wp-content/uploads/2026/10/17132410/Park-Jinyoung-Kim-You-Jung.jpg",
+        "publishedAt": "2026-10-17T04:29:57Z",
+        "content": "Kim You Jung will begin working as a spy on the next episode of 100 Days of Deception!\r\nSet during the Japanese occupation of Korea, tvNs 100 Days of Deception is a period spy romance starring Kim Yo… [+2790 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_ea8851ac2e3c",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "content": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186343696",
+      "source": "Slashdot.org",
+      "source_type": "news",
+      "author": "feedfeeder",
+      "published_at": "2026-10-17T00:12:04Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Slashdot.org"
+        },
+        "author": "feedfeeder",
+        "title": "OpenAI models hacked a crypto wallet and breached more websites",
+        "description": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186343696",
+        "urlToImage": null,
+        "publishedAt": "2026-10-17T00:12:04Z",
+        "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "OpenAI模型攻击加密钱包，影响行业安全性。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币安全问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全技术的进展与应对措施。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "title": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
+      "description": "Applied Optoelectronics told the WSJ it objected because it was unsure how tokenization would affect its stock price, liquidity and volatility.",
+      "url": "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-10-17T19:56:25",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "CoreWeave",
+        "Broadcom",
+        "Verizon",
+        "Applied Optoelectronics"
+      ],
+      "importance_score": 7,
+      "ai_summary": "多家公司反对其股票代币化交易，影响市场动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注代币化交易对市场的潜在影响",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
+      "description": "The nine-member group, modeled on the Internet Engineering Task Force, aims to set open standards for testing quantum-resistance claims as forecasts place the first practical attack in the late 2020s.",
+      "url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-10-17T16:01:03",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "加密行业成立量子联盟应对未来威胁。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密行业动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注量子技术对加密安全的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Visa Direct Moves Stablecoin Cross-Border Payments to Commercial Production with Inyo Global - Forkast News",
+      "description": "Visa Direct Moves Stablecoin Cross-Border Payments to Commercial Production with Inyo Global&nbsp;&nbsp;Forkast News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0hjZGxJSER2NDFQRElFRDhVV2hidXhnSzhrRHpJcTJGdzJYTTJpZVh2REw4bXhxbGx4RXB6dDdXOGdUM1p4Rk9RMEZMWDZWMjlRdlJNZWpoZ1l3VzBGem9DVlF5bUU5UmFTYnhCRjBfZzM2Y1hfajRJSkNtaVBMTEIyZHAzXzdVNjltcy1ndFdjOTVMR1BHNjhhVFQ2b0gyeGs4djhCSEZYZld3czIxdVFvRXA?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-10-17T21:12:39",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Visa",
+        "Inyo Global"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Visa Direct 推动稳定币跨境支付商业化。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币跨境支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币支付技术进展。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "HKMA Warns of Fake HSBC and HKDAP Tokens Amid Stablecoin Rollout - CoinMarketCap",
+      "description": "HKMA Warns of Fake HSBC and HKDAP Tokens Amid Stablecoin Rollout&nbsp;&nbsp;CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObUJDdW4xT2h1Q0I2dG1kOEprTmpDVkZpRXZuV3RKcWJfamllY080WENwa3k1UmR2Y2w5Yjc5Q3RDTlpaNGI3cFpMN3dUX1l3eW1JMTczWTYwbVJSYWxrWnM1dDFEaG5VZWNFNjZXVE1sbFRxYmtTSmlhNGhWUG51VWxSVktnRVlQS2hWTXdEWlBiRlVUUHQ0UTE1ZDdKNnJ5X2pqV1pYdjlPUQ?oc=5",
+      "source": "Google News (stablecoin license)",
+      "source_category": "google_news",
+      "published_at": "2026-10-17T13:58:41",
+      "data_type": "rss",
+      "search_keyword": "stablecoin license",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "HSBC",
+        "HKDAP"
+      ],
+      "importance_score": 7,
+      "ai_summary": "HKMA警告假冒稳定币，影响市场信心。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注稳定币监管动态，调整合规策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Visa Puts Stablecoins Inside Visa Direct to Speed Up Global Payouts - Startup Fortune",
+      "description": "Visa Puts Stablecoins Inside Visa Direct to Speed Up Global Payouts&nbsp;&nbsp;Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVDE3OTVxYlJ0T19QbkdXX0Vjd050TEUxSnZZNkIybE0zWHI1SXFabUlTOVRpcTM0ZDdJNE5pU2MwOU9sUElMLXZmb1V4S3MwNkVfQ3UtTWpqTlUwT3FtbE5CQjczVXFLbzlsTjYwTnZBZ19ZR29NUHplU25xUUswTGJUbXhKWkhmRHROQWpEaEJGRG5VdlJGT1VzSQ?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-10-17T12:35:15",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Visa"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Visa通过稳定币加速全球支付。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币在支付领域的应用动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Crypto News: Visa Direct Takes Stablecoin Prefunding Into Production as Remittix Tests a Different Route to Bank Payments - StreetInsider",
+      "description": "Crypto News: Visa Direct Takes Stablecoin Prefunding Into Production as Remittix Tests a Different Route to Bank Payments&nbsp;&nbsp;StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTGdQeDRFSnF0SVc2VmpfQ0M1aE14YWYzZnVMU1ZFcS1uRzh2ZnZfMEFKMDkybmlrUjNOU1BITm5qVnVWekFKOHRpUmRGTllHVS1DSTBsUm0tcVhzY2c0UEI3bWJoZFI3VHl4a0lKc2E5TEU3eUlMQzZUcU1jbWlScWEtVXZnWGxfeEJXR1ZiT0hIUnViXzQ0blZkZmgtX29FS0ZGbGRjYkk5MUhENXhRZzZDczFXOEFxLXY3SENWX2FEVmZOTFhaWmw5TlJ2Wm0zTDhvczA2dnlJT2lBMWtaZ0cyMlhIdlB1SExRbG1ENzQzMTNyNVFyU2tRT3oybkNueHJQWTdpRFRBbXduR0ZLMQ?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-10-17T14:26:53",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Visa",
+        "Remittix"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Visa Direct 推出稳定币预融资服务，影响支付行业发展。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付业务",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币在支付领域的应用动态。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    }
+  ],
+  "company": [
+    {
+      "title": "Polygon Labs completes Coinme acquisition to challenge Visa and Stripe in global payments - CoinDesk",
+      "description": "Polygon Labs completes Coinme acquisition to challenge Visa and Stripe in global payments&nbsp;&nbsp;CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUnl1TjM1eXJhMlV5UGMzZ3lHaFNoVE5hQXNHcGQ2bmdUSlVvRFoxTnUzZUJBV3JoamtqYXJUbHRrR1JHTUZManN3NmJiUGVJOFJmWml5OWVCUFlRUGt3LURQZ0lQUlBCejlIeGJIQkhFUlF4dGhCMV9lcEowcklsTk9YU1FESHZ4S2t4bkdBUlhnZkpjZmhsVFEtaHExMzNObXVZTy1Ib0hfTDVRVm5QVEZyYzlmVEk2RzZIRXBuRnpWQnZPekNzMw?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-10-17T14:00:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Polygon Labs",
+        "Coinme",
+        "Visa",
+        "Stripe"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Polygon Labs收购Coinme以挑战支付巨头。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到全球支付竞争",
+      "threat_level": "medium",
+      "impact_areas": [
+        "产品竞争",
+        "市场定价",
+        "品牌影响"
+      ],
+      "suggested_action": "关注Coinme的市场动态与产品创新",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "title": "Deutsche Bank Nears Bitcoin Custody Launch As Crypto Push Expands Beyond Europe - TradingView",
+      "description": "Deutsche Bank Nears Bitcoin Custody Launch As Crypto Push Expands Beyond Europe&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQjh2TzljVkdOOVJnbjRvblhtX2ltbjRYSkJYRE51YzVCckMtc1JwMkNyNUh5ay1BcGNwd0dNZ055ZjczMWwwMGM3Rlh6UGNRb0Joa1NhaWVqc2l1bkZVT3I1TDVSY2xXTVBJbzVCN0JTUDhVT2gwcWYwbGVGTmVZU25BS21aVHE2RGpGSTNSNEc5ZVJDbFlST2N4THVjWnV3dGF5YVN3T2tpV0F2d2s2QmJIMVB4SnFGU2NJYnRJeWF5U2hTZDZPaXF3OU5qZzRkaHJV?oc=5",
+      "source": "Google News (crypto custody institution)",
+      "source_category": "google_news",
+      "published_at": "2026-10-17T14:13:00",
+      "data_type": "rss",
+      "search_keyword": "crypto custody institution",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Deutsche Bank"
+      ],
+      "importance_score": 8,
+      "ai_summary": "德意志银行即将推出比特币托管服务。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及比特币托管业务",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "客户争夺",
+        "市场定价"
+      ],
+      "suggested_action": "关注德意志银行的市场动态，评估竞争策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "title": "Deutsche Bank’s Crypto Custody Move Reshapes Crypto Banking - OneSafe",
+      "description": "Deutsche Bank’s Crypto Custody Move Reshapes Crypto Banking&nbsp;&nbsp;OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3F3YWtaSnFTX00yUW81NEh0QURsLXp1c2dPRVRjWDh3QW41VzB2VTJGOHFpRzNCcEY0MGtyZmRTZXdPN3RDRlM3U2tiUWZZUktWNjhYLWcyS1FkYjRmamY2aDNIcmVPV1dYNFRIMnRXSTdRZi1sZmIxNTllNkE5U0dQRQ?oc=5",
+      "source": "Google News (crypto custody institution)",
+      "source_category": "google_news",
+      "published_at": "2026-10-18T03:38:23",
+      "data_type": "rss",
+      "search_keyword": "crypto custody institution",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Deutsche Bank"
+      ],
+      "importance_score": 8,
+      "ai_summary": "德意志银行的加密托管举措影响加密银行业。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及加密托管业务",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "客户争夺",
+        "市场定价"
+      ],
+      "suggested_action": "关注德意志银行的市场动向，调整策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "title": "Mastercard Launches Stablecoin Platform: How Crypto Turns into Card Swipes and Bank Payouts - HackerNoon",
+      "description": "Mastercard Launches Stablecoin Platform: How Crypto Turns into Card Swipes and Bank Payouts&nbsp;&nbsp;HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzR5WXozcE9wbzZPWmdfbFVIQlotaTVaNTQ5a3Q0ZzZWTjk0NHNvQ2RtS21hVFNmaC00dFZNbjc0U2F1SVl2LU1aLVlmREx6R0lLeDVGRXFmZUVsNE5WdnVKOUYtZ256WDFPZGJDVE1UcVh6UWcxdXRMNGJ3allhbjhvenBhUjVOX0JoTVNBTVREWmtuMVpZWlJZaEdFanozSnd5aUJIR3pIbXN5TmVjd094WQ?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-10-17T17:55:14",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Mastercard"
+      ],
+      "importance_score": 8,
+      "ai_summary": "万事达卡推出稳定币支付平台，影响竞争格局。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币支付平台",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "市场定价",
+        "品牌影响"
+      ],
+      "suggested_action": "关注万事达卡的产品动态，调整策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "title": "Visa's Stablecoin Payments Go Live: What Businesses Need Now - OneSafe",
+      "description": "Visa's Stablecoin Payments Go Live: What Businesses Need Now&nbsp;&nbsp;OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdUswTl9id2J1VEFzY2dzRUdsUXA0aE1TbzdaNEVCUjNwd0w4a1BmX2w4ckdUaDEwUXhVOXZyeXFaUC1EYXZ5SFBTWFNkcWdyZGEtLXNybHJZS0FLVmoySVNxOE9raTVENHdiTFlEMFpPVnRFeGo5YjdPLWJYY0xudU1zNTdURmc?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-10-18T01:23:10",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Visa"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Visa推出稳定币支付服务，影响市场竞争。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币支付业务",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "客户争夺",
+        "市场定价"
+      ],
+      "suggested_action": "关注Visa动态，调整市场策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    }
+  ],
+  "funding": []
+}
