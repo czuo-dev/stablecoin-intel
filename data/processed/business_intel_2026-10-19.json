@@ -1,0 +1,1726 @@
+{
+  "competitors": [
+    {
+      "id": "news_60eb4a962350",
+      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "content": "Coinbase, Circle’s largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee.",
+      "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+      "source": "CoinDesk",
+      "source_type": "news",
+      "author": "Francisco Rodrigues",
+      "published_at": "2026-10-18T01:06:35Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Francisco Rodrigues",
+        "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+        "description": "Coinbase, Circle’s largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee.",
+        "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/0738e13835f743ba2e3a2f26f7579b27661d1eac-4608x2592.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+        "publishedAt": "2026-10-18T01:06:35Z",
+        "content": "Stablecoin issuer Circle CRCL\r\n$82.25·Market Closed is defending its business model as Coinbase, its largest distribution partner, backs a rival that aims to give businesses more income from stableco… [+876 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "high"
+      },
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Circle"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Circle 为 USDC 的经济模式辩护，面临竞争对手的挑战。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币竞争对手",
+      "threat_level": "high",
+      "impact_areas": [
+        "客户争夺",
+        "市场定价",
+        "品牌影响"
+      ],
+      "suggested_action": "加强与现有客户的关系，提升服务质量。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    }
+  ],
+  "clients": [],
+  "industry": [
+    {
+      "id": "news_d8ac5a3e3908",
+      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+      "content": "Tether, HIVEN back AIsa as strategic investors, complete seed extension round",
+      "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Michael Millard",
+      "published_at": "2026-10-18T06:26:53Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Michael Millard",
+        "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+        "description": "Tether, HIVEN back AIsa as strategic investors, complete seed extension round",
+        "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M56TW7NK49R9HTEZKPD8PEYY/hi-j-tether-investments-1.jpg",
+        "publishedAt": "2026-10-18T06:26:53Z",
+        "content": "AIsa said it had completed its seed extension round, with Tether and HIVEN joining as strategic investors.\r\nThe round brings AIsas total funding to more than $9 million. The two new investors joined … [+1694 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Tether"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Tether作为战略投资者参与AIsa的融资扩展。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币投资",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注Tether的投资动向，评估市场影响。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_7fc4fe954f26",
+      "title": "EEVblog 1780 – Ledger Hardware Supply Chain Attack Examined",
+      "content": "Looking at the Ledger Nano X hardware supply chain attack 00:00 – Ledger Nano X hardware wallet supply chain attack 06:16 – This is not a new thing 09:00 – DaveCAD explaining how the Ledger Nano X works 11:40 – Common Criteria EAL5+ security verification 12:3…",
+      "url": "https://www.eevblog.com/2026/10/18/eevblog-1780-ledger-hardware-supply-chain-attack-examined/",
+      "source": "Eevblog.com",
+      "source_type": "news",
+      "author": "EEVblog",
+      "published_at": "2026-10-18T00:56:57Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Eevblog.com"
+        },
+        "author": "EEVblog",
+        "title": "EEVblog 1780 – Ledger Hardware Supply Chain Attack Examined",
+        "description": "Looking at the Ledger Nano X hardware supply chain attack 00:00 – Ledger Nano X hardware wallet supply chain attack 06:16 – This is not a new thing 09:00 – DaveCAD explaining how the Ledger Nano X works 11:40 – Common Criteria EAL5+ security verification 12:3…",
+        "url": "https://www.eevblog.com/2026/10/18/eevblog-1780-ledger-hardware-supply-chain-attack-examined/",
+        "urlToImage": "https://i0.wp.com/www.eevblog.com/wp-content/uploads/2026/10/eevblog-1780-ledger-hardware-sup.jpg?fit=1280%2C720&ssl=1",
+        "publishedAt": "2026-10-18T00:56:57Z",
+        "content": "Looking at the Ledger Nano X hardware supply chain attack\r\n00:00 – Ledger Nano X hardware wallet supply chain attack06:16 – This is not a new thing09:00 – DaveCAD explaining how the Ledger Nano X wor… [+794 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Ledger"
+      ],
+      "importance_score": 6,
+      "ai_summary": "分析了Ledger硬件供应链攻击的影响。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及硬件安全问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注硬件安全技术的进展",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_a2e338108623",
+      "title": "How a Brooklyn crypto cop took down a global scam network",
+      "content": "By the time Alona Katz hurried home from her office in downtown Brooklyn late on Oct 6, the trap was already set.",
+      "url": "https://timesofindia.indiatimes.com/world/us/how-a-brooklyn-crypto-cop-took-down-a-global-scam-network/articleshow/135022909.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "The Times Of India",
+      "published_at": "2026-10-18T02:03:47Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "The Times Of India",
+        "title": "How a Brooklyn crypto cop took down a global scam network",
+        "description": "By the time Alona Katz hurried home from her office in downtown Brooklyn late on Oct 6, the trap was already set.",
+        "url": "https://timesofindia.indiatimes.com/world/us/how-a-brooklyn-crypto-cop-took-down-a-global-scam-network/articleshow/135022909.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-135022913,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-18T02:03:47Z",
+        "content": "Follow Us On Social Media\r\nTwo oil tankers on fire after hitting mines: Irans GuardsZelenskyy terms restricting military use of Starlink in Ukraine deliberate'Made scapegoat, was curious about crowd'… [+1455 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "报道了一名执法人员打击全球诈骗网络的故事，涉及加密货币的监管问题。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注相关监管政策变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_f9c20e726173",
+      "title": "The crypto privacy rule Trump’s Treasury proposed, and Trump’s Treasury buried",
+      "content": "On Dec. 18, 2020, with Christmas a week away and Donald Trump preparing to leave the White House, Steven Mnuchin's Treasury Department announced a plan that would require crypto exchanges and other financial institutions to collect more information about tran…",
+      "url": "https://cryptoslate.com/the-crypto-privacy-rule-trumps-treasury-proposed-and-trumps-treasury-buried/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Andjela Radmilac",
+      "published_at": "2026-10-18T07:00:23Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Andjela Radmilac",
+        "title": "The crypto privacy rule Trump’s Treasury proposed, and Trump’s Treasury buried",
+        "description": "On Dec. 18, 2020, with Christmas a week away and Donald Trump preparing to leave the White House, Steven Mnuchin's Treasury Department announced a plan that would require crypto exchanges and other financial institutions to collect more information about tran…",
+        "url": "https://cryptoslate.com/the-crypto-privacy-rule-trumps-treasury-proposed-and-trumps-treasury-buried/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/10/trump-regulatory-chess-move.webp",
+        "publishedAt": "2026-10-18T07:00:23Z",
+        "content": "On Dec. 18, 2020, with Christmas a week away and Donald Trump preparing to leave the White House, Steven Mnuchin's Treasury Department announced a plan that would require crypto exchanges and other f… [+21148 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "特朗普财政部提出的加密隐私规则影响监管政策。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化对业务的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_eeaaf5bee2f1",
+      "title": "Chainalysis: Italy, Portugal and Singapore hold 66.9% of tokenized US Treasuries",
+      "content": "The dominance of foreign holders in tokenized US Treasuries highlights shifting global investment dynamics and potential impacts on US financial influence.\nThe post Chainalysis: Italy, Portugal and Singapore hold 66.9% of tokenized US Treasuries appeared firs…",
+      "url": "https://cryptobriefing.com/chainalysis-tokenized-us-treasuries-foreign-holders/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Kaye Quema",
+      "published_at": "2026-10-18T06:16:16Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Kaye Quema",
+        "title": "Chainalysis: Italy, Portugal and Singapore hold 66.9% of tokenized US Treasuries",
+        "description": "The dominance of foreign holders in tokenized US Treasuries highlights shifting global investment dynamics and potential impacts on US financial influence.\nThe post Chainalysis: Italy, Portugal and Singapore hold 66.9% of tokenized US Treasuries appeared firs…",
+        "url": "https://cryptobriefing.com/chainalysis-tokenized-us-treasuries-foreign-holders/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/18021611/library-chainalysis-italy-portugal-and-singapore-hold-66-9-of-to-800x450.png",
+        "publishedAt": "2026-10-18T06:16:16Z",
+        "content": "Foreign holders dominate the $15.42 billion on-chain Treasury market while Americans account for just 10.5% of geolocated value The US government issues the debt. When that debt moves on-chain, thoug… [+1755 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "意大利、葡萄牙和新加坡持有66.9%的代币化美国国债。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注相关国家的监管动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_23d9c6a8543b",
+      "title": "FT: Anthropic wants lawyers’ negotiating ethics built into Claude agents that bargain against other agents",
+      "content": "Anthropic's ethical AI agents could redefine industry standards, potentially boosting its market valuation and influencing future AI governance.\nThe post FT: Anthropic wants lawyers’ negotiating ethics built into Claude agents that bargain against other agent…",
+      "url": "https://cryptobriefing.com/ft-anthropic-wants-lawyers-negotiating-ethics-built-into-claude-agents-that/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-10-18T05:49:10Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "FT: Anthropic wants lawyers’ negotiating ethics built into Claude agents that bargain against other agents",
+        "description": "Anthropic's ethical AI agents could redefine industry standards, potentially boosting its market valuation and influencing future AI governance.\nThe post FT: Anthropic wants lawyers’ negotiating ethics built into Claude agents that bargain against other agent…",
+        "url": "https://cryptobriefing.com/ft-anthropic-wants-lawyers-negotiating-ethics-built-into-claude-agents-that/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/18014908/library-ft-anthropic-wants-lawyers-negotiating-ethics-built-into-1-800x450.png",
+        "publishedAt": "2026-10-18T05:49:10Z",
+        "content": "Disclaimer\r\nThis article contains analysis of publicly available information and market data and is for informational purposes only. It does not constitute investment advice or a recommendation to bu… [+483 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Anthropic希望将律师的谈判伦理融入其代理系统。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到谈判代理的伦理",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注AI在金融领域的应用动态。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_e2093a7ad136",
+      "title": "emerald-exchange 2.2.0",
+      "content": "Emerald Exchange — Unified Finance MCP Server with fully abstracted exchange backends for equities, crypto, and derivatives trading. CONCEPT:EE-001",
+      "url": "https://pypi.org/project/emerald-exchange/2.2.0/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": "maintainers@users.noreply.github.com",
+      "published_at": "2026-10-18T02:50:59Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": "maintainers@users.noreply.github.com",
+        "title": "emerald-exchange 2.2.0",
+        "description": "Emerald Exchange — Unified Finance MCP Server with fully abstracted exchange backends for equities, crypto, and derivatives trading. CONCEPT:EE-001",
+        "url": "https://pypi.org/project/emerald-exchange/2.2.0/",
+        "urlToImage": null,
+        "publishedAt": "2026-10-18T02:50:59Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "更新了区块链基础设施版本",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注技术更新对市场的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_b88ecc59e890",
+      "title": "How India Expansion Plans Will Impact KYB (TSE:7242) Investors",
+      "content": "KYB Corporation has scheduled a Board Meeting on 8 October 2026 to consider an additional capital contribution to KIPL, aimed at funding future capital investments and working capital for its expansion in India, along with an overview of the subsidiary subjec…",
+      "url": "https://biztoc.com/x/27b4e12ea1503b50",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "finance.yahoo.com",
+      "published_at": "2026-10-18T01:12:06Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "How India Expansion Plans Will Impact KYB (TSE:7242) Investors",
+        "description": "KYB Corporation has scheduled a Board Meeting on 8 October 2026 to consider an additional capital contribution to KIPL, aimed at funding future capital investments and working capital for its expansion in India, along with an overview of the subsidiary subjec…",
+        "url": "https://biztoc.com/x/27b4e12ea1503b50",
+        "urlToImage": "https://biztoc.com/cdn/27b4e12ea1503b50_s.webp",
+        "publishedAt": "2026-10-18T01:12:06Z",
+        "content": "KYB Corporation has scheduled a Board Meeting on 8 October 2026 to consider an additional capital contribution to KIPL, aimed at funding future capital investments and working capital for its expansi… [+148 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "印度扩展计划可能影响加密监管环境。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注印度的监管变化对市场的影响",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_524b9b799470",
+      "title": "What 151 Direct-to-Consumer Product Pages Taught Me About Pricing",
+      "content": "Every week I read checkout pages for a living. At TopCrate, the product-review site I run, we currently recommend 566 products. 415 of them sell on Amazon; the other 151 are sold directly by the brands that make them, through their own sites and funnels. That…",
+      "url": "https://addicted2success.com/marketing/what-151-direct-to-consumer-product-pages-taught-me-about-pricing/",
+      "source": "Addicted2success.com",
+      "source_type": "news",
+      "author": "Addicted2Success Editor",
+      "published_at": "2026-10-18T06:19:50Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Addicted2success.com"
+        },
+        "author": "Addicted2Success Editor",
+        "title": "What 151 Direct-to-Consumer Product Pages Taught Me About Pricing",
+        "description": "Every week I read checkout pages for a living. At TopCrate, the product-review site I run, we currently recommend 566 products. 415 of them sell on Amazon; the other 151 are sold directly by the brands that make them, through their own sites and funnels. That…",
+        "url": "https://addicted2success.com/marketing/what-151-direct-to-consumer-product-pages-taught-me-about-pricing/",
+        "urlToImage": "https://addicted2success.com/wp-content/uploads/2026/10/A-man-and-woman-entrepreneur-looking-at-a-laptop-screen-running-an-ecommerce-store-with-products-shipping-out-in-the-background-1000x600.jpeg",
+        "publishedAt": "2026-10-18T06:19:50Z",
+        "content": "Key Highlights\r\n<ul><li>A creative agency earns its place when it links brand strategy to clear business outcomes.</li><li>In Melbourne, many businesses want one team for campaign creation, digital m… [+9361 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_1a82552f8bcf",
+      "title": "David Fizdale Raves About 'Dogs' On the Toronto Raptors",
+      "content": "The NBA TV analyst couldn't contain his praise for this year's Raptors team.",
+      "url": "https://roundtable.io/sports/nba/raptors/news/david-fizdale-raves-about-dogs-on-the-toronto-raptors-1",
+      "source": "Roundtable.io",
+      "source_type": "news",
+      "author": "Charlie Rondeau",
+      "published_at": "2026-10-18T07:02:14Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Roundtable.io"
+        },
+        "author": "Charlie Rondeau",
+        "title": "David Fizdale Raves About 'Dogs' On the Toronto Raptors",
+        "description": "The NBA TV analyst couldn't contain his praise for this year's Raptors team.",
+        "url": "https://roundtable.io/sports/nba/raptors/news/david-fizdale-raves-about-dogs-on-the-toronto-raptors-1",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/9fb2727cbddb44d016fbb2c53dffbf6832cfe6a06df1b946d54fb6608a44c971/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Froundtable_sports_toronto_raptors_869%2F4e126e0b8aa669b410b7810de2bb5788.jpg",
+        "publishedAt": "2026-10-18T07:02:14Z",
+        "content": "The Toronto Raptors are in the spotlight this year but in a good way following the acquisition of superstar Kawhi Leonard in the offseason which is already paying off.\r\nWhile it's still to be determi… [+2791 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_281563e156b9",
+      "title": "(Q4 2026) Earnings Call Highlights: Record-Best Year, EverBank Merger Momentum ..",
+      "content": "This article first appeared on GuruFocus.\nRelease Date: October 16, 2026\nFor the complete transcript of the earnings call, please refer to the full earnings call transcript.\nPositive Points\n- WaFd Inc (NASDAQ:WAFD) reported fiscal 2026 EPS of $3.21, up 22% ye…",
+      "url": "https://biztoc.com/x/4203de08e673acc4",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "finance.yahoo.com",
+      "published_at": "2026-10-18T05:42:59Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "(Q4 2026) Earnings Call Highlights: Record-Best Year, EverBank Merger Momentum ..",
+        "description": "This article first appeared on GuruFocus.\nRelease Date: October 16, 2026\nFor the complete transcript of the earnings call, please refer to the full earnings call transcript.\nPositive Points\n- WaFd Inc (NASDAQ:WAFD) reported fiscal 2026 EPS of $3.21, up 22% ye…",
+        "url": "https://biztoc.com/x/4203de08e673acc4",
+        "urlToImage": "https://biztoc.com/cdn/4203de08e673acc4_s.webp",
+        "publishedAt": "2026-10-18T05:42:59Z",
+        "content": "This article first appeared on GuruFocus.Release Date: October 16, 2026For the complete transcript of the earnings call, please refer to the full earnings call transcript.Positive Points- WaFd Inc (N… [+147 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "merger",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "EverBank合并带来市场动态变化。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到合并与市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注合并对市场的长期影响。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_c480f3e2e04c",
+      "title": "Could Be 17% Below Fair Value Following Redomicile Plan",
+      "content": "Navigator Holdings (NYSE:NVGS) set a major corporate change in motion after signing a Merger Agreement to shift its legal home from the Marshall Islands to England and Wales, pending shareholder approval next month.\nRecent trading has cooled, with the share p…",
+      "url": "https://biztoc.com/x/97b30bb4262f4d56",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "finance.yahoo.com",
+      "published_at": "2026-10-18T05:57:24Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "Could Be 17% Below Fair Value Following Redomicile Plan",
+        "description": "Navigator Holdings (NYSE:NVGS) set a major corporate change in motion after signing a Merger Agreement to shift its legal home from the Marshall Islands to England and Wales, pending shareholder approval next month.\nRecent trading has cooled, with the share p…",
+        "url": "https://biztoc.com/x/97b30bb4262f4d56",
+        "urlToImage": "https://biztoc.com/cdn/97b30bb4262f4d56_s.webp",
+        "publishedAt": "2026-10-18T05:57:24Z",
+        "content": "Navigator Holdings (NYSE:NVGS) set a major corporate change in motion after signing a Merger Agreement to shift its legal home from the Marshall Islands to England and Wales, pending shareholder appr… [+151 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "merger",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "文章讨论了可能的市场价值变化。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注市场动态，调整策略",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_8709aec5689b",
+      "title": "Tony Buti's uni mega-merger faces opposition, controversy",
+      "content": "Cracks have begun to appear in the plan, touted as a \"once-in-a-generation opportunity\", with opposition from two universities, criticism from political opponents, and an error-laden feasibility report compiled with the help of AI.",
+      "url": "https://www.abc.net.au/news/2026-10-18/tony-buti-public-university-mega-merger-wa/107275274",
+      "source": "ABC News (AU)",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-18T00:14:43Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "abc-news-au",
+          "name": "ABC News (AU)"
+        },
+        "author": null,
+        "title": "Tony Buti's uni mega-merger faces opposition, controversy",
+        "description": "Cracks have begun to appear in the plan, touted as a \"once-in-a-generation opportunity\", with opposition from two universities, criticism from political opponents, and an error-laden feasibility report compiled with the help of AI.",
+        "url": "https://www.abc.net.au/news/2026-10-18/tony-buti-public-university-mega-merger-wa/107275274",
+        "urlToImage": "https://live-production.wcms.abc-cdn.net.au/3855e4052cd60c866da28a1006023b18?impolicy=wcms_watermark_news&cropH=802&cropW=1426&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-10-18T00:14:43Z",
+        "content": "First there was Rita's racetrack, then there was Roger's rugby league team.\r\nNow a new name can be added to the list of WA government passion projects Tony's uni mega-merger.\r\nSenior WA Labor ministe… [+5264 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "merger",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Tony Buti的合并计划面临监管争议。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，评估影响。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_0788e9663a14",
+      "title": "5 Reasons Pokémon HeartGold & SoulSilver Are The Best Entries",
+      "content": "Pokémon HeartGold and SoulSilver are still considered the best games in the series, 17 years later, regardless of how much the series has grown.",
+      "url": "https://screenrant.com/best-heart-gold-soul-silver-pokemon-moments/",
+      "source": "Screen Rant",
+      "source_type": "news",
+      "author": "Bruno Yonezawa",
+      "published_at": "2026-10-18T03:00:20Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Screen Rant"
+        },
+        "author": "Bruno Yonezawa",
+        "title": "5 Reasons Pokémon HeartGold & SoulSilver Are The Best Entries",
+        "description": "Pokémon HeartGold and SoulSilver are still considered the best games in the series, 17 years later, regardless of how much the series has grown.",
+        "url": "https://screenrant.com/best-heart-gold-soul-silver-pokemon-moments/",
+        "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/pokemon-best-final-battle-series-history-lyra-eusine-legendary-beasts.jpg?w=1600&h=900&fit=crop",
+        "publishedAt": "2026-10-18T03:00:20Z",
+        "content": "Even after 17 years, Pokémon HeartGold and SoulSilver are widely considered the best entries in Nintendos popular creature-catching series, and there are tons of reasons that lead to that. Released i… [+5062 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series A",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_c9ac849b8b9a",
+      "title": "Where to watch IND-W vs. ZIM-W live stream, TV channel, start time for 2nd T20I in Raipur",
+      "content": "India Women take on Zimbabwe Women in the first T20I in Raipur. Here's how to watch the match live, including streaming details, TV channels, start time and lineups.",
+      "url": "https://www.sportingnews.com/in/cricket/news/watch-ind-w-vs-zim-w-live-stream-tv-channel-start-time-2nd-t20i-raipur/56443483a9e7f76010557b13",
+      "source": "Sporting News",
+      "source_type": "news",
+      "author": "Anselm Noronha",
+      "published_at": "2026-10-18T01:30:01Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Sporting News"
+        },
+        "author": "Anselm Noronha",
+        "title": "Where to watch IND-W vs. ZIM-W live stream, TV channel, start time for 2nd T20I in Raipur",
+        "description": "India Women take on Zimbabwe Women in the first T20I in Raipur. Here's how to watch the match live, including streaming details, TV channels, start time and lineups.",
+        "url": "https://www.sportingnews.com/in/cricket/news/watch-ind-w-vs-zim-w-live-stream-tv-channel-start-time-2nd-t20i-raipur/56443483a9e7f76010557b13",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/72692ae284e7c38c55796eed8aaa842b2e113a86bf3a2e7fe05481dde85ecbbb/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fcab20a8d6c20de01c82cd85d75040f91",
+        "publishedAt": "2026-10-18T01:30:01Z",
+        "content": "India Women will be eager to carry forward their positive momentum against Zimbabwe Women in the second T20I in Raipur on Sunday, October 18, following their victory in the opening match.\r\nAs the tea… [+2684 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series C",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_0f943d03a80e",
+      "title": "orderbook-dbengine added to PyPI",
+      "content": "Low-latency Level 2 orderbook database engine for HFT",
+      "url": "https://pypi.org/project/orderbook-dbengine/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-18T07:03:56Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "orderbook-dbengine added to PyPI",
+        "description": "Low-latency Level 2 orderbook database engine for HFT",
+        "url": "https://pypi.org/project/orderbook-dbengine/",
+        "urlToImage": null,
+        "publishedAt": "2026-10-18T07:03:56Z",
+        "content": "A purpose-built C++20 database engine for Level 2 orderbook data in high-frequency trading environments. Designed for sub-microsecond update latency and millions of updates per second on a single cor… [+24549 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series C",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "新增区块链基础设施库到PyPI。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_b5b2af2578e3",
+      "title": "Europe's Bridge Too Far: When Common Sense Fails",
+      "content": "Photo Credit:\n \n AuthorBy Allan J. FeiferThe greatest danger is not that Europe fails to recognize its mistakes, but that it recognizes them, understands their consequences, yet still cannot bring itself to act.",
+      "url": "https://www.americanthinker.com/articles/2026/10/europe-s-bridge-too-far-when-common-sense-fails/",
+      "source": "Americanthinker.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-18T04:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Americanthinker.com"
+        },
+        "author": null,
+        "title": "Europe's Bridge Too Far: When Common Sense Fails",
+        "description": "Photo Credit:\n \n AuthorBy Allan J. FeiferThe greatest danger is not that Europe fails to recognize its mistakes, but that it recognizes them, understands their consequences, yet still cannot bring itself to act.",
+        "url": "https://www.americanthinker.com/articles/2026/10/europe-s-bridge-too-far-when-common-sense-fails/",
+        "urlToImage": "https://images.americanthinker.com/2u/2uoot4xaxin0amvvv1cn_1200.jpg",
+        "publishedAt": "2026-10-18T04:00:00Z",
+        "content": "Europe is approaching the point where choices become consequences: guaranteeing cradle-to-grave social benefits, taking in millions of unskilled immigrants, struggling with vastly different cultural … [+7944 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "文章讨论了欧洲加密货币监管的挑战。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注欧洲监管动态，调整合规策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_e4faea8b2a35",
+      "title": "EU Draft Standards Push Digital ID Wallet as Default Bank Verification Method",
+      "content": "The European Union’s anti-money laundering authority has submitted final draft standards for customer due diligence to the European Commission, proposing that electronic identification means, including the bloc’s European Digital Identity (EUDI) wallet, shoul…",
+      "url": "https://www.naturalnews.com/2026-10-18-eu-drafts-push-digital-id-wallet-verification.html",
+      "source": "Naturalnews.com",
+      "source_type": "news",
+      "author": "Edison Reed",
+      "published_at": "2026-10-18T06:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Naturalnews.com"
+        },
+        "author": "Edison Reed",
+        "title": "EU Draft Standards Push Digital ID Wallet as Default Bank Verification Method",
+        "description": "The European Union’s anti-money laundering authority has submitted final draft standards for customer due diligence to the European Commission, proposing that electronic identification means, including the bloc’s European Digital Identity (EUDI) wallet, shoul…",
+        "url": "https://www.naturalnews.com/2026-10-18-eu-drafts-push-digital-id-wallet-verification.html",
+        "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/european-digital-identity-wallet-identity-verification-anti-money-laundering-5196-53650598-original.jpg",
+        "publishedAt": "2026-10-18T06:00:00Z",
+        "content": "The European Union's anti-money laundering authority has submitted final draft standards for customer due diligence to the European Commission, proposing that electronic identification means, includi… [+6641 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "欧盟草案推动数字身份钱包作为银行验证标准。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及数字身份验证",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注数字身份政策对稳定币的影响。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_3a9d8a3de82e",
+      "title": "Listings in south-east Asia gain momentum with $1bn IPO",
+      "content": "Owner of digital wallet GCash set to start trading in region’s biggest debut this year",
+      "url": "https://biztoc.com/x/afce1c236976a2a0",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "ft.com",
+      "published_at": "2026-10-18T01:56:59Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "ft.com",
+        "title": "Listings in south-east Asia gain momentum with $1bn IPO",
+        "description": "Owner of digital wallet GCash set to start trading in region’s biggest debut this year",
+        "url": "https://biztoc.com/x/afce1c236976a2a0",
+        "urlToImage": "https://biztoc.com/cdn/996/og.png",
+        "publishedAt": "2026-10-18T01:56:59Z",
+        "content": "Owner of digital wallet GCash set to start trading in regions biggest debut this year\r\nThis story appeared on ft.com, 2026-10-18 01:00:06.",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "东南亚市场IPO活跃，影响行业动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及市场趋势",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注东南亚市场动态，评估机会。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_a9dc2e21cc64",
+      "title": "Scammer Loses $4,800,000 in Bitcoin as Thieves Drain Ledger Wallets Holding ‘Task Scam’ Proceeds",
+      "content": "Chainalysis reports that a crypto scammer lost over 60 BTC worth about $4.8 million when thieves emptied three Ledger hardware wallet addresses holding task scam proceeds.\nThe post Scammer Loses $4,800,000 in Bitcoin as Thieves Drain Ledger Wallets Holding ‘T…",
+      "url": "https://dailyhodl.com/2026/10/18/scammer-loses-4800000-in-bitcoin-as-thieves-drain-ledger-wallets-holding-task-scam-proceeds/",
+      "source": "The Daily Hodl",
+      "source_type": "news",
+      "author": "Daily Hodl Agent",
+      "published_at": "2026-10-18T07:04:32Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Daily Hodl"
+        },
+        "author": "Daily Hodl Agent",
+        "title": "Scammer Loses $4,800,000 in Bitcoin as Thieves Drain Ledger Wallets Holding ‘Task Scam’ Proceeds",
+        "description": "Chainalysis reports that a crypto scammer lost over 60 BTC worth about $4.8 million when thieves emptied three Ledger hardware wallet addresses holding task scam proceeds.\nThe post Scammer Loses $4,800,000 in Bitcoin as Thieves Drain Ledger Wallets Holding ‘T…",
+        "url": "https://dailyhodl.com/2026/10/18/scammer-loses-4800000-in-bitcoin-as-thieves-drain-ledger-wallets-holding-task-scam-proceeds/",
+        "urlToImage": "https://dailyhodl.com/wp-content/uploads/2024/05/Wallets-Dormant-Since-2013.jpg?resize=1366,800",
+        "publishedAt": "2026-10-18T07:04:32Z",
+        "content": "Thieves are draining nearly $5 million in Bitcoin (BTC) from a crypto scammer who profited from deceiving victims through a task scam.\r\nChainalysis says one of the biggest victims in the Ledger theft… [+2332 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "比特币盗窃事件影响行业安全性",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及比特币盗窃事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注安全技术的发展和市场反应",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_b2ee949ecc5e",
+      "title": "Yuga Labs launches Mudwater trading cards on Solana for BAYC and MAYC holders",
+      "content": "Yuga Labs' Mudwater launch on Solana could boost NFT market dynamics, enhance BAYC/MAYC value, and drive ApeCoin demand through trading activity.\nThe post Yuga Labs launches Mudwater trading cards on Solana for BAYC and MAYC holders appeared first on Crypto B…",
+      "url": "https://cryptobriefing.com/yuga-labs-mudwater-trading-cards-solana/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Kaye Quema",
+      "published_at": "2026-10-18T03:27:44Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Kaye Quema",
+        "title": "Yuga Labs launches Mudwater trading cards on Solana for BAYC and MAYC holders",
+        "description": "Yuga Labs' Mudwater launch on Solana could boost NFT market dynamics, enhance BAYC/MAYC value, and drive ApeCoin demand through trading activity.\nThe post Yuga Labs launches Mudwater trading cards on Solana for BAYC and MAYC holders appeared first on Crypto B…",
+        "url": "https://cryptobriefing.com/yuga-labs-mudwater-trading-cards-solana/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/17232739/library-yuga-labs-launches-mudwater-trading-cards-on-solana-for--800x450.png",
+        "publishedAt": "2026-10-18T03:27:44Z",
+        "content": "The Bored Ape creator's new card set blends physical collectibles with Solana NFTs, and claims are now open for ape holders through January 2027 Yuga Labs, the company behind Bored Ape Yacht Club, is… [+2790 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Yuga Labs 在 Solana 上推出交易卡片，影响市场动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_3cadb1a9f2d2",
+      "title": "Crypto devices built to foil hackers may have come with spies inside",
+      "content": "Malaysian retailer CryptoBilis, a reseller of hardware crypto wallets, has become a focal point of an investigation into thefts from devices meant to secure digital assets offline",
+      "url": "https://www.business-standard.com/world-news/crypto-devices-built-to-foil-hackers-may-have-come-with-spies-inside-126101800160_1.html",
+      "source": "Business Standard",
+      "source_type": "news",
+      "author": "Bloomberg",
+      "published_at": "2026-10-18T05:40:54Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Business Standard"
+        },
+        "author": "Bloomberg",
+        "title": "Crypto devices built to foil hackers may have come with spies inside",
+        "description": "Malaysian retailer CryptoBilis, a reseller of hardware crypto wallets, has become a focal point of an investigation into thefts from devices meant to secure digital assets offline",
+        "url": "https://www.business-standard.com/world-news/crypto-devices-built-to-foil-hackers-may-have-come-with-spies-inside-126101800160_1.html",
+        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/18/thumb/fitandfill/1200X628/1792301989-0293.jpg",
+        "publishedAt": "2026-10-18T05:40:54Z",
+        "content": "Malaysian retailer CryptoBilis, a reseller of hardware crypto wallets, has become a focal point of an investigation into thefts from devices meant to secure digital assets offline\r\nA Ledger Flex | Im… [+4716 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "加密设备安全性问题引发关注。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密设备安全",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注设备安全性提升趋势",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_f9bad58f5aea",
+      "title": "The Crypto devices built to foil hackers came with spies inside",
+      "content": "In Malaysia, CryptoBilis faces an investigation after numerous customers experienced thefts from hardware wallets. Reports from Ledger SAS link these crimes to a group of criminals who modified the wallets. Victims' losses total over $90 million, raising red …",
+      "url": "https://economictimes.indiatimes.com/news/international/business/the-crypto-devices-built-to-foil-hackers-came-with-spies-inside/articleshow/135024141.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "Bloomberg",
+      "published_at": "2026-10-18T05:22:59Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Bloomberg",
+        "title": "The Crypto devices built to foil hackers came with spies inside",
+        "description": "In Malaysia, CryptoBilis faces an investigation after numerous customers experienced thefts from hardware wallets. Reports from Ledger SAS link these crimes to a group of criminals who modified the wallets. Victims' losses total over $90 million, raising red …",
+        "url": "https://economictimes.indiatimes.com/news/international/business/the-crypto-devices-built-to-foil-hackers-came-with-spies-inside/articleshow/135024141.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-135024206,width-1200,height-900,imgsize-54864,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-10-18T05:22:59Z",
+        "content": "At a small cryptocurrency shop in the heart of Kuala Lumpur, a sheet of paper dated Oct. 10 is taped to shutters over the entrance: Our physical stores are temporarily closed until further notice.Mal… [+5088 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "加密设备安全性问题引发关注。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密设备安全",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注加密设备安全技术的发展动态。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_61c3d7c8caeb",
+      "title": "Every Major USB-C Cable Brand Ranked Worst To Best",
+      "content": "All of these USB-C cable brands are worth buying, but because the devil is in the details, some brands have managed to separate themselves from the pack.",
+      "url": "https://www.slashgear.com/2286694/every-major-usb-c-cable-brand-ranked-worst-best/",
+      "source": "SlashGear",
+      "source_type": "news",
+      "author": "Nikshep Myle",
+      "published_at": "2026-10-18T02:18:51Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "SlashGear"
+        },
+        "author": "Nikshep Myle",
+        "title": "Every Major USB-C Cable Brand Ranked Worst To Best",
+        "description": "All of these USB-C cable brands are worth buying, but because the devil is in the details, some brands have managed to separate themselves from the pack.",
+        "url": "https://www.slashgear.com/2286694/every-major-usb-c-cable-brand-ranked-worst-best/",
+        "urlToImage": "https://www.slashgear.com/img/gallery/every-major-usb-c-cable-brand-ranked-worst-to-best/l-intro-1791995351.jpg",
+        "publishedAt": "2026-10-18T02:18:51Z",
+        "content": "Anker doesn't outshine the other USB-C cable brands at everything, but it balances variety, durability, and performance to earn the top spot. Cable options include USB-C to USB-C, Lightning, HDMI, th… [+1369 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off",
+      "description": "Kalshi, Polymarket, Robinhood and Underdog, which also received cease-and-desist orders, have not filed suits in Missouri, according to court records.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-10-18T19:50:28",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Crypto.com",
+        "Novig",
+        "Kalshi",
+        "Polymarket",
+        "Robinhood"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Crypto.com 和 Novig 起诉密苏里州，涉及加密监管问题。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，评估潜在影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
+      "description": "A Bank for International Settlements working paper found that stablecoin growth slows when U.S. banks raise deposit rates, with Circle’s USDC most sensitive.",
+      "url": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-10-18T13:01:04",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Circle"
+      ],
+      "importance_score": 7,
+      "ai_summary": "美国银行提高存款利率影响稳定币增长。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "监管影响"
+      ],
+      "industry_action": "关注稳定币市场变化与监管政策",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash - CoinDesk",
+      "description": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash&nbsp;&nbsp;CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOGRrNmtCaXZpcm80RXBXcmNUQ3ZHcTVxaXNTLVRVUVJyNzJHVHdrRXc3bHZxX281YmRwdVZVa1lUanl3SWxqSFdSenN2SXNTMjB1SDdoSVhuZVdET1NhQ0c1bGMyWXR6V2VDOXhlTHdSYWIzZ2lDM2dDRUxrbWNjYkMzMkdfZXdfZUtrQ1E4MHJBM3VNZUFMdk95T3AyNElfaU42aVJDQzRfLUpmelVYaTJic0N5VDVjbFkxdmE3aWpYVDF5bUNQbk5UUlRQRndUWjV0RXRadk84ek0?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-10-18T14:00:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Visa",
+        "Mastercard",
+        "Stripe"
+      ],
+      "importance_score": 7,
+      "ai_summary": "稳定币供应停滞，但支付业务增长显著。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币和支付增长",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注支付领域的市场动态和竞争变化。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Stablecoin payments climb 45% to $482B as Visa, Mastercard and Stripe bridge crypto and cash - Crypto Briefing",
+      "description": "Stablecoin payments climb 45% to $482B as Visa, Mastercard and Stripe bridge crypto and cash&nbsp;&nbsp;Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wbHNFQ2xNMnZIVUpEWFlza0xMVndNUF8ycmF5OWdKRUFkV1gwT2x1VzRqSzI0WWxxMjlmajg1Mk1YbUc1ZlVoVUhvTlVBc2ZtQTJOdmg4Q1V2bUJ1eXpDQ0p3Q0hhR2ZWZkM1T0JIQW0tU0xBYlp3?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-10-18T14:36:28",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Visa",
+        "Mastercard",
+        "Stripe"
+      ],
+      "importance_score": 8,
+      "ai_summary": "稳定币支付量显著增长，显示市场趋势。",
+      "business_relevance": 0.8,
+      "relevance_reason": "涉及稳定币支付增长",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币支付市场动态，调整策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Stablecoin Payments Hit $400B+ in 8 Months, Growing 7x Faster Than Fiat Cross-Border Rails - Forkast News",
+      "description": "Stablecoin Payments Hit $400B+ in 8 Months, Growing 7x Faster Than Fiat Cross-Border Rails&nbsp;&nbsp;Forkast News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVi1jQm1lcEIxVUxhWGVTV0hHMExKU2dtbmw0MGJLbGJ3cENnUXM1WXFpZ3BXZk5fZVFrcHNrSmpsS3FhY0hPR3MwMUNDSTA5SF9YWk5rVDVieDVVTjRUS1V1V0JSUERIU1R2VDM0ZE40U2N2VnV3dGZxQ1FieVBjSFRPUTdUbjdOT1BjUXRDRDN2R2M1dmx1MVcwamJJZTF5QXZIdV9qbEhPZ3daUGc?oc=5",
+      "source": "Google News (cross-border stablecoin)",
+      "source_category": "google_news",
+      "published_at": "2026-10-18T11:00:11",
+      "data_type": "rss",
+      "search_keyword": "cross-border stablecoin",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "稳定币支付在短时间内大幅增长。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币支付增长",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币支付趋势，调整战略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Weekly Recap: Standard Chartered buyback and RLUSD institutional custody - TradingView",
+      "description": "Weekly Recap: Standard Chartered buyback and RLUSD institutional custody&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObUVYWENtbkVkLXF0bllYNXg2Vm9feTFiZ3VVRngxTlYtM3pZWVNWU3FKLXltbjBXZ05aa1pNNzQ0VG9ray1RQ19kN3FvU3FOeElrWXhVQ1RiWkdxTjJXZjJBZlNqTm5LWndnRWZmdGRxaTg5QV9RRHJhZUh0bmhUSTN6Z21JR3lDejBYeXBpZDJiUjlHeWRwV1V6djg0Y0ZucWxxUGlPUXR0RXA5OUVkUGgwMEdvaXROWW1CQWpBV3kxMG5DOGNOVjExR2FIUQ?oc=5",
+      "source": "Google News (crypto custody institution)",
+      "source_category": "google_news",
+      "published_at": "2026-10-19T05:00:00",
+      "data_type": "rss",
+      "search_keyword": "crypto custody institution",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Standard Chartered",
+        "RLUSD"
+      ],
+      "importance_score": 7,
+      "ai_summary": "标准 Chartered 进行回购及 RLUSD 机构托管动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币托管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币托管市场动态。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "title": "Mastercard Just Wired Stablecoin Cards Into 130 Countries — 73 Days After the BVNK Close - Forkast News",
+      "description": "Mastercard Just Wired Stablecoin Cards Into 130 Countries — 73 Days After the BVNK Close&nbsp;&nbsp;Forkast News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSS1tSEZUVG5zMmx1NEFlWFdnMWZJRERwN21ZOVA0cXBXaEhfQm9XXzJmdUZGT25fSE9uSW1UYkl2YVc3bG13N2tZSk9LN3c2VDhjVS1JWUd1OFVvS2cyRHUyNW1hNDV2ZUxOTVV1YmNNa24zdzdwd0E3UlRDTXdhM2VIV1lsTnczcnU2OEVjMjhBZjVuYkVvODBMeFRrMXkxLWhCRUE4YnR5Y0FQ?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-10-18T09:24:05",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Mastercard"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Mastercard在130个国家推出稳定币卡片。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付业务",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币支付市场动态，调整策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "BIS Study Finds Bank Deposit Rates Can Put the Brakes on Stablecoin Growth, With USDC Most Exposed - BigGo Finance",
+      "description": "BIS Study Finds Bank Deposit Rates Can Put the Brakes on Stablecoin Growth, With USDC Most Exposed&nbsp;&nbsp;BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zTDN2bWc2YmY4LUt3a19oekMtdzA1RjF6WFVFLXZFcUlMem1UUkNLQ0xERFAxZ0JJY3R5QTF5dzBta1VhWVc1V0JrbWJiNE9yQ3V4YlhHTFlYM1NPcno1MXcyVlF1MnpPR2tfMTc5eXdZUzBON0E?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-10-18T18:05:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "USDC"
+      ],
+      "importance_score": 7,
+      "ai_summary": "研究表明银行存款利率影响稳定币增长。",
+      "business_relevance": 0.8,
+      "relevance_reason": "提到稳定币增长影响",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注银行利率变化对稳定币的影响。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Stablecoin Payments Hit $482B: What It Means for Your Business - OneSafe",
+      "description": "Stablecoin Payments Hit $482B: What It Means for Your Business&nbsp;&nbsp;OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nZnQ1bnR4OFJKbGpDcFIzOVNTWjRDNDRfT2Z2cHhSSEx3U2pMNUNvcXZ6QkZrbGF6dXpSVmRMRnI0a1FUOHd4dG85dG52UjlsZVIzVlo4cVRvZlpnY3FBb0o5ZHpIekZHV0QteG1HQ3c2OUtP?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-10-19T01:14:08",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "稳定币支付市场规模达到4820亿美元，影响商业模式。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币支付市场",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币支付的发展动态，调整业务策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    }
+  ]
+}
