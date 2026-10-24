@@ -4,6 +4,1104 @@
 
 const dailyReports = [
     {
+        "date": "2026-10-24",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-10-24.md",
+        "newsItems": [
+            {
+                "id": "2026-10-24-competitor-0",
+                "title": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
+                "source": "Biztoc.com",
+                "date": "2026-10-24",
+                "url": "https://biztoc.com/x/744c463c2677052f",
+                "category": "competitor",
+                "summary": "汇丰推出首个港元稳定币RedCoin，面向零售用户。",
+                "threatLevel": "high",
+                "impact": [
+                    "产品竞争",
+                    "客户争夺",
+                    "市场定价"
+                ],
+                "action": "关注HSBC稳定币的市场反应，评估竞争策略。",
+                "tickers": [
+                    "HSBC"
+                ]
+            },
+            {
+                "id": "2026-10-24-competitor-1",
+                "title": "HSBC Launches Hong Kong Dollar Stablecoin for Everyday Payments - PYMNTS.com",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-10-24",
+                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOckFRb0tPUkFndjBMN1dtQ3I5dzBmWkJHaTU5amVtWTdLWlVKbDkyTnprejhNLW1yU2hFSXE3RmpTdFM5MDlGdEQ5MGR2VnVLZm9pZGh3WVRINFVpM1dDaVpfVU1xdFRJM0FNb3lsQk1FX1JSMERWbXI4WlVsM0VpVzlQRmlpZlNJZFNHd0x6MWRfQ0MxTDdHTlMtWGMycklQTFZiT0pn?oc=5",
+                "category": "competitor",
+                "summary": "汇丰银行推出港元稳定币用于日常支付。",
+                "threatLevel": "high",
+                "impact": [
+                    "产品竞争",
+                    "市场定价",
+                    "品牌影响"
+                ],
+                "action": "关注汇丰的市场动态，调整产品策略。",
+                "tickers": [
+                    "HSBC"
+                ]
+            },
+            {
+                "id": "2026-10-24-competitor-2",
+                "title": "British Bank HSBC Launches Stablecoin - Yahoo Finance",
+                "source": "Google News (stablecoin license)",
+                "date": "2026-10-24",
+                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU25MU3BxbVhOaERCX0dPQ2g4cldIVU83dEIwbUViazhSbURWZnZQTmlCU2ZsRUo2UzY0UFZzNXJxYS11MmZLcTNxUGUwclpGUkRPUWhzaU9sOEJXTEpEQ2d6enBvREhtV0dYeUtpblR3Yno3TnBDalc5UDdYSElUQ2VPMDhqTHlUU004OG9Ccl92TEYxeVZ0SV92UU1vWjUxd2NjbA?oc=5",
+                "category": "competitor",
+                "summary": "汇丰银行推出稳定币，影响市场竞争。",
+                "threatLevel": "high",
+                "impact": [
+                    "产品竞争",
+                    "市场定价",
+                    "品牌影响"
+                ],
+                "action": "关注汇丰的稳定币策略，调整市场定位。",
+                "tickers": [
+                    "HSBC"
+                ]
+            },
+            {
+                "id": "2026-10-24-competitor-3",
+                "title": "HSBC's First HKD Stablecoin RedCoin Debuts on PayMe, Reaching 3.3 Million Users and 100,000 Merchant",
+                "source": "Google News (stablecoin license)",
+                "date": "2026-10-24",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RWW9VLUdhNkNQcllZd3NRS1U3QUtIMkJlYTItaE0tUG8wVExmejZ6NlM3UTFhSGozN1kzdWpxUFNQS0tDa2psVnN6MU9VTUN2NnJOVWNwYl9mYkYza3Jkb0w0ZUxXLTdlMHNtRzZCUUV6VVppU3c?oc=5",
+                "category": "competitor",
+                "summary": "汇丰银行推出首个港元稳定币RedCoin，影响支付市场。",
+                "threatLevel": "high",
+                "impact": [
+                    "产品竞争",
+                    "客户争夺",
+                    "市场定价"
+                ],
+                "action": "关注汇丰的市场动态，调整产品策略。",
+                "tickers": [
+                    "HSBC"
+                ]
+            },
+            {
+                "id": "2026-10-24-competitor-4",
+                "title": "HSBC Launches Regulated HKD Stablecoin RedCoin on PayMe for 3.3 Million Users and 100,000 Merchants ",
+                "source": "Google News (stablecoin license)",
+                "date": "2026-10-24",
+                "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYldfdDJLR0pwODZNc1JxNXluTjhBV3RyVm5tTlAwVFZuSEVxOFR5YjB6c0g4enlRZDgyTnI2ODlTbnFPcS1aN0JST3BkUkFCcHkyRDhwcElfZFhOcjh2VE42aEtMX3VCVXROemxMaTJJY0J0eDRQb182MFh3QVJPaDhSanIyeE04dklBSjN5ZVA4U0hVRFBZUEJfMk9fUmdDcWdqQmRZRXJ3LVVuUi1oQk5XMFk4cVdyZVpVQW5aUTc?oc=5",
+                "category": "competitor",
+                "summary": "汇丰银行推出了受监管的港元稳定币RedCoin。",
+                "threatLevel": "high",
+                "impact": [
+                    "产品竞争",
+                    "客户争夺",
+                    "市场定价"
+                ],
+                "action": "关注汇丰的市场动态，调整产品策略。",
+                "tickers": [
+                    "HSBC"
+                ]
+            },
+            {
+                "id": "2026-10-24-competitor-5",
+                "title": "HSBC Launches HKD-Backed RedCoin Stablecoin on PayMe for Hong Kong Users: 10 outlets compared - News",
+                "source": "Google News (stablecoin regulation Hong Kong)",
+                "date": "2026-10-24",
+                "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeE9Da1l6dVJlRC1UVE1DSlJpUHBXRzA4bDZmOTlCUmZFOVdQVlg5U3hfVktYdXVJbmdLTWZINk5wLVF3UnNRbV9rMjc4dXpobG5KVjNHV2gwNVpoc3lWTm1uQmJwSF91U25sX2lpZnZWbm9jVTVNZnhHajVzbTJXTW9ZMlR4dkxRUTc2YlZVWDlrbTZnNzFYN25xNEpLQUxidi1leGpLRGZxOWVZLTdfQ3BIWkJZbEFmdTdWMXJLRzdwbUNrNHdZN19hck80Y1dFclpmUlZKV0YyWVdHSVdr?oc=5",
+                "category": "competitor",
+                "summary": "汇丰银行在香港推出了HKD支持的RedCoin稳定币。",
+                "threatLevel": "high",
+                "impact": [
+                    "产品竞争",
+                    "客户争夺",
+                    "市场定价"
+                ],
+                "action": "关注汇丰的市场动态，调整产品策略。",
+                "tickers": [
+                    "HSBC"
+                ]
+            },
+            {
+                "id": "2026-10-24-competitor-6",
+                "title": "STABLECOINS | HSBC Launches RedCoin, a Hong Kong Dollar-Backed Stablecoin - BitKE",
+                "source": "Google News (stablecoin regulation Hong Kong)",
+                "date": "2026-10-24",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4ySTVZYmlBdXlURG5pemxKOV9rMHpVeWtEY3lCMUg5a3B4WkItazNyV2g1TVNHLVp1WkNuRVpab0YtalZaaHoxRUZYZ1BKMkZULTkta195d2NTQXdNNzlaaA?oc=5",
+                "category": "competitor",
+                "summary": "汇丰银行推出与港元挂钩的稳定币RedCoin。",
+                "threatLevel": "high",
+                "impact": [
+                    "产品竞争",
+                    "市场定价",
+                    "品牌影响"
+                ],
+                "action": "关注HSBC的市场动态，调整产品策略。",
+                "tickers": [
+                    "HSBC"
+                ]
+            },
+            {
+                "id": "2026-10-24-industry-0",
+                "title": "Toto Finance seeks $5M from Cardano treasury for copper reserve",
+                "source": "Crypto Briefing",
+                "date": "2026-10-24",
+                "url": "https://cryptobriefing.com/toto-finance-cardano-treasury-copper-reserve/",
+                "category": "industry",
+                "summary": "Toto Finance寻求资金以支持其铜储备。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注市场融资动态，评估潜在影响。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-10-24-industry-1",
+                "title": "sra-riskgate-mcp 0.5.1",
+                "source": "Pypi.org",
+                "date": "2026-10-24",
+                "url": "https://pypi.org/project/sra-riskgate-mcp/0.5.1/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险"
+            },
+            {
+                "id": "2026-10-24-industry-2",
+                "title": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
+                "source": "Biztoc.com",
+                "date": "2026-10-24",
+                "url": "https://biztoc.com/x/01be01dd124fe80f",
+                "category": "industry",
+                "summary": "Chainlink与LG CNS合作推动韩元稳定币扩展。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币市场动态与技术进展。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Chainlink",
+                    "LG CNS"
+                ]
+            },
+            {
+                "id": "2026-10-24-industry-3",
+                "title": "South Korea moves to classify stablecoins as payment instruments under forex law",
+                "source": "Crypto Briefing",
+                "date": "2026-10-24",
+                "url": "https://cryptobriefing.com/south-korea-stablecoins-payment-forex-law/",
+                "category": "industry",
+                "summary": "韩国将稳定币归类为支付工具，影响监管政策。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注稳定币监管动态，调整合规策略。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-10-24-industry-4",
+                "title": "Polymarket blocked in India: What the prediction market does, why it was banned and what went wrong",
+                "source": "Livemint",
+                "date": "2026-10-24",
+                "url": "https://www.livemint.com/companies/news/polymarket-blocked-in-india-what-the-prediction-market-does-why-it-was-banned-and-what-went-wrong-11792725722366.html",
+                "category": "industry",
+                "summary": "Polymarket在印度被封禁，涉及监管问题。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注印度市场的监管动态",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-24-industry-5",
+                "title": "Old wallet addresses trap CoinDCX users, triggering potential losses",
+                "source": "CryptoSlate",
+                "date": "2026-10-24",
+                "url": "https://cryptoslate.com/old-wallet-addresses-trap-coindcx-users-triggering-massive-losses/",
+                "category": "industry",
+                "summary": "CoinDCX用户因旧钱包地址面临潜在损失。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注用户安全问题，提升服务保障。",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险"
+            },
+            {
+                "id": "2026-10-24-industry-6",
+                "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+                "source": "Cointelegraph",
+                "date": "2026-10-24",
+                "url": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find",
+                "category": "industry",
+                "summary": "比特币核心安全政策变更，影响行业发展。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险"
+            },
+            {
+                "id": "2026-10-24-industry-7",
+                "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+                "source": "Cointelegraph",
+                "date": "2026-10-24",
+                "url": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks",
+                "category": "industry",
+                "summary": "以太坊推迟测试网发布因安全风险",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注安全性提升的技术动态",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险"
+            },
+            {
+                "id": "2026-10-24-industry-8",
+                "title": "Tech titans, crypto moguls dominate US midterm money race",
+                "source": "Hurriyet Daily News",
+                "date": "2026-10-24",
+                "url": "https://www.hurriyetdailynews.com/tech-titans-crypto-moguls-dominate-us-midterm-money-race-228504",
+                "category": "industry",
+                "summary": "科技巨头与加密大亨主导美国中期选举资金竞赛。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注加密行业的资金流动趋势",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-24-industry-9",
+                "title": "$383 million in crypto longs liquidated in 24 hours",
+                "source": "Crypto Briefing",
+                "date": "2026-10-24",
+                "url": "https://cryptobriefing.com/383-million-crypto-longs-liquidated-24-hours/",
+                "category": "industry",
+                "summary": "加密市场出现大规模清算现象。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场波动对稳定币的影响",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-24-industry-10",
+                "title": "CZ says AI hacking fears in crypto are overblown, warns phishing is the real threat",
+                "source": "Crypto Briefing",
+                "date": "2026-10-24",
+                "url": "https://cryptobriefing.com/cz-ai-hacking-fears-overblown-phishing/",
+                "category": "industry",
+                "summary": "CZ认为AI黑客威胁被夸大，钓鱼攻击更需关注。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注钓鱼攻击对用户信任的影响",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-24-industry-11",
+                "title": "a16z drops crypto branding, expands $2.2B fund into AI and frontier tech",
+                "source": "CryptoSlate",
+                "date": "2026-10-24",
+                "url": "https://cryptoslate.com/a16z-reportedly-pivots-2-2b-fund-but-hides-its-next-play/",
+                "category": "industry",
+                "summary": "a16z扩展投资领域至AI和前沿科技。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注AI和前沿科技的投资动态",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-24-industry-12",
+                "title": "Trump, World Liberty Financial Sued by Circle Investor Over Alleged $2 Billion UAE Crypto Windfall: ",
+                "source": "Biztoc.com",
+                "date": "2026-10-24",
+                "url": "https://biztoc.com/x/c59cdbdde9ec5c70",
+                "category": "industry",
+                "summary": "特朗普与Circle投资者因加密诉讼产生纠纷",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注加密货币相关诉讼动态",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Circle",
+                    "Trump"
+                ]
+            },
+            {
+                "id": "2026-10-24-industry-13",
+                "title": "Tom Lee’s Bitmine stakes another $390M in Ethereum as treasury hits 6.04M ETH",
+                "source": "ValueWalk",
+                "date": "2026-10-24",
+                "url": "https://www.valuewalk.com/bitmine-stakes-400m-ethereum-treasury-6-04m-eth/",
+                "category": "industry",
+                "summary": "Tom Lee的Bitmine投资以太坊，显示市场趋势。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注以太坊市场动态，评估潜在影响。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-10-24-industry-14",
+                "title": "Move Slow and Fix Things",
+                "source": "Endler.dev",
+                "date": "2026-10-24",
+                "url": "https://endler.dev/2024/move-slow-and-fix-things/",
+                "category": "industry",
+                "summary": "文章讨论了加密货币监管的动态。",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管政策变化",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-24-industry-15",
+                "title": "DeepSeek Raises Nearly $16 billion in Second Funding Round",
+                "source": "The Information",
+                "date": "2026-10-24",
+                "url": "https://www.theinformation.com/briefings/deepseek-raises-nearly-16-billion-second-funding-round",
+                "category": "industry",
+                "summary": "DeepSeek完成近160亿美元融资，影响行业动态。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注融资对市场的潜在影响",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-10-24-industry-16",
+                "title": "DeepSeek reportedly raises US$15B as IPO plans gather pace",
+                "source": "Digitimes",
+                "date": "2026-10-24",
+                "url": "https://www.digitimes.com/news/a20261023VL210/deepseek-ipo-financing-ai-startup.html",
+                "category": "industry",
+                "summary": "DeepSeek筹集150亿美元，IPO计划加速。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注市场融资动态，评估潜在影响。",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-10-24-industry-17",
+                "title": "Core4 Engineers SME IPO opens today: Check price band and other key details",
+                "source": "The Times of India",
+                "date": "2026-10-24",
+                "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/core4-engineers-sme-ipo-opens-today-check-price-band-and-other-key-details/articleshow/135133511.cms",
+                "category": "industry",
+                "summary": "Core4工程师的IPO融资动态开启。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注市场融资动态，评估潜在影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-24-industry-18",
+                "title": "Fintech M&A outlook improves, but investors remain selective on valuations",
+                "source": "BusinessLine",
+                "date": "2026-10-24",
+                "url": "https://www.thehindubusinessline.com/money-and-banking/fintech-ma-outlook-improves-but-investors-remain-selective-on-valuations/article71614444.ece",
+                "category": "industry",
+                "summary": "金融科技并购前景改善，但投资者仍谨慎。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注并购动态对市场的潜在影响。",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-10-24-industry-19",
+                "title": "How an extra 503 metres sq were approved in Milos island’s White Coast hotel building permit, and th",
+                "source": "Protothema.gr",
+                "date": "2026-10-24",
+                "url": "https://en.protothema.gr/2026/10/23/how-an-extra-503-metres-sq-were-approved-in-milos-islands-white-coast-hotel-building-permit-and-the-implications/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-24-industry-20",
+                "title": "California's Anchor Firms Are Hiring. Just Not in California.",
+                "source": "Substack.com",
+                "date": "2026-10-24",
+                "url": "https://fiscalrealitycheck.substack.com/p/californias-anchor-firms-are-hiring",
+                "category": "industry",
+                "summary": "加州企业招聘动态反映行业趋势。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注加州外招聘对行业影响",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-24-industry-21",
+                "title": "Keeping Madhubala alive: The fight for Karachi’s captive elephants",
+                "source": "Al Jazeera English",
+                "date": "2026-10-24",
+                "url": "https://www.aljazeera.com/features/2026/10/23/keeping-madhubala-alive-the-fight-for-karachis-captive-elephants",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-24-industry-22",
+                "title": "Parliament passes law on fund repayments",
+                "source": "Hurriyet Daily News",
+                "date": "2026-10-24",
+                "url": "https://www.hurriyetdailynews.com/parliament-passes-law-on-fund-repayments-228493",
+                "category": "industry",
+                "summary": "议会通过了资金偿还法案，影响加密监管。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管政策变化对业务的影响",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-10-24-industry-23",
+                "title": "Why the minutes of RBI's rate-setting committee meeting hint at a course correction",
+                "source": "Livemint",
+                "date": "2026-10-24",
+                "url": "https://www.livemint.com/opinion/online-views/rbis-mpc-minutes-do-they-hint-at-a-course-correction-11792674521208.html",
+                "category": "industry",
+                "summary": "印度央行货币政策会议记录暗示可能的政策调整。",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注印度市场的监管动态",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-24-industry-24",
+                "title": "NEAR proposal slashes yield by 36%, dividing network validators",
+                "source": "CryptoSlate",
+                "date": "2026-10-24",
+                "url": "https://cryptoslate.com/near-proposal-slashes-yield-by-36-dividing-network-validators/",
+                "category": "industry",
+                "summary": "NEAR提案削减收益，引发网络分歧。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注收益变化对市场的影响",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-24-industry-25",
+                "title": "Fracton Venturesが創業期より支援するDeltaForesightが、シードラウンドでの資金調達およびプロトコルローンチを完了",
+                "source": "Prtimes.jp",
+                "date": "2026-10-24",
+                "url": "https://prtimes.jp/main/html/rd/p/000000061.000074402.html",
+                "category": "industry",
+                "summary": "DeltaForesight完成融资与协议启动。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注融资动态，评估市场影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "DeltaForesight"
+                ]
+            },
+            {
+                "id": "2026-10-24-industry-26",
+                "title": "Qubic restarts chain, opens claims after $1.4M weak-seed hack",
+                "source": "Techreport.com",
+                "date": "2026-10-24",
+                "url": "https://techreport.com/news/business/qubic-restarts-blockchain-recovery-claims-1-4m-hack/",
+                "category": "industry",
+                "summary": "Qubic链重启并开放索赔，涉及安全问题。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注安全技术的进展与影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-24-industry-27",
+                "title": "Calle launches BitNotes, a multi-mint Cashu wallet that prints ecash on paper",
+                "source": "Crypto Briefing",
+                "date": "2026-10-24",
+                "url": "https://cryptobriefing.com/calle-launches-bitnotes-cashu-ecash-wallet/",
+                "category": "industry",
+                "summary": "Calle推出了一种新的现金钱包，涉及电子现金打印。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注电子现金技术的发展动态",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险"
+            },
+            {
+                "id": "2026-10-24-industry-28",
+                "title": "LianLian Global and PayPal Power Cross-Border Payouts for Social Commerce, Marketplace, and eCommerc",
+                "source": "PRNewswire",
+                "date": "2026-10-24",
+                "url": "https://www.prnewswire.com/news-releases/lianlian-global-and-paypal-power-cross-border-payouts-for-social-commerce-marketplace-and-ecommerce-customers-302917635.html",
+                "category": "industry",
+                "summary": "LianLian Global与PayPal合作推动跨境支付。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注跨境支付市场动态。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "LianLian Global",
+                    "PayPal"
+                ]
+            },
+            {
+                "id": "2026-10-24-industry-29",
+                "title": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
+                "source": "The Block",
+                "date": "2026-10-24",
+                "url": "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792",
+                "category": "industry",
+                "summary": "以色列寻求区块链方案应对制裁。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注区块链在金融中的应用趋势。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-24-industry-30",
+                "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adv",
+                "source": "The Block",
+                "date": "2026-10-24",
+                "url": "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785",
+                "category": "industry",
+                "summary": "布伦特议员要求Tether就支付问题作出回应。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "竞争格局"
+                ],
+                "action": "关注Tether的监管动态和市场反应",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Tether"
+                ]
+            },
+            {
+                "id": "2026-10-24-industry-31",
+                "title": "Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid ",
+                "source": "The Block",
+                "date": "2026-10-24",
+                "url": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652",
+                "category": "industry",
+                "summary": "Phantom推出稳定币交易市场，涉及监管问题。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币市场动态与监管变化。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-24-industry-32",
+                "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving R",
+                "source": "The Block",
+                "date": "2026-10-24",
+                "url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
+                "category": "industry",
+                "summary": "新加坡、马来西亚和泰国央行扩展稳定币合作计划。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注跨境稳定币的监管动态",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Ripple",
+                    "Visa",
+                    "Mastercard"
+                ]
+            },
+            {
+                "id": "2026-10-24-industry-33",
+                "title": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
+                "source": "The Block",
+                "date": "2026-10-24",
+                "url": "https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028",
+                "category": "industry",
+                "summary": "韩国将修订外汇法以监管稳定币支付。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注韩国稳定币监管动态，评估影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-24-industry-34",
+                "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+                "source": "Decrypt",
+                "date": "2026-10-24",
+                "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
+                "category": "industry",
+                "summary": "以色列考虑区块链应对银行制裁",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注以色列的区块链政策动向",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-24-industry-35",
+                "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
+                "source": "Decrypt",
+                "date": "2026-10-24",
+                "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+                "category": "industry",
+                "summary": "参议员调查Tether支付记录的事件。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注Tether的监管动态和市场反应。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Tether"
+                ]
+            },
+            {
+                "id": "2026-10-24-industry-36",
+                "title": "Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York",
+                "source": "Decrypt",
+                "date": "2026-10-24",
+                "url": "https://decrypt.co/381708/crypto-scammers-prayer-groups-lure-victims-must-pay-1-3-billion-new-york",
+                "category": "industry",
+                "summary": "纽约检察长要求诈骗者支付巨额赔偿。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注加密货币监管动态，评估影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-24-industry-37",
+                "title": "Morning Minute: a16z Drops 'Crypto' From Its Fund",
+                "source": "Decrypt",
+                "date": "2026-10-24",
+                "url": "https://decrypt.co/381691/morning-minute-a16z-drops-crypto-from-its-fund",
+                "category": "industry",
+                "summary": "a16z改变基金名称，未来将继续投资加密领域。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注投资方向变化，调整策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "a16z"
+                ]
+            },
+            {
+                "id": "2026-10-24-industry-38",
+                "title": "South Korea to Put Stablecoins Under FX Law in 2026 - FinanceFeeds",
+                "source": "Google News (stablecoin payment)",
+                "date": "2026-10-24",
+                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWDFaN05rcGFkdzFiUVJPTUxITHMwYXRqc2xQUUM2NkVPa25aZEVjQTIwUm01OVU2aHBjdVdVMEhUc3FXMXpneG9pWGtfTVdwSTFsOVpIOVJRcXRMYjhQWi1uMlJRZEktcmRYOTJZOVN6NHo4RUtpTVV6SW9ZamRFQy1DQlRpVmMydDV1M0VnSnVFb1pzXzBuOW1hMWc?oc=5",
+                "category": "industry",
+                "summary": "韩国计划在2026年将稳定币纳入外汇法监管。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注韩国稳定币监管动态，评估影响。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-10-24-industry-39",
+                "title": "Bank Negara Malaysia and Bank of Thailand Join Singapore’s BLOOM Cross-Border Stablecoin Payments In",
+                "source": "Google News (cross-border stablecoin)",
+                "date": "2026-10-24",
+                "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYkUyMFk1UE5uYlZra18yVXhKUGtRN0tZVzJ4MGpVZGRUVWVTNThkTTdkdjlNYzdyOVdhWFJWbTlFbHpYcmpaNXc1bDhEVEpfTFhWTlBOZUJwUkY5b1Zlbm40MTRTNC01c29oc2wzR3NRRHdrVFVTZTd3eFJYd1N3VXljVVlqQzQwSENxOHJWMkt3YzNQQUF6YTE4LTBrbFFpZ0hacWF4aVFCU3JfTlgwMDhxSF9teXlWSHNLdWhkU1hSdDg0aEFYUVNJeURYSTVLMmYtckhHZGZTTzEyYzRmUjBCVU9VZnozX2c?oc=5",
+                "category": "industry",
+                "summary": "马来西亚和泰国加入新加坡稳定币支付计划。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注跨境支付市场动态。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-10-24-industry-40",
+                "title": "Malaysia, Thailand Join Singapore to Expand Cross-Border Stablecoin Payments - Coinpedia",
+                "source": "Google News (cross-border stablecoin)",
+                "date": "2026-10-24",
+                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQemJiMUF6ZGhoNEpKaWptRXdzSkZwNTFEUzFkOEdnSUd2TGtsdTNfdWFPSTdabjVsSEFxUS1Xd2VqelBxNmxpdDdvN1ZvUDN5cDRjZm45TDRJYk95TzV4SnFQc2RqbVRvRUVkTWFKd0RURUJ3UHc5elB2ZUZUNjV1aE9WRWRVUEw4OVJGQVp5bXNtcGJNZXF1d2hSN0FpWnJiMFRLVW1R0gGrAUFVX3lxTFBXclRVQmRfQkVuQVNvbG01V0NYc1dZUEdaUHNkaGpNTDBsckJ1SEJLVW5QeFVBSFVWYWpCRWhSZFg4WHctbDloOGxhdmtzdEI0OGNvX3NLV1BKdTVHUzRBVVlIZEVILWRyVERxUDE2eVZKMW9MZDBLMFd2QzQ2U3FFdXBwTnNxZHk1R2U2T00zZWlZQmpuVVdodk9UVjJoZml0TmR1d0lhVmwzUQ?oc=5",
+                "category": "industry",
+                "summary": "马来西亚和泰国加入新加坡扩展跨境稳定币支付。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注区域稳定币支付政策变化",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-10-24-industry-41",
+                "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push - Cryptonews.net",
+                "source": "Google News (cross-border stablecoin)",
+                "date": "2026-10-24",
+                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LRWZWSVhZMWtTTkZ0QmJIZVBMN2lZSnRySFU0bkpYY3I2cmtMeXBGcGF3bF9sV2xwYUxlc3hDVDZ4a1k3VmZiaVUtbjVvUWo1VF83UmdrOUE?oc=5",
+                "category": "industry",
+                "summary": "马来西亚和泰国加入新加坡的跨境稳定币计划。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注跨境稳定币的监管动态。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-24-industry-42",
+                "title": "Ripple Is Part of a Stablecoin Push by 3 Asian Central Banks. Where Does That Leave XRP? - 24/7 Wall",
+                "source": "Google News (cross-border stablecoin)",
+                "date": "2026-10-24",
+                "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMzd3VkNwT2tuZmNZVnYzVzRjLURMWHF5aGZiQ0JPcXZBTG1kVE51NEc5cWVLd0xrSkVQNXUxS2NjQUFiTFFtNm96SFU2X0hIa0FJUHdHaVZHNWpMQzdTVTlVSHl2T3ZlbXVSa19CbkJmV0tzWHY4ckttVnBua1QwVTRxXzJWRmVESXVGSjBTaFpSNFZrSmtEa0VZaXR4eUxrM0NjMG9QTVQ0OXBERlpHVWx6VU1EYWhaT0pfWEZmcE1mdDI4UkwtMEhrUmhGcXdDNVJqV1lfc0FZaWF0SEE?oc=5",
+                "category": "industry",
+                "summary": "Ripple参与亚洲中央银行的稳定币推动。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币政策变化，调整战略。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Ripple"
+                ]
+            },
+            {
+                "id": "2026-10-24-industry-43",
+                "title": "Malaysia and Thailand Join Singapore in Cross-Border Stablecoin Initiative - KuCoin",
+                "source": "Google News (cross-border stablecoin)",
+                "date": "2026-10-24",
+                "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2N5SEVnSVFLdE9KRUV4Y3VTZnRVOGx6LUEzcS1CSGFtUU1Gb3NqS0pVa1NlS0xvQm5ZUnZSZUFIRXhCUXFiaXpadnZxV0NFb18zNFY3OTA5cFJCZmVEV2pMQlpkUzVKMkgzVHVVRlhXS21XakNpQmxzU3h2TWFtTTFrd3dMV256Q0VUNjZZMllrX0xJbTlaN000UU9IQUhPbzFvR05OVQ?oc=5",
+                "category": "industry",
+                "summary": "马来西亚和泰国加入新加坡的跨境稳定币倡议。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注跨境支付技术的进展。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-10-24-industry-44",
+                "title": "Licensing process is key to yield in OCC stablecoin rule - American Banker",
+                "source": "Google News (stablecoin license)",
+                "date": "2026-10-24",
+                "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaG9TVmZETjg0ZmlMZ3hxS1I4aWhOQmZnaFQ1WGNaM3JCWVBkbU9pYzl5RHZ1S0pFejQ2R05FX3ZnUDlaWkYybDctY1lPRC13MHczMWo0aEktN3NLbC04WHp0SGZtbnBEbEU2VVd1Z25qNl9nVEJjOGo2RHNPWVRpYVluQUZaUjBfYXVhcnpIbG90VzJ3UDRv?oc=5",
+                "category": "industry",
+                "summary": "监管政策对稳定币收益至关重要。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管动态，调整合规策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-24-industry-45",
+                "title": "Singapore, Malaysia and Thailand team up to make stablecoin payments easier - Crypto News",
+                "source": "Google News (stablecoin regulation Singapore)",
+                "date": "2026-10-24",
+                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94d0d6cEpCWTdmejU5VmVZLWZVSzRjWENXdk9LQlZmblEwbnFhX1JKaDMybXAzc2FBTE9XSE1nREFTN2NLdUYzTXhpV09pYk5KU0xYa0U4YW1rS0VFLTdJT00zRW5ld2EtMVc1dGRpNHdvbzA?oc=5",
+                "category": "industry",
+                "summary": "新加坡、马来西亚和泰国合作推动稳定币支付便利化。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注区域内稳定币支付的政策变化",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-24-industry-46",
+                "title": "Arf and Ripple bring RLUSD settlement liquidity to XRPL - The Paypers",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-10-24",
+                "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTE5yTlFkRkhzemJ1bENUVjlWZXk0NnFVVjQ3dmk2azJxcC1xOHpud0FUdEdWMTBOQ0dHbjhVWUNMcldycUpRVVpiV1JqWTJUX01WQ2U4TEc2akwwX2VQcDZZekhqa3FVN1ZxZDltZ3JyMDFNSndHWTJjRUdkTzZtbHpFY3JfZHJWQTd6amxfRzVjU01VcHQ4OWF1cHJaMkw5MjdvckItMk5rMjQ5dnhLTDF4bUw?oc=5",
+                "category": "industry",
+                "summary": "Arf与Ripple在XRPL上提供RLUSD流动性。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币流动性变化",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Arf",
+                    "Ripple"
+                ]
+            }
+        ],
+        "stats": {
+            "totalThreats": 7,
+            "highThreats": 7,
+            "mediumThreats": 0,
+            "lowThreats": 0,
+            "competitorUpdates": 7,
+            "customerUpdates": 0,
+            "industryUpdates": 47
+        },
+        "dailySummary": {
+            "competitorThreat": "今日最大的竞争威胁来自汇丰银行推出的港元稳定币RedCoin，该产品面向零售用户并已在PayMe平台上线，迅速覆盖3.3百万用户和100,000家商户。这一举措显著提升了汇丰在支付市场的竞争力，可能对现有稳定币和支付服务提供商造成压力。建议相关公司应加快产品创新与用户体验提升，探索与金融机构的合作机会，以应对市场竞争。同时，应关注监管动态，确保合规性以增强市场信任。",
+            "industryTrend": "今日行业热点包括Toto Finance寻求资金支持铜储备，以及Chainlink与LG CNS的合作，推动韩元稳定币扩展。同时，韩国将稳定币归类为支付工具，预示着监管政策的变化。值得关注的是，市场对稳定币的需求正在增加，尤其是在亚洲地区，这可能促进稳定币托管和支付基础设施的创新与发展。此外，随着监管政策的逐步明晰，稳定币的合法性和使用场景将得到进一步拓展，可能吸引更多机构参与。"
+        },
+        "highlights": {
+            "competitors": [
+                {
+                    "id": "2026-10-24-competitor-0",
+                    "title": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
+                    "source": "Biztoc.com",
+                    "date": "2026-10-24",
+                    "url": "https://biztoc.com/x/744c463c2677052f",
+                    "category": "competitor",
+                    "summary": "汇丰推出首个港元稳定币RedCoin，面向零售用户。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "产品竞争",
+                        "客户争夺",
+                        "市场定价"
+                    ],
+                    "action": "关注HSBC稳定币的市场反应，评估竞争策略。",
+                    "tickers": [
+                        "HSBC"
+                    ]
+                },
+                {
+                    "id": "2026-10-24-competitor-1",
+                    "title": "HSBC Launches Hong Kong Dollar Stablecoin for Everyday Payments - PYMNTS.com",
+                    "source": "Google News (stablecoin payment)",
+                    "date": "2026-10-24",
+                    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOckFRb0tPUkFndjBMN1dtQ3I5dzBmWkJHaTU5amVtWTdLWlVKbDkyTnprejhNLW1yU2hFSXE3RmpTdFM5MDlGdEQ5MGR2VnVLZm9pZGh3WVRINFVpM1dDaVpfVU1xdFRJM0FNb3lsQk1FX1JSMERWbXI4WlVsM0VpVzlQRmlpZlNJZFNHd0x6MWRfQ0MxTDdHTlMtWGMycklQTFZiT0pn?oc=5",
+                    "category": "competitor",
+                    "summary": "汇丰银行推出港元稳定币用于日常支付。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "产品竞争",
+                        "市场定价",
+                        "品牌影响"
+                    ],
+                    "action": "关注汇丰的市场动态，调整产品策略。",
+                    "tickers": [
+                        "HSBC"
+                    ]
+                },
+                {
+                    "id": "2026-10-24-competitor-2",
+                    "title": "British Bank HSBC Launches Stablecoin - Yahoo Finance",
+                    "source": "Google News (stablecoin license)",
+                    "date": "2026-10-24",
+                    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU25MU3BxbVhOaERCX0dPQ2g4cldIVU83dEIwbUViazhSbURWZnZQTmlCU2ZsRUo2UzY0UFZzNXJxYS11MmZLcTNxUGUwclpGUkRPUWhzaU9sOEJXTEpEQ2d6enBvREhtV0dYeUtpblR3Yno3TnBDalc5UDdYSElUQ2VPMDhqTHlUU004OG9Ccl92TEYxeVZ0SV92UU1vWjUxd2NjbA?oc=5",
+                    "category": "competitor",
+                    "summary": "汇丰银行推出稳定币，影响市场竞争。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "产品竞争",
+                        "市场定价",
+                        "品牌影响"
+                    ],
+                    "action": "关注汇丰的稳定币策略，调整市场定位。",
+                    "tickers": [
+                        "HSBC"
+                    ]
+                }
+            ],
+            "clients": [],
+            "industry": [
+                {
+                    "id": "2026-10-24-industry-0",
+                    "title": "Toto Finance seeks $5M from Cardano treasury for copper reserve",
+                    "source": "Crypto Briefing",
+                    "date": "2026-10-24",
+                    "url": "https://cryptobriefing.com/toto-finance-cardano-treasury-copper-reserve/",
+                    "category": "industry",
+                    "summary": "Toto Finance寻求资金以支持其铜储备。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "市场趋势",
+                        "投资机会"
+                    ],
+                    "action": "关注市场融资动态，评估潜在影响。",
+                    "subcategory": "stablecoin_payments",
+                    "subcategoryName": "稳定币支付"
+                },
+                {
+                    "id": "2026-10-24-industry-1",
+                    "title": "sra-riskgate-mcp 0.5.1",
+                    "source": "Pypi.org",
+                    "date": "2026-10-24",
+                    "url": "https://pypi.org/project/sra-riskgate-mcp/0.5.1/",
+                    "category": "industry",
+                    "summary": "",
+                    "threatLevel": "neutral",
+                    "impact": [],
+                    "action": "",
+                    "subcategory": "custody_mpc_risk",
+                    "subcategoryName": "托管与风险"
+                },
+                {
+                    "id": "2026-10-24-industry-2",
+                    "title": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
+                    "source": "Biztoc.com",
+                    "date": "2026-10-24",
+                    "url": "https://biztoc.com/x/01be01dd124fe80f",
+                    "category": "industry",
+                    "summary": "Chainlink与LG CNS合作推动韩元稳定币扩展。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "市场趋势",
+                        "技术发展"
+                    ],
+                    "action": "关注稳定币市场动态与技术进展。",
+                    "subcategory": "stablecoin_payments",
+                    "subcategoryName": "稳定币支付",
+                    "tickers": [
+                        "Chainlink",
+                        "LG CNS"
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "date": "2026-10-23",
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-10-23.md",
@@ -78807,376 +79905,6 @@ const dailyReports = [
                     "action": "关注网络安全对加密行业的影响",
                     "subcategory": "regulation_licensing",
                     "subcategoryName": "监管牌照"
-                }
-            ]
-        }
-    },
-    {
-        "date": "2026-07-26",
-        "title": "稳定币行业日报",
-        "file": "reports/daily/daily_brief_2026-07-26.md",
-        "newsItems": [
-            {
-                "id": "2026-07-26-competitor-0",
-                "title": "Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ",
-                "source": "The Block",
-                "date": "2026-07-26",
-                "url": "https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&utm_medium=rss",
-                "category": "competitor",
-                "summary": "Robinhood与Crypto.com的合作谈判可能影响市场竞争格局。",
-                "threatLevel": "medium",
-                "impact": [
-                    "产品竞争",
-                    "客户争夺",
-                    "市场定价"
-                ],
-                "action": "关注Crypto.com的市场动态，评估潜在影响。",
-                "tickers": [
-                    "Robinhood",
-                    "Crypto.com"
-                ]
-            },
-            {
-                "id": "2026-07-26-industry-0",
-                "title": "This Week in Stablecoins: Visa, Goldman and Samsung Raise the Stakes",
-                "source": "Biztoc.com",
-                "date": "2026-07-26",
-                "url": "https://biztoc.com/x/4520f6f5d992851b",
-                "category": "industry",
-                "summary": "Visa、Goldman和Samsung在稳定币领域的动态引人关注。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注稳定币市场的变化与竞争对手动态",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付",
-                "tickers": [
-                    "Visa",
-                    "Goldman",
-                    "Samsung"
-                ]
-            },
-            {
-                "id": "2026-07-26-industry-1",
-                "title": "Crypto markets in everything? (moo)",
-                "source": "Marginalrevolution.com",
-                "date": "2026-07-26",
-                "url": "https://marginalrevolution.com/marginalrevolution/2026/07/crypto-markets-in-everything.html",
-                "category": "industry",
-                "summary": "加密市场动态的概述",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-07-26-industry-2",
-                "title": "Strategy’s Saylor needs clarity in BTC pivot message to convince investors: StanChart",
-                "source": "Activistpost.com",
-                "date": "2026-07-26",
-                "url": "https://www.activistpost.com/strategys-saylor-needs-clarity-in-btc-pivot-message-to-convince-investors-stanchart/",
-                "category": "industry",
-                "summary": "Saylor需要明确比特币策略以增强投资者信心。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-07-26-industry-3",
-                "title": "OpenAI’s AI agent hacked Hugging Face undetected for a week, raising alarm across AI and crypto sect",
-                "source": "Crypto Briefing",
-                "date": "2026-07-26",
-                "url": "https://cryptobriefing.com/openai-ai-agent-hacks-hugging-face/",
-                "category": "industry",
-                "summary": "OpenAI的AI代理在加密领域引发警报。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展",
-                    "竞争格局"
-                ],
-                "action": "关注AI与加密结合的趋势。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-07-26-industry-4",
-                "title": "Could Buying XRP Today Set You Up for Life?",
-                "source": "Biztoc.com",
-                "date": "2026-07-26",
-                "url": "https://biztoc.com/x/e934e9b450253524",
-                "category": "industry",
-                "summary": "讨论XRP投资潜力的新闻",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "投资机会"
-                ],
-                "action": "关注XRP市场动态",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-07-26-industry-5",
-                "title": "World Foundation Raises $52 Million as AI Drives Demand for ID Solutions",
-                "source": "Biztoc.com",
-                "date": "2026-07-26",
-                "url": "https://biztoc.com/x/89ec6afc0b48c9d4",
-                "category": "industry",
-                "summary": "AI推动ID解决方案需求增长。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注AI与身份验证技术的结合",
-                "subcategory": "funding_mna",
-                "subcategoryName": "融资并购"
-            },
-            {
-                "id": "2026-07-26-industry-6",
-                "title": "Find out How an Adorable Duck Drove us to Get Creative with Dodo Duckie",
-                "source": "Xbox.com",
-                "date": "2026-07-26",
-                "url": "https://news.xbox.com/en-us/2026/07/24/find-out-how-an-adorable-duck-drove-us-to-get-creative/",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-07-26-industry-7",
-                "title": "'We were amazed she turned up': Fresh twist in murder of British expat in Dordogne as friends reveal",
-                "source": "Dailymail.com",
-                "date": "2026-07-26",
-                "url": "https://www.dailymail.com/crime-desk/article-16003521/twist-murder-British-expat-Dordogne.html",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-07-26-industry-8",
-                "title": "Bitcoin, Ethereum ETFs see $240M and $71M net outflows on July 24",
-                "source": "Crypto Briefing",
-                "date": "2026-07-26",
-                "url": "https://cryptobriefing.com/bitcoin-ethereum-etf-outflows-july-24/",
-                "category": "industry",
-                "summary": "比特币和以太坊ETF出现大额资金流出。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注市场动态以调整策略",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-07-26-industry-9",
-                "title": "National ID made mandatory for digital wallet users",
-                "source": "Peoplesreview.com.np",
-                "date": "2026-07-26",
-                "url": "https://peoplesreview.com.np/2026/07/25/national-id-made-mandatory-for-digital-wallet-users/",
-                "category": "industry",
-                "summary": "国家要求数字钱包用户提供身份证明。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注监管政策变化对业务的影响。",
-                "subcategory": "custody_mpc_risk",
-                "subcategoryName": "托管与风险"
-            },
-            {
-                "id": "2026-07-26-industry-10",
-                "title": "EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23",
-                "source": "The Block",
-                "date": "2026-07-26",
-                "url": "https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&utm_medium=rss",
-                "category": "industry",
-                "summary": "欧盟将HTX纳入制裁名单，影响加密行业。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "竞争格局"
-                ],
-                "action": "关注监管动态，评估潜在影响。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照",
-                "tickers": [
-                    "HTX",
-                    "EXMO",
-                    "Rapira",
-                    "BitPapa",
-                    "Aifory Pro",
-                    "WhiteBird",
-                    "NoOnecrypto",
-                    "Exnode"
-                ]
-            },
-            {
-                "id": "2026-07-26-industry-11",
-                "title": "STABLECOINS | Philippines Oldest Bank to Pilot Stablecoin Rail for Cross-Border Payments - BitKE",
-                "source": "Google News (cross-border stablecoin)",
-                "date": "2026-07-26",
-                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ELXV1R0JxcWhjbkJTLTF3UjdHSkFZUWJla21jX0FRUFlpWlowSWZGZmFqczdzc29lZXNteWQ5X2RFUk5PT1dJRTFrQ0RQZ1lDTDlrbUxlai1lQ3VKVVNJWHJzTFY?oc=5",
-                "category": "industry",
-                "summary": "菲律宾老银行将试点稳定币跨境支付。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "技术发展",
-                    "竞争格局"
-                ],
-                "action": "关注稳定币在跨境支付中的应用趋势。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-07-26-industry-12",
-                "title": "HKMA Warns of Fake HSBC and HKDAP Tokens Amid Stablecoin Rollout - CoinMarketCap",
-                "source": "Google News (stablecoin license)",
-                "date": "2026-07-26",
-                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObUJDdW4xT2h1Q0I2dG1kOEprTmpDVkZpRXZuV3RKcWJfamllY080WENwa3k1UmR2Y2w5Yjc5Q3RDTlpaNGI3cFpMN3dUX1l3eW1JMTczWTYwbVJSYWxrWnM1dDFEaG5VZWNFNjZXVE1sbFRxYmtTSmlhNGhWUG51VWxSVktnRVlQS2hWTXdEWlBiRlVUUHQ0UTE1ZDdKNnJ5X2pqV1pYdjlPUQ?oc=5",
-                "category": "industry",
-                "summary": "香港金融管理局警告假稳定币问题。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注稳定币监管动态，评估影响。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-07-26-industry-13",
-                "title": "8x faster than US cash: The $1T network settling millions while banks sleep on weekends - CryptoSlat",
-                "source": "Google News (stablecoin settlement)",
-                "date": "2026-07-26",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkhjYS1idEM2RlpiVVlKU1c1Y1Zocno5d0FJcFQ5T2MzRmNlXzNrR0RlR21wdTViR0lxcTEtdzhQOEUyMUw0T1U5WHpacFpZanJ6aEppMzExZmlrSUljb2NpYlQtSmF6YzNHdXhkLWQ1cFhWOFlNUWdMS2tGWGg2REc5aEJEOTVtNHJPbURR?oc=5",
-                "category": "industry",
-                "summary": "报道了快速结算的网络对银行的影响。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注跨境支付技术的发展动态。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            }
-        ],
-        "stats": {
-            "totalThreats": 1,
-            "highThreats": 0,
-            "mediumThreats": 1,
-            "lowThreats": 0,
-            "competitorUpdates": 1,
-            "customerUpdates": 0,
-            "industryUpdates": 14
-        },
-        "dailySummary": {
-            "competitorThreat": "今日最大的竞争威胁来自Robinhood与Crypto.com的潜在合作，这可能会改变预测市场的竞争格局。Robinhood作为知名交易平台，其与Crypto.com的联手将增强其在加密市场的竞争力，对现有玩家形成压力，尤其是Kalshi等现有竞争对手。为应对这一动态，建议相关公司加强创新，提升用户体验，同时考虑与其他平台的战略合作，以维持市场份额和竞争优势。",
-            "industryTrend": "今日稳定币行业的主要热点包括Visa、Goldman和Samsung在该领域的积极布局，显示出传统金融机构对稳定币的重视。此外，数字钱包用户需提供身份证明的政策引发关注，可能会影响用户参与度和市场流动性。值得注意的是，比特币和以太坊ETF出现大额资金流出，反映出市场信心的波动。整体来看，这些动态表明稳定币托管和支付基础设施面临新的合规要求和市场挑战，可能促使行业加速创新与转型，以适应不断变化的市场环境。"
-        },
-        "highlights": {
-            "competitors": [
-                {
-                    "id": "2026-07-26-competitor-0",
-                    "title": "Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ",
-                    "source": "The Block",
-                    "date": "2026-07-26",
-                    "url": "https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&utm_medium=rss",
-                    "category": "competitor",
-                    "summary": "Robinhood与Crypto.com的合作谈判可能影响市场竞争格局。",
-                    "threatLevel": "medium",
-                    "impact": [
-                        "产品竞争",
-                        "客户争夺",
-                        "市场定价"
-                    ],
-                    "action": "关注Crypto.com的市场动态，评估潜在影响。",
-                    "tickers": [
-                        "Robinhood",
-                        "Crypto.com"
-                    ]
-                }
-            ],
-            "clients": [],
-            "industry": [
-                {
-                    "id": "2026-07-26-industry-0",
-                    "title": "This Week in Stablecoins: Visa, Goldman and Samsung Raise the Stakes",
-                    "source": "Biztoc.com",
-                    "date": "2026-07-26",
-                    "url": "https://biztoc.com/x/4520f6f5d992851b",
-                    "category": "industry",
-                    "summary": "Visa、Goldman和Samsung在稳定币领域的动态引人关注。",
-                    "threatLevel": "high",
-                    "impact": [
-                        "市场趋势",
-                        "竞争格局"
-                    ],
-                    "action": "关注稳定币市场的变化与竞争对手动态",
-                    "subcategory": "stablecoin_payments",
-                    "subcategoryName": "稳定币支付",
-                    "tickers": [
-                        "Visa",
-                        "Goldman",
-                        "Samsung"
-                    ]
-                },
-                {
-                    "id": "2026-07-26-industry-1",
-                    "title": "Crypto markets in everything? (moo)",
-                    "source": "Marginalrevolution.com",
-                    "date": "2026-07-26",
-                    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/crypto-markets-in-everything.html",
-                    "category": "industry",
-                    "summary": "加密市场动态的概述",
-                    "threatLevel": "medium",
-                    "impact": [
-                        "市场趋势"
-                    ],
-                    "action": "",
-                    "subcategory": "regulation_licensing",
-                    "subcategoryName": "监管牌照"
-                },
-                {
-                    "id": "2026-07-26-industry-2",
-                    "title": "Strategy’s Saylor needs clarity in BTC pivot message to convince investors: StanChart",
-                    "source": "Activistpost.com",
-                    "date": "2026-07-26",
-                    "url": "https://www.activistpost.com/strategys-saylor-needs-clarity-in-btc-pivot-message-to-convince-investors-stanchart/",
-                    "category": "industry",
-                    "summary": "Saylor需要明确比特币策略以增强投资者信心。",
-                    "threatLevel": "medium",
-                    "impact": [
-                        "市场趋势",
-                        "竞争格局"
-                    ],
-                    "action": "",
-                    "subcategory": "funding_mna",
-                    "subcategoryName": "融资并购"
                 }
             ]
         }
