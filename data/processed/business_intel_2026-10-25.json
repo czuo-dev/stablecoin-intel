@@ -1,0 +1,1974 @@
+{
+  "competitors": [
+    {
+      "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+      "description": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money.",
+      "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-10-24T13:01:02",
+      "data_type": "rss",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "HSBC"
+      ],
+      "importance_score": 8,
+      "ai_summary": "汇丰银行在香港推出稳定币支付功能。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币和支付业务",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "市场定价",
+        "品牌影响"
+      ],
+      "suggested_action": "关注汇丰的稳定币动态，评估竞争策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "title": "Is Stripe's New Stablecoin Card a Major Threat to XRP? - The Motley Fool",
+      "description": "Is Stripe's New Stablecoin Card a Major Threat to XRP?&nbsp;&nbsp;The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNjdTX05LTGhzTk1UaUI0RDdvQXNWaWUtOXgzMlhPOTNOQl9rbkNpWElSVTJURDRWM1BFZVp3YkxpcTVSVTFJaVNQUTNkblVpTnBaVFlOSVdkaGJfWkVoRjA1bklJckFqN2dFTWZxMXZRZHVWUU5TVzJncWtUaGFZS2RnMmRETFBKR0xiYTZqSkswdDl6SUJuTw?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-10-24T11:10:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Stripe",
+        "XRP"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Stripe的新稳定币卡可能威胁XRP市场份额。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币和竞争对手",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "客户争夺",
+        "市场定价"
+      ],
+      "suggested_action": "关注Stripe动态，评估竞争策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "title": "Stripe and Plasma plan stablecoin cards for 100-plus countries by 2027 - Crypto Briefing",
+      "description": "Stripe and Plasma plan stablecoin cards for 100-plus countries by 2027&nbsp;&nbsp;Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wbE56c1pKQkQxU3ItbXZQZUtKNkFsMEJfdkIybXRNamFVVlFBVmNiekxmZ21uQXU1NU84MzZEaGMySjNIX1VmRExfYWFQeGhqNnJsYmlFbXFFNExGcWRhM0JRR24yUmY0SFBFMlN4Zw?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-10-24T12:57:04",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Stripe",
+        "Plasma"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Stripe和Plasma计划推出稳定币卡，涉及支付业务。",
+      "business_relevance": 0.8,
+      "relevance_reason": "提到稳定币卡",
+      "threat_level": "medium",
+      "impact_areas": [
+        "产品竞争",
+        "市场定价"
+      ],
+      "suggested_action": "关注竞争对手动态，优化自身产品。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "title": "BitGo Executives Discuss Custody and South Korea’s Institutional Crypto Readiness - www.tokenpost.com",
+      "description": "BitGo Executives Discuss Custody and South Korea’s Institutional Crypto Readiness&nbsp;&nbsp;www.tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwS3dTcFB2RmRFNGdQQmY2Vng4Z3NteFNFNVpYLU9YTkNZVDE5VnBVMWN2YjV5RjFMc0dKVVNpaEdVckw1NU1BQThNeDdTdDFhOXotWGx3eEI?oc=5",
+      "source": "Google News (crypto custody institution)",
+      "source_category": "google_news",
+      "published_at": "2026-10-24T09:23:37",
+      "data_type": "rss",
+      "search_keyword": "crypto custody institution",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "BitGo"
+      ],
+      "importance_score": 8,
+      "ai_summary": "BitGo高管讨论托管业务及韩国市场准备情况。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到托管业务",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "客户争夺",
+        "市场定价"
+      ],
+      "suggested_action": "关注BitGo动态，优化自身托管服务。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "title": "Western Union lets remittance recipients get paid in its own stablecoin - Startup Fortune",
+      "description": "Western Union lets remittance recipients get paid in its own stablecoin&nbsp;&nbsp;Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPamxFdFdWb25tMk9tV2l4ODlQN2tXN1RYLWY3OW01akd2LWJkd2wwTnhDeTdKYm5fVm5Cd2ZqMHFxSmQzLUpCVzFCdHBGRHlrVVN5aHY1U1ZuZEpxRjZ3ejZ5bEFZdGJGeWtDSWRFN0FhQlkzQ25CSmZuUFlHR1BsZjZhUHpTWXRYSW1Bb29JUHJUVTIxNkhSWXVYdTctdHgw?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-10-25T02:25:51",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Western Union"
+      ],
+      "importance_score": 8,
+      "ai_summary": "西联汇款允许用户以自有稳定币收款。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付业务",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "客户争夺",
+        "市场定价"
+      ],
+      "suggested_action": "关注西联汇款的稳定币策略，调整市场定位。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    }
+  ],
+  "clients": [],
+  "industry": [
+    {
+      "id": "news_807e7411e5a0",
+      "title": "3.3M users gain HSBC RedCoin, yet 1 strict rule blocks them",
+      "content": "Eligible users can activate RedCoin wallets for payments as access expands over coming days, while investment subscriptions remain planned for later in 2026.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. G…",
+      "url": "https://cryptoslate.com/3-3m-users-gain-hsbc-redcoin-yet-1-strict-rule-blocks-them/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam 'Akiba' Wright",
+      "published_at": "2026-10-24T02:20:15Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam 'Akiba' Wright",
+        "title": "3.3M users gain HSBC RedCoin, yet 1 strict rule blocks them",
+        "description": "Eligible users can activate RedCoin wallets for payments as access expands over coming days, while investment subscriptions remain planned for later in 2026.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. G…",
+        "url": "https://cryptoslate.com/3-3m-users-gain-hsbc-redcoin-yet-1-strict-rule-blocks-them/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/10/hsbc-redcoin-payme-standard.jpg",
+        "publishedAt": "2026-10-24T02:20:15Z",
+        "content": "HSBC began rolling out RedCoin (RCHKD), its Hong Kong dollar stablecoin, on Oct. 23 through its PayMe payments app, letting eligible users send tokens to other users and pay merchants.\r\nThe banks lau… [+2499 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "HSBC推出RedCoin，但存在监管限制。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，调整业务策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_c24bc46af5ce",
+      "title": "Chinese national extradited to US over alleged Cambodian crypto scam network",
+      "content": "The extradition highlights the global crackdown on crypto scams, emphasizing the need for international cooperation to combat financial fraud.\nThe post Chinese national extradited to US over alleged Cambodian crypto scam network appeared first on Crypto Brief…",
+      "url": "https://cryptobriefing.com/chinese-national-extradited-cambodian-crypto-scam/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-10-24T05:36:20Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Chinese national extradited to US over alleged Cambodian crypto scam network",
+        "description": "The extradition highlights the global crackdown on crypto scams, emphasizing the need for international cooperation to combat financial fraud.\nThe post Chinese national extradited to US over alleged Cambodian crypto scam network appeared first on Crypto Brief…",
+        "url": "https://cryptobriefing.com/chinese-national-extradited-cambodian-crypto-scam/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/24013614/library-chinese-national-extradited-to-us-over-alleged-cambodian-800x450.png",
+        "publishedAt": "2026-10-24T05:36:20Z",
+        "content": "Zheng Zhao faces a money laundering conspiracy charge tied to fake crypto trading sites that allegedly took more than $36.9 million from at least 174 Americans Zheng Zhao, a 44-year-old Chinese natio… [+3332 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "中国国民因涉嫌加密货币诈骗被引渡至美国。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币诈骗",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密货币监管政策变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_81bafb4bafa7",
+      "title": "JST Buyback & Burn Upgrade: GasFree Revenue and $20.34M Surplus Injected as JUST’s Ecosystem Trio Solidifies JST Token Value",
+      "content": "Summary: The upgraded JST Buyback and Burn program features the following highlights: $50M Treasury Reserve Cushion: Establishes a safety buffer for sustainable ecosystem operations. Expanded Funding Sources: Integrates GasFree revenue alongside JustLend and …",
+      "url": "https://cryptoslate.com/jst-buyback-burn-upgrade-gasfree-revenue-and-20-34m-surplus-injected-as-justs-ecosystem-trio-solidifies-jst-token-value/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "News Desk",
+      "published_at": "2026-10-24T06:38:41Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "News Desk",
+        "title": "JST Buyback & Burn Upgrade: GasFree Revenue and $20.34M Surplus Injected as JUST’s Ecosystem Trio Solidifies JST Token Value",
+        "description": "Summary: The upgraded JST Buyback and Burn program features the following highlights: $50M Treasury Reserve Cushion: Establishes a safety buffer for sustainable ecosystem operations. Expanded Funding Sources: Integrates GasFree revenue alongside JustLend and …",
+        "url": "https://cryptoslate.com/jst-buyback-burn-upgrade-gasfree-revenue-and-20-34m-surplus-injected-as-justs-ecosystem-trio-solidifies-jst-token-value/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/10/jst-buyback-burn-upgrade-gasfree-revenue-surplus.jpg",
+        "publishedAt": "2026-10-24T06:38:41Z",
+        "content": "Summary:\r\nThe upgraded JST Buyback and Burn program features the following highlights:\r\n<ul><li>$50M Treasury Reserve Cushion: Establishes a safety buffer for sustainable ecosystem operations.</li><l… [+9493 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "JUST生态系统升级增强了JST代币价值",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到稳定币生态系统",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币市场动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_95118696868e",
+      "title": "Arthur Hayes says high-FDV tokens no longer pump on Binance",
+      "content": "The shift away from high-FDV token pumps on Binance signals a potential move towards fairer token distribution models, impacting retail investor strategies.\nThe post Arthur Hayes says high-FDV tokens no longer pump on Binance appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/arthur-hayes-high-fdv-tokens-flop-labs/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-10-24T04:04:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Arthur Hayes says high-FDV tokens no longer pump on Binance",
+        "description": "The shift away from high-FDV token pumps on Binance signals a potential move towards fairer token distribution models, impacting retail investor strategies.\nThe post Arthur Hayes says high-FDV tokens no longer pump on Binance appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/arthur-hayes-high-fdv-tokens-flop-labs/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/24000355/library-arthur-hayes-says-high-fdv-tokens-no-longer-pump-on-bina-800x450.png",
+        "publishedAt": "2026-10-24T04:04:00Z",
+        "content": "The Flop Labs CEO argues VC presales have abused tokenomics at retail's expense, and pitches a 100% fair launch as the fix Arthur Hayes has a message for the token launch playbook the industry has ru… [+4031 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Arthur Hayes 指出高 FDV 代币在 Binance 上不再上涨。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态以调整策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_2a0de5385e1d",
+      "title": "A7 International: Global payments from crypto wallet to local fiat",
+      "content": "Transactions across borders have always been a challenge, plagued by slow bank transfers, endless paperwork, and hidden fees. A7 International changes that by bridging the gap between crypto and traditional banking.",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/a7-international-global-payments-from-crypto-wallet-to-local-fiat/articleshow/135148985.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "ET Spotlight",
+      "published_at": "2026-10-24T04:30:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "ET Spotlight",
+        "title": "A7 International: Global payments from crypto wallet to local fiat",
+        "description": "Transactions across borders have always been a challenge, plagued by slow bank transfers, endless paperwork, and hidden fees. A7 International changes that by bridging the gap between crypto and traditional banking.",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/a7-international-global-payments-from-crypto-wallet-to-local-fiat/articleshow/135148985.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-135149020,width-1200,height-900,imgsize-153866,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-10-24T04:30:00Z",
+        "content": "Traditional cross-border transactions often involve lengthy, complicated paperwork, resulting in slow processing times. What if this global cross-border payment was made seamless? Paying from a crypt… [+4058 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDT",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "A7 International 提供加密钱包到法币的全球支付服务。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及全球支付和加密钱包",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注全球支付市场的动态和技术进步",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_68a42d19b62e",
+      "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+      "content": "Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer.",
+      "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+      "source": "CoinDesk",
+      "source_type": "news",
+      "author": "Shaurya Malwa",
+      "published_at": "2026-10-24T04:45:43Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "Shaurya Malwa",
+        "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+        "description": "Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer.",
+        "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/38b95887c36694f1eb6785def8e9fef7464fc126-7680x4320.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+        "publishedAt": "2026-10-24T04:45:43Z",
+        "content": "Two batches of just over 72,184,793 shares followed at 02:58 and 04:13 UTC Thursday, each carrying a matching receipt code and a $1.039 share price.\r\nThe receipts leave the investors, funding source … [+1190 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Franklin Templeton"
+      ],
+      "importance_score": 7,
+      "ai_summary": "富兰克林邓普顿在XRP账本上增加投资。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注XRP生态系统的动态。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_667c1b9a7ee3",
+      "title": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
+      "content": "President Javier Milei’s role in cryptocurrency launch does not translate into a fraudulent scheme, judge says.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal",
+      "source": "Al Jazeera English",
+      "source_type": "news",
+      "author": "Al Jazeera Staff",
+      "published_at": "2026-10-24T01:21:18Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera Staff",
+        "title": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
+        "description": "President Javier Milei’s role in cryptocurrency launch does not translate into a fraudulent scheme, judge says.",
+        "url": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adbf52f2605-1792800047.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-10-24T01:21:18Z",
+        "content": "An Argentinian federal judge has dropped a criminal investigation into President Javier Milei and his sister Karina Milei over the collapse of a cryptocurrency he promoted online.\r\nJudge Marcelo Mart… [+2528 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "阿根廷法官终止对Milei的加密调查",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注阿根廷的加密监管动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_a6e1c9520f89",
+      "title": "Kalshi and Polymarket hit record $2.7 billion in weekly crypto volume",
+      "content": "The surge in crypto prediction market volume highlights a shift towards short-term speculative trading, impacting traditional trading dynamics.\nThe post Kalshi and Polymarket hit record $2.7 billion in weekly crypto volume appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/kalshi-polymarket-record-weekly-crypto-volume/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-10-24T05:01:26Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Kalshi and Polymarket hit record $2.7 billion in weekly crypto volume",
+        "description": "The surge in crypto prediction market volume highlights a shift towards short-term speculative trading, impacting traditional trading dynamics.\nThe post Kalshi and Polymarket hit record $2.7 billion in weekly crypto volume appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/kalshi-polymarket-record-weekly-crypto-volume/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/24010121/library-kalshi-and-polymarket-hit-record-2-7-billion-in-weekly-c-800x450.png",
+        "publishedAt": "2026-10-24T05:01:26Z",
+        "content": "Short-term Bitcoin price bets pushed crypto to the second most traded category on both prediction markets, behind only sports Crypto-related prediction market volume on Kalshi and Polymarket reached … [+2466 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Kalshi 和 Polymarket 创造了加密交易新纪录。",
+      "business_relevance": 0.5,
+      "relevance_reason": "一般加密货币新闻",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_01731e89daa2",
+      "title": "Argentina drops investigation into President Milei over crypto fraud",
+      "content": "Argentina drops investigation into President Milei over crypto fraud\nA criminal investigation into Argentine President Javier Milei and his sister's links to a cryptocurrency scandal has been dropped.\nThe case against Milei and his sister Karina Milei was dis…",
+      "url": "https://biztoc.com/x/ad247f45025e7692",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "bbc.com",
+      "published_at": "2026-10-24T00:43:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "bbc.com",
+        "title": "Argentina drops investigation into President Milei over crypto fraud",
+        "description": "Argentina drops investigation into President Milei over crypto fraud\nA criminal investigation into Argentine President Javier Milei and his sister's links to a cryptocurrency scandal has been dropped.\nThe case against Milei and his sister Karina Milei was dis…",
+        "url": "https://biztoc.com/x/ad247f45025e7692",
+        "urlToImage": "https://biztoc.com/cdn/ad247f45025e7692_s.webp",
+        "publishedAt": "2026-10-24T00:43:00Z",
+        "content": "Argentina drops investigation into President Milei over crypto fraudA criminal investigation into Argentine President Javier Milei and his sister's links to a cryptocurrency scandal has been dropped.… [+141 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "阿根廷停止对总统米莱的加密欺诈调查。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注阿根廷加密监管动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_9085c63a5c53",
+      "title": "Italy Dismantles Mafia-Linked Underground Bank Laundering $76,290,000 via Crypto",
+      "content": "Italian financial police busted a mafia-linked underground bank operating from a Milan-area car rental firm, arresting 30 people and seizing over €21 million in assets including cryptocurrency after uncovering €68 million in international laundering and over …",
+      "url": "https://dailyhodl.com/2026/10/24/italy-dismantles-mafia-linked-underground-bank-laundering-76290000-via-crypto/",
+      "source": "The Daily Hodl",
+      "source_type": "news",
+      "author": "Daily Hodl Agent",
+      "published_at": "2026-10-24T07:04:26Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Daily Hodl"
+        },
+        "author": "Daily Hodl Agent",
+        "title": "Italy Dismantles Mafia-Linked Underground Bank Laundering $76,290,000 via Crypto",
+        "description": "Italian financial police busted a mafia-linked underground bank operating from a Milan-area car rental firm, arresting 30 people and seizing over €21 million in assets including cryptocurrency after uncovering €68 million in international laundering and over …",
+        "url": "https://dailyhodl.com/2026/10/24/italy-dismantles-mafia-linked-underground-bank-laundering-76290000-via-crypto/",
+        "urlToImage": "https://dailyhodl.com/wp-content/uploads/2025/09/scam-fraud-attacks.jpg?resize=1365,800",
+        "publishedAt": "2026-10-24T07:04:26Z",
+        "content": "Italian financial police are dismantling a mafia-linked underground bank that allegedly laundered tens of millions of euros through cryptocurrencies, fake invoices, and cross-border transfers.\r\nThe G… [+2333 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "意大利打击与加密相关的洗钱活动。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密货币监管动态，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_e314ce28c923",
+      "title": "RED WALL CRACKS from TX to AK! Corruption haunts GOP from crypto to DOJ SCANDAL",
+      "content": "Republicans are on defense with 11 days until the midterms. MS NOW's Ari Melber is joined by political strategist Chai Komanduri ...",
+      "url": "https://biztoc.com/x/3441cf393fad037f",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "youtube.com",
+      "published_at": "2026-10-24T00:44:22Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "youtube.com",
+        "title": "RED WALL CRACKS from TX to AK! Corruption haunts GOP from crypto to DOJ SCANDAL",
+        "description": "Republicans are on defense with 11 days until the midterms. MS NOW's Ari Melber is joined by political strategist Chai Komanduri ...",
+        "url": "https://biztoc.com/x/3441cf393fad037f",
+        "urlToImage": "https://biztoc.com/cdn/3441cf393fad037f_s.webp",
+        "publishedAt": "2026-10-24T00:44:22Z",
+        "content": "Republicans are on defense with 11 days until the midterms. MS NOW's Ari Melber is joined by political strategist Chai Komanduri ...\r\nThis story appeared on youtube.com, 2026-10-24 00:27:45.",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "文章讨论了与加密相关的腐败问题和监管动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密监管变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_54590a01ba0d",
+      "title": "Wells Fargo, Arm and Intuit Reject Tokenized Shares on OKX-ICE",
+      "content": "Six more companies, including Wells Fargo (NYSE: $WFC), Arm Holdings (NASDAQ: $ARM) and Intuit (NASDAQ: $INTU), have told a joint venture of crypto exchange OKX and Intercontinental Exchange (NYSE: $ICE) that they will not allow their shares to be tokenized o…",
+      "url": "https://biztoc.com/x/a60a329b664ec376",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "finance.yahoo.com",
+      "published_at": "2026-10-24T06:50:16Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "Wells Fargo, Arm and Intuit Reject Tokenized Shares on OKX-ICE",
+        "description": "Six more companies, including Wells Fargo (NYSE: $WFC), Arm Holdings (NASDAQ: $ARM) and Intuit (NASDAQ: $INTU), have told a joint venture of crypto exchange OKX and Intercontinental Exchange (NYSE: $ICE) that they will not allow their shares to be tokenized o…",
+        "url": "https://biztoc.com/x/a60a329b664ec376",
+        "urlToImage": "https://biztoc.com/cdn/a60a329b664ec376_s.webp",
+        "publishedAt": "2026-10-24T06:50:16Z",
+        "content": "Six more companies, including Wells Fargo (NYSE: $WFC), Arm Holdings (NASDAQ: $ARM) and Intuit (NASDAQ: $INTU), have told a joint venture of crypto exchange OKX and Intercontinental Exchange (NYSE: $… [+146 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Wells Fargo",
+        "Arm",
+        "Intuit",
+        "OKX-ICE"
+      ],
+      "importance_score": 7,
+      "ai_summary": "多家公司拒绝在OKX-ICE上使用代币化股份。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注代币化股份的监管动态。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_6381af3823b1",
+      "title": "Class-action lawsuit filed against Canadian bitcoin firm Coinkite after $140-million hack",
+      "content": "A proposed class-action lawsuit has been filed against Toronto-based crypto wallet maker Coinkite Inc., alleging that negligence by the company and its co-founders allowed hackers to steal more than US$140-million worth of bitcoin from users.",
+      "url": "https://biztoc.com/x/7001f8c46384b0e5",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "theglobeandmail.com",
+      "published_at": "2026-10-24T00:27:32Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "theglobeandmail.com",
+        "title": "Class-action lawsuit filed against Canadian bitcoin firm Coinkite after $140-million hack",
+        "description": "A proposed class-action lawsuit has been filed against Toronto-based crypto wallet maker Coinkite Inc., alleging that negligence by the company and its co-founders allowed hackers to steal more than US$140-million worth of bitcoin from users.",
+        "url": "https://biztoc.com/x/7001f8c46384b0e5",
+        "urlToImage": "https://biztoc.com/cdn/7001f8c46384b0e5_s.webp",
+        "publishedAt": "2026-10-24T00:27:32Z",
+        "content": "A proposed class-action lawsuit has been filed against Toronto-based crypto wallet maker Coinkite Inc., alleging that negligence by the company and its co-founders allowed hackers to steal more than … [+108 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Coinkite"
+      ],
+      "importance_score": 7,
+      "ai_summary": "加拿大比特币公司Coinkite遭遇1.4亿黑客攻击。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币安全事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注行业安全标准的提升。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_fed8466c1e83",
+      "title": "Project to restore rare native trees with DNA testing",
+      "content": "Conservation groups say black poplars are endangered due to felling, land drainage and habitat loss.",
+      "url": "https://www.bbc.co.uk/news/articles/cw240ln41mq2o",
+      "source": "BBC News",
+      "source_type": "news",
+      "author": "https://www.facebook.com/bbcnews",
+      "published_at": "2026-10-24T06:17:32Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Project to restore rare native trees with DNA testing",
+        "description": "Conservation groups say black poplars are endangered due to felling, land drainage and habitat loss.",
+        "url": "https://www.bbc.co.uk/news/articles/cw240ln41mq2o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1970/live/5a7fc940-cee6-11f1-bdca-23c64447299f.jpg",
+        "publishedAt": "2026-10-24T06:17:32Z",
+        "content": "A project is aiming to help restore one of the UK's rare native trees across the Thames Valley using DNA testing.\r\nConservation groups have warned numbers of black poplar trees have fallen due to dec… [+1422 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_afa53dda7915",
+      "title": "Shedeur Sanders faces Browns demotion threat as Dillon Gabriel gets second-team reps",
+      "content": "Shedeur Sanders could be pushed further down the Cleveland Browns’ quarterback depth chart after Dillon Gabriel began taking second-team offensive reps in practice. Sanders has served as Deshaun Watson’s backup this season, but Gabriel’s increased involvement…",
+      "url": "https://www.hitc.com/shedeur-sanders-faces-browns-demotion-threat-as-dillon-gabriel-gets-second-team-reps/",
+      "source": "HITC - Football, Gaming, Movies, TV, Music",
+      "source_type": "news",
+      "author": "Aryan Chadha",
+      "published_at": "2026-10-24T04:25:46Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "HITC - Football, Gaming, Movies, TV, Music"
+        },
+        "author": "Aryan Chadha",
+        "title": "Shedeur Sanders faces Browns demotion threat as Dillon Gabriel gets second-team reps",
+        "description": "Shedeur Sanders could be pushed further down the Cleveland Browns’ quarterback depth chart after Dillon Gabriel began taking second-team offensive reps in practice. Sanders has served as Deshaun Watson’s backup this season, but Gabriel’s increased involvement…",
+        "url": "https://www.hitc.com/shedeur-sanders-faces-browns-demotion-threat-as-dillon-gabriel-gets-second-team-reps/",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/5b273510107f26a7fbded329777c4ab54363d89a2f9f75f58d0bc9909f16eaf0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2Fc894c2346ee5614c9281bfabc57abaa2.jpg",
+        "publishedAt": "2026-10-24T04:25:46Z",
+        "content": "Shedeur Sanders could be pushed further down the Cleveland Browns' quarterback depth chart after Dillon Gabriel began taking second-team offensive reps in practice.\r\nSanders has served as Deshaun Wat… [+2334 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_7684396ad0bc",
+      "title": "Advantage, Milwaukee: 4 Takeaways From The Brewers' World Series Game 1 Win",
+      "content": "The Brewers have a 1-0 lead in the World Series after holding off the Rays. Here are Deesha Thosar's takeaways.",
+      "url": "https://www.foxsports.com/stories/mlb/tampa-bay-rays-vs-milwaukee-brewers-world-series-game-1-takeaways-october-23",
+      "source": "Fox Sports",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-24T03:28:11Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "fox-sports",
+          "name": "Fox Sports"
+        },
+        "author": null,
+        "title": "Advantage, Milwaukee: 4 Takeaways From The Brewers' World Series Game 1 Win",
+        "description": "The Brewers have a 1-0 lead in the World Series after holding off the Rays. Here are Deesha Thosar's takeaways.",
+        "url": "https://www.foxsports.com/stories/mlb/tampa-bay-rays-vs-milwaukee-brewers-world-series-game-1-takeaways-october-23",
+        "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1294/728/863a2c9e-mlb-16x9-1.jpg?ve=1&tl=1",
+        "publishedAt": "2026-10-24T03:28:11Z",
+        "content": "American Family Field (MILWAUKEE) The Brewers waited 44 years for this, and in Game 1 of the World Series, they made it count.\r\nThe Brewers defeated the Tampa Bay Rays, 3-1, at American Family Field … [+8397 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [
+        "Vantage"
+      ],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_1ea9897404e5",
+      "title": "I sold to Visa for $2 billion. I could be on a beach right now, but I’m risking my own money to solve the problem that held my first company back",
+      "content": "Listen to European founders talk over dinner after a few glasses of wine, and you’d think the U.S. is a gung-ho frontier. The reality is different.",
+      "url": "https://fortune.com/2026/10/24/i-sold-to-visa-for-2-billion-founded-freda/",
+      "source": "Fortune",
+      "source_type": "news",
+      "author": "Daniel Kjellén",
+      "published_at": "2026-10-24T07:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "Daniel Kjellén",
+        "title": "I sold to Visa for $2 billion. I could be on a beach right now, but I’m risking my own money to solve the problem that held my first company back",
+        "description": "Listen to European founders talk over dinner after a few glasses of wine, and you’d think the U.S. is a gung-ho frontier. The reality is different.",
+        "url": "https://fortune.com/2026/10/24/i-sold-to-visa-for-2-billion-founded-freda/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/daniel-k.png?resize=1200,600",
+        "publishedAt": "2026-10-24T07:00:00Z",
+        "content": "A successful exit brings with it a world of possibilities. You can move your family halfway around the world, back the next generation of brilliant ideas, or never answer a work email again.My first … [+4884 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "Visa"
+      ],
+      "importance_score": 6,
+      "ai_summary": "企业家投资解决初创公司问题",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到解决企业问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注市场动态和技术创新",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_8c6d9a5ef6a8",
+      "title": "Upcoming Realme 17 Pro series phone's key specs leak",
+      "content": "Realme launched the Realme 16 Pro+ and the 16 Pro back in January, and now the first details about their successors are starting to show up. Today, a tipster on X has shared the key specs of an upcoming Realme handset that's said to be either the Realme 17 Pr…",
+      "url": "https://www.gsmarena.com/upcoming_realme_17_pro_series_phones_key_specs_leak-news-75192.php",
+      "source": "GSMArena.com",
+      "source_type": "news",
+      "author": "Vlad",
+      "published_at": "2026-10-24T01:01:02Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "GSMArena.com"
+        },
+        "author": "Vlad",
+        "title": "Upcoming Realme 17 Pro series phone's key specs leak",
+        "description": "Realme launched the Realme 16 Pro+ and the 16 Pro back in January, and now the first details about their successors are starting to show up. Today, a tipster on X has shared the key specs of an upcoming Realme handset that's said to be either the Realme 17 Pr…",
+        "url": "https://www.gsmarena.com/upcoming_realme_17_pro_series_phones_key_specs_leak-news-75192.php",
+        "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/10/realme-17-pro-specs-leak/-952x498w6/gsmarena_000.jpg",
+        "publishedAt": "2026-10-24T01:01:02Z",
+        "content": "Realme launched the Realme 16 Pro+ and the 16 Pro back in January, and now the first details about their successors are starting to show up. Today, a tipster on X has shared the key specs of an upcom… [+1091 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series A",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_0f2f1cb4b1bc",
+      "title": "‘Avengers: Doomsday’ World Series Sneak Peek Sees Mister Fantastic Throw Out First Pitch",
+      "content": "As the World Series got underway, MCU fans were treated to a new sneak peek at Avengers: Doomsday, premiering Dec. 18. During Friday’s Game 1, the MLB and the MCU teamed up for a special preview of the upcoming movie, in which Pedro Pascal’s Mister Fantastic …",
+      "url": "http://deadline.com/2026/10/avengers-doomsday-world-series-sneak-peek-1237172207/",
+      "source": "Deadline",
+      "source_type": "news",
+      "author": "Glenn Garner",
+      "published_at": "2026-10-24T01:01:53Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Deadline"
+        },
+        "author": "Glenn Garner",
+        "title": "‘Avengers: Doomsday’ World Series Sneak Peek Sees Mister Fantastic Throw Out First Pitch",
+        "description": "As the World Series got underway, MCU fans were treated to a new sneak peek at Avengers: Doomsday, premiering Dec. 18. During Friday’s Game 1, the MLB and the MCU teamed up for a special preview of the upcoming movie, in which Pedro Pascal’s Mister Fantastic …",
+        "url": "http://deadline.com/2026/10/avengers-doomsday-world-series-sneak-peek-1237172207/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/Avengers-Doomsday-World-Series.jpg?w=1024",
+        "publishedAt": "2026-10-24T01:01:53Z",
+        "content": "As the World Series got underway, MCU fans were treated to a new sneak peek at Avengers: Doomsday, premiering Dec. 18.\r\nDuring Friday’s Game 1, the MLB and the MCU teamed up for a special preview of … [+1698 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series A",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_020b13ede430",
+      "title": "News Summmary-Intelligence Report 10/23/2026*Newsdump Friday*Macron France Racist Attack*Church Attack Jordan*Ukraine War*Maine Tariff Tweak*Netanyahu's Threat*DOJ Alaska Senate Block*Ebola Spread*Brazil Election*Yemen War*",
+      "content": "US Director of National Intelligence Jay Clayton speaks of 'lethal plotting efforts' by Iranian agents... \"a planned terrorist act to kill our compatriots, our children, because of their skin color and religion they are given\" ...French President Emmanuel Mac…",
+      "url": "https://freerepublic.com/focus/f-bloggers/4400403/posts",
+      "source": "Freerepublic.com",
+      "source_type": "news",
+      "author": "Nextrush Free",
+      "published_at": "2026-10-24T05:39:09Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Freerepublic.com"
+        },
+        "author": "Nextrush Free",
+        "title": "News Summmary-Intelligence Report 10/23/2026*Newsdump Friday*Macron France Racist Attack*Church Attack Jordan*Ukraine War*Maine Tariff Tweak*Netanyahu's Threat*DOJ Alaska Senate Block*Ebola Spread*Brazil Election*Yemen War*",
+        "description": "US Director of National Intelligence Jay Clayton speaks of 'lethal plotting efforts' by Iranian agents... \"a planned terrorist act to kill our compatriots, our children, because of their skin color and religion they are given\" ...French President Emmanuel Mac…",
+        "url": "https://freerepublic.com/focus/f-bloggers/4400403/posts",
+        "urlToImage": null,
+        "publishedAt": "2026-10-24T05:39:09Z",
+        "content": "Skip to comments.\r\nNews Summmary-Intelligence Report 10/23/2026*Newsdump Friday*Macron France Racist Attack*Church Attack Jordan*Ukraine War*Maine Tariff Tweak*Netanyahu's Threat*DOJ Alaska Senate Bl… [+3216 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding funding round",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_494667f3d561",
+      "title": "How can the public sector pay deal get over the line?",
+      "content": "Pay remains at the top of the agenda, while the Government will have to clarify its demands for ‘productivity improvements’ in the public sector",
+      "url": "https://www.irishtimes.com/politics/2026/10/24/how-can-the-public-sector-pay-deal-get-over-the-line/",
+      "source": "The Irish Times",
+      "source_type": "news",
+      "author": "Emmet Malone",
+      "published_at": "2026-10-24T05:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-irish-times",
+          "name": "The Irish Times"
+        },
+        "author": "Emmet Malone",
+        "title": "How can the public sector pay deal get over the line?",
+        "description": "Pay remains at the top of the agenda, while the Government will have to clarify its demands for ‘productivity improvements’ in the public sector",
+        "url": "https://www.irishtimes.com/politics/2026/10/24/how-can-the-public-sector-pay-deal-get-over-the-line/",
+        "urlToImage": "https://www.irishtimes.com/resizer/v2/GOTZXHWK7NHRBOWWFOXVV46LZM.jpg?smart=true&auth=b8e3158b46baacba809d48f09cac8beaa37acb849a65aa154e14593f661f7e69&width=1200&height=630",
+        "publishedAt": "2026-10-24T05:00:00Z",
+        "content": "A unique aspect of the public sector pay talks that began on Monday, following the one-day strike on October 14th, is that there will be beneficiaries from any deal on both sides of the negotiating t… [+8966 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding funding round",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "探讨公共部门支付的挑战与解决方案。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及公共部门支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注公共部门支付的技术需求与趋势",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_c3ed98d1229a",
+      "title": "gato-mpc 0.1.4",
+      "content": "GPU-accelerated batched trajectory optimization",
+      "url": "https://pypi.org/project/gato-mpc/0.1.4/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-24T00:14:26Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "gato-mpc 0.1.4",
+        "description": "GPU-accelerated batched trajectory optimization",
+        "url": "https://pypi.org/project/gato-mpc/0.1.4/",
+        "urlToImage": null,
+        "publishedAt": "2026-10-24T00:14:26Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "MPC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "gato-mpc 0.1.4版本更新涉及MPC技术。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到MPC技术",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注MPC技术的应用和发展动态",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_56b68c052d76",
+      "title": "gato-mpc 0.1.5",
+      "content": "GPU-accelerated batched trajectory optimization",
+      "url": "https://pypi.org/project/gato-mpc/0.1.5/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-24T02:55:14Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "gato-mpc 0.1.5",
+        "description": "GPU-accelerated batched trajectory optimization",
+        "url": "https://pypi.org/project/gato-mpc/0.1.5/",
+        "urlToImage": null,
+        "publishedAt": "2026-10-24T02:55:14Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "MPC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "gato-mpc 0.1.5版本发布，涉及多签技术。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到MPC技术",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注MPC技术在托管中的应用",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_8737be166022",
+      "title": "When institutions fail, a generation pays",
+      "content": "Over a decade, the weakening of institutional checks has raised questions about accountability and democratic safeguards.",
+      "url": "https://timesofindia.indiatimes.com/toi-blogs/nation-notes/when-institutions-fail-a-generation-pays/articleshow/135162299.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "Pritam Singh",
+      "published_at": "2026-10-24T04:58:51Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Pritam Singh",
+        "title": "When institutions fail, a generation pays",
+        "description": "Over a decade, the weakening of institutional checks has raised questions about accountability and democratic safeguards.",
+        "url": "https://timesofindia.indiatimes.com/toi-blogs/nation-notes/when-institutions-fail-a-generation-pays/articleshow/135162299.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-135162373,width-1280,height-720,resizemode-6,overlay-toiblogs,pt-32,x_pad-1045,y_pad-670/photo.jpg",
+        "publishedAt": "2026-10-24T04:58:51Z",
+        "content": "Follow Us On Social Media\r\nCopyright © 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "金融机构的失败影响了年轻一代的经济状况。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到金融机构失败",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注金融机构动态对市场的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_101fb65da616",
+      "title": "Association pledges policy implementation",
+      "content": "An association of the National Institute for Policy and Strategic Studies has pledged to strengthen Nigeria’s policy implementation framework via a confere\n\nRead More: https://punchng.com/association-pledges-policy-implementation/",
+      "url": "https://punchng.com/association-pledges-policy-implementation/",
+      "source": "The Punch",
+      "source_type": "news",
+      "author": "Punch Newspapers",
+      "published_at": "2026-10-24T00:00:31Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Punch"
+        },
+        "author": "Punch Newspapers",
+        "title": "Association pledges policy implementation",
+        "description": "An association of the National Institute for Policy and Strategic Studies has pledged to strengthen Nigeria’s policy implementation framework via a confere\n\nRead More: https://punchng.com/association-pledges-policy-implementation/",
+        "url": "https://punchng.com/association-pledges-policy-implementation/",
+        "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/10/24012119/WhatsApp-Image-2026-10-20-at-19.05.39_1792801279.webp",
+        "publishedAt": "2026-10-24T00:00:31Z",
+        "content": "The Policy, Strategy and Leadership Course Association of the National Institute for Policy and Strategic Studies has pledged to strengthen Nigerias policy implementation framework through sustained … [+2457 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "协会承诺实施政策以推动加密监管。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注政策变化对业务的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_5c03f47c9fe1",
+      "title": "sasa – Launch once and go live on every chain simultaneously",
+      "content": "Launch once and go live on every chain simultaneously",
+      "url": "https://betalist.com/startups/sasa",
+      "source": "Betalist.com",
+      "source_type": "news",
+      "author": "BetaList",
+      "published_at": "2026-10-24T05:40:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Betalist.com"
+        },
+        "author": "BetaList",
+        "title": "sasa – Launch once and go live on every chain simultaneously",
+        "description": "Launch once and go live on every chain simultaneously",
+        "url": "https://betalist.com/startups/sasa",
+        "urlToImage": "https://resize.imagekit.co/UkepectDNbejzUFBQiczzIBClcfTaYjLLdkP-9cab8g/plain/s3://betalist-production/czc3pwn3lt0c06uqthq05skl7vtf",
+        "publishedAt": "2026-10-24T05:40:00Z",
+        "content": "sasa is a memecoin launchpad and trading app on four chains at once: Base, BNB Chain, Arc, and Robinhood Chain. Launch a coin once and it goes live on all four simultaneously. For five minutes, the c… [+450 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "该新闻涉及区块链基础设施的多链发布。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_5c6ad4a71379",
+      "title": "This Week in Plasma: Fixing All the Bugs, PiP, and Performance",
+      "content": "Welcome to a new issue of This Week in Plasma. And it’s going to be a big one, folks!\nThis week, a familiar pattern played out: people upgraded to Plasma 6.8 and found all the bugs that nobody reported during the beta period, and the Plasma team worked incred…",
+      "url": "https://blogs.kde.org/2026/10/24/this-week-in-plasma-fixing-all-the-bugs-pip-and-performance/",
+      "source": "Kde.org",
+      "source_type": "news",
+      "author": "Farid Abdelnour",
+      "published_at": "2026-10-24T00:00:01Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Kde.org"
+        },
+        "author": "Farid Abdelnour",
+        "title": "This Week in Plasma: Fixing All the Bugs, PiP, and Performance",
+        "description": "Welcome to a new issue of This Week in Plasma. And it’s going to be a big one, folks!\nThis week, a familiar pattern played out: people upgraded to Plasma 6.8 and found all the bugs that nobody reported during the beta period, and the Plasma team worked incred…",
+        "url": "https://blogs.kde.org/2026/10/24/this-week-in-plasma-fixing-all-the-bugs-pip-and-performance/",
+        "urlToImage": null,
+        "publishedAt": "2026-10-24T00:00:01Z",
+        "content": "Welcome to a new issue of This Week in Plasma. And its going to be a big one, folks!\r\nThis week, a familiar pattern played out: people upgraded to Plasma 6.8 and found all the bugs that nobody report… [+12965 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "本周技术进展与加密行业相关。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到技术发展",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注技术更新对市场的影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_847f9d1b59a4",
+      "title": "KRTALS Magnetic MagSafe Phone Wallet Card Holder w/ RFID Blocking (Various) $5.99 + Free Shipping w/ Prime or on $35+ (0 replies)",
+      "content": "KRTALS-US via Amazon [amazon.com] has KRTALS Magnetic MagSafe Phone Wallet Card Holder w/ RFID Blocking (Various) on sale for $8.99 - $3 off when you apply promo code GU325YS5 at checkout = $5.99. Shi",
+      "url": "https://slickdeals.net/f/20200176-krtals-magnetic-magsafe-phone-wallet-card-holder-w-rfid-blocking-various-5-99-free-shipping-w-prime-or-on-35",
+      "source": "Slickdeals.net",
+      "source_type": "news",
+      "author": "babgaly | Staff",
+      "published_at": "2026-10-24T03:40:48Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Slickdeals.net"
+        },
+        "author": "babgaly | Staff",
+        "title": "KRTALS Magnetic MagSafe Phone Wallet Card Holder w/ RFID Blocking (Various) $5.99 + Free Shipping w/ Prime or on $35+ (0 replies)",
+        "description": "KRTALS-US via Amazon [amazon.com] has KRTALS Magnetic MagSafe Phone Wallet Card Holder w/ RFID Blocking (Various) on sale for $8.99 - $3 off when you apply promo code GU325YS5 at checkout = $5.99. Shi",
+        "url": "https://slickdeals.net/f/20200176-krtals-magnetic-magsafe-phone-wallet-card-holder-w-rfid-blocking-various-5-99-free-shipping-w-prime-or-on-35",
+        "urlToImage": "https://slickdeals.net/attachment/9/3/0/4/6/1/9/450x450/22071771.thumb",
+        "publishedAt": "2026-10-24T03:40:48Z",
+        "content": "KRTALS-US via Amazon[amazon.com] has KRTALS Magnetic MagSafe Phone Wallet Card Holder w/ RFID Blocking (Various) on sale for $8.99 - $3 off when you apply promo code GU325YS5 at checkout = $5.99. Shi… [+989 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_2bac1d825fd4",
+      "title": "Piero Cipollone: Interview with Milano Finanza",
+      "content": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
+      "source": "Europa.eu",
+      "source_type": "news",
+      "author": "European Central Bank",
+      "published_at": "2026-10-24T06:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Europa.eu"
+        },
+        "author": "European Central Bank",
+        "title": "Piero Cipollone: Interview with Milano Finanza",
+        "description": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+        "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
+        "urlToImage": "https://www.ecb.europa.eu/press/inter/shared/img/socialmedia/social-default.jpg?58a9573de993c82d3c9e0b84d422b52a",
+        "publishedAt": "2026-10-24T06:00:00Z",
+        "content": "24 October 2026\r\nMr Cipollone, you have just attended a meeting of the Executive Committee of the Italian Banking Association. Was the digital euro one of the topics discussed?\r\nWe mainly talked abou… [+12002 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Piero Cipollone接受Milano Finanza采访，讨论加密行业动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币行业动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注行业动态以调整策略",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_ede63a35dcb5",
+      "title": "New York demands $1.3B from NovaTech and 11,000 victims face delay",
+      "content": "The October 22 motion follows a 2025 liability ruling, while separate promoter obligations include Ciceron’s installments through 2029.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in you…",
+      "url": "https://cryptoslate.com/new-york-demands-1-3b-from-novatech-and-11000-victims-face-delay/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam 'Akiba' Wright",
+      "published_at": "2026-10-24T05:50:59Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam 'Akiba' Wright",
+        "title": "New York demands $1.3B from NovaTech and 11,000 victims face delay",
+        "description": "The October 22 motion follows a 2025 liability ruling, while separate promoter obligations include Ciceron’s installments through 2029.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in you…",
+        "url": "https://cryptoslate.com/new-york-demands-1-3b-from-novatech-and-11000-victims-face-delay/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/10/novatech-legal-pressure.webp",
+        "publishedAt": "2026-10-24T05:50:59Z",
+        "content": "New York Attorney General Letitia James asked a state court on Oct. 22 to order cryptocurrency investment company NovaTech, its founders Cynthia and Eddy Petion, and related companies to pay more tha… [+2893 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "纽约对NovaTech的索赔涉及监管问题。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "Stablecoins Are Coming For Payments: US Bank Tests Cross-Border Transfers As Marqeta, BVNK Target Card Spending - Stocktwits",
+      "description": "Stablecoins Are Coming For Payments: US Bank Tests Cross-Border Transfers As Marqeta, BVNK Target Card Spending&nbsp;&nbsp;Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOU0ZhX29ObXVrV2NHb0d6dGVpQUZqMDZHNHc1WnMzR3hLQ2lRZUlkNWtvTEktckwyLW1vTDFmM3dWTV8zN1hlYTVaWGN3NFEtQ2pfa194YU5JbXUwbW9NODRlYWppOFRFTTljdGlDX0l1UlpPblE2YkFUdm5ubHozS05ONDJfcmJXLW1XSnN1MnJ6RV9mRnA0ZGp6NGx3MkJyak1mTnIyQm5yM1FFamN0Vmtrak5xM19hZVlSU0gydFZnWGozY1BfYktoeG80cGY2YXVKOU5HWm9ON1dYUkV1ODM2SFZRU1pCYlJTLTB5aw?oc=5",
+      "source": "Google News (cross-border stablecoin)",
+      "source_category": "google_news",
+      "published_at": "2026-10-24T20:11:50",
+      "data_type": "rss",
+      "search_keyword": "cross-border stablecoin",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "US Bank",
+        "Marqeta",
+        "BVNK"
+      ],
+      "importance_score": 7,
+      "ai_summary": "稳定币在跨境支付中的应用正在测试中。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币支付技术的发展动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Stablecoin Regulation Shifts as Qivalis Gets MiCA License - OneSafe.io",
+      "description": "Stablecoin Regulation Shifts as Qivalis Gets MiCA License&nbsp;&nbsp;OneSafe.io",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MRllPVHloVFhReXg4d04zR2Z0VGdTZ3huQlpSMGw3MHVkODVlXzNBaXJ1RVRvTDY5RGNERG1QUGVvTGJyb0owd0c2SHR3NWNfdFFVX0dvSjRvTFM1V1VybldPU2RNSG1kdFd1UFhjYTZ6WjdJeW9UeGFn?oc=5",
+      "source": "Google News (stablecoin license)",
+      "source_category": "google_news",
+      "published_at": "2026-10-25T02:07:26",
+      "data_type": "rss",
+      "search_keyword": "stablecoin license",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Qivalis"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Qivalis获得MiCA许可证，影响稳定币监管。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币监管动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管变化对业务的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Reserve Composition and Design in Stablecoin Regulation - orfonline.org",
+      "description": "Reserve Composition and Design in Stablecoin Regulation&nbsp;&nbsp;orfonline.org",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObF95UUtJM1NodkVkNGVjUmV5cW9uZnJsdDdMYjkzTVhlNmFXNzE5NWJxR19mdExJQTg5UXA3cDBNQnJBZEZDVl9vNmI5RGcxZTRxTU5xdVlqQTFxXzRwa250YlNUdnZNTWdfRDlUTmF3M2Zha3pIdFJjT2FydUhKRS0tVWVDNEFUaDZiZ2s3NTluYXVWUm55MEJn?oc=5",
+      "source": "Google News (stablecoin regulation Hong Kong)",
+      "source_category": "google_news",
+      "published_at": "2026-10-25T05:48:40",
+      "data_type": "rss",
+      "search_keyword": "stablecoin regulation Hong Kong",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "探讨稳定币的储备组成与设计监管问题。",
+      "business_relevance": 0.8,
+      "relevance_reason": "涉及稳定币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注稳定币监管政策变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    }
+  ]
+}
