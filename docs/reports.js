@@ -1,7 +1,27 @@
 const reports = [
     {
-        "date": "2026-10-23",
+        "date": "2026-10-30",
         "title": "稳定币行业周报 Week 1",
+        "period": "2026-10-24 至 2026-10-30",
+        "stats": {
+            "total_news": 348,
+            "total_tweets": 0,
+            "total_items": 348,
+            "by_category": {
+                "policy": 314,
+                "company": 32,
+                "funding": 2
+            }
+        },
+        "languages": [
+            "zh",
+            "en",
+            "es"
+        ]
+    },
+    {
+        "date": "2026-10-23",
+        "title": "稳定币行业周报 Week 2",
         "period": "2026-10-17 至 2026-10-23",
         "stats": {
             "total_news": 327,
@@ -21,7 +41,7 @@ const reports = [
     },
     {
         "date": "2026-10-16",
-        "title": "稳定币行业周报 Week 2",
+        "title": "稳定币行业周报 Week 3",
         "period": "2026-10-10 至 2026-10-16",
         "stats": {
             "total_news": 364,
@@ -41,7 +61,7 @@ const reports = [
     },
     {
         "date": "2026-10-09",
-        "title": "稳定币行业周报 Week 3",
+        "title": "稳定币行业周报 Week 4",
         "period": "2026-10-03 至 2026-10-09",
         "stats": {
             "total_news": 429,
@@ -61,7 +81,7 @@ const reports = [
     },
     {
         "date": "2026-10-02",
-        "title": "稳定币行业周报 Week 4",
+        "title": "稳定币行业周报 Week 5",
         "period": "2026-09-26 至 2026-10-02",
         "stats": {
             "total_news": 348,
@@ -81,7 +101,7 @@ const reports = [
     },
     {
         "date": "2026-09-25",
-        "title": "稳定币行业周报 Week 5",
+        "title": "稳定币行业周报 Week 6",
         "period": "2026-09-19 至 2026-09-25",
         "stats": {
             "total_news": 354,
@@ -101,7 +121,7 @@ const reports = [
     },
     {
         "date": "2026-09-18",
-        "title": "稳定币行业周报 Week 6",
+        "title": "稳定币行业周报 Week 7",
         "period": "2026-09-12 至 2026-09-18",
         "stats": {
             "total_news": 351,
@@ -121,7 +141,7 @@ const reports = [
     },
     {
         "date": "2026-09-11",
-        "title": "稳定币行业周报 Week 7",
+        "title": "稳定币行业周报 Week 8",
         "period": "2026-09-05 至 2026-09-11",
         "stats": {
             "total_news": 259,
@@ -141,7 +161,7 @@ const reports = [
     },
     {
         "date": "2026-09-04",
-        "title": "稳定币行业周报 Week 8",
+        "title": "稳定币行业周报 Week 9",
         "period": "2026-08-29 至 2026-09-04",
         "stats": {
             "total_news": 278,
@@ -161,7 +181,7 @@ const reports = [
     },
     {
         "date": "2026-08-28",
-        "title": "稳定币行业周报 Week 9",
+        "title": "稳定币行业周报 Week 10",
         "period": "2026-08-22 至 2026-08-28",
         "stats": {
             "total_news": 309,
@@ -181,7 +201,7 @@ const reports = [
     },
     {
         "date": "2026-08-21",
-        "title": "稳定币行业周报 Week 10",
+        "title": "稳定币行业周报 Week 11",
         "period": "2026-08-15 至 2026-08-21",
         "stats": {
             "total_news": 226,
@@ -201,7 +221,7 @@ const reports = [
     },
     {
         "date": "2026-08-14",
-        "title": "稳定币行业周报 Week 11",
+        "title": "稳定币行业周报 Week 12",
         "period": "2026-08-08 至 2026-08-14",
         "stats": {
             "total_news": 250,
@@ -221,7 +241,7 @@ const reports = [
     },
     {
         "date": "2026-08-07",
-        "title": "稳定币行业周报 Week 12",
+        "title": "稳定币行业周报 Week 13",
         "period": "2026-08-01 至 2026-08-07",
         "stats": {
             "total_news": 247,
@@ -241,7 +261,7 @@ const reports = [
     },
     {
         "date": "2026-07-31",
-        "title": "稳定币行业周报 Week 13",
+        "title": "稳定币行业周报 Week 14",
         "period": "2026-07-25 至 2026-07-31",
         "stats": {
             "total_news": 248,
@@ -261,7 +281,7 @@ const reports = [
     },
     {
         "date": "2026-07-24",
-        "title": "稳定币行业周报 Week 14",
+        "title": "稳定币行业周报 Week 15",
         "period": "2026-07-18 至 2026-07-24",
         "stats": {
             "total_news": 286,
@@ -281,7 +301,7 @@ const reports = [
     },
     {
         "date": "2026-07-17",
-        "title": "稳定币行业周报 Week 15",
+        "title": "稳定币行业周报 Week 16",
         "period": "2026-07-11 至 2026-07-17",
         "stats": {
             "total_news": 290,
@@ -301,7 +321,7 @@ const reports = [
     },
     {
         "date": "2026-07-10",
-        "title": "稳定币行业周报 Week 16",
+        "title": "稳定币行业周报 Week 17",
         "period": "2026-07-04 至 2026-07-10",
         "stats": {
             "total_news": 271,
@@ -321,7 +341,7 @@ const reports = [
     },
     {
         "date": "2026-07-03",
-        "title": "稳定币行业周报 Week 17",
+        "title": "稳定币行业周报 Week 18",
         "period": "2026-06-27 至 2026-07-03",
         "stats": {
             "total_news": 350,
@@ -341,7 +361,7 @@ const reports = [
     },
     {
         "date": "2026-06-26",
-        "title": "稳定币行业周报 Week 18",
+        "title": "稳定币行业周报 Week 19",
         "period": "2026-06-20 至 2026-06-26",
         "stats": {
             "total_news": 278,
@@ -361,7 +381,7 @@ const reports = [
     },
     {
         "date": "2026-06-19",
-        "title": "稳定币行业周报 Week 19",
+        "title": "稳定币行业周报 Week 20",
         "period": "2026-06-13 至 2026-06-19",
         "stats": {
             "total_news": 331,
@@ -381,7 +401,7 @@ const reports = [
     },
     {
         "date": "2026-06-12",
-        "title": "稳定币行业周报 Week 20",
+        "title": "稳定币行业周报 Week 21",
         "period": "2026-06-06 至 2026-06-12",
         "stats": {
             "total_news": 337,
@@ -401,7 +421,7 @@ const reports = [
     },
     {
         "date": "2026-06-05",
-        "title": "稳定币行业周报 Week 21",
+        "title": "稳定币行业周报 Week 22",
         "period": "2026-05-30 至 2026-06-05",
         "stats": {
             "total_news": 319,
@@ -421,7 +441,7 @@ const reports = [
     },
     {
         "date": "2026-05-29",
-        "title": "稳定币行业周报 Week 22",
+        "title": "稳定币行业周报 Week 23",
         "period": "2026-05-23 至 2026-05-29",
         "stats": {
             "total_news": 265,
@@ -441,7 +461,7 @@ const reports = [
     },
     {
         "date": "2026-05-22",
-        "title": "稳定币行业周报 Week 23",
+        "title": "稳定币行业周报 Week 24",
         "period": "2026-05-16 至 2026-05-22",
         "stats": {
             "total_news": 322,
@@ -461,7 +481,7 @@ const reports = [
     },
     {
         "date": "2026-05-15",
-        "title": "稳定币行业周报 Week 24",
+        "title": "稳定币行业周报 Week 25",
         "period": "2026-05-09 至 2026-05-15",
         "stats": {
             "total_news": 298,
@@ -481,7 +501,7 @@ const reports = [
     },
     {
         "date": "2026-05-08",
-        "title": "稳定币行业周报 Week 25",
+        "title": "稳定币行业周报 Week 26",
         "period": "2026-05-02 至 2026-05-08",
         "stats": {
             "total_news": 268,
@@ -501,7 +521,7 @@ const reports = [
     },
     {
         "date": "2026-05-01",
-        "title": "稳定币行业周报 Week 26",
+        "title": "稳定币行业周报 Week 27",
         "period": "2026-04-25 至 2026-05-01",
         "stats": {
             "total_news": 306,
@@ -521,7 +541,7 @@ const reports = [
     },
     {
         "date": "2026-04-24",
-        "title": "稳定币行业周报 Week 27",
+        "title": "稳定币行业周报 Week 28",
         "period": "2026-04-18 至 2026-04-24",
         "stats": {
             "total_news": 287,
@@ -541,7 +561,7 @@ const reports = [
     },
     {
         "date": "2026-04-17",
-        "title": "稳定币行业周报 Week 28",
+        "title": "稳定币行业周报 Week 29",
         "period": "2026-04-11 至 2026-04-17",
         "stats": {
             "total_news": 310,
@@ -561,7 +581,7 @@ const reports = [
     },
     {
         "date": "2026-04-10",
-        "title": "稳定币行业周报 Week 29",
+        "title": "稳定币行业周报 Week 30",
         "period": "2026-04-04 至 2026-04-10",
         "stats": {
             "total_news": 258,
@@ -581,7 +601,7 @@ const reports = [
     },
     {
         "date": "2026-04-03",
-        "title": "稳定币行业周报 Week 30",
+        "title": "稳定币行业周报 Week 31",
         "period": "2026-03-28 至 2026-04-03",
         "stats": {
             "total_news": 257,
@@ -601,7 +621,7 @@ const reports = [
     },
     {
         "date": "2026-03-27",
-        "title": "稳定币行业周报 Week 31",
+        "title": "稳定币行业周报 Week 32",
         "period": "2026-03-21 至 2026-03-27",
         "stats": {
             "total_news": 240,
@@ -621,7 +641,7 @@ const reports = [
     },
     {
         "date": "2026-03-20",
-        "title": "稳定币行业周报 Week 32",
+        "title": "稳定币行业周报 Week 33",
         "period": "2026-03-14 至 2026-03-20",
         "stats": {
             "total_news": 256,
@@ -641,7 +661,7 @@ const reports = [
     },
     {
         "date": "2026-03-13",
-        "title": "稳定币行业周报 Week 33",
+        "title": "稳定币行业周报 Week 34",
         "period": "2026-03-07 至 2026-03-13",
         "stats": {
             "total_news": 289,
@@ -661,7 +681,7 @@ const reports = [
     },
     {
         "date": "2026-03-06",
-        "title": "稳定币行业周报 Week 34",
+        "title": "稳定币行业周报 Week 35",
         "period": "2026-02-28 至 2026-03-06",
         "stats": {
             "total_news": 266,
@@ -681,7 +701,7 @@ const reports = [
     },
     {
         "date": "2026-02-27",
-        "title": "稳定币行业周报 Week 35",
+        "title": "稳定币行业周报 Week 36",
         "period": "2026-02-21 至 2026-02-27",
         "stats": {
             "total_news": 260,
@@ -701,7 +721,7 @@ const reports = [
     },
     {
         "date": "2026-02-20",
-        "title": "稳定币行业周报 Week 36",
+        "title": "稳定币行业周报 Week 37",
         "period": "2026-02-14 至 2026-02-20",
         "stats": {
             "total_news": 249,
@@ -721,7 +741,7 @@ const reports = [
     },
     {
         "date": "2026-02-13",
-        "title": "稳定币行业周报 Week 37",
+        "title": "稳定币行业周报 Week 38",
         "period": "2026-02-07 至 2026-02-13",
         "stats": {
             "total_news": 243,
@@ -741,7 +761,7 @@ const reports = [
     },
     {
         "date": "2026-02-06",
-        "title": "稳定币行业周报 Week 38",
+        "title": "稳定币行业周报 Week 39",
         "period": "2026-01-31 至 2026-02-06",
         "stats": {
             "total_news": 0,
@@ -757,7 +777,7 @@ const reports = [
     },
     {
         "date": "2026-01-30",
-        "title": "稳定币行业周报 Week 39",
+        "title": "稳定币行业周报 Week 40",
         "period": "2026-01-24 至 2026-01-30",
         "stats": {
             "total_news": 0,
@@ -773,7 +793,7 @@ const reports = [
     },
     {
         "date": "2026-01-23",
-        "title": "稳定币行业周报 Week 40",
+        "title": "稳定币行业周报 Week 41",
         "period": "2026-01-17 至 2026-01-23",
         "stats": {
             "total_news": 0,
@@ -789,7 +809,7 @@ const reports = [
     },
     {
         "date": "2026-01-21",
-        "title": "稳定币行业周报 Week 41",
+        "title": "稳定币行业周报 Week 42",
         "period": "2026-01-15 至 2026-01-21",
         "stats": {
             "total_news": 0,
@@ -805,7 +825,7 @@ const reports = [
     },
     {
         "date": "2026-01-20",
-        "title": "稳定币行业周报 Week 42",
+        "title": "稳定币行业周报 Week 43",
         "period": "2026-01-14 至 2026-01-20",
         "stats": {
             "total_news": 20,
