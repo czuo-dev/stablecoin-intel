@@ -1,0 +1,3214 @@
+{
+  "competitors": [],
+  "clients": [],
+  "industry": [
+    {
+      "id": "news_ec507f80c3ec",
+      "title": "Live updates: Binance $6.3B hack linked to North Korea’s TraderTraitor",
+      "content": "Follow live updates as Binance says $6.3 billion in assets have been stolen in a major hack. Around $3 billion in stolen funds have been frozen.",
+      "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Felix Ng",
+      "published_at": "2026-10-30T07:33:15Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Felix Ng",
+        "title": "Live updates: Binance $6.3B hack linked to North Korea’s TraderTraitor",
+        "description": "Follow live updates as Binance says $6.3 billion in assets have been stolen in a major hack. Around $3 billion in stolen funds have been frozen.",
+        "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65VKEHPWZPADDH0AZM1CR3Q/trying-to-open-monitor-1.jpg",
+        "publishedAt": "2026-10-30T07:33:15Z",
+        "content": "What we know about the Binance hack: \r\n<ul><li>Binance says the estimated total impact is around $6.3 billion and the verified total value of crypto frozen is $3 billion. This could increase as inves… [+14225 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "BitGo",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Binance遭黑客攻击，影响行业安全信任。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币安全事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全事件对市场信任的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_4a23f6811e0f",
+      "title": "Crypto exchange Binance freezes assets after $6.3 billion security breach",
+      "content": "By Mrinmay Dey and Vallari Srivastava Oct 29 (Reuters) - Binance, the world's largest cryptocurrency exchange, said a security breach had resulted in an estimated $6.3 billion impact that analysts said could amount to the biggest crypto heist ever and might m…",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/tether-circle-freeze-2-38-222607515.html",
+      "source": "Yahoo Entertainment",
+      "source_type": "news",
+      "author": "By Mrinmay Dey and Vallari Srivastava",
+      "published_at": "2026-10-30T03:06:05Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "By Mrinmay Dey and Vallari Srivastava",
+        "title": "Crypto exchange Binance freezes assets after $6.3 billion security breach",
+        "description": "By Mrinmay Dey and Vallari Srivastava Oct 29 (Reuters) - Binance, the world's largest cryptocurrency exchange, said a security breach had resulted in an estimated $6.3 billion impact that analysts said could amount to the biggest crypto heist ever and might m…",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/tether-circle-freeze-2-38-222607515.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/d3dfac6035048ab7bebf36db3fcdaab37a682236dec4c991a80e5142c9450596/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3604ef58c6d5b71420816d21e9982b5f.jpg",
+        "publishedAt": "2026-10-30T03:06:05Z",
+        "content": "By Mrinmay Dey and Vallari Srivastava\r\nOct 29 (Reuters) - Binance, the world's largest cryptocurrency exchange, said a security breach had resulted in an estimated $6.3 billion impact that analysts s… [+5113 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "BitGo",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "币安因安全漏洞冻结资产，影响行业信心。",
+      "business_relevance": 0.7,
+      "relevance_reason": "交易所动态影响市场",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全措施和合规动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_71363168ecac",
+      "title": "Crypto exchange Binance freezes assets after US$6.3 billion security breach",
+      "content": "Beyond the potential loss of assets, the security breach was likely to have wider ramifications for crypto, which had already been under pressure lately due to higher US interest rates and softer demand from exchange-traded fund buyers, analysts said.",
+      "url": "https://www.channelnewsasia.com/world/cryptocurrency-binance-freezes-assets-security-breach-6505586",
+      "source": "CNA",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-30T01:45:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CNA"
+        },
+        "author": null,
+        "title": "Crypto exchange Binance freezes assets after US$6.3 billion security breach",
+        "description": "Beyond the potential loss of assets, the security breach was likely to have wider ramifications for crypto, which had already been under pressure lately due to higher US interest rates and softer demand from exchange-traded fund buyers, analysts said.",
+        "url": "https://www.channelnewsasia.com/world/cryptocurrency-binance-freezes-assets-security-breach-6505586",
+        "urlToImage": "https://dam.mediacorp.sg/image/upload/s--ANn4Y3Ku--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-20T211746Z_1_LYNXMPEM7J1MN_RTROPTP_3_CRYPTOCURRENCY-BINANCE-RUSSIA.JPG?itok=hdzXwlCU",
+        "publishedAt": "2026-10-30T01:45:00Z",
+        "content": "Stablecoin issuer Tether said it had frozen nearly US$1.57 billion in assets linked to the incident, while Circle froze more than US$800 million.\r\nWorld Liberty Financial, a crypto company linked to … [+1683 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "BitGo",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "币安因安全漏洞冻结资产，影响行业信心。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注行业安全标准提升",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_b2ab2f4e8a23",
+      "title": "Binance freezes assets after US$6.3 billion heist",
+      "content": "May have started with hacked laptop of single engineer.",
+      "url": "https://www.itnews.com.au/news/binance-freezes-assets-after-us63-billion-heist-630029?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "source": "iTnews",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-30T06:37:12Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "iTnews"
+        },
+        "author": null,
+        "title": "Binance freezes assets after US$6.3 billion heist",
+        "description": "May have started with hacked laptop of single engineer.",
+        "url": "https://www.itnews.com.au/news/binance-freezes-assets-after-us63-billion-heist-630029?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+        "urlToImage": "https://i.nextmedia.com.au/News/hashing hash alorgithm encryption crypto.jpg",
+        "publishedAt": "2026-10-30T06:37:12Z",
+        "content": "Hackers stole US$6.3 billion ($8.96 billion) from Binance, the world's largest cryptocurrency exchange, in what analysts say is the ⁠biggest crypto hack ever, ⁠an attack that could prompt investors t… [+4916 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "BitGo",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance因黑客事件冻结资产，影响行业安全性和信任度。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注行业安全性变化，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_d7de3ff99e35",
+      "title": "Binance freezes $3 billion in assets after suspected hack",
+      "content": "Binance, the world's largest cryptocurrency exchange, said it had frozen $3 billion in crypto assets as it investigated a potential security breach, with stablecoin issuers Circle and Tether freezing related assets.",
+      "url": "https://www.rte.ie/news/business/2026/1030/1597305-binance-bitcoin-world/",
+      "source": "RTE",
+      "source_type": "news",
+      "author": "RTÉ News",
+      "published_at": "2026-10-30T03:24:32Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "rte",
+          "name": "RTE"
+        },
+        "author": "RTÉ News",
+        "title": "Binance freezes $3 billion in assets after suspected hack",
+        "description": "Binance, the world's largest cryptocurrency exchange, said it had frozen $3 billion in crypto assets as it investigated a potential security breach, with stablecoin issuers Circle and Tether freezing related assets.",
+        "url": "https://www.rte.ie/news/business/2026/1030/1597305-binance-bitcoin-world/",
+        "urlToImage": "https://www.rte.ie/images/00175e17-1600.jpg",
+        "publishedAt": "2026-10-30T03:24:32Z",
+        "content": "Binance, the world's largest cryptocurrency exchange, said it had frozen $3 billion in crypto assets as it investigated a potential security breach, with stablecoin issuers Circle and Tether freezing… [+4391 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "BitGo",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance因疑似黑客攻击冻结30亿美元资产。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注交易所安全动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_a4cde1b1696e",
+      "title": "Lula's 4th term offers fresh push to India-Brazil ties",
+      "content": "Luiz Inacio Lula da Silva's fourth Presidential term is expected to enhance India-Brazil relations significantly. His personal commitment to strengthening ties with New Delhi aligns with the need for UN Security Council reforms. Brazil's National Security Adv…",
+      "url": "https://economictimes.indiatimes.com/news/india/lulas-4th-term-offers-fresh-push-to-india-brazil-ties/articleshow/135338959.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "Bikash Singh",
+      "published_at": "2026-10-30T02:10:08Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Bikash Singh",
+        "title": "Lula's 4th term offers fresh push to India-Brazil ties",
+        "description": "Luiz Inacio Lula da Silva's fourth Presidential term is expected to enhance India-Brazil relations significantly. His personal commitment to strengthening ties with New Delhi aligns with the need for UN Security Council reforms. Brazil's National Security Adv…",
+        "url": "https://economictimes.indiatimes.com/news/india/lulas-4th-term-offers-fresh-push-to-india-brazil-ties/articleshow/135338959.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-135338958,width-1200,height-900,imgsize-77386,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-10-30T02:10:08Z",
+        "content": "New Delhi: Luiz Inacio Lula da Silva's landmark fourth Presidential term has the promise to elevate India-Brazil ties to the next level given the 80-year-old leader's personal interest in furthering … [+1986 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "Copper",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "巴西与印度关系加强可能影响支付行业",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及国际关系与支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注印度与巴西的支付合作动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_51a973ee5a0c",
+      "title": "BINANCE hacked as Bitcoin investors panic... Developing...",
+      "content": "BINANCE hacked as Bitcoin investors panic... Developing...\r\n\n \n \n \n (Third column, 1st story, link)\r\n\n \r\n\n \r\n\n \n \n Drudge Report Feed needs your support!   Become a Patron",
+      "url": "https://www.cnbc.com/2026/10/30/bitcoin-ether-price-binance-security-scare-rattles-crypto-markets.html",
+      "source": "CNBC",
+      "source_type": "news",
+      "author": "Lee Ying Shan",
+      "published_at": "2026-10-30T01:43:36Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Lee Ying Shan",
+        "title": "BINANCE hacked as Bitcoin investors panic... Developing...",
+        "description": "BINANCE hacked as Bitcoin investors panic... Developing...\r\n\n \n \n \n (Third column, 1st story, link)\r\n\n \r\n\n \r\n\n \n \n Drudge Report Feed needs your support!   Become a Patron",
+        "url": "https://www.cnbc.com/2026/10/30/bitcoin-ether-price-binance-security-scare-rattles-crypto-markets.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108373743-1791342277720-gettyimages-2296543585-img_3420.jpeg?v=1793320464&w=1920&h=1080",
+        "publishedAt": "2026-10-30T01:43:36Z",
+        "content": "Bitcoin fell below $78,000 on Friday as concerns over a potential security breach at cryptocurrency exchange Binance rattled digital asset markets, prompting several major crypto firms to freeze bill… [+2102 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "币安被黑客攻击引发市场恐慌。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场反应，评估潜在影响",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_bf3ba3c1ab2f",
+      "title": "Tether, Circle freeze $2.38 billion after Binance reports security incident",
+      "content": "Tether, which issues the world's ‌largest stablecoin, says it froze ​nearly $1.57 billion related to the hack, with Circle freezing ⁠over $800 million",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/cryptocurrency/tether-circle-freeze-238-billion-after-binance-reports-security-incident/article71643597.ece",
+      "source": "BusinessLine",
+      "source_type": "news",
+      "author": "Reuters",
+      "published_at": "2026-10-30T04:46:44Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": "Reuters",
+        "title": "Tether, Circle freeze $2.38 billion after Binance reports security incident",
+        "description": "Tether, which issues the world's ‌largest stablecoin, says it froze ​nearly $1.57 billion related to the hack, with Circle freezing ⁠over $800 million",
+        "url": "https://www.thehindubusinessline.com/money-and-banking/cryptocurrency/tether-circle-freeze-238-billion-after-binance-reports-security-incident/article71643597.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-news/tlku6e/article70567681.ece/alternates/LANDSCAPE_1200/Stablecoins%E2%80%99-deG3SFGO9KO.5.jpg.jpg",
+        "publishedAt": "2026-10-30T04:46:44Z",
+        "content": "Circle and Tether on\r\nThursday froze over $2.38 billion in stablecoin currency after\r\nBinance said it was actively investigating a potential security\r\nissue.\r\nBinance, the world's largest cryptocurre… [+1047 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Tether",
+        "Circle",
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Tether和Circle冻结资金与交易所安全事件有关。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币和交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币的监管动态和市场反应。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_06e67d65a9b9",
+      "title": "Billions stolen from Binance in largest ever crypto hack",
+      "content": "Up to $8.9 billion in crypto funds have been stolen from the cryptocurrency exchange, with approximately $4.2 billion frozen.",
+      "url": "https://www.abc.net.au/news/2026-10-30/largest-cryptocurrency-hack-billions-stolen-binance/107327732",
+      "source": "ABC News (AU)",
+      "source_type": "news",
+      "author": "Ange Lavoipierre",
+      "published_at": "2026-10-30T04:02:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "abc-news-au",
+          "name": "ABC News (AU)"
+        },
+        "author": "Ange Lavoipierre",
+        "title": "Billions stolen from Binance in largest ever crypto hack",
+        "description": "Up to $8.9 billion in crypto funds have been stolen from the cryptocurrency exchange, with approximately $4.2 billion frozen.",
+        "url": "https://www.abc.net.au/news/2026-10-30/largest-cryptocurrency-hack-billions-stolen-binance/107327732",
+        "urlToImage": "https://live-production.wcms.abc-cdn.net.au/f2d1862c8ecf2f039ad4053209ccc27b?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=513&width=862&height=485&imformat=generic",
+        "publishedAt": "2026-10-30T04:02:00Z",
+        "content": "Cryptocurrency exchange Binance has suffered the largest hack in the sector's history, with attackers attempting to steal $US6.3 billion ($8.9 billion) in digital funds this morning.\r\nThe true scale … [+3178 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Binance遭遇历史最大黑客攻击，影响行业安全信任。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币安全事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全合规措施的加强。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_31a7558578e0",
+      "title": "The $6.3 Billion Binance Hack: Why Gold and Silver Are the Only Safe Haven",
+      "content": "Introduction: The $6.3 Billion Binance Hack The world’s largest cryptocurrency exchange just suffered what may be the single largest heist in financial history. Early reports point to a staggering $6.3 billion in losses, and the fallout is still being tallied…",
+      "url": "https://www.naturalnews.com/2026-10-30-why-gold-silver-are-only-safe-haven.html",
+      "source": "Naturalnews.com",
+      "source_type": "news",
+      "author": "Mike Adams",
+      "published_at": "2026-10-30T06:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Naturalnews.com"
+        },
+        "author": "Mike Adams",
+        "title": "The $6.3 Billion Binance Hack: Why Gold and Silver Are the Only Safe Haven",
+        "description": "Introduction: The $6.3 Billion Binance Hack The world’s largest cryptocurrency exchange just suffered what may be the single largest heist in financial history. Early reports point to a staggering $6.3 billion in losses, and the fallout is still being tallied…",
+        "url": "https://www.naturalnews.com/2026-10-30-why-gold-silver-are-only-safe-haven.html",
+        "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/binance-hack-crypto-exchange-vulnerability-self-custody-5899-1793344310323-9c8f1227-original.jpg",
+        "publishedAt": "2026-10-30T06:00:00Z",
+        "content": "Introduction: The $6.3 Billion Binance Hack\r\nThe world's largest cryptocurrency exchange just suffered what may be the single largest heist in financial history. Early reports point to a staggering $… [+9798 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "币安黑客事件引发对安全的关注。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币安全问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注行业安全标准的提升",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_ab2d3ea83eba",
+      "title": "Binance Estimates $6.3 Billion Hacked in Crypto’s Biggest-Ever Heist",
+      "content": "Binance, the world’s largest cryptocurrency exchange, has suffered the industry’s biggest-ever hack in a fresh blow to efforts to push digital assets into the mainstream.Binance Holdings on Friday said $6.3 billion worth of funds were affected, with $3 billio…",
+      "url": "https://www.insurancejournal.com/news/international/2026/10/30/890894.htm",
+      "source": "Insurance Journal",
+      "source_type": "news",
+      "author": "admin",
+      "published_at": "2026-10-30T07:41:43Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Insurance Journal"
+        },
+        "author": "admin",
+        "title": "Binance Estimates $6.3 Billion Hacked in Crypto’s Biggest-Ever Heist",
+        "description": "Binance, the world’s largest cryptocurrency exchange, has suffered the industry’s biggest-ever hack in a fresh blow to efforts to push digital assets into the mainstream.Binance Holdings on Friday said $6.3 billion worth of funds were affected, with $3 billio…",
+        "url": "https://www.insurancejournal.com/news/international/2026/10/30/890894.htm",
+        "urlToImage": "https://www.insurancejournal.com/app/uploads/2026/10/binance-logo-bloomberg-scaled.jpg",
+        "publishedAt": "2026-10-30T07:41:43Z",
+        "content": "Binance, the world’s largest cryptocurrency exchange, has suffered the industry’s biggest-ever hack in a fresh blow to efforts to push digital assets into the mainstream.Binance Holdings on Friday sa… [+5545 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "币安遭遇历史最大黑客事件，损失63亿美元。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币黑客事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全性提升与合规措施",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_b73a5039c353",
+      "title": "Suspected Billion-Dollar Binance Hack Sends Fear Through Crypto",
+      "content": "A suspected hack impacting billions of dollars of funds on the Binance crypto exchange spurred emergency asset freezes and sent the price of digital assets tumbling. Executives of the world’s biggest trading venue for the currencies said they were investigati…",
+      "url": "https://www.insurancejournal.com/news/national/2026/10/30/890876.htm",
+      "source": "Insurance Journal",
+      "source_type": "news",
+      "author": "Admin",
+      "published_at": "2026-10-30T05:09:07Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Insurance Journal"
+        },
+        "author": "Admin",
+        "title": "Suspected Billion-Dollar Binance Hack Sends Fear Through Crypto",
+        "description": "A suspected hack impacting billions of dollars of funds on the Binance crypto exchange spurred emergency asset freezes and sent the price of digital assets tumbling. Executives of the world’s biggest trading venue for the currencies said they were investigati…",
+        "url": "https://www.insurancejournal.com/news/national/2026/10/30/890876.htm",
+        "urlToImage": "https://www.insurancejournal.com/app/uploads/2023/11/Binance-Bloomberg-scaled.jpg",
+        "publishedAt": "2026-10-30T05:09:07Z",
+        "content": "A suspected hack impacting billions of dollars of funds on the Binance crypto exchange spurred emergency asset freezes and sent the price of digital assets tumbling. Executives of the world’s biggest… [+3891 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "币安遭遇十亿美元黑客攻击，引发市场恐慌。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币安全事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全措施和市场反应",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_efa1dfb12cc0",
+      "title": "Massive Crypto Heist Hits Binance, Could Be Biggest Ever",
+      "content": "Binance may have just set a record no one wants. Hackers are believed to have siphoned off $6.3 billion from the world's largest cryptocurrency exchange on Thursday, in what would be by far the biggest crypto theft to date, the Wall Street Journal reports. \"I…",
+      "url": "https://www.newser.com/story/399061/massive-crypto-heist-hits-binance-could-be-biggest-ever.html",
+      "source": "Newser",
+      "source_type": "news",
+      "author": "Evann Gastaldo with Newser.AI",
+      "published_at": "2026-10-30T05:30:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Newser"
+        },
+        "author": "Evann Gastaldo with Newser.AI",
+        "title": "Massive Crypto Heist Hits Binance, Could Be Biggest Ever",
+        "description": "Binance may have just set a record no one wants. Hackers are believed to have siphoned off $6.3 billion from the world's largest cryptocurrency exchange on Thursday, in what would be by far the biggest crypto theft to date, the Wall Street Journal reports. \"I…",
+        "url": "https://www.newser.com/story/399061/massive-crypto-heist-hits-binance-could-be-biggest-ever.html",
+        "urlToImage": "https://cdn.newser.com/image/1721180-12-20261030003000.jpeg",
+        "publishedAt": "2026-10-30T05:30:00Z",
+        "content": "Binance may have just set a record no one wants. Hackers are believed to have siphoned off $6.3 billion from the world's largest cryptocurrency exchange on Thursday, in what would be by far the bigge… [+824 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance遭遇大规模黑客攻击，可能是史上最大盗窃事件。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全措施和市场反应。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_e9b386e90b8d",
+      "title": "The $6.3 billion Binance hack: What we know so far about the biggest crypto heist in history",
+      "content": "There are unconfirmed reports North Korea is behind the massive hack.",
+      "url": "https://fortune.com/2026/10/30/what-we-know-about-binance-hack-biggest-crypto-heist/",
+      "source": "Fortune",
+      "source_type": "news",
+      "author": "Jeff John Roberts",
+      "published_at": "2026-10-30T05:49:46Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "Jeff John Roberts",
+        "title": "The $6.3 billion Binance hack: What we know so far about the biggest crypto heist in history",
+        "description": "There are unconfirmed reports North Korea is behind the massive hack.",
+        "url": "https://fortune.com/2026/10/30/what-we-know-about-binance-hack-biggest-crypto-heist/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2275037810.jpg?resize=1200,600",
+        "publishedAt": "2026-10-30T05:49:46Z",
+        "content": "The crypto world is reeling after a hacker drained billions of dollars from Binance, the worlds largest digital currency exchange, on Thursday. The full details of the hack are still emerging, but th… [+4182 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Binance遭遇历史上最大黑客攻击事件。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全性提升和监管政策变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_12e08599840c",
+      "title": "Silicon Valley shifts AI funding to crypto using an Ethereum ICO blueprint",
+      "content": "Its October startup request pairs blockchain capital raising with stablecoins, trading and agent infrastructure ahead of a November 2 deadline.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalys…",
+      "url": "https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Gino Matos",
+      "published_at": "2026-10-30T00:40:53Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Gino Matos",
+        "title": "Silicon Valley shifts AI funding to crypto using an Ethereum ICO blueprint",
+        "description": "Its October startup request pairs blockchain capital raising with stablecoins, trading and agent infrastructure ahead of a November 2 deadline.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalys…",
+        "url": "https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/10/yc-crypto-startup-request-standard.jpg",
+        "publishedAt": "2026-10-30T00:40:53Z",
+        "content": "Y Combinator wants to fund crypto startups that make AI fundraising easier, expand stablecoin banking, and build financial tools for agents, according to its October request for founders.\r\nVisiting p… [+3834 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "硅谷将AI融资转向加密货币领域",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币融资动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注加密融资动态，调整策略",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_4ff711766c4c",
+      "title": "Binance Hacked for $5.8B, Binance Says User Funds Are Safe",
+      "content": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. If confirmed stolen, the amount would far exceed the $1.5 billion sto…",
+      "url": "https://www.nextbigfuture.com/2026/10/binance-hacked-for-5-8b-binance-says-user-funds-are-safe.html",
+      "source": "Next Big Future",
+      "source_type": "news",
+      "author": "Brian Wang",
+      "published_at": "2026-10-30T02:24:31Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "next-big-future",
+          "name": "Next Big Future"
+        },
+        "author": "Brian Wang",
+        "title": "Binance Hacked for $5.8B, Binance Says User Funds Are Safe",
+        "description": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. If confirmed stolen, the amount would far exceed the $1.5 billion sto…",
+        "url": "https://www.nextbigfuture.com/2026/10/binance-hacked-for-5-8b-binance-says-user-funds-are-safe.html",
+        "urlToImage": null,
+        "publishedAt": "2026-10-30T02:24:31Z",
+        "content": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history.\r\nIf confi… [+1802 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance遭黑客攻击，用户资金安全。",
+      "business_relevance": 0.7,
+      "relevance_reason": "交易所动态影响市场",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场对安全性的反应和监管动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_a89004aeb9ba",
+      "title": "Crypto platform Binance confirms major hack, more than US$2.5 billion frozen",
+      "content": "The company posted a series of sometimes contradictory messages on X, insisting that \"user funds are completely safe\" but also saying it would \"cover all losses\".",
+      "url": "https://www.channelnewsasia.com/world/cryptocurrency-binance-hack-funds-losses-6505586",
+      "source": "CNA",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-30T01:45:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CNA"
+        },
+        "author": null,
+        "title": "Crypto platform Binance confirms major hack, more than US$2.5 billion frozen",
+        "description": "The company posted a series of sometimes contradictory messages on X, insisting that \"user funds are completely safe\" but also saying it would \"cover all losses\".",
+        "url": "https://www.channelnewsasia.com/world/cryptocurrency-binance-hack-funds-losses-6505586",
+        "urlToImage": "https://dam.mediacorp.sg/image/upload/s--ANn4Y3Ku--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-20T211746Z_1_LYNXMPEM7J1MN_RTROPTP_3_CRYPTOCURRENCY-BINANCE-RUSSIA.JPG?itok=hdzXwlCU",
+        "publishedAt": "2026-10-30T01:45:00Z",
+        "content": "NEW YORK: Cryptocurrency platform Binance said on Thursday (Oct 29) that it had fallen victim to a major hack and indicated that more than US$2.5 billion in funds had been frozen in an effort to prev… [+2559 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "币安确认遭遇重大黑客攻击，冻结超过25亿美元资产。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场反应及安全措施的变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_0a3e604e7060",
+      "title": "Binance crypto platform suspends trades amid suspected hack",
+      "content": "The platform suspended some trading while crypto companies froze billions in their respective currencies. The full extent of the possible hack was not yet clear.",
+      "url": "https://www.dw.com/en/binance-crypto-platform-suspends-trades-amid-suspected-hack/a-79803280",
+      "source": "DW (English)",
+      "source_type": "news",
+      "author": "Alex Berry",
+      "published_at": "2026-10-30T00:55:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "DW (English)"
+        },
+        "author": "Alex Berry",
+        "title": "Binance crypto platform suspends trades amid suspected hack",
+        "description": "The platform suspended some trading while crypto companies froze billions in their respective currencies. The full extent of the possible hack was not yet clear.",
+        "url": "https://www.dw.com/en/binance-crypto-platform-suspends-trades-amid-suspected-hack/a-79803280",
+        "urlToImage": "https://static.dw.com/image/67520947_6.jpg",
+        "publishedAt": "2026-10-30T00:55:00Z",
+        "content": "The world's largest cryptocurrency platform, Binance, confirmed on Thursday that it was investigating a potential security breach.\r\n\"It does look like a hack on Binance,\" said former company chief Ch… [+1894 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "币安因疑似黑客攻击暂停交易，影响市场信心。",
+      "business_relevance": 0.7,
+      "relevance_reason": "交易所动态影响市场",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场反应及用户信任变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_7b2c5ba68008",
+      "title": "Circle starts cutting legacy USDC app transfer limits on October 31",
+      "content": "Legacy USDC integrations face shrinking capacity ahead of Dec. 1, while Circle plans to keep pending redemptions available during the wind-down.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Cataly…",
+      "url": "https://cryptoslate.com/circle-starts-cutting-legacy-usdc-app-transfer-limits-on-october-31/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam 'Akiba' Wright",
+      "published_at": "2026-10-30T05:00:43Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam 'Akiba' Wright",
+        "title": "Circle starts cutting legacy USDC app transfer limits on October 31",
+        "description": "Legacy USDC integrations face shrinking capacity ahead of Dec. 1, while Circle plans to keep pending redemptions available during the wind-down.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Cataly…",
+        "url": "https://cryptoslate.com/circle-starts-cutting-legacy-usdc-app-transfer-limits-on-october-31/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/10/cctp-legacy-migration-route.webp",
+        "publishedAt": "2026-10-30T05:00:43Z",
+        "content": "Circle plans to begin winding down the legacy version of its Cross-Chain Transfer Protocol (CCTP V1) on Oct. 31, leaving applications that still use it facing tighter USDC transfer limits before a pl… [+4687 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Circle"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Circle将于10月31日降低USDC应用的转账限制。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币转账限制",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场转账政策变化，评估影响。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_61a43d59f52f",
+      "title": "Crypto platform Binance targeted with major hack that hit over $6bn in funds",
+      "content": "Binance said all deposits and withdrawals had been “temporarily suspended”.",
+      "url": "https://www.thejournal.ie/binance-crypto-hack-7209671-Oct2026/",
+      "source": "TheJournal.ie",
+      "source_type": "news",
+      "author": "AFP",
+      "published_at": "2026-10-30T07:08:03Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "TheJournal.ie"
+        },
+        "author": "AFP",
+        "title": "Crypto platform Binance targeted with major hack that hit over $6bn in funds",
+        "description": "Binance said all deposits and withdrawals had been “temporarily suspended”.",
+        "url": "https://www.thejournal.ie/binance-crypto-hack-7209671-Oct2026/",
+        "urlToImage": "https://img2.thejournal.ie/article/7209671/river/?height=400&version=7209680",
+        "publishedAt": "2026-10-30T07:08:03Z",
+        "content": "CRYPTOCURRENCY PLATFORM BINANCE said on Thursday it had fallen victim to a major hack that hit around $6.3 billion (5.66 billion) in funds, with about half that amount frozen to prevent a massive the… [+3327 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "币安遭遇重大黑客攻击，损失超60亿美元。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全性提升和市场反应",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_f4b1dfeef6dd",
+      "title": "Binance Says $3 Billion Frozen After Hack’s $6.3 Billion Estimated Impact",
+      "content": "Binance says about $3 billion is frozen on-chain after a hack with an estimated $6.3 billion impact; the exchange says users will not bear losses.\nThe post Binance Says $3 Billion Frozen After Hack’s $6.3 Billion Estimated Impact appeared first on Bitcoin Fou…",
+      "url": "https://bitcoinfoundation.org/news/crypto-exchanges/binance-says-3-billion-frozen-after-hacks-6-3-billion-estimated-impact/",
+      "source": "Bitcoinfoundation.org",
+      "source_type": "news",
+      "author": "Eddie Muller",
+      "published_at": "2026-10-30T04:53:42Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Bitcoinfoundation.org"
+        },
+        "author": "Eddie Muller",
+        "title": "Binance Says $3 Billion Frozen After Hack’s $6.3 Billion Estimated Impact",
+        "description": "Binance says about $3 billion is frozen on-chain after a hack with an estimated $6.3 billion impact; the exchange says users will not bear losses.\nThe post Binance Says $3 Billion Frozen After Hack’s $6.3 Billion Estimated Impact appeared first on Bitcoin Fou…",
+        "url": "https://bitcoinfoundation.org/news/crypto-exchanges/binance-says-3-billion-frozen-after-hacks-6-3-billion-estimated-impact/",
+        "urlToImage": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/binance-says-3-billion-frozen-after-hacks-6-3-billion-estimated-impact.webp",
+        "publishedAt": "2026-10-30T04:53:42Z",
+        "content": "The Binance $6.3 billion hack has forced the exchange to suspend deposits and withdrawals, with Binance tracing unauthorized transactions from the security breach and working with blockchain partners… [+12187 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "币安因黑客事件冻结30亿美元资金。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场安全性和合规性变化。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_5ff4d9430e06",
+      "title": "Binance hack began with a $296 million XRP drain after 36-hour preparation",
+      "content": "The Binance attacker spent at least 36 hours preparing for the $6.36 billion crypto exchange hack that began with $296 million in XRP. According to an Oct. 29 investigation by TRM Labs, the attacker began preparing the operation on Oct. 28 before executing co…",
+      "url": "https://cryptoslate.com/binance-hack-began-with-a-296-million-xrp-drain-after-36-hour-preparation/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Oluwapelumi Adejumo",
+      "published_at": "2026-10-30T05:40:52Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Oluwapelumi Adejumo",
+        "title": "Binance hack began with a $296 million XRP drain after 36-hour preparation",
+        "description": "The Binance attacker spent at least 36 hours preparing for the $6.36 billion crypto exchange hack that began with $296 million in XRP. According to an Oct. 29 investigation by TRM Labs, the attacker began preparing the operation on Oct. 28 before executing co…",
+        "url": "https://cryptoslate.com/binance-hack-began-with-a-296-million-xrp-drain-after-36-hour-preparation/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/10/binance-wallet-drain-cover.webp",
+        "publishedAt": "2026-10-30T05:40:52Z",
+        "content": "The Binance attacker spent at least 36 hours preparing for the $6.36 billion crypto exchange hack that began with $296 million in XRP.\r\nAccording to an Oct. 29 investigation by TRM Labs, the attacker… [+3530 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance遭遇黑客攻击，影响行业安全性。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注行业安全性提升的趋势。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_3ab3f8b9c209",
+      "title": "Cryptocurrency exchange Binance suspends trading amid a suspected cyberattack now linked to North Korea",
+      "content": "Crypto platform Binance has suspended trading following a suspected hack now linked to North Korea. The disruption has left users unable to trade on the cryptocurrency platform while the suspected breach is investigated. The world's largest cryptocurrency pla…",
+      "url": "https://www.dw.com/en/cryptocurrency-exchange-binance-suspends-trading-amid-a-suspected-cyberattack-now-linked-to-north-korea/a-79803280",
+      "source": "DW (English)",
+      "source_type": "news",
+      "author": "Alex Berry, Richard Connor",
+      "published_at": "2026-10-30T00:55:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "DW (English)"
+        },
+        "author": "Alex Berry, Richard Connor",
+        "title": "Cryptocurrency exchange Binance suspends trading amid a suspected cyberattack now linked to North Korea",
+        "description": "Crypto platform Binance has suspended trading following a suspected hack now linked to North Korea. The disruption has left users unable to trade on the cryptocurrency platform while the suspected breach is investigated. The world's largest cryptocurrency pla…",
+        "url": "https://www.dw.com/en/cryptocurrency-exchange-binance-suspends-trading-amid-a-suspected-cyberattack-now-linked-to-north-korea/a-79803280",
+        "urlToImage": "https://static.dw.com/image/67520947_6.jpg",
+        "publishedAt": "2026-10-30T00:55:00Z",
+        "content": "Blockchain analysts said a North Korean hacking unit was likely behind the theft of more than $6 billion from Binance, the world's largest cryptocurrency exchange.\r\nBinance temporarily suspended depo… [+3137 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "币安因网络攻击暂停交易，影响行业信心。",
+      "business_relevance": 0.7,
+      "relevance_reason": "交易所动态影响市场",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场反应，评估潜在影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_ea221575ed0f",
+      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+      "content": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets.\n\nThe world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen on-chain so far. \n\nT…",
+      "url": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+      "source": "Internet",
+      "source_type": "news",
+      "author": "info@thehackernews.com (The Hacker News)",
+      "published_at": "2026-10-30T04:14:59Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Internet"
+        },
+        "author": "info@thehackernews.com (The Hacker News)",
+        "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+        "description": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets.\n\nThe world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen on-chain so far. \n\nT…",
+        "url": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+        "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmTtJggkBbk2ERH6bhZMSPnb_E1aQ44w4EpzkwAt1tqp45sGvG7jeAg2QvmbWQsBy5hyphenhyphen7ur18XQ1Uax7D9XRg-CZpQpMAByXt37Fn1loBClsu49KlBEsnxRCfy7vSuI-5yrpHB4JLWc1vtw0aITnhbFXDb4CosJzm07My3Lw6p3fOLTfcaxJLBR-Pdi2A6/s1700-nu-rw-lo-l85-e365/Binance.jpg",
+        "publishedAt": "2026-10-30T04:14:59Z",
+        "content": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets.\r\nThe world's biggest cryptocurrency exchange said nearly $3 b… [+1689 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDT",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "币安遭遇安全漏洞，影响资产冻结。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币安全事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全性提升和市场反应。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_9e0a25c340af",
+      "title": "Crypto firms freeze billions amid suspected Binance hack",
+      "content": "Circle, Tether and Ripple move to block funds linked to a possible Binance hack as investigators track billions in cryptocurrency and major digital assets decline.",
+      "url": "https://www.israelnationalnews.com/news/435377",
+      "source": "Israelnationalnews.com",
+      "source_type": "news",
+      "author": "Israel National News",
+      "published_at": "2026-10-30T00:05:10Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Israelnationalnews.com"
+        },
+        "author": "Israel National News",
+        "title": "Crypto firms freeze billions amid suspected Binance hack",
+        "description": "Circle, Tether and Ripple move to block funds linked to a possible Binance hack as investigators track billions in cryptocurrency and major digital assets decline.",
+        "url": "https://www.israelnationalnews.com/news/435377",
+        "urlToImage": "https://2.a7.org/files/pictures/000/1047145.jpg",
+        "publishedAt": "2026-10-30T00:05:10Z",
+        "content": "Major cryptocurrency companies moved Thursday to freeze billions of dollars in digital assets potentially connected to a security breach at Binance, the world's largest cryptocurrency exchange by dai… [+1619 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDT",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "加密公司因疑似黑客事件冻结资金。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注监管政策变化对市场的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_d840a3049e20",
+      "title": "Binance crypto exchange suspends trades over North Korea-linked hack",
+      "content": "Crypto platform Binance has suspended trading following a suspected hack now linked to North Korea. The disruption has left users unable to trade on the cryptocurrency platform while the suspected breach is investigated. Blockchain analysts said a North Korea…",
+      "url": "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280",
+      "source": "DW (English)",
+      "source_type": "news",
+      "author": "Alex Berry, Richard Connor",
+      "published_at": "2026-10-30T00:55:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "DW (English)"
+        },
+        "author": "Alex Berry, Richard Connor",
+        "title": "Binance crypto exchange suspends trades over North Korea-linked hack",
+        "description": "Crypto platform Binance has suspended trading following a suspected hack now linked to North Korea. The disruption has left users unable to trade on the cryptocurrency platform while the suspected breach is investigated. Blockchain analysts said a North Korea…",
+        "url": "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280",
+        "urlToImage": "https://static.dw.com/image/67520947_6.jpg",
+        "publishedAt": "2026-10-30T00:55:00Z",
+        "content": "Blockchain analysts said a North Korean hacking unit was likely behind the theft of more than $6 billion from Binance, the world's largest cryptocurrency exchange.\r\nBinance temporarily suspended depo… [+3010 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDT",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "币安因与朝鲜相关的黑客攻击暂停交易。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注交易所安全性和合规性动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_1395700c816f",
+      "title": "North Korea linked to $6.3B Binance hack by crypto investigators",
+      "content": "TRM Labs says it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address.",
+      "url": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Felix Ng",
+      "published_at": "2026-10-30T05:51:41Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Felix Ng",
+        "title": "North Korea linked to $6.3B Binance hack by crypto investigators",
+        "description": "TRM Labs says it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address.",
+        "url": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65N1W42V728M2XGSHNH0A01/hi-north-korea-own-crypto.jpg",
+        "publishedAt": "2026-10-30T05:51:41Z",
+        "content": "Cybersecurity researchers from TRM Labs and Chainalysis, along with onchain investigator ZachXBT, have linked the $6.3 billion Binance hack to North Koreas TraderTraitor group.\r\nTRM Labs attributed t… [+1582 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "北朝鲜与Binance黑客事件相关联。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币安全事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注加密货币安全监管动态。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_5e0b1461b319",
+      "title": "Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO",
+      "content": "Blockaid CEO Ido Ben-Natan says the suspected Binance hack may involve compromised signing infrastructure rather than stolen private keys, drawing parallels to Bybit.",
+      "url": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Felix Ng",
+      "published_at": "2026-10-30T00:11:26Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Felix Ng",
+        "title": "Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO",
+        "description": "Blockaid CEO Ido Ben-Natan says the suspected Binance hack may involve compromised signing infrastructure rather than stolen private keys, drawing parallels to Bybit.",
+        "url": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6527RDQRJD95JK0XDRPNDD2/key.jpg",
+        "publishedAt": "2026-10-30T00:11:26Z",
+        "content": "The suspected multi-billion-dollar Binance hack may have involved attackers manipulating the exchanges transaction-signing signature rather than stealing private keys, according to Blockaid co-founde… [+2322 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance黑客事件可能涉及私钥滥用。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注行业安全动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_dc76fd69c1ef",
+      "title": "Coinbase Cuts Trading Reliance as Subscription and Services Revenue Nears 50%",
+      "content": "Coinbase furthered its effort to diversify its revenue in the third quarter, with subscription and services revenue growing to account for 49% of the company’s net revenue, executives said in a Thursday (Oct. 29) earnings presentation. Subscription and servic…",
+      "url": "https://www.pymnts.com/earnings/2026/coinbase-cuts-trading-reliance-as-subscription-and-services-revenue-nears-50/",
+      "source": "pymnts.com",
+      "source_type": "news",
+      "author": "PYMNTS",
+      "published_at": "2026-10-30T00:58:53Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "pymnts.com"
+        },
+        "author": "PYMNTS",
+        "title": "Coinbase Cuts Trading Reliance as Subscription and Services Revenue Nears 50%",
+        "description": "Coinbase furthered its effort to diversify its revenue in the third quarter, with subscription and services revenue growing to account for 49% of the company’s net revenue, executives said in a Thursday (Oct. 29) earnings presentation. Subscription and servic…",
+        "url": "https://www.pymnts.com/earnings/2026/coinbase-cuts-trading-reliance-as-subscription-and-services-revenue-nears-50/",
+        "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/02/Coinbase-stock-trading-1.jpg",
+        "publishedAt": "2026-10-30T00:58:53Z",
+        "content": "Coinbase furthered its effort to diversify its revenue in the third quarter, with subscription and services revenue growing to account for 49% of the companys net revenue, executives said in a Thursd… [+2359 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "stablecoin payment",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Coinbase"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Coinbase减少对交易的依赖，服务收入接近50%。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场变化，调整业务策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_77d23e630920",
+      "title": "Best AI trading platform 2026 – 7 tools compared for stocks, crypto, forex, and Beginners",
+      "content": "Choosing an ai trading platform starts with the job, not the brand. Trade Ideas suits active stock scanning, while TrendSpider covers broader technical research. Capitalise.ai...\nThe post Best AI trading platform 2026 – 7 tools compared for stocks, crypto, fo…",
+      "url": "https://bitcoinfoundation.org/news/ai/best-ai-trading-platform/",
+      "source": "Bitcoinfoundation.org",
+      "source_type": "news",
+      "author": "Eddie Muller",
+      "published_at": "2026-10-30T07:23:04Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Bitcoinfoundation.org"
+        },
+        "author": "Eddie Muller",
+        "title": "Best AI trading platform 2026 – 7 tools compared for stocks, crypto, forex, and Beginners",
+        "description": "Choosing an ai trading platform starts with the job, not the brand. Trade Ideas suits active stock scanning, while TrendSpider covers broader technical research. Capitalise.ai...\nThe post Best AI trading platform 2026 – 7 tools compared for stocks, crypto, fo…",
+        "url": "https://bitcoinfoundation.org/news/ai/best-ai-trading-platform/",
+        "urlToImage": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/best-ai-trading-platform-01.webp",
+        "publishedAt": "2026-10-30T07:23:04Z",
+        "content": "Choosing an ai trading platform starts with the job, not the brand. Trade Ideas suits active stock scanning, while TrendSpider covers broader technical research. Capitalise.ai removes coding from rul… [+26862 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "stablecoin payment",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "比较了多种AI交易平台的动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币交易平台",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注AI交易平台的发展动态。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_7f536adac5d1",
+      "title": "Crypto giant Binance freezes $2.5bn of assests over suspected hack",
+      "content": "The firm said deposits and withdrawals are suspended while its teams conduct security checks and will \"cover all losses\".",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
+      "source": "BBC News",
+      "source_type": "news",
+      "author": "https://www.facebook.com/bbcnews",
+      "published_at": "2026-10-30T00:37:59Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Crypto giant Binance freezes $2.5bn of assests over suspected hack",
+        "description": "The firm said deposits and withdrawals are suspended while its teams conduct security checks and will \"cover all losses\".",
+        "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a0f/live/12c05980-d3f5-11f1-8635-ad8ba8dceb2e.jpg",
+        "publishedAt": "2026-10-30T00:37:59Z",
+        "content": "Cryptocurrency giant Binance said on Thursday that it has frozen digital assets worth more than $2.5bn (£1.87bn) to prevent them from being stolen while it investigates a security issue.\r\nThe company… [+927 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "币安因疑似黑客攻击冻结25亿美元资产。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注加密货币交易所的安全监管动态。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_5edac8796303",
+      "title": "Binance says $2.54bn in crypto funds frozen amid ‘potential security issue’",
+      "content": "Binance founder says world's largest crypto exchange appears to have been hacked.",
+      "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue",
+      "source": "Al Jazeera English",
+      "source_type": "news",
+      "author": "John Power",
+      "published_at": "2026-10-30T00:29:24Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": "John Power",
+        "title": "Binance says $2.54bn in crypto funds frozen amid ‘potential security issue’",
+        "description": "Binance founder says world's largest crypto exchange appears to have been hacked.",
+        "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26302822880513-1793319025.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-10-30T00:29:24Z",
+        "content": "Cryptocurrency exchange Binance has said at least $2.54 bn in funds have been frozen following a potential security issue.\r\nThe worlds largest crypto exchange said on Thursday that it was investigati… [+772 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance 冻结大量加密资金，可能影响行业信心。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场反应，评估潜在影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_5fc0470fa587",
+      "title": "In the year AI re-wrote the infosec rulebook, it’s comforting to know crypto exchanges still have bad security",
+      "content": "Binance freezes funny money after compromise of engineer’s laptop leads to $6.3 billion of bad trades",
+      "url": "https://www.theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539",
+      "source": "Theregister.com",
+      "source_type": "news",
+      "author": "Simon Sharwood",
+      "published_at": "2026-10-30T04:22:12Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Theregister.com"
+        },
+        "author": "Simon Sharwood",
+        "title": "In the year AI re-wrote the infosec rulebook, it’s comforting to know crypto exchanges still have bad security",
+        "description": "Binance freezes funny money after compromise of engineer’s laptop leads to $6.3 billion of bad trades",
+        "url": "https://www.theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539",
+        "urlToImage": "https://image.theregister.com/5306544.jpg?imageId=5306544&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-10-30T04:22:12Z",
+        "content": "Crypto exchange Binance has paused trading after discovering unknown parties cracked one of its workers laptops and used it to make massive trades\r\nLate on Thursday, US time, the company used its soc… [+1954 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "加密交易所的安全问题仍然严重。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密交易所安全问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注交易所安全动态，提升自身安全性。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_2f000d4857be",
+      "title": "Crypto Platform Binance Hacked – $6.3 Billion Stolen",
+      "content": "Update: Binance has released the following statement on X: Binance’s initial investigation suggests that the security incident may involve a compromised DevOps engineer’s laptop, which allowed an attacker to gain access to a service container and submit unaut…",
+      "url": "https://www.doctorofcredit.com/crypto-platform-binance-hacked-5-7-billion-stolen/",
+      "source": "Doctorofcredit.com",
+      "source_type": "news",
+      "author": "William Charles",
+      "published_at": "2026-10-30T03:59:03Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Doctorofcredit.com"
+        },
+        "author": "William Charles",
+        "title": "Crypto Platform Binance Hacked – $6.3 Billion Stolen",
+        "description": "Update: Binance has released the following statement on X: Binance’s initial investigation suggests that the security incident may involve a compromised DevOps engineer’s laptop, which allowed an attacker to gain access to a service container and submit unaut…",
+        "url": "https://www.doctorofcredit.com/crypto-platform-binance-hacked-5-7-billion-stolen/",
+        "urlToImage": null,
+        "publishedAt": "2026-10-30T03:59:03Z",
+        "content": "Binance’s initial investigation suggests that the security incident may involve a compromised DevOps engineers laptop, which allowed an attacker to gain access to a service container and submit unaut… [+1353 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "币安被黑客攻击，损失63亿美元。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场安全性和客户信任问题",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_f5e9e8e59479",
+      "title": "Crypto platform Binance confirms $6.3 bln hack",
+      "content": "Cryptocurrency platform Binance said it had fallen victim to a major hack that hit around $6.3 billion in funds, with about half that amount frozen to prevent a massive theft.",
+      "url": "https://www.hurriyetdailynews.com/crypto-platform-binance-confirms-6-3-bln-hack-228789",
+      "source": "Hurriyet Daily News",
+      "source_type": "news",
+      "author": "hurriyetdailynews.com",
+      "published_at": "2026-10-30T06:20:10Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Hurriyet Daily News"
+        },
+        "author": "hurriyetdailynews.com",
+        "title": "Crypto platform Binance confirms $6.3 bln hack",
+        "description": "Cryptocurrency platform Binance said it had fallen victim to a major hack that hit around $6.3 billion in funds, with about half that amount frozen to prevent a massive theft.",
+        "url": "https://www.hurriyetdailynews.com/crypto-platform-binance-confirms-6-3-bln-hack-228789",
+        "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ae437181f4b6e12107536b1.jpg",
+        "publishedAt": "2026-10-30T06:20:10Z",
+        "content": "NEW YORK\r\nCryptocurrency platform Binance said it had fallen victim to a major hack that hit around $6.3 billion in funds, with about half that amount frozen to prevent a massive theft.\r\nThe company,… [+1739 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "币安确认遭遇63亿美元黑客攻击，影响行业信心。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全措施和合规政策的变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_6d3ead937705",
+      "title": "Trump administration grants crypto two-year grace period, says Tron founder",
+      "content": "The temporary regulatory leniency may boost crypto market optimism, influencing Bitcoin's valuation and shaping future regulatory expectations.\nThe post Trump administration grants crypto two-year grace period, says Tron founder appeared first on Crypto Brief…",
+      "url": "https://cryptobriefing.com/trump-administration-grants-crypto-two-year-grace-period-says-tron-founder/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-10-30T07:32:36Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Trump administration grants crypto two-year grace period, says Tron founder",
+        "description": "The temporary regulatory leniency may boost crypto market optimism, influencing Bitcoin's valuation and shaping future regulatory expectations.\nThe post Trump administration grants crypto two-year grace period, says Tron founder appeared first on Crypto Brief…",
+        "url": "https://cryptobriefing.com/trump-administration-grants-crypto-two-year-grace-period-says-tron-founder/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/30033233/library-trump-administration-grants-crypto-two-year-grace-period-1-800x450.png",
+        "publishedAt": "2026-10-30T07:32:36Z",
+        "content": "Justin Sun, founder of Tron DAO, has stated that the Trump administration has provided the cryptocurrency industry with a two-year grace period to demonstrate its benefits to ordinary citizens. This … [+2123 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto regulation",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "特朗普政府给予加密货币两年宽限期。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化对业务的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_45cecb8e698b",
+      "title": "Best AI Trading Bot Platforms for US Traders in 2026",
+      "content": "An ai trading bot can scan markets, apply rules, and submit orders without constant manual input. The best ai trading bot still needs human limits,...\nThe post Best AI Trading Bot Platforms for US Traders in 2026 appeared first on Bitcoin Foundation.",
+      "url": "https://bitcoinfoundation.org/news/ai/best-ai-trading-bots/",
+      "source": "Bitcoinfoundation.org",
+      "source_type": "news",
+      "author": "Eddie Muller",
+      "published_at": "2026-10-30T07:22:47Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Bitcoinfoundation.org"
+        },
+        "author": "Eddie Muller",
+        "title": "Best AI Trading Bot Platforms for US Traders in 2026",
+        "description": "An ai trading bot can scan markets, apply rules, and submit orders without constant manual input. The best ai trading bot still needs human limits,...\nThe post Best AI Trading Bot Platforms for US Traders in 2026 appeared first on Bitcoin Foundation.",
+        "url": "https://bitcoinfoundation.org/news/ai/best-ai-trading-bots/",
+        "urlToImage": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/best-ai-trading-bots-01.webp",
+        "publishedAt": "2026-10-30T07:22:47Z",
+        "content": "An ai trading bot can scan markets, apply rules, and submit orders without constant manual input. The best ai trading bot still needs human limits, clean data, and supervised testing. This guide comp… [+26199 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto regulation",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "讨论了美国交易者的AI交易平台。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到交易平台动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_9c0c8293541c",
+      "title": "ASIC chair raises concerns over prediction markets for retail clients",
+      "content": "ASIC's stance on prediction markets highlights regulatory challenges and potential risks for retail investors, emphasizing consumer protection.\nThe post ASIC chair raises concerns over prediction markets for retail clients appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/asic-chair-prediction-markets-retail-concerns/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-10-30T07:06:11Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "ASIC chair raises concerns over prediction markets for retail clients",
+        "description": "ASIC's stance on prediction markets highlights regulatory challenges and potential risks for retail investors, emphasizing consumer protection.\nThe post ASIC chair raises concerns over prediction markets for retail clients appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/asic-chair-prediction-markets-retail-concerns/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/30030602/library-asic-chair-raises-concerns-over-prediction-markets-for-r-800x450.png",
+        "publishedAt": "2026-10-30T07:06:11Z",
+        "content": "Australia's corporate regulator says no prediction market operator has applied for a license, and it doubts the products serve retail investorsAustralia’s top financial regulator has looked at predic… [+4998 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto regulation",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "ASIC主席对零售客户的预测市场表示担忧。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化对业务的影响。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_e96cc2662530",
+      "title": "Behind DeepSeek’s $16 Billion Funding: Chinese Tech Titans and State Players",
+      "content": null,
+      "url": "https://www.theinformation.com/articles/behind-deepseeks-16-billion-funding-chinese-tech-titans-state-players",
+      "source": "The Information",
+      "source_type": "news",
+      "author": "Juro Osawa, Jing Yang",
+      "published_at": "2026-10-30T01:08:40Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Information"
+        },
+        "author": "Juro Osawa, Jing Yang",
+        "title": "Behind DeepSeek’s $16 Billion Funding: Chinese Tech Titans and State Players",
+        "description": null,
+        "url": "https://www.theinformation.com/articles/behind-deepseeks-16-billion-funding-chinese-tech-titans-state-players",
+        "urlToImage": null,
+        "publishedAt": "2026-10-30T01:08:40Z",
+        "content": "Chinese AI star DeepSeek’s nearly $16 billion funding round this month involved not only a deluge of capital but a who’s who of Chinese tech investors—and some of the country’s most powerful state-ba… [+589 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "DeepSeek"
+      ],
+      "importance_score": 6,
+      "ai_summary": "DeepSeek获得160亿美元融资，涉及中国科技巨头。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及融资事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注相关融资动态，评估市场影响。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_3b4c32c0fbcd",
+      "title": "Travis Kelce Injury Update Raises Concern Before Chiefs-Broncos Game",
+      "content": "A concerning Travis Kelce injury update raises questions about the Chiefs star's availability against the Broncos. Here's the latest. The post Travis Kelce Injury Update Raises Concern Before Chiefs-Broncos Game appeared first on HEAVY.",
+      "url": "https://heavy.com/sports/nfl/kansas-city-chiefs/travis-kelce-injury-update-chiefs-broncos/",
+      "source": "Heavy.com",
+      "source_type": "news",
+      "author": "Jonathan Vankin",
+      "published_at": "2026-10-30T00:18:58Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Heavy.com"
+        },
+        "author": "Jonathan Vankin",
+        "title": "Travis Kelce Injury Update Raises Concern Before Chiefs-Broncos Game",
+        "description": "A concerning Travis Kelce injury update raises questions about the Chiefs star's availability against the Broncos. Here's the latest. The post Travis Kelce Injury Update Raises Concern Before Chiefs-Broncos Game appeared first on HEAVY.",
+        "url": "https://heavy.com/sports/nfl/kansas-city-chiefs/travis-kelce-injury-update-chiefs-broncos/",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/aa84bef815e46570b0aceca0089ab2dd04214e48b58fe3f940aa2f55ea0afb3e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F360ac2e9daf60c4f6968fd4301326272.jpg",
+        "publishedAt": "2026-10-30T00:18:58Z",
+        "content": "The Kansas City Chiefs are looking to recover from their first loss of the season, and it was a rough one. The Chiefs managed to scrape out only three points while giving up 20 to the defending Super… [+3658 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_1b759eef1e5f",
+      "title": "‘Huge red flags’ as Todd Blanche revives voter fraud claims with bizarre move: report",
+      "content": "Attorney General Todd Blanche took an extraordinary step to shore up the Trump administration's discredited voter fraud claims in a key swing state.Blanche personally signed off on misdemeanor charges against four people in Nevada, Adam Klasfeld of All Rise N…",
+      "url": "https://www.rawstory.com/todd-blanche-voter-fraud/",
+      "source": "Raw Story",
+      "source_type": "news",
+      "author": "Bennito L. Kelty",
+      "published_at": "2026-10-30T03:54:23Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Raw Story"
+        },
+        "author": "Bennito L. Kelty",
+        "title": "‘Huge red flags’ as Todd Blanche revives voter fraud claims with bizarre move: report",
+        "description": "Attorney General Todd Blanche took an extraordinary step to shore up the Trump administration's discredited voter fraud claims in a key swing state.Blanche personally signed off on misdemeanor charges against four people in Nevada, Adam Klasfeld of All Rise N…",
+        "url": "https://www.rawstory.com/todd-blanche-voter-fraud/",
+        "urlToImage": "https://www.rawstory.com/media-library/us-attorney-general-todd-blanche-speaks-at-the-fbi-cincinnati-field-office-in-cincinnati-oh-us-oct-21-2026-jacquelyn-mart.jpg?id=68558543&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
+        "publishedAt": "2026-10-30T03:54:23Z",
+        "content": "Attorney General Todd Blanche took an extraordinary step to shore up the Trump administration's discredited voter fraud claims in a key swing state.\r\nBlanche personally signed off on misdemeanor char… [+2625 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_648b6ae098a9",
+      "title": "hydromancer-mcp added to PyPI",
+      "content": "Read-only MCP server for the Hydromancer Hyperliquid API: wallets, top traders, markets, funding and liquidations",
+      "url": "https://pypi.org/project/hydromancer-mcp/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-30T06:30:20Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "hydromancer-mcp added to PyPI",
+        "description": "Read-only MCP server for the Hydromancer Hyperliquid API: wallets, top traders, markets, funding and liquidations",
+        "url": "https://pypi.org/project/hydromancer-mcp/",
+        "urlToImage": null,
+        "publishedAt": "2026-10-30T06:30:20Z",
+        "content": "Read-only MCP server for the Hydromancer Hyperliquid API, in Python. Ask your AI app about wallets, top traders, markets, funding and liquidations in plain English.\r\nDisclosure: this package is maint… [+7431 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding funding round",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "发布了新的区块链基础设施库。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_03d80484f5c3",
+      "title": "gato-mpc 0.1.7",
+      "content": "GPU-accelerated batched trajectory optimization",
+      "url": "https://pypi.org/project/gato-mpc/0.1.7/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-30T03:17:48Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "gato-mpc 0.1.7",
+        "description": "GPU-accelerated batched trajectory optimization",
+        "url": "https://pypi.org/project/gato-mpc/0.1.7/",
+        "urlToImage": null,
+        "publishedAt": "2026-10-30T03:17:48Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "MPC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "gato-mpc 0.1.7版本更新涉及MPC技术。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到MPC技术",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注MPC技术在托管中的应用",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_e543d65a040b",
+      "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+      "content": "Vercel Security Checkpoint\ncle1::1793332833-IP6F8UrBJqTfiXo4Nc2DeYWz1AvM03Vq",
+      "url": "https://biztoc.com/x/9d7e53bbae42c51f",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "coindesk.com",
+      "published_at": "2026-10-30T04:01:02Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "coindesk.com",
+        "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+        "description": "Vercel Security Checkpoint\ncle1::1793332833-IP6F8UrBJqTfiXo4Nc2DeYWz1AvM03Vq",
+        "url": "https://biztoc.com/x/9d7e53bbae42c51f",
+        "urlToImage": "https://biztoc.com/cdn/9d7e53bbae42c51f_s.webp",
+        "publishedAt": "2026-10-30T04:01:02Z",
+        "content": "Vercel Security Checkpointcle1::1793332833-IP6F8UrBJqTfiXo4Nc2DeYWz1AvM03Vq\r\nThis story appeared on coindesk.com, 2026-10-30 03:56:40.",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "机构投资者因Binance黑客事件撤资。",
+      "business_relevance": 0.7,
+      "relevance_reason": "交易所动态影响资金流动",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场资金流动变化，调整策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_a93348c26d12",
+      "title": "Strategic Planning Must Get Faster and Change Quicker",
+      "content": "Strategic Planning Must Get Faster and Change Quicker\n\n \n\n\n \nKristine Maloney\n\nFri, 10/30/2026 - 03:00 AM\n\nHigher education needs a new planning model that matches today’s pace of change.\n \n Byline(s)\n \n Pete Mackey",
+      "url": "https://www.insidehighered.com/opinion/columns/call-action/2026/10/30/higher-eds-strategic-planning-process-must-get-faster",
+      "source": "Inside Higher Ed",
+      "source_type": "news",
+      "author": "Kristine Maloney",
+      "published_at": "2026-10-30T07:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Inside Higher Ed"
+        },
+        "author": "Kristine Maloney",
+        "title": "Strategic Planning Must Get Faster and Change Quicker",
+        "description": "Strategic Planning Must Get Faster and Change Quicker\n\n \n\n\n \nKristine Maloney\n\nFri, 10/30/2026 - 03:00 AM\n\nHigher education needs a new planning model that matches today’s pace of change.\n \n Byline(s)\n \n Pete Mackey",
+        "url": "https://www.insidehighered.com/opinion/columns/call-action/2026/10/30/higher-eds-strategic-planning-process-must-get-faster",
+        "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-07/Blog-Call%20to%20Action.png?itok=dXW0Uaun",
+        "publishedAt": "2026-10-30T07:00:00Z",
+        "content": "Strategic planning in higher education traditionally consumes two academic years, involving committees, campus forums and multiple drafts before any action is taken. This approach builds legitimacy, … [+6636 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "战略规划需加快和灵活调整。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密行业动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注行业动态，调整战略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_4ad6b52d586b",
+      "title": "HashPort、「HashPort Wallet」1周年を記念し、ご利用の皆さまへ感謝の記念SBT「Thanks SBT」をお届けするキャンペーンを開始",
+      "content": "[株式会社HashPort]\n[画像1: https://prcdn.freetls.fastly.net/release_image/46288/200/46288-200-25308279065546f27dd94a79216251f6-1280x720.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000200.000046288.html",
+      "source": "Prtimes.jp",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-30T01:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Prtimes.jp"
+        },
+        "author": null,
+        "title": "HashPort、「HashPort Wallet」1周年を記念し、ご利用の皆さまへ感謝の記念SBT「Thanks SBT」をお届けするキャンペーンを開始",
+        "description": "[株式会社HashPort]\n[画像1: https://prcdn.freetls.fastly.net/release_image/46288/200/46288-200-25308279065546f27dd94a79216251f6-1280x720.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+        "url": "https://prtimes.jp/main/html/rd/p/000000200.000046288.html",
+        "urlToImage": "https://prcdn.freetls.fastly.net/release_image/46288/200/46288-200-25308279065546f27dd94a79216251f6-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "publishedAt": "2026-10-30T01:00:00Z",
+        "content": "HashPortCEO HashPortHashPort Wallet202510311SBTThanks SBT20261030\r\n1\r\nHashPort WalletEXPO202520251031HashPort Wallet\r\n1HashPort Wallet\r\n1Thanks SBT\r\n2026103010:002026112923:59\r\nHashPort Wallet\r\nThank… [+791 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "HashPort Wallet庆祝一周年并推出SBT活动。",
+      "business_relevance": 0.5,
+      "relevance_reason": "一般加密货币新闻",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "title": "Deconstructing the Binance Exploit",
+      "description": "How One Signed EIP-7702 Delegation Led to Billions in Outflows, and the Fireblocks Controls That Cut the Same Attack Path On October 29, 2026, attackers drained Binance hot wallets across multiple blockchains. Estimates of gross outflows run from $3.3B to $6.3B, including roughly $450M in ETH and billions in USDT and USDC. Either end of [&#8230;]\nThe post Deconstructing the Binance Exploit appeared first on Fireblocks.",
+      "url": "https://www.fireblocks.com/blog/binance-hack-eip-7702",
+      "source": "Fireblocks Blog",
+      "source_category": "competitor",
+      "published_at": "2026-10-30T17:44:40",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Binance",
+        "USDT",
+        "USDC"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Binance遭遇大规模攻击，涉及大量稳定币流出。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币大额流出",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币安全性和市场反应。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
+      "description": "Investigators tie the $6B Binance hack to North Korea. Here's how hot-wallet signing infrastructure was compromised and where funds went.",
+      "url": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-10-30T21:20:23",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "报道了历史最大加密黑客事件及其影响。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全性提升和合规措施",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "title": "President Trump says they’re looking into Binance hack as calls grow for crypto rules",
+      "description": "Following the $6.3 billion hack of the world's largest crypto exchange, Binance, calls are growing for legislation.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-10-30T21:06:03",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "特朗普表示将关注Binance黑客事件并呼吁加密监管。",
+      "business_relevance": 0.7,
+      "relevance_reason": "加密货币监管动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化，适时调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Texas brothers sentenced to 15 years for holding Minnesota family at gunpoint in $8 million crypto heist",
+      "description": "Two brothers who held a family for nine hours at gunpoint in Minnesota for $8 million worth of cryptocurrency were sentenced on Friday.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-10-30T16:26:07",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "两兄弟因加密货币抢劫被判刑。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币犯罪",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密货币安全和监管政策变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis",
+      "description": "Trezor urged CryptoBilis buyers to migrate funds after receiving a credible report of a hardware implant inside a Safe 5 device.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-10-30T08:55:39",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Trezor",
+        "CryptoBilis"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Trezor报告CryptoBilis硬件安全问题。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及硬件安全问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注硬件安全技术的进展。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
+      "description": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the record $6.4 billion theft is a Binance security failure, not a crypto-wide threat, pointing clients toward proxies like Coinbase, Robinhood, and Strategy.",
+      "url": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-10-30T20:06:03",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance",
+        "Coinbase",
+        "Robinhood"
+      ],
+      "importance_score": 7,
+      "ai_summary": "分析师认为Binance的安全失败影响行业信心。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币安全问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场对安全性的反应，调整策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
+      "description": "Raymond and Isiah Garcia held a Minnesota family at gunpoint for more than nine hours, forcing the father to transfer over $8 million in crypto, in one of the clearest “wrench attack” prosecutions yet.",
+      "url": "https://decrypt.co/382269/crypto-kidnapping-texas-brothers-15-year-prison",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-10-30T18:16:02",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "德克萨斯州兄弟因绑架获刑，涉及加密货币转移。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币犯罪事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密货币安全和监管政策的变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Morning Minute: Binance’s $6.4B Hack Overshadows Hyperliquid’s Biggest Day",
+      "description": "Just as Hyperliquid opened the door to a fully regulated perps offering inside the U.S., Binance suffered the biggest hack in crypto history.",
+      "url": "https://decrypt.co/382225/morning-minute-binances-6-4b-hack-overshadows-hyperliquids-biggest-day",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-10-30T12:31:30",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance",
+        "Hyperliquid"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance遭遇历史最大黑客攻击，影响行业动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全性提升和市场反应",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
+      "description": "The hardware wallet manufacturer has yet to examine the device, but is treating the report as credible and told buyers to move their funds.",
+      "url": "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-10-30T10:07:29",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Trezor"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Trezor警告用户转移资金以防安全风险。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及硬件钱包安全",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注硬件钱包安全性提升的趋势。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Stablecoins as a vehicle for dollarisation: Evidence from capital controls and currency crises - CEPR",
+      "description": "Stablecoins as a vehicle for dollarisation: Evidence from capital controls and currency crises&nbsp;&nbsp;CEPR",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb0Y4N00zMW5tQkVZUmFLbzFqWHBROUJvZVNiTlc5Zk0zSFlaOVpyQ2swR0dKM2VKSUhKbHJVaHpqSUF5VUI4RjlNd1MtaXQ2U0ZnUWRRTThRdUFtR0Nwak0tNE1hQ1E0eUZrOG5CVzBGNGQ0LWxYaXVvdUJDNjJ0Sm1uY0stUkVFT19lX0VpbzZrQkFBQXBncVlxWG8xYUxuM3lUNEZfOUZ0UVZBU2pj?oc=5",
+      "source": "Google News (cross-border stablecoin)",
+      "source_category": "google_news",
+      "published_at": "2026-10-31T00:25:13",
+      "data_type": "rss",
+      "search_keyword": "cross-border stablecoin",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "稳定币在美元化中的作用被讨论。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币的应用",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "监管影响"
+      ],
+      "industry_action": "关注稳定币在不同市场的应用情况。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "OCC Finalizes GENIUS Act Rule Existing Stablecoin Issuers Need Two Filings Before January 18 - JD Supra",
+      "description": "OCC Finalizes GENIUS Act Rule Existing Stablecoin Issuers Need Two Filings Before January 18&nbsp;&nbsp;JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWkJHeUZ5cTlseHNkVERMSWZKRThZWE5tV0U0TnZwU2JtZUtLRkNnRDdjOEYwZTlFa1ltNTFudV9zMlBzVktXN1M4Y2d3dndFUVZGZXZiQldlWGhVcWhieVdhUmViREh2SGk0Q0FyLTE3d3c2TXZOTXFBRW5iNW44aWVkcWs4Z01p?oc=5",
+      "source": "Google News (stablecoin license)",
+      "source_category": "google_news",
+      "published_at": "2026-10-30T16:45:45",
+      "data_type": "rss",
+      "search_keyword": "stablecoin license",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "OCC发布稳定币发行者新规，需提交两份文件。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注新规对稳定币市场的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Solana partners with a Hong Kong-licensed issuer to expand the $14 billion stablecoin market - KuCoin",
+      "description": "Solana partners with a Hong Kong-licensed issuer to expand the $14 billion stablecoin market&nbsp;&nbsp;KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0Zld0lremJ1b1EySkdZYjBld2x1LTF6YTdBY1c5WTBiNFpaWXNGWkVXQlNrU2wxZGw5QkVPOU5VN0cyQ3VkMDJZWTdiSjhBN1ZVLXFES05Rd1V4Tmpia0kzT3lEb1ctR2Q3Z005WS0yRjBuUnpRbkpZZFpxMmtGZkpaaW9kZHQ0TWdxQWxTTER2OVo2eUVsaUtvOFZEZUx0RlhjeF80Z0c3NmJ3cmJrcWpsWmlmaVZ2OWlZ?oc=5",
+      "source": "Google News (stablecoin license)",
+      "source_category": "google_news",
+      "published_at": "2026-10-30T18:25:24",
+      "data_type": "rss",
+      "search_keyword": "stablecoin license",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Solana",
+        "KuCoin"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Solana与香港发行商合作扩展稳定币市场。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币市场扩展",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态，评估潜在影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Paybis data shows settlement volume up 163% as USDC becomes the leading settlement stablecoin - markets.businessinsider.com",
+      "description": "Paybis data shows settlement volume up 163% as USDC becomes the leading settlement stablecoin&nbsp;&nbsp;markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZE54WWFsUnBTUkRneWliTjJPR0JUTERXVWFaR1hDTTNYRnNTYW8zeG1VMVV0OUhxSFJaQVp0NlJxTFY1SEwzaEh1d1ZocUZKb25rM1hqb180dkJXV254RXBEb0ZtdnhCUE1iSVctaTJpYWd4U1VRR090UlR1ZW5ldXFuZGwxbEpMNnUwWDJiN0VJY3I1TEVNVGZobk9ESExXMDRvcHhqdnBmaWFfbVZwb0x3Ql81d3pYVWx0eDZaWnZ1SnoxU3VHaHZsMjE2dE5rYnVENTFnaUZRNnpIT1lzWHFBQmt2dw?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-10-30T18:34:45",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "USDC的结算量大幅增长，反映市场趋势。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到USDC作为结算稳定币",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注USDC的市场动态，调整策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "ACI Worldwide & Circle Bring USDC Settlement to Colombia - FinTech Magazine",
+      "description": "ACI Worldwide & Circle Bring USDC Settlement to Colombia&nbsp;&nbsp;FinTech Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2VZZ2VUMWw0dkIzLXJreDlXUnJoOThGZ0ZkdFBlS3ZhcGRFbUtZNmdhblJCMlV3THlzbWZWWXFFdDZvTTNCXzNrWHh6LVd5bUJmZWI1RzF1M0hoTFY2R1Q4ZTdyWmpRZ08xcVE2WHRiWnk4X1AyRTBmZkl4NWNFejU1dXpTVXZnWGpiT280QlU?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-10-30T13:00:34",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "ACI Worldwide",
+        "Circle"
+      ],
+      "importance_score": 8,
+      "ai_summary": "ACI Worldwide与Circle在哥伦比亚推出USDC结算服务。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币在拉美市场的应用动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "The stablecoin trust gap is an infrastructure problem - Funds Europe",
+      "description": "The stablecoin trust gap is an infrastructure problem&nbsp;&nbsp;Funds Europe",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNDZab0tTQ0EwM3FtOTdxQndKblk2TzNrYUdpUGctTTduSXZ4Rk9YeDNoR05QZTJwNVhiY3YtQnctUEdkcVpNRHFtdjRhczVJajZ2dTFlYm5XR3dkeklrbnhfUnROQi1VMGplV2tjR2Y0UVZJT0lLeHFaVTlYUDR2NTNTZnZZUQ?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-10-30T13:21:37",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "稳定币信任缺口是基础设施问题。",
+      "business_relevance": 0.8,
+      "relevance_reason": "提到稳定币信任问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注基础设施改进动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Stablecoin payments move from crypto markets into banking rails - grafa.com",
+      "description": "Stablecoin payments move from crypto markets into banking rails&nbsp;&nbsp;grafa.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUh3WnNqeGpKaTd4UXU5cmJYYVhkY2lJcVF2S3dib2duTXNBWjBFczU3anFJbWZCdUx3R0p2bm9vcVY0a0FtQkx6SFo1ZmFXNWxKaFpfTWtPNTRBRFNRY1E1V3U0MHhZSXlJNHd4dTFqS1ZtVW8tZ3I1RERVMXEwWWN3ZkJuVDBhUXp3blpUWVo0WElBMTZraDZnUko?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-10-30T17:00:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "稳定币支付正在向银行体系转变。",
+      "business_relevance": 0.8,
+      "relevance_reason": "提到稳定币支付转向银行",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币在银行体系的应用发展。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    }
+  ]
+}

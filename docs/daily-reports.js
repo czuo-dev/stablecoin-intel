@@ -4,6 +4,1264 @@
 
 const dailyReports = [
     {
+        "date": "2026-10-31",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-10-31.md",
+        "newsItems": [
+            {
+                "id": "2026-10-31-industry-0",
+                "title": "Live updates: Binance $6.3B hack linked to North Korea’s TraderTraitor",
+                "source": "Cointelegraph",
+                "date": "2026-10-31",
+                "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor",
+                "category": "industry",
+                "summary": "Binance遭黑客攻击，影响行业安全信任。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注安全事件对市场信任的影响",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-31-industry-1",
+                "title": "Crypto exchange Binance freezes assets after $6.3 billion security breach",
+                "source": "Yahoo Entertainment",
+                "date": "2026-10-31",
+                "url": "https://finance.yahoo.com/markets/crypto/articles/tether-circle-freeze-2-38-222607515.html",
+                "category": "industry",
+                "summary": "币安因安全漏洞冻结资产，影响行业信心。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注安全措施和合规动态",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-2",
+                "title": "Crypto exchange Binance freezes assets after US$6.3 billion security breach",
+                "source": "CNA",
+                "date": "2026-10-31",
+                "url": "https://www.channelnewsasia.com/world/cryptocurrency-binance-freezes-assets-security-breach-6505586",
+                "category": "industry",
+                "summary": "币安因安全漏洞冻结资产，影响行业信心。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注行业安全标准提升",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-3",
+                "title": "Binance freezes assets after US$6.3 billion heist",
+                "source": "iTnews",
+                "date": "2026-10-31",
+                "url": "https://www.itnews.com.au/news/binance-freezes-assets-after-us63-billion-heist-630029?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+                "category": "industry",
+                "summary": "Binance因黑客事件冻结资产，影响行业安全性和信任度。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注行业安全性变化，评估潜在影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-4",
+                "title": "Binance freezes $3 billion in assets after suspected hack",
+                "source": "RTE",
+                "date": "2026-10-31",
+                "url": "https://www.rte.ie/news/business/2026/1030/1597305-binance-bitcoin-world/",
+                "category": "industry",
+                "summary": "Binance因疑似黑客攻击冻结30亿美元资产。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注交易所安全动态，评估潜在影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-5",
+                "title": "Lula's 4th term offers fresh push to India-Brazil ties",
+                "source": "The Times of India",
+                "date": "2026-10-31",
+                "url": "https://economictimes.indiatimes.com/news/india/lulas-4th-term-offers-fresh-push-to-india-brazil-ties/articleshow/135338959.cms",
+                "category": "industry",
+                "summary": "巴西与印度关系加强可能影响支付行业",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注印度与巴西的支付合作动态",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-31-industry-6",
+                "title": "BINANCE hacked as Bitcoin investors panic... Developing...",
+                "source": "CNBC",
+                "date": "2026-10-31",
+                "url": "https://www.cnbc.com/2026/10/30/bitcoin-ether-price-binance-security-scare-rattles-crypto-markets.html",
+                "category": "industry",
+                "summary": "币安被黑客攻击引发市场恐慌。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场反应，评估潜在影响",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-7",
+                "title": "Tether, Circle freeze $2.38 billion after Binance reports security incident",
+                "source": "BusinessLine",
+                "date": "2026-10-31",
+                "url": "https://www.thehindubusinessline.com/money-and-banking/cryptocurrency/tether-circle-freeze-238-billion-after-binance-reports-security-incident/article71643597.ece",
+                "category": "industry",
+                "summary": "Tether和Circle冻结资金与交易所安全事件有关。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币的监管动态和市场反应。",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险",
+                "tickers": [
+                    "Tether",
+                    "Circle",
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-8",
+                "title": "Billions stolen from Binance in largest ever crypto hack",
+                "source": "ABC News (AU)",
+                "date": "2026-10-31",
+                "url": "https://www.abc.net.au/news/2026-10-30/largest-cryptocurrency-hack-billions-stolen-binance/107327732",
+                "category": "industry",
+                "summary": "Binance遭遇历史最大黑客攻击，影响行业安全信任。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注安全合规措施的加强。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-9",
+                "title": "The $6.3 Billion Binance Hack: Why Gold and Silver Are the Only Safe Haven",
+                "source": "Naturalnews.com",
+                "date": "2026-10-31",
+                "url": "https://www.naturalnews.com/2026-10-30-why-gold-silver-are-only-safe-haven.html",
+                "category": "industry",
+                "summary": "币安黑客事件引发对安全的关注。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注行业安全标准的提升",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-31-industry-10",
+                "title": "Binance Estimates $6.3 Billion Hacked in Crypto’s Biggest-Ever Heist",
+                "source": "Insurance Journal",
+                "date": "2026-10-31",
+                "url": "https://www.insurancejournal.com/news/international/2026/10/30/890894.htm",
+                "category": "industry",
+                "summary": "币安遭遇历史最大黑客事件，损失63亿美元。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注安全性提升与合规措施",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-31-industry-11",
+                "title": "Suspected Billion-Dollar Binance Hack Sends Fear Through Crypto",
+                "source": "Insurance Journal",
+                "date": "2026-10-31",
+                "url": "https://www.insurancejournal.com/news/national/2026/10/30/890876.htm",
+                "category": "industry",
+                "summary": "币安遭遇十亿美元黑客攻击，引发市场恐慌。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注安全措施和市场反应",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-12",
+                "title": "Massive Crypto Heist Hits Binance, Could Be Biggest Ever",
+                "source": "Newser",
+                "date": "2026-10-31",
+                "url": "https://www.newser.com/story/399061/massive-crypto-heist-hits-binance-could-be-biggest-ever.html",
+                "category": "industry",
+                "summary": "Binance遭遇大规模黑客攻击，可能是史上最大盗窃事件。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注安全措施和市场反应。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-13",
+                "title": "The $6.3 billion Binance hack: What we know so far about the biggest crypto heist in history",
+                "source": "Fortune",
+                "date": "2026-10-31",
+                "url": "https://fortune.com/2026/10/30/what-we-know-about-binance-hack-biggest-crypto-heist/",
+                "category": "industry",
+                "summary": "Binance遭遇历史上最大黑客攻击事件。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注安全性提升和监管政策变化",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-14",
+                "title": "Silicon Valley shifts AI funding to crypto using an Ethereum ICO blueprint",
+                "source": "CryptoSlate",
+                "date": "2026-10-31",
+                "url": "https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint/",
+                "category": "industry",
+                "summary": "硅谷将AI融资转向加密货币领域",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注加密融资动态，调整策略",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-10-31-industry-15",
+                "title": "Binance Hacked for $5.8B, Binance Says User Funds Are Safe",
+                "source": "Next Big Future",
+                "date": "2026-10-31",
+                "url": "https://www.nextbigfuture.com/2026/10/binance-hacked-for-5-8b-binance-says-user-funds-are-safe.html",
+                "category": "industry",
+                "summary": "Binance遭黑客攻击，用户资金安全。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场对安全性的反应和监管动态",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-16",
+                "title": "Crypto platform Binance confirms major hack, more than US$2.5 billion frozen",
+                "source": "CNA",
+                "date": "2026-10-31",
+                "url": "https://www.channelnewsasia.com/world/cryptocurrency-binance-hack-funds-losses-6505586",
+                "category": "industry",
+                "summary": "币安确认遭遇重大黑客攻击，冻结超过25亿美元资产。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场反应及安全措施的变化",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-17",
+                "title": "Binance crypto platform suspends trades amid suspected hack",
+                "source": "DW (English)",
+                "date": "2026-10-31",
+                "url": "https://www.dw.com/en/binance-crypto-platform-suspends-trades-amid-suspected-hack/a-79803280",
+                "category": "industry",
+                "summary": "币安因疑似黑客攻击暂停交易，影响市场信心。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场反应及用户信任变化",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-18",
+                "title": "Circle starts cutting legacy USDC app transfer limits on October 31",
+                "source": "CryptoSlate",
+                "date": "2026-10-31",
+                "url": "https://cryptoslate.com/circle-starts-cutting-legacy-usdc-app-transfer-limits-on-october-31/",
+                "category": "industry",
+                "summary": "Circle将于10月31日降低USDC应用的转账限制。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场转账政策变化，评估影响。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Circle"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-19",
+                "title": "Crypto platform Binance targeted with major hack that hit over $6bn in funds",
+                "source": "TheJournal.ie",
+                "date": "2026-10-31",
+                "url": "https://www.thejournal.ie/binance-crypto-hack-7209671-Oct2026/",
+                "category": "industry",
+                "summary": "币安遭遇重大黑客攻击，损失超60亿美元。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注安全性提升和市场反应",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-20",
+                "title": "Binance Says $3 Billion Frozen After Hack’s $6.3 Billion Estimated Impact",
+                "source": "Bitcoinfoundation.org",
+                "date": "2026-10-31",
+                "url": "https://bitcoinfoundation.org/news/crypto-exchanges/binance-says-3-billion-frozen-after-hacks-6-3-billion-estimated-impact/",
+                "category": "industry",
+                "summary": "币安因黑客事件冻结30亿美元资金。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场安全性和合规性变化。",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-21",
+                "title": "Binance hack began with a $296 million XRP drain after 36-hour preparation",
+                "source": "CryptoSlate",
+                "date": "2026-10-31",
+                "url": "https://cryptoslate.com/binance-hack-began-with-a-296-million-xrp-drain-after-36-hour-preparation/",
+                "category": "industry",
+                "summary": "Binance遭遇黑客攻击，影响行业安全性。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注行业安全性提升的趋势。",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-22",
+                "title": "Cryptocurrency exchange Binance suspends trading amid a suspected cyberattack now linked to North Ko",
+                "source": "DW (English)",
+                "date": "2026-10-31",
+                "url": "https://www.dw.com/en/cryptocurrency-exchange-binance-suspends-trading-amid-a-suspected-cyberattack-now-linked-to-north-korea/a-79803280",
+                "category": "industry",
+                "summary": "币安因网络攻击暂停交易，影响行业信心。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场反应，评估潜在影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-23",
+                "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+                "source": "Internet",
+                "date": "2026-10-31",
+                "url": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+                "category": "industry",
+                "summary": "币安遭遇安全漏洞，影响资产冻结。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注安全性提升和市场反应。",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-24",
+                "title": "Crypto firms freeze billions amid suspected Binance hack",
+                "source": "Israelnationalnews.com",
+                "date": "2026-10-31",
+                "url": "https://www.israelnationalnews.com/news/435377",
+                "category": "industry",
+                "summary": "加密公司因疑似黑客事件冻结资金。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注监管政策变化对市场的影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-31-industry-25",
+                "title": "Binance crypto exchange suspends trades over North Korea-linked hack",
+                "source": "DW (English)",
+                "date": "2026-10-31",
+                "url": "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280",
+                "category": "industry",
+                "summary": "币安因与朝鲜相关的黑客攻击暂停交易。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注交易所安全性和合规性动态",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-26",
+                "title": "North Korea linked to $6.3B Binance hack by crypto investigators",
+                "source": "Cointelegraph",
+                "date": "2026-10-31",
+                "url": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators",
+                "category": "industry",
+                "summary": "北朝鲜与Binance黑客事件相关联。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注加密货币安全监管动态。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-27",
+                "title": "Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO",
+                "source": "Cointelegraph",
+                "date": "2026-10-31",
+                "url": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo",
+                "category": "industry",
+                "summary": "Binance黑客事件可能涉及私钥滥用。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注行业安全动态，评估潜在影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-28",
+                "title": "Coinbase Cuts Trading Reliance as Subscription and Services Revenue Nears 50%",
+                "source": "pymnts.com",
+                "date": "2026-10-31",
+                "url": "https://www.pymnts.com/earnings/2026/coinbase-cuts-trading-reliance-as-subscription-and-services-revenue-nears-50/",
+                "category": "industry",
+                "summary": "Coinbase减少对交易的依赖，服务收入接近50%。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场变化，调整业务策略。",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Coinbase"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-29",
+                "title": "Best AI trading platform 2026 – 7 tools compared for stocks, crypto, forex, and Beginners",
+                "source": "Bitcoinfoundation.org",
+                "date": "2026-10-31",
+                "url": "https://bitcoinfoundation.org/news/ai/best-ai-trading-platform/",
+                "category": "industry",
+                "summary": "比较了多种AI交易平台的动态。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注AI交易平台的发展动态。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-31-industry-30",
+                "title": "Crypto giant Binance freezes $2.5bn of assests over suspected hack",
+                "source": "BBC News",
+                "date": "2026-10-31",
+                "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
+                "category": "industry",
+                "summary": "币安因疑似黑客攻击冻结25亿美元资产。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注加密货币交易所的安全监管动态。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-31",
+                "title": "Binance says $2.54bn in crypto funds frozen amid ‘potential security issue’",
+                "source": "Al Jazeera English",
+                "date": "2026-10-31",
+                "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue",
+                "category": "industry",
+                "summary": "Binance 冻结大量加密资金，可能影响行业信心。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场反应，评估潜在影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-32",
+                "title": "In the year AI re-wrote the infosec rulebook, it’s comforting to know crypto exchanges still have ba",
+                "source": "Theregister.com",
+                "date": "2026-10-31",
+                "url": "https://www.theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539",
+                "category": "industry",
+                "summary": "加密交易所的安全问题仍然严重。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注交易所安全动态，提升自身安全性。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-31-industry-33",
+                "title": "Crypto Platform Binance Hacked – $6.3 Billion Stolen",
+                "source": "Doctorofcredit.com",
+                "date": "2026-10-31",
+                "url": "https://www.doctorofcredit.com/crypto-platform-binance-hacked-5-7-billion-stolen/",
+                "category": "industry",
+                "summary": "币安被黑客攻击，损失63亿美元。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场安全性和客户信任问题",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-34",
+                "title": "Crypto platform Binance confirms $6.3 bln hack",
+                "source": "Hurriyet Daily News",
+                "date": "2026-10-31",
+                "url": "https://www.hurriyetdailynews.com/crypto-platform-binance-confirms-6-3-bln-hack-228789",
+                "category": "industry",
+                "summary": "币安确认遭遇63亿美元黑客攻击，影响行业信心。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注安全措施和合规政策的变化",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-35",
+                "title": "Trump administration grants crypto two-year grace period, says Tron founder",
+                "source": "Crypto Briefing",
+                "date": "2026-10-31",
+                "url": "https://cryptobriefing.com/trump-administration-grants-crypto-two-year-grace-period-says-tron-founder/",
+                "category": "industry",
+                "summary": "特朗普政府给予加密货币两年宽限期。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管政策变化对业务的影响",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-31-industry-36",
+                "title": "Best AI Trading Bot Platforms for US Traders in 2026",
+                "source": "Bitcoinfoundation.org",
+                "date": "2026-10-31",
+                "url": "https://bitcoinfoundation.org/news/ai/best-ai-trading-bots/",
+                "category": "industry",
+                "summary": "讨论了美国交易者的AI交易平台。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-31-industry-37",
+                "title": "ASIC chair raises concerns over prediction markets for retail clients",
+                "source": "Crypto Briefing",
+                "date": "2026-10-31",
+                "url": "https://cryptobriefing.com/asic-chair-prediction-markets-retail-concerns/",
+                "category": "industry",
+                "summary": "ASIC主席对零售客户的预测市场表示担忧。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管政策变化对业务的影响。",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-10-31-industry-38",
+                "title": "Behind DeepSeek’s $16 Billion Funding: Chinese Tech Titans and State Players",
+                "source": "The Information",
+                "date": "2026-10-31",
+                "url": "https://www.theinformation.com/articles/behind-deepseeks-16-billion-funding-chinese-tech-titans-state-players",
+                "category": "industry",
+                "summary": "DeepSeek获得160亿美元融资，涉及中国科技巨头。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "投资机会"
+                ],
+                "action": "关注相关融资动态，评估市场影响。",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购",
+                "tickers": [
+                    "DeepSeek"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-39",
+                "title": "Travis Kelce Injury Update Raises Concern Before Chiefs-Broncos Game",
+                "source": "Heavy.com",
+                "date": "2026-10-31",
+                "url": "https://heavy.com/sports/nfl/kansas-city-chiefs/travis-kelce-injury-update-chiefs-broncos/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "funding_mna",
+                "subcategoryName": "融资并购"
+            },
+            {
+                "id": "2026-10-31-industry-40",
+                "title": "‘Huge red flags’ as Todd Blanche revives voter fraud claims with bizarre move: report",
+                "source": "Raw Story",
+                "date": "2026-10-31",
+                "url": "https://www.rawstory.com/todd-blanche-voter-fraud/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-31-industry-41",
+                "title": "hydromancer-mcp added to PyPI",
+                "source": "Pypi.org",
+                "date": "2026-10-31",
+                "url": "https://pypi.org/project/hydromancer-mcp/",
+                "category": "industry",
+                "summary": "发布了新的区块链基础设施库。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展"
+                ],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-31-industry-42",
+                "title": "gato-mpc 0.1.7",
+                "source": "Pypi.org",
+                "date": "2026-10-31",
+                "url": "https://pypi.org/project/gato-mpc/0.1.7/",
+                "category": "industry",
+                "summary": "gato-mpc 0.1.7版本更新涉及MPC技术。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展"
+                ],
+                "action": "关注MPC技术在托管中的应用",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险"
+            },
+            {
+                "id": "2026-10-31-industry-43",
+                "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+                "source": "Biztoc.com",
+                "date": "2026-10-31",
+                "url": "https://biztoc.com/x/9d7e53bbae42c51f",
+                "category": "industry",
+                "summary": "机构投资者因Binance黑客事件撤资。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场资金流动变化，调整策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-44",
+                "title": "Strategic Planning Must Get Faster and Change Quicker",
+                "source": "Inside Higher Ed",
+                "date": "2026-10-31",
+                "url": "https://www.insidehighered.com/opinion/columns/call-action/2026/10/30/higher-eds-strategic-planning-process-must-get-faster",
+                "category": "industry",
+                "summary": "战略规划需加快和灵活调整。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注行业动态，调整战略。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-10-31-industry-45",
+                "title": "HashPort、「HashPort Wallet」1周年を記念し、ご利用の皆さまへ感謝の記念SBT「Thanks SBT」をお届けするキャンペーンを開始",
+                "source": "Prtimes.jp",
+                "date": "2026-10-31",
+                "url": "https://prtimes.jp/main/html/rd/p/000000200.000046288.html",
+                "category": "industry",
+                "summary": "HashPort Wallet庆祝一周年并推出SBT活动。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险"
+            },
+            {
+                "id": "2026-10-31-industry-46",
+                "title": "Deconstructing the Binance Exploit",
+                "source": "Fireblocks Blog",
+                "date": "2026-10-31",
+                "url": "https://www.fireblocks.com/blog/binance-hack-eip-7702",
+                "category": "industry",
+                "summary": "Binance遭遇大规模攻击，涉及大量稳定币流出。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币安全性和市场反应。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Binance",
+                    "USDT",
+                    "USDC"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-47",
+                "title": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
+                "source": "The Block",
+                "date": "2026-10-31",
+                "url": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225",
+                "category": "industry",
+                "summary": "报道了历史最大加密黑客事件及其影响。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注安全性提升和合规措施",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-48",
+                "title": "President Trump says they’re looking into Binance hack as calls grow for crypto rules",
+                "source": "The Block",
+                "date": "2026-10-31",
+                "url": "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236",
+                "category": "industry",
+                "summary": "特朗普表示将关注Binance黑客事件并呼吁加密监管。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管政策变化，适时调整合规策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-49",
+                "title": "Texas brothers sentenced to 15 years for holding Minnesota family at gunpoint in $8 million crypto h",
+                "source": "The Block",
+                "date": "2026-10-31",
+                "url": "https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221",
+                "category": "industry",
+                "summary": "两兄弟因加密货币抢劫被判刑。",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注加密货币安全和监管政策变化",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-31-industry-50",
+                "title": "Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis",
+                "source": "The Block",
+                "date": "2026-10-31",
+                "url": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196",
+                "category": "industry",
+                "summary": "Trezor报告CryptoBilis硬件安全问题。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注硬件安全技术的进展。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Trezor",
+                    "CryptoBilis"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-51",
+                "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
+                "source": "Decrypt",
+                "date": "2026-10-31",
+                "url": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
+                "category": "industry",
+                "summary": "分析师认为Binance的安全失败影响行业信心。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场对安全性的反应，调整策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance",
+                    "Coinbase",
+                    "Robinhood"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-52",
+                "title": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
+                "source": "Decrypt",
+                "date": "2026-10-31",
+                "url": "https://decrypt.co/382269/crypto-kidnapping-texas-brothers-15-year-prison",
+                "category": "industry",
+                "summary": "德克萨斯州兄弟因绑架获刑，涉及加密货币转移。",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注加密货币安全和监管政策的变化",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-31-industry-53",
+                "title": "Morning Minute: Binance’s $6.4B Hack Overshadows Hyperliquid’s Biggest Day",
+                "source": "Decrypt",
+                "date": "2026-10-31",
+                "url": "https://decrypt.co/382225/morning-minute-binances-6-4b-hack-overshadows-hyperliquids-biggest-day",
+                "category": "industry",
+                "summary": "Binance遭遇历史最大黑客攻击，影响行业动态。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注安全性提升和市场反应",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Binance",
+                    "Hyperliquid"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-54",
+                "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
+                "source": "Decrypt",
+                "date": "2026-10-31",
+                "url": "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
+                "category": "industry",
+                "summary": "Trezor警告用户转移资金以防安全风险。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注硬件钱包安全性提升的趋势。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Trezor"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-55",
+                "title": "Stablecoins as a vehicle for dollarisation: Evidence from capital controls and currency crises - CEP",
+                "source": "Google News (cross-border stablecoin)",
+                "date": "2026-10-31",
+                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb0Y4N00zMW5tQkVZUmFLbzFqWHBROUJvZVNiTlc5Zk0zSFlaOVpyQ2swR0dKM2VKSUhKbHJVaHpqSUF5VUI4RjlNd1MtaXQ2U0ZnUWRRTThRdUFtR0Nwak0tNE1hQ1E0eUZrOG5CVzBGNGQ0LWxYaXVvdUJDNjJ0Sm1uY0stUkVFT19lX0VpbzZrQkFBQXBncVlxWG8xYUxuM3lUNEZfOUZ0UVZBU2pj?oc=5",
+                "category": "industry",
+                "summary": "稳定币在美元化中的作用被讨论。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "监管影响"
+                ],
+                "action": "关注稳定币在不同市场的应用情况。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-10-31-industry-56",
+                "title": "OCC Finalizes GENIUS Act Rule Existing Stablecoin Issuers Need Two Filings Before January 18 - JD Su",
+                "source": "Google News (stablecoin license)",
+                "date": "2026-10-31",
+                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWkJHeUZ5cTlseHNkVERMSWZKRThZWE5tV0U0TnZwU2JtZUtLRkNnRDdjOEYwZTlFa1ltNTFudV9zMlBzVktXN1M4Y2d3dndFUVZGZXZiQldlWGhVcWhieVdhUmViREh2SGk0Q0FyLTE3d3c2TXZOTXFBRW5iNW44aWVkcWs4Z01p?oc=5",
+                "category": "industry",
+                "summary": "OCC发布稳定币发行者新规，需提交两份文件。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注新规对稳定币市场的影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-10-31-industry-57",
+                "title": "Solana partners with a Hong Kong-licensed issuer to expand the $14 billion stablecoin market - KuCoi",
+                "source": "Google News (stablecoin license)",
+                "date": "2026-10-31",
+                "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0Zld0lremJ1b1EySkdZYjBld2x1LTF6YTdBY1c5WTBiNFpaWXNGWkVXQlNrU2wxZGw5QkVPOU5VN0cyQ3VkMDJZWTdiSjhBN1ZVLXFES05Rd1V4Tmpia0kzT3lEb1ctR2Q3Z005WS0yRjBuUnpRbkpZZFpxMmtGZkpaaW9kZHQ0TWdxQWxTTER2OVo2eUVsaUtvOFZEZUx0RlhjeF80Z0c3NmJ3cmJrcWpsWmlmaVZ2OWlZ?oc=5",
+                "category": "industry",
+                "summary": "Solana与香港发行商合作扩展稳定币市场。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币市场动态，评估潜在影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照",
+                "tickers": [
+                    "Solana",
+                    "KuCoin"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-58",
+                "title": "Paybis data shows settlement volume up 163% as USDC becomes the leading settlement stablecoin - mark",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-10-31",
+                "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZE54WWFsUnBTUkRneWliTjJPR0JUTERXVWFaR1hDTTNYRnNTYW8zeG1VMVV0OUhxSFJaQVp0NlJxTFY1SEwzaEh1d1ZocUZKb25rM1hqb180dkJXV254RXBEb0ZtdnhCUE1iSVctaTJpYWd4U1VRR090UlR1ZW5ldXFuZGwxbEpMNnUwWDJiN0VJY3I1TEVNVGZobk9ESExXMDRvcHhqdnBmaWFfbVZwb0x3Ql81d3pYVWx0eDZaWnZ1SnoxU3VHaHZsMjE2dE5rYnVENTFnaUZRNnpIT1lzWHFBQmt2dw?oc=5",
+                "category": "industry",
+                "summary": "USDC的结算量大幅增长，反映市场趋势。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注USDC的市场动态，调整策略。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-10-31-industry-59",
+                "title": "ACI Worldwide & Circle Bring USDC Settlement to Colombia - FinTech Magazine",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-10-31",
+                "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2VZZ2VUMWw0dkIzLXJreDlXUnJoOThGZ0ZkdFBlS3ZhcGRFbUtZNmdhblJCMlV3THlzbWZWWXFFdDZvTTNCXzNrWHh6LVd5bUJmZWI1RzF1M0hoTFY2R1Q4ZTdyWmpRZ08xcVE2WHRiWnk4X1AyRTBmZkl4NWNFejU1dXpTVXZnWGpiT280QlU?oc=5",
+                "category": "industry",
+                "summary": "ACI Worldwide与Circle在哥伦比亚推出USDC结算服务。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币在拉美市场的应用动态。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "ACI Worldwide",
+                    "Circle"
+                ]
+            },
+            {
+                "id": "2026-10-31-industry-60",
+                "title": "The stablecoin trust gap is an infrastructure problem - Funds Europe",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-10-31",
+                "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNDZab0tTQ0EwM3FtOTdxQndKblk2TzNrYUdpUGctTTduSXZ4Rk9YeDNoR05QZTJwNVhiY3YtQnctUEdkcVpNRHFtdjRhczVJajZ2dTFlYm5XR3dkeklrbnhfUnROQi1VMGplV2tjR2Y0UVZJT0lLeHFaVTlYUDR2NTNTZnZZUQ?oc=5",
+                "category": "industry",
+                "summary": "稳定币信任缺口是基础设施问题。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展",
+                    "竞争格局"
+                ],
+                "action": "关注基础设施改进动态。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-10-31-industry-61",
+                "title": "Stablecoin payments move from crypto markets into banking rails - grafa.com",
+                "source": "Google News (stablecoin settlement)",
+                "date": "2026-10-31",
+                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUh3WnNqeGpKaTd4UXU5cmJYYVhkY2lJcVF2S3dib2duTXNBWjBFczU3anFJbWZCdUx3R0p2bm9vcVY0a0FtQkx6SFo1ZmFXNWxKaFpfTWtPNTRBRFNRY1E1V3U0MHhZSXlJNHd4dTFqS1ZtVW8tZ3I1RERVMXEwWWN3ZkJuVDBhUXp3blpUWVo0WElBMTZraDZnUko?oc=5",
+                "category": "industry",
+                "summary": "稳定币支付正在向银行体系转变。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币在银行体系的应用发展。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            }
+        ],
+        "stats": {
+            "totalThreats": 0,
+            "highThreats": 0,
+            "mediumThreats": 0,
+            "lowThreats": 0,
+            "competitorUpdates": 0,
+            "customerUpdates": 0,
+            "industryUpdates": 62
+        },
+        "dailySummary": {
+            "competitorThreat": "今日暂无竞争对手相关动态。",
+            "industryTrend": "今日行业的主要热点是币安遭遇6.3亿美元的黑客攻击，导致其冻结大量资产，市场信心受到重创。此次事件不仅是历史上最大的加密货币黑客事件，也引发了对行业安全性的广泛关注。值得注意的是，Tether和Circle也因安全事件冻结了资金，这表明稳定币托管和支付基础设施面临更高的风险和监管压力。随着用户对安全性的担忧加剧，行业可能会加速向更为安全的解决方案转型，推动合规和技术创新的发展。"
+        },
+        "highlights": {
+            "competitors": [],
+            "clients": [],
+            "industry": [
+                {
+                    "id": "2026-10-31-industry-0",
+                    "title": "Live updates: Binance $6.3B hack linked to North Korea’s TraderTraitor",
+                    "source": "Cointelegraph",
+                    "date": "2026-10-31",
+                    "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor",
+                    "category": "industry",
+                    "summary": "Binance遭黑客攻击，影响行业安全信任。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "关注安全事件对市场信任的影响",
+                    "subcategory": "other",
+                    "subcategoryName": "其他"
+                },
+                {
+                    "id": "2026-10-31-industry-1",
+                    "title": "Crypto exchange Binance freezes assets after $6.3 billion security breach",
+                    "source": "Yahoo Entertainment",
+                    "date": "2026-10-31",
+                    "url": "https://finance.yahoo.com/markets/crypto/articles/tether-circle-freeze-2-38-222607515.html",
+                    "category": "industry",
+                    "summary": "币安因安全漏洞冻结资产，影响行业信心。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "关注安全措施和合规动态",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照",
+                    "tickers": [
+                        "Binance"
+                    ]
+                },
+                {
+                    "id": "2026-10-31-industry-2",
+                    "title": "Crypto exchange Binance freezes assets after US$6.3 billion security breach",
+                    "source": "CNA",
+                    "date": "2026-10-31",
+                    "url": "https://www.channelnewsasia.com/world/cryptocurrency-binance-freezes-assets-security-breach-6505586",
+                    "category": "industry",
+                    "summary": "币安因安全漏洞冻结资产，影响行业信心。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "关注行业安全标准提升",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照",
+                    "tickers": [
+                        "Binance"
+                    ]
+                }
+            ]
+        }
+    },
+    {
         "date": "2026-10-30",
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-10-30.md",
@@ -80659,309 +81917,6 @@ const dailyReports = [
                         "Onafriq",
                         "Privy"
                     ]
-                }
-            ]
-        }
-    },
-    {
-        "date": "2026-08-02",
-        "title": "稳定币行业日报",
-        "file": "reports/daily/daily_brief_2026-08-02.md",
-        "newsItems": [
-            {
-                "id": "2026-08-02-industry-0",
-                "title": "Bitget Wallet Card Turns Cashback Into Bitcoin, Gold and Tokenized Stocks",
-                "source": "GlobeNewswire",
-                "date": "2026-08-02",
-                "url": "https://www.globenewswire.com/news-release/2026/08/01/3337111/0/en/Bitget-Wallet-Card-Turns-Cashback-Into-Bitcoin-Gold-and-Tokenized-Stocks.html",
-                "category": "industry",
-                "summary": "Bitget Wallet Card 提供比特币返现服务。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注支付领域的新兴趋势。",
-                "subcategory": "custody_mpc_risk",
-                "subcategoryName": "托管与风险"
-            },
-            {
-                "id": "2026-08-02-industry-1",
-                "title": "Trade.xyz begins compensating users for SKHYNIX perpetual futures pricing incident",
-                "source": "Crypto Briefing",
-                "date": "2026-08-02",
-                "url": "https://cryptobriefing.com/trade-xyz-skhynix-compensation-liquidation-incident/",
-                "category": "industry",
-                "summary": "Trade.xyz因SKHYNIX期货定价事件开始补偿用户。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注市场动态，评估对业务的影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他",
-                "tickers": [
-                    "Trade.xyz"
-                ]
-            },
-            {
-                "id": "2026-08-02-industry-2",
-                "title": "Minnesota bans crypto kiosks after residents lost nearly $1M to scams",
-                "source": "Crypto Briefing",
-                "date": "2026-08-02",
-                "url": "https://cryptobriefing.com/minnesota-bans-crypto-kiosks-scam-losses/",
-                "category": "industry",
-                "summary": "明尼苏达州禁止加密货币自助终端，因居民被骗近百万。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注监管动态，评估对业务的潜在影响。",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-08-02-industry-3",
-                "title": "OpenAI showcases Astra AI model in Washington D.C. preview, and crypto markets should be paying atte",
-                "source": "Crypto Briefing",
-                "date": "2026-08-02",
-                "url": "https://cryptobriefing.com/openai-astra-ai-model-dc-preview/",
-                "category": "industry",
-                "summary": "OpenAI展示新模型，可能影响加密市场趋势。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注AI与加密结合的潜在机会",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-08-02-industry-4",
-                "title": "Coinbase reports delayed MultiversX transactions for some users",
-                "source": "Crypto Briefing",
-                "date": "2026-08-02",
-                "url": "https://cryptobriefing.com/coinbase-multiversx-egld-transaction-delays/",
-                "category": "industry",
-                "summary": "Coinbase报告部分用户的MultiversX交易延迟问题。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注交易所动态，评估市场影响。",
-                "subcategory": "other",
-                "subcategoryName": "其他",
-                "tickers": [
-                    "Coinbase"
-                ]
-            },
-            {
-                "id": "2026-08-02-industry-5",
-                "title": "Public Storage Q2 Earnings Call Highlights",
-                "source": "Biztoc.com",
-                "date": "2026-08-02",
-                "url": "https://biztoc.com/x/fea55533040c41b9",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-08-02-industry-6",
-                "title": "How To Launch Your Business Successfully With Your Company Formations Support",
-                "source": "Addicted2success.com",
-                "date": "2026-08-02",
-                "url": "https://addicted2success.com/scale-your-business/launch-business-company-formation-support/",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-08-02-industry-7",
-                "title": "Emergent Ventures India, 18th cohort",
-                "source": "Marginalrevolution.com",
-                "date": "2026-08-02",
-                "url": "https://marginalrevolution.com/marginalrevolution/2026/08/emergent-ventures-india-18th-cohort.html",
-                "category": "industry",
-                "summary": "Emergent Ventures India 的第18期活动涉及加密行业动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-08-02-industry-8",
-                "title": "Galaxy Digital Says $70,000,000 Drained From Bitcoin Holders in Coldcard Wallet Exploit",
-                "source": "The Daily Hodl",
-                "date": "2026-08-02",
-                "url": "https://dailyhodl.com/2026/07/31/galaxy-digital-says-70000000-drained-from-bitcoin-holders-in-coldcard-wallet-exploit/",
-                "category": "industry",
-                "summary": "Coldcard 钱包遭到攻击，损失7000万美元。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注安全技术的改进和市场反应。",
-                "subcategory": "custody_mpc_risk",
-                "subcategoryName": "托管与风险"
-            },
-            {
-                "id": "2026-08-02-industry-9",
-                "title": "BlackRock clients sell 1,948 Bitcoin for $123M as ETF redemptions continue",
-                "source": "Crypto Briefing",
-                "date": "2026-08-02",
-                "url": "https://cryptobriefing.com/blackrock-clients-sell-bitcoin-etf-redemptions/",
-                "category": "industry",
-                "summary": "BlackRock客户出售比特币，反映市场动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势"
-                ],
-                "action": "关注市场对稳定币的影响",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-08-02-industry-10",
-                "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances - CoinDesk",
-                "source": "Google News (stablecoin payment)",
-                "date": "2026-08-02",
-                "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZVMxWHg5OFg0bHBhWHpaZkljcE9xZVBIclFtRHlwU3ZJYnM0dzE0R19IaUx3elVZUFdDeXJ0bzZpb09peXFYTXRfWDNyNFlXUWF5WFk1QjNzczVQalNJeHFfSzJaYWN2cWZGWTJRMXFGMklnN0I4MTMxdkdhR2lGbWV4UGNYZUFNcE8tWlRsaFVVSVNyck9EUzN1ZzZhdEpncVlHemdDcXJnSnZ6bzFrUHlqR3RBNWJ3OU1FZDNQSC1scHJHclRoNzBFRQ?oc=5",
-                "category": "industry",
-                "summary": "意大利银行研究稳定币汇款成本问题。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注稳定币在汇款中的应用变化",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-08-02-industry-11",
-                "title": "Cathie Wood Buys More Circle Stock Amid New York License Success - Cryptonews.net",
-                "source": "Google News (stablecoin license)",
-                "date": "2026-08-02",
-                "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mWG5na1dMYjFDcnZtNkgya1kzSWFMd0FTUkN0ZkQ0eTA3bUp5dHNPS0ppdENRUjEtMmdwV09pd29FcEU4ZFBTOTBXaWdfelp2dkFEcEJsMVQ?oc=5",
-                "category": "industry",
-                "summary": "Cathie Wood增持Circle股票，反映市场动态。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "投资机会"
-                ],
-                "action": "关注Circle的市场表现和监管动态",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照",
-                "tickers": [
-                    "Circle"
-                ]
-            },
-            {
-                "id": "2026-08-02-industry-12",
-                "title": "Why Africa Has The Highest Stablecoin Adoption Rate In The World - Tech Build Africa",
-                "source": "Google News (stablecoin settlement)",
-                "date": "2026-08-02",
-                "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zQU4xbUtub3lGMlJHZkRyNDhTS05rakItSnI5ZllOMkRmbDJRak9tenJmMnNNWUdjSWFzY0s0SGhBY3B5eHdjSUxSYWVhMVhGSFlyVFpLTkhuWUdUUlhob2JwYm9pRkVURFJpN3BuT1o0d3ZCSFZnMA?oc=5",
-                "category": "industry",
-                "summary": "非洲稳定币采用率最高的原因分析。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注非洲市场动态，调整策略。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            }
-        ],
-        "stats": {
-            "totalThreats": 0,
-            "highThreats": 0,
-            "mediumThreats": 0,
-            "lowThreats": 0,
-            "competitorUpdates": 0,
-            "customerUpdates": 0,
-            "industryUpdates": 13
-        },
-        "dailySummary": {
-            "competitorThreat": "今日暂无竞争对手相关动态。",
-            "industryTrend": "今日行业热点主要集中在用户保护和市场动态方面。明尼苏达州禁止加密货币自助终端，反映出监管对用户安全的重视；而Galaxy Digital报告Coldcard钱包遭攻击，导致7000万美元损失，进一步凸显了安全性的重要性。此外，BlackRock客户大规模出售比特币，可能预示着市场流动性紧张。稳定币托管和支付基础设施行业需加强安全保障措施，以应对潜在的风险，同时提升用户信任度，推动更广泛的采用。"
-        },
-        "highlights": {
-            "competitors": [],
-            "clients": [],
-            "industry": [
-                {
-                    "id": "2026-08-02-industry-0",
-                    "title": "Bitget Wallet Card Turns Cashback Into Bitcoin, Gold and Tokenized Stocks",
-                    "source": "GlobeNewswire",
-                    "date": "2026-08-02",
-                    "url": "https://www.globenewswire.com/news-release/2026/08/01/3337111/0/en/Bitget-Wallet-Card-Turns-Cashback-Into-Bitcoin-Gold-and-Tokenized-Stocks.html",
-                    "category": "industry",
-                    "summary": "Bitget Wallet Card 提供比特币返现服务。",
-                    "threatLevel": "medium",
-                    "impact": [
-                        "市场趋势",
-                        "技术发展"
-                    ],
-                    "action": "关注支付领域的新兴趋势。",
-                    "subcategory": "custody_mpc_risk",
-                    "subcategoryName": "托管与风险"
-                },
-                {
-                    "id": "2026-08-02-industry-1",
-                    "title": "Trade.xyz begins compensating users for SKHYNIX perpetual futures pricing incident",
-                    "source": "Crypto Briefing",
-                    "date": "2026-08-02",
-                    "url": "https://cryptobriefing.com/trade-xyz-skhynix-compensation-liquidation-incident/",
-                    "category": "industry",
-                    "summary": "Trade.xyz因SKHYNIX期货定价事件开始补偿用户。",
-                    "threatLevel": "medium",
-                    "impact": [
-                        "市场趋势",
-                        "竞争格局"
-                    ],
-                    "action": "关注市场动态，评估对业务的影响。",
-                    "subcategory": "other",
-                    "subcategoryName": "其他",
-                    "tickers": [
-                        "Trade.xyz"
-                    ]
-                },
-                {
-                    "id": "2026-08-02-industry-2",
-                    "title": "Minnesota bans crypto kiosks after residents lost nearly $1M to scams",
-                    "source": "Crypto Briefing",
-                    "date": "2026-08-02",
-                    "url": "https://cryptobriefing.com/minnesota-bans-crypto-kiosks-scam-losses/",
-                    "category": "industry",
-                    "summary": "明尼苏达州禁止加密货币自助终端，因居民被骗近百万。",
-                    "threatLevel": "high",
-                    "impact": [
-                        "监管影响",
-                        "市场趋势"
-                    ],
-                    "action": "关注监管动态，评估对业务的潜在影响。",
-                    "subcategory": "regulation_licensing",
-                    "subcategoryName": "监管牌照"
                 }
             ]
         }
