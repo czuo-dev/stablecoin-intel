@@ -1,0 +1,2021 @@
+{
+  "competitors": [],
+  "clients": [],
+  "industry": [
+    {
+      "id": "news_b67d5c9513a2",
+      "title": "Uber joins HSBC, Franklin Templeton in blockchain investing test",
+      "content": "Uber pilots blockchain-powered treasury with HSBC, Franklin Templeton tokenized funds, aiming for higher yields and liquidity amid corporate cash shifts",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/uber-joins-hsbc-franklin-templeton-in-blockchain-investing-test/article71648182.ece",
+      "source": "BusinessLine",
+      "source_type": "news",
+      "author": "Bloomberg",
+      "published_at": "2026-10-31T04:38:51Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": "Bloomberg",
+        "title": "Uber joins HSBC, Franklin Templeton in blockchain investing test",
+        "description": "Uber pilots blockchain-powered treasury with HSBC, Franklin Templeton tokenized funds, aiming for higher yields and liquidity amid corporate cash shifts",
+        "url": "https://www.thehindubusinessline.com/money-and-banking/uber-joins-hsbc-franklin-templeton-in-blockchain-investing-test/article71648182.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/49z5j3/article71648260.ece/alternates/LANDSCAPE_1200/IMG_bl01_Block_chain_2_1_I99LJT0P.jpg",
+        "publishedAt": "2026-10-31T04:38:51Z",
+        "content": "The ride-hailing company Uber Technologies Inc. used a public blockchain to invest its corporate funds in a way that allowed the company to capture higher returns by trading on a weekend a setup expe… [+2420 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "Fireblocks",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Uber",
+        "HSBC",
+        "Franklin Templeton"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Uber与HSBC等公司共同测试区块链投资。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及区块链投资",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注区块链投资动态，评估市场机会。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_48aab4def1ad",
+      "title": "Türkiye, Uzbekistan target $5 billion in trade",
+      "content": "Türkiye and Uzbekistan have signed agreements to expand trade and investment as they seek to raise annual bilateral trade to $5 billion from about $3.1 billion in 2025.",
+      "url": "https://www.hurriyetdailynews.com/turkiye-uzbekistan-target-5-billion-in-trade-228825",
+      "source": "Hurriyet Daily News",
+      "source_type": "news",
+      "author": "hurriyetdailynews.com",
+      "published_at": "2026-10-31T08:13:38Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Hurriyet Daily News"
+        },
+        "author": "hurriyetdailynews.com",
+        "title": "Türkiye, Uzbekistan target $5 billion in trade",
+        "description": "Türkiye and Uzbekistan have signed agreements to expand trade and investment as they seek to raise annual bilateral trade to $5 billion from about $3.1 billion in 2025.",
+        "url": "https://www.hurriyetdailynews.com/turkiye-uzbekistan-target-5-billion-in-trade-228825",
+        "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ae5a32ac44e39ea41369f09.jpg",
+        "publishedAt": "2026-10-31T08:13:38Z",
+        "content": "ANKARA\r\nTürkiye and Uzbekistan have signed agreements to expand trade and investment as they seek to raise annual bilateral trade to $5 billion from about $3.1 billion in 2025.\r\nThe two countries sig… [+1456 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "Copper",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "土耳其与乌兹别克斯坦目标达成500亿美元贸易额。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到跨境贸易",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注跨境支付的发展动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_d48db809c36b",
+      "title": "Life Imitates Art: The $6.3 Billion Binance Hack",
+      "content": "Someone stole $6.3 billion from Binance ten days after I published the last chapter of Zero Knowledge. Some of the coverage reads like chapters I already wrote.",
+      "url": "https://feld.com/archives/2026/10/life-imitates-art-binance-hack/",
+      "source": "Feld.com",
+      "source_type": "news",
+      "author": "Brad Feld",
+      "published_at": "2026-10-31T04:03:55Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Feld.com"
+        },
+        "author": "Brad Feld",
+        "title": "Life Imitates Art: The $6.3 Billion Binance Hack",
+        "description": "Someone stole $6.3 billion from Binance ten days after I published the last chapter of Zero Knowledge. Some of the coverage reads like chapters I already wrote.",
+        "url": "https://feld.com/archives/2026/10/life-imitates-art-binance-hack/",
+        "urlToImage": "https://feld.com/og-default.png",
+        "publishedAt": "2026-10-31T04:03:55Z",
+        "content": "The lock held. The money left through the side door.\r\nOn Thursday, someone stole $6.3 billion from Binance, the world’s largest crypto exchange. Most of it left in about 20 minutes.\r\nIt’s the largest… [+9339 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance遭遇63亿美元黑客攻击事件。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注行业安全动态，提升自身安全措施。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_c699e3ea812f",
+      "title": "Crypto exchanges call for quick moves to bolster defenses after Binance heist",
+      "content": "Oct 30 : Crypto exchanges are taking quick action to bolster their defenses and urging greater industry-wide information-sharing after a record $6.3 billion hack of Binance exposed their vulnerability just as they become more embedded in mainstream finance.Co…",
+      "url": "https://www.channelnewsasia.com/business/crypto-exchanges-call-quick-moves-bolster-defenses-after-binance-heist-6508836",
+      "source": "CNA",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-10-31T00:26:58Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CNA"
+        },
+        "author": null,
+        "title": "Crypto exchanges call for quick moves to bolster defenses after Binance heist",
+        "description": "Oct 30 : Crypto exchanges are taking quick action to bolster their defenses and urging greater industry-wide information-sharing after a record $6.3 billion hack of Binance exposed their vulnerability just as they become more embedded in mainstream finance.Co…",
+        "url": "https://www.channelnewsasia.com/business/crypto-exchanges-call-quick-moves-bolster-defenses-after-binance-heist-6508836",
+        "urlToImage": "https://dam.mediacorp.sg/image/upload/s--McZ9U_o2--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-31T002908Z_2_LYNXNPEM9U00R_RTROPTP_3_FINTECH-CRYPTO-BINANCE-HACK.JPG?itok=kqd504dr",
+        "publishedAt": "2026-10-31T00:26:58Z",
+        "content": "Oct 30 : Crypto exchanges are taking quick action to bolster their defenses and urging greater industry-wide information-sharing after a record $6.3 billion hack of Binance exposed their vulnerabilit… [+3986 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "加密交易所呼吁加强安全防御措施",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到交易所安全问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全技术发展和市场反应",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_90d8af1cb9c3",
+      "title": "Maple locks $280M in XRP collateral and upcoming maturity dates threaten liquidations",
+      "content": "About 225 million XRP supports three stablecoin loan positions, but December and January maturities do not guarantee automatic collateral releases.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Cat…",
+      "url": "https://cryptoslate.com/maple-locks-280m-in-xrp-collateral-and-upcoming-maturity-dates-threaten-liquidations/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Gino Matos",
+      "published_at": "2026-10-31T00:10:43Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Gino Matos",
+        "title": "Maple locks $280M in XRP collateral and upcoming maturity dates threaten liquidations",
+        "description": "About 225 million XRP supports three stablecoin loan positions, but December and January maturities do not guarantee automatic collateral releases.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Cat…",
+        "url": "https://cryptoslate.com/maple-locks-280m-in-xrp-collateral-and-upcoming-maturity-dates-threaten-liquidations/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/10/maple-finance-xrp-collateral-standard-image-v2.jpg",
+        "publishedAt": "2026-10-31T00:10:43Z",
+        "content": "XRP Ledger's reported DeFi value includes roughly $280 million in XRP collateral backing Maple loans funded from Ethereum pools, offering a reason to hold the token while borrowing stablecoins.\r\nYet … [+4702 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Maple 锁定 XRP 抵押品，面临清算威胁。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_91770602b51f",
+      "title": "Titan Builder briefly tops DeFiLlama’s 24-hour revenue rankings at $22.83 million",
+      "content": "Titan Builder's brief revenue surge highlights the volatility and competitive dynamics in Ethereum's block-building market, raising concerns about market concentration.\nThe post Titan Builder briefly tops DeFiLlama’s 24-hour revenue rankings at $22.83 million…",
+      "url": "https://cryptobriefing.com/titan-builder-tops-defillama-revenue-rankings/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-10-31T06:54:39Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Titan Builder briefly tops DeFiLlama’s 24-hour revenue rankings at $22.83 million",
+        "description": "Titan Builder's brief revenue surge highlights the volatility and competitive dynamics in Ethereum's block-building market, raising concerns about market concentration.\nThe post Titan Builder briefly tops DeFiLlama’s 24-hour revenue rankings at $22.83 million…",
+        "url": "https://cryptobriefing.com/titan-builder-tops-defillama-revenue-rankings/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/31025433/library-titan-builder-briefly-tops-defillama-s-24-hour-revenue-r-800x450.png",
+        "publishedAt": "2026-10-31T06:54:39Z",
+        "content": "An Ethereum block builder outearned Tether and Circle for a day as MEV bot activity surged across the networkFor one day, the most lucrative name in crypto was not a stablecoin giant or a buzzy excha… [+4421 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Titan Builder在DeFi收入排名中表现突出。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到DeFi相关动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注DeFi市场动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_8a30f73a5344",
+      "title": "Crypto exchanges tighten security after $6.3 billion Binance hack",
+      "content": "The Binance hack underscores the urgent need for enhanced security and collaboration in the crypto industry as it integrates with mainstream finance.\nThe post Crypto exchanges tighten security after $6.3 billion Binance hack appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/crypto-exchanges-security-binance-hack/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-10-31T00:54:58Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Crypto exchanges tighten security after $6.3 billion Binance hack",
+        "description": "The Binance hack underscores the urgent need for enhanced security and collaboration in the crypto industry as it integrates with mainstream finance.\nThe post Crypto exchanges tighten security after $6.3 billion Binance hack appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/crypto-exchanges-security-binance-hack/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/30205453/library-crypto-exchanges-tighten-security-after-6-3-billion-bina-800x450.png",
+        "publishedAt": "2026-10-31T00:54:58Z",
+        "content": "Rival platforms are adjusting cold storage, studying the breach, and calling for faster threat-intelligence sharing across the industryBinance lost approximately $6.3 billion from its hot wallets in … [+3783 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "加密交易所加强安全措施应对黑客攻击。",
+      "business_relevance": 0.7,
+      "relevance_reason": "交易所安全动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全技术发展，提升自身安全性。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_9312b1a7c49e",
+      "title": "Tether receives $223M USDT transfer from Bitfinex",
+      "content": "The routine internal transfers between Bitfinex and Tether reinforce USDT's stability, enhancing market confidence despite large movements.\nThe post Tether receives $223M USDT transfer from Bitfinex appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/tether-receives-223m-usdt-from-bitfinex/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-10-31T00:50:45Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Tether receives $223M USDT transfer from Bitfinex",
+        "description": "The routine internal transfers between Bitfinex and Tether reinforce USDT's stability, enhancing market confidence despite large movements.\nThe post Tether receives $223M USDT transfer from Bitfinex appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/tether-receives-223m-usdt-from-bitfinex/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/30205038/library-tether-receives-223m-usdt-transfer-from-bitfinex-800x450.png",
+        "publishedAt": "2026-10-31T00:50:45Z",
+        "content": "A 222.7 million USDT move from Bitfinex to the Tether Treasury fits a busy month of internal transfers between the sister companiesBitfinex sent 222.7 million USDT to the Tether Treasury, according t… [+3378 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Tether",
+        "Bitfinex"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Tether从Bitfinex接收了2.23亿美元的USDT转账。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币转账",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态和竞争对手的转账活动。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_6f737e283240",
+      "title": "120 million TRX from the Binance hack moves to an unknown wallet",
+      "content": "The incident highlights the challenges of recovering non-freezable assets, prompting calls for enhanced security and potential shifts to decentralized exchanges.\nThe post 120 million TRX from the Binance hack moves to an unknown wallet appeared first on Crypt…",
+      "url": "https://cryptobriefing.com/binance-hack-120m-trx-unknown-wallet/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-10-31T01:10:41Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "120 million TRX from the Binance hack moves to an unknown wallet",
+        "description": "The incident highlights the challenges of recovering non-freezable assets, prompting calls for enhanced security and potential shifts to decentralized exchanges.\nThe post 120 million TRX from the Binance hack moves to an unknown wallet appeared first on Crypt…",
+        "url": "https://cryptobriefing.com/binance-hack-120m-trx-unknown-wallet/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/30211034/library-120-million-trx-from-the-binance-hack-moves-to-an-unknow-800x450.png",
+        "publishedAt": "2026-10-31T01:10:41Z",
+        "content": "Funds tied to the record October 29 breach are on the move again, and TRX is proving much harder to claw back than stablecoinsA wallet holding stolen funds from the Binance hack has moved 120 million… [+3157 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Binance黑客事件引发的资金转移动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注黑客事件对市场信任度的影响。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_b94b442f404a",
+      "title": "FBI, Secret Service join probe as $6 bn Binance hack rattles crypto markets",
+      "content": "The US agencies are coordinating with private-sector partners to assess the breach and recover stolen funds, while Binance pledged to cover all losses",
+      "url": "https://www.business-standard.com/markets/cryptocurrency/fbi-secret-service-join-probe-as-6-bn-binance-hack-rattles-crypto-markets-126103100226_1.html",
+      "source": "Business Standard",
+      "source_type": "news",
+      "author": "Bloomberg",
+      "published_at": "2026-10-31T03:57:03Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Business Standard"
+        },
+        "author": "Bloomberg",
+        "title": "FBI, Secret Service join probe as $6 bn Binance hack rattles crypto markets",
+        "description": "The US agencies are coordinating with private-sector partners to assess the breach and recover stolen funds, while Binance pledged to cover all losses",
+        "url": "https://www.business-standard.com/markets/cryptocurrency/fbi-secret-service-join-probe-as-6-bn-binance-hack-rattles-crypto-markets-126103100226_1.html",
+        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/31/thumb/fitandfill/1200X628/1793418061-239.jpg",
+        "publishedAt": "2026-10-31T03:57:03Z",
+        "content": "The US agencies are coordinating with private-sector partners to assess the breach and recover stolen funds, while Binance pledged to cover all losses\r\nThe Binance logo on a smartphone in New York | … [+5237 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "FBI和特勤局介入调查Binance黑客事件，影响市场情绪。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，评估潜在影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_01e7d38dcee3",
+      "title": "Tether’s Q3 Reserve Buffer Rises to $7.95B; BDO Assurance Covers September 30 Only",
+      "content": "Tether reports $1.5 billion in Q3 net operating profit, while BDO’s reasonable-assurance report covers reserve figures at one date, not later activity or present-day liquidity.",
+      "url": "https://forkast.news/tethers-q3-reserve-buffer-rises-to-7-95b-bdo-assurance-covers-september-30-only/",
+      "source": "Forkast.news",
+      "source_type": "news",
+      "author": "Nolan Pratt",
+      "published_at": "2026-10-31T01:45:30Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Forkast.news"
+        },
+        "author": "Nolan Pratt",
+        "title": "Tether’s Q3 Reserve Buffer Rises to $7.95B; BDO Assurance Covers September 30 Only",
+        "description": "Tether reports $1.5 billion in Q3 net operating profit, while BDO’s reasonable-assurance report covers reserve figures at one date, not later activity or present-day liquidity.",
+        "url": "https://forkast.news/tethers-q3-reserve-buffer-rises-to-7-95b-bdo-assurance-covers-september-30-only/",
+        "urlToImage": "https://forkast.news/wp-content/uploads/2026/10/tether-q3-reserve-snapshot-bounded-flow-1024x687.jpg",
+        "publishedAt": "2026-10-31T01:45:30Z",
+        "content": "On October 30, 2026, Tether released its Q3 figures. The publication date and the balance date are different: the release is dated October 30, but its reserve figures describe September 30. That dist… [+5029 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Tether"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Tether的储备缓冲增加至79.5亿美元。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币储备情况",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态，评估对Cobo的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_f08eac8408df",
+      "title": "US probing possible North Korean link to $6.3 bn Binance hack: Trump",
+      "content": "The US president said Washington was investigating whether North Korean hackers were behind the record cryptocurrency theft, as Binance said about $3 billion of the stolen assets had been frozen",
+      "url": "https://www.business-standard.com/world-news/us-probing-possible-north-korean-link-to-6-3-bn-binance-hack-trump-126103100220_1.html",
+      "source": "Business Standard",
+      "source_type": "news",
+      "author": "Bloomberg",
+      "published_at": "2026-10-31T03:47:56Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Business Standard"
+        },
+        "author": "Bloomberg",
+        "title": "US probing possible North Korean link to $6.3 bn Binance hack: Trump",
+        "description": "The US president said Washington was investigating whether North Korean hackers were behind the record cryptocurrency theft, as Binance said about $3 billion of the stolen assets had been frozen",
+        "url": "https://www.business-standard.com/world-news/us-probing-possible-north-korean-link-to-6-3-bn-binance-hack-trump-126103100220_1.html",
+        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/21/thumb/fitandfill/1200X628/1792551527-2645.jpg",
+        "publishedAt": "2026-10-31T03:47:56Z",
+        "content": "The US president said Washington was investigating whether North Korean hackers were behind the record cryptocurrency theft, as Binance said about $3 billion of the stolen assets had been frozen\r\nThe… [+2601 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "美国调查与北朝鲜有关的Binance黑客事件",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币安全事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注加密货币安全监管动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_fc2019702cab",
+      "title": "Aave reopens frozen markets but blocks new collateral loans",
+      "content": "LlamaRisk reports the main emergency batches executed, while available liquidity and collateral rules still determine practical access.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in you…",
+      "url": "https://cryptoslate.com/aave-reopens-frozen-markets-but-blocks-new-collateral-loans/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Gino Matos",
+      "published_at": "2026-10-31T03:40:43Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Gino Matos",
+        "title": "Aave reopens frozen markets but blocks new collateral loans",
+        "description": "LlamaRisk reports the main emergency batches executed, while available liquidity and collateral rules still determine practical access.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in you…",
+        "url": "https://cryptoslate.com/aave-reopens-frozen-markets-but-blocks-new-collateral-loans/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/10/aave-emergency-cap-cuts-standard-image.jpg",
+        "publishedAt": "2026-10-31T03:40:43Z",
+        "content": "Emergency cap cuts at Aave preserve borrowing room to return to pre-Binance hot-wallet levels, even as LlamaRisk estimates they remove roughly $3.8 billion of unused capacity.\r\nIn an Oct. 30 update, … [+5440 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Aave重新开放冻结市场，影响DeFi生态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到DeFi市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注DeFi市场变化，调整策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_6194c3888e69",
+      "title": "‘Our SpaceX shares are worth more than a bn’: Binance's CZ responds to Musk's trolling as hack investigation continues",
+      "content": "Binance co-founder Changpeng Zhao urged Elon Musk to stop mocking the exchange after a major breach, noting that Binance had invested $500 million in Musk’s Twitter takeover. Binance says about $3 billion in customer funds have been located and is reviewing s…",
+      "url": "https://www.livemint.com/companies/people/our-spacex-shares-are-worth-more-than-a-bn-binances-cz-responds-to-musks-trolling-as-hack-investigation-continues-11793408541466.html",
+      "source": "Livemint",
+      "source_type": "news",
+      "author": "Bobins Vayalil Abraham",
+      "published_at": "2026-10-31T01:15:04Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Bobins Vayalil Abraham",
+        "title": "‘Our SpaceX shares are worth more than a bn’: Binance's CZ responds to Musk's trolling as hack investigation continues",
+        "description": "Binance co-founder Changpeng Zhao urged Elon Musk to stop mocking the exchange after a major breach, noting that Binance had invested $500 million in Musk’s Twitter takeover. Binance says about $3 billion in customer funds have been located and is reviewing s…",
+        "url": "https://www.livemint.com/companies/people/our-spacex-shares-are-worth-more-than-a-bn-binances-cz-responds-to-musks-trolling-as-hack-investigation-continues-11793408541466.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2026/10/31/1600x900/logo/cz_1793408947022_Z8Vn_1793408979091_Sl5S_70590d8f-3363-4c7d-84b2-25e0e0808e3e_w521.jpg",
+        "publishedAt": "2026-10-31T01:15:04Z",
+        "content": "Changpeng Zhao, the co-founder of Binance, has said that he would appreciate some support from Tesla CEO Elon Musk, who had been mocking the crypto exchange ever since the news of the massive hack be… [+3797 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance",
+        "SpaceX"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Binance CEO回应马斯克关于黑客调查的评论",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "竞争格局",
+        "市场趋势"
+      ],
+      "industry_action": "关注交易所动态对市场的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_67b2a8a0d9b0",
+      "title": "Binance Reassures Users That $6.3 Billion in Stolen Crypto Is, Like, Pocket Money to Them",
+      "content": "Binance has managed to freeze around $3 billion in stolen tokens, and says all customers will be reimbursed for losses.",
+      "url": "https://gizmodo.com/binance-reassures-users-that-6-3-billion-in-stolen-crypto-is-like-pocket-money-to-them-2000833409",
+      "source": "Gizmodo.com",
+      "source_type": "news",
+      "author": "Tom McKay",
+      "published_at": "2026-10-31T02:16:40Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Tom McKay",
+        "title": "Binance Reassures Users That $6.3 Billion in Stolen Crypto Is, Like, Pocket Money to Them",
+        "description": "Binance has managed to freeze around $3 billion in stolen tokens, and says all customers will be reimbursed for losses.",
+        "url": "https://gizmodo.com/binance-reassures-users-that-6-3-billion-in-stolen-crypto-is-like-pocket-money-to-them-2000833409",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+        "publishedAt": "2026-10-31T02:16:40Z",
+        "content": "Crypto exchange Binance is working to reassure users that the $6.3 billion heist pulled on them Thursday isn’t a prelude to another Mt. Gox- or FTX-style implosion.\r\nBinance has assured users that an… [+4077 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance 对用户重申其安全性，涉及加密货币盗窃问题。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币安全问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注行业安全动态，提升自身安全措施。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_32dffc2b8eda",
+      "title": "Best crypto casinos – top-rated online crypto casinos ranked by experts",
+      "content": "Are you ready to experience the thrill of online gaming with the added security and anonymity of cryptocurrency? Look no further! Our team of experts has",
+      "url": "https://blogdoandroid.com/best-crypto-casinos-top-rated-online-crypto-casinos-ranked-by-experts/",
+      "source": "Blogdoandroid.com",
+      "source_type": "news",
+      "author": "edward",
+      "published_at": "2026-10-31T06:25:26Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Blogdoandroid.com"
+        },
+        "author": "edward",
+        "title": "Best crypto casinos – top-rated online crypto casinos ranked by experts",
+        "description": "Are you ready to experience the thrill of online gaming with the added security and anonymity of cryptocurrency? Look no further! Our team of experts has",
+        "url": "https://blogdoandroid.com/best-crypto-casinos-top-rated-online-crypto-casinos-ranked-by-experts/",
+        "urlToImage": null,
+        "publishedAt": "2026-10-31T06:25:26Z",
+        "content": "Are you ready to experience the thrill of online gaming with the added security and anonymity of cryptocurrency? Look no further! Our team of experts has curated a list of the best crypto casinos, wh… [+5535 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "加密赌场的排名与行业动态相关。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及加密赌场",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注加密赌场市场发展动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_9a04a4514446",
+      "title": "Trump Investigates $6.3 Billion Binance Crypto Hack",
+      "content": "Trump says his administration is investigating Binance’s $6.3 billion crypto hack as North Korean hackers face suspicion.",
+      "url": "https://biztoc.com/x/ccb8477b193ac623",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "benzinga.com",
+      "published_at": "2026-10-31T05:03:42Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "benzinga.com",
+        "title": "Trump Investigates $6.3 Billion Binance Crypto Hack",
+        "description": "Trump says his administration is investigating Binance’s $6.3 billion crypto hack as North Korean hackers face suspicion.",
+        "url": "https://biztoc.com/x/ccb8477b193ac623",
+        "urlToImage": "https://biztoc.com/cdn/ccb8477b193ac623_s.webp",
+        "publishedAt": "2026-10-31T05:03:42Z",
+        "content": "Trump says his administration is investigating Binances $6.3 billion crypto hack as North Korean hackers face suspicion.\r\nThis story appeared on benzinga.com, 2026-10-31 04:15:31.",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "特朗普调查Binance加密黑客事件",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币安全事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注加密安全政策变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_4b32d666469f",
+      "title": "Crypto exchanges urge swift security upgrades after $6B Binance breach",
+      "content": "The Binance breach highlights the urgent need for enhanced security in crypto exchanges, potentially leading to increased regulatory scrutiny.\nThe post Crypto exchanges urge swift security upgrades after $6B Binance breach appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/crypto-exchanges-urge-swift-security-upgrades-after-6b-binance-breach/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-10-31T05:02:17Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Crypto exchanges urge swift security upgrades after $6B Binance breach",
+        "description": "The Binance breach highlights the urgent need for enhanced security in crypto exchanges, potentially leading to increased regulatory scrutiny.\nThe post Crypto exchanges urge swift security upgrades after $6B Binance breach appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/crypto-exchanges-urge-swift-security-upgrades-after-6b-binance-breach/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/31010215/library-crypto-exchanges-urge-swift-security-upgrades-after-6b-b-1-800x450.png",
+        "publishedAt": "2026-10-31T05:02:17Z",
+        "content": "In the wake of a significant security breach at Binance, the world’s largest cryptocurrency exchange, other major exchanges are urging swift action to enhance their security measures. The incident in… [+1462 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "加密交易所呼吁快速升级安全措施以应对安全漏洞。",
+      "business_relevance": 0.7,
+      "relevance_reason": "交易所安全动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全技术发展，提升自身安全措施。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_37bb6ecf4012",
+      "title": "Record crypto heist swipes $6.3 billion from Binance",
+      "content": "The biggest crypto theft in history happened faster than the average American’s commute. Hackers stole most of their $6.3 billion haul from Binance in roughly 20 minutes yesterday, leaving the world’s largest digital coin exchange scrambling to cover losses.\n…",
+      "url": "https://biztoc.com/x/302c2c2b2b1d778f",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "morningbrew.com",
+      "published_at": "2026-10-31T04:17:29Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "morningbrew.com",
+        "title": "Record crypto heist swipes $6.3 billion from Binance",
+        "description": "The biggest crypto theft in history happened faster than the average American’s commute. Hackers stole most of their $6.3 billion haul from Binance in roughly 20 minutes yesterday, leaving the world’s largest digital coin exchange scrambling to cover losses.\n…",
+        "url": "https://biztoc.com/x/302c2c2b2b1d778f",
+        "urlToImage": "https://biztoc.com/cdn/302c2c2b2b1d778f_s.webp",
+        "publishedAt": "2026-10-31T04:17:29Z",
+        "content": "The biggest crypto theft in history happened faster than the average Americans commute. Hackers stole most of their $6.3 billion haul from Binance in roughly 20 minutes yesterday, leaving the worlds … [+145 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance遭遇重大加密盗窃事件。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场安全性和合规性提升。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_9412286ab3f7",
+      "title": "Westpac limits crypto exchange deposits driven by fraud rules",
+      "content": "From December 1, 2026, the bank may combine payments to identified exchanges across relevant accounts and methods under one monthly limit.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in …",
+      "url": "https://cryptoslate.com/westpac-limits-crypto-exchange-deposits-driven-by-fraud-rules/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Gino Matos",
+      "published_at": "2026-10-31T07:50:36Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Gino Matos",
+        "title": "Westpac limits crypto exchange deposits driven by fraud rules",
+        "description": "From December 1, 2026, the bank may combine payments to identified exchanges across relevant accounts and methods under one monthly limit.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in …",
+        "url": "https://cryptoslate.com/westpac-limits-crypto-exchange-deposits-driven-by-fraud-rules/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/10/westpac-crypto-deposit-limit-standard-image-v2.jpg",
+        "publishedAt": "2026-10-31T07:50:36Z",
+        "content": "Westpac's crypto-payment policy, effective Dec. 1, sets a cumulative monthly allowance of A$10,000 across a customer's relevant accounts and payment methods.\r\nThe bank's payment policy lists online b… [+2639 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Westpac因欺诈规则限制加密交易所存款。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化对业务的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_0054a10d8ea2",
+      "title": "Binance hack exposes unsolvable crypto risk: disappearing money",
+      "content": "The $6.3 billion cryptocurrency heist shows that however sophisticated the fortifications, high-tech criminals are still finding a way in.",
+      "url": "https://biztoc.com/x/d0632d8b20eb4ec6",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "japantimes.co.jp",
+      "published_at": "2026-10-31T03:16:21Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "japantimes.co.jp",
+        "title": "Binance hack exposes unsolvable crypto risk: disappearing money",
+        "description": "The $6.3 billion cryptocurrency heist shows that however sophisticated the fortifications, high-tech criminals are still finding a way in.",
+        "url": "https://biztoc.com/x/d0632d8b20eb4ec6",
+        "urlToImage": "https://biztoc.com/cdn/d0632d8b20eb4ec6_s.webp",
+        "publishedAt": "2026-10-31T03:16:21Z",
+        "content": "The $6.3 billion cryptocurrency heist shows that however sophisticated the fortifications, high-tech criminals are still finding a way in.\r\nThis story appeared on japantimes.co.jp, 2026-10-31 02:49:0… [+1 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "币安黑客事件揭示了加密货币的风险。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币风险",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注加密安全问题，提升风险管理措施。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_1f971aa0e1de",
+      "title": "Senator Lummis: CLARITY Act could aid crypto firms in hacks like $6B Binance incident",
+      "content": "Senator Lummis discusses the CLARITY Act's potential to help crypto firms after the $6B Binance hack. Passage at 5.8% YES for Mike Lee's vote.\nThe post Senator Lummis: CLARITY Act could aid crypto firms in hacks like $6B Binance incident appeared first on Cry…",
+      "url": "https://cryptobriefing.com/senator-lummis-clarity-act-could-aid-crypto-firms-in-hacks-like-6b-binance/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-10-31T04:29:32Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Senator Lummis: CLARITY Act could aid crypto firms in hacks like $6B Binance incident",
+        "description": "Senator Lummis discusses the CLARITY Act's potential to help crypto firms after the $6B Binance hack. Passage at 5.8% YES for Mike Lee's vote.\nThe post Senator Lummis: CLARITY Act could aid crypto firms in hacks like $6B Binance incident appeared first on Cry…",
+        "url": "https://cryptobriefing.com/senator-lummis-clarity-act-could-aid-crypto-firms-in-hacks-like-6b-binance/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/31002930/library-senator-lummis-clarity-act-could-aid-crypto-firms-in-hac-1-800x450.png",
+        "publishedAt": "2026-10-31T04:29:32Z",
+        "content": "Senator Cynthia Lummis highlighted the potential impact of the stalled CLARITY Act on cryptocurrency regulation, specifically in the context of the recent $6.3 billion hack targeting Binance. She not… [+1380 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Lummis提议的CLARITY法案可能有助于加密公司应对黑客攻击。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注CLARITY法案进展，评估其对业务的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_b7b710fc9580",
+      "title": "LTVCo Agrees to Acquire Issuer-Merchant Network Kipp",
+      "content": "Issuer-merchant network Kipp has been acquired by an investor group led by The Lifetime Value Company (LTVCo) and its founders. Terms of the deal were undisclosed. Kipp anticipates that the acquisition will offer it long-term financial backing and has made it…",
+      "url": "https://finovate.com/ltvco-agrees-to-acquire-issuer-merchant-network-kipp/",
+      "source": "Finovate.com",
+      "source_type": "news",
+      "author": "Julie Muhn (@julieschicktanz)",
+      "published_at": "2026-10-31T02:40:01Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Finovate.com"
+        },
+        "author": "Julie Muhn (@julieschicktanz)",
+        "title": "LTVCo Agrees to Acquire Issuer-Merchant Network Kipp",
+        "description": "Issuer-merchant network Kipp has been acquired by an investor group led by The Lifetime Value Company (LTVCo) and its founders. Terms of the deal were undisclosed. Kipp anticipates that the acquisition will offer it long-term financial backing and has made it…",
+        "url": "https://finovate.com/ltvco-agrees-to-acquire-issuer-merchant-network-kipp/",
+        "urlToImage": null,
+        "publishedAt": "2026-10-31T02:40:01Z",
+        "content": "<ul>\n<li>Issuer-merchant network Kipp has been acquired by an investor group led by The Lifetime Value Company (LTVCo) and its founders. Terms were not disclosed.</li>\n\n\n\n<li>The acquisition will sup… [+2722 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_826b1de27649",
+      "title": "Alligo AB (FRA:1MH) Q3 2026 Earnings Call Highlights: Fourth Straight Quarter of Organic Growth ..",
+      "content": "This article first appeared on GuruFocus.\n- Revenue: Increased 4.9% in Q3, driven by 1.1% organic growth, 1.5% acquisition-related growth, and positive currency effects.\n- Organic Growth: 1.1% in Q3, marking the fourth consecutive quarter of organic growth.\n-…",
+      "url": "https://biztoc.com/x/3303afca3f37c0b4",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "finance.yahoo.com",
+      "published_at": "2026-10-31T04:32:44Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "Alligo AB (FRA:1MH) Q3 2026 Earnings Call Highlights: Fourth Straight Quarter of Organic Growth ..",
+        "description": "This article first appeared on GuruFocus.\n- Revenue: Increased 4.9% in Q3, driven by 1.1% organic growth, 1.5% acquisition-related growth, and positive currency effects.\n- Organic Growth: 1.1% in Q3, marking the fourth consecutive quarter of organic growth.\n-…",
+        "url": "https://biztoc.com/x/3303afca3f37c0b4",
+        "urlToImage": "https://biztoc.com/cdn/3303afca3f37c0b4_s.webp",
+        "publishedAt": "2026-10-31T04:32:44Z",
+        "content": "This article first appeared on GuruFocus.- Revenue: Increased 4.9% in Q3, driven by 1.1% organic growth, 1.5% acquisition-related growth, and positive currency effects.- Organic Growth: 1.1% in Q3, m… [+146 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Alligo AB 第三季度财报显示有机增长。",
+      "business_relevance": 0.5,
+      "relevance_reason": "一般加密货币新闻",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_03def362cca7",
+      "title": "BRICS+ payments system feasible, common currency faces hurdles, report says",
+      "content": "BRICS+ urges a joint cross-border payments mechanism to reduce dollar reliance, but a shared currency faces major economic and institutional hurdles.",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/brics-payments-system-feasible-common-currency-faces-hurdles-report-says/article71648177.ece",
+      "source": "BusinessLine",
+      "source_type": "news",
+      "author": "Reuters",
+      "published_at": "2026-10-31T04:55:47Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": "Reuters",
+        "title": "BRICS+ payments system feasible, common currency faces hurdles, report says",
+        "description": "BRICS+ urges a joint cross-border payments mechanism to reduce dollar reliance, but a shared currency faces major economic and institutional hurdles.",
+        "url": "https://www.thehindubusinessline.com/money-and-banking/brics-payments-system-feasible-common-currency-faces-hurdles-report-says/article71648177.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/iuhrek/article71648282.ece/alternates/LANDSCAPE_1200/IMG_A_person_pays_using__2_1_CKCKA0VD.jpg",
+        "publishedAt": "2026-10-31T04:55:47Z",
+        "content": "BRICS+ countries should press\r\nahead with a joint cross-border payments mechanism to reduce\r\nreliance on the US dollar, but a shared currency would face\r\nmajor economic and institutional obstacles, a… [+2193 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "BRICS+支付系统可行性报告提到跨境支付问题。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到跨境支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注BRICS+支付系统对市场的潜在影响。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_1777a06c3076",
+      "title": "Spot Bitcoin ETFs shed $643 million in a day as Ethereum funds lose $156 million",
+      "content": "The significant outflows from Bitcoin and Ethereum ETFs highlight investor sensitivity to market disruptions, potentially impacting future fund stability.\nThe post Spot Bitcoin ETFs shed $643 million in a day as Ethereum funds lose $156 million appeared first…",
+      "url": "https://cryptobriefing.com/spot-bitcoin-etfs-643-million-outflows/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Vivian Nguyen",
+      "published_at": "2026-10-31T05:46:28Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Vivian Nguyen",
+        "title": "Spot Bitcoin ETFs shed $643 million in a day as Ethereum funds lose $156 million",
+        "description": "The significant outflows from Bitcoin and Ethereum ETFs highlight investor sensitivity to market disruptions, potentially impacting future fund stability.\nThe post Spot Bitcoin ETFs shed $643 million in a day as Ethereum funds lose $156 million appeared first…",
+        "url": "https://cryptobriefing.com/spot-bitcoin-etfs-643-million-outflows/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/31014622/library-spot-bitcoin-etfs-shed-643-million-in-a-day-as-ethereum--800x450.png",
+        "publishedAt": "2026-10-31T05:46:28Z",
+        "content": "BlackRock and Fidelity led the October 30 redemptions, erasing a four-day inflow streak in a single sessionUS spot Bitcoin ETFs saw $643 million in net outflows on October 30. Spot Ethereum ETFs lost… [+2551 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "比特币和以太坊基金遭遇资金流出。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到比特币和以太坊资金动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态以调整策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_92dd3bdc608d",
+      "title": "EEVblog 1782 – Trezor Safe 3 Hardware Wallet Teardown Inspection",
+      "content": "Trezor Safe 3 Hardware Wallet Teardown Inspection for supply chain attack possibility. Buy the Safe 3 directly from Trezor: https://affil.trezor.io/SH17H Or on Amazon: https://link.amazon/A0emFddvQ Forum: https://www.eevblog.com/forum/blog/eevblog-1782-trezor…",
+      "url": "https://www.eevblog.com/2026/10/31/eevblog-1782-trezor-safe-3-hardware-wallet-teardown-inspection/",
+      "source": "Eevblog.com",
+      "source_type": "news",
+      "author": "EEVblog",
+      "published_at": "2026-10-31T03:16:04Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Eevblog.com"
+        },
+        "author": "EEVblog",
+        "title": "EEVblog 1782 – Trezor Safe 3 Hardware Wallet Teardown Inspection",
+        "description": "Trezor Safe 3 Hardware Wallet Teardown Inspection for supply chain attack possibility. Buy the Safe 3 directly from Trezor: https://affil.trezor.io/SH17H Or on Amazon: https://link.amazon/A0emFddvQ Forum: https://www.eevblog.com/forum/blog/eevblog-1782-trezor…",
+        "url": "https://www.eevblog.com/2026/10/31/eevblog-1782-trezor-safe-3-hardware-wallet-teardown-inspection/",
+        "urlToImage": "https://i0.wp.com/www.eevblog.com/wp-content/uploads/2026/10/eevblog-1782-trezor-safe-3-hardw.jpg?fit=1280%2C720&ssl=1",
+        "publishedAt": "2026-10-31T03:16:04Z",
+        "content": "EEVblog 9 minutes agoEEVblog, TeardownsComments Off on EEVblog 1782 – Trezor Safe 3 Hardware Wallet Teardown Inspection22 ViewsTrezor Safe 3 Hardware Wallet Teardown Inspection for supply chain attac… [+1235 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "Trezor"
+      ],
+      "importance_score": 5,
+      "ai_summary": "分析了Trezor硬件钱包的拆解情况。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到硬件钱包",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注硬件钱包技术进展",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_05fb93625cb3",
+      "title": "Binance hot wallet breach affects $6B, customer funds secure",
+      "content": "The breach underscores the importance of robust security measures and may influence market confidence and regulatory scrutiny in the crypto sector.\nThe post Binance hot wallet breach affects $6B, customer funds secure appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/binance-hot-wallet-breach-affects-6b-customer-funds-secure/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-10-31T03:28:05Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Binance hot wallet breach affects $6B, customer funds secure",
+        "description": "The breach underscores the importance of robust security measures and may influence market confidence and regulatory scrutiny in the crypto sector.\nThe post Binance hot wallet breach affects $6B, customer funds secure appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/binance-hot-wallet-breach-affects-6b-customer-funds-secure/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/30232803/library-binance-hot-wallet-breach-affects-6b-customer-funds-secu-1-800x450.png",
+        "publishedAt": "2026-10-31T03:28:05Z",
+        "content": "Binance Co-CEO Richard Teng confirmed that a security breach occurred, affecting Binance’s hot wallet infrastructure. Despite this, Teng assured users that customer funds were secure as they remained… [+1211 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance 热钱包被黑客攻击，客户资金安全。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注行业安全动态，提升自身安全措施。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_8e46b2f931d3",
+      "title": "The Binance breach came through a laptop, not a smart contract",
+      "content": "Binance says a compromised DevOps engineer's laptop may have enabled a $6.3B security incident, with about $3 billion frozen on-chain and all losses to be covered by SAFU and corporate funds.\nThe post The Binance breach came through a laptop, not a smart cont…",
+      "url": "https://techreport.com/news/software/the-binance-breach-came-through-a-laptop-not-a-smart-contract/",
+      "source": "Techreport.com",
+      "source_type": "news",
+      "author": "Krishi Chowdhary",
+      "published_at": "2026-10-31T00:10:41Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Techreport.com"
+        },
+        "author": "Krishi Chowdhary",
+        "title": "The Binance breach came through a laptop, not a smart contract",
+        "description": "Binance says a compromised DevOps engineer's laptop may have enabled a $6.3B security incident, with about $3 billion frozen on-chain and all losses to be covered by SAFU and corporate funds.\nThe post The Binance breach came through a laptop, not a smart cont…",
+        "url": "https://techreport.com/news/software/the-binance-breach-came-through-a-laptop-not-a-smart-contract/",
+        "urlToImage": "https://techreport.com/wp-content/uploads/2026/10/EWNQZgCDZ9zN_5HSBvYxH_ARrYpezW.jpg",
+        "publishedAt": "2026-10-31T00:10:41Z",
+        "content": "Binance says an attacker who reached its withdrawal systems through a compromised DevOps engineer’s laptop submitted unauthorized withdrawals with an estimated total impact of about $6.3 billion, in … [+3963 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance遭遇安全漏洞，影响行业信心。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全漏洞对市场信任的影响",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_a17043c49fb9",
+      "title": "Airlines’ annual payment processing cost hits $25bn",
+      "content": "The International Air Transport Association says airlines spend over $24.5bn annually on payment processing, urging digital innovation to cut costs.\n\nRead More: https://punchng.com/airlines-annual-payment-processing-cost-hits-25bn/",
+      "url": "https://punchng.com/airlines-annual-payment-processing-cost-hits-25bn/",
+      "source": "The Punch",
+      "source_type": "news",
+      "author": "Punch Newspapers",
+      "published_at": "2026-10-31T00:21:52Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Punch"
+        },
+        "author": "Punch Newspapers",
+        "title": "Airlines’ annual payment processing cost hits $25bn",
+        "description": "The International Air Transport Association says airlines spend over $24.5bn annually on payment processing, urging digital innovation to cut costs.\n\nRead More: https://punchng.com/airlines-annual-payment-processing-cost-hits-25bn/",
+        "url": "https://punchng.com/airlines-annual-payment-processing-cost-hits-25bn/",
+        "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/01/22014119/airline-1200x630.jpg",
+        "publishedAt": "2026-10-31T00:21:52Z",
+        "content": "The International Air Transport Association has said airlines spend more than $24.5bn, or approximately $25bn, annually processing payments, highlighting the financial pressures facing the industry a… [+3322 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "航空公司的支付处理成本达250亿美元。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到支付处理成本",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注航空业支付成本变化对市场的影响。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_6840751dea4c",
+      "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+      "content": "Binance says hackers stole more than $6 billion in what is being described as the largest cryptocurrency heist on record, with blockchain intelligence firms linking the attack to North Korea’s TraderTraitor hacking unit. The exchange has set aside $6.34 billi…",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/what-to-know-about-the-6-3b-hack-on-binance-likely-the-biggest-ever-crypto-theft/articleshow/135383463.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "AP",
+      "published_at": "2026-10-31T01:21:46Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "AP",
+        "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+        "description": "Binance says hackers stole more than $6 billion in what is being described as the largest cryptocurrency heist on record, with blockchain intelligence firms linking the attack to North Korea’s TraderTraitor hacking unit. The exchange has set aside $6.34 billi…",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/what-to-know-about-the-6-3b-hack-on-binance-likely-the-biggest-ever-crypto-theft/articleshow/135383463.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-135383503,width-1200,height-900,imgsize-87142,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-10-31T01:21:46Z",
+        "content": "Binance, the world's biggest cryptocurrency exchange, said Friday that hackers stole more than $6 billion in what appears to be the largest cryptocurrency heist on record. Blockchain firms have point… [+5895 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance遭遇63亿美元黑客攻击，影响行业安全信任。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币安全事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注行业安全标准的提升和合规要求。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_6f70c6985ed3",
+      "title": "Binance hack exposes unsolvable crypto risk: Billions can vanish overnight",
+      "content": "The record-breaking theft has shaken confidence in cryptocurrency infra, with Binance and its partners freezing billions of dollars in assets and pledging to reimburse customers for their losses",
+      "url": "https://www.business-standard.com/markets/cryptocurrency/binance-hack-exposes-unsolvable-crypto-risk-billions-can-vanish-overnight-126103100205_1.html",
+      "source": "Business Standard",
+      "source_type": "news",
+      "author": "Bloomberg",
+      "published_at": "2026-10-31T03:40:27Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Business Standard"
+        },
+        "author": "Bloomberg",
+        "title": "Binance hack exposes unsolvable crypto risk: Billions can vanish overnight",
+        "description": "The record-breaking theft has shaken confidence in cryptocurrency infra, with Binance and its partners freezing billions of dollars in assets and pledging to reimburse customers for their losses",
+        "url": "https://www.business-standard.com/markets/cryptocurrency/binance-hack-exposes-unsolvable-crypto-risk-billions-can-vanish-overnight-126103100205_1.html",
+        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/31/thumb/facecrop/1200X628/1793417826-3529.jpg",
+        "publishedAt": "2026-10-31T03:40:27Z",
+        "content": "Binance's initial investigation suggests that the security incident may involve a compromised DevOps engineers laptop, which allowed an attacker to gain access to a service container and submit unaut… [+1224 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "币安黑客事件揭示了加密风险。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密风险",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注加密安全性和风险管理措施。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_ce2258a2df56",
+      "title": "Democrats Could Take Congress Tuesday. Here’s What It Could Mean for Your Investments",
+      "content": "President Donald Trump could soon face a dramatically different Congress, and investors are already evaluating what that might mean for the stock and bond markets. With Democrats seeking control of the House and Senate in Tuesday’s midterm elections, the poss…",
+      "url": "https://freerepublic.com/focus/f-chat/4401213/posts",
+      "source": "Freerepublic.com",
+      "source_type": "news",
+      "author": "Global Market News",
+      "published_at": "2026-10-31T03:45:34Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Freerepublic.com"
+        },
+        "author": "Global Market News",
+        "title": "Democrats Could Take Congress Tuesday. Here’s What It Could Mean for Your Investments",
+        "description": "President Donald Trump could soon face a dramatically different Congress, and investors are already evaluating what that might mean for the stock and bond markets. With Democrats seeking control of the House and Senate in Tuesday’s midterm elections, the poss…",
+        "url": "https://freerepublic.com/focus/f-chat/4401213/posts",
+        "urlToImage": null,
+        "publishedAt": "2026-10-31T03:45:34Z",
+        "content": "Skip to comments.\r\nDemocrats Could Take Congress Tuesday. Heres What It Could Mean for Your InvestmentsGlobal Market News ^\r\n | 10/30/26\r\nPosted on 10/30/2026 8:45:34 PM PDT by SeekAndFind\r\nPresident… [+20291 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional compliance",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "民主党可能影响投资市场走势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及投资影响",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注政策变化对市场的潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "Chainalysis says hacker using ‘offensive agentic techniques’ accessed its customers’ names and emails",
+      "description": "The firm has also been tracking Binance’s separate multibillion-dollar hack, and said the attackers are using a Tron protocol to dodge stablecoin freezes.",
+      "url": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-10-31T13:27:17",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Chainalysis",
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "黑客利用Tron协议规避稳定币冻结，影响行业安全性。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币和黑客攻击",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注黑客攻击对行业安全的影响，提升防护措施。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+      "description": "Attackers tied to North Korea drained roughly $6.4 billion from the world’s largest crypto exchange. Here’s what we know about how it happened, who’s behind it, and what comes next.",
+      "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-10-31T15:01:02",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 8,
+      "ai_summary": "币安遭遇历史上最大的黑客攻击。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全性提升和监管政策变化。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Anchorpoint Taps Solana to Launch HKDAP Regulated Stablecoin - Cryptonews.net",
+      "description": "Anchorpoint Taps Solana to Launch HKDAP Regulated Stablecoin&nbsp;&nbsp;Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jbUFtVE8zQzNrRndncVBJTzZhWjVnMktoWlNJekNHTVJMaXZpTXU2N0VIWElyaUQ0T19kcjJGdTNpUi01OGNCek1aRGxKSk1Kek9ISFdwcDI5UQ?oc=5",
+      "source": "Google News (stablecoin regulation Hong Kong)",
+      "source_category": "google_news",
+      "published_at": "2026-11-01T06:06:24",
+      "data_type": "rss",
+      "search_keyword": "stablecoin regulation Hong Kong",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "Anchorpoint在香港推出受监管的稳定币。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币和监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注香港稳定币监管动态。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    }
+  ]
+}
