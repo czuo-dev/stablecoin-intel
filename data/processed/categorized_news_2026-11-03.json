@@ -1,0 +1,2843 @@
+{
+  "policy": [
+    {
+      "id": "news_b45f11dbb760",
+      "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
+      "content": "The central bank is surveying 31 financial institutions on how a major exchange shutdown, prolonged crypto downturn or losses at another firm could affect their operations.",
+      "url": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Felix Ng",
+      "published_at": "2026-11-02T03:55:50Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Felix Ng",
+        "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
+        "description": "The central bank is surveying 31 financial institutions on how a major exchange shutdown, prolonged crypto downturn or losses at another firm could affect their operations.",
+        "url": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59TMCWT4YS3BEJ97Y7B01HA/hi-crypto-on-corporate-balance-sheets-south-korea.jpg",
+        "publishedAt": "2026-11-02T03:55:50Z",
+        "content": "The Bank of Korea has reportedly launched its first survey of banks and brokerages on cryptocurrency-related risks, asking how they would be affected by a major exchange hack, a market crash or heavy… [+2308 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "Fireblocks",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "韩国银行调查金融公司对加密风险的暴露情况。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_845ea97ca6d0",
+      "title": "dex-connector-alphavantage added to PyPI",
+      "content": "Alpha Vantage connector for Dex Flows",
+      "url": "https://pypi.org/project/dex-connector-alphavantage/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-02T06:20:29Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "dex-connector-alphavantage added to PyPI",
+        "description": "Alpha Vantage connector for Dex Flows",
+        "url": "https://pypi.org/project/dex-connector-alphavantage/",
+        "urlToImage": null,
+        "publishedAt": "2026-11-02T06:20:29Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "Vantage",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "新增区块链基础设施库到PyPI。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注区块链技术动态，评估影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_c2a0b5c450f2",
+      "title": "Binance Hackers Moved $6.3B Before Assets Could Be Frozen, Report Says",
+      "content": "Attackers moved an estimated $6.3 billion out of Binance wallets before the exchange and outside parties could freeze the funds, according to a Cointelegraph report that described a race between the thieves and the firms trying to stop them. TRM Labs said in …",
+      "url": "https://www.naturalnews.com/2026-11-02-report-binance-hackers-moved-assets-before-freezing.html",
+      "source": "Naturalnews.com",
+      "source_type": "news",
+      "author": "Patrick Lewis",
+      "published_at": "2026-11-02T06:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Naturalnews.com"
+        },
+        "author": "Patrick Lewis",
+        "title": "Binance Hackers Moved $6.3B Before Assets Could Be Frozen, Report Says",
+        "description": "Attackers moved an estimated $6.3 billion out of Binance wallets before the exchange and outside parties could freeze the funds, according to a Cointelegraph report that described a race between the thieves and the firms trying to stop them. TRM Labs said in …",
+        "url": "https://www.naturalnews.com/2026-11-02-report-binance-hackers-moved-assets-before-freezing.html",
+        "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/binance-hack-cryptocurrency-theft-asset-freezing-6064-4b7c912a-original.jpg",
+        "publishedAt": "2026-11-02T06:00:00Z",
+        "content": "Attackers moved an estimated $6.3 billion out of Binance wallets before the exchange and outside parties could freeze the funds, according to a Cointelegraph report that described a race between the … [+5548 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "币安黑客事件影响行业安全性",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币安全事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全合规措施的提升",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_9c328040cd49",
+      "title": "Binance sees outflows stabilising as exchange returns online after $6.3 billion heist",
+      "content": "After hitting ⁠a six-week low on Friday, bitcoin prices recovered slightly through the weekend to trade above $78,000 on Monday",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/cryptocurrency/binance-sees-outflows-stabilising-as-exchange-returns-online-after-63-billionheist/article71655251.ece",
+      "source": "BusinessLine",
+      "source_type": "news",
+      "author": "Reuters",
+      "published_at": "2026-11-02T03:58:48Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": "Reuters",
+        "title": "Binance sees outflows stabilising as exchange returns online after $6.3 billion heist",
+        "description": "After hitting ⁠a six-week low on Friday, bitcoin prices recovered slightly through the weekend to trade above $78,000 on Monday",
+        "url": "https://www.thehindubusinessline.com/money-and-banking/cryptocurrency/binance-sees-outflows-stabilising-as-exchange-returns-online-after-63-billionheist/article71655251.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/8nxj5s/article71655272.ece/alternates/LANDSCAPE_1200/Crypto-platformGLUGO0VSB.3.jpg.jpg",
+        "publishedAt": "2026-11-02T03:58:48Z",
+        "content": "Binance customers pulled $3.64\r\nbillion, or 2.1 per cent of its assets, as the world's biggest\r\ncryptocurrency exchange resumed service after a security breach\r\nlinked to North Korea saw $6.3 billion… [+4993 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance 交易所流出资金稳定，影响市场信心。",
+      "business_relevance": 0.7,
+      "relevance_reason": "交易所动态影响市场",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，调整策略以应对竞争",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_5c15c582b9f7",
+      "title": "RLUSD supply fell 29% on XRPL. One XRP trading pool barely changed",
+      "content": "Ledger readings showed similar XRP/RLUSD pool reserves and uneven funded offers, while the reported supply decline's cause remains unresolved.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst…",
+      "url": "https://cryptoslate.com/rlusd-supply-fell-29-on-xrpl-one-xrp-trading-pool-barely-changed/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam 'Akiba' Wright",
+      "published_at": "2026-11-02T03:40:42Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam 'Akiba' Wright",
+        "title": "RLUSD supply fell 29% on XRPL. One XRP trading pool barely changed",
+        "description": "Ledger readings showed similar XRP/RLUSD pool reserves and uneven funded offers, while the reported supply decline's cause remains unresolved.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst…",
+        "url": "https://cryptoslate.com/rlusd-supply-fell-29-on-xrpl-one-xrp-trading-pool-barely-changed/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/11/rlusd-pool-supply.webp",
+        "publishedAt": "2026-11-02T03:40:42Z",
+        "content": "XRPL's reported RLUSD supply fell almost 29% in a day, but a sampled XRP/RLUSD trading pool did not lose a comparable share of its reserves. Across ledger observations from Oct. 29 to Oct. 31, the po… [+6383 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "RLUSD供应下降29%，反映市场动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币供应变化",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场变化，调整策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_3210322fcad2",
+      "title": "Binance sees outflows stabilising as exchange back online",
+      "content": "Binance customers pulled $3.64 billion, or 2.1% of its assets, as the world's biggest cryptocurrency exchange resumed service after a security breach linked to North Korea saw $6.3 billion stolen from the platform last week.",
+      "url": "https://www.rte.ie/news/business/2026/1102/1597586-binance-sees-outflows-stabilising-as-exchange-back-online/",
+      "source": "RTE",
+      "source_type": "news",
+      "author": "RTÉ News",
+      "published_at": "2026-11-02T08:00:38Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "rte",
+          "name": "RTE"
+        },
+        "author": "RTÉ News",
+        "title": "Binance sees outflows stabilising as exchange back online",
+        "description": "Binance customers pulled $3.64 billion, or 2.1% of its assets, as the world's biggest cryptocurrency exchange resumed service after a security breach linked to North Korea saw $6.3 billion stolen from the platform last week.",
+        "url": "https://www.rte.ie/news/business/2026/1102/1597586-binance-sees-outflows-stabilising-as-exchange-back-online/",
+        "urlToImage": "https://www.rte.ie/images/00175e17-1600.jpg",
+        "publishedAt": "2026-11-02T08:00:38Z",
+        "content": "Binance customers pulled $3.64 billion, or 2.1% of its assets, as the world's biggest cryptocurrency exchange resumed service after a security breach linked to North Korea saw $6.3 billion stolen fro… [+4875 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance 交易所流出量稳定，影响市场情绪。",
+      "business_relevance": 0.7,
+      "relevance_reason": "交易所动态影响市场",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，调整策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_1f01e8cde591",
+      "title": "Pendle becomes second-largest DeFi venue for tokenized stocks with 17% share",
+      "content": "Pendle's rapid ascent in DeFi tokenized stocks highlights the volatile yet transformative potential of decentralized finance innovations.\nThe post Pendle becomes second-largest DeFi venue for tokenized stocks with 17% share appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/pendle-second-largest-defi-tokenized-stocks/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Vivian Nguyen",
+      "published_at": "2026-11-02T02:06:40Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Vivian Nguyen",
+        "title": "Pendle becomes second-largest DeFi venue for tokenized stocks with 17% share",
+        "description": "Pendle's rapid ascent in DeFi tokenized stocks highlights the volatile yet transformative potential of decentralized finance innovations.\nThe post Pendle becomes second-largest DeFi venue for tokenized stocks with 17% share appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/pendle-second-largest-defi-tokenized-stocks/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/01210635/library-pendle-becomes-second-largest-defi-venue-for-tokenized-s-800x450.png",
+        "publishedAt": "2026-11-02T02:06:40Z",
+        "content": "The yield-trading protocol climbed from seventh to second place in roughly a month as tokenized equity deposits in DeFi surgedPendle now holds about 17% of the DeFi market for tokenized stocks. That … [+2884 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Pendle在代币化股票市场占据17%份额。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到DeFi和代币化股票",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注DeFi市场动态，评估影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_5392dacfb335",
+      "title": "Binance sees spike in customers pulling funds out after $6.3 billion hack",
+      "content": "Binance said it had now covered 95% of the stolen assets. It said after an initial spike, withdrawals were stabilizing",
+      "url": "https://www.business-standard.com/world-news/binance-sees-spike-in-customers-pulling-funds-out-after-6-3-billion-hack-126110200056_1.html",
+      "source": "Business Standard",
+      "source_type": "news",
+      "author": "Reuters",
+      "published_at": "2026-11-02T02:28:55Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Business Standard"
+        },
+        "author": "Reuters",
+        "title": "Binance sees spike in customers pulling funds out after $6.3 billion hack",
+        "description": "Binance said it had now covered 95% of the stolen assets. It said after an initial spike, withdrawals were stabilizing",
+        "url": "https://www.business-standard.com/world-news/binance-sees-spike-in-customers-pulling-funds-out-after-6-3-billion-hack-126110200056_1.html",
+        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-05/02/thumb/fitandfill/1200X628/1746183247-2404.JPG",
+        "publishedAt": "2026-11-02T02:28:55Z",
+        "content": "Binance said it had now covered 95% of the stolen assets. It said after an initial spike, withdrawals were stabilizing\r\nBinance said earlier on Sunday that it had covered $6 billion of stolen cryptoc… [+5817 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance遭遇黑客攻击，客户资金大量撤出。",
+      "business_relevance": 0.7,
+      "relevance_reason": "交易所动态影响市场",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_e7fb58218188",
+      "title": "nevarn-sdk added to PyPI",
+      "content": "Thin client for the Nevarn platform API: a bot's intents, executions under Decionis policy, bounds, receipts and halt.",
+      "url": "https://pypi.org/project/nevarn-sdk/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-02T04:49:53Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "nevarn-sdk added to PyPI",
+        "description": "Thin client for the Nevarn platform API: a bot's intents, executions under Decionis policy, bounds, receipts and halt.",
+        "url": "https://pypi.org/project/nevarn-sdk/",
+        "urlToImage": null,
+        "publishedAt": "2026-11-02T04:49:53Z",
+        "content": "A thin client for the Nevarn platform API, for an operator's own bot and\r\nservers. It adds no authority: a bot sends intents, never orders or keys, and\r\nevery method calls a route an nvk_ API key is … [+5013 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "nevarn-sdk 被添加到 PyPI，涉及区块链基础设施的技术进展。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_f6c693dedcd6",
+      "title": "fxfunds-risk-disclosures 2.0.0",
+      "content": "FXFunds Risk Disclosure Bot — risk percentage for a trade or USDT transfer at the moment it is checked, with a risk FAQ database searchable by keyword.",
+      "url": "https://pypi.org/project/fxfunds-risk-disclosures/2.0.0/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-02T08:17:37Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "fxfunds-risk-disclosures 2.0.0",
+        "description": "FXFunds Risk Disclosure Bot — risk percentage for a trade or USDT transfer at the moment it is checked, with a risk FAQ database searchable by keyword.",
+        "url": "https://pypi.org/project/fxfunds-risk-disclosures/2.0.0/",
+        "urlToImage": null,
+        "publishedAt": "2026-11-02T08:17:37Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDT",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "新闻涉及加密货币监管动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_5c2c1b4001b2",
+      "title": "Binance stabilizes after $6.3 billion theft, covers 95% of stolen tokens",
+      "content": "The incident underscores the vulnerability of centralized exchanges, highlighting the need for robust security measures and regulatory oversight.\nThe post Binance stabilizes after $6.3 billion theft, covers 95% of stolen tokens appeared first on Crypto Briefi…",
+      "url": "https://cryptobriefing.com/binance-stabilizes-after-6-3-billion-theft/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-11-02T06:35:01Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Binance stabilizes after $6.3 billion theft, covers 95% of stolen tokens",
+        "description": "The incident underscores the vulnerability of centralized exchanges, highlighting the need for robust security measures and regulatory oversight.\nThe post Binance stabilizes after $6.3 billion theft, covers 95% of stolen tokens appeared first on Crypto Briefi…",
+        "url": "https://cryptobriefing.com/binance-stabilizes-after-6-3-billion-theft/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/02013456/library-binance-stabilizes-after-6-3-billion-theft-covers-95-of--800x450.png",
+        "publishedAt": "2026-11-02T06:35:01Z",
+        "content": "The exchange says withdrawals are calming and deposits remain substantial after a breach linked to North Korea's TraderTraitor groupBinance says the bleeding has slowed. The world’s largest crypto ex… [+3255 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDT",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance在盗窃事件后稳定运营，覆盖大部分被盗代币。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场安全性和用户信任度的变化",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_469f1f312b79",
+      "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
+      "content": "US spot Bitcoin ETFs closed October with $515 million in net withdrawals after a $643 million Friday exodus, while Ether ETFs suffered their worst month on record.",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Helen Partz",
+      "published_at": "2026-11-02T07:50:36Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Helen Partz",
+        "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
+        "description": "US spot Bitcoin ETFs closed October with $515 million in net withdrawals after a $643 million Friday exodus, while Ether ETFs suffered their worst month on record.",
+        "url": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DFVVTB1BSHSCFQ2R7VR4PQ/hi-top-news-of-the-week-5-bitcoin.jpg",
+        "publishedAt": "2026-11-02T07:50:36Z",
+        "content": "Investors pulled $643 million from US-listed spot Bitcoin exchange-traded funds (ETFs) on Friday, pushing Octobers net flows into negative territory as crypto markets faced volatility following Binan… [+1313 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_933d7f4f5f7e",
+      "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+      "content": "THORChain halted swaps across 10 networks after an Ethereum reorg exposed a refund bug, inadvertently disrupting the laundering of funds from Binance’s $6.3 billion hack.",
+      "url": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Felix Ng",
+      "published_at": "2026-11-02T01:51:48Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Felix Ng",
+        "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+        "description": "THORChain halted swaps across 10 networks after an Ethereum reorg exposed a refund bug, inadvertently disrupting the laundering of funds from Binance’s $6.3 billion hack.",
+        "url": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CYVYY9YQQNJBR6GY3CWVA6/stop-regulation-blockchain-ban.jpg",
+        "publishedAt": "2026-11-02T01:51:48Z",
+        "content": "THORChain halted swaps across multiple blockchains on Saturday after an Ethereum block reorganization exposed a refund bug, which may have inadvertently slowed the movement of funds stolen from Binan… [+3183 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "THORChain因区块重组错误暂停交易。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注区块链技术的稳定性和安全性。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_b311d605bf88",
+      "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+      "content": "BTCPay Server identified an attack vector affecting older software versions following reports of hot wallet thefts, urging operators to update their systems.",
+      "url": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Ezra Reguerra",
+      "published_at": "2026-11-02T05:34:02Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ezra Reguerra",
+        "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+        "description": "BTCPay Server identified an attack vector affecting older software versions following reports of hot wallet thefts, urging operators to update their systems.",
+        "url": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DBKB8GE4KJVX5T10YRWE2X/btcpay-warning.jpg",
+        "publishedAt": "2026-11-02T05:34:02Z",
+        "content": "BTCPay Server has identified an attack vector affecting older versions of its payment software after receiving reports of attackers draining funds from users hot wallets. \r\nOn Monday, the Bitcoin pay… [+1311 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "BTCPay Server警告热钱包盗窃事件。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到热钱包盗窃与安全",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注热钱包安全技术的进展。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_ef381c5547c4",
+      "title": "Binance users withdraw billions after record crypto hack",
+      "content": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o",
+      "source": "BBC News",
+      "source_type": "news",
+      "author": "https://www.facebook.com/bbcnews",
+      "published_at": "2026-11-02T00:26:30Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Binance users withdraw billions after record crypto hack",
+        "description": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+        "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
+        "publishedAt": "2026-11-02T00:26:30Z",
+        "content": "Binance customers withdrew more than $3.6bn (£2.7bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week.\r\nThe firm suspended all tra… [+796 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance用户因黑客事件大量提现。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场安全性和用户信任问题",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_ca3679e04bc1",
+      "title": "Byoky: Open-source wallet for AI API keys",
+      "content": "Byoky is an open-source wallet for AI API keys, available as a Chrome and Firefox extension and as iOS and Android apps. Users store their keys for OpenAI, Anthropic, Google Gemini and other providers in it, encrypted on their own device. Apps that want those…",
+      "url": "https://www.helpnetsecurity.com/2026/11/02/byoky-open-source-ai-api-key-wallet/",
+      "source": "Help Net Security",
+      "source_type": "news",
+      "author": "Anamarija Pogorelec",
+      "published_at": "2026-11-02T06:00:33Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Help Net Security"
+        },
+        "author": "Anamarija Pogorelec",
+        "title": "Byoky: Open-source wallet for AI API keys",
+        "description": "Byoky is an open-source wallet for AI API keys, available as a Chrome and Firefox extension and as iOS and Android apps. Users store their keys for OpenAI, Anthropic, Google Gemini and other providers in it, encrypted on their own device. Apps that want those…",
+        "url": "https://www.helpnetsecurity.com/2026/11/02/byoky-open-source-ai-api-key-wallet/",
+        "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/29135007/byoky-1500.webp",
+        "publishedAt": "2026-11-02T06:00:33Z",
+        "content": "Byoky is an open-source wallet for AI API keys, available as a Chrome and Firefox extension and as iOS and Android apps.\r\nUsers store their keys for OpenAI, Anthropic, Google Gemini and other provide… [+2204 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "开源钱包用于AI API密钥管理。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到开源钱包与加密相关",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_8806d759d5fc",
+      "title": "Polymarket Suspends Trading After Reports of User Funds Drained",
+      "content": "Polymarket temporarily suspended trading on its international platform on Oct. 29 after reports that users’ accounts had been drained and positions closed without authorization, in a security incident later linked to a compromised third-party provider. The di…",
+      "url": "https://www.naturalnews.com/2026-11-02-polymarket-suspends-trading-after-user-funds-drained.html",
+      "source": "Naturalnews.com",
+      "source_type": "news",
+      "author": "Sterling Ashworth",
+      "published_at": "2026-11-02T06:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Naturalnews.com"
+        },
+        "author": "Sterling Ashworth",
+        "title": "Polymarket Suspends Trading After Reports of User Funds Drained",
+        "description": "Polymarket temporarily suspended trading on its international platform on Oct. 29 after reports that users’ accounts had been drained and positions closed without authorization, in a security incident later linked to a compromised third-party provider. The di…",
+        "url": "https://www.naturalnews.com/2026-11-02-polymarket-suspends-trading-after-user-funds-drained.html",
+        "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/polymarket-prediction-market-cryptocurrency-5987-3c2fcdf2-original.jpg",
+        "publishedAt": "2026-11-02T06:00:00Z",
+        "content": "Polymarket temporarily suspended trading on its international platform on Oct. 29 after reports that users accounts had been drained and positions closed without authorization, in a security incident… [+6714 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Polymarket因用户资金被盗暂停交易。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及用户资金安全",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注用户资金安全问题，提升服务保障。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_f19f7fd077e4",
+      "title": "Bitcoin’s resilience after Binance hack masks market jitters",
+      "content": "The token’s resilience has widely been attributed to the swift response from Binance, which promised from the start to cover all losses.",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/cryptocurrency/bitcoins-resilience-after-binance-hack-masks-market-jitters/article71655481.ece",
+      "source": "BusinessLine",
+      "source_type": "news",
+      "author": "Bloomberg",
+      "published_at": "2026-11-02T06:30:35Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": "Bloomberg",
+        "title": "Bitcoin’s resilience after Binance hack masks market jitters",
+        "description": "The token’s resilience has widely been attributed to the swift response from Binance, which promised from the start to cover all losses.",
+        "url": "https://www.thehindubusinessline.com/money-and-banking/cryptocurrency/bitcoins-resilience-after-binance-hack-masks-market-jitters/article71655481.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/migration_catalog/kdyx92-BITOCIN-FUTURES/alternates/LANDSCAPE_1200/BITOCIN-FUTURES",
+        "publishedAt": "2026-11-02T06:30:35Z",
+        "content": "Since the record cyber theft against the worlds largest crypto exchange last week, traders bracing for the worst have instead watched Bitcoin pull off an unexpected feat: defying gravity.\r\nThe origin… [+3483 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "比特币在Binance黑客事件后表现出韧性。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_291013d62c97",
+      "title": "Crypto Heist: Binance covers 95% tokens, resumes withdrawals",
+      "content": "Binance has officially restarted withdrawals for select cryptocurrencies such as bitcoin and ether, following successful recovery of a substantial amount of stolen funds linked to a massive North Korean heist. Notably, last year saw $2.9 billion in cryptocurr…",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/crypto-heist-binance-covers-95-tokens-resumes-withdrawals/articleshow/135441852.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "Bloomberg",
+      "published_at": "2026-11-02T01:47:56Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Bloomberg",
+        "title": "Crypto Heist: Binance covers 95% tokens, resumes withdrawals",
+        "description": "Binance has officially restarted withdrawals for select cryptocurrencies such as bitcoin and ether, following successful recovery of a substantial amount of stolen funds linked to a massive North Korean heist. Notably, last year saw $2.9 billion in cryptocurr…",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/crypto-heist-binance-covers-95-tokens-resumes-withdrawals/articleshow/135441852.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-135441882,width-1200,height-900,imgsize-75348,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-11-02T01:47:56Z",
+        "content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest new… [+330 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance恢复提现，覆盖大部分代币。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，评估竞争影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_74abe3f7b4d3",
+      "title": "Bank of Korea quizzes 31 financial firms on crypto shock scenarios",
+      "content": "The Bank of Korea's survey could lead to enhanced regulatory measures, impacting financial stability and crypto market integration strategies.\nThe post Bank of Korea quizzes 31 financial firms on crypto shock scenarios appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/bank-of-korea-surveys-financial-firms-crypto-risks/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-11-02T04:09:17Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Bank of Korea quizzes 31 financial firms on crypto shock scenarios",
+        "description": "The Bank of Korea's survey could lead to enhanced regulatory measures, impacting financial stability and crypto market integration strategies.\nThe post Bank of Korea quizzes 31 financial firms on crypto shock scenarios appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/bank-of-korea-surveys-financial-firms-crypto-risks/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/01230909/library-bank-of-korea-quizzes-31-financial-firms-on-crypto-shock-800x450.png",
+        "publishedAt": "2026-11-02T04:09:17Z",
+        "content": "South Korea's central bank reportedly wants banks and brokerages to explain how they would cope with an exchange hack, a Bitcoin slump or a peer's collapseSouth Korea’s central bank wants to know wha… [+2874 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "韩国央行对金融公司进行加密货币情景测试。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化，调整业务策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_16ebd7d7fb71",
+      "title": "Binance users withdraw $3.6bn after record crypto hack",
+      "content": "Published\nBinance customers withdrew more than $3.6bn (£2.7bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week.\nThe firm suspended all transactions in the wake of the incident, which impact…",
+      "url": "https://biztoc.com/x/5d9d00d693d5843a",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "bbc.co.uk",
+      "published_at": "2026-11-02T01:07:35Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "bbc.co.uk",
+        "title": "Binance users withdraw $3.6bn after record crypto hack",
+        "description": "Published\nBinance customers withdrew more than $3.6bn (£2.7bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week.\nThe firm suspended all transactions in the wake of the incident, which impact…",
+        "url": "https://biztoc.com/x/5d9d00d693d5843a",
+        "urlToImage": "https://biztoc.com/cdn/5d9d00d693d5843a_s.webp",
+        "publishedAt": "2026-11-02T01:07:35Z",
+        "content": "PublishedBinance customers withdrew more than $3.6bn (£2.7bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week.The firm suspended … [+139 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "币安用户因黑客事件大规模提现。",
+      "business_relevance": 0.7,
+      "relevance_reason": "交易所动态影响市场",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场安全性与用户信任",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_c496ec8144ac",
+      "title": "Binance Says It Replaced 95% of Stolen Crypto for Users",
+      "content": "Binance began restoring withdrawals in phases Sunday (Nov. 1) at 06:00 UTC (1 a.m. EST), and by about 6½ hours later resumed withdrawals for the 15 networks and assets in the first phase, the company said in a post on X. Binance had paused withdrawals after h…",
+      "url": "https://biztoc.com/x/5c9d6d214babb508",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "pymnts.com",
+      "published_at": "2026-11-02T01:53:30Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "pymnts.com",
+        "title": "Binance Says It Replaced 95% of Stolen Crypto for Users",
+        "description": "Binance began restoring withdrawals in phases Sunday (Nov. 1) at 06:00 UTC (1 a.m. EST), and by about 6½ hours later resumed withdrawals for the 15 networks and assets in the first phase, the company said in a post on X. Binance had paused withdrawals after h…",
+        "url": "https://biztoc.com/x/5c9d6d214babb508",
+        "urlToImage": "https://biztoc.com/cdn/996/og.png",
+        "publishedAt": "2026-11-02T01:53:30Z",
+        "content": "Binance began restoring withdrawals in phases Sunday (Nov. 1) at 06:00 UTC (1 a.m. EST), and by about 6½ hours later resumed withdrawals for the 15 networks and assets in the first phase, the company… [+141 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance宣布为用户替换95%的被盗加密货币。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币安全问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全措施以增强客户信任。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_1fc14bf6ef45",
+      "title": "New Ways To Defang Transnational Financial Repression",
+      "content": "The United States must supply the leadership to curb the world’s bad actors, protect victims, and defend an indispensable system.",
+      "url": "https://www.thefreedomfrequency.org/p/new-ways-to-defang-transnational",
+      "source": "Thefreedomfrequency.org",
+      "source_type": "news",
+      "author": "November 2, 2026",
+      "published_at": "2026-11-02T00:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Thefreedomfrequency.org"
+        },
+        "author": "November 2, 2026",
+        "title": "New Ways To Defang Transnational Financial Repression",
+        "description": "The United States must supply the leadership to curb the world’s bad actors, protect victims, and defend an indispensable system.",
+        "url": "https://www.thefreedomfrequency.org/p/new-ways-to-defang-transnational",
+        "urlToImage": "https://substack-post-media.s3.amazonaws.com/public/images/d4cce5ce-d5da-4879-bcc4-29de2ad83a35_1757x1303.jpeg",
+        "publishedAt": "2026-11-02T00:00:00Z",
+        "content": "This article is part of Liberty Amplified, a series produced in partnership with the Hoover Institutions Human Security Project and the Hoover Institution Library &amp; Archives, featuring voices tha… [+10398 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto license",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "探讨了应对跨国金融压制的新方法。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及跨境支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "监管影响"
+      ],
+      "industry_action": "关注跨境支付监管动态。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_030841e2de65",
+      "title": "Binance Is Back in Action After Record $6 Billion Cybertheft",
+      "content": "Withdrawals opened again on the platform today, after being paused in the immediate aftermath of the attack. However, not all types of digital assets on its platform are available again at the time of writing, particularly less commonly traded cryptocurrencie…",
+      "url": "https://me.pcmag.com/en/cryptocurrency-2/38504/binance-is-back-in-action-after-record-6-billion-cybertheft",
+      "source": "PCMag.com",
+      "source_type": "news",
+      "author": "Will Mccurdy",
+      "published_at": "2026-11-02T04:32:59Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "PCMag.com"
+        },
+        "author": "Will Mccurdy",
+        "title": "Binance Is Back in Action After Record $6 Billion Cybertheft",
+        "description": "Withdrawals opened again on the platform today, after being paused in the immediate aftermath of the attack. However, not all types of digital assets on its platform are available again at the time of writing, particularly less commonly traded cryptocurrencie…",
+        "url": "https://me.pcmag.com/en/cryptocurrency-2/38504/binance-is-back-in-action-after-record-6-billion-cybertheft",
+        "urlToImage": "https://sm.pcmag.com/t/pcmag_me/news/b/binance-is/binance-is-back-in-action-after-record-6-billion-cybertheft_sk7q.1200.jpg",
+        "publishedAt": "2026-11-02T04:32:59Z",
+        "content": "Binance, the worlds largest crypto exchange, claims it has replenished 95% of its stolen funds after getting hit by a record-setting $6.3 billion cyberattack earlier this week. The attack is thought … [+3040 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto license",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance在经历重大网络盗窃后恢复运营。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场安全性和竞争动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_47c6dc4e8504",
+      "title": "Ajit Ranade: Why India shouldn't abandon capital gains tax for the sake of the rupee",
+      "content": "Tax concessions can’t be knee-jerk reactions. Such a move raises several questions while offering no assurance of protection for the rupee. Here's what would help instead.",
+      "url": "https://www.livemint.com/opinion/online-views/ajit-ranade-why-india-shouldnt-abandon-capital-gains-tax-for-the-sake-of-the-rupee-11793535295403.html",
+      "source": "Livemint",
+      "source_type": "news",
+      "author": "Ajit Ranade",
+      "published_at": "2026-11-02T07:01:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Ajit Ranade",
+        "title": "Ajit Ranade: Why India shouldn't abandon capital gains tax for the sake of the rupee",
+        "description": "Tax concessions can’t be knee-jerk reactions. Such a move raises several questions while offering no assurance of protection for the rupee. Here's what would help instead.",
+        "url": "https://www.livemint.com/opinion/online-views/ajit-ranade-why-india-shouldnt-abandon-capital-gains-tax-for-the-sake-of-the-rupee-11793535295403.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2026/11/01/1600x900/logo/Capital_Gains_Tax_FinanceStill_Life_chatgpt_17935_1793540341202_G07w_1793540341608_lz7E_e9909a7d-7924-4d77-9431-e91cf4366c31_PJcX.png",
+        "publishedAt": "2026-11-02T07:01:00Z",
+        "content": "LTCG tax revenue yielded 1.29 trillion in 2024-25, up from 72,249 crore the previous year. These collections came both from domestic and foreign investors. Hence, any proposed concession needs a reli… [+4816 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "印度资本利得税对货币政策的影响讨论。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到资本利得税与货币政策",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注印度的税收政策变化对市场的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_6c68cb7048f4",
+      "title": "China's Empyrean Tech targets digital EDA gaps with US$32.9 million Easy-Logic acquisition",
+      "content": "China's leading electronic design automation (EDA) supplier, Empyrean Technology, plans to acquire a controlling stake in Easy-Logic Technology, a specialist in digital logic optimization, for about CNY219 million (≈ US$32.9 million). The acquisition will add…",
+      "url": "https://www.digitimes.com/news/a20261102VL208/eda-design-acquisition-automation-empyrean-technology.html",
+      "source": "Digitimes",
+      "source_type": "news",
+      "author": "DIGITIMES",
+      "published_at": "2026-11-02T03:44:12Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Digitimes"
+        },
+        "author": "DIGITIMES",
+        "title": "China's Empyrean Tech targets digital EDA gaps with US$32.9 million Easy-Logic acquisition",
+        "description": "China's leading electronic design automation (EDA) supplier, Empyrean Technology, plans to acquire a controlling stake in Easy-Logic Technology, a specialist in digital logic optimization, for about CNY219 million (≈ US$32.9 million). The acquisition will add…",
+        "url": "https://www.digitimes.com/news/a20261102VL208/eda-design-acquisition-automation-empyrean-technology.html",
+        "urlToImage": "https://img.digitimes.com/newsshow/20261102vl208_files/2_b.jpg",
+        "publishedAt": "2026-11-02T03:44:12Z",
+        "content": "China's leading electronic design automation (EDA) supplier, Empyrean Technology, plans to acquire a controlling stake in Easy-Logic Technology, a specialist in digital logic optimization, for about … [+35 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "中国Empyrean Tech收购Easy-Logic以填补数字EDA空白。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到数字技术收购",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "关注数字技术的进展与应用",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_25f96532eee3",
+      "title": "TIFF: The Market: The Review",
+      "content": "The festival’s big-bet industry event featured a “Lesbian Simulator,” AI discussions, “Obsession” obsessions, and early growing pains.",
+      "url": "https://mubi.com/en/notebook/posts/tiff-the-market-the-review",
+      "source": "Mubi.com",
+      "source_type": "news",
+      "author": "Winnie Wang",
+      "published_at": "2026-11-02T08:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Mubi.com"
+        },
+        "author": "Winnie Wang",
+        "title": "TIFF: The Market: The Review",
+        "description": "The festival’s big-bet industry event featured a “Lesbian Simulator,” AI discussions, “Obsession” obsessions, and early growing pains.",
+        "url": "https://mubi.com/en/notebook/posts/tiff-the-market-the-review",
+        "urlToImage": "https://images.mubicdn.net/images/notebook/post_spotlight_images/11678/cache-11678-1793222773/images-w1280.jpg",
+        "publishedAt": "2026-11-02T08:00:00Z",
+        "content": "TIFF: The Market exhibition booth option.At the 51st Toronto International Film Festival (TIFF), which saw the inaugural edition of its official content market, the atmosphere was unmistakably differ… [+10912 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "文章讨论了加密货币市场的整体动态和趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态以调整策略",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_e6c5b065a165",
+      "title": "Emirates NBD charts next phase of India expansion after RBL deal",
+      "content": "Emirates NBD is leveraging its acquisition of RBL Bank to tap into India's growing middle-class and affluent segments, scale digital banking synergies across the UAE-India corridor and expand its footprint through strategic bolt-on acquisitions and venture in…",
+      "url": "https://www.livemint.com/industry/banking/emirates-nbd-india-expansion-rbl-bank-startup-investments-11793587590987.html",
+      "source": "Livemint",
+      "source_type": "news",
+      "author": "Priyamvada C",
+      "published_at": "2026-11-02T06:20:34Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Priyamvada C",
+        "title": "Emirates NBD charts next phase of India expansion after RBL deal",
+        "description": "Emirates NBD is leveraging its acquisition of RBL Bank to tap into India's growing middle-class and affluent segments, scale digital banking synergies across the UAE-India corridor and expand its footprint through strategic bolt-on acquisitions and venture in…",
+        "url": "https://www.livemint.com/industry/banking/emirates-nbd-india-expansion-rbl-bank-startup-investments-11793587590987.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2026/11/02/1600x900/logo/Neeraj_Makin_1793587826781_1EID_1793587826874_sLdD_acc68d3d-8b09-4c23-8082-a916fc14117b_cEcE.jpeg",
+        "publishedAt": "2026-11-02T06:20:34Z",
+        "content": "What makes India an attractive market for Gulf-based capital today?\r\nIndia is one of the fastest-growing major economies in the world, with a population of approximately 1.4-1.5 billion.\r\nFrom a UAE … [+9115 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "阿联酋国家银行扩展印度业务。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到跨境支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注印度市场的支付动态。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_0cc80d37af55",
+      "title": "For Early Stage VCs, Non-consensus is Too Risky, Consensus is Too Boring, but Pre-consensus May Be Just Right.",
+      "content": "Temporal or structural? That’s a question many pose about the growth of the largest venture capital firms into multi-multi billion dollar investment managers and the increasing concentration of dollars in outlier companies regardless of their stage. For purpo…",
+      "url": "https://hunterwalk.com/2026/11/01/for-early-stage-vcs-non-consensus-is-too-risky-consensus-is-too-boring-but-pre-consensus-may-be-just-right/",
+      "source": "Hunterwalk.com",
+      "source_type": "news",
+      "author": "hunterwalk",
+      "published_at": "2026-11-02T00:07:16Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Hunterwalk.com"
+        },
+        "author": "hunterwalk",
+        "title": "For Early Stage VCs, Non-consensus is Too Risky, Consensus is Too Boring, but Pre-consensus May Be Just Right.",
+        "description": "Temporal or structural? That’s a question many pose about the growth of the largest venture capital firms into multi-multi billion dollar investment managers and the increasing concentration of dollars in outlier companies regardless of their stage. For purpo…",
+        "url": "https://hunterwalk.com/2026/11/01/for-early-stage-vcs-non-consensus-is-too-risky-consensus-is-too-boring-but-pre-consensus-may-be-just-right/",
+        "urlToImage": "https://i0.wp.com/hunterwalk.com/wp-content/uploads/2026/11/three-bear.jpg?fit=694%2C796&ssl=1",
+        "publishedAt": "2026-11-02T00:07:16Z",
+        "content": "Temporal or structural? That’s a question many pose about the growth of the largest venture capital firms into multi-multi billion dollar investment managers and the increasing concentration of dolla… [+2903 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding funding round",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "讨论早期风险投资的共识问题",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到风险与共识",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注投资者对共识的看法变化",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_804c91f755e1",
+      "title": "Dataline Secures $10 Million to Expand Agent Data Marketplace",
+      "content": "Dataline raised $10.6 million in a funding round to grow its decentralized data network for artificial intelligence agents, the company said in a Saturday (Oct. 31) press release. The network provides a two-sided marketplace for agent-payable data in which an…",
+      "url": "https://biztoc.com/x/e2905ad234a84130",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "pymnts.com",
+      "published_at": "2026-11-02T01:53:27Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "pymnts.com",
+        "title": "Dataline Secures $10 Million to Expand Agent Data Marketplace",
+        "description": "Dataline raised $10.6 million in a funding round to grow its decentralized data network for artificial intelligence agents, the company said in a Saturday (Oct. 31) press release. The network provides a two-sided marketplace for agent-payable data in which an…",
+        "url": "https://biztoc.com/x/e2905ad234a84130",
+        "urlToImage": "https://biztoc.com/cdn/996/og.png",
+        "publishedAt": "2026-11-02T01:53:27Z",
+        "content": "Dataline raised $10.6 million in a funding round to grow its decentralized data network for artificial intelligence agents, the company said in a Saturday (Oct. 31) press release. The network provide… [+144 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding funding round",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Dataline获得融资以扩展数据市场。",
+      "business_relevance": 0.5,
+      "relevance_reason": "一般加密货币新闻",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_5cca0018f734",
+      "title": "Cardano’s 2027 budget proposal would let funding stewards seek grants too",
+      "content": "Proposed stewards could influence assessments while DReps retain spending votes and a direct funding route awaits its allocation.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+      "url": "https://cryptoslate.com/cardanos-2027-budget-proposal-would-let-funding-stewards-seek-grants-too/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam 'Akiba' Wright",
+      "published_at": "2026-11-02T00:20:43Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam 'Akiba' Wright",
+        "title": "Cardano’s 2027 budget proposal would let funding stewards seek grants too",
+        "description": "Proposed stewards could influence assessments while DReps retain spending votes and a direct funding route awaits its allocation.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+        "url": "https://cryptoslate.com/cardanos-2027-budget-proposal-would-let-funding-stewards-seek-grants-too/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/11/cardano-budget-compass.webp",
+        "publishedAt": "2026-11-02T00:20:43Z",
+        "content": "Cardanos proposed 2027 budget process would let three institutions help design how funding requests are assessed while remaining eligible to seek money from the same spending domains.\r\nThe proposed C… [+6945 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding funding round",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Cardano提出的预算提案可能影响行业资金分配",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注Cardano的资金管理及其对行业的潜在影响",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_420e9f9c1e18",
+      "title": "SP leader Azam Khan moves Supreme Court challenging ED arrest in Jauhar Trust money laundering case",
+      "content": "Samajwadi Party leader Azam Khan has taken his case to the Supreme Court following his recent detention by the Enforcement Directorate. After his arrest related to the Jauhar Trust, a special court in Ghaziabad placed Khan in 14 days of judicial custody. His …",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/sp-leader-azam-khan-moves-supreme-court-challenging-ed-arrest-in-jauhar-trust-money-laundering-case/articleshow/135448356.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "ET Online",
+      "published_at": "2026-11-02T06:32:52Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "ET Online",
+        "title": "SP leader Azam Khan moves Supreme Court challenging ED arrest in Jauhar Trust money laundering case",
+        "description": "Samajwadi Party leader Azam Khan has taken his case to the Supreme Court following his recent detention by the Enforcement Directorate. After his arrest related to the Jauhar Trust, a special court in Ghaziabad placed Khan in 14 days of judicial custody. His …",
+        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/sp-leader-azam-khan-moves-supreme-court-challenging-ed-arrest-in-jauhar-trust-money-laundering-case/articleshow/135448356.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-135448577,width-1200,height-900,imgsize-46308,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-11-02T06:32:52Z",
+        "content": "Samajwadi Party leader Azam Khan on Monday approached the Supreme Court, challenging his arrest by the Enforcement Directorate (ED) in a fresh money laundering case.A bench comprising Chief Justice S… [+696 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_e83a1665abb2",
+      "title": "‘Institutional inertia’",
+      "content": "Also, in Monday’s edition: the AfD’s pro-Ukraine dissenter",
+      "url": "https://biztoc.com/x/c05a7bb5a0676b01",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "rapporteur.com",
+      "published_at": "2026-11-02T06:44:03Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "rapporteur.com",
+        "title": "‘Institutional inertia’",
+        "description": "Also, in Monday’s edition: the AfD’s pro-Ukraine dissenter",
+        "url": "https://biztoc.com/x/c05a7bb5a0676b01",
+        "urlToImage": "https://biztoc.com/cdn/996/og.png",
+        "publishedAt": "2026-11-02T06:44:03Z",
+        "content": "Also, in Mondays edition: the AfDs pro-Ukraine dissenter\r\nThis story appeared on rapporteur.com, 2026-11-02 06:18:08.",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "讨论了加密货币行业的惯性问题。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，适时调整策略。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_abc6f264c72e",
+      "title": "BTCPay Server Ties Hot-Wallet Drains to Versions 2.4.1 and Older",
+      "content": "The BTCPay Server hot-wallet drain affected compromised instances running version 2.4.1 or older; operators are urged to update to version 2.4.7.\nThe post BTCPay Server Ties Hot-Wallet Drains to Versions 2.4.1 and Older appeared first on Bitcoin Foundation.",
+      "url": "https://bitcoinfoundation.org/news/security/btcpay-server-ties-hot-wallet-drains-to-versions-2-4-1-and-older/",
+      "source": "Bitcoinfoundation.org",
+      "source_type": "news",
+      "author": "Eddie Muller",
+      "published_at": "2026-11-02T08:32:22Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Bitcoinfoundation.org"
+        },
+        "author": "Eddie Muller",
+        "title": "BTCPay Server Ties Hot-Wallet Drains to Versions 2.4.1 and Older",
+        "description": "The BTCPay Server hot-wallet drain affected compromised instances running version 2.4.1 or older; operators are urged to update to version 2.4.7.\nThe post BTCPay Server Ties Hot-Wallet Drains to Versions 2.4.1 and Older appeared first on Bitcoin Foundation.",
+        "url": "https://bitcoinfoundation.org/news/security/btcpay-server-ties-hot-wallet-drains-to-versions-2-4-1-and-older/",
+        "urlToImage": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/btcpay-server-ties-hot-wallet-drains-to-versions-2-4-1-and-older.webp",
+        "publishedAt": "2026-11-02T08:32:22Z",
+        "content": "BTCPay Server’s investigation into unauthorized hot-wallet withdrawals has traced the attack to instances running version 2.4.1, released July 23, 2026, or older. The project reported no credible dra… [+9021 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "BTCPay Server 版本安全漏洞引发关注。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到热钱包安全问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注热钱包安全技术的进展。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_da3a44849518",
+      "title": "BTCPay Server: Hot wallet attacks reported",
+      "content": "BTCPay Server, an open-source Bitcoin payment processor, said it's receiving reports of hot wallets being swept by unauthorized attackers.\"If you're running an instance, please shut it down (./btcpay-...",
+      "url": "https://biztoc.com/x/72abb586da625056",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "breakingthenews.net",
+      "published_at": "2026-11-02T00:21:55Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "breakingthenews.net",
+        "title": "BTCPay Server: Hot wallet attacks reported",
+        "description": "BTCPay Server, an open-source Bitcoin payment processor, said it's receiving reports of hot wallets being swept by unauthorized attackers.\"If you're running an instance, please shut it down (./btcpay-...",
+        "url": "https://biztoc.com/x/72abb586da625056",
+        "urlToImage": "https://biztoc.com/cdn/72abb586da625056_s.webp",
+        "publishedAt": "2026-11-02T00:21:55Z",
+        "content": "BTCPay Server, an open-source Bitcoin payment processor, said it's receiving reports of hot wallets being swept by unauthorized attackers.\"If you're running an instance, please shut it down (./btcpay… [+69 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "报告了热钱包攻击事件，影响行业安全性。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到热钱包攻击",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全技术的提升与防护措施。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_ae02a8dade23",
+      "title": "Binance Hack Funds Move $101M in XRP as Stolen SOL Converts to Bitcoin",
+      "content": "Binance hack funds moved $101M in XRP to two wallets as stolen SOL was converted to bitcoin, renewing scrutiny of possible exit routes without proving a sale.\nThe post Binance Hack Funds Move $101M in XRP as Stolen SOL Converts to Bitcoin appeared first on Bi…",
+      "url": "https://bitcoinfoundation.org/news/crypto-exchanges/binance-hack-funds-move-101m-in-xrp-as-stolen-sol-converts-to-bitcoin/",
+      "source": "Bitcoinfoundation.org",
+      "source_type": "news",
+      "author": "Eddie Muller",
+      "published_at": "2026-11-02T07:43:30Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Bitcoinfoundation.org"
+        },
+        "author": "Eddie Muller",
+        "title": "Binance Hack Funds Move $101M in XRP as Stolen SOL Converts to Bitcoin",
+        "description": "Binance hack funds moved $101M in XRP to two wallets as stolen SOL was converted to bitcoin, renewing scrutiny of possible exit routes without proving a sale.\nThe post Binance Hack Funds Move $101M in XRP as Stolen SOL Converts to Bitcoin appeared first on Bi…",
+        "url": "https://bitcoinfoundation.org/news/crypto-exchanges/binance-hack-funds-move-101m-in-xrp-as-stolen-sol-converts-to-bitcoin/",
+        "urlToImage": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/binance-hack-funds-move-101m-in-xrp-as-stolen-sol-converts-to-bitcoin.webp",
+        "publishedAt": "2026-11-02T07:43:30Z",
+        "content": "On Nov. 2, someone moved 80 million XRP$1.25 worth about $100.9 million from a wallet labeled Binance hack funds to two separate addresses. At the same time, the attacker was converting stolen Solana… [+9422 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "报道了加密货币被盗和转移的事件。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注加密货币安全和监管动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_e93ae8022f35",
+      "title": "btclib-wallet 2026.11.2",
+      "content": "Bitcoin wallet functionality built on btclib",
+      "url": "https://pypi.org/project/btclib-wallet/2026.11.2/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": "devs@btclib.org",
+      "published_at": "2026-11-02T00:19:14Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": "devs@btclib.org",
+        "title": "btclib-wallet 2026.11.2",
+        "description": "Bitcoin wallet functionality built on btclib",
+        "url": "https://pypi.org/project/btclib-wallet/2026.11.2/",
+        "urlToImage": null,
+        "publishedAt": "2026-11-02T00:19:14Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.6,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "btclib-wallet发布新版本信息。",
+      "business_relevance": 0.5,
+      "relevance_reason": "一般加密货币新闻",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_54c92a897a91",
+      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+      "content": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/\nComments URL: https://news.ycombinator.com/item?id=50334038\nPoints: 3\n# Comments: 1",
+      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+      "source": "Cloudsecurityalliance.org",
+      "source_type": "news",
+      "author": "jonnybgood",
+      "published_at": "2026-11-02T07:27:28Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cloudsecurityalliance.org"
+        },
+        "author": "jonnybgood",
+        "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+        "description": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/\nComments URL: https://news.ycombinator.com/item?id=50334038\nPoints: 3\n# Comments: 1",
+        "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+        "urlToImage": "https://i0.wp.com/labs.cloudsecurityalliance.org/wp-content/uploads/2025/12/cropped-logo.png?fit=512%2C512&ssl=1",
+        "publishedAt": "2026-11-02T07:27:28Z",
+        "content": "Key Takeaways\r\nOn October 16, 2026, China’s Ministry of Commerce (MOFCOM) and Ministry of Science and Technology (MOST) issued Announcement No. 48 of 2026. The announcement proposes adding 40 technol… [+21566 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody compliance",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "中国首次发布前沿AI出口管制政策。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注政策对加密行业的潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
+      "description": "Brazil's largest crypto exchange Mercado Bitcoin confirmed earlier Monday a security incident and paused withdrawals.",
+      "url": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-11-02T20:19:49",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Mercado Bitcoin"
+      ],
+      "importance_score": 7,
+      "ai_summary": "巴西最大加密交易所遭遇4600万美元安全漏洞事件。",
+      "business_relevance": 0.7,
+      "relevance_reason": "交易所安全事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全事件对市场信任的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says",
+      "description": "StoneX says DTCC's tokenization service validates Securitize's model, reiterating its buy rating on SECZ as the firm expands tokenized stocks.",
+      "url": "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-11-02T19:15:48",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "DTCC",
+        "Securitize",
+        "StoneX"
+      ],
+      "importance_score": 7,
+      "ai_summary": "DTCC的代币化服务可能推动市场发展。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到代币化服务",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注代币化技术的市场动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
+      "description": "Onchain investigator ZachXBT says an unidentified EU entity lost more than $106 million from centralized exchange accounts on Sunday,.",
+      "url": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-11-02T21:16:03",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "一名欧盟实体遭遇超过1亿美元的加密盗窃事件。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币盗窃事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注加密安全性和监管动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+      "description": "The Fundstrat strategist says constraints on AI spending have slowed growth without ending the boom, while crypto’s response to the Binance hack suggests sellers may already be exhausted.",
+      "url": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-11-02T19:46:02",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "分析加密货币市场动态与AI股票的关系。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
+      "description": "Brazil's largest crypto exchange paused deposits and withdrawals after a security incident. Tether froze more than 4.5 million USDT tied to the attack.",
+      "url": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-11-02T16:46:03",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Tether"
+      ],
+      "importance_score": 8,
+      "ai_summary": "巴西最大交易所因黑客事件暂停提现，Tether冻结相关USDT。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币和交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注交易所安全性及稳定币的风险管理。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Morning Minute: Binance Hack Leads to Mass Outflows While FBI Opens Probe",
+      "description": "Uptober was far from it, with the Binance hack punctuating a red month. Will November be better? Or will the Binance hack hang over crypto?",
+      "url": "https://decrypt.co/382332/morning-minute-the-binance-hack-leads-to-mass-outflows-while-fbi-opens-probe",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-11-02T13:34:02",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance黑客事件引发市场动荡。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场反应与监管动态。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports",
+      "description": "The Bitcoin payment software says attacks targeted versions 2.4.1 and older, days after it shipped an emergency fix for a critical flaw.",
+      "url": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-11-02T12:24:18",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "BTCPay建议商家关闭服务器以应对攻击。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密支付安全",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注支付软件安全动态，评估潜在影响。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Calomiris: Regulators “Walling off” Stablecoins by Preventing Interest Payments on Deposits - Kathleen Hays Presents: Central Bank Central",
+      "description": "Calomiris: Regulators “Walling off” Stablecoins by Preventing Interest Payments on Deposits&nbsp;&nbsp;Kathleen Hays Presents: Central Bank Central",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKeE90T0xMNVhoNUppS2VweFNjYTZnMWNKUXVCcy1BT0FoTGc2MlZ5dlJQMlRYVTN2MGRWemZ2ZXFWWDlydzNpU0RwV2hDMUl4UHFUaXE5NEJnRGdybEp6SGphNWM4ejhaclgtSkhLVTVQWVZEcWR3?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-11-02T21:27:09",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "监管阻碍稳定币利息支付的讨论",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，调整业务策略",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Visa Stablecoin Payments Explained: Settlement, Spending and Payouts - The Defiant",
+      "description": "Visa Stablecoin Payments Explained: Settlement, Spending and Payouts&nbsp;&nbsp;The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdjY4MXlCU1FKY0hWaW1RLUF1bXZlOENfRlJXTWlRaXN1NkVTMlBXSGczdVNxaDlEUUw5eWF3NnZaVmp3el9lNmcyR2MwTlBxZE5vcDNzUFNPUFpxbW1fVjBQVGlkdGhxS2pVY05PZy05QzdBZW5OcmFUNU1ybi0zVU16cjIxYnFZeTkyc3Zaa1BZV1duUV9mRm9OTmRsSHJhWFlRcFozdk5CcTVtMUFvQmVWakxXYkk?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-11-02T11:28:49",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Visa"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Visa 解析了稳定币支付的各个方面。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付业务",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币支付的市场动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Airtm and BVNK Plan Wallet Payments for Merchants in Emerging Markets - TradingView",
+      "description": "Airtm and BVNK Plan Wallet Payments for Merchants in Emerging Markets&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdnVXeEc0NGN6LVhTRDkyUUtGR3gwenpVUklZbkprOHAzMkVfcDNLdmNvcGFmSy1ya1NSeE9yQng3alZmWXcwTjA1Q2p5U2hNSjdGUkJfQXdmdlBuSVJETFdzWUQ5bU52ZmE5RXJKc3BJZVRfWGxocmloMjEtZEQxTGxzWG82eG5WMHRIb2hMQ3lvaUN4eUhYX1llM3JhcVRaTVBJYzBMR1U2bWdzUFlEcXVteTVva2U4MnZ2bTJyVkk0ZkpqVkE?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-11-02T23:00:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Airtm",
+        "BVNK"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Airtm与BVNK计划在新兴市场推出钱包支付服务。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到支付业务",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注新兴市场支付技术动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Stablecoins Evolve Beyond Cross-Border Transfers - Fintech Singapore",
+      "description": "Stablecoins Evolve Beyond Cross-Border Transfers&nbsp;&nbsp;Fintech Singapore",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMFcxT1Vmd2plVW9EZ1VqckFENng2Q3paQXdEZUJFUDZBbTlSOFVjR1BCbUNaQkxvYUJTbWVtZkc5ZF9iMmJ2VXlLOERyVl8xa0FWaXpVakxUSThqdldnbi1UM2xtUkhNTTg4QS1pb3VXZDNYaDg1UmdBLXlqVUtUaEtUYW8zODlDZ0hzVnZlYlRtS09LVFdsNg?oc=5",
+      "source": "Google News (cross-border stablecoin)",
+      "source_category": "google_news",
+      "published_at": "2026-11-03T05:05:42",
+      "data_type": "rss",
+      "search_keyword": "cross-border stablecoin",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "稳定币在跨境转账之外的发展趋势",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币的演变",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币的应用场景变化",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "HKMA Moves EnsembleTX To 24/7 Settlement Before Stablecoin Bill Trials - OneBullEx",
+      "description": "HKMA Moves EnsembleTX To 24/7 Settlement Before Stablecoin Bill Trials&nbsp;&nbsp;OneBullEx",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnM3T2F4WDM3MVM1T0ZwNWNzUXJrV2lsQW9JaERRcVVYU2J6cnhMUGNLTHVodXBSaXVMVFVWYlJMTUF1c3RRY3BBQktEUW9kZTZpZUxCTkRsM3pWbzBFdW1HcmxocEdDZ3FaUHFIZlZJRGZjZDFYMDNYVzNkeUpqbl9BWVdtV3diYnlOVmczSm8wdUFvSjU4bXdvaldTYmY5bFpVVmxkSllkMVJPTjYw?oc=5",
+      "source": "Google News (stablecoin license)",
+      "source_category": "google_news",
+      "published_at": "2026-11-02T20:43:27",
+      "data_type": "rss",
+      "search_keyword": "stablecoin license",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "HKMA推进稳定币结算的政策动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币法案",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注稳定币相关政策变化。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "StanChart-Backed Anchorpoint Taps Solana for HKD Stablecoin Issuance - BigGo Finance",
+      "description": "StanChart-Backed Anchorpoint Taps Solana for HKD Stablecoin Issuance&nbsp;&nbsp;BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mMllOc2VuM3A4eWx6MDdsYVRDRms5MGdfV1NxOUNpaWlBYk45Sk1lMnZYY3RrbGthWk1WZ0RmQWY0b1FrR3Fma2ZQT0doOHB1VjI4LVlTV3RsYzVVOEktNHBpR1RROC1fMHd6bEVJQ0N5aUNaMmc?oc=5",
+      "source": "Google News (stablecoin license)",
+      "source_category": "google_news",
+      "published_at": "2026-11-02T12:35:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin license",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "StanChart",
+        "Anchorpoint",
+        "Solana"
+      ],
+      "importance_score": 8,
+      "ai_summary": "StanChart支持的Anchorpoint在Solana上发行港元稳定币。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币发行",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态，评估潜在影响。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Hong Kong Stablecoin Solana Expansion with Anchorpoint Partnership - The Cryptonomist",
+      "description": "Hong Kong Stablecoin Solana Expansion with Anchorpoint Partnership&nbsp;&nbsp;The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54T09tNGI3T25ZcUw3YVdSa29VRk5LSUc4NjZSUFE4UWZFMTlqc2xLeWhZU0cyQ0tiOXhrR3dBT1BJc1UyaEk1MWRNXzN6WUx2VUJuZnBDdThnUUMzbHlUMW40NEVFM0pPNnNWeTU1dDR0N3g5?oc=5",
+      "source": "Google News (stablecoin license)",
+      "source_category": "google_news",
+      "published_at": "2026-11-02T12:11:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin license",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Solana",
+        "Anchorpoint"
+      ],
+      "importance_score": 7,
+      "ai_summary": "香港稳定币Solana与Anchorpoint合作扩展。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币和合作",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币市场动态和技术进展。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Hong Kong plans stablecoin trials for tokenized government debt - Crypto News",
+      "description": "Hong Kong plans stablecoin trials for tokenized government debt&nbsp;&nbsp;Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95VE1yZTNJQTNrLWl5bElfTXdOSXA1QmszTXRvZHEybE9uVDZxVzBnSGE0YmlIYjRORGNmQ05kcFM3N2lEdDdmRDhFMUJFUTVpT1MwaHZFeUFrRTJwNE1MOElOVEYwd0hmdTVJU2g0S2xkOHZWU3MyeEY3QVRtelE?oc=5",
+      "source": "Google News (stablecoin regulation Hong Kong)",
+      "source_category": "google_news",
+      "published_at": "2026-11-02T10:52:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin regulation Hong Kong",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "香港计划进行稳定币试点以支持政府债务代币化。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币试点",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注香港稳定币政策动向",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Standard Chartered Just Launched 24/7 Settlement Between Banks Without XRP. Should XRP Holders Worry? - 24/7 Wall St.",
+      "description": "Standard Chartered Just Launched 24/7 Settlement Between Banks Without XRP. Should XRP Holders Worry?&nbsp;&nbsp;24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQll3ZGlVNXZueGlhRGlqUGxyaUpuNXQwZENIQXA3c3JNTG5sdEZMa3F4RlNuZGlkeDdxRC1SWk9mMWN4d1daWl9MZUZhRU9lZThaR2daOFptNkhCN3d4Yk5Tb0RjMG5YUl9VVmdFSzRpS2FNSmJzc1FIUTNDOW9vbUZwOUYxaDdscHVYTnl6OElhVk9nWDNwU3loVWVYcXBaYk1Nbm9kMjdsR1V5UFR0NGw5VzF6VkNzYmQxa25nQzZsN0VKaEJiVkhtNzBRc21fSkU2VGZIeHNLZkVkU1FVODVjM1hTcXdYZF9pNk9SYw?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-11-02T17:11:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Standard Chartered"
+      ],
+      "importance_score": 7,
+      "ai_summary": "渣打银行推出24/7银行间结算服务。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及跨境支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注跨境支付技术发展动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials - TradingView",
+      "description": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNckNvN3dvWkYyUmk3bUZTcjg5LXN6QndMbjJVTmZtMnZ3NmthRHNXV1BaMTZFQmZzaEhQVjNhcFdtMHktMFdKTEFCVnd1QzBIeENOUVpjSTJxZHFaeGxNc0lmWkRqWVVvMlFONFBhS1haUU1fN2lUTHdRYlNRNXROZEpVakJlWnBvMlJpcUNQU0NmbTZSc1NIalVFaXZ1REdRZHhCWWRlZkExSmFlMFNMWlp5Qmd3U3hCNUg5ZlJ2SnlCUXZEWk5OY3o1QUs?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-11-02T10:14:55",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "香港计划进行稳定币试点，推动24/7的代币化结算。",
+      "business_relevance": 0.8,
+      "relevance_reason": "提到稳定币试点",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注香港稳定币政策变化，评估市场机会。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    }
+  ],
+  "company": [
+    {
+      "id": "news_b64228422cdb",
+      "title": "HSBC’s RedCoin stablecoin draws 50,000 users in first week as bank deepens local tech push",
+      "content": "HSBC said its RedCoin retail stablecoin has attracted 50,000 users since its official launch just over a week ago, as the city’s largest lender remains committed to exploring new technologies in the city.\nThe figures were revealed by HSBC group CEO Georges El…",
+      "url": "https://biztoc.com/x/160b23aebee649f8",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "scmp.com",
+      "published_at": "2026-11-02T08:00:46Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "scmp.com",
+        "title": "HSBC’s RedCoin stablecoin draws 50,000 users in first week as bank deepens local tech push",
+        "description": "HSBC said its RedCoin retail stablecoin has attracted 50,000 users since its official launch just over a week ago, as the city’s largest lender remains committed to exploring new technologies in the city.\nThe figures were revealed by HSBC group CEO Georges El…",
+        "url": "https://biztoc.com/x/160b23aebee649f8",
+        "urlToImage": "https://biztoc.com/cdn/160b23aebee649f8_s.webp",
+        "publishedAt": "2026-11-02T08:00:46Z",
+        "content": "HSBC said its RedCoin retail stablecoin has attracted 50,000 users since its official launch just over a week ago, as the citys largest lender remains committed to exploring new technologies in the c… [+133 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "HSBC"
+      ],
+      "importance_score": 8,
+      "ai_summary": "汇丰银行的稳定币RedCoin在首周吸引了5万用户。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币用户增长",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "客户争夺",
+        "市场定价"
+      ],
+      "suggested_action": "关注汇丰的市场动态，调整产品策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "title": "Routable Rebrands to Launch Integrated Stablecoin and Tokenized Deposit Offerings - FF News",
+      "description": "Routable Rebrands to Launch Integrated Stablecoin and Tokenized Deposit Offerings&nbsp;&nbsp;FF News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNHpZTHVMLXhsUWlYcHUtdlpFMy1EZnlpek5LRm5uNWVmVUJzMy1WZFcwUXloNko3X0xzd3owamV3NnhrcVdQdzlSVWpFX3prMnFlWkJvLTV0c1hLOGtGUUw5UUhNNGdZVVhmRzI4eEVMbjRnTjdueGtNQzd4U0Q1bExuSWpqX3RMUlFqUGJmRW5YRHVpWVNHTFQ5S0g2TDZXelYyMmhKRWNvVjg?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-11-02T14:53:29",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Routable"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Routable推出集成稳定币和代币化存款业务。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币和托管业务",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "客户争夺",
+        "市场定价"
+      ],
+      "suggested_action": "关注Routable的市场动态，评估竞争策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    }
+  ],
+  "funding": []
+}
