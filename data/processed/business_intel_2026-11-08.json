@@ -1,0 +1,1117 @@
+{
+  "competitors": [],
+  "clients": [],
+  "industry": [
+    {
+      "id": "news_524d39e83490",
+      "title": "sra-riskgate 1.0.0",
+      "content": "Fail-closed checks for AI-agent stablecoin payments (USDC, USDT, USDB, USDG): OFAC SDN match, payee policy, limits, depeg, unsafe token approvals in transactions and x402 signatures, post-settlement receipt verification, and dispute-window verdicts",
+      "url": "https://pypi.org/project/sra-riskgate/1.0.0/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-07T00:42:04Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "sra-riskgate 1.0.0",
+        "description": "Fail-closed checks for AI-agent stablecoin payments (USDC, USDT, USDB, USDG): OFAC SDN match, payee policy, limits, depeg, unsafe token approvals in transactions and x402 signatures, post-settlement receipt verification, and dispute-window verdicts",
+        "url": "https://pypi.org/project/sra-riskgate/1.0.0/",
+        "urlToImage": null,
+        "publishedAt": "2026-11-07T00:42:04Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_4379f46d9e12",
+      "title": "Bitcoin faces $70,000 risk as investors realize $2 billion in losses and US jobs shock deepens pressure",
+      "content": "Bitcoin holders realized more than $2 billion in losses over three days as exchange selling intensified and expectations of a US rate hike rose. On Friday, Bitcoin briefly plunged below $75,000 as a sharp sell-off in US technology stocks spilled into digital …",
+      "url": "https://cryptoslate.com/bitcoin-faces-70000-risk-as-investors-realize-2-billion-in-losses-and-us-jobs-shock-deepens-pressure/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Oluwapelumi Adejumo",
+      "published_at": "2026-11-07T00:40:34Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Oluwapelumi Adejumo",
+        "title": "Bitcoin faces $70,000 risk as investors realize $2 billion in losses and US jobs shock deepens pressure",
+        "description": "Bitcoin holders realized more than $2 billion in losses over three days as exchange selling intensified and expectations of a US rate hike rose. On Friday, Bitcoin briefly plunged below $75,000 as a sharp sell-off in US technology stocks spilled into digital …",
+        "url": "https://cryptoslate.com/bitcoin-faces-70000-risk-as-investors-realize-2-billion-in-losses-and-us-jobs-shock-deepens-pressure/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-realized-losses.webp",
+        "publishedAt": "2026-11-07T00:40:34Z",
+        "content": "Bitcoin holders realized more than $2 billion in losses over three days as exchange selling intensified and expectations of a US rate hike rose.\r\nOn Friday, Bitcoin briefly plunged below $75,000 as a… [+4812 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_8489f7c583c2",
+      "title": "$310 million in USDC moves between unidentified wallets",
+      "content": "The anonymity of large USDC transfers highlights the growing normalization of substantial crypto movements, reflecting deep market liquidity.\nThe post $310 million in USDC moves between unidentified wallets appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/310-million-usdc-transfer-unknown-wallets/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Diego Almada Lopez",
+      "published_at": "2026-11-07T06:40:54Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Diego Almada Lopez",
+        "title": "$310 million in USDC moves between unidentified wallets",
+        "description": "The anonymity of large USDC transfers highlights the growing normalization of substantial crypto movements, reflecting deep market liquidity.\nThe post $310 million in USDC moves between unidentified wallets appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/310-million-usdc-transfer-unknown-wallets/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/07014042/library-310-million-in-usdc-moves-between-unidentified-wallets-800x450.png",
+        "publishedAt": "2026-11-07T06:40:54Z",
+        "content": "A transfer of 309,864,597 USDC flagged by Whale Alert fits a growing pattern of nine-figure stablecoin movements in 2026Someone just moved 309,864,597 USDC from one wallet to another. Nobody publicly… [+3649 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "310万美元的USDC在未识别钱包之间转移。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币转移",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币流动性变化。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_f536aadbe0bc",
+      "title": "Samsung teams with Stripe to bring USDC to 82M phones",
+      "content": "Samsung Pay, cards and ACH fund the account, with New York excluded and fees varying by transaction.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+      "url": "https://cryptoslate.com/samsung-teams-with-stripe-to-bring-usdc-to-82m-phones/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam 'Akiba' Wright",
+      "published_at": "2026-11-07T02:10:27Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam 'Akiba' Wright",
+        "title": "Samsung teams with Stripe to bring USDC to 82M phones",
+        "description": "Samsung Pay, cards and ACH fund the account, with New York excluded and fees varying by transaction.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+        "url": "https://cryptoslate.com/samsung-teams-with-stripe-to-bring-usdc-to-82m-phones/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/11/samsung-stripe-usdc-fingerprint-1280x720-1.jpg",
+        "publishedAt": "2026-11-07T02:10:27Z",
+        "content": "Eligible US Samsung Wallet users can now buy USDC with Samsung Pay, credit and debit cards, or ACH bank payments through Stripe, the payments company said Nov. 5. The service lets Galaxy owners conve… [+2513 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Samsung",
+        "Stripe"
+      ],
+      "importance_score": 7,
+      "ai_summary": "三星与Stripe合作推广USDC至8200万手机用户。",
+      "business_relevance": 0.8,
+      "relevance_reason": "涉及稳定币USDC",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注USDC在市场的应用动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_8ebd77cccaa0",
+      "title": "Binance France to close all customer accounts by year end, with fees on idle balances from November 29",
+      "content": "Binance France's closure highlights regulatory challenges in the crypto sector, urging users to act swiftly to avoid financial penalties.\nThe post Binance France to close all customer accounts by year end, with fees on idle balances from November 29 appeared …",
+      "url": "https://cryptobriefing.com/binance-france-close-accounts-fees-november/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-11-07T01:05:42Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Binance France to close all customer accounts by year end, with fees on idle balances from November 29",
+        "description": "Binance France's closure highlights regulatory challenges in the crypto sector, urging users to act swiftly to avoid financial penalties.\nThe post Binance France to close all customer accounts by year end, with fees on idle balances from November 29 appeared …",
+        "url": "https://cryptobriefing.com/binance-france-close-accounts-fees-november/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/06200533/library-binance-france-to-close-all-customer-accounts-by-year-en-800x450.png",
+        "publishedAt": "2026-11-07T01:05:42Z",
+        "content": "After failing to secure a MiCA license, the exchange's French arm is charging monthly fees on leftover assets ahead of a December 31 shutdownBinance France is shutting its doors to French customers. … [+2939 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance France 将关闭所有客户账户并收取闲置余额费用。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_c1494d076664",
+      "title": "Treasury’s Operation Economic Outcast Is Remaking the Sanctions Playbook, and Crypto Is the Main Target",
+      "content": "FinCEN has cut crypto exchange MEXC Global off from the US financial system, alleging at least $16 billion in illicit transactions, part of a campaign called Operation Economic Outcast.\nThe post Treasury’s Operation Economic Outcast Is Remaking the Sanctions …",
+      "url": "https://techreport.com/news/business/operation-economic-outcast-mexc-treasury-playbook/",
+      "source": "Techreport.com",
+      "source_type": "news",
+      "author": "Krishi Chowdhary",
+      "published_at": "2026-11-07T02:40:56Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Techreport.com"
+        },
+        "author": "Krishi Chowdhary",
+        "title": "Treasury’s Operation Economic Outcast Is Remaking the Sanctions Playbook, and Crypto Is the Main Target",
+        "description": "FinCEN has cut crypto exchange MEXC Global off from the US financial system, alleging at least $16 billion in illicit transactions, part of a campaign called Operation Economic Outcast.\nThe post Treasury’s Operation Economic Outcast Is Remaking the Sanctions …",
+        "url": "https://techreport.com/news/business/operation-economic-outcast-mexc-treasury-playbook/",
+        "urlToImage": "https://techreport.com/wp-content/uploads/2026/11/cover-3597557-1794019247895.jpg",
+        "publishedAt": "2026-11-07T02:40:56Z",
+        "content": "The US Treasury cut crypto exchange MEXC Global off from the US financial system on November 6, 2026, alleging the platform carried at least $16 billion in illicit transactions over five years, the l… [+4109 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "财政部的制裁行动影响加密行业",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化对业务的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_6572fb5c149f",
+      "title": "Zero-click iOS exploits drain $4M USDT from active TRON wallets",
+      "content": "The 365-address TRON network includes 89 TRX-only losses, while just one theft matches a published iPhone-owner account.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+      "url": "https://cryptoslate.com/zero-click-ios-exploits-drain-4m-usdt-from-active-tron-wallets/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Gino Matos",
+      "published_at": "2026-11-07T03:30:04Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Gino Matos",
+        "title": "Zero-click iOS exploits drain $4M USDT from active TRON wallets",
+        "description": "The 365-address TRON network includes 89 TRX-only losses, while just one theft matches a published iPhone-owner account.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+        "url": "https://cryptoslate.com/zero-click-ios-exploits-drain-4m-usdt-from-active-tron-wallets/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/11/single-iphone-exhibit.jpg",
+        "publishedAt": "2026-11-07T03:30:04Z",
+        "content": "Blockchain data firm Bitquery has traced at least $4 million in USDT thefts to a network involving 365 TRON addresses.\r\nIts Nov. 5 investigation adds a loss figure to recent iPhone wallet-theft repor… [+3618 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDT",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "零点击iOS漏洞导致400万美元USDT被盗。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币USDT",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全漏洞对稳定币市场的影响。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_ebc5f1f2c93f",
+      "title": "Moscow Exchange sets Dec. 1 to launch Bitcoin and Ethereum trading",
+      "content": "Non-qualified buyers face a 300,000-ruble annual cap per intermediary and testing, while Moscow Exchange plans a December pilot.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+      "url": "https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Gino Matos",
+      "published_at": "2026-11-07T04:40:10Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Gino Matos",
+        "title": "Moscow Exchange sets Dec. 1 to launch Bitcoin and Ethereum trading",
+        "description": "Non-qualified buyers face a 300,000-ruble annual cap per intermediary and testing, while Moscow Exchange plans a December pilot.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+        "url": "https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/11/moex-one-live-lane.jpg",
+        "publishedAt": "2026-11-07T04:40:10Z",
+        "content": "The Bank of Russia has finalized the list of assets that investors without qualified status can buy, allowing exchanges to list Bitcoin, Ethereum, and USDT for public trading from Nov. 17.\r\nIn its No… [+4237 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDT",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "莫斯科交易所将于12月1日推出比特币和以太坊交易。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_87e6dbbb03c0",
+      "title": "#690: From Russia With Love",
+      "content": "In this episode, Whitney and Mark discuss their actual (and often misrepresented) views on Bitcoin and stablecoins and how both are due to be used in tandem to expand dollar dominance, address the US’ debt issue, and perpetuate “crypto-colonialism” around the…",
+      "url": "https://activistpost.com/690-from-russia-with-love/",
+      "source": "Activistpost.com",
+      "source_type": "news",
+      "author": "Editor",
+      "published_at": "2026-11-07T02:20:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Activistpost.com"
+        },
+        "author": "Editor",
+        "title": "#690: From Russia With Love",
+        "description": "In this episode, Whitney and Mark discuss their actual (and often misrepresented) views on Bitcoin and stablecoins and how both are due to be used in tandem to expand dollar dominance, address the US’ debt issue, and perpetuate “crypto-colonialism” around the…",
+        "url": "https://activistpost.com/690-from-russia-with-love/",
+        "urlToImage": "https://activistpost.com/wp-content/uploads/2026/10/690-From-Russia-With-Love-ART-Option-2.jpg",
+        "publishedAt": "2026-11-07T02:20:00Z",
+        "content": "The agenda to demonize Russia has been in place for more than a decade in the Western world, as the push for war intensifies. The NATO leaders have calculated that the only way out is to escalate the… [+1127 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "该新闻涉及加密货币的监管动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注相关监管政策变化",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_92a306d1fb3d",
+      "title": "Stock May Be 27% Undervalued Following Storage Market Growth News",
+      "content": "Fluence Energy has seen a steep share price reset in recent years, and that kind of drawdown naturally raises a basic question for investors who care about valuation. Is the current market price still in step with what the company's cash flows can support ove…",
+      "url": "https://biztoc.com/x/5d31b1f24130b69b",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "finance.yahoo.com",
+      "published_at": "2026-11-07T02:10:41Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "Stock May Be 27% Undervalued Following Storage Market Growth News",
+        "description": "Fluence Energy has seen a steep share price reset in recent years, and that kind of drawdown naturally raises a basic question for investors who care about valuation. Is the current market price still in step with what the company's cash flows can support ove…",
+        "url": "https://biztoc.com/x/5d31b1f24130b69b",
+        "urlToImage": "https://biztoc.com/cdn/5d31b1f24130b69b_s.webp",
+        "publishedAt": "2026-11-07T02:10:41Z",
+        "content": "Fluence Energy has seen a steep share price reset in recent years, and that kind of drawdown naturally raises a basic question for investors who care about valuation. Is the current market price stil… [+147 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "存储市场增长可能影响行业动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到市场增长",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注存储市场发展对业务的潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_ba427a5a26e2",
+      "title": "Digit has a real job and more warehouses are next",
+      "content": "Digit has moved more than 100,000 totes on a paid GXO contract and logged 65,000 hours across commercial operations and customer programs. Agility Robotics has closed its merger and begun trading on the Nasdaq as AGLT. What the public money buys, and what the…",
+      "url": "https://the-gadgeteer.com/2026/11/07/agility-digit-humanoid-goes-public/",
+      "source": "The Gadgeteer",
+      "source_type": "news",
+      "author": "Vincent Nguyen",
+      "published_at": "2026-11-07T08:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Gadgeteer"
+        },
+        "author": "Vincent Nguyen",
+        "title": "Digit has a real job and more warehouses are next",
+        "description": "Digit has moved more than 100,000 totes on a paid GXO contract and logged 65,000 hours across commercial operations and customer programs. Agility Robotics has closed its merger and begun trading on the Nasdaq as AGLT. What the public money buys, and what the…",
+        "url": "https://the-gadgeteer.com/2026/11/07/agility-digit-humanoid-goes-public/",
+        "urlToImage": "https://the-gadgeteer.com/wp-content/uploads/2026/11/agility-digit-warehouse-hero.jpg",
+        "publishedAt": "2026-11-07T08:00:00Z",
+        "content": "If you buy something from a link in this article, we may earn a commission. Learn more\r\nAt a GXO warehouse in Flowery Branch, Georgia, one of the coworkers on the shift is a robot, and the deployment… [+4845 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "merger",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Digit 在扩展仓库以支持业务。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币行业动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注市场动态以调整策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_67ae51fb148f",
+      "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
+      "content": "US Treasury imposed financial sanctions on eight Canadian money services firms involved with sanctioned Iranian entities. The sanctions block access to dollar-based financial systems and prohibit transactions with US persons. Secretary of the Treasury Scott B…",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-treasury-sanctions-canadian-money-services-firms-over-iran-related-transactions/articleshow/135623918.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "Reuters",
+      "published_at": "2026-11-07T00:53:38Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Reuters",
+        "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
+        "description": "US Treasury imposed financial sanctions on eight Canadian money services firms involved with sanctioned Iranian entities. The sanctions block access to dollar-based financial systems and prohibit transactions with US persons. Secretary of the Treasury Scott B…",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-treasury-sanctions-canadian-money-services-firms-over-iran-related-transactions/articleshow/135623918.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-135623944,width-1200,height-900,imgsize-268086,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-11-07T00:53:38Z",
+        "content": "Washington: The US Treasury said on Friday that it had imposed financial sanctions on eight money services firms based in Canada that it alleges have facilitated transactions with sanctioned Iranian … [+1650 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series B",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "美国财政部制裁与伊朗相关的加拿钱服务公司。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注相关监管政策变化，调整合规策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_c350b1638a53",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "content": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to A…",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "source": "The Verge",
+      "source_type": "news",
+      "author": "Nilay Patel",
+      "published_at": "2026-11-07T05:43:11Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Nilay Patel",
+        "title": "AI broke the cybersecurity world. What’s next?",
+        "description": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to A…",
+        "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-11-07T05:43:11Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nGoing inside the security dark ages with Alex Stamos.\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to your daily email digest and your homepage fe… [+58424 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series C",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "AI技术对网络安全的影响引发关注。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到网络安全与技术",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注AI在网络安全中的应用趋势",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_90f2948352b0",
+      "title": "terp-cap-leases 0.38.0",
+      "content": "Terp lease capability — durable, fenced, expiring custody of work, with a reaper that recovers a crashed worker's claim.",
+      "url": "https://pypi.org/project/terp-cap-leases/0.38.0/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-07T08:14:54Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "terp-cap-leases 0.38.0",
+        "description": "Terp lease capability — durable, fenced, expiring custody of work, with a reaper that recovers a crashed worker's claim.",
+        "url": "https://pypi.org/project/terp-cap-leases/0.38.0/",
+        "urlToImage": null,
+        "publishedAt": "2026-11-07T08:14:54Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_2dfd10426868",
+      "title": "Paraguay's president impeached after collapse of bank",
+      "content": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
+      "source": "BBC News",
+      "source_type": "news",
+      "author": "https://www.facebook.com/bbcnews",
+      "published_at": "2026-11-07T01:07:56Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Paraguay's president impeached after collapse of bank",
+        "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/64c1/live/a38644c0-da3a-11f1-959c-e95bd2c2a35f.jpg",
+        "publishedAt": "2026-11-07T01:07:56Z",
+        "content": "Paraguay's President Santiago Peña has been impeached and placed under house arrest.\r\nPeña was arrested on Friday minutes after lawmakers, including from his own party, voted to remove him from offic… [+1585 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "巴拉圭总统因银行倒闭被弹劾，影响金融环境。",
+      "business_relevance": 0.5,
+      "relevance_reason": "银行倒闭影响金融稳定",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "监管影响"
+      ],
+      "industry_action": "关注巴拉圭金融市场动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_126c38c7c3e0",
+      "title": "3 Garmin smartwatches with deep discounts at Amazon in November 2026",
+      "content": "Three of Garmin’s current watches took their deepest Amazon cuts of the season this week. A Fenix E in Slate Steel is $399, half its $799.99 list price. The Venu 3S is $299.99 against $449.99, and the Instinct Crossover hybrid…",
+      "url": "https://the-gadgeteer.com/2026/11/07/2-garmin-smartwatches-with-deep-discounts-at-amazon-in-november-2026/",
+      "source": "The Gadgeteer",
+      "source_type": "news",
+      "author": "Vincent Nguyen",
+      "published_at": "2026-11-07T06:07:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Gadgeteer"
+        },
+        "author": "Vincent Nguyen",
+        "title": "3 Garmin smartwatches with deep discounts at Amazon in November 2026",
+        "description": "Three of Garmin’s current watches took their deepest Amazon cuts of the season this week. A Fenix E in Slate Steel is $399, half its $799.99 list price. The Venu 3S is $299.99 against $449.99, and the Instinct Crossover hybrid…",
+        "url": "https://the-gadgeteer.com/2026/11/07/2-garmin-smartwatches-with-deep-discounts-at-amazon-in-november-2026/",
+        "urlToImage": "https://the-gadgeteer.com/wp-content/uploads/2026/11/garmin-deals-hero.jpg",
+        "publishedAt": "2026-11-07T06:07:00Z",
+        "content": "If you buy something from a link in this article, we may earn a commission. Learn more\r\nThree of Garmins current watches took their deepest Amazon cuts of the season this week. A Fenix E in Slate Ste… [+5081 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_29e403e20db0",
+      "title": "EIP-8037 state-gas rules force Ethereum dApps to rewrite billing",
+      "content": "A November 6 appeal asks projects to test gas assumptions and report repair options that could shape Glamsterdam’s specifications.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inb…",
+      "url": "https://cryptoslate.com/eip-8037-state-gas-rules-force-ethereum-dapps-to-rewrite-billing/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam 'Akiba' Wright",
+      "published_at": "2026-11-07T06:10:22Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam 'Akiba' Wright",
+        "title": "EIP-8037 state-gas rules force Ethereum dApps to rewrite billing",
+        "description": "A November 6 appeal asks projects to test gas assumptions and report repair options that could shape Glamsterdam’s specifications.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inb…",
+        "url": "https://cryptoslate.com/eip-8037-state-gas-rules-force-ethereum-dapps-to-rewrite-billing/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/11/glamsterdam-01-meter-bypass.jpg",
+        "publishedAt": "2026-11-07T06:10:22Z",
+        "content": "Ethereums core developers are asking application teams to help decide whether proposed gas changes in the Glamsterdam upgrade need revision, because their own audits cannot cover every projects contr… [+6108 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "以太坊新规则影响dApp计费方式。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及以太坊dApp计费规则",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "关注以太坊技术变更对业务的影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_8cd53ad1082b",
+      "title": "Blockstream names Falcon-1024 its top quantum-resistant signature pick for Bitcoin",
+      "content": "Blockstream's focus on Falcon-1024 highlights the complex trade-offs and gradual transition needed for Bitcoin's quantum-resistant future.\nThe post Blockstream names Falcon-1024 its top quantum-resistant signature pick for Bitcoin appeared first on Crypto Bri…",
+      "url": "https://cryptobriefing.com/blockstream-falcon-1024-bitcoin-quantum-signatures/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-11-07T02:09:35Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Blockstream names Falcon-1024 its top quantum-resistant signature pick for Bitcoin",
+        "description": "Blockstream's focus on Falcon-1024 highlights the complex trade-offs and gradual transition needed for Bitcoin's quantum-resistant future.\nThe post Blockstream names Falcon-1024 its top quantum-resistant signature pick for Bitcoin appeared first on Crypto Bri…",
+        "url": "https://cryptobriefing.com/blockstream-falcon-1024-bitcoin-quantum-signatures/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/06210925/library-blockstream-names-falcon-1024-its-top-quantum-resistant--800x450.png",
+        "publishedAt": "2026-11-07T02:09:35Z",
+        "content": "A new Blockstream Research paper favors the compact lattice scheme but flags memory, wallet, and standardization hurdles before deploymentBlockstream Research has picked a favorite in the race to qua… [+3629 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Blockstream选择量子抗性签名技术用于比特币。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到量子抗性技术",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注量子技术对加密安全的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
+      "description": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-11-07T20:59:47",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "前FBI特工承认盗窃加密货币事件。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币盗窃事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密货币安全和监管动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Nigeria Sets New Stablecoin Licensing Rules and Capital Requirements - TradingView",
+      "description": "Nigeria Sets New Stablecoin Licensing Rules and Capital Requirements&nbsp;&nbsp;TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcThiLVA5MjFON2EzenZ2NXZ3RkZUSEVDNTQ5OHl5M2RPSzdKMWlsWmxjZ080UHFRWXZoR2ZZeHhpdXFLX2M3emFLeFBnZ25oaUZraEpDclotYnZtMWhnbEgydGRCN2l6dFF5VmlmSXdDY1Jhai1VR3JHX2tWWER4RHdyX0NkQjNIQ05BaVhNLW9JSUViVENTa2ROUUJ0VjFFd3pZRThlZm5qeHFfc3AwR3kzZlpOeDRwSEVqWkFRMzBvX2Yz?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-11-07T22:00:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "尼日利亚发布新的稳定币许可规则和资本要求。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币监管政策",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注尼日利亚的稳定币政策变化。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Wallet Evolution: Why Institutional Digital Assets Need More Than Secure Keys? - HackerNoon",
+      "description": "Wallet Evolution: Why Institutional Digital Assets Need More Than Secure Keys?&nbsp;&nbsp;HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRURzeXJsc2EzZjI2WnNpQ0Y1VTcwT2Z1Z0xUVk5Db0JmQm1GcnZnRHFIQ20yTTJMV3RJMkFXVzNzR0Vya1R2aU5mdXlqSTk3RFJUVDR3ay1aMUk2bkhFeFNlZnQwS2VaTTJnamM2LVNsZDJyMmZVZXdjVWhxRnhFaDJSZkcxbjNXSFFvUGFkRGd3M09jNnV3WG1xRDJQRWR2?oc=5",
+      "source": "Google News (crypto custody institution)",
+      "source_category": "google_news",
+      "published_at": "2026-11-07T12:18:31",
+      "data_type": "rss",
+      "search_keyword": "crypto custody institution",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "探讨机构数字资产的安全需求与发展趋势。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到数字资产安全",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "关注数字资产安全技术的进展。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    }
+  ]
+}
