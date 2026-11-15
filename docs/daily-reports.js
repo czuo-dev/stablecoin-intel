@@ -4,6 +4,738 @@
 
 const dailyReports = [
     {
+        "date": "2026-11-15",
+        "title": "稳定币行业日报",
+        "file": "reports/daily/daily_brief_2026-11-15.md",
+        "newsItems": [
+            {
+                "id": "2026-11-15-competitor-0",
+                "title": "Unocoin halts all services after hackers bypass BitGo freeze",
+                "source": "CryptoSlate",
+                "date": "2026-11-15",
+                "url": "https://cryptoslate.com/unocoin-halts-all-services-after-hackers-bypass-bitgo-freeze/",
+                "category": "competitor",
+                "summary": "Unocoin因黑客攻击暂停服务，涉及BitGo安全问题。",
+                "threatLevel": "high",
+                "impact": [
+                    "产品竞争",
+                    "技术差距"
+                ],
+                "action": "加强安全措施，提升技术防护能力。",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-11-15-competitor-1",
+                "title": "Unocoin Froze Its BitGo Wallet, but Its Own Two Keys Signed 98 Transactions Anyway",
+                "source": "Dcforecasts.com",
+                "date": "2026-11-15",
+                "url": "https://www.dcforecasts.com/bitcoin-news/unocoin-bitgo-multisig-backup-key-transfers/",
+                "category": "competitor",
+                "summary": "Unocoin的BitGo钱包被冻结，但仍完成交易。",
+                "threatLevel": "medium",
+                "impact": [
+                    "产品竞争",
+                    "市场定价"
+                ],
+                "action": "关注BitGo的安全和合规动态，优化自身产品。",
+                "tickers": [
+                    "BitGo"
+                ]
+            },
+            {
+                "id": "2026-11-15-competitor-2",
+                "title": "OpenAI expands into payments with ChatGPT Wallet, allowing AI agents to make purchases using users' ",
+                "source": "BusinessLine",
+                "date": "2026-11-15",
+                "url": "https://www.thehindubusinessline.com/info-tech/openai-expands-into-payments-with-chatgpt-wallet-allowing-ai-agents-to-make-purchases-using-users-cards/article71700851.ece",
+                "category": "competitor",
+                "summary": "OpenAI推出支付功能，可能影响市场竞争。",
+                "threatLevel": "medium",
+                "impact": [
+                    "产品竞争",
+                    "市场定价"
+                ],
+                "action": "关注OpenAI支付功能的市场反应，评估竞争策略。",
+                "tickers": [
+                    "OpenAI"
+                ]
+            },
+            {
+                "id": "2026-11-15-competitor-3",
+                "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
+                "source": "Decrypt",
+                "date": "2026-11-15",
+                "url": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
+                "category": "competitor",
+                "summary": "OpenAI推出的ChatGPT钱包挑战了加密支付工具市场。",
+                "threatLevel": "medium",
+                "impact": [
+                    "产品竞争",
+                    "市场定价"
+                ],
+                "action": "关注OpenAI钱包的市场反应，调整产品策略。",
+                "tickers": [
+                    "OpenAI",
+                    "Coinbase",
+                    "Circle"
+                ]
+            },
+            {
+                "id": "2026-11-15-industry-0",
+                "title": "Stablecoins Jumped 131% in Western Europe’s $2.08 Trillion Crypto Economy While the UK Shrank",
+                "source": "Dcforecasts.com",
+                "date": "2026-11-15",
+                "url": "https://www.dcforecasts.com/bitcoin-news/western-europe-crypto-economy-mica-crypto-stablecoins-131/",
+                "category": "industry",
+                "summary": "西欧稳定币市场增长显著，反映行业趋势。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注西欧市场动态，调整策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-11-15-industry-1",
+                "title": "Stablecoins Now Equal 21% of Bitcoin’s Market Value, Up From 12% at the 2025 Peak",
+                "source": "Dcforecasts.com",
+                "date": "2026-11-15",
+                "url": "https://www.dcforecasts.com/analysis/stablecoin-market-cap-bitcoin-market-value-ratio-21-percent/",
+                "category": "industry",
+                "summary": "稳定币市场价值占比上升，影响行业趋势。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币市场动态，调整策略。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-11-15-industry-2",
+                "title": "Elizabeth Warren could reopen crypto’s banking fight without changing a single law",
+                "source": "CryptoSlate",
+                "date": "2026-11-15",
+                "url": "https://cryptoslate.com/warren-could-reopen-crypto-banking-fight-without-changing-a-single-law/",
+                "category": "industry",
+                "summary": "伊丽莎白·沃伦可能重新引发加密银行争论。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注监管动态，调整合规策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-11-15-industry-3",
+                "title": "walletbrake added to PyPI",
+                "source": "Pypi.org",
+                "date": "2026-11-15",
+                "url": "https://pypi.org/project/walletbrake/",
+                "category": "industry",
+                "summary": "walletbrake 被添加到 PyPI，涉及区块链基础设施的动态。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展"
+                ],
+                "action": "",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险"
+            },
+            {
+                "id": "2026-11-15-industry-4",
+                "title": "Nakamoto Gets Extra Year on 60 Million USDT Kraken Loan; Derivatives Count Toward Collateral",
+                "source": "Biztoc.com",
+                "date": "2026-11-15",
+                "url": "https://biztoc.com/x/ececde4328278028",
+                "category": "industry",
+                "summary": "Nakamoto获得Kraken的USDT贷款延长一年。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注稳定币市场动态。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付",
+                "tickers": [
+                    "Kraken"
+                ]
+            },
+            {
+                "id": "2026-11-15-industry-5",
+                "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+                "source": "Cointelegraph",
+                "date": "2026-11-15",
+                "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push",
+                "category": "industry",
+                "summary": "MegaETH母公司裁员20%并重组以推动AI发展。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注行业动态，评估市场变化影响。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-11-15-industry-6",
+                "title": "Israel Police Arrest Five Over a NIS 16 Million WhatsApp Crypto Desk That Allegedly Disguised Procee",
+                "source": "Dcforecasts.com",
+                "date": "2026-11-15",
+                "url": "https://www.dcforecasts.com/bitcoin-news/crypto-money-laundering-israel-whatsapp-16-million-shekels/",
+                "category": "industry",
+                "summary": "以色列警方逮捕五人，涉及加密货币欺诈案。",
+                "threatLevel": "high",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注加密货币监管动态，评估潜在影响。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-11-15-industry-7",
+                "title": "US spot Bitcoin ETFs bleed $185 million as outflow streak hits seven days",
+                "source": "Crypto Briefing",
+                "date": "2026-11-15",
+                "url": "https://cryptobriefing.com/bitcoin-etfs-185m-outflows-november-13/",
+                "category": "industry",
+                "summary": "比特币ETF持续流出，反映市场趋势。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场动态，调整策略。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-11-15-industry-8",
+                "title": "Operation TorNado Seized $234 Million From Dark Web Drug Sellers, 33 Times JCODE’s 2019 Haul",
+                "source": "Dcforecasts.com",
+                "date": "2026-11-15",
+                "url": "https://www.dcforecasts.com/bitcoin-news/dark-web-markets-operation-tornado-234-million-seized/",
+                "category": "industry",
+                "summary": "暗网药品交易被查获，影响加密行业",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注暗网交易对行业监管的影响",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-11-15-industry-9",
+                "title": "Arca’s Jeff Dorman Calls Vitalik Buterin’s ETH Store-of-Value Pitch ‘Really Misguided’",
+                "source": "Biztoc.com",
+                "date": "2026-11-15",
+                "url": "https://biztoc.com/x/41a2f6563e26c54a",
+                "category": "industry",
+                "summary": "Jeff Dorman 对以太坊价值主张的看法引发讨论。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注以太坊在市场中的定位变化",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-11-15-industry-10",
+                "title": "Hyperliquid surpassed Bybit, Kraken and OKX in open interest in Q3",
+                "source": "Crypto Briefing",
+                "date": "2026-11-15",
+                "url": "https://cryptobriefing.com/hyperliquid-surpassed-bybit-kraken-and-okx-in-open-interest-in-q3/",
+                "category": "industry",
+                "summary": "Hyperliquid在第三季度超越多家交易所的开放兴趣。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场竞争动态，调整策略。",
+                "subcategory": "other",
+                "subcategoryName": "其他",
+                "tickers": [
+                    "Hyperliquid",
+                    "Bybit",
+                    "Kraken",
+                    "OKX"
+                ]
+            },
+            {
+                "id": "2026-11-15-industry-11",
+                "title": "Stock Reasonable After Mixed Contract News?",
+                "source": "Biztoc.com",
+                "date": "2026-11-15",
+                "url": "https://biztoc.com/x/a18f72703d65cdc4",
+                "category": "industry",
+                "summary": "新闻讨论了加密市场的合约动态。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注市场合约动态对稳定币的影响",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-11-15-industry-12",
+                "title": "Unit Economics for Founders: CAC, LTV, Contribution Margin and Payback in One Framework",
+                "source": "Addicted2success.com",
+                "date": "2026-11-15",
+                "url": "https://addicted2success.com/startups/unit-economics/",
+                "category": "industry",
+                "summary": "讨论了创始人的经济模型框架",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注经济模型对行业的影响",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-11-15-industry-13",
+                "title": "The DC Studios To-Do List: Here’s What Incoming Boss Jeremy Latcham Will Sort Through From The Gunn-",
+                "source": "Deadline",
+                "date": "2026-11-15",
+                "url": "http://deadline.com/2026/11/dc-studios-movie-tv-list-jeremy-latcham-1237217689/",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-11-15-industry-14",
+                "title": "Fender Player II Jazzmaster Limited Edition Rosewood Fingerboard Electric Guitar for $616 + free shi",
+                "source": "Dealnews.com",
+                "date": "2026-11-15",
+                "url": "https://www.dealnews.com/Fender-Player-II-Jazzmaster-Limited-Edition-Rosewood-Fingerboard-Electric-Guitar-for-616-free-shipping/22390538.html",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-11-15-industry-15",
+                "title": "South Africa vs. Bangladesh 1st Test prediction, lineups and Johannesburg pitch report — who will wi",
+                "source": "Cricketnews.com",
+                "date": "2026-11-15",
+                "url": "https://www.cricketnews.com/en/cricket/play/south-africa-vs-bangladesh-1st-test-prediction-pitch-report/a28be6345606dd0e19c76baf",
+                "category": "industry",
+                "summary": "",
+                "threatLevel": "neutral",
+                "impact": [],
+                "action": "",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-11-15-industry-16",
+                "title": "China’s Economics of Denial",
+                "source": "Foreign Affairs",
+                "date": "2026-11-15",
+                "url": "https://www.foreignaffairs.com/china/chinas-economics-denial",
+                "category": "industry",
+                "summary": "文章讨论了中国的经济政策与加密货币监管的关系。",
+                "threatLevel": "medium",
+                "impact": [
+                    "监管影响",
+                    "市场趋势"
+                ],
+                "action": "关注中国加密监管政策的变化",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-11-15-industry-17",
+                "title": "Mars bets on India as a top-five growth market, targets $1.2 billion-plus revenue by 2030",
+                "source": "Livemint",
+                "date": "2026-11-15",
+                "url": "https://www.livemint.com/companies/news/mars-bets-on-india-as-top-five-growth-market-targets-1-2-billion-plus-revenue-dog-cat-food-vet-services-snacks-11794548363309.html",
+                "category": "industry",
+                "summary": "Mars看好印度市场增长潜力。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "关注印度市场动态，评估潜在机会。",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-11-15-industry-18",
+                "title": "DTCC Tokenization Service to Connect With Solana in 2027, Extending Wall Street’s Post-Trade Plumbin",
+                "source": "Techreport.com",
+                "date": "2026-11-15",
+                "url": "https://techreport.com/news/business/dtcc-tokenization-service-solana/",
+                "category": "industry",
+                "summary": "DTCC计划在2027年与Solana连接，扩展区块链基础设施。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展",
+                    "市场趋势"
+                ],
+                "action": "关注区块链技术发展动态",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-11-15-industry-19",
+                "title": "Nobody Builds For Eternity",
+                "source": "Americanthinker.com",
+                "date": "2026-11-15",
+                "url": "https://www.americanthinker.com/articles/2026/11/nobody-builds-for-eternity/",
+                "category": "industry",
+                "summary": "讨论了加密行业的建设与未来",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注行业动态，调整策略",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-11-15-industry-20",
+                "title": "ChatGPT Wallet lets OpenAI's agents buy things for you",
+                "source": "GSMArena.com",
+                "date": "2026-11-15",
+                "url": "https://www.gsmarena.com/chatgpt_wallet_lets_openais_agents_buy_things_for_you-news-75481.php",
+                "category": "industry",
+                "summary": "ChatGPT Wallet 提供支付功能，影响行业动态。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注支付技术的发展动态",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险"
+            },
+            {
+                "id": "2026-11-15-industry-21",
+                "title": "Gemini can now dig into your Google Wallet spending to help you budget",
+                "source": "GSMArena.com",
+                "date": "2026-11-15",
+                "url": "https://www.gsmarena.com/gemini_can_now_dig_into_your_google_wallet_spending_to_help_you_budget-news-75482.php",
+                "category": "industry",
+                "summary": "Gemini利用Google Wallet帮助用户预算支出。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注支付技术的发展动态。",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险",
+                "tickers": [
+                    "Gemini"
+                ]
+            },
+            {
+                "id": "2026-11-15-industry-22",
+                "title": "ChatGPT Wallet",
+                "source": "Nextbigwhat.com",
+                "date": "2026-11-15",
+                "url": "https://nextbigwhat.com/building-trusted-agentic-payments-with-networks-banks-and-businesses/",
+                "category": "industry",
+                "summary": "ChatGPT推出加密钱包服务，影响行业动态。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注加密钱包市场变化",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险"
+            },
+            {
+                "id": "2026-11-15-industry-23",
+                "title": "OpenAI Gives AI Agents a Wallet While Blocking Them From Seeing the Card",
+                "source": "pymnts.com",
+                "date": "2026-11-15",
+                "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-ai-agents-a-wallet-while-blocking-them-from-seeing-the-card/",
+                "category": "industry",
+                "summary": "OpenAI为AI代理提供钱包功能。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展"
+                ],
+                "action": "关注AI与加密支付的结合趋势。",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险"
+            },
+            {
+                "id": "2026-11-15-industry-24",
+                "title": "ChatGPT Wallet Lets OpenAI's Dots AI Agents Shop On Your Behalf Without Accessing Actual Card Detail",
+                "source": "Biztoc.com",
+                "date": "2026-11-15",
+                "url": "https://biztoc.com/x/8e5c430a334cf89e",
+                "category": "industry",
+                "summary": "ChatGPT Wallet 提供新的支付方式。",
+                "threatLevel": "medium",
+                "impact": [
+                    "技术发展",
+                    "市场趋势"
+                ],
+                "action": "关注支付技术的进展。",
+                "subcategory": "custody_mpc_risk",
+                "subcategoryName": "托管与风险"
+            },
+            {
+                "id": "2026-11-15-industry-25",
+                "title": "xStocks Broadens Suite of Tokenized Assets, Bringing Hundreds of UK and EU-Listed Equities Onchain",
+                "source": "Antaranews.com",
+                "date": "2026-11-15",
+                "url": "https://en.antaranews.com/news/442531/xstocks-broadens-suite-of-tokenized-assets-bringing-hundreds-of-uk-and-eu-listed-equities-onchain",
+                "category": "industry",
+                "summary": "xStocks扩展代币化资产，影响市场趋势。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注代币化资产对市场的影响",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-11-15-industry-26",
+                "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+                "source": "The Block",
+                "date": "2026-11-15",
+                "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+                "category": "industry",
+                "summary": "Kava Lend遭黑客攻击，损失约380万美元。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "竞争格局"
+                ],
+                "action": "关注黑客攻击对市场信心的影响。",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-11-15-industry-27",
+                "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue blee",
+                "source": "The Block",
+                "date": "2026-11-15",
+                "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
+                "category": "industry",
+                "summary": "比特币ETF连续两周损失超过十亿美元。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势"
+                ],
+                "action": "关注市场动态以调整策略。",
+                "subcategory": "regulation_licensing",
+                "subcategoryName": "监管牌照"
+            },
+            {
+                "id": "2026-11-15-industry-28",
+                "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
+                "source": "Decrypt",
+                "date": "2026-11-15",
+                "url": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
+                "category": "industry",
+                "summary": "Canton Network 是为金融行业构建的隐私区块链。",
+                "threatLevel": "medium",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注隐私区块链技术的发展动态",
+                "subcategory": "other",
+                "subcategoryName": "其他"
+            },
+            {
+                "id": "2026-11-15-industry-29",
+                "title": "Stablecoins, Swift Blockchain & Wero: B2B Payments 2026 - FinanceX Magazine",
+                "source": "Google News (stablecoin B2B)",
+                "date": "2026-11-15",
+                "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWWdmRkdPcEx5NktlT09SZGlaSFRPWUxxdURUWkUyOXVNYXVLLTVJeG9lWnJCV2pkSDBOSWtkTEZJYUlZX1lKa3M0Q2FuaTlscmVPLVd1a1lpdlFlSTNwMFdvUDlWbE13REpueEU4SXBFRmI3dFo1WG4wdWdqb0JOVVU5bnRSMTZVTlZ4T21tUzlOSFM0MFd5eGVZR1hKSzN4SVJsNV9QbTFxdThMQ3pIUDdiLTRoOTl1RlhtUnZhYmNpQVA5Q2UzTHlra2JTNjZxMlE?oc=5",
+                "category": "industry",
+                "summary": "文章讨论了稳定币在B2B支付中的应用趋势。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币在支付领域的最新动态",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            },
+            {
+                "id": "2026-11-15-industry-30",
+                "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+                "source": "Google News (cross-border stablecoin)",
+                "date": "2026-11-15",
+                "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUnFqOTR2OXl6M2dvS2I3NlU5Mng1WWhIQ0x1TThNTkY2LUVmWENkRTVweTBqbGRQQTlhQlp1OW1RN0Z6MzdPaV9rbFg2YVBIU2w5Q3Z3UVpKSXpUWTdMcFhNTEd6Ymw4V1FIU19IWmVvelB6aG94NUg2V0k5VTBqOWwzdGNUa29jblZCbklYd2I5dW45UTVnZ2NjNWhDZ1o4Q2VYMmIxV0NjX25QbW1Ldm9LQXNxcHJkQUZoSmxGM1ZnTDJPdVhNMlZrOEMxR3JpYk1rS1cxb1E?oc=5",
+                "category": "industry",
+                "summary": "英国、新加坡和泰国央行测试跨境外汇结算，稳定币逐渐获得关注。",
+                "threatLevel": "high",
+                "impact": [
+                    "市场趋势",
+                    "技术发展"
+                ],
+                "action": "关注稳定币在跨境支付中的应用",
+                "subcategory": "stablecoin_payments",
+                "subcategoryName": "稳定币支付"
+            }
+        ],
+        "stats": {
+            "totalThreats": 4,
+            "highThreats": 1,
+            "mediumThreats": 3,
+            "lowThreats": 0,
+            "competitorUpdates": 4,
+            "customerUpdates": 0,
+            "industryUpdates": 31
+        },
+        "dailySummary": {
+            "competitorThreat": "今日最大的竞争威胁来自OpenAI推出的ChatGPT钱包，该钱包使AI代理能够进行购物，可能对传统加密支付工具造成冲击。与此同时，Unocoin因黑客攻击暂停服务，涉及BitGo的安全问题，这显示出在安全性方面的重大隐患。重要动态包括Unocoin与BitGo的安全事件，以及OpenAI在支付领域的扩展。建议稳定币公司加强安全防护措施，提升用户信任，同时关注AI技术的发展，以适应市场竞争的变化。",
+            "industryTrend": "今日稳定币行业的主要热点包括西欧市场稳定币增长131%，以及稳定币市场价值占比上升至比特币的21%。这一趋势反映出稳定币在加密经济中的重要性日益增强，尤其是在市场波动加剧的背景下。此外，伊丽莎白·沃伦可能重新引发的加密银行争论，可能影响监管政策，进一步推动稳定币的合规化发展。稳定币托管和支付基础设施行业需关注这些变化，优化合规措施，以适应市场需求和政策环境的变化。"
+        },
+        "highlights": {
+            "competitors": [
+                {
+                    "id": "2026-11-15-competitor-0",
+                    "title": "Unocoin halts all services after hackers bypass BitGo freeze",
+                    "source": "CryptoSlate",
+                    "date": "2026-11-15",
+                    "url": "https://cryptoslate.com/unocoin-halts-all-services-after-hackers-bypass-bitgo-freeze/",
+                    "category": "competitor",
+                    "summary": "Unocoin因黑客攻击暂停服务，涉及BitGo安全问题。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "产品竞争",
+                        "技术差距"
+                    ],
+                    "action": "加强安全措施，提升技术防护能力。",
+                    "tickers": [
+                        "BitGo"
+                    ]
+                },
+                {
+                    "id": "2026-11-15-competitor-1",
+                    "title": "Unocoin Froze Its BitGo Wallet, but Its Own Two Keys Signed 98 Transactions Anyway",
+                    "source": "Dcforecasts.com",
+                    "date": "2026-11-15",
+                    "url": "https://www.dcforecasts.com/bitcoin-news/unocoin-bitgo-multisig-backup-key-transfers/",
+                    "category": "competitor",
+                    "summary": "Unocoin的BitGo钱包被冻结，但仍完成交易。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "产品竞争",
+                        "市场定价"
+                    ],
+                    "action": "关注BitGo的安全和合规动态，优化自身产品。",
+                    "tickers": [
+                        "BitGo"
+                    ]
+                },
+                {
+                    "id": "2026-11-15-competitor-2",
+                    "title": "OpenAI expands into payments with ChatGPT Wallet, allowing AI agents to make purchases using users' ",
+                    "source": "BusinessLine",
+                    "date": "2026-11-15",
+                    "url": "https://www.thehindubusinessline.com/info-tech/openai-expands-into-payments-with-chatgpt-wallet-allowing-ai-agents-to-make-purchases-using-users-cards/article71700851.ece",
+                    "category": "competitor",
+                    "summary": "OpenAI推出支付功能，可能影响市场竞争。",
+                    "threatLevel": "medium",
+                    "impact": [
+                        "产品竞争",
+                        "市场定价"
+                    ],
+                    "action": "关注OpenAI支付功能的市场反应，评估竞争策略。",
+                    "tickers": [
+                        "OpenAI"
+                    ]
+                }
+            ],
+            "clients": [],
+            "industry": [
+                {
+                    "id": "2026-11-15-industry-0",
+                    "title": "Stablecoins Jumped 131% in Western Europe’s $2.08 Trillion Crypto Economy While the UK Shrank",
+                    "source": "Dcforecasts.com",
+                    "date": "2026-11-15",
+                    "url": "https://www.dcforecasts.com/bitcoin-news/western-europe-crypto-economy-mica-crypto-stablecoins-131/",
+                    "category": "industry",
+                    "summary": "西欧稳定币市场增长显著，反映行业趋势。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "关注西欧市场动态，调整策略。",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照"
+                },
+                {
+                    "id": "2026-11-15-industry-1",
+                    "title": "Stablecoins Now Equal 21% of Bitcoin’s Market Value, Up From 12% at the 2025 Peak",
+                    "source": "Dcforecasts.com",
+                    "date": "2026-11-15",
+                    "url": "https://www.dcforecasts.com/analysis/stablecoin-market-cap-bitcoin-market-value-ratio-21-percent/",
+                    "category": "industry",
+                    "summary": "稳定币市场价值占比上升，影响行业趋势。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "市场趋势",
+                        "竞争格局"
+                    ],
+                    "action": "关注稳定币市场动态，调整策略。",
+                    "subcategory": "stablecoin_payments",
+                    "subcategoryName": "稳定币支付"
+                },
+                {
+                    "id": "2026-11-15-industry-2",
+                    "title": "Elizabeth Warren could reopen crypto’s banking fight without changing a single law",
+                    "source": "CryptoSlate",
+                    "date": "2026-11-15",
+                    "url": "https://cryptoslate.com/warren-could-reopen-crypto-banking-fight-without-changing-a-single-law/",
+                    "category": "industry",
+                    "summary": "伊丽莎白·沃伦可能重新引发加密银行争论。",
+                    "threatLevel": "high",
+                    "impact": [
+                        "监管影响",
+                        "市场趋势"
+                    ],
+                    "action": "关注监管动态，调整合规策略。",
+                    "subcategory": "regulation_licensing",
+                    "subcategoryName": "监管牌照"
+                }
+            ]
+        }
+    },
+    {
         "date": "2026-11-14",
         "title": "稳定币行业日报",
         "file": "reports/daily/daily_brief_2026-11-14.md",
@@ -85768,357 +86500,6 @@ const dailyReports = [
                         "市场趋势"
                     ],
                     "action": "关注亚洲市场动态对稳定币的影响",
-                    "subcategory": "other",
-                    "subcategoryName": "其他"
-                }
-            ]
-        }
-    },
-    {
-        "date": "2026-08-17",
-        "title": "稳定币行业日报",
-        "file": "reports/daily/daily_brief_2026-08-17.md",
-        "newsItems": [
-            {
-                "id": "2026-08-17-competitor-0",
-                "title": "Apollo scores over Max with a strong revenue, margin outperformance in Q1",
-                "source": "Business Standard",
-                "date": "2026-08-17",
-                "url": "https://www.business-standard.com/companies/quarterly-results/apollo-hospitals-max-healthcare-q1-revenue-margin-outperformance-126081600047_1.html",
-                "category": "competitor",
-                "summary": "Apollo在Q1的收入和利润表现超越Max。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场定价",
-                    "品牌影响"
-                ],
-                "action": "关注竞争对手的财务动态，调整市场策略。",
-                "tickers": [
-                    "Apollo",
-                    "Max"
-                ]
-            },
-            {
-                "id": "2026-08-17-industry-0",
-                "title": "Tale of two crypto routs, and why no one saw them coming",
-                "source": "Livemint",
-                "date": "2026-08-17",
-                "url": "https://www.livemint.com/money/crypto-currency-crypto-platforms-virtual-digital-asset-bitcoin-11786700981148.html",
-                "category": "industry",
-                "summary": "分析了加密货币市场的两次下跌及其原因。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注市场动态以调整策略",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-08-17-industry-1",
-                "title": "Trump-linked crypto venture World Liberty Trust granted bank status in unprecedented move for presid",
-                "source": "Biztoc.com",
-                "date": "2026-08-17",
-                "url": "https://biztoc.com/x/ec69ab537cf36c75",
-                "category": "industry",
-                "summary": "特朗普相关的加密项目获得银行地位，影响监管环境。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注监管政策变化对市场的影响",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-08-17-industry-2",
-                "title": "Nomura’s McElligott highlights $300B market chaos potential from autocallable structures",
-                "source": "Crypto Briefing",
-                "date": "2026-08-17",
-                "url": "https://cryptobriefing.com/nomura-mcelligott-300b-autocallable-market-risk/",
-                "category": "industry",
-                "summary": "市场潜在混乱可能影响稳定币业务。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注市场动态，评估风险",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-08-17-industry-3",
-                "title": "Trump Family’s World Liberty Financial Gets Preliminary Approval to Launch a Bank - WSJ",
-                "source": "Slashdot.org",
-                "date": "2026-08-17",
-                "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184992472",
-                "category": "industry",
-                "summary": "特朗普家族的金融公司获得银行牌照初步批准。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注金融服务行业的监管动态",
-                "subcategory": "regulation_licensing",
-                "subcategoryName": "监管牌照"
-            },
-            {
-                "id": "2026-08-17-industry-4",
-                "title": "DR ELLIE: Why I fear thousands risk DYING after taking fat jabs: as 216 UK deaths are linked to the ",
-                "source": "Dailymail.com",
-                "date": "2026-08-17",
-                "url": "https://www.dailymail.com/health/article-16054717/weight-loss-patients-life-threatening-effects-DR-ELLIE.html",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "custody_mpc_risk",
-                "subcategoryName": "托管与风险"
-            },
-            {
-                "id": "2026-08-17-industry-5",
-                "title": "Prashant Kishor demands probe into Roshan Yadav's alleged custody death",
-                "source": "The Times of India",
-                "date": "2026-08-17",
-                "url": "https://economictimes.indiatimes.com/news/politics-and-nation/prashant-kishor-demands-probe-into-roshan-yadavs-alleged-custody-death/articleshow/133268945.cms",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "custody_mpc_risk",
-                "subcategoryName": "托管与风险"
-            },
-            {
-                "id": "2026-08-17-industry-6",
-                "title": "Data governance culture gives companies competitive edge — Taxtech boss",
-                "source": "The Punch",
-                "date": "2026-08-17",
-                "url": "https://punchng.com/data-governance-culture-gives-companies-competitive-edge-taxtech-boss/",
-                "category": "industry",
-                "summary": "数据治理文化为企业提供竞争优势。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注数据治理对行业的影响",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-08-17-industry-7",
-                "title": "Novig Promo Code TSNEWS: Get $25 UFC 330 Bonus for Makhachev vs. Machado Garry Predictions",
-                "source": "Sporting News",
-                "date": "2026-08-17",
-                "url": "https://www.sportingnews.com/us/predictions-markets/news/novig-promo-code-tsnews-get-25-ufc-330-bonus-makhachev-vs-machado-garry-predictions/22fb40e82637409d9551ab2d",
-                "category": "industry",
-                "summary": "",
-                "threatLevel": "neutral",
-                "impact": [],
-                "action": "",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-08-17-industry-8",
-                "title": "Digital payments at core — Here's what Gen Z's UPI payments for essentials, discretionary, travel an",
-                "source": "Livemint",
-                "date": "2026-08-17",
-                "url": "https://www.livemint.com/money/personal-finance/gen-z-upi-digital-payment-trend-show-daily-essential-bills-grocery-discretionary-spend-travel-entertainment-subscription-11786810591175.html",
-                "category": "industry",
-                "summary": "Z世代的数字支付趋势显示市场变化。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注Z世代支付习惯变化，调整市场策略。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-08-17-industry-9",
-                "title": "debank-scraper added to PyPI",
-                "source": "Pypi.org",
-                "date": "2026-08-17",
-                "url": "https://pypi.org/project/debank-scraper/",
-                "category": "industry",
-                "summary": "debank-scraper 被添加到 PyPI，涉及区块链工具。",
-                "threatLevel": "medium",
-                "impact": [
-                    "技术发展"
-                ],
-                "action": "关注区块链工具的技术进展",
-                "subcategory": "other",
-                "subcategoryName": "其他"
-            },
-            {
-                "id": "2026-08-17-industry-10",
-                "title": "Hong Kong cleared stablecoins for take-off. Getting them to work across Asia is the hard part - Asia",
-                "source": "Google News (stablecoin payment)",
-                "date": "2026-08-17",
-                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcTR4ekQxU1Q0VGNkTGxjakJjNXFJSUI2bU4tUTBUdEk2ZUdBVjBjUVFZTTRmLV9LNF9NM1BGWm1mMEJUMU5oTVgzRjgxZmYxQ0ZNZ2JDX085eTloY0JUajZKR2dna3l0bzJ1Q0k1aGxhdlJrNTBGVGtYMm1uZTFYdF9mWXgxU0kzZWs1Wjh6V2x5cG4ySG1XcVlmaE1fRlBzSkxqc3prV0owRHZwOFRXMThKSWhON2RZVHR5bTg0aDg1Zw?oc=5",
-                "category": "industry",
-                "summary": "香港为稳定币的发展铺平了道路。",
-                "threatLevel": "high",
-                "impact": [
-                    "监管影响",
-                    "市场趋势"
-                ],
-                "action": "关注稳定币在亚洲的应用和监管动态。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-08-17-industry-11",
-                "title": "RedotPay uses stablecoins to cut cross-border payment costs - Hong Kong Business",
-                "source": "Google News (cross-border stablecoin)",
-                "date": "2026-08-17",
-                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQjhtM19HektEMzdESDRzM0J3QVhnLUtNZk1zNE04bWJJMzdBZXJoY3NzbXRENFplcTlWWXktOHJxYTVSYzdJQndkeWJLaXN3TGR6enI4X05lbHhHMnA0R0tzeEhiM2F6RDBQZ2JMcTVXczBNME4tb2g4TUJfYlhBb3AwQVhKcE5kWXc1bW92cFFaZGdYbF9kTlFGaDN4b1FBMEpFb1hFc1h2TlQ5SHdzUjNEQQ?oc=5",
-                "category": "industry",
-                "summary": "RedotPay利用稳定币降低跨境支付成本。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "技术发展",
-                    "竞争格局"
-                ],
-                "action": "关注稳定币在支付领域的应用趋势。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付"
-            },
-            {
-                "id": "2026-08-17-industry-12",
-                "title": "Stablecoin payments see the highest volume in domestic transactions, not cross-border. - KuCoin",
-                "source": "Google News (cross-border stablecoin)",
-                "date": "2026-08-17",
-                "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONm5XdERVNE5PMGtJQmI2RG54SVAxMzRRWVREbzZpMzlraHh4S1M4T19TdTN3Y2d5VTRONC1Ja191Q0p1RmZKQXpVS2l2ZGtHNFJLWG5HSUhjTjdrRW9UNUFXa2xBanhNYnprSzQ3cXF3Y3NQbU1vU3h0cFFvN09MX0s3elk4ei1qQzNpV1VwTF9MVmFWUDMxZ0lKYVNoOFNJU3hCS3k0cEdkYXhIWFZNOE5mZ2s?oc=5",
-                "category": "industry",
-                "summary": "稳定币支付在国内交易中表现突出。",
-                "threatLevel": "high",
-                "impact": [
-                    "市场趋势",
-                    "竞争格局"
-                ],
-                "action": "关注国内稳定币支付市场动态。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付",
-                "tickers": [
-                    "KuCoin"
-                ]
-            },
-            {
-                "id": "2026-08-17-industry-13",
-                "title": "Polygon joins BofE's Digital Pound Lab to test cross-border settlement - Finextra Research",
-                "source": "Google News (stablecoin settlement)",
-                "date": "2026-08-17",
-                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0JNUEVTNE5IMlRzbGxRT1NaNmRtLVhBazZGMXZKOUFmM05LRFpYcVgwNllmSjhtRXVmd3FGSXltMC1lSm12WUJPYnUwS0VYNFlHakdpS0RWa3BkUERtNGpteFY5SDFTQVZFTkJvVWdLdFdOcDZzT1J0aWRWeXdwWXd5eE85SWRLS3lEVkM1ZmY3S1NVbDdhdVBBdEg0MVZiMUhZRk5IUllqNy1xZWxFY3RR?oc=5",
-                "category": "industry",
-                "summary": "Polygon 加入英央行数字英镑实验室测试跨境结算。",
-                "threatLevel": "medium",
-                "impact": [
-                    "市场趋势",
-                    "技术发展"
-                ],
-                "action": "关注跨境支付技术的发展动态。",
-                "subcategory": "stablecoin_payments",
-                "subcategoryName": "稳定币支付",
-                "tickers": [
-                    "Polygon"
-                ]
-            }
-        ],
-        "stats": {
-            "totalThreats": 1,
-            "highThreats": 0,
-            "mediumThreats": 1,
-            "lowThreats": 0,
-            "competitorUpdates": 1,
-            "customerUpdates": 0,
-            "industryUpdates": 14
-        },
-        "dailySummary": {
-            "competitorThreat": "今日最大的竞争威胁来自Apollo，其在Q1的收入和利润表现显著超越Max。这一动态表明Apollo在市场上的竞争力增强，可能会对其他稳定币项目造成压力。建议相关公司关注Apollo的市场策略和财务表现，分析其成功因素，以便在产品定位、用户获取和盈利模式上进行调整。此外，加强自身的市场推广和用户体验优化，提升竞争力也是应对这一威胁的重要方向。",
-            "industryTrend": "今日行业热点集中在特朗普相关的加密项目获得银行地位，以及市场潜在的混乱风险。特朗普家族的World Liberty Trust和World Liberty Financial的初步银行牌照批准，可能会影响监管环境，提升市场对加密资产的合法性认知。同时，Nomura分析师指出，市场中的自动可赎回结构可能引发高达3000亿美元的混乱，这对稳定币业务构成潜在威胁。随着Z世代对数字支付的需求增加，稳定币在支付基础设施中的应用前景值得关注，尤其是在合规性和安全性方面的提升将成为市场竞争的关键。"
-        },
-        "highlights": {
-            "competitors": [
-                {
-                    "id": "2026-08-17-competitor-0",
-                    "title": "Apollo scores over Max with a strong revenue, margin outperformance in Q1",
-                    "source": "Business Standard",
-                    "date": "2026-08-17",
-                    "url": "https://www.business-standard.com/companies/quarterly-results/apollo-hospitals-max-healthcare-q1-revenue-margin-outperformance-126081600047_1.html",
-                    "category": "competitor",
-                    "summary": "Apollo在Q1的收入和利润表现超越Max。",
-                    "threatLevel": "medium",
-                    "impact": [
-                        "市场定价",
-                        "品牌影响"
-                    ],
-                    "action": "关注竞争对手的财务动态，调整市场策略。",
-                    "tickers": [
-                        "Apollo",
-                        "Max"
-                    ]
-                }
-            ],
-            "clients": [],
-            "industry": [
-                {
-                    "id": "2026-08-17-industry-0",
-                    "title": "Tale of two crypto routs, and why no one saw them coming",
-                    "source": "Livemint",
-                    "date": "2026-08-17",
-                    "url": "https://www.livemint.com/money/crypto-currency-crypto-platforms-virtual-digital-asset-bitcoin-11786700981148.html",
-                    "category": "industry",
-                    "summary": "分析了加密货币市场的两次下跌及其原因。",
-                    "threatLevel": "medium",
-                    "impact": [
-                        "市场趋势",
-                        "竞争格局"
-                    ],
-                    "action": "关注市场动态以调整策略",
-                    "subcategory": "regulation_licensing",
-                    "subcategoryName": "监管牌照"
-                },
-                {
-                    "id": "2026-08-17-industry-1",
-                    "title": "Trump-linked crypto venture World Liberty Trust granted bank status in unprecedented move for presid",
-                    "source": "Biztoc.com",
-                    "date": "2026-08-17",
-                    "url": "https://biztoc.com/x/ec69ab537cf36c75",
-                    "category": "industry",
-                    "summary": "特朗普相关的加密项目获得银行地位，影响监管环境。",
-                    "threatLevel": "high",
-                    "impact": [
-                        "监管影响",
-                        "市场趋势"
-                    ],
-                    "action": "关注监管政策变化对市场的影响",
-                    "subcategory": "regulation_licensing",
-                    "subcategoryName": "监管牌照"
-                },
-                {
-                    "id": "2026-08-17-industry-2",
-                    "title": "Nomura’s McElligott highlights $300B market chaos potential from autocallable structures",
-                    "source": "Crypto Briefing",
-                    "date": "2026-08-17",
-                    "url": "https://cryptobriefing.com/nomura-mcelligott-300b-autocallable-market-risk/",
-                    "category": "industry",
-                    "summary": "市场潜在混乱可能影响稳定币业务。",
-                    "threatLevel": "medium",
-                    "impact": [
-                        "市场趋势",
-                        "竞争格局"
-                    ],
-                    "action": "关注市场动态，评估风险",
                     "subcategory": "other",
                     "subcategoryName": "其他"
                 }

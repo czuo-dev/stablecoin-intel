@@ -1,0 +1,1846 @@
+{
+  "competitors": [
+    {
+      "id": "news_3511f961144d",
+      "title": "Unocoin halts all services after hackers bypass BitGo freeze",
+      "content": "Unocoin says disputed transfers were signed outside BitGo while it investigates suspected misuse of a backup mechanism.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+      "url": "https://cryptoslate.com/unocoin-halts-all-services-after-hackers-bypass-bitgo-freeze/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam 'Akiba' Wright",
+      "published_at": "2026-11-14T02:10:17Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam 'Akiba' Wright",
+        "title": "Unocoin halts all services after hackers bypass BitGo freeze",
+        "description": "Unocoin says disputed transfers were signed outside BitGo while it investigates suspected misuse of a backup mechanism.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+        "url": "https://cryptoslate.com/unocoin-halts-all-services-after-hackers-bypass-bitgo-freeze/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/11/shutter-branded.jpg",
+        "publishedAt": "2026-11-14T02:10:17Z",
+        "content": "Crypto exchange Unocoin said on Nov. 13 that disputed wallet transfers were signed and broadcast outside BitGo, while the freeze on its BitGo enterprise account had worked so far.\r\nThe exchange suspe… [+3133 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "Fireblocks",
+        "source_quality": "medium"
+      },
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "BitGo"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Unocoin因黑客攻击暂停服务，涉及BitGo安全问题。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及BitGo安全事件",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "技术差距"
+      ],
+      "suggested_action": "加强安全措施，提升技术防护能力。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "id": "news_711c9edde1c0",
+      "title": "Unocoin Froze Its BitGo Wallet, but Its Own Two Keys Signed 98 Transactions Anyway",
+      "content": "BitGo says Unocoin's own user and backup keys signed the transfers that left a frozen wallet. Ethereum data shows 124 attempts in three days, 98 successful.",
+      "url": "https://www.dcforecasts.com/bitcoin-news/unocoin-bitgo-multisig-backup-key-transfers/",
+      "source": "Dcforecasts.com",
+      "source_type": "news",
+      "author": "Andrew",
+      "published_at": "2026-11-14T06:13:40Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dcforecasts.com"
+        },
+        "author": "Andrew",
+        "title": "Unocoin Froze Its BitGo Wallet, but Its Own Two Keys Signed 98 Transactions Anyway",
+        "description": "BitGo says Unocoin's own user and backup keys signed the transfers that left a frozen wallet. Ethereum data shows 124 attempts in three days, 98 successful.",
+        "url": "https://www.dcforecasts.com/bitcoin-news/unocoin-bitgo-multisig-backup-key-transfers/",
+        "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2026/11/unocoin-bitgo-multisig-backup-key-transfers.webp",
+        "publishedAt": "2026-11-14T06:13:40Z",
+        "content": "Unocoin did the right thing on Nov. 6 when it froze its BitGo account, but the freeze could not stop someone holding two of its three wallet keys.\r\nThat is the core finding of a technical review BitG… [+5837 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "Fireblocks",
+        "source_quality": "medium"
+      },
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "BitGo"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Unocoin的BitGo钱包被冻结，但仍完成交易。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及BitGo的动态",
+      "threat_level": "medium",
+      "impact_areas": [
+        "产品竞争",
+        "市场定价"
+      ],
+      "suggested_action": "关注BitGo的安全和合规动态，优化自身产品。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "id": "news_a88d8674200d",
+      "title": "OpenAI expands into payments with ChatGPT Wallet, allowing AI agents to make purchases using users' cards",
+      "content": "OpenAI launches ChatGPT Wallet for agent-led purchases, secure with card tokens, biometric checks, and major partners like Amex, Mastercard, and Visa.",
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-expands-into-payments-with-chatgpt-wallet-allowing-ai-agents-to-make-purchases-using-users-cards/article71700851.ece",
+      "source": "BusinessLine",
+      "source_type": "news",
+      "author": "ANI",
+      "published_at": "2026-11-14T07:37:31Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": "ANI",
+        "title": "OpenAI expands into payments with ChatGPT Wallet, allowing AI agents to make purchases using users' cards",
+        "description": "OpenAI launches ChatGPT Wallet for agent-led purchases, secure with card tokens, biometric checks, and major partners like Amex, Mastercard, and Visa.",
+        "url": "https://www.thehindubusinessline.com/info-tech/openai-expands-into-payments-with-chatgpt-wallet-allowing-ai-agents-to-make-purchases-using-users-cards/article71700851.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/t10pdn/article71701152.ece/alternates/LANDSCAPE_1200/2026-10-19T114837Z_801299272_RC2B6OATH0RC_RTRMADP_3_TECH-AI.JPG",
+        "publishedAt": "2026-11-14T07:37:31Z",
+        "content": "OpenAI has expanded ChatGPT into digital payments with the launch of ChatGPT Wallet, a feature that allows its artificial intelligence agents to make purchases on behalf of users without accessing th… [+2831 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "OpenAI"
+      ],
+      "importance_score": 7,
+      "ai_summary": "OpenAI推出支付功能，可能影响市场竞争。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及支付业务",
+      "threat_level": "medium",
+      "impact_areas": [
+        "产品竞争",
+        "市场定价"
+      ],
+      "suggested_action": "关注OpenAI支付功能的市场反应，评估竞争策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
+      "description": "OpenAI’s new wallet lets AI agents buy products using ordinary cards, challenging crypto payment tools from Coinbase and Circle as companies compete to control everyday online shopping by autonomous software.",
+      "url": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-11-14T14:01:02",
+      "data_type": "rss",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "OpenAI",
+        "Coinbase",
+        "Circle"
+      ],
+      "importance_score": 7,
+      "ai_summary": "OpenAI推出的ChatGPT钱包挑战了加密支付工具市场。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及支付工具竞争",
+      "threat_level": "medium",
+      "impact_areas": [
+        "产品竞争",
+        "市场定价"
+      ],
+      "suggested_action": "关注OpenAI钱包的市场反应，调整产品策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    }
+  ],
+  "clients": [],
+  "industry": [
+    {
+      "id": "news_e6ee48ff2a59",
+      "title": "Stablecoins Jumped 131% in Western Europe’s $2.08 Trillion Crypto Economy While the UK Shrank",
+      "content": "Western Europe's crypto economy hit $2.08T in a bear market as MiCA crypto rules took hold, stablecoin holdings rose 131% and euro Bitcoin trading grew.",
+      "url": "https://www.dcforecasts.com/bitcoin-news/western-europe-crypto-economy-mica-crypto-stablecoins-131/",
+      "source": "Dcforecasts.com",
+      "source_type": "news",
+      "author": "Andrew",
+      "published_at": "2026-11-14T02:05:40Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dcforecasts.com"
+        },
+        "author": "Andrew",
+        "title": "Stablecoins Jumped 131% in Western Europe’s $2.08 Trillion Crypto Economy While the UK Shrank",
+        "description": "Western Europe's crypto economy hit $2.08T in a bear market as MiCA crypto rules took hold, stablecoin holdings rose 131% and euro Bitcoin trading grew.",
+        "url": "https://www.dcforecasts.com/bitcoin-news/western-europe-crypto-economy-mica-crypto-stablecoins-131/",
+        "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2026/11/western-europe-crypto-economy-mica-crypto-stablecoins-131.webp",
+        "publishedAt": "2026-11-14T02:05:40Z",
+        "content": "Western Europe’s crypto economy did something most of the world did not manage during the 2025-26 downturn: it grew, and a new report suggests the MiCA crypto rulebook may be part of the reason.\r\nBlo… [+6139 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "西欧稳定币市场增长显著，反映行业趋势。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币市场趋势",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注西欧市场动态，调整策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_f0ba1789f67e",
+      "title": "Stablecoins Now Equal 21% of Bitcoin’s Market Value, Up From 12% at the 2025 Peak",
+      "content": "The $289.5B stablecoin market cap now equals 21.1% of Bitcoin's market value, up from 12% at the 2025 peak. Here's what that buying power could mean.",
+      "url": "https://www.dcforecasts.com/analysis/stablecoin-market-cap-bitcoin-market-value-ratio-21-percent/",
+      "source": "Dcforecasts.com",
+      "source_type": "news",
+      "author": "Andrew",
+      "published_at": "2026-11-14T04:11:12Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dcforecasts.com"
+        },
+        "author": "Andrew",
+        "title": "Stablecoins Now Equal 21% of Bitcoin’s Market Value, Up From 12% at the 2025 Peak",
+        "description": "The $289.5B stablecoin market cap now equals 21.1% of Bitcoin's market value, up from 12% at the 2025 peak. Here's what that buying power could mean.",
+        "url": "https://www.dcforecasts.com/analysis/stablecoin-market-cap-bitcoin-market-value-ratio-21-percent/",
+        "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2026/11/stablecoin-market-cap-bitcoin-market-value-ratio-21-percent.webp",
+        "publishedAt": "2026-11-14T04:11:12Z",
+        "content": "Stablecoins in circulation were worth 21.1% of Bitcoin’s entire market value on Nov. 13, up from 12.0% when Bitcoin set its record close in October 2025.\r\nThe dollar-pegged token supply stood at $289… [+5504 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "稳定币市场价值占比上升，影响行业趋势。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态，调整策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_6eb60decf32e",
+      "title": "Elizabeth Warren could reopen crypto’s banking fight without changing a single law",
+      "content": "Elizabeth Warren's next confrontation with crypto could put companies and regulators under serious pressure without changing a single law. With Democrats taking control of the Senate, she's expected to chair the Senate Banking Committee in January, giving her…",
+      "url": "https://cryptoslate.com/warren-could-reopen-crypto-banking-fight-without-changing-a-single-law/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Andjela Radmilac",
+      "published_at": "2026-11-14T08:10:11Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Andjela Radmilac",
+        "title": "Elizabeth Warren could reopen crypto’s banking fight without changing a single law",
+        "description": "Elizabeth Warren's next confrontation with crypto could put companies and regulators under serious pressure without changing a single law. With Democrats taking control of the Senate, she's expected to chair the Senate Banking Committee in January, giving her…",
+        "url": "https://cryptoslate.com/warren-could-reopen-crypto-banking-fight-without-changing-a-single-law/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/11/crypto-custody-records-labyrinth.webp",
+        "publishedAt": "2026-11-14T08:10:11Z",
+        "content": "Elizabeth Warren's next confrontation with crypto could put companies and regulators under serious pressure without changing a single law.\r\nWith Democrats taking control of the Senate, she's expected… [+12746 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "伊丽莎白·沃伦可能重新引发加密银行争论。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_1766affa0c39",
+      "title": "walletbrake added to PyPI",
+      "content": "Pay from a WalletBrake vault from a bot or AI agent: spending limits, a trusted-address list and owner approval on Telegram, enforced on chain.",
+      "url": "https://pypi.org/project/walletbrake/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": "support@walletbrake.com",
+      "published_at": "2026-11-14T04:06:11Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": "support@walletbrake.com",
+        "title": "walletbrake added to PyPI",
+        "description": "Pay from a WalletBrake vault from a bot or AI agent: spending limits, a trusted-address list and owner approval on Telegram, enforced on chain.",
+        "url": "https://pypi.org/project/walletbrake/",
+        "urlToImage": null,
+        "publishedAt": "2026-11-14T04:06:11Z",
+        "content": "Pay from a WalletBrake vault from a bot or AI agent, in Python. It works with LangChain, CrewAI, or plain scripts.\r\nWalletBrake checks every payment against the vault's rules: limits, a trusted-addre… [+3634 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "walletbrake 被添加到 PyPI，涉及区块链基础设施的动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_8f8e671640e6",
+      "title": "Nakamoto Gets Extra Year on 60 Million USDT Kraken Loan; Derivatives Count Toward Collateral",
+      "content": "The bitcoin treasury company now has no principal due in 2026, and by Unchained's math the bitcoin it had pledged as of Sept. 30 covers the 165 million USDT loan down to about $54,455 per bitcoin.",
+      "url": "https://biztoc.com/x/ececde4328278028",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "finance.yahoo.com",
+      "published_at": "2026-11-14T02:56:39Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "Nakamoto Gets Extra Year on 60 Million USDT Kraken Loan; Derivatives Count Toward Collateral",
+        "description": "The bitcoin treasury company now has no principal due in 2026, and by Unchained's math the bitcoin it had pledged as of Sept. 30 covers the 165 million USDT loan down to about $54,455 per bitcoin.",
+        "url": "https://biztoc.com/x/ececde4328278028",
+        "urlToImage": "https://biztoc.com/cdn/ececde4328278028_s.webp",
+        "publishedAt": "2026-11-14T02:56:39Z",
+        "content": "The bitcoin treasury company now has no principal due in 2026, and by Unchained's math the bitcoin it had pledged as of Sept. 30 covers the 165 million USDT loan down to about $54,455 per bitcoin.\r\nT… [+60 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDT",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Kraken"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Nakamoto获得Kraken的USDT贷款延长一年。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币USDT",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_df485895ae4b",
+      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+      "content": "MegaETH parent MEGA reduced its workforce by 20% following months of restructuring as it prepares to launch a public AI inference market in December.",
+      "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Ezra Reguerra",
+      "published_at": "2026-11-14T08:12:30Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ezra Reguerra",
+        "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+        "description": "MegaETH parent MEGA reduced its workforce by 20% following months of restructuring as it prepares to launch a public AI inference market in December.",
+        "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7CHQ8H5VMWGN9MBP9CQVNVC/layoffs-fired-human-resource-hr-leaving-quit-people-ai-2.jpg",
+        "publishedAt": "2026-11-14T08:12:30Z",
+        "content": "MEGA, the organization behind Ethereum layer-2 network MegaETH, has reduced its workforce by 20% following months of restructuring as it expands into artificial intelligence products. \r\nOn Friday, Me… [+1299 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "MegaETH母公司裁员20%并重组以推动AI发展。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密行业动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注行业动态，评估市场变化影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_2257a207b43e",
+      "title": "Israel Police Arrest Five Over a NIS 16 Million WhatsApp Crypto Desk That Allegedly Disguised Proceeds as Loans",
+      "content": "Lahav 433 arrested five suspects over an alleged NIS 16 million WhatsApp crypto desk, while state audit data show how little crypto activity Israel's tax system captures.",
+      "url": "https://www.dcforecasts.com/bitcoin-news/crypto-money-laundering-israel-whatsapp-16-million-shekels/",
+      "source": "Dcforecasts.com",
+      "source_type": "news",
+      "author": "Andrew",
+      "published_at": "2026-11-14T03:28:53Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dcforecasts.com"
+        },
+        "author": "Andrew",
+        "title": "Israel Police Arrest Five Over a NIS 16 Million WhatsApp Crypto Desk That Allegedly Disguised Proceeds as Loans",
+        "description": "Lahav 433 arrested five suspects over an alleged NIS 16 million WhatsApp crypto desk, while state audit data show how little crypto activity Israel's tax system captures.",
+        "url": "https://www.dcforecasts.com/bitcoin-news/crypto-money-laundering-israel-whatsapp-16-million-shekels/",
+        "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2026/11/crypto-money-laundering-israel-whatsapp-16-million-shekels.webp",
+        "publishedAt": "2026-11-14T03:28:53Z",
+        "content": "Israel Police have arrested five people in a crypto money laundering investigation centered on a WhatsApp group that allegedly arranged about NIS 16 million in cryptocurrency trades without a license… [+5276 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "以色列警方逮捕五人，涉及加密货币欺诈案。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密货币监管动态，评估潜在影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_ffa6ac1c95ec",
+      "title": "US spot Bitcoin ETFs bleed $185 million as outflow streak hits seven days",
+      "content": "Institutional caution and Bitcoin volatility may drive a shift in crypto investment strategies, impacting market dynamics and investor sentiment.\nThe post US spot Bitcoin ETFs bleed $185 million as outflow streak hits seven days appeared first on Crypto Brief…",
+      "url": "https://cryptobriefing.com/bitcoin-etfs-185m-outflows-november-13/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Vivian Nguyen",
+      "published_at": "2026-11-14T06:19:05Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Vivian Nguyen",
+        "title": "US spot Bitcoin ETFs bleed $185 million as outflow streak hits seven days",
+        "description": "Institutional caution and Bitcoin volatility may drive a shift in crypto investment strategies, impacting market dynamics and investor sentiment.\nThe post US spot Bitcoin ETFs bleed $185 million as outflow streak hits seven days appeared first on Crypto Brief…",
+        "url": "https://cryptobriefing.com/bitcoin-etfs-185m-outflows-november-13/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/14011857/library-us-spot-bitcoin-etfs-bleed-185-million-as-outflow-streak-800x450.png",
+        "publishedAt": "2026-11-14T06:19:05Z",
+        "content": "BlackRock and Fidelity accounted for every dollar of Bitcoin fund outflows on November 13, while Ethereum ETFs eked out a small gainUS spot Bitcoin ETFs lost $185 million in net outflows on November … [+2635 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "比特币ETF持续流出，反映市场趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到比特币流出情况",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，调整策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_4a9d9eced444",
+      "title": "Operation TorNado Seized $234 Million From Dark Web Drug Sellers, 33 Times JCODE’s 2019 Haul",
+      "content": "Operation TorNado hit dark web markets with 354 arrests and over $234M in cash and crypto seized, JCODE's largest sweep. Here's how tracing made it work.",
+      "url": "https://www.dcforecasts.com/bitcoin-news/dark-web-markets-operation-tornado-234-million-seized/",
+      "source": "Dcforecasts.com",
+      "source_type": "news",
+      "author": "Andrew",
+      "published_at": "2026-11-14T04:49:45Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dcforecasts.com"
+        },
+        "author": "Andrew",
+        "title": "Operation TorNado Seized $234 Million From Dark Web Drug Sellers, 33 Times JCODE’s 2019 Haul",
+        "description": "Operation TorNado hit dark web markets with 354 arrests and over $234M in cash and crypto seized, JCODE's largest sweep. Here's how tracing made it work.",
+        "url": "https://www.dcforecasts.com/bitcoin-news/dark-web-markets-operation-tornado-234-million-seized/",
+        "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2026/11/dark-web-markets-operation-tornado-234-million-seized.webp",
+        "publishedAt": "2026-11-14T04:49:45Z",
+        "content": "A global crackdown on dark web markets has produced 354 arrests and more than $234 million in seized cash and cryptocurrency, the biggest haul yet for the U.S. task force built to hunt online drug se… [+5444 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "暗网药品交易被查获，影响加密行业",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及暗网和加密货币",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注暗网交易对行业监管的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_6cdb843666a6",
+      "title": "Arca’s Jeff Dorman Calls Vitalik Buterin’s ETH Store-of-Value Pitch ‘Really Misguided’",
+      "content": "Jeff Dorman said on Unchained that Ethereum co-founder Vitalik Buterin's case for ETH as a store of value is \"really misguided.\" Dorman, chief investment officer at crypto investment firm Arca, spoke on Thursday's livestream.\nButerin laid out the case in an X…",
+      "url": "https://biztoc.com/x/41a2f6563e26c54a",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "finance.yahoo.com",
+      "published_at": "2026-11-14T04:12:39Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "Arca’s Jeff Dorman Calls Vitalik Buterin’s ETH Store-of-Value Pitch ‘Really Misguided’",
+        "description": "Jeff Dorman said on Unchained that Ethereum co-founder Vitalik Buterin's case for ETH as a store of value is \"really misguided.\" Dorman, chief investment officer at crypto investment firm Arca, spoke on Thursday's livestream.\nButerin laid out the case in an X…",
+        "url": "https://biztoc.com/x/41a2f6563e26c54a",
+        "urlToImage": "https://biztoc.com/cdn/41a2f6563e26c54a_s.webp",
+        "publishedAt": "2026-11-14T04:12:39Z",
+        "content": "Jeff Dorman said on Unchained that Ethereum co-founder Vitalik Buterin's case for ETH as a store of value is \"really misguided.\" Dorman, chief investment officer at crypto investment firm Arca, spoke… [+151 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Jeff Dorman 对以太坊价值主张的看法引发讨论。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及以太坊价值定位",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注以太坊在市场中的定位变化",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_698aa7ccaa51",
+      "title": "Hyperliquid surpassed Bybit, Kraken and OKX in open interest in Q3",
+      "content": "Hyperliquid's rise in open interest signals a shift in market dynamics, potentially reshaping competitive strategies in the derivatives sector.\nThe post Hyperliquid surpassed Bybit, Kraken and OKX in open interest in Q3 appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/hyperliquid-surpassed-bybit-kraken-and-okx-in-open-interest-in-q3/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-11-14T00:33:55Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Hyperliquid surpassed Bybit, Kraken and OKX in open interest in Q3",
+        "description": "Hyperliquid's rise in open interest signals a shift in market dynamics, potentially reshaping competitive strategies in the derivatives sector.\nThe post Hyperliquid surpassed Bybit, Kraken and OKX in open interest in Q3 appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/hyperliquid-surpassed-bybit-kraken-and-okx-in-open-interest-in-q3/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/13193353/cb-image-LqdD4A8d-800x450.jpg",
+        "publishedAt": "2026-11-14T00:33:55Z",
+        "content": "Hyperliquid, a decentralized exchange specializing in perpetual futures, has reportedly surpassed major exchanges Bybit, Kraken, and OKX in open interest during the third quarter. The exchange reache… [+1245 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Hyperliquid",
+        "Bybit",
+        "Kraken",
+        "OKX"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Hyperliquid在第三季度超越多家交易所的开放兴趣。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场竞争动态，调整策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_79da298df3e4",
+      "title": "Stock Reasonable After Mixed Contract News?",
+      "content": "Northrop Grumman shares have delivered a 69.0% gain over the past 5 years, which raises a straightforward question for you as an investor: Is the current US$550.43 price still in line with what the business can generate in cash over time?\n- That 69.0% five ye…",
+      "url": "https://biztoc.com/x/a18f72703d65cdc4",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "finance.yahoo.com",
+      "published_at": "2026-11-14T05:42:21Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "Stock Reasonable After Mixed Contract News?",
+        "description": "Northrop Grumman shares have delivered a 69.0% gain over the past 5 years, which raises a straightforward question for you as an investor: Is the current US$550.43 price still in line with what the business can generate in cash over time?\n- That 69.0% five ye…",
+        "url": "https://biztoc.com/x/a18f72703d65cdc4",
+        "urlToImage": "https://biztoc.com/cdn/a18f72703d65cdc4_s.webp",
+        "publishedAt": "2026-11-14T05:42:21Z",
+        "content": "Northrop Grumman shares have delivered a 69.0% gain over the past 5 years, which raises a straightforward question for you as an investor: Is the current US$550.43 price still in line with what the b… [+151 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "新闻讨论了加密市场的合约动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场合约动态对稳定币的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_04200f1a5413",
+      "title": "Unit Economics for Founders: CAC, LTV, Contribution Margin and Payback in One Framework",
+      "content": "Unit economics is the profit math on one unit of your business, usually one customer, one subscription or one order. You look at what it costs to acquire that unit, what contribution margin it leaves after variable costs, how much lifetime value it might prod…",
+      "url": "https://addicted2success.com/startups/unit-economics/",
+      "source": "Addicted2success.com",
+      "source_type": "news",
+      "author": "Joel Brown (Founder of Addicted2Success.com)",
+      "published_at": "2026-11-14T02:22:45Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Addicted2success.com"
+        },
+        "author": "Joel Brown (Founder of Addicted2Success.com)",
+        "title": "Unit Economics for Founders: CAC, LTV, Contribution Margin and Payback in One Framework",
+        "description": "Unit economics is the profit math on one unit of your business, usually one customer, one subscription or one order. You look at what it costs to acquire that unit, what contribution margin it leaves after variable costs, how much lifetime value it might prod…",
+        "url": "https://addicted2success.com/startups/unit-economics/",
+        "urlToImage": "https://addicted2success.com/wp-content/uploads/2026/11/unit-economics-1000x600.jpg",
+        "publishedAt": "2026-11-14T02:22:45Z",
+        "content": "The best business ideas solve your own problems. When the problem is yours, you’re the first customer, you feel the pain every day, and you know straight away whether the fix works. If you wouldn’t u… [+13819 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "讨论了创始人的经济模型框架",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到经济模型相关内容",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注经济模型对行业的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_b6eb4e7dc844",
+      "title": "The DC Studios To-Do List: Here’s What Incoming Boss Jeremy Latcham Will Sort Through From The Gunn-Safran Era",
+      "content": "The news earlier this week of James Gunn and Peter Safran’s exit from DC shook the town like Suicide Squad‘s Starro stomping down Melrose Ave. Now it’s up to incoming former Marvel executive and Dungeons & Dragons: Honor Among Thieves producer Jeremy Latcham …",
+      "url": "http://deadline.com/2026/11/dc-studios-movie-tv-list-jeremy-latcham-1237217689/",
+      "source": "Deadline",
+      "source_type": "news",
+      "author": "Anthonypauldalessandro",
+      "published_at": "2026-11-14T02:45:41Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Deadline"
+        },
+        "author": "Anthonypauldalessandro",
+        "title": "The DC Studios To-Do List: Here’s What Incoming Boss Jeremy Latcham Will Sort Through From The Gunn-Safran Era",
+        "description": "The news earlier this week of James Gunn and Peter Safran’s exit from DC shook the town like Suicide Squad‘s Starro stomping down Melrose Ave. Now it’s up to incoming former Marvel executive and Dungeons & Dragons: Honor Among Thieves producer Jeremy Latcham …",
+        "url": "http://deadline.com/2026/11/dc-studios-movie-tv-list-jeremy-latcham-1237217689/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/Superman-Jimmy-Olson-LAnters-The-Batman-II.jpg?w=1000",
+        "publishedAt": "2026-11-14T02:45:41Z",
+        "content": "The news earlier this week of James Gunn and Peter Safran‘s exit from DC shook the town like Suicide Squad‘s Starro stomping down Melrose Ave. Now it’s up to incoming former Marvel executive and Dung… [+14071 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "merger",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_459106ccb8e4",
+      "title": "Fender Player II Jazzmaster Limited Edition Rosewood Fingerboard Electric Guitar for $616 + free shipping",
+      "content": "At Guitar Center, this limited-edition Fender Player II Jazzmaster is $264 off, down from $879.99. The British Racing Green finish is a limited-edition color, and the guitar uses Fender's Jazzmaster pickups and a floating tremolo. Shipping is free.  Buy Now a…",
+      "url": "https://www.dealnews.com/Fender-Player-II-Jazzmaster-Limited-Edition-Rosewood-Fingerboard-Electric-Guitar-for-616-free-shipping/22390538.html",
+      "source": "Dealnews.com",
+      "source_type": "news",
+      "author": "https://www.dealnews.com/authors/Andy-Frank/184.html",
+      "published_at": "2026-11-14T00:13:45Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dealnews.com"
+        },
+        "author": "https://www.dealnews.com/authors/Andy-Frank/184.html",
+        "title": "Fender Player II Jazzmaster Limited Edition Rosewood Fingerboard Electric Guitar for $616 + free shipping",
+        "description": "At Guitar Center, this limited-edition Fender Player II Jazzmaster is $264 off, down from $879.99. The British Racing Green finish is a limited-edition color, and the guitar uses Fender's Jazzmaster pickups and a floating tremolo. Shipping is free.  Buy Now a…",
+        "url": "https://www.dealnews.com/Fender-Player-II-Jazzmaster-Limited-Edition-Rosewood-Fingerboard-Electric-Guitar-for-616-free-shipping/22390538.html",
+        "urlToImage": "https://d.dlnws.com/64599/1794615215-m17354000001000-00-600x600.jpg?h=600&w=600",
+        "publishedAt": "2026-11-14T00:13:45Z",
+        "content": "moreMusician's Friend is running its Pre-Black Friday sale with up to 50% off across guitars, amps, keyboards, drums, and studio gear. The Fender Player II Stratocaster HSS drops to $700, and the Alv… [+853 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series B",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_d3ca6d68d7df",
+      "title": "South Africa vs. Bangladesh 1st Test prediction, lineups and Johannesburg pitch report — who will win?",
+      "content": "Read our South Africa vs. Bangladesh 1st Test prediction, predicted lineups and Johannesburg pitch report ahead of the opener on November 15.",
+      "url": "https://www.cricketnews.com/en/cricket/play/south-africa-vs-bangladesh-1st-test-prediction-pitch-report/a28be6345606dd0e19c76baf",
+      "source": "Cricketnews.com",
+      "source_type": "news",
+      "author": "Ajay Gandhar",
+      "published_at": "2026-11-14T05:00:01Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cricketnews.com"
+        },
+        "author": "Ajay Gandhar",
+        "title": "South Africa vs. Bangladesh 1st Test prediction, lineups and Johannesburg pitch report — who will win?",
+        "description": "Read our South Africa vs. Bangladesh 1st Test prediction, predicted lineups and Johannesburg pitch report ahead of the opener on November 15.",
+        "url": "https://www.cricketnews.com/en/cricket/play/south-africa-vs-bangladesh-1st-test-prediction-pitch-report/a28be6345606dd0e19c76baf",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/b93e264d648eafd9ae6a48232375e46cb7f83898eafadc79274c69b9554afc4c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F8efccb1b0384cb885b9eeb9fd102d850",
+        "publishedAt": "2026-11-14T05:00:01Z",
+        "content": "South Africa vs. Bangladesh 1st Test prediction, lineups and Johannesburg pitch report who will win? originally appeared on Cricket News. Add Cricket News as a Preferred Source by clicking here.\r\nBar… [+3239 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series C",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_a5d687f23378",
+      "title": "China’s Economics of Denial",
+      "content": "Oliver Melton and Logan Wright describe how the PRC’s economic strategy prioritizes investment in manufacturing and technology, believing this will drive productivity and wage growth. However, this approach overlooks the need for robust domestic consumption t…",
+      "url": "https://www.foreignaffairs.com/china/chinas-economics-denial",
+      "source": "Foreign Affairs",
+      "source_type": "news",
+      "author": "November 14, 2026",
+      "published_at": "2026-11-14T00:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Foreign Affairs"
+        },
+        "author": "November 14, 2026",
+        "title": "China’s Economics of Denial",
+        "description": "Oliver Melton and Logan Wright describe how the PRC’s economic strategy prioritizes investment in manufacturing and technology, believing this will drive productivity and wage growth. However, this approach overlooks the need for robust domestic consumption t…",
+        "url": "https://www.foreignaffairs.com/china/chinas-economics-denial",
+        "urlToImage": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2026/11/04/2026-09-29T054853Z_1824474716_RC23SNABU80H_RTRMADP_3_CHINA-ECONOMY.jpg?itok=WPpSmetm",
+        "publishedAt": "2026-11-14T00:00:00Z",
+        "content": "China has correctly diagnosed its most pressing economic problems. The Chinese Communist Party has acknowledged that its economy relies too much on investment and exports and that persistently weak h… [+18006 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding funding round",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "文章讨论了中国的经济政策与加密货币监管的关系。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注中国加密监管政策的变化",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_870b110ed626",
+      "title": "Mars bets on India as a top-five growth market, targets $1.2 billion-plus revenue by 2030",
+      "content": "The pet-care and snacking giant is expanding manufacturing and investing in technology capabilities as it looks to tap India's growing consumer markets and build a global operating hub.",
+      "url": "https://www.livemint.com/companies/news/mars-bets-on-india-as-top-five-growth-market-targets-1-2-billion-plus-revenue-dog-cat-food-vet-services-snacks-11794548363309.html",
+      "source": "Livemint",
+      "source_type": "news",
+      "author": "Vaeshnavi Kasthuril",
+      "published_at": "2026-11-14T01:30:54Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Vaeshnavi Kasthuril",
+        "title": "Mars bets on India as a top-five growth market, targets $1.2 billion-plus revenue by 2030",
+        "description": "The pet-care and snacking giant is expanding manufacturing and investing in technology capabilities as it looks to tap India's growing consumer markets and build a global operating hub.",
+        "url": "https://www.livemint.com/companies/news/mars-bets-on-india-as-top-five-growth-market-targets-1-2-billion-plus-revenue-dog-cat-food-vet-services-snacks-11794548363309.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Mars_exec_1794582893362_36H0_1794582924789_2oap_3a5ee978-087d-4e0a-989c-e37fa38184fc_CHHM.jpg",
+        "publishedAt": "2026-11-14T01:30:54Z",
+        "content": "It really ought to be a top 5 market, Claus Aagaard, global chief financial officer of Mars, told Mint in an interview. The company's India revenue stood at around $600 million in 2025.\r\nMars is step… [+5184 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition strategic investment",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Mars看好印度市场增长潜力。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到市场趋势",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注印度市场动态，评估潜在机会。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_b04506f90d0b",
+      "title": "DTCC Tokenization Service to Connect With Solana in 2027, Extending Wall Street’s Post-Trade Plumbing to a Public Blockchain",
+      "content": "DTCC says its Tokenization Service will connect with Solana, enabling tokenization of eligible DTC-custodied assets from the second half of 2027.\nThe post DTCC Tokenization Service to Connect With Solana in 2027, Extending Wall Street’s Post-Trade Plumbing to…",
+      "url": "https://techreport.com/news/business/dtcc-tokenization-service-solana/",
+      "source": "Techreport.com",
+      "source_type": "news",
+      "author": "Krishi Chowdhary",
+      "published_at": "2026-11-14T02:10:17Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Techreport.com"
+        },
+        "author": "Krishi Chowdhary",
+        "title": "DTCC Tokenization Service to Connect With Solana in 2027, Extending Wall Street’s Post-Trade Plumbing to a Public Blockchain",
+        "description": "DTCC says its Tokenization Service will connect with Solana, enabling tokenization of eligible DTC-custodied assets from the second half of 2027.\nThe post DTCC Tokenization Service to Connect With Solana in 2027, Extending Wall Street’s Post-Trade Plumbing to…",
+        "url": "https://techreport.com/news/business/dtcc-tokenization-service-solana/",
+        "urlToImage": "https://techreport.com/wp-content/uploads/2026/11/dtcc-tokenization-solana-scaled.jpg",
+        "publishedAt": "2026-11-14T02:10:17Z",
+        "content": "DTCC said on November 12, 2026 that its Tokenization Service will connect with Solana, extending tokenization of DTC-custodied assets to a public blockchain in the second half of 2027.\r\nThe scale beh… [+3249 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "DTCC计划在2027年与Solana连接，扩展区块链基础设施。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "关注区块链技术发展动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_0aca34b4bb48",
+      "title": "Nobody Builds For Eternity",
+      "content": "Photo Credit:\n \n Public DomainBy Lars MøllerSpiritual impoverishment, elite betrayal, and the self-repudiation of the West.",
+      "url": "https://www.americanthinker.com/articles/2026/11/nobody-builds-for-eternity/",
+      "source": "Americanthinker.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-14T05:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Americanthinker.com"
+        },
+        "author": null,
+        "title": "Nobody Builds For Eternity",
+        "description": "Photo Credit:\n \n Public DomainBy Lars MøllerSpiritual impoverishment, elite betrayal, and the self-repudiation of the West.",
+        "url": "https://www.americanthinker.com/articles/2026/11/nobody-builds-for-eternity/",
+        "urlToImage": "https://images.americanthinker.com/qh/qhwfzlosbuiz7zcackur_1200.jpg",
+        "publishedAt": "2026-11-14T05:00:00Z",
+        "content": "From Wikimedia Commons: The Parthenon (Frederic Edwin Church, 1871)\r\nSpiritual impoverishment of the post-Christian West is fatefully compounded by demographic transformation—a civilizational regress… [+8000 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "讨论了加密行业的建设与未来",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及加密行业动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注行业动态，调整策略",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_03a920e7c5b0",
+      "title": "ChatGPT Wallet lets OpenAI's agents buy things for you",
+      "content": "OpenAI today announced ChatGPT Wallet, a new feature that lets its Dots AI agents complete purchases on your behalf. It was built in partnership with American Express, Mastercard, and Visa, and is initially only available for ChatGPT Pro subscribers in the US…",
+      "url": "https://www.gsmarena.com/chatgpt_wallet_lets_openais_agents_buy_things_for_you-news-75481.php",
+      "source": "GSMArena.com",
+      "source_type": "news",
+      "author": "Vlad",
+      "published_at": "2026-11-14T00:09:02Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "GSMArena.com"
+        },
+        "author": "Vlad",
+        "title": "ChatGPT Wallet lets OpenAI's agents buy things for you",
+        "description": "OpenAI today announced ChatGPT Wallet, a new feature that lets its Dots AI agents complete purchases on your behalf. It was built in partnership with American Express, Mastercard, and Visa, and is initially only available for ChatGPT Pro subscribers in the US…",
+        "url": "https://www.gsmarena.com/chatgpt_wallet_lets_openais_agents_buy_things_for_you-news-75481.php",
+        "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/11/openai-chatgpt-wallet/-952x498w6/gsmarena_000.jpg",
+        "publishedAt": "2026-11-14T00:09:02Z",
+        "content": "OpenAI today announced ChatGPT Wallet, a new feature that lets its Dots AI agents complete purchases on your behalf. It was built in partnership with American Express, Mastercard, and Visa, and is in… [+1829 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "ChatGPT Wallet 提供支付功能，影响行业动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及支付功能",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注支付技术的发展动态",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_9bff89839ef6",
+      "title": "Gemini can now dig into your Google Wallet spending to help you budget",
+      "content": "Google Wallet is now on the list of apps you can connect to Personal Intelligence in Gemini, joining the likes of Gmail, Photos, YouTube, and Search. Once you do that, the chatbot can give you responses based on your spending habits.\n\nOptionally, you can also…",
+      "url": "https://www.gsmarena.com/gemini_can_now_dig_into_your_google_wallet_spending_to_help_you_budget-news-75482.php",
+      "source": "GSMArena.com",
+      "source_type": "news",
+      "author": "Vlad",
+      "published_at": "2026-11-14T02:31:02Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "GSMArena.com"
+        },
+        "author": "Vlad",
+        "title": "Gemini can now dig into your Google Wallet spending to help you budget",
+        "description": "Google Wallet is now on the list of apps you can connect to Personal Intelligence in Gemini, joining the likes of Gmail, Photos, YouTube, and Search. Once you do that, the chatbot can give you responses based on your spending habits.\n\nOptionally, you can also…",
+        "url": "https://www.gsmarena.com/gemini_can_now_dig_into_your_google_wallet_spending_to_help_you_budget-news-75482.php",
+        "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/11/google-wallet-gemini-personal-intelligence/-952x498w6/gsmarena_000.jpg",
+        "publishedAt": "2026-11-14T02:31:02Z",
+        "content": "Google Wallet is now on the list of apps you can connect to Personal Intelligence in Gemini, joining the likes of Gmail, Photos, YouTube, and Search. Once you do that, the chatbot can give you respon… [+1184 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "Gemini"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Gemini利用Google Wallet帮助用户预算支出。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注支付技术的发展动态。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_632e635f35dd",
+      "title": "ChatGPT Wallet",
+      "content": "Building trusted agentic payments with networks, banks, and businesses.\nThe post ChatGPT Wallet appeared first on NextBigWhat.",
+      "url": "https://nextbigwhat.com/building-trusted-agentic-payments-with-networks-banks-and-businesses/",
+      "source": "Nextbigwhat.com",
+      "source_type": "news",
+      "author": "Editorial Team",
+      "published_at": "2026-11-14T01:58:18Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Nextbigwhat.com"
+        },
+        "author": "Editorial Team",
+        "title": "ChatGPT Wallet",
+        "description": "Building trusted agentic payments with networks, banks, and businesses.\nThe post ChatGPT Wallet appeared first on NextBigWhat.",
+        "url": "https://nextbigwhat.com/building-trusted-agentic-payments-with-networks-banks-and-businesses/",
+        "urlToImage": "https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2026/11/introducing-chatgpt-wallet-social.png?fit=1600%2C900&ssl=1",
+        "publishedAt": "2026-11-14T01:58:18Z",
+        "content": "ChatGPT Wallet Building trusted agentic payments with networks, banks, and businesses.\r\nChatGPT Wallet is a secure payment solution that allows agents to make purchases on behalf of users without acc… [+418 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "ChatGPT推出加密钱包服务，影响行业动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密钱包相关",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注加密钱包市场变化",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_5a579d1a76b7",
+      "title": "OpenAI Gives AI Agents a Wallet While Blocking Them From Seeing the Card",
+      "content": "OpenAI has introduced a ChatGPT Wallet that lets agents pay without access to users’ card details, requires a security check for every purchase, and preserves existing card rewards and protections, the company said in a Friday (Nov. 13) press release. ChatGPT…",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-ai-agents-a-wallet-while-blocking-them-from-seeing-the-card/",
+      "source": "pymnts.com",
+      "source_type": "news",
+      "author": "PYMNTS",
+      "published_at": "2026-11-14T00:16:52Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "pymnts.com"
+        },
+        "author": "PYMNTS",
+        "title": "OpenAI Gives AI Agents a Wallet While Blocking Them From Seeing the Card",
+        "description": "OpenAI has introduced a ChatGPT Wallet that lets agents pay without access to users’ card details, requires a security check for every purchase, and preserves existing card rewards and protections, the company said in a Friday (Nov. 13) press release. ChatGPT…",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-ai-agents-a-wallet-while-blocking-them-from-seeing-the-card/",
+        "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/11/OpenAI.jpeg",
+        "publishedAt": "2026-11-14T00:16:52Z",
+        "content": "OpenAI has introduced a ChatGPT Wallet that lets agents pay without access to users card details, requires a security check for every purchase, and preserves existing card rewards and protections, th… [+2474 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "OpenAI为AI代理提供钱包功能。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到AI钱包相关技术",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注AI与加密支付的结合趋势。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_0c58274ee1b2",
+      "title": "ChatGPT Wallet Lets OpenAI's Dots AI Agents Shop On Your Behalf Without Accessing Actual Card Details",
+      "content": "OpenAI unveiled ChatGPT Wallet, a new payment capability that allows its “dots” AI agents to complete purchases for users' behalf.",
+      "url": "https://biztoc.com/x/8e5c430a334cf89e",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "benzinga.com",
+      "published_at": "2026-11-14T03:10:54Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "benzinga.com",
+        "title": "ChatGPT Wallet Lets OpenAI's Dots AI Agents Shop On Your Behalf Without Accessing Actual Card Details",
+        "description": "OpenAI unveiled ChatGPT Wallet, a new payment capability that allows its “dots” AI agents to complete purchases for users' behalf.",
+        "url": "https://biztoc.com/x/8e5c430a334cf89e",
+        "urlToImage": "https://biztoc.com/cdn/996/og.png",
+        "publishedAt": "2026-11-14T03:10:54Z",
+        "content": "OpenAI unveiled ChatGPT Wallet, a new payment capability that allows its dots AI agents to complete purchases for users' behalf.\r\nThis story appeared on benzinga.com, 2026-11-14 02:34:24.",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "ChatGPT Wallet 提供新的支付方式。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及支付技术",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "关注支付技术的进展。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_6131251ce91a",
+      "title": "xStocks Broadens Suite of Tokenized Assets, Bringing Hundreds of UK and EU-Listed Equities Onchain",
+      "content": "-xStocks, the tokenized equities framework developed by Payward, has deployed its first batch of tokenized equities representing UK and European publicly ...",
+      "url": "https://en.antaranews.com/news/442531/xstocks-broadens-suite-of-tokenized-assets-bringing-hundreds-of-uk-and-eu-listed-equities-onchain",
+      "source": "Antaranews.com",
+      "source_type": "news",
+      "author": "PR Wire",
+      "published_at": "2026-11-14T01:10:47Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Antaranews.com"
+        },
+        "author": "PR Wire",
+        "title": "xStocks Broadens Suite of Tokenized Assets, Bringing Hundreds of UK and EU-Listed Equities Onchain",
+        "description": "-xStocks, the tokenized equities framework developed by Payward, has deployed its first batch of tokenized equities representing UK and European publicly ...",
+        "url": "https://en.antaranews.com/news/442531/xstocks-broadens-suite-of-tokenized-assets-bringing-hundreds-of-uk-and-eu-listed-equities-onchain",
+        "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2020/03/23/Logo-BusinessWire-800x600.jpg",
+        "publishedAt": "2026-11-14T01:10:47Z",
+        "content": "Two of the world's largest capital markets open up to a global onchain audience in the most significant expansion of the market-leading tokenized equities framework beyond U.S. listings to date, in t… [+7643 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody compliance",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "xStocks扩展代币化资产，影响市场趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及代币化资产",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注代币化资产对市场的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+      "description": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
+      "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-11-14T23:07:35",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Kava Lend遭黑客攻击，损失约380万美元。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币USDT",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注黑客攻击对市场信心的影响。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+      "description": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks.",
+      "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-11-14T17:50:41",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "比特币ETF连续两周损失超过十亿美元。",
+      "business_relevance": 0.5,
+      "relevance_reason": "一般加密货币新闻",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注市场动态以调整策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
+      "description": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does.",
+      "url": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-11-14T16:01:02",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Canton Network 是为金融行业构建的隐私区块链。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到区块链和金融行业",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注隐私区块链技术的发展动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "Stablecoins, Swift Blockchain & Wero: B2B Payments 2026 - FinanceX Magazine",
+      "description": "Stablecoins, Swift Blockchain & Wero: B2B Payments 2026&nbsp;&nbsp;FinanceX Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWWdmRkdPcEx5NktlT09SZGlaSFRPWUxxdURUWkUyOXVNYXVLLTVJeG9lWnJCV2pkSDBOSWtkTEZJYUlZX1lKa3M0Q2FuaTlscmVPLVd1a1lpdlFlSTNwMFdvUDlWbE13REpueEU4SXBFRmI3dFo1WG4wdWdqb0JOVVU5bnRSMTZVTlZ4T21tUzlOSFM0MFd5eGVZR1hKSzN4SVJsNV9QbTFxdThMQ3pIUDdiLTRoOTl1RlhtUnZhYmNpQVA5Q2UzTHlra2JTNjZxMlE?oc=5",
+      "source": "Google News (stablecoin B2B)",
+      "source_category": "google_news",
+      "published_at": "2026-11-15T02:33:25",
+      "data_type": "rss",
+      "search_keyword": "stablecoin B2B",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "文章讨论了稳定币在B2B支付中的应用趋势。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币和支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币在支付领域的最新动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground - CoinDesk",
+      "description": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground&nbsp;&nbsp;CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUnFqOTR2OXl6M2dvS2I3NlU5Mng1WWhIQ0x1TThNTkY2LUVmWENkRTVweTBqbGRQQTlhQlp1OW1RN0Z6MzdPaV9rbFg2YVBIU2w5Q3Z3UVpKSXpUWTdMcFhNTEd6Ymw4V1FIU19IWmVvelB6aG94NUg2V0k5VTBqOWwzdGNUa29jblZCbklYd2I5dW45UTVnZ2NjNWhDZ1o4Q2VYMmIxV0NjX25QbW1Ldm9LQXNxcHJkQUZoSmxGM1ZnTDJPdVhNMlZrOEMxR3JpYk1rS1cxb1E?oc=5",
+      "source": "Google News (cross-border stablecoin)",
+      "source_category": "google_news",
+      "published_at": "2026-11-14T15:00:00",
+      "data_type": "rss",
+      "search_keyword": "cross-border stablecoin",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "英国、新加坡和泰国央行测试跨境外汇结算，稳定币逐渐获得关注。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币和跨境支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币在跨境支付中的应用",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    }
+  ]
+}
