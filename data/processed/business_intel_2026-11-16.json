@@ -1,0 +1,1779 @@
+{
+  "competitors": [],
+  "clients": [],
+  "industry": [
+    {
+      "id": "news_1095ce29fabe",
+      "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+      "content": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
+      "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Ezra Reguerra",
+      "published_at": "2026-11-15T06:27:26Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ezra Reguerra",
+        "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+        "description": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
+        "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4STR9GPNQXV18RZ1XBHZJV9/hi-coinflares-exit-and-the-future-of-cloud-mining-3.jpg",
+        "publishedAt": "2026-11-15T06:27:26Z",
+        "content": "Real-world asset (RWA) protocol stUSDT has begun winding down operations, nearly three years after reaching a $2.3 billion total value locked (TVL), ending rewards and opening a six-month redemption … [+1485 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "RWA协议stUSDT在高峰后结束运营。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币相关动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，评估潜在影响",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_f24f0206f033",
+      "title": "EU Regulators Recruit Industry to Write Asset Tokenization Rules, With a Nov. 27 Deadline",
+      "content": "Asset tokenization in Europe gets an industry standards group backed by the ECB, Commission and ESMA. Nominations close Nov. 27; work starts January 2027.",
+      "url": "https://www.dcforecasts.com/blockchain-news/asset-tokenization-eu-standards-group-etsg-nominations/",
+      "source": "Dcforecasts.com",
+      "source_type": "news",
+      "author": "Andrew",
+      "published_at": "2026-11-15T04:25:28Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dcforecasts.com"
+        },
+        "author": "Andrew",
+        "title": "EU Regulators Recruit Industry to Write Asset Tokenization Rules, With a Nov. 27 Deadline",
+        "description": "Asset tokenization in Europe gets an industry standards group backed by the ECB, Commission and ESMA. Nominations close Nov. 27; work starts January 2027.",
+        "url": "https://www.dcforecasts.com/blockchain-news/asset-tokenization-eu-standards-group-etsg-nominations/",
+        "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2026/11/asset-tokenization-eu-standards-group-etsg-nominations.webp",
+        "publishedAt": "2026-11-15T04:25:28Z",
+        "content": "Europe’s three most important financial authorities want the industry to write a common rulebook for asset tokenization, and they have set a tight deadline to get started.\r\nThe European Central Bank,… [+5506 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "欧盟监管机构征集行业意见制定资产代币化规则。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注政策变化，调整合规策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_162d833ff45a",
+      "title": "Nubank Brazil Wins a Bank License, Saving a Brand Used by 120 Million People",
+      "content": "Brazil's central bank approved Nubank's purchase of Banco Porto Real, giving the 142.6-million-customer fintech a bank license as a new naming rule takes hold.",
+      "url": "https://www.dcforecasts.com/blockchain-news/nubank-brazil-bank-license-porto-real-central-bank/",
+      "source": "Dcforecasts.com",
+      "source_type": "news",
+      "author": "Andrew",
+      "published_at": "2026-11-15T07:08:47Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dcforecasts.com"
+        },
+        "author": "Andrew",
+        "title": "Nubank Brazil Wins a Bank License, Saving a Brand Used by 120 Million People",
+        "description": "Brazil's central bank approved Nubank's purchase of Banco Porto Real, giving the 142.6-million-customer fintech a bank license as a new naming rule takes hold.",
+        "url": "https://www.dcforecasts.com/blockchain-news/nubank-brazil-bank-license-porto-real-central-bank/",
+        "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2026/11/nubank-brazil-bank-license-porto-real-central-bank.webp",
+        "publishedAt": "2026-11-15T07:08:47Z",
+        "content": "Nubank Brazil is about to become a bank in name and in law. The Central Bank of Brazil has approved the fintech’s purchase of Banco Porto Real de Investimentos S/A, a deal first announced in July, th… [+5586 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Nubank获得银行牌照，影响金融科技市场。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及金融科技动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注Nubank对市场的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_2c63a433ccd7",
+      "title": "Hong Kong man loses nearly HK$18M in crypto scam that started with a YouTube ad",
+      "content": "The rise in sophisticated online scams highlights the urgent need for enhanced digital literacy and stricter regulations to protect investors.\nThe post Hong Kong man loses nearly HK$18M in crypto scam that started with a YouTube ad appeared first on Crypto Br…",
+      "url": "https://cryptobriefing.com/hong-kong-man-loses-hk18m-youtube-crypto-scam/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-11-15T00:33:55Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Hong Kong man loses nearly HK$18M in crypto scam that started with a YouTube ad",
+        "description": "The rise in sophisticated online scams highlights the urgent need for enhanced digital literacy and stricter regulations to protect investors.\nThe post Hong Kong man loses nearly HK$18M in crypto scam that started with a YouTube ad appeared first on Crypto Br…",
+        "url": "https://cryptobriefing.com/hong-kong-man-loses-hk18m-youtube-crypto-scam/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/14193348/library-hong-kong-man-loses-nearly-hk-18m-in-crypto-scam-that-st-800x450.png",
+        "publishedAt": "2026-11-15T00:33:55Z",
+        "content": "A man in his 70s sent USDT and ETH to scammer wallets over three months, while police logged over 40 similar cases in a single weekA man in his 70s in Hong Kong lost nearly HK$18 million to a fake in… [+2593 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDT",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "香港男子因加密诈骗损失1800万港币。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币诈骗",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注加密货币诈骗对市场信任的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_1f556e40509a",
+      "title": "RWA protocol stUSDT winds down after TVL peak of approximately $2.3 billion",
+      "content": "The stUSDT shutdown highlights the volatility and risks in DeFi, emphasizing the need for robust exit strategies and liquidity management.\nThe post RWA protocol stUSDT winds down after TVL peak of approximately $2.3 billion appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/stusdt-rwa-protocol-winds-down/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-11-15T06:36:56Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "RWA protocol stUSDT winds down after TVL peak of approximately $2.3 billion",
+        "description": "The stUSDT shutdown highlights the volatility and risks in DeFi, emphasizing the need for robust exit strategies and liquidity management.\nThe post RWA protocol stUSDT winds down after TVL peak of approximately $2.3 billion appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/stusdt-rwa-protocol-winds-down/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/15013647/library-rwa-protocol-stusdt-winds-down-after-tvl-peak-of-approxi-800x450.png",
+        "publishedAt": "2026-11-15T06:36:56Z",
+        "content": "The Tron-based yield token has stopped paying rewards and opened a six-month redemption window, with the team saying assets remain fully backedstUSDT, a yield-bearing token on the Tron network that o… [+3459 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDT",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "RWA协议stUSDT在DeFi领域的动态影响稳定币市场。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币和DeFi",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场变化，调整策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_d1a1ca7fca09",
+      "title": "Coinone warns of phishing, identity theft after customer data breach",
+      "content": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.",
+      "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Ezra Reguerra",
+      "published_at": "2026-11-15T08:07:58Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ezra Reguerra",
+        "title": "Coinone warns of phishing, identity theft after customer data breach",
+        "description": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.",
+        "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png",
+        "publishedAt": "2026-11-15T08:07:58Z",
+        "content": "South Korean crypto exchange Coinone warned customers of potential phishing scams and identity theft after an attacker breached its outsourced customer support provider, exposing information shared d… [+1496 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Coinone警告客户数据泄露风险",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及客户数据安全",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注数据安全合规性",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_df59834488c3",
+      "title": "DOJ Seizes $1.2 Billion in Binance Hack Funds and Dismantles FaceStealer Deepfake Scheme",
+      "content": "The Justice Department said it has court authorization to seize or restrain more than $1.2 billion from the October 29 Binance hack, part of more than $2.7 billion frozen so far.\nThe post DOJ Seizes $1.2 Billion in Binance Hack Funds and Dismantles FaceSteale…",
+      "url": "https://techreport.com/news/business/doj-seizes-1-2-billion-binance-hack-funds-facestealer/",
+      "source": "Techreport.com",
+      "source_type": "news",
+      "author": "Krishi Chowdhary",
+      "published_at": "2026-11-15T02:40:20Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Techreport.com"
+        },
+        "author": "Krishi Chowdhary",
+        "title": "DOJ Seizes $1.2 Billion in Binance Hack Funds and Dismantles FaceStealer Deepfake Scheme",
+        "description": "The Justice Department said it has court authorization to seize or restrain more than $1.2 billion from the October 29 Binance hack, part of more than $2.7 billion frozen so far.\nThe post DOJ Seizes $1.2 Billion in Binance Hack Funds and Dismantles FaceSteale…",
+        "url": "https://techreport.com/news/business/doj-seizes-1-2-billion-binance-hack-funds-facestealer/",
+        "urlToImage": "https://techreport.com/wp-content/uploads/2026/11/gWhstAAaZEZb5tzQo21Qc_POYjtr2x.jpg",
+        "publishedAt": "2026-11-15T02:40:20Z",
+        "content": "The Justice Department said on November 12 that it has obtained court authorization to seize or restrain more than $1.2 billion stolen in the October 29 hack of Binance. In the same announcement, it … [+3414 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "美国司法部查获比特币黑客资金，影响加密行业监管。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密监管政策变化，调整合规策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_c924975549ec",
+      "title": "Crypto Market Downturn Leaves Ether, XRP and Solana Down 22%",
+      "content": "The crypto market downturn sent Bitcoin below $64K and left Ether, XRP and Solana down 22% in a week, with the December Fed decision in focus.\nThe post Crypto Market Downturn Leaves Ether, XRP and Solana Down 22% appeared first on Bitcoin Foundation.",
+      "url": "https://bitcoinfoundation.org/news/analysis/crypto-market-downturn-leaves-ether-xrp-and-solana-down-22/",
+      "source": "Bitcoinfoundation.org",
+      "source_type": "news",
+      "author": "Eddie Muller",
+      "published_at": "2026-11-15T08:37:16Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Bitcoinfoundation.org"
+        },
+        "author": "Eddie Muller",
+        "title": "Crypto Market Downturn Leaves Ether, XRP and Solana Down 22%",
+        "description": "The crypto market downturn sent Bitcoin below $64K and left Ether, XRP and Solana down 22% in a week, with the December Fed decision in focus.\nThe post Crypto Market Downturn Leaves Ether, XRP and Solana Down 22% appeared first on Bitcoin Foundation.",
+        "url": "https://bitcoinfoundation.org/news/analysis/crypto-market-downturn-leaves-ether-xrp-and-solana-down-22/",
+        "urlToImage": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/crypto-market-downturn-leaves-ether-xrp-and-solana-down-22.webp",
+        "publishedAt": "2026-11-15T08:37:16Z",
+        "content": "Bitcoin dropped to $63,863 on November 15, 2026a 4.97% fall in 24 hours, according to CoinGecko. The damage spread fast. Ether, XRP$0.9543 and solana each lost 22% over the week, while Bitcoin fell 1… [+10170 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "加密市场下跌影响整体趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注市场变化，调整策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_0baf8964f006",
+      "title": "North Korea’s Deepfake Calls Fueled Over $400M in Crypto Theft, DOJ Says",
+      "content": "North Korea deepfake crypto theft topped $400 million in 18 months, the DOJ says, as authorities seized infrastructure used for fake video calls.\nThe post North Korea’s Deepfake Calls Fueled Over $400M in Crypto Theft, DOJ Says appeared first on Bitcoin Found…",
+      "url": "https://bitcoinfoundation.org/news/security/north-koreas-deepfake-calls-fueled-over-400m-in-crypto-theft-doj-says/",
+      "source": "Bitcoinfoundation.org",
+      "source_type": "news",
+      "author": "Eddie Muller",
+      "published_at": "2026-11-15T08:25:56Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Bitcoinfoundation.org"
+        },
+        "author": "Eddie Muller",
+        "title": "North Korea’s Deepfake Calls Fueled Over $400M in Crypto Theft, DOJ Says",
+        "description": "North Korea deepfake crypto theft topped $400 million in 18 months, the DOJ says, as authorities seized infrastructure used for fake video calls.\nThe post North Korea’s Deepfake Calls Fueled Over $400M in Crypto Theft, DOJ Says appeared first on Bitcoin Found…",
+        "url": "https://bitcoinfoundation.org/news/security/north-koreas-deepfake-calls-fueled-over-400m-in-crypto-theft-doj-says/",
+        "urlToImage": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/north-koreas-deepfake-calls-fueled-over-400m-in-crypto-theft-doj-says.webp",
+        "publishedAt": "2026-11-15T08:25:56Z",
+        "content": "A North Korea deepfake crypto theft scheme allegedly stole more than $400 million in 18 months, the U.S. Justice Department said on November 12, 2026, while announcing the seizure of infrastructure u… [+4730 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "北韩利用深度伪造技术进行加密货币盗窃。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币盗窃",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密货币安全和监管动态。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_5259c8e66002",
+      "title": "BitMine chairman Tom Lee links AI selloff and Anthropic IPO to crypto pressure",
+      "content": "The convergence of AI market volatility, IPO cash demands, and crypto hacks highlights the interconnectedness of modern financial markets.\nThe post BitMine chairman Tom Lee links AI selloff and Anthropic IPO to crypto pressure appeared first on Crypto Briefin…",
+      "url": "https://cryptobriefing.com/tom-lee-ai-selloff-anthropic-ipo-crypto/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-11-15T02:12:32Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "BitMine chairman Tom Lee links AI selloff and Anthropic IPO to crypto pressure",
+        "description": "The convergence of AI market volatility, IPO cash demands, and crypto hacks highlights the interconnectedness of modern financial markets.\nThe post BitMine chairman Tom Lee links AI selloff and Anthropic IPO to crypto pressure appeared first on Crypto Briefin…",
+        "url": "https://cryptobriefing.com/tom-lee-ai-selloff-anthropic-ipo-crypto/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/14211224/library-bitmine-chairman-tom-lee-links-ai-selloff-and-anthropic--800x450.png",
+        "publishedAt": "2026-11-15T02:12:32Z",
+        "content": "Lee says margin calls, IPO cash-raising and returned hack funds may be weighing on crypto, but he remains bullish on EthereumCrypto’s latest slump may have less to do with crypto than you’d think.\r\nT… [+3633 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Anthropic"
+      ],
+      "importance_score": 6,
+      "ai_summary": "AI IPO与加密市场压力有关联。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密市场压力",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，评估影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_434aabd8e615",
+      "title": "Thai police arrest two Chinese nationals over $92M crypto pyramid scheme",
+      "content": "The arrests highlight the growing need for international cooperation in tackling transnational crypto fraud, impacting global regulatory strategies.\nThe post Thai police arrest two Chinese nationals over $92M crypto pyramid scheme appeared first on Crypto Bri…",
+      "url": "https://cryptobriefing.com/thai-police-arrest-chinese-nationals-crypto-scheme/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-11-15T08:35:57Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Thai police arrest two Chinese nationals over $92M crypto pyramid scheme",
+        "description": "The arrests highlight the growing need for international cooperation in tackling transnational crypto fraud, impacting global regulatory strategies.\nThe post Thai police arrest two Chinese nationals over $92M crypto pyramid scheme appeared first on Crypto Bri…",
+        "url": "https://cryptobriefing.com/thai-police-arrest-chinese-nationals-crypto-scheme/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/15033548/library-thai-police-arrest-two-chinese-nationals-over-92m-crypto-800x450.png",
+        "publishedAt": "2026-11-15T08:35:57Z",
+        "content": "Bangkok immigration officers detained the pair on Chinese warrants, and deportation proceedings are already underwayThai authorities have arrested two Chinese nationals wanted at home over a crypto i… [+2351 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "泰国警方逮捕两名中国国籍人士涉及加密诈骗案。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密货币监管动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_65521e5cc126",
+      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+      "content": "Vercel Security Checkpoint\ncle1::1794711813-7gZcLDV7jLvSfRYjhflLrrfHzcK5TBAP",
+      "url": "https://biztoc.com/x/32576216b4133228",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": "coindesk.com",
+      "published_at": "2026-11-15T03:03:50Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "coindesk.com",
+        "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+        "description": "Vercel Security Checkpoint\ncle1::1794711813-7gZcLDV7jLvSfRYjhflLrrfHzcK5TBAP",
+        "url": "https://biztoc.com/x/32576216b4133228",
+        "urlToImage": "https://biztoc.com/cdn/32576216b4133228_s.webp",
+        "publishedAt": "2026-11-15T03:03:50Z",
+        "content": "Vercel Security Checkpointcle1::1794711813-7gZcLDV7jLvSfRYjhflLrrfHzcK5TBAP\r\nThis story appeared on coindesk.com, 2026-11-15 02:50:57.",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "XRP价格暴跌反映加密市场动荡。",
+      "business_relevance": 0.5,
+      "relevance_reason": "加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注市场动态，调整策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_686c6c39dca1",
+      "title": "SEC Filed Just 235 New Cases in Fiscal 2026 but Nearly Tripled What It Returned to Investors",
+      "content": "The SEC filed 235 standalone cases in fiscal 2026, down 22%, while returning about $731 million to harmed investors. Its crypto work now targets fraud.",
+      "url": "https://www.dcforecasts.com/regulation/sec-enforcement-actions-fiscal-2026-crypto/",
+      "source": "Dcforecasts.com",
+      "source_type": "news",
+      "author": "Andrew",
+      "published_at": "2026-11-15T01:04:17Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dcforecasts.com"
+        },
+        "author": "Andrew",
+        "title": "SEC Filed Just 235 New Cases in Fiscal 2026 but Nearly Tripled What It Returned to Investors",
+        "description": "The SEC filed 235 standalone cases in fiscal 2026, down 22%, while returning about $731 million to harmed investors. Its crypto work now targets fraud.",
+        "url": "https://www.dcforecasts.com/regulation/sec-enforcement-actions-fiscal-2026-crypto/",
+        "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2026/11/sec-enforcement-actions-fiscal-2026-crypto.webp",
+        "publishedAt": "2026-11-15T01:04:17Z",
+        "content": "The U.S. Securities and Exchange Commission brought fewer new cases in its 2026 fiscal year than in any of the five years before it. It also sent far more money back to people who had been cheated.\r\n… [+6077 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "SEC在2026财年提起的案件数量减少，但投资者回报几乎三倍增长。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化对业务的影响",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_d964ac30d150",
+      "title": "The Digital Euro Pilot Starts in ECB Canteens in 2027, but It Needs a Law First",
+      "content": "The ECB's digital euro pilot starts in the second half of 2027 with 36 payment firms, but Piero Cipollone told EU lawmakers the legal framework must come first.",
+      "url": "https://www.dcforecasts.com/blockchain-news/digital-euro-pilot-2027-ecb-cipollone-law/",
+      "source": "Dcforecasts.com",
+      "source_type": "news",
+      "author": "Andrew",
+      "published_at": "2026-11-15T05:48:49Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dcforecasts.com"
+        },
+        "author": "Andrew",
+        "title": "The Digital Euro Pilot Starts in ECB Canteens in 2027, but It Needs a Law First",
+        "description": "The ECB's digital euro pilot starts in the second half of 2027 with 36 payment firms, but Piero Cipollone told EU lawmakers the legal framework must come first.",
+        "url": "https://www.dcforecasts.com/blockchain-news/digital-euro-pilot-2027-ecb-cipollone-law/",
+        "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2026/11/digital-euro-pilot-2027-ecb-cipollone-law.webp",
+        "publishedAt": "2026-11-15T05:48:49Z",
+        "content": "The digital euro has a test date, a list of participants and a place to start: staff canteens at the European Central Bank. What it still lacks is a law.\r\nECB Executive Board member Piero Cipollone l… [+5082 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto regulation",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "数字欧元试点将在2027年启动，但需法律支持。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到数字欧元与支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注数字欧元对支付市场的潜在影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_658f55012b84",
+      "title": "Czech National Bank issues its first bonds on a blockchain ledger",
+      "content": "The Czech National Bank's blockchain bond issuance could revolutionize financial markets by enhancing transaction speed and reducing intermediaries.\nThe post Czech National Bank issues its first bonds on a blockchain ledger appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/czech-national-bank-tokenized-bonds-blockchain/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-11-15T05:34:20Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Czech National Bank issues its first bonds on a blockchain ledger",
+        "description": "The Czech National Bank's blockchain bond issuance could revolutionize financial markets by enhancing transaction speed and reducing intermediaries.\nThe post Czech National Bank issues its first bonds on a blockchain ledger appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/czech-national-bank-tokenized-bonds-blockchain/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/15003412/library-czech-national-bank-issues-its-first-bonds-on-a-blockcha-800x450.png",
+        "publishedAt": "2026-11-15T05:34:20Z",
+        "content": "The CNB tested tokenized koruna bonds on CSD Prague's DLT platform, settling trades in central bank moneyThe Czech National Bank has issued its first bonds on a blockchain ledger. The central bank an… [+1927 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto license",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "捷克国家银行首次在区块链上发行债券。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及区块链技术",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "关注区块链技术在金融领域的应用动态。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_eb1d30cbe008",
+      "title": "Inshallah: Coming Soon To A Community Near You",
+      "content": "Photo Credit:\n \n AI for American ThinkerBy Richard C. CrandallExamining Islamic teachings raises questions about their compatibility with America’s constitutional freedoms.",
+      "url": "https://www.americanthinker.com/articles/2026/11/inshallah-coming-soon-to-a-community-near-you/",
+      "source": "Americanthinker.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-15T05:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Americanthinker.com"
+        },
+        "author": null,
+        "title": "Inshallah: Coming Soon To A Community Near You",
+        "description": "Photo Credit:\n \n AI for American ThinkerBy Richard C. CrandallExamining Islamic teachings raises questions about their compatibility with America’s constitutional freedoms.",
+        "url": "https://www.americanthinker.com/articles/2026/11/inshallah-coming-soon-to-a-community-near-you/",
+        "urlToImage": "https://images.americanthinker.com/r4/r4nm8vkb1vukkknbdx4m_1200.jpg",
+        "publishedAt": "2026-11-15T05:00:00Z",
+        "content": "Elected Muslim politicians have been using the word Inshallah, which means “if God wills.” Although the phrase sounds harmless, what these politicians are saying is that they want everyone to live un… [+8348 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "该新闻涉及加密货币社区动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "一般加密货币新闻",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注社区动态以把握市场变化",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_09c782d3c287",
+      "title": "Cohere Finding Shows Self-Hosted Open-Weight Models Still Need Egress Controls",
+      "content": "Cohere recently reported that one of Alibaba’s newest Qwen3.8 models attempted to upload a probe file to a storage container in Beijing while explicitly stating in its reasoning trace that no tools would be triggered. While there is no evidence of intentional…",
+      "url": "https://www.infoq.com/news/2026/11/cohere-open-weight-egress-risk/",
+      "source": "InfoQ.com",
+      "source_type": "news",
+      "author": "Bruno Couriol",
+      "published_at": "2026-11-15T02:42:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "InfoQ.com"
+        },
+        "author": "Bruno Couriol",
+        "title": "Cohere Finding Shows Self-Hosted Open-Weight Models Still Need Egress Controls",
+        "description": "Cohere recently reported that one of Alibaba’s newest Qwen3.8 models attempted to upload a probe file to a storage container in Beijing while explicitly stating in its reasoning trace that no tools would be triggered. While there is no evidence of intentional…",
+        "url": "https://www.infoq.com/news/2026/11/cohere-open-weight-egress-risk/",
+        "urlToImage": "https://res.infoq.com/news/2026/11/cohere-open-weight-egress-risk/en/headerimage/generatedHeaderImage-1794703595152.jpg",
+        "publishedAt": "2026-11-15T02:42:00Z",
+        "content": "Cohere recently reported that one of Alibaba’s newest Qwen3.8 models attempted to upload a diagnostic file to a storage container in Beijing while explicitly stating in its reasoning trace that no to… [+3268 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "自托管模型仍需控制措施。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到模型控制，间接相关",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "关注模型控制技术的发展。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_e38b8ab1cd64",
+      "title": "Strive Raises SATA Dividend to 13.25% After a Month Below Its $99 Floor",
+      "content": "Strive lifted its SATA preferred dividend to 13.25% from Dec. 1 as the shares traded below its $99 to $101 target range for 24 straight sessions.",
+      "url": "https://www.dcforecasts.com/bitcoin-news/strive-sata-stock-dividend-13-25/",
+      "source": "Dcforecasts.com",
+      "source_type": "news",
+      "author": "Andrew",
+      "published_at": "2026-11-15T00:34:07Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dcforecasts.com"
+        },
+        "author": "Andrew",
+        "title": "Strive Raises SATA Dividend to 13.25% After a Month Below Its $99 Floor",
+        "description": "Strive lifted its SATA preferred dividend to 13.25% from Dec. 1 as the shares traded below its $99 to $101 target range for 24 straight sessions.",
+        "url": "https://www.dcforecasts.com/bitcoin-news/strive-sata-stock-dividend-13-25/",
+        "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2026/11/strive-sata-stock-dividend-13-25.webp",
+        "publishedAt": "2026-11-15T00:34:07Z",
+        "content": "SATA stock holders are getting a raise. Strive, the publicly traded bitcoin treasury company, said on Nov. 12 that it will lift the dividend rate on its Variable Rate Series A Perpetual Preferred Sto… [+5135 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Strive 提高 SATA 股息至 13.25%。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到稳定币相关动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注市场动态和投资机会。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_9b5f3550967f",
+      "title": "This 2026 Flop Is Destined to Become a Cult Classic, And Movie History Proves It",
+      "content": "Image via WB\n\n2026 has been an odd year at the box office, with some surefire hits from major franchises like the DCU and Star Wars winding up disappointments, while smaller films like Obsession have become box office sensations. Interestingly, one of the big…",
+      "url": "http://comicbook.com/movies/feature/this-2026-flop-is-destined-to-become-a-cult-classic-and-movie-history-proves-it/",
+      "source": "ComicBook.com",
+      "source_type": "news",
+      "author": "Clay Pitman",
+      "published_at": "2026-11-15T02:37:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "ComicBook.com"
+        },
+        "author": "Clay Pitman",
+        "title": "This 2026 Flop Is Destined to Become a Cult Classic, And Movie History Proves It",
+        "description": "Image via WB\n\n2026 has been an odd year at the box office, with some surefire hits from major franchises like the DCU and Star Wars winding up disappointments, while smaller films like Obsession have become box office sensations. Interestingly, one of the big…",
+        "url": "http://comicbook.com/movies/feature/this-2026-flop-is-destined-to-become-a-cult-classic-and-movie-history-proves-it/",
+        "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2026/06/Tom-Cruise-holding-a-hat-with-arms-raised-in-Digger.jpg?resize=2000,1125",
+        "publishedAt": "2026-11-15T02:37:00Z",
+        "content": "2026 has been an odd year at the box office, with some surefire hits from major franchises like the DCU and Star Wars winding up disappointments, while smaller films like Obsession have become box of… [+4055 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "merger",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_da61e4b472ab",
+      "title": "How to watch South Africa vs Bangladesh 2026 1st Test: Free Streams & Preview",
+      "content": "All the ways to watch the South Africa vs Bangladesh 2026 first Test for free from anywhere in the world, as Temba Bavuma's men look to continue their Test dominance.",
+      "url": "https://www.techradar.com/entertainment/cricket/watch-south-africa-vs-bangladesh-2026-1st-test-free",
+      "source": "TechRadar",
+      "source_type": "news",
+      "author": "Krishi Chowdhary",
+      "published_at": "2026-11-15T05:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "techradar",
+          "name": "TechRadar"
+        },
+        "author": "Krishi Chowdhary",
+        "title": "How to watch South Africa vs Bangladesh 2026 1st Test: Free Streams & Preview",
+        "description": "All the ways to watch the South Africa vs Bangladesh 2026 first Test for free from anywhere in the world, as Temba Bavuma's men look to continue their Test dominance.",
+        "url": "https://www.techradar.com/entertainment/cricket/watch-south-africa-vs-bangladesh-2026-1st-test-free",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/aevpr5n53UUudzcQMfvcfb-2560-80.jpg",
+        "publishedAt": "2026-11-15T05:00:00Z",
+        "content": ":first-child]:mt-0 [&amp;&gt;:last-child]:mb-0 [&amp;_p]:m-0 [&amp;_p]:text-sm [&amp;_p]:mb-6 [&amp;_ul]:m-0 [&amp;_ul]:mb-6 [&amp;_ul]:list-outside [&amp;_ul]:list-disc [&amp;_ul]:ps-4 [&amp;_ol]:m-… [+6109 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series C",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_5c19636ec873",
+      "title": "SNL Cold Open Schools Billionaire Tech Bros; Bowen Yang Returns",
+      "content": "After Inde Navarrette and Druski helped pull NBC's Saturday Night Live Season 52 back from the brink over the past two weeks, seven-time host John Mulaney and musical guest Phoebe Bridgers are on tap tonight to make it three-for-three (fingers crossed). Of co…",
+      "url": "https://bleedingcool.com/tv/snl-cold-open-schools-billionaire-tech-bros-bowen-yang-returns/",
+      "source": "Bleeding Cool News",
+      "source_type": "news",
+      "author": "Ray Flook",
+      "published_at": "2026-11-15T04:53:09Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Bleeding Cool News"
+        },
+        "author": "Ray Flook",
+        "title": "SNL Cold Open Schools Billionaire Tech Bros; Bowen Yang Returns",
+        "description": "After Inde Navarrette and Druski helped pull NBC's Saturday Night Live Season 52 back from the brink over the past two weeks, seven-time host John Mulaney and musical guest Phoebe Bridgers are on tap tonight to make it three-for-three (fingers crossed). Of co…",
+        "url": "https://bleedingcool.com/tv/snl-cold-open-schools-billionaire-tech-bros-bowen-yang-returns/",
+        "urlToImage": "https://bleedingcool.com/wp-content/uploads/2026/11/MixCollage-14-Nov-2026-11-48-PM-4626-2000x1125.jpg",
+        "publishedAt": "2026-11-15T04:53:09Z",
+        "content": "Posted in: NBC, Peacock, TV | Tagged: snl\r\nSNL Cold Open schooled Peter Thiel, Sam Altman, Dario Amodei, Elon Musk, and Mark Zuckerberg on women and spying - and Bowen Yang returned!\r\nArticle Summary… [+5725 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series C",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_39d7fdb69127",
+      "title": "LAST DAYS OF ALICE",
+      "content": "\"All space, that heaven is a dayless night, / A nightless day driven by perfect lust / For vacancy…\"",
+      "url": "https://www.hilobrow.com/2026/11/15/alice-2/",
+      "source": "Hilobrow.com",
+      "source_type": "news",
+      "author": "Allen Tate",
+      "published_at": "2026-11-15T05:48:47Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Hilobrow.com"
+        },
+        "author": "Allen Tate",
+        "title": "LAST DAYS OF ALICE",
+        "description": "\"All space, that heaven is a dayless night, / A nightless day driven by perfect lust / For vacancy…\"",
+        "url": "https://www.hilobrow.com/2026/11/15/alice-2/",
+        "urlToImage": null,
+        "publishedAt": "2026-11-15T05:48:47Z",
+        "content": "By: Allen TateNovember 15, 2026\r\nA series dedicated to poems, published c. 19001935, the Radium Age sf-adjacent themes of which include: dystopia and utopia, far-out mathematics and the fourth dimens… [+2938 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series C",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_1a5fea89def9",
+      "title": "Gemini’s Credit Card Now Brings In More Than Its Exchange After Trading Volume Fell 73%",
+      "content": "Gemini's Q3 filing shows credit card revenue up 82% to $15.5 million, passing its exchange, while bitcoin remained its biggest trading earner.",
+      "url": "https://www.dcforecasts.com/cryptocurrency-exchange-news/gemini-credit-card-revenue-q3-2026-exchange/",
+      "source": "Dcforecasts.com",
+      "source_type": "news",
+      "author": "Andrew",
+      "published_at": "2026-11-15T02:34:39Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dcforecasts.com"
+        },
+        "author": "Andrew",
+        "title": "Gemini’s Credit Card Now Brings In More Than Its Exchange After Trading Volume Fell 73%",
+        "description": "Gemini's Q3 filing shows credit card revenue up 82% to $15.5 million, passing its exchange, while bitcoin remained its biggest trading earner.",
+        "url": "https://www.dcforecasts.com/cryptocurrency-exchange-news/gemini-credit-card-revenue-q3-2026-exchange/",
+        "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2026/11/gemini-credit-card-revenue-q3-2026-exchange.webp",
+        "publishedAt": "2026-11-15T02:34:39Z",
+        "content": "Gemini’s credit card has become the company’s biggest single revenue line, overtaking the crypto exchange the business was built around.\r\nIn its quarterly report filed with the U.S. Securities and Ex… [+5491 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Gemini"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Gemini信用卡的交易量超过其交易所收入。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注信用卡业务对市场的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_04860f3fee5c",
+      "title": "Vestige to shut down Algorand DeFi platform on December 31, 2026, citing costs",
+      "content": "The shutdown highlights the challenges of sustaining DeFi platforms in low-activity ecosystems, urging developers to seek alternative solutions.\nThe post Vestige to shut down Algorand DeFi platform on December 31, 2026, citing costs appeared first on Crypto B…",
+      "url": "https://cryptobriefing.com/vestige-algorand-defi-shutdown-2026/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-11-15T00:34:47Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Vestige to shut down Algorand DeFi platform on December 31, 2026, citing costs",
+        "description": "The shutdown highlights the challenges of sustaining DeFi platforms in low-activity ecosystems, urging developers to seek alternative solutions.\nThe post Vestige to shut down Algorand DeFi platform on December 31, 2026, citing costs appeared first on Crypto B…",
+        "url": "https://cryptobriefing.com/vestige-algorand-defi-shutdown-2026/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/14193440/library-vestige-to-shut-down-algorand-defi-platform-on-december--800x450.png",
+        "publishedAt": "2026-11-15T00:34:47Z",
+        "content": "Vestige Labs says thin trading volumes on Algorand left it unable to cover operating costs, so the website, API and swap aggregator are going darkVestige, a DeFi platform built on Algorand, is closin… [+3380 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Vestige将关闭Algorand DeFi平台。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及DeFi平台动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注DeFi市场动态，评估影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_ad58b17283d5",
+      "title": "The Diminishing Returns of MAGA’s Rebellion",
+      "content": "Ten years into its insurgency, MAGA still casts itself as a rebel movement—even as it runs the government. How long can that posture endure?",
+      "url": "https://www.nationalreview.com/corner/the-diminishing-returns-of-maga-s-rebellion",
+      "source": "National Review",
+      "source_type": "news",
+      "author": "Raleigh Adams, Raleigh Adams",
+      "published_at": "2026-11-15T02:45:55Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "national-review",
+          "name": "National Review"
+        },
+        "author": "Raleigh Adams, Raleigh Adams",
+        "title": "The Diminishing Returns of MAGA’s Rebellion",
+        "description": "Ten years into its insurgency, MAGA still casts itself as a rebel movement—even as it runs the government. How long can that posture endure?",
+        "url": "https://www.nationalreview.com/corner/the-diminishing-returns-of-maga-s-rebellion",
+        "urlToImage": "https://cdn.sanity.io/images/yu68q2re/production/3a0c82f2a897f53c176fd319b8e86c636eb7bbec-2057x1200.jpg",
+        "publishedAt": "2026-11-15T02:45:55Z",
+        "content": "The Trump\r\n administrations pre-midterm enthusiasm for AI-generated pop-culture memes produced an unlikely political hero: Anakin Skywalker. A gifted young man, repeatedly frustrated by an arrogant i… [+331 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_0ce23a0ce6b4",
+      "title": "Ava Labs says its NYSE deal cost nothing and opened doors with institutions",
+      "content": "Ava Labs' NYSE deal highlights a shift towards specialized blockchain networks, enhancing institutional credibility and future collaborations.\nThe post Ava Labs says its NYSE deal cost nothing and opened doors with institutions appeared first on Crypto Briefi…",
+      "url": "https://cryptobriefing.com/ava-labs-nyse-avalanche-tokenized-settlement/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Vivian Nguyen",
+      "published_at": "2026-11-15T00:04:09Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Vivian Nguyen",
+        "title": "Ava Labs says its NYSE deal cost nothing and opened doors with institutions",
+        "description": "Ava Labs' NYSE deal highlights a shift towards specialized blockchain networks, enhancing institutional credibility and future collaborations.\nThe post Ava Labs says its NYSE deal cost nothing and opened doors with institutions appeared first on Crypto Briefi…",
+        "url": "https://cryptobriefing.com/ava-labs-nyse-avalanche-tokenized-settlement/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/14190353/library-ava-labs-says-its-nyse-deal-cost-nothing-and-opened-door-800x450.png",
+        "publishedAt": "2026-11-15T00:04:09Z",
+        "content": "Avalanche will reportedly handle clearing and settlement for a planned NYSE trading venue for tokenized US stocks and ETFs, pending regulatory approvalAva Labs says its new arrangement with the New Y… [+3947 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "Ava Labs"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Ava Labs与机构合作的动态引人关注。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密行业动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注Ava Labs的市场动向",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_cb68edb56af0",
+      "title": "ChatGPT Wallet lets AI agents shop without seeing your card number",
+      "content": "OpenAI has launched ChatGPT Wallet, which lets its always-on dots agents pay online with a substitute card number instead of the real one. Every purchase needs Face ID, Touch ID or a fingerprint. For now, only US ChatGPT Pro subscribers get it, and OpenAI's h…",
+      "url": "https://www.notebookcheck.net/ChatGPT-Wallet-lets-AI-agents-shop-without-seeing-your-card-number.1450862.0.html",
+      "source": "Notebookcheck.net",
+      "source_type": "news",
+      "author": "Steffen Zahn",
+      "published_at": "2026-11-15T08:03:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Notebookcheck.net"
+        },
+        "author": "Steffen Zahn",
+        "title": "ChatGPT Wallet lets AI agents shop without seeing your card number",
+        "description": "OpenAI has launched ChatGPT Wallet, which lets its always-on dots agents pay online with a substitute card number instead of the real one. Every purchase needs Face ID, Touch ID or a fingerprint. For now, only US ChatGPT Pro subscribers get it, and OpenAI's h…",
+        "url": "https://www.notebookcheck.net/ChatGPT-Wallet-lets-AI-agents-shop-without-seeing-your-card-number.1450862.0.html",
+        "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/chatgpt-wallet-teaser.jpg",
+        "publishedAt": "2026-11-15T08:03:00Z",
+        "content": "OpenAI's AI agents can now pay for things themselves. ChatGPT Wallet lets dots, the always-on agents with their own cloud computer that OpenAI introduced in late September, buy products online or boo… [+2186 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "ChatGPT Wallet 允许 AI 代理购物而不暴露卡号。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及支付技术",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "关注支付技术的演进与应用",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_f8b174808c55",
+      "title": "A forced Bitcoin Lightning exit can be cheap and still leave you waiting days",
+      "content": "The preprint's 2026 public force-close cohort paid a median 925 satoshis per channel, while the broadcaster's balance faced a 2.5-day median wait.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Cata…",
+      "url": "https://cryptoslate.com/a-forced-bitcoin-lightning-exit-can-be-cheap-and-still-leave-you-waiting-days/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam 'Akiba' Wright",
+      "published_at": "2026-11-15T02:40:32Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam 'Akiba' Wright",
+        "title": "A forced Bitcoin Lightning exit can be cheap and still leave you waiting days",
+        "description": "The preprint's 2026 public force-close cohort paid a median 925 satoshis per channel, while the broadcaster's balance faced a 2.5-day median wait.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Cata…",
+        "url": "https://cryptoslate.com/a-forced-bitcoin-lightning-exit-can-be-cheap-and-still-leave-you-waiting-days/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/11/lightning-funds-release-gate.webp",
+        "publishedAt": "2026-11-15T02:40:32Z",
+        "content": "When a Bitcoin Lightning channel closes without both parties agreeing, the fees can be small but the wait can stretch for days. In a 2026 sample of public channels, forced closures cost a median 925 … [+4701 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "比特币闪电网络退出过程可能影响支付速度",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及比特币支付技术",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注比特币支付技术的进展",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_9c71f55f76f7",
+      "title": "Coinone warns of phishing, identity theft after data breach",
+      "content": "The breach highlights the vulnerability of outsourced support services, emphasizing the need for robust security measures to protect sensitive data.\nThe post Coinone warns of phishing, identity theft after data breach appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/coinone-data-breach-phishing-warning/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-11-15T08:17:26Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Coinone warns of phishing, identity theft after data breach",
+        "description": "The breach highlights the vulnerability of outsourced support services, emphasizing the need for robust security measures to protect sensitive data.\nThe post Coinone warns of phishing, identity theft after data breach appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/coinone-data-breach-phishing-warning/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/15031718/library-coinone-warns-of-phishing-identity-theft-after-data-brea-800x450.png",
+        "publishedAt": "2026-11-15T08:17:26Z",
+        "content": "An attacker hit the South Korean exchange's outsourced support contractor, exposing records that may include passwords, bank details and national ID numbersSouth Korean crypto exchange Coinone is tel… [+3506 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Coinone因数据泄露警告钓鱼和身份盗窃问题。",
+      "business_relevance": 0.6,
+      "relevance_reason": "涉及加密货币安全问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注加密货币安全合规措施。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "title": "Visa And Mastercard Stocks Face A Stablecoin Test Investors Should Watch - Yahoo Finance",
+      "description": "Visa And Mastercard Stocks Face A Stablecoin Test Investors Should Watch&nbsp;&nbsp;Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMEJVX1dsT3Q5ZVRDZTA3S0xES1V5VGIyc25ZdEJ5ajV2UGliZ3ZxeXdRUi1ORHdxTWRJNWI5c2l5M3RxMFBSc3VBUzVSVVVmVFVKcUt4eXExOG9JRDJlazlHUnZKaEhrSWVmUTFCVTRZcnBtWDB3RE9zNk1CRTFrcnU2RGtqekxLRHRTRkpabjd0Rlp1MTdjdEw2azVvb28yQnM1OXpB?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-11-16T02:09:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Visa",
+        "Mastercard"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Visa和Mastercard面临稳定币的考验。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币测试",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币对支付行业的影响。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Frax is buiding THE stablecoin infrastructure for b2b and b2 - KuCoin",
+      "description": "Frax is buiding THE stablecoin infrastructure for b2b and b2&nbsp;&nbsp;KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aemN1Q1BzN20yOFA5UVVIa3BHTUo4YnotMDVMUVJ1NWVVZmJ2c29KV1I0amJiM1ZZVGIyZ3d1dzhTQWpKeVAyS0FOVDRObkNyOTJFY0lvQ3hHN0FvZ3A1SzB6MGhMMWRWNldWbmpGZ2Y0TzA?oc=5",
+      "source": "Google News (stablecoin B2B)",
+      "source_category": "google_news",
+      "published_at": "2026-11-15T20:57:02",
+      "data_type": "rss",
+      "search_keyword": "stablecoin B2B",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Frax"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Frax正在构建稳定币基础设施。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币基础设施的发展动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Brazil central bank official warns stablecoin transfers may constitute money laundering - Crypto News",
+      "description": "Brazil central bank official warns stablecoin transfers may constitute money laundering&nbsp;&nbsp;Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU1dJVW5neHVCLUtBOUoxcUhEWkpCZEtkb3hSQ2ZPZUF4S3NjYUdjSlRsMEZMLUtENnBaa21USmNTYWVfdk1yWlF4cDBhYnNtZmdqVm5xa1hpNVVrUDBfYWQ1bEZGZjFkdncyWWdjS09qV1Vrc2xBVmJVLW1wVjVJSnEyT0RDZWQ0VVgwdWxFX2NMTjRhZVlQSVhuQ0djTFVwZnRrRkRpemZhSFlZ?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-11-16T05:19:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "巴西央行官员警告稳定币转账可能涉及洗钱问题。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注稳定币监管动态，评估合规风险。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Stripe Focuses On Tempo Blockchain And Stablecoin Enabled Initiatives - Crowdfund Insider",
+      "description": "Stripe Focuses On Tempo Blockchain And Stablecoin Enabled Initiatives&nbsp;&nbsp;Crowdfund Insider",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU05lMWVJY2F1bm9ydXp6b0xqcGVXbDcySDNzUnRpY1N5MUlqbjZkYlRucFZHanRCQkZZR2o2MFpHZjlBNE9oT3J3MVZ0YWkzcjVQa2ptdFh2VXJNVGlQXy01c1c1OE4yMkp4aVNkWnFtbE44cGtNRGlDbEJ1LUJ1NkhzMmRQTE1TNnNpbWJVV0FNaE1kelRyTmRRdTZrdGZvaDItTi12S29WTFgxWFhGejFWX1JIQmNkQkE?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-11-15T20:12:56",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Stripe 正在关注稳定币和区块链的应用",
+      "business_relevance": 0.8,
+      "relevance_reason": "涉及稳定币和区块链",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币和区块链技术的最新动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    }
+  ]
+}
