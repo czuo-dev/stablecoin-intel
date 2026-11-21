@@ -1,0 +1,1787 @@
+{
+  "policy": [
+    {
+      "id": "news_a5e56bf2dbdc",
+      "title": "Hashi, Sui’s Bitcoin Finance Protocol, Goes Live With BTC-Backed Lending",
+      "content": "Hashi went live on Sui mainnet on November 13, minting hBTC 1:1 against Bitcoin held on its own network, with Fluid lending and HoneyB vaults running day one.\nThe post Hashi, Sui’s Bitcoin Finance Protocol, Goes Live With BTC-Backed Lending appeared first on …",
+      "url": "https://techreport.com/news/business/hashi-sui-mainnet-launch-hbtc/",
+      "source": "Techreport.com",
+      "source_type": "news",
+      "author": "Krishi Chowdhary",
+      "published_at": "2026-11-20T00:30:53Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Techreport.com"
+        },
+        "author": "Krishi Chowdhary",
+        "title": "Hashi, Sui’s Bitcoin Finance Protocol, Goes Live With BTC-Backed Lending",
+        "description": "Hashi went live on Sui mainnet on November 13, minting hBTC 1:1 against Bitcoin held on its own network, with Fluid lending and HoneyB vaults running day one.\nThe post Hashi, Sui’s Bitcoin Finance Protocol, Goes Live With BTC-Backed Lending appeared first on …",
+        "url": "https://techreport.com/news/business/hashi-sui-mainnet-launch-hbtc/",
+        "urlToImage": "https://techreport.com/wp-content/uploads/2026/11/cover-3597614-1795134644526.jpg",
+        "publishedAt": "2026-11-20T00:30:53Z",
+        "content": "Hashi, the Bitcoin finance protocol built for the Sui network, is live on mainnet, and its hBTC token is already usable as collateral in lending and other onchain products, Sui said in a statement.\r\n… [+2913 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "BitGo",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Sui的比特币金融协议上线，涉及借贷业务。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到比特币金融协议",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注比特币借贷市场动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_f7cac31746db",
+      "title": "Forward Industries Pledges Its Solana for a $50M Loan From Erebor Bank",
+      "content": "Forward Industries' Nov. 19 filing names Erebor Bank as the lender behind a $50 million loan secured by staked SOL, with margin calls at 75% and 80% LTV.",
+      "url": "https://www.dcforecasts.com/altcoin-news/forward-industries-solana-loan-erebor-bank/",
+      "source": "Dcforecasts.com",
+      "source_type": "news",
+      "author": "Andrew",
+      "published_at": "2026-11-20T08:31:01Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dcforecasts.com"
+        },
+        "author": "Andrew",
+        "title": "Forward Industries Pledges Its Solana for a $50M Loan From Erebor Bank",
+        "description": "Forward Industries' Nov. 19 filing names Erebor Bank as the lender behind a $50 million loan secured by staked SOL, with margin calls at 75% and 80% LTV.",
+        "url": "https://www.dcforecasts.com/altcoin-news/forward-industries-solana-loan-erebor-bank/",
+        "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2026/11/forward-industries-solana-loan-erebor-bank.webp",
+        "publishedAt": "2026-11-20T08:31:01Z",
+        "content": "Forward Industries, the Nasdaq-listed company that holds Solana as its main treasury asset, has borrowed $50 million from Erebor Bank against part of its SOL. The deal puts a token straight onto the … [+5486 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "BitGo",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Forward Industries",
+        "Erebor Bank"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Forward Industries 向 Erebor Bank 申请 5000 万美元贷款。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密贷款业务",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注加密贷款市场动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_d9f0cd95bcaa",
+      "title": "OSL Group Publishes Executive Insight: Every Company Needs a Stablecoin Strategy",
+      "content": "The infrastructure underneath global money movement is changing, and every company needs a stablecoin strategy of its ownMany of the companies actually",
+      "url": "https://biztoc.com/x/7666b20649090d0b",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-20T06:59:02Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": null,
+        "title": "OSL Group Publishes Executive Insight: Every Company Needs a Stablecoin Strategy",
+        "description": "The infrastructure underneath global money movement is changing, and every company needs a stablecoin strategy of its ownMany of the companies actually",
+        "url": "https://biztoc.com/x/7666b20649090d0b",
+        "urlToImage": "https://biztoc.com/cdn/996/og.png",
+        "publishedAt": "2026-11-20T06:59:02Z",
+        "content": "The infrastructure underneath global money movement is changing, and every company needs a stablecoin strategy of its ownMany of the companies actually\r\nThis story appeared on financialpost.com, 2026… [+15 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "OSL",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "OSL Group"
+      ],
+      "importance_score": 8,
+      "ai_summary": "每家公司都需制定稳定币战略。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币战略",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币战略的行业动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_de7975ef84e6",
+      "title": "MoonPay Trust Bank Filing Makes It the 17th Crypto Charter Bid Pending at the OCC",
+      "content": "MoonPay wants a Miami Beach national trust bank for custody and stablecoin issuance. Its filing is the 17th digital-asset application pending at the OCC this year.",
+      "url": "https://www.dcforecasts.com/regulation/moonpay-trust-bank-occ-charter-application/",
+      "source": "Dcforecasts.com",
+      "source_type": "news",
+      "author": "Andrew",
+      "published_at": "2026-11-20T03:42:15Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dcforecasts.com"
+        },
+        "author": "Andrew",
+        "title": "MoonPay Trust Bank Filing Makes It the 17th Crypto Charter Bid Pending at the OCC",
+        "description": "MoonPay wants a Miami Beach national trust bank for custody and stablecoin issuance. Its filing is the 17th digital-asset application pending at the OCC this year.",
+        "url": "https://www.dcforecasts.com/regulation/moonpay-trust-bank-occ-charter-application/",
+        "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2026/11/moonpay-trust-bank-occ-charter-application.webp",
+        "publishedAt": "2026-11-20T03:42:15Z",
+        "content": "MoonPay has applied for a national bank charter, and the proposed MoonPay trust bank would issue, redeem and manage reserves for stablecoins under direct federal supervision.\r\nThe crypto payments com… [+5858 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "MoonPay申请银行牌照，涉及加密监管动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管变化对业务的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_2cac840939a7",
+      "title": "Aave V3 Health Factor Preview – Aave Docs",
+      "content": "Supply crypto assets to earn yield, borrow against collateral, and use the GHO stablecoin. Non-custodial: transactions are signed by the user's own wallet.",
+      "url": "https://aave.com/docs/aave-v3/markets/health-factor",
+      "source": "Aave.com",
+      "source_type": "news",
+      "author": "Aave",
+      "published_at": "2026-11-20T05:20:26Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Aave.com"
+        },
+        "author": "Aave",
+        "title": "Aave V3 Health Factor Preview – Aave Docs",
+        "description": "Supply crypto assets to earn yield, borrow against collateral, and use the GHO stablecoin. Non-custodial: transactions are signed by the user's own wallet.",
+        "url": "https://aave.com/docs/aave-v3/markets/health-factor",
+        "urlToImage": "https://aave.com/docs/og/aave-v3/markets/health-factor",
+        "publishedAt": "2026-11-20T05:20:26Z",
+        "content": "Preview how a supply, borrow, repay or withdraw changes a users health factor before sending it.\r\nThe health factor compares the liquidation-weighted collateral to the debt:\r\nHealth Factor\r\n=\r\nTotal … [+5623 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Aave V3的健康因子预览与DeFi相关。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到DeFi相关内容",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_4667f2b9825b",
+      "title": "Liddie – Accept 23 cryptocurrencies across 13 networks with one flat 0.4% fee",
+      "content": "Accept 23 cryptocurrencies across 13 networks with one flat 0.4% fee",
+      "url": "https://betalist.com/startups/liddie",
+      "source": "Betalist.com",
+      "source_type": "news",
+      "author": "BetaList",
+      "published_at": "2026-11-20T01:40:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Betalist.com"
+        },
+        "author": "BetaList",
+        "title": "Liddie – Accept 23 cryptocurrencies across 13 networks with one flat 0.4% fee",
+        "description": "Accept 23 cryptocurrencies across 13 networks with one flat 0.4% fee",
+        "url": "https://betalist.com/startups/liddie",
+        "urlToImage": "https://resize.imagekit.co/3BwBnyyglvRdFERdnb_KvMUQNFCU879ujER74EoNWlg/plain/s3://betalist-production/7x59hy8ltn6zktgzfj3m39c9hi7e",
+        "publishedAt": "2026-11-20T01:40:00Z",
+        "content": "Liddie is a crypto payment gateway designed for internet businesses, freelancers, and creators who want to accept cryptocurrency without running nodes or managing complex infrastructure. It supports … [+372 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Liddie 提供多种加密货币支付服务。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注支付领域的竞争动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_d4cfd6453fee",
+      "title": "Circle and Trump-linked crypto firm hit with court freeze order after Binance’s $6.3 billion hack",
+      "content": "A Dec. 1 hearing will consider whether to extend the freeze, while Tether says it will work separately with Binance on reissuance.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inb…",
+      "url": "https://cryptoslate.com/circle-and-trump-linked-crypto-firm-hit-with-court-freeze-order-after-binances-6-3-billion-hack/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam Akiba Wright",
+      "published_at": "2026-11-20T07:50:34Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam Akiba Wright",
+        "title": "Circle and Trump-linked crypto firm hit with court freeze order after Binance’s $6.3 billion hack",
+        "description": "A Dec. 1 hearing will consider whether to extend the freeze, while Tether says it will work separately with Binance on reissuance.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inb…",
+        "url": "https://cryptoslate.com/circle-and-trump-linked-crypto-firm-hit-with-court-freeze-order-after-binances-6-3-billion-hack/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/11/stablecoin-court-cold-storage-960x720.webp",
+        "publishedAt": "2026-11-20T07:50:34Z",
+        "content": "An Abu Dhabi court has ordered Circle and 17 other companies to keep tokens linked to Binances Oct. 29 theft frozen while the exchange tries to recover them.\r\nBinance disclosed the order on Nov. 18 a… [+3199 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Circle",
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Circle和与特朗普相关的加密公司因黑客事件受到法院冻结令。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注监管动态，评估市场影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_b853426ce70c",
+      "title": "FBI Uncovers Chilling Cyberattack: North Korean Hackers Steal $400 Million Through Fake Video Meetings",
+      "content": "North Korean state-backed hackers stole more than $400 million in cryptocurrency over the past 18 months by secretly recording video images of people and using those images to target their contacts, the Federal Bureau of Investigation (FBI) said on Nov. 12. T…",
+      "url": "https://www.naturalnews.com/2026-11-20-north-korean-hackers-steal-400m-through-fake-video.html",
+      "source": "Naturalnews.com",
+      "source_type": "news",
+      "author": "Sterling Ashworth",
+      "published_at": "2026-11-20T06:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Naturalnews.com"
+        },
+        "author": "Sterling Ashworth",
+        "title": "FBI Uncovers Chilling Cyberattack: North Korean Hackers Steal $400 Million Through Fake Video Meetings",
+        "description": "North Korean state-backed hackers stole more than $400 million in cryptocurrency over the past 18 months by secretly recording video images of people and using those images to target their contacts, the Federal Bureau of Investigation (FBI) said on Nov. 12. T…",
+        "url": "https://www.naturalnews.com/2026-11-20-north-korean-hackers-steal-400m-through-fake-video.html",
+        "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/north-korean-hackers-cryptocurrency-theft-facestealer-6652-c16023f9-original.jpg",
+        "publishedAt": "2026-11-20T06:00:00Z",
+        "content": "North Korean state-backed hackers stole more than $400 million in cryptocurrency over the past 18 months by secretly recording video images of people and using those images to target their contacts, … [+7268 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDT",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "北韩黑客通过假视频会议盗取加密资产。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到网络攻击与加密相关",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注网络安全风险与合规要求",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_a5e0f5dc492f",
+      "title": "SEC charges eight firms over fake crypto platforms tied to $37M fraud",
+      "content": "The SEC charged eight firms with defrauding US investors of $37 million by allegedly masquerading as SEC-licensed cryptocurrency platforms.",
+      "url": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Zoltan Vardai",
+      "published_at": "2026-11-20T08:03:34Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Zoltan Vardai",
+        "title": "SEC charges eight firms over fake crypto platforms tied to $37M fraud",
+        "description": "The SEC charged eight firms with defrauding US investors of $37 million by allegedly masquerading as SEC-licensed cryptocurrency platforms.",
+        "url": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWVJFSAZCDB7METDY1P77G/hi-otc-over-the-counter-trade-fraud-1280x853.webp",
+        "publishedAt": "2026-11-20T08:03:34Z",
+        "content": "The US Securities and Exchange Commission (SEC) charged eight Colorado-based entities with defrauding US investors of more than $37 million.\r\nThe defendants allegedly lured investors by masquerading … [+1812 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "SEC对八家公司提起诉讼，涉及虚假加密平台。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "竞争格局"
+      ],
+      "industry_action": "关注监管动态，评估合规风险。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_4d3c4af5f789",
+      "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
+      "content": "BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff.",
+      "url": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Helen Partz",
+      "published_at": "2026-11-20T08:18:42Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Helen Partz",
+        "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
+        "description": "BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff.",
+        "url": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWM2HDCADQ2AM2AK506KFS/btc-1-1280x853.webp",
+        "publishedAt": "2026-11-20T08:18:42Z",
+        "content": "US spot Bitcoin exchange-traded funds (ETFs) recorded $582 million in net outflows on Thursday, led by a record withdrawal from BlackRocks iShares Bitcoin Trust (IBIT).\r\nIBIT posted $541 million in o… [+1316 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "BlackRock",
+        "Anthropic"
+      ],
+      "importance_score": 6,
+      "ai_summary": "BlackRock在市场上遭遇损失，影响行业动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场变化，调整策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_96e35cca7237",
+      "title": "Former Secret Service investigator sounds alarm over AI scams as Americans grow increasingly anxious",
+      "content": "Former Secret Service cyberfraud investigator Jason Brown warns AI voice cloning scams could trick families into losing thousands of dollars this holiday season.",
+      "url": "https://www.foxnews.com/tech/former-secret-service-investigator-sounds-alarm-ai-scams-americans-grow-increasingly-anxious",
+      "source": "Fox News",
+      "source_type": "news",
+      "author": "Michael Sinkewicz",
+      "published_at": "2026-11-20T07:53:31Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Michael Sinkewicz",
+        "title": "Former Secret Service investigator sounds alarm over AI scams as Americans grow increasingly anxious",
+        "description": "Former Secret Service cyberfraud investigator Jason Brown warns AI voice cloning scams could trick families into losing thousands of dollars this holiday season.",
+        "url": "https://www.foxnews.com/tech/former-secret-service-investigator-sounds-alarm-ai-scams-americans-grow-increasingly-anxious",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/scammer-people-search-002.jpeg",
+        "publishedAt": "2026-11-20T07:53:31Z",
+        "content": "A former Secret Service cyberfraud investigator warned that Americans are increasingly on edge following a wave of major technology disruptions, while artificial intelligence is making scams targetin… [+3824 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "AI诈骗引发对加密货币的担忧",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到AI诈骗与加密相关",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "监管影响"
+      ],
+      "industry_action": "关注AI诈骗对加密行业的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_828260c5795e",
+      "title": "What Is Effective Altruism? The Philosophy That Shaped FTX's Founder, Explained",
+      "content": "The Netflix series 'The Altruists' explores how Sam Bankman-Fried, once the poster child for a movement called effective altruism that focuses entirely on doing the most good possible, wound up losing billions.",
+      "url": "https://www.mentalfloss.com/history/philosophy/effective-altruism-ftx-sam-bankman-fried",
+      "source": "Mental Floss",
+      "source_type": "news",
+      "author": "Eden Gordon",
+      "published_at": "2026-11-20T00:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Mental Floss"
+        },
+        "author": "Eden Gordon",
+        "title": "What Is Effective Altruism? The Philosophy That Shaped FTX's Founder, Explained",
+        "description": "The Netflix series 'The Altruists' explores how Sam Bankman-Fried, once the poster child for a movement called effective altruism that focuses entirely on doing the most good possible, wound up losing billions.",
+        "url": "https://www.mentalfloss.com/history/philosophy/effective-altruism-ftx-sam-bankman-fried",
+        "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_fill,w_1200,ar_1:1,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01m7trn4mtpwt6xjhj4j.jpg",
+        "publishedAt": "2026-11-20T00:00:00Z",
+        "content": "How did an organization whose founder followed a philosophy based on doing the greatest amount of good possible for the world end up in prison for misappropriating billions of dollars of customer fun… [+3020 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "文章探讨有效利他主义与FTX的关系。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到FTX创始人的哲学",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注有效利他主义对加密行业的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_18ac6169e001",
+      "title": "Crypto Faces a Blue Wave Reckoning",
+      "content": "“The cryptocurrency industry is scrambling to rebuild its relationship with Democrats, after spending millions in an unsuccessful bid to crush one of their marquee Senate candidates,” Politico reports. “The push by crypto lobbyists to reconnect with the left …",
+      "url": "https://politicalwire.com/2026/11/19/crypto-faces-a-blue-wave-reckoning/",
+      "source": "Politicalwire.com",
+      "source_type": "news",
+      "author": "Taegan Goddard",
+      "published_at": "2026-11-20T00:16:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Politicalwire.com"
+        },
+        "author": "Taegan Goddard",
+        "title": "Crypto Faces a Blue Wave Reckoning",
+        "description": "“The cryptocurrency industry is scrambling to rebuild its relationship with Democrats, after spending millions in an unsuccessful bid to crush one of their marquee Senate candidates,” Politico reports. “The push by crypto lobbyists to reconnect with the left …",
+        "url": "https://politicalwire.com/2026/11/19/crypto-faces-a-blue-wave-reckoning/",
+        "urlToImage": "https://politicalwire.com/wp-content/uploads/pw-social-cards/2024827-4cac989d.png",
+        "publishedAt": "2026-11-20T00:16:00Z",
+        "content": "“The cryptocurrency industry is scrambling to rebuild its relationship with Democrats, after spending millions in an unsuccessful bid to crush one of their marquee Senate candidates,” Politico report… [+430 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "加密货币面临监管挑战。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_76ddb865f0ef",
+      "title": "Online Casino Guide for Beginners at AmonBet",
+      "content": "AmonBet is an online casino and sportsbook with around 4,000 games from more than 50 providers, including BGaming, Amatic, Playson and TrueLab. New players get a welcome package of up to €3,000 plus 300 free spins spread over three deposits, and the first dep…",
+      "url": "https://learningjquery.com/2026/11/online-casino-guide-for-beginners-at-amonbet",
+      "source": "Learningjquery.com",
+      "source_type": "news",
+      "author": "JÃ¶rn Zaefferer",
+      "published_at": "2026-11-20T08:04:29Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Learningjquery.com"
+        },
+        "author": "JÃ¶rn Zaefferer",
+        "title": "Online Casino Guide for Beginners at AmonBet",
+        "description": "AmonBet is an online casino and sportsbook with around 4,000 games from more than 50 providers, including BGaming, Amatic, Playson and TrueLab. New players get a welcome package of up to €3,000 plus 300 free spins spread over three deposits, and the first dep…",
+        "url": "https://learningjquery.com/2026/11/online-casino-guide-for-beginners-at-amonbet",
+        "urlToImage": null,
+        "publishedAt": "2026-11-20T08:04:29Z",
+        "content": "AmonBet is an online casino and sportsbook with around 4,000 games from more than 50 providers, including BGaming, Amatic, Playson and TrueLab. New players get a welcome package of up to 3,000 plus 3… [+7495 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_b2c3bd6be8c7",
+      "title": "Caroline Ellison Joins Manifund After 14 Months in Prison for FTX Fraud",
+      "content": "The Caroline Ellison crypto fraud case takes a new turn as she joins Manifund after 14 months in prison, putting her return to philanthropy under scrutiny.\nThe post Caroline Ellison Joins Manifund After 14 Months in Prison for FTX Fraud appeared first on Bitc…",
+      "url": "https://bitcoinfoundation.org/news/people-in-crypto/caroline-ellison-joins-manifund-after-14-months-in-prison-for-ftx-fraud/",
+      "source": "Bitcoinfoundation.org",
+      "source_type": "news",
+      "author": "Eddie Muller",
+      "published_at": "2026-11-20T08:46:30Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Bitcoinfoundation.org"
+        },
+        "author": "Eddie Muller",
+        "title": "Caroline Ellison Joins Manifund After 14 Months in Prison for FTX Fraud",
+        "description": "The Caroline Ellison crypto fraud case takes a new turn as she joins Manifund after 14 months in prison, putting her return to philanthropy under scrutiny.\nThe post Caroline Ellison Joins Manifund After 14 Months in Prison for FTX Fraud appeared first on Bitc…",
+        "url": "https://bitcoinfoundation.org/news/people-in-crypto/caroline-ellison-joins-manifund-after-14-months-in-prison-for-ftx-fraud/",
+        "urlToImage": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/caroline-ellison-joins-manifund-after-14-months-in-prison-for-ftx-fraud.webp",
+        "publishedAt": "2026-11-20T08:46:30Z",
+        "content": "The Caroline Ellison crypto fraud case follows her walk out of federal prison in January 2026 after 14 months insideand straight into a role at Manifund, a philanthropic funding platform. The former … [+10265 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Caroline Ellison因FTX丑闻入狱后加入新公司。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及FTX丑闻影响",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "竞争格局",
+        "市场趋势"
+      ],
+      "industry_action": "关注行业监管变化和市场反应。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_d4dbda01aeba",
+      "title": "SEC Says Four Fake Adviser-Exchange Pairs Took $37 Million, One After Another",
+      "content": "Eight Colorado-registered entities ran four fake adviser and exchange pairs, each for about six months, taking $37.4 million from more than 1,500 U.S. investors, the SEC says.",
+      "url": "https://www.dcforecasts.com/bitcoin-scams/sec-fake-crypto-trading-platforms-37-million-colorado/",
+      "source": "Dcforecasts.com",
+      "source_type": "news",
+      "author": "Andrew",
+      "published_at": "2026-11-20T05:48:12Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dcforecasts.com"
+        },
+        "author": "Andrew",
+        "title": "SEC Says Four Fake Adviser-Exchange Pairs Took $37 Million, One After Another",
+        "description": "Eight Colorado-registered entities ran four fake adviser and exchange pairs, each for about six months, taking $37.4 million from more than 1,500 U.S. investors, the SEC says.",
+        "url": "https://www.dcforecasts.com/bitcoin-scams/sec-fake-crypto-trading-platforms-37-million-colorado/",
+        "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2026/11/sec-fake-crypto-trading-platforms-37-million-colorado.webp",
+        "publishedAt": "2026-11-20T05:48:12Z",
+        "content": "The Securities and Exchange Commission has charged eight Colorado-registered entities with running fake investment advisers and fake crypto exchanges that took more than $37 million from U.S. investo… [+5464 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "SEC揭露四个虚假顾问交易对的诈骗事件。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_0d89c0519a12",
+      "title": "IOSCO tells finance to prepare for quantum code-breaking as some warn of a five-year window",
+      "content": "IOSCO's quantum report carries two clocks: its 2030-2035 estimate and industry voices warning of five years. Firms betting on the slow clock have little margin.\nThe post IOSCO tells finance to prepare for quantum code-breaking as some warn of a five-year wind…",
+      "url": "https://www.valuewalk.com/iosco-tells-finance-to-prepare-for-quantum-code-breaking-as-some-warn-of-a-five-year-window/",
+      "source": "ValueWalk",
+      "source_type": "news",
+      "author": "ValueWalk Team",
+      "published_at": "2026-11-20T08:09:18Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "ValueWalk"
+        },
+        "author": "ValueWalk Team",
+        "title": "IOSCO tells finance to prepare for quantum code-breaking as some warn of a five-year window",
+        "description": "IOSCO's quantum report carries two clocks: its 2030-2035 estimate and industry voices warning of five years. Firms betting on the slow clock have little margin.\nThe post IOSCO tells finance to prepare for quantum code-breaking as some warn of a five-year wind…",
+        "url": "https://www.valuewalk.com/iosco-tells-finance-to-prepare-for-quantum-code-breaking-as-some-warn-of-a-five-year-window/",
+        "urlToImage": "https://www.valuewalk.com/wp-content/uploads/2026/11/senseserp-1795162138.jpg",
+        "publishedAt": "2026-11-20T08:09:18Z",
+        "content": "IOSCO's quantum report carries two clocks: its 2030-2035 estimate and industry voices warning of five years. Firms betting on the slow clock have little margin.The global body for securities regulato… [+2850 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto regulation",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "IOSCO提醒金融界准备量子破解风险。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注量子技术对加密监管的影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_15b25de30f79",
+      "title": "DeepSeek's US$16 billion funding meets computing crunch",
+      "content": "Chinese AI startup DeepSeek has reportedly secured CNY105.5 billion (approx. US$15.8 billion) in a second funding round backed by Tencent, CATL and major telecom operators. The financing coincides with tighter usage limits caused by computing shortages, testi…",
+      "url": "https://www.digitimes.com/news/a20261120VL207/deepseek-computing-power-financing-funding.html",
+      "source": "Digitimes",
+      "source_type": "news",
+      "author": "Levi Li",
+      "published_at": "2026-11-20T04:37:43Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Digitimes"
+        },
+        "author": "Levi Li",
+        "title": "DeepSeek's US$16 billion funding meets computing crunch",
+        "description": "Chinese AI startup DeepSeek has reportedly secured CNY105.5 billion (approx. US$15.8 billion) in a second funding round backed by Tencent, CATL and major telecom operators. The financing coincides with tighter usage limits caused by computing shortages, testi…",
+        "url": "https://www.digitimes.com/news/a20261120VL207/deepseek-computing-power-financing-funding.html",
+        "urlToImage": "https://www.digitimes.com/newsshow/20261120VL207_files/2_b.jpg",
+        "publishedAt": "2026-11-20T04:37:43Z",
+        "content": "Keep me signed in\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the… [+288 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "DeepSeek获得融资，影响行业动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到融资事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注融资对市场的潜在影响",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_f143e4b05470",
+      "title": "El Salvador’s Bukele expected to formalise bid for third presidential term",
+      "content": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
+      "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term",
+      "source": "Al Jazeera English",
+      "source_type": "news",
+      "author": "Al Jazeera Staff",
+      "published_at": "2026-11-20T00:22:02Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera Staff",
+        "title": "El Salvador’s Bukele expected to formalise bid for third presidential term",
+        "description": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
+        "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69e01f13-1776295699.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-11-20T00:22:02Z",
+        "content": "Salvadoran President Nayib Bukele is set to formally register his candidacy for his countrys upcoming presidential race, as he seeks a third consecutive term.\r\nThursday was the registration deadline … [+3120 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "萨尔瓦多总统计划竞选连任，可能影响加密政策。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注萨尔瓦多的加密政策变化",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_b683294e4b41",
+      "title": "FG backs eight startups with N1.07bn equity funding",
+      "content": "The iDICE Startup Bridge Growth Lab has begun, with eight Nigerian startups each set to get $100,000 in equity investment plus structured growth support.\n\nRead More: https://punchng.com/fg-backs-eight-startups-with-n1-07bn-equity-funding-2/",
+      "url": "https://punchng.com/fg-backs-eight-startups-with-n1-07bn-equity-funding-2/",
+      "source": "The Punch",
+      "source_type": "news",
+      "author": "Jide Ajia",
+      "published_at": "2026-11-20T00:41:25Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Punch"
+        },
+        "author": "Jide Ajia",
+        "title": "FG backs eight startups with N1.07bn equity funding",
+        "description": "The iDICE Startup Bridge Growth Lab has begun, with eight Nigerian startups each set to get $100,000 in equity investment plus structured growth support.\n\nRead More: https://punchng.com/fg-backs-eight-startups-with-n1-07bn-equity-funding-2/",
+        "url": "https://punchng.com/fg-backs-eight-startups-with-n1-07bn-equity-funding-2/",
+        "urlToImage": "https://punchng.com/wp-content/uploads/2026/07/iDICE_1784516715.webp",
+        "publishedAt": "2026-11-20T00:41:25Z",
+        "content": "The Growth Lab programme of the Investment in Digital and Creative Enterprises (iDICE) Startup Bridge initiative has officially commenced, welcoming eight carefully selected Nigerian startups into a … [+3329 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "政府支持八家初创企业获得融资。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到融资事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注融资动态以把握市场机会",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_d75f0d9626e2",
+      "title": "Sarvam's Token Factory raises control issue",
+      "content": "NEW DELHI: Sarvam AI's Token Factory has allowed businesses to use China's DeepSeek and have their requests processed in India.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sarvams-token-factory-raises-control-issue/articleshow/136010634.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "Aabhas Sharma",
+      "published_at": "2026-11-20T02:42:59Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Aabhas Sharma",
+        "title": "Sarvam's Token Factory raises control issue",
+        "description": "NEW DELHI: Sarvam AI's Token Factory has allowed businesses to use China's DeepSeek and have their requests processed in India.",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/sarvams-token-factory-raises-control-issue/articleshow/136010634.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136010691/136010691.jpg",
+        "publishedAt": "2026-11-20T02:42:59Z",
+        "content": "NEW DELHI: Sarvam AI's Token Factory has allowed businesses to use China's DeepSeek and have their requests processed in India. Running DeepSeek alongside its own model on Indian servers raises a que… [+2166 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Sarvam的Token Factory面临控制问题，影响行业动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币控制问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注行业内控制权变化对市场的影响",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_83e2c231e991",
+      "title": "Fratello’s Top 5 Small-Brand Watches Of 2026",
+      "content": "Another Friday, another list! This week, we continue our series of year-end lists for 2026. After last week’s focus on this year’s most surprising releases, we’re turning our attention to our favorite watches from small brands. These independent watchmakers o…",
+      "url": "https://www.fratellowatches.com/fratellos-top-5-small-brand-watches-of-2026/",
+      "source": "Fratellowatches.com",
+      "source_type": "news",
+      "author": "Jorg Weppelink",
+      "published_at": "2026-11-20T06:00:24Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Fratellowatches.com"
+        },
+        "author": "Jorg Weppelink",
+        "title": "Fratello’s Top 5 Small-Brand Watches Of 2026",
+        "description": "Another Friday, another list! This week, we continue our series of year-end lists for 2026. After last week’s focus on this year’s most surprising releases, we’re turning our attention to our favorite watches from small brands. These independent watchmakers o…",
+        "url": "https://www.fratellowatches.com/fratellos-top-5-small-brand-watches-of-2026/",
+        "urlToImage": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/MBF-MAD-3-Blue-5.jpg",
+        "publishedAt": "2026-11-20T06:00:24Z",
+        "content": "Another Friday, another list! This week, we continue our series of year-end lists for 2026. After last week’s focus on this year’s most surprising releases, we’re turning our attention to our favorit… [+11071 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series B",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_675e6790ff33",
+      "title": "Wall Street led the charge. Now India's big guns rush into this battle",
+      "content": "India’s healthcare sector is emerging as a major battleground for big business, with the Bajaj Group, Reliance and Adani stepping up investments. After years of private equity funds driving hospital acquisitions and consolidation, corporate giants are buildin…",
+      "url": "https://m.economictimes.com/industry/healthcare/biotech/healthcare/wall-street-led-the-charge-now-indias-big-guns-reliance-adani-bajaj-rush-into-this-battle-of-hospitals-healthcare-business-corporate-healthcare-investments-medical/articleshow/136019217.cms",
+      "source": "Economictimes.com",
+      "source_type": "news",
+      "author": "ET Online",
+      "published_at": "2026-11-20T08:30:12Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Economictimes.com"
+        },
+        "author": "ET Online",
+        "title": "Wall Street led the charge. Now India's big guns rush into this battle",
+        "description": "India’s healthcare sector is emerging as a major battleground for big business, with the Bajaj Group, Reliance and Adani stepping up investments. After years of private equity funds driving hospital acquisitions and consolidation, corporate giants are buildin…",
+        "url": "https://m.economictimes.com/industry/healthcare/biotech/healthcare/wall-street-led-the-charge-now-indias-big-guns-reliance-adani-bajaj-rush-into-this-battle-of-hospitals-healthcare-business-corporate-healthcare-investments-medical/articleshow/136019217.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-136019302,resizemode-4,width-1200,height-900,imgsize-384602,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-11-20T08:30:12Z",
+        "content": "For years, private equity funds have been among the biggest investors in India's healthcare sector, snapping up stakes in hospital chains and stitching together regional platforms through acquisition… [+10876 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding strategic investment",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "印度加密市场竞争加剧，监管动态引关注。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注印度市场的监管变化和竞争动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_c233882febe1",
+      "title": "FBI arrests Georgia man over laundering funds for ISIS",
+      "content": "FBI agents arrest a Georgia man accused of transferring over $26,000 to ISIS-linked recipients and attempting to destroy evidence during an investigation.",
+      "url": "https://www.israelnationalnews.com/news/436686",
+      "source": "Israelnationalnews.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-20T04:52:19Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Israelnationalnews.com"
+        },
+        "author": null,
+        "title": "FBI arrests Georgia man over laundering funds for ISIS",
+        "description": "FBI agents arrest a Georgia man accused of transferring over $26,000 to ISIS-linked recipients and attempting to destroy evidence during an investigation.",
+        "url": "https://www.israelnationalnews.com/news/436686",
+        "urlToImage": "https://2.a7.org/files/pictures/000/1078962.jpg",
+        "publishedAt": "2026-11-20T04:52:19Z",
+        "content": "Federal agents have arrested a 34-year-old Georgia resident accused of transferring more than $26,000 to individuals and organizations connected to the Islamic State (ISIS) terrorist group as part of… [+1986 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "一名乔治亚州男子因为为ISIS洗钱被捕。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及资金洗钱与加密",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注洗钱相关的监管政策变化。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_03cb7dcee2cf",
+      "title": "Jodie Turner-Smith slips into an olive green bikini as shares holiday album with her rarely seen daughter amid rumours for the new Miss Moneypenny in James Bond",
+      "content": "Jodie Turner-Smith looked incredible in an olive green bikini as she shared stunning Instagram snaps from her holiday in Jamaica on Thursday.",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16308309/Jodie-Turner-Smith-Miss-Moneypenny-James-Bond.html",
+      "source": "Dailymail.com",
+      "source_type": "news",
+      "author": "Lily Jobson",
+      "published_at": "2026-11-20T08:31:46Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dailymail.com"
+        },
+        "author": "Lily Jobson",
+        "title": "Jodie Turner-Smith slips into an olive green bikini as shares holiday album with her rarely seen daughter amid rumours for the new Miss Moneypenny in James Bond",
+        "description": "Jodie Turner-Smith looked incredible in an olive green bikini as she shared stunning Instagram snaps from her holiday in Jamaica on Thursday.",
+        "url": "https://www.dailymail.com/tvshowbiz/article-16308309/Jodie-Turner-Smith-Miss-Moneypenny-James-Bond.html",
+        "urlToImage": "https://i.dailymail.com/1s/2026/11/20/08/112627959-0-image-m-3_1795162472138.jpg",
+        "publishedAt": "2026-11-20T08:31:46Z",
+        "content": "Jodie Turner-Smith looked incredible in an olive green bikini as she shared stunning Instagram snaps from her holiday in Jamaica on Thursday.\r\nThe actress, 40, cradled her rarely seen daughter Juno, … [+2705 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "Assume Everything Is Exploitable: Four Lessons from the Binance Incident",
+      "description": "In the Binance hack on October 29, 2026, North Korean attackers moved $6.36B out of Binance wallets on ten blockchains, most of it in roughly 20 minutes. Binance reports that no private key was stolen, yet the attackers obtained valid signatures. They spent five months compromising the engineers behind Binance’s wallet signing service. Nation-state operations [&#8230;]\nThe post Assume Everything Is Exploitable: Four Lessons from the Binance Incident appeared first on Fireblocks.",
+      "url": "https://www.fireblocks.com/blog/binance-hack-lessons",
+      "source": "Fireblocks Blog",
+      "source_category": "competitor",
+      "published_at": "2026-11-20T11:46:21",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance遭遇黑客攻击，影响行业安全性。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及交易所安全事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注安全技术发展与合规要求",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "title": "Rep. Horsford sees opening for House vote on crypto tax bill before Congress ends",
+      "description": "Rep. Steven Horsford said a bipartisan crypto tax bill could pass the House before this current Congress ends.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-11-20T14:51:32",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "众议员Horsford表示加密税法案有望通过。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注税法变化对业务的潜在影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Wintermute policy chief calls for crypto lobby to ‘clean house’ in D.C.",
+      "description": "Wintermute's Ron Hammond says crypto needs a new strategy after repeated lobbying setbacks against established financial interests.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-11-20T14:36:10",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "呼吁加密行业在华盛顿清理游说策略。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注政策变化，调整策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+      "description": "The firm bought 934,968 Anthropic shares across six ETFs on the Claude maker’s Nasdaq debut while trimming a combined $4.1 million from its Ethereum and Solana staking ETFs.",
+      "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-11-20T18:46:03",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "Cathie Wood",
+        "Anthropic"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Cathie Wood 在减少加密投资的同时投资 Anthropic IPO。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币投资动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注市场动态，评估投资策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default",
+      "description": "The UK crypto trade group broadly backed the regulator's proposed perimeter guidance, but warned that parts of it go further than the law.",
+      "url": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-11-20T10:07:46",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "CryptoUK呼吁FCA不要默认监管DeFi开发者。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化对业务的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "World Bank Group to explore regulated stablecoin payment infrastructure - Digital Watch Observatory",
+      "description": "World Bank Group to explore regulated stablecoin payment infrastructure&nbsp;&nbsp;Digital Watch Observatory",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11SVRDamtGaXZtYUlENEJVYlFDNDRFblp4Z3RyazdrNHNRUGM4bU1TUmgwSDJnVHlueHdVUUJzVDNRdWZKZXB0UU1tWVlPOXZ2RkhORHlnSGtKVnREMzNkYU9DSUN3dlpqalRSSFdBRFF4NW8wLXJrcVAzRVU?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-11-20T10:35:33",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "世界银行探索稳定币支付基础设施的监管方案。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币支付基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注稳定币监管政策变化。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Pulsar Enables USDT Deposits on TRON, Expanding Access to Everyday Stablecoin Payments - BeInCrypto",
+      "description": "Pulsar Enables USDT Deposits on TRON, Expanding Access to Everyday Stablecoin Payments&nbsp;&nbsp;BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sUkRFQkxSckpkMjNQOUNEc0dNT1AzbVNPZktrX1BOMHJLVVY1REZFeFpWdF8wT2dJZVd6NlpBU2lvWEF2elBMZjl0Qk0xMmJKVDFRa0U3RTdiZmFUcUdkZWsteElscHM?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-11-20T12:46:06",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Pulsar在TRON上支持USDT存款，推动稳定币支付普及。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币支付技术的发展动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Black Swan Summit Cambodia Takes Bakong Cross-Border With Stablecoin and Bond Tokenization Pilots - Disruption Banking",
+      "description": "Black Swan Summit Cambodia Takes Bakong Cross-Border With Stablecoin and Bond Tokenization Pilots&nbsp;&nbsp;Disruption Banking",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMzlwOHUxS1NsX0gzQnE3WEpoNDVsN0FpVk9KRGZlb0xYVkR1YjV4WjdUX0tkZEVCYjJWa3VzOEp0SjhUY0luT25FTFFFUnJOSmktM0Ntd3F5MzZzQ2lnQXl6OEFaWHNfUnFDVlFPbUMyLXQ5MVVpYkFVQlBzdEFULVVZN1JQbFdIQ1E3aUh4REtTVTNXaGNxSndrZlh6am42QThVSkZOV21tdUY3MUI4YVRRZl85aWI2WVRoMjRKN21RSjdvemwySDVMaUFVeFNHVjFjQy1kWDBzSlU?oc=5",
+      "source": "Google News (cross-border stablecoin)",
+      "source_category": "google_news",
+      "published_at": "2026-11-20T15:45:53",
+      "data_type": "rss",
+      "search_keyword": "cross-border stablecoin",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "柬埔寨Bakong项目与稳定币和债券代币化相关。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币和跨境支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币在跨境支付中的应用",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Tether Invests in SCRYPT to Scale Institutional Stablecoin Infrastructure - FF News",
+      "description": "Tether Invests in SCRYPT to Scale Institutional Stablecoin Infrastructure&nbsp;&nbsp;FF News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWhxT3hZS0I3OHhIbDl4RTBjSGlMRDc1a2ZRc2NSQm1RVE9hZGdlS3hoZUFIalJ4UUhLQXNHV1RJcktlYXU0Ql9fczRnRjhOMmVRVU9FdEpZeWRiVUFfQ3NtOGV5V1VZQ0pYSnNCenVoRGt6b24yTnlPeFFqcEZ0ZDlsd0FXTHBsZGdUQTdBcnlERmo5MjJUX2NIdllJV29l?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-11-20T10:19:57",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Tether",
+        "SCRYPT"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Tether投资SCRYPT以扩展稳定币基础设施。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币基础设施投资",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "技术发展",
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注稳定币基础设施的技术进展。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    }
+  ],
+  "company": [
+    {
+      "id": "news_c5a2d3aeed96",
+      "title": "MoonPay Applies for National Trust Bank Charter to Offer Stablecoin and Custody Services",
+      "content": "Crypto payments company MoonPay has applied to form a national trust bank that would issue and redeem stablecoins, manage their reserves and hold digital assets for clients, according to a filing made public this week.\nMoonPay is the latest in a wave of crypt…",
+      "url": "https://biztoc.com/x/e679001f0ddeb290",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-20T03:58:27Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": null,
+        "title": "MoonPay Applies for National Trust Bank Charter to Offer Stablecoin and Custody Services",
+        "description": "Crypto payments company MoonPay has applied to form a national trust bank that would issue and redeem stablecoins, manage their reserves and hold digital assets for clients, according to a filing made public this week.\nMoonPay is the latest in a wave of crypt…",
+        "url": "https://biztoc.com/x/e679001f0ddeb290",
+        "urlToImage": "https://cdn.biztoc.com/e679001f0ddeb290_s.webp",
+        "publishedAt": "2026-11-20T03:58:27Z",
+        "content": "Crypto payments company MoonPay has applied to form a national trust bank that would issue and redeem stablecoins, manage their reserves and hold digital assets for clients, according to a filing mad… [+145 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "MoonPay"
+      ],
+      "importance_score": 8,
+      "ai_summary": "MoonPay申请国家信托银行牌照以提供稳定币和托管服务。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币托管业务",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "客户争夺",
+        "市场定价"
+      ],
+      "suggested_action": "关注MoonPay的市场动态，评估竞争策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    }
+  ],
+  "funding": []
+}
