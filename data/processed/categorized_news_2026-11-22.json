@@ -1,0 +1,1338 @@
+{
+  "policy": [
+    {
+      "id": "news_403c4462a36d",
+      "title": "Nigeria’s crypto economy down 3%",
+      "content": "Nigeria’s crypto economy fell 3% to $38.1bn in the year to June 2026, Chainalysis says, as DEX activity dropped 45% amid tighter SEC and CBN regulation.\n\nRead More: https://punchng.com/nigerias-crypto-economy-down-3/",
+      "url": "https://punchng.com/nigerias-crypto-economy-down-3/",
+      "source": "The Punch",
+      "source_type": "news",
+      "author": "Justice Okamgba",
+      "published_at": "2026-11-21T00:41:20Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Punch"
+        },
+        "author": "Justice Okamgba",
+        "title": "Nigeria’s crypto economy down 3%",
+        "description": "Nigeria’s crypto economy fell 3% to $38.1bn in the year to June 2026, Chainalysis says, as DEX activity dropped 45% amid tighter SEC and CBN regulation.\n\nRead More: https://punchng.com/nigerias-crypto-economy-down-3/",
+        "url": "https://punchng.com/nigerias-crypto-economy-down-3/",
+        "urlToImage": "https://punchng.com/wp-content/uploads/2026/08/8crypto_1785836790.webp",
+        "publishedAt": "2026-11-21T00:41:20Z",
+        "content": "Nigerias cryptocurrency economy contracted by three per cent to $38.1bn or N51.44tn in the year to June 2026, despite remaining one of the largest digital asset markets in Sub-Saharan Africa, as acti… [+4955 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "尼日利亚的加密经济下滑3%。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注尼日利亚市场变化对业务的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_f5a371bf4ba9",
+      "title": "DBS is building two paths for 24/7 dollars with JPMorgan and Circle using USDC",
+      "content": "The partners say eligible clients in Asia would be able to redeem USDC through DBS with near-instant, round-the-clock settlement.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+      "url": "https://cryptoslate.com/dbs-is-building-two-paths-for-24-7-dollars-with-jpmorgan-and-circle-using-usdc/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam Akiba Wright",
+      "published_at": "2026-11-21T00:50:53Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam Akiba Wright",
+        "title": "DBS is building two paths for 24/7 dollars with JPMorgan and Circle using USDC",
+        "description": "The partners say eligible clients in Asia would be able to redeem USDC through DBS with near-instant, round-the-clock settlement.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+        "url": "https://cryptoslate.com/dbs-is-building-two-paths-for-24-7-dollars-with-jpmorgan-and-circle-using-usdc/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/11/dbs-usdc-redemption-960x720.webp",
+        "publishedAt": "2026-11-21T00:50:53Z",
+        "content": "DBS and Circle announced a partnership on Nov. 18 to let eligible institutions in Asia turn USDC back into US dollars directly through DBS.\r\nFor treasury teams that hold the stablecoin, the bank rout… [+2828 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "DBS",
+        "JPMorgan",
+        "Circle"
+      ],
+      "importance_score": 8,
+      "ai_summary": "DBS与JPMorgan和Circle合作推动USDC的24/7支付服务。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币USDC",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币支付市场的动态与发展",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_b3fbb89281ee",
+      "title": "Binance hack: $2.82 billion frozen, only $32 million recovered",
+      "content": "The Binance hack underscores the challenges of asset recovery in crypto, highlighting vulnerabilities in exchange security and legal complexities.\nThe post Binance hack: $2.82 billion frozen, only $32 million recovered appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/binance-hack-frozen-funds-recovery/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-11-21T02:06:46Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Binance hack: $2.82 billion frozen, only $32 million recovered",
+        "description": "The Binance hack underscores the challenges of asset recovery in crypto, highlighting vulnerabilities in exchange security and legal complexities.\nThe post Binance hack: $2.82 billion frozen, only $32 million recovered appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/binance-hack-frozen-funds-recovery/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/20210636/library-binance-hack-2-82-billion-frozen-only-32-million-recover-800x450.jpg",
+        "publishedAt": "2026-11-21T02:06:46Z",
+        "content": "Three weeks after the $6.4 billion breach, investigators say most stolen funds remain frozen rather than returnedThree weeks after the $6.4 billion Binance hack, investigators report that authorities… [+3684 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Binance"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Binance遭遇黑客攻击，冻结大量资金。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全性提升与市场反应。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_610fd4c30521",
+      "title": "Former Tether associates launch Kintsugi Capital to chase yield on Tether Gold",
+      "content": "Kintsugi Capital's launch could diversify gold investment strategies, but its success hinges on managing risks tied to Tether Gold's performance.\nThe post Former Tether associates launch Kintsugi Capital to chase yield on Tether Gold appeared first on Crypto …",
+      "url": "https://cryptobriefing.com/kintsugi-capital-tether-gold-xaut-yield-fund/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-11-21T02:35:33Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Former Tether associates launch Kintsugi Capital to chase yield on Tether Gold",
+        "description": "Kintsugi Capital's launch could diversify gold investment strategies, but its success hinges on managing risks tied to Tether Gold's performance.\nThe post Former Tether associates launch Kintsugi Capital to chase yield on Tether Gold appeared first on Crypto …",
+        "url": "https://cryptobriefing.com/kintsugi-capital-tether-gold-xaut-yield-fund/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/20213521/library-former-tether-associates-launch-kintsugi-capital-to-chas-800x450.jpg",
+        "publishedAt": "2026-11-21T02:35:33Z",
+        "content": "The Cayman Islands fund targets a net return of roughly 4% above gold and hopes to reach $100 million in assets within a yearGold has a reputation problem. It holds value, but it mostly just sits the… [+2783 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Tether"
+      ],
+      "importance_score": 7,
+      "ai_summary": "前Tether关联方成立Kintsugi Capital，关注Tether Gold收益",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币相关业务",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注稳定币市场动态",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_8bb60e67f62e",
+      "title": "Sky offers nearly 30% yield but 99.96% of its lending vault is unavailable for immediate withdrawals",
+      "content": "Spark’s November 20 reading showed about 0.04% of vault assets available for immediate withdrawals.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+      "url": "https://cryptoslate.com/sky-offers-nearly-30-yield-but-99-96-of-its-lending-vault-is-unavailable-for-immediate-withdrawals/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam Akiba Wright",
+      "published_at": "2026-11-21T04:10:34Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam Akiba Wright",
+        "title": "Sky offers nearly 30% yield but 99.96% of its lending vault is unavailable for immediate withdrawals",
+        "description": "Spark’s November 20 reading showed about 0.04% of vault assets available for immediate withdrawals.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+        "url": "https://cryptoslate.com/sky-offers-nearly-30-yield-but-99-96-of-its-lending-vault-is-unavailable-for-immediate-withdrawals/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/11/sky-vault-withdrawal-960x720.webp",
+        "publishedAt": "2026-11-21T04:10:34Z",
+        "content": "Skys stUSDS lending vault had $60,484 worth of USDS available for immediate withdrawals at 17:50 UTC on Nov. 20, about 0.04% of the vaults $161.6 million in total assets, according to Spark.\r\nSparks … [+2961 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Sky的借贷流动性问题可能影响市场趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到借贷和流动性问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注借贷市场流动性变化。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_8d1907fd5471",
+      "title": "Variational’s $1.5 billion trading business has a catch even profitable traders cannot escape",
+      "content": "More dealers could help Omni handle larger trades, while customers still rely on its in-house market maker to pay their gains.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+      "url": "https://cryptoslate.com/variationals-1-5-billion-trading-business-has-a-catch-even-profitable-traders-cannot-escape/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam Akiba Wright",
+      "published_at": "2026-11-21T06:30:53Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam Akiba Wright",
+        "title": "Variational’s $1.5 billion trading business has a catch even profitable traders cannot escape",
+        "description": "More dealers could help Omni handle larger trades, while customers still rely on its in-house market maker to pay their gains.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+        "url": "https://cryptoslate.com/variationals-1-5-billion-trading-business-has-a-catch-even-profitable-traders-cannot-escape/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/11/variational-trading-capacity-960x720.webp",
+        "publishedAt": "2026-11-21T06:30:53Z",
+        "content": "Variational raised $110 million and plans to use it to lift trading limits on Omni, its derivatives platform.\r\nThe company is recruiting more dealers as it expands into more stock, index, commodity, … [+4003 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "报道了交易业务的挑战与动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及交易业务动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注交易市场变化，调整策略",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_af46d2e7737a",
+      "title": "Why the Falsified Fields Didn’t Matter: The 12-Second Relay Bug Behind the MIT Brothers’ MEV Acquittal",
+      "content": "A U.S. judge acquitted MIT brothers Anton and James Peraire-Bueno of wire fraud and money laundering over the $25 million Ethereum MEV exploit, finding no material misrepresentation.\nThe post Why the Falsified Fields Didn’t Matter: The 12-Second Relay Bug Beh…",
+      "url": "https://techreport.com/news/software/mit-brothers-mev-acquittal-relay-bug/",
+      "source": "Techreport.com",
+      "source_type": "news",
+      "author": "Krishi Chowdhary",
+      "published_at": "2026-11-21T01:10:33Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Techreport.com"
+        },
+        "author": "Krishi Chowdhary",
+        "title": "Why the Falsified Fields Didn’t Matter: The 12-Second Relay Bug Behind the MIT Brothers’ MEV Acquittal",
+        "description": "A U.S. judge acquitted MIT brothers Anton and James Peraire-Bueno of wire fraud and money laundering over the $25 million Ethereum MEV exploit, finding no material misrepresentation.\nThe post Why the Falsified Fields Didn’t Matter: The 12-Second Relay Bug Beh…",
+        "url": "https://techreport.com/news/software/mit-brothers-mev-acquittal-relay-bug/",
+        "urlToImage": "https://techreport.com/wp-content/uploads/2026/11/rDuGPSQJWsuhlq2g7wGhJ_ThdYYGhD.jpg",
+        "publishedAt": "2026-11-21T01:10:33Z",
+        "content": "U.S. District Judge Jessica G. L. Clarke on November 16 acquitted two MIT brothers of all charges in the $25 million Ethereum MEV exploit case.\r\nClarke granted Anton and James Peraire-Bueno a judgmen… [+3532 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "文章讨论了与加密技术相关的法律问题",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币技术问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注技术漏洞对行业的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_8a3bfa584b20",
+      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+      "content": "Hong Kong’s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2.",
+      "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Ezra Reguerra",
+      "published_at": "2026-11-21T05:40:35Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ezra Reguerra",
+        "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+        "description": "Hong Kong’s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2.",
+        "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Y9VC5TT6XQ46DCK68VGC0X/regulation-hong-kong-1280x853.webp",
+        "publishedAt": "2026-11-21T05:40:35Z",
+        "content": "Hong Kong has published a bill that would bring crypto custodians, advisers and other virtual asset service providers under mandatory licensing or registration, extending oversight beyond trading pla… [+1513 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "香港推动加密托管和顾问的监管政策。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及加密监管政策",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注香港监管动态，评估合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_d0f07b849e19",
+      "title": "Ether Falls 10% to Near $1,550 as Four-Week Loss Reaches 35%",
+      "content": "Ether price fell about 10% to near $1,550 on Nov. 21, extending its four-week loss to 35% as Bitcoin, Solana and other major tokens also declined.\nThe post Ether Falls 10% to Near $1,550 as Four-Week Loss Reaches 35% appeared first on Bitcoin Foundation.",
+      "url": "https://bitcoinfoundation.org/news/ethereum/ether-falls-10-to-near-1-550-as-four-week-loss-reaches-35/",
+      "source": "Bitcoinfoundation.org",
+      "source_type": "news",
+      "author": "Eddie Muller",
+      "published_at": "2026-11-21T06:21:13Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Bitcoinfoundation.org"
+        },
+        "author": "Eddie Muller",
+        "title": "Ether Falls 10% to Near $1,550 as Four-Week Loss Reaches 35%",
+        "description": "Ether price fell about 10% to near $1,550 on Nov. 21, extending its four-week loss to 35% as Bitcoin, Solana and other major tokens also declined.\nThe post Ether Falls 10% to Near $1,550 as Four-Week Loss Reaches 35% appeared first on Bitcoin Foundation.",
+        "url": "https://bitcoinfoundation.org/news/ethereum/ether-falls-10-to-near-1-550-as-four-week-loss-reaches-35/",
+        "urlToImage": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/ether-falls-10-to-near-1-550-as-four-week-loss-reaches-35.webp",
+        "publishedAt": "2026-11-21T06:21:13Z",
+        "content": "Ether price fell near $1,550 on Nov. 21, down about 35% in four weeks as a broader crypto selloff deepened. The decline has also pressured crypto-linked portfolios, though one investment firms ETF sa… [+3604 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "以太坊价格大幅下跌，市场趋势不佳。",
+      "business_relevance": 0.5,
+      "relevance_reason": "加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注市场变化，调整策略",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_d3d010842440",
+      "title": "XRP Selloff: $18M in Long Liquidations as ETF Assets Slip Below $1B",
+      "content": "The XRP selloff pushed the token below November lows as 10% vanished, $18M in futures longs unwound, and U.S. ETF assets fell below $1B in one day.\nThe post XRP Selloff: $18M in Long Liquidations as ETF Assets Slip Below $1B appeared first on Bitcoin Foundati…",
+      "url": "https://bitcoinfoundation.org/news/altcoins/xrp-selloff-18m-in-long-liquidations-as-etf-assets-slip-below-1b/",
+      "source": "Bitcoinfoundation.org",
+      "source_type": "news",
+      "author": "Eddie Muller",
+      "published_at": "2026-11-21T06:20:22Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Bitcoinfoundation.org"
+        },
+        "author": "Eddie Muller",
+        "title": "XRP Selloff: $18M in Long Liquidations as ETF Assets Slip Below $1B",
+        "description": "The XRP selloff pushed the token below November lows as 10% vanished, $18M in futures longs unwound, and U.S. ETF assets fell below $1B in one day.\nThe post XRP Selloff: $18M in Long Liquidations as ETF Assets Slip Below $1B appeared first on Bitcoin Foundati…",
+        "url": "https://bitcoinfoundation.org/news/altcoins/xrp-selloff-18m-in-long-liquidations-as-etf-assets-slip-below-1b/",
+        "urlToImage": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/xrp-selloff-18m-in-long-liquidations-as-etf-assets-slip-below-1b.webp",
+        "publishedAt": "2026-11-21T06:20:22Z",
+        "content": "XRP$0.8692 crashed below its November lows during Saturdays selloff on November 21, trading at $0.870502 as of 06:00 UTC. The token tumbled 10.16488% in 24 hours while $18 million in futures position… [+9951 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "XRP市场动态影响整体加密行业趋势。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态以调整策略",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_7429147730c9",
+      "title": "Communist Deputies Want Seized Crypto Added to Russia’s $719B Reserves",
+      "content": "Five KPRF deputies asked Bank of Russia Governor Elvira Nabiullina to add crypto confiscated in corruption cases to Russia's gold and FX reserves, with a capped share.",
+      "url": "https://www.dcforecasts.com/bitcoin-news/seized-crypto-russia-reserves-kprf-bank-of-russia/",
+      "source": "Dcforecasts.com",
+      "source_type": "news",
+      "author": "Andrew",
+      "published_at": "2026-11-21T07:29:05Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dcforecasts.com"
+        },
+        "author": "Andrew",
+        "title": "Communist Deputies Want Seized Crypto Added to Russia’s $719B Reserves",
+        "description": "Five KPRF deputies asked Bank of Russia Governor Elvira Nabiullina to add crypto confiscated in corruption cases to Russia's gold and FX reserves, with a capped share.",
+        "url": "https://www.dcforecasts.com/bitcoin-news/seized-crypto-russia-reserves-kprf-bank-of-russia/",
+        "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2026/11/seized-crypto-russia-reserves-kprf-bank-of-russia.webp",
+        "publishedAt": "2026-11-21T07:29:05Z",
+        "content": "Russia’s communist lawmakers want seized crypto to stop gathering dust and start sitting in the country’s official reserves.\r\nFive deputies from the Communist Party (KPRF) faction in the State Duma h… [+5675 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "俄罗斯希望将没收的加密货币纳入外汇储备。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注俄罗斯的加密货币政策变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_17febe596b48",
+      "title": "Kalshi Lawsuit Goes Back to New York State Court After 112 Days in Federal Court",
+      "content": "Judge Vernon Broderick found no federal jurisdiction over New York's case against Kalshi, sending it back to a Manhattan state court where the Attorney General can seek fast-track relief.",
+      "url": "https://www.dcforecasts.com/regulation/kalshi-lawsuit-new-york-state-court-remand/",
+      "source": "Dcforecasts.com",
+      "source_type": "news",
+      "author": "Andrew",
+      "published_at": "2026-11-21T02:08:36Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dcforecasts.com"
+        },
+        "author": "Andrew",
+        "title": "Kalshi Lawsuit Goes Back to New York State Court After 112 Days in Federal Court",
+        "description": "Judge Vernon Broderick found no federal jurisdiction over New York's case against Kalshi, sending it back to a Manhattan state court where the Attorney General can seek fast-track relief.",
+        "url": "https://www.dcforecasts.com/regulation/kalshi-lawsuit-new-york-state-court-remand/",
+        "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2026/11/kalshi-lawsuit-new-york-state-court-remand.webp",
+        "publishedAt": "2026-11-21T02:08:36Z",
+        "content": "New York’s Kalshi lawsuit is back in a Manhattan state court after a federal judge ruled on Nov. 19 that he had no jurisdiction to hear it, handing Attorney General Letitia James the home-court route… [+5995 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto regulation",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Kalshi的诉讼回归纽约州法院，可能影响行业动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及法律诉讼，间接影响行业",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "竞争格局"
+      ],
+      "industry_action": "关注诉讼结果对行业的潜在影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_006768354591",
+      "title": "Japan Caught Between China, Russia and Trump's Changing World Order",
+      "content": "Japan faces one of its most difficult diplomatic challenges in decades as US President Donald Trump pursues closer engagement with China and Russia, Prime Minister Sanae Takaichi struggles to repair relations with Beijing, and a changing international order r…",
+      "url": "https://newsonjapan.com/article/151478.php",
+      "source": "Newsonjapan.com",
+      "source_type": "news",
+      "author": "日本夹在中国、俄罗斯与特朗普重塑的世界秩序之间, 随着美国总统特朗普积极推动与中国和俄罗斯加强接触，日本首相高市早苗却在修复与北京的关系方面面临困难。在国际秩序不断变化的背景下，日本正面临数十年来最严峻的外交挑战之一。东京能否在不被排除于世界主要大国重大决策之外的同时，维护自身的国家安全与经济利益，正成为外界关注的焦点",
+      "published_at": "2026-11-21T02:44:59Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Newsonjapan.com"
+        },
+        "author": "日本夹在中国、俄罗斯与特朗普重塑的世界秩序之间, 随着美国总统特朗普积极推动与中国和俄罗斯加强接触，日本首相高市早苗却在修复与北京的关系方面面临困难。在国际秩序不断变化的背景下，日本正面临数十年来最严峻的外交挑战之一。东京能否在不被排除于世界主要大国重大决策之外的同时，维护自身的国家安全与经济利益，正成为外界关注的焦点",
+        "title": "Japan Caught Between China, Russia and Trump's Changing World Order",
+        "description": "Japan faces one of its most difficult diplomatic challenges in decades as US President Donald Trump pursues closer engagement with China and Russia, Prime Minister Sanae Takaichi struggles to repair relations with Beijing, and a changing international order r…",
+        "url": "https://newsonjapan.com/article/151478.php",
+        "urlToImage": "https://i2.ytimg.com/vi/nUhTKc8XyJc/maxresdefault.jpg",
+        "publishedAt": "2026-11-21T02:44:59Z",
+        "content": "TOKYO -\r\n Japan faces one of its most difficult diplomatic challenges in decades as US President Donald Trump pursues closer engagement with China and Russia, Prime Minister Sanae Takaichi struggles … [+21435 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "日本在国际局势中面临挑战，可能影响加密行业发展。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到国际局势影响",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注国际局势对加密市场的潜在影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_761f4640dd3e",
+      "title": "Deadline acquisition Ray posts solid stretch with Friars",
+      "content": "Roster Review: Robbie Ray",
+      "url": "https://www.gaslampball.com/san-diego-padres-roster/63430/deadline-acquisition-ray-posts-solid-stretch-with-friars",
+      "source": "Gaslampball.com",
+      "source_type": "news",
+      "author": "Lincoln Zdunich",
+      "published_at": "2026-11-21T01:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Gaslampball.com"
+        },
+        "author": "Lincoln Zdunich",
+        "title": "Deadline acquisition Ray posts solid stretch with Friars",
+        "description": "Roster Review: Robbie Ray",
+        "url": "https://www.gaslampball.com/san-diego-padres-roster/63430/deadline-acquisition-ray-posts-solid-stretch-with-friars",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/1164947c106ec560a4b9143123d451a7dd3be2c9b8da1d2734a87694842550f8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fc6eeac8fe9f5cb880e43da86c93de90d.jpg",
+        "publishedAt": "2026-11-21T01:00:00Z",
+        "content": "Welcome to our series grading every member of the San Diego Padres' 40-man roster. The roster being evaluated is current as of Oct. 18, prior to the end of the World Series. Because of that, it will … [+1920 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_2ac3740e3def",
+      "title": "Draws Takeover Interest In Reported Acquisition Talks",
+      "content": "CrowdStrike Holdings is reportedly in talks to acquire Zscaler (NasdaqGS: ZS) in a major cybersecurity sector deal.\n- The potential transaction would be one of the largest mergers in cloud and AI driven security so far.\n- Discussions reportedly focus on combi…",
+      "url": "https://biztoc.com/x/10e4a5d5547c1efa",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-21T08:18:52Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": null,
+        "title": "Draws Takeover Interest In Reported Acquisition Talks",
+        "description": "CrowdStrike Holdings is reportedly in talks to acquire Zscaler (NasdaqGS: ZS) in a major cybersecurity sector deal.\n- The potential transaction would be one of the largest mergers in cloud and AI driven security so far.\n- Discussions reportedly focus on combi…",
+        "url": "https://biztoc.com/x/10e4a5d5547c1efa",
+        "urlToImage": "https://cdn.biztoc.com/10e4a5d5547c1efa_s.webp",
+        "publishedAt": "2026-11-21T08:18:52Z",
+        "content": "CrowdStrike Holdings is reportedly in talks to acquire Zscaler (NasdaqGS: ZS) in a major cybersecurity sector deal.- The potential transaction would be one of the largest mergers in cloud and AI driv… [+146 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "报道涉及收购谈判的行业动态",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及收购谈判",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场收购动态，评估潜在影响",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_7fe3d7a25f5d",
+      "title": "cadl-lang 0.3.38",
+      "content": "Contract Architecture Description Language — a DSL for formally specifying, verifying, and deploying institutional designs in System of Systems",
+      "url": "https://pypi.org/project/cadl-lang/0.3.38/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-21T01:46:46Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "cadl-lang 0.3.38",
+        "description": "Contract Architecture Description Language — a DSL for formally specifying, verifying, and deploying institutional designs in System of Systems",
+        "url": "https://pypi.org/project/cadl-lang/0.3.38/",
+        "urlToImage": null,
+        "publishedAt": "2026-11-21T01:46:46Z",
+        "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_1dec21236325",
+      "title": "NUC approves Oyinlola’s university in Osun",
+      "content": "NUC approves Alolade Oyinlola University in Okuku, Osun, with a provisional licence. OAU will mentor the institution for five years.\n\nRead More: https://punchng.com/nuc-approves-oyinlolas-university-in-osun/",
+      "url": "https://punchng.com/nuc-approves-oyinlolas-university-in-osun/",
+      "source": "The Punch",
+      "source_type": "news",
+      "author": "Saheed Oyelakin",
+      "published_at": "2026-11-21T07:22:44Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Punch"
+        },
+        "author": "Saheed Oyelakin",
+        "title": "NUC approves Oyinlola’s university in Osun",
+        "description": "NUC approves Alolade Oyinlola University in Okuku, Osun, with a provisional licence. OAU will mentor the institution for five years.\n\nRead More: https://punchng.com/nuc-approves-oyinlolas-university-in-osun/",
+        "url": "https://punchng.com/nuc-approves-oyinlolas-university-in-osun/",
+        "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/11/21080805/WhatsApp-Image-2026-11-21-at-6.38.50-AM_1795244885-1143x630.webp",
+        "publishedAt": "2026-11-21T07:22:44Z",
+        "content": "The National Universities Commission has approved the establishment of Alolade Oyinlola University in Okuku, Osun State, founded by former Governor of the state, Prince Olagunsoye Oyinlola.\r\nThe appr… [+3166 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_3ccc2020cbde",
+      "title": "Hydromancer – Hydromancer provides Hyperliquid APIs with real-time and historical data",
+      "content": "Hydromancer provides Hyperliquid APIs with real-time and historical data",
+      "url": "https://betalist.com/startups/hydromancer",
+      "source": "Betalist.com",
+      "source_type": "news",
+      "author": "BetaList",
+      "published_at": "2026-11-21T08:15:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Betalist.com"
+        },
+        "author": "BetaList",
+        "title": "Hydromancer – Hydromancer provides Hyperliquid APIs with real-time and historical data",
+        "description": "Hydromancer provides Hyperliquid APIs with real-time and historical data",
+        "url": "https://betalist.com/startups/hydromancer",
+        "urlToImage": "https://resize.imagekit.co/z9xebgDAsHRSl1fPcUjZW5TbgHmEGe8YP93kdkf9LBI/plain/s3://betalist-production/cm9h07sde6xci96dc79e7t9u9cut",
+        "publishedAt": "2026-11-21T08:15:00Z",
+        "content": "Hydromancer is a data and infrastructure platform for the Hyperliquid ecosystem. It offers REST APIs, real-time WebSocket feeds, L2 and L4 orderbook streaming, and historical market datasets for deve… [+323 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Hydromancer 提供区块链数据服务。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "市场趋势"
+      ],
+      "industry_action": "关注区块链数据服务的市场动态。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_86bf6f976190",
+      "title": "Krikya11 App Payment Methods for Bangladeshi Players – Fast Deposits & Same?Day Withdrawals",
+      "content": "Krikya11 App – Your Complete Practical Guide for Bangladeshi Players Getting Started: Registration & Mobile Installation The first thing you’ll notice about the Krikya11 app is how quickly it loads on a typical 4G connection in Dhaka or Chittagong. After tapp…",
+      "url": "https://learningjquery.com/2026/11/krikya11-app-payment-methods-for-bangladeshi-players-fast-deposits-same-day-withdrawals",
+      "source": "Learningjquery.com",
+      "source_type": "news",
+      "author": "JÃ¶rn Zaefferer",
+      "published_at": "2026-11-21T03:33:12Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Learningjquery.com"
+        },
+        "author": "JÃ¶rn Zaefferer",
+        "title": "Krikya11 App Payment Methods for Bangladeshi Players – Fast Deposits & Same?Day Withdrawals",
+        "description": "Krikya11 App – Your Complete Practical Guide for Bangladeshi Players Getting Started: Registration & Mobile Installation The first thing you’ll notice about the Krikya11 app is how quickly it loads on a typical 4G connection in Dhaka or Chittagong. After tapp…",
+        "url": "https://learningjquery.com/2026/11/krikya11-app-payment-methods-for-bangladeshi-players-fast-deposits-same-day-withdrawals",
+        "urlToImage": null,
+        "publishedAt": "2026-11-21T03:33:12Z",
+        "content": "Getting Started: Registration &amp; Mobile Installation\r\nThe first thing youll notice about the Krikya11 app is how quickly it loads on a typical 4G connection in Dhaka or Chittagong. After tapping t… [+6866 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "wallet",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Krikya11 App 提供快速支付服务。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到支付方式",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注支付技术的进展与趋势。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_00a3f6fcd633",
+      "title": "Binance Hack Launderers Have Mixed 2,310 BTC, Most of It Since Tuesday",
+      "content": "Elliptic says at least 2,310 BTC tied to the Binance hack has gone through coinjoins, about 90% of it from Nov. 17 to 20, as 488,000 ETH left the attacker's largest wallets. The 18,270 BTC stolen directly still hasn't moved.",
+      "url": "https://www.dcforecasts.com/binance-news/binance-hack-coinjoins-2310-btc-kruw/",
+      "source": "Dcforecasts.com",
+      "source_type": "news",
+      "author": "Andrew",
+      "published_at": "2026-11-21T00:47:36Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dcforecasts.com"
+        },
+        "author": "Andrew",
+        "title": "Binance Hack Launderers Have Mixed 2,310 BTC, Most of It Since Tuesday",
+        "description": "Elliptic says at least 2,310 BTC tied to the Binance hack has gone through coinjoins, about 90% of it from Nov. 17 to 20, as 488,000 ETH left the attacker's largest wallets. The 18,270 BTC stolen directly still hasn't moved.",
+        "url": "https://www.dcforecasts.com/binance-news/binance-hack-coinjoins-2310-btc-kruw/",
+        "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2026/11/binance-hack-coinjoins-2310-btc-kruw.webp",
+        "publishedAt": "2026-11-21T00:47:36Z",
+        "content": "The Binance hack laundering has shifted into a faster gear, and this time the activity is showing up inside Bitcoin coinjoins.\r\nAt least 2,310 BTC tied to the Oct. 29 theft, worth about $149 million,… [+5745 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "custody audit",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Binance黑客洗钱事件涉及比特币动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及比特币洗钱事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注洗钱监管政策的变化",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+      "description": "The agency says eight Colorado-registered entities, likely run from overseas, posed as legitimate advisers and crypto platforms—even faking SEC certificates and filings—to defraud U.S. investors of more than $37 million.",
+      "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-11-21T17:01:02",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "SEC指控假加密交易所欺诈投资者3700万美元。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，确保合规性。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "GENIUS Act: OCC Final Rule for Payment Stablecoin Issuers - kpmg.com",
+      "description": "GENIUS Act: OCC Final Rule for Payment Stablecoin Issuers&nbsp;&nbsp;kpmg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZVhDODg1WmdGMXRaMW5UY3JXMXRkX01JQUVLMlhLWGpScW52ek9wNlNhV0NxWHFjVHUtbEQ4bkFKTVY3M0kwUGVRV0xoWnE0MW9DWG1SbndCYS1uYkc2N2VxdXUzYUo5dTlrTTFVNEdiNTNZYmhOTHl5VkZ3emIwZjA3VkR3aFNSNmUzS1NzYlVEa1B0Mm5kUXJpLURvdmNvRHJ6S0FlZmJkTUhu?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-11-21T09:29:10",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "GENIUS法案涉及稳定币发行的监管规则。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币监管政策",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注新规对稳定币市场的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Visa Pulls Stablecoins Out of the Lab: Why This Week Marks Payments' Real Inflection Point - FinanceX Magazine",
+      "description": "Visa Pulls Stablecoins Out of the Lab: Why This Week Marks Payments' Real Inflection Point&nbsp;&nbsp;FinanceX Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXJSalpJY3FnUkgzRk4zOUlZYnFQLTFBcVZxMGlvWGZUbmh0YUxVdDFsY2xjQWV4QUpfUVVzZlJHZDJlcEgwUVdmWmtmOE1YMHhpTTlKTWJBTjFzQW5hSVJsNVlvSlZEdG5fOGoyVEFLSmEwOGdncjFja2JuY2loMzlVTVhpWHNIUl9MZFdBRG1PWERnYUVrcQ?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-11-21T15:34:55",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Visa"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Visa 推出稳定币支付，标志支付行业转折点。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币支付的市场动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Chainalysis Finds 55% Jump in China-Linked Stablecoin Payments Tied to AI Proxy Access - BigGo Finance",
+      "description": "Chainalysis Finds 55% Jump in China-Linked Stablecoin Payments Tied to AI Proxy Access&nbsp;&nbsp;BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOOENJelFNUTVyYjZqWU5VbEFYM084SnlHMUhEdWFwSTVLR3QzRVZMOGNTLVhlMlhKY1BRS3N5S2h0bTdPd0lxQW1yanY0UkhGd3NoU2VXekgtMzFsazZZNWNObFp6RFNsdEpFTGdkVXB0eEtNbEE?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-11-22T01:25:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "中国与稳定币支付相关的增长显著。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币支付增长",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态，调整策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Chainalysis reports 55% surge in China-linked stablecoin payments after US AI launches - Crypto Briefing",
+      "description": "Chainalysis reports 55% surge in China-linked stablecoin payments after US AI launches&nbsp;&nbsp;Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV0Q1STZOVllEWmZRZlVtNF9FbDU4Sk0zNUxCOFpfOWYwcEVYcE1oYjY4V05LRzBjR3dneFJ0bUQ3VHVwN1V1NmdWNkFhZVpwZ2FCdzdwWjBPYlM2XzVzZFpHczJlZjZkZWU1eFVRZ2E2WUszODRtZTlYZVpJV2podw?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-11-21T15:35:45",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "中国相关稳定币支付大幅增长。",
+      "business_relevance": 0.8,
+      "relevance_reason": "提到稳定币支付增长",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态，调整策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Hong Kong Publishes Bill To License Crypto Dealers, Advisers, Managers, Custodians: how 12 outlets framed it - NewsCord",
+      "description": "Hong Kong Publishes Bill To License Crypto Dealers, Advisers, Managers, Custodians: how 12 outlets framed it&nbsp;&nbsp;NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdjJXUTJqX3NUa2xWdWlIMnVIdWdNa0hoWGJDMTVQd3gtdE9SNy13LTNBRGk3dWFtZkNfcGhqLU9JWXd0LWdqa1FBTlVNWWltVUM2OWxDRHlCcUFIUFJtNHFqU2hUUW45RFc4OWxPVmE1ZmlWdEtCXzZEWHdkNUpNYnFGWFVUU2NHLTZPOEcwQzdGTDBhSzh1TjFxRkotNVBPS0lBUURmdFRqVkh6bHVXdVR0NXBZU2FYeVBwSGVhcEVDMmJZc1doU05Wd1hBQS03bDhYT2FOVEZyQUtkejAxTkl2Z0xuZEw1?oc=5",
+      "source": "Google News (stablecoin license)",
+      "source_category": "google_news",
+      "published_at": "2026-11-21T11:24:25",
+      "data_type": "rss",
+      "search_keyword": "stablecoin license",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "香港发布加密货币监管法案草案。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注香港监管政策的后续发展。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    }
+  ],
+  "company": [],
+  "funding": []
+}
