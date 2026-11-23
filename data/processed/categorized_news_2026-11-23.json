@@ -1,0 +1,2045 @@
+{
+  "policy": [
+    {
+      "id": "news_5d5c82c218af",
+      "title": "FDIC and FinCEN Send Final GENIUS Act Rules to the White House, 61 Days Out",
+      "content": "Final GENIUS Act stablecoin rules from the FDIC and from FinCEN and OFAC reached White House review on November 18, 61 days before the law takes effect.",
+      "url": "https://www.dcforecasts.com/regulation/genius-act-final-rules-fdic-fincen-white-house/",
+      "source": "Dcforecasts.com",
+      "source_type": "news",
+      "author": "Andrew",
+      "published_at": "2026-11-22T01:28:58Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dcforecasts.com"
+        },
+        "author": "Andrew",
+        "title": "FDIC and FinCEN Send Final GENIUS Act Rules to the White House, 61 Days Out",
+        "description": "Final GENIUS Act stablecoin rules from the FDIC and from FinCEN and OFAC reached White House review on November 18, 61 days before the law takes effect.",
+        "url": "https://www.dcforecasts.com/regulation/genius-act-final-rules-fdic-fincen-white-house/",
+        "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2026/11/genius-act-final-rules-fdic-fincen-white-house.webp",
+        "publishedAt": "2026-11-22T01:28:58Z",
+        "content": "The GENIUS Act rulebook moved a big step closer to completion this week. Final stablecoin rules from the FDIC and from Treasury’s FinCEN and OFAC are now under White House review, 61 days before the … [+5657 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "FDIC和FinCEN发布GENIUS法案规则，影响加密监管。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管变化对业务的潜在影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_1c440cc4242b",
+      "title": "Coinbase receives $237M USDC transfer from unknown wallet",
+      "content": "The large USDC transfer to Coinbase highlights the exchange's pivotal role in stablecoin liquidity, potentially signaling increased institutional activity.\nThe post Coinbase receives $237M USDC transfer from unknown wallet appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/coinbase-receives-237m-usdc-unknown-wallet/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Kaye Quema",
+      "published_at": "2026-11-22T09:06:42Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Kaye Quema",
+        "title": "Coinbase receives $237M USDC transfer from unknown wallet",
+        "description": "The large USDC transfer to Coinbase highlights the exchange's pivotal role in stablecoin liquidity, potentially signaling increased institutional activity.\nThe post Coinbase receives $237M USDC transfer from unknown wallet appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/coinbase-receives-237m-usdc-unknown-wallet/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/22040634/library-coinbase-receives-237m-usdc-transfer-from-unknown-wallet-800x450.jpg",
+        "publishedAt": "2026-11-22T09:06:42Z",
+        "content": "An unidentified wallet moved 237.3 million USDC onto Coinbase, adding to a busy stretch of large stablecoin flows around the exchangeAn unknown wallet just sent 237.3 million USDC to Coinbase. That i… [+3427 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Coinbase"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Coinbase接收237百万USDC转账，影响市场动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币USDC转账",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注USDC市场动态，评估潜在影响。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_c265095fa151",
+      "title": "Coinbase Premium Turns Negative, but 94% of the Gap Is Tether’s Discount",
+      "content": "The Coinbase premium has been negative all November, yet adjusting for USDT at 99.8 cents shrinks it to -0.008%. Here's what US Bitcoin demand shows.",
+      "url": "https://www.dcforecasts.com/analysis/coinbase-premium-tether-discount-usdt-adjusted/",
+      "source": "Dcforecasts.com",
+      "source_type": "news",
+      "author": "Andrew",
+      "published_at": "2026-11-22T02:32:31Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Dcforecasts.com"
+        },
+        "author": "Andrew",
+        "title": "Coinbase Premium Turns Negative, but 94% of the Gap Is Tether’s Discount",
+        "description": "The Coinbase premium has been negative all November, yet adjusting for USDT at 99.8 cents shrinks it to -0.008%. Here's what US Bitcoin demand shows.",
+        "url": "https://www.dcforecasts.com/analysis/coinbase-premium-tether-discount-usdt-adjusted/",
+        "urlToImage": "https://www.dcforecasts.com/wp-content/uploads/2026/11/coinbase-premium-tether-discount-usdt-adjusted.webp",
+        "publishedAt": "2026-11-22T02:32:31Z",
+        "content": "The Coinbase premium has been negative in every single hour since November 1, and many traders read that as proof that US buyers have walked away from Bitcoin.\r\nOur numbers tell a different story.\r\nF… [+5705 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Coinbase",
+        "Tether"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Coinbase的溢价转为负值，主要因Tether折扣影响。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币Tether折扣",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币市场动态，评估影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_18aa9d1dbd4a",
+      "title": "MF Markets adds 24/7 perpetual futures trading for Palo Alto Networks",
+      "content": "The 24/7 trading of Palo Alto Networks' perpetual futures could reshape market dynamics, offering global traders flexibility but increasing volatility.\nThe post MF Markets adds 24/7 perpetual futures trading for Palo Alto Networks appeared first on Crypto Bri…",
+      "url": "https://cryptobriefing.com/mf-markets-palo-alto-networks-24-7-trading/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-11-22T08:03:12Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "MF Markets adds 24/7 perpetual futures trading for Palo Alto Networks",
+        "description": "The 24/7 trading of Palo Alto Networks' perpetual futures could reshape market dynamics, offering global traders flexibility but increasing volatility.\nThe post MF Markets adds 24/7 perpetual futures trading for Palo Alto Networks appeared first on Crypto Bri…",
+        "url": "https://cryptobriefing.com/mf-markets-palo-alto-networks-24-7-trading/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/22030300/library-mf-markets-adds-24-7-perpetual-futures-trading-for-palo--800x450.jpg",
+        "publishedAt": "2026-11-22T08:03:12Z",
+        "content": "The self-custodial platform now lets anyone with a wallet trade PANW exposure around the clock, collateralized in USDCWall Street closes at 4 p.m. Eastern. Palo Alto Networks, at least one version of… [+4249 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "Palo Alto Networks"
+      ],
+      "importance_score": 5,
+      "ai_summary": "MF Markets推出24/7永续期货交易功能。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币交易动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_288474e717cb",
+      "title": "SEC Exposes $37 Million Crypto Scam: Fake Trading Platforms Allegedly Fleeced Over 1,500 Investors",
+      "content": "The U.S. Securities and Exchange Commission (SEC) charged eight Colorado-based entities on Nov. 19, Thursday, with operating a fake investment adviser and cryptocurrency trading platform scheme that stole more than $37 million from U.S. investors [1]. The SEC…",
+      "url": "https://www.naturalnews.com/2026-11-22-sec-exposes-crypto-scam-fake-trading-platforms.html",
+      "source": "Naturalnews.com",
+      "source_type": "news",
+      "author": "Sterling Ashworth",
+      "published_at": "2026-11-22T06:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Naturalnews.com"
+        },
+        "author": "Sterling Ashworth",
+        "title": "SEC Exposes $37 Million Crypto Scam: Fake Trading Platforms Allegedly Fleeced Over 1,500 Investors",
+        "description": "The U.S. Securities and Exchange Commission (SEC) charged eight Colorado-based entities on Nov. 19, Thursday, with operating a fake investment adviser and cryptocurrency trading platform scheme that stole more than $37 million from U.S. investors [1]. The SEC…",
+        "url": "https://www.naturalnews.com/2026-11-22-sec-exposes-crypto-scam-fake-trading-platforms.html",
+        "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/sec-enforcement-crypto-scam-fake-trading-platform-6968-ced03dd4-original.jpg",
+        "publishedAt": "2026-11-22T06:00:00Z",
+        "content": "The U.S. Securities and Exchange Commission (SEC) charged eight Colorado-based entities on Nov. 19, Thursday, with operating a fake investment adviser and cryptocurrency trading platform scheme that … [+6541 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "SEC揭露3700万美元加密诈骗案。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，评估合规风险。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_f3af173e5ee0",
+      "title": "Thai cyber police raid Chiang Mai exchange shop tied to 2.7 million USDT wallet",
+      "content": "The raid highlights vulnerabilities in Thailand's crypto market, emphasizing the need for stricter regulations to combat transnational money laundering.\nThe post Thai cyber police raid Chiang Mai exchange shop tied to 2.7 million USDT wallet appeared first on…",
+      "url": "https://cryptobriefing.com/thai-police-raid-chiang-mai-usdt-exchange/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-11-22T05:35:58Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Thai cyber police raid Chiang Mai exchange shop tied to 2.7 million USDT wallet",
+        "description": "The raid highlights vulnerabilities in Thailand's crypto market, emphasizing the need for stricter regulations to combat transnational money laundering.\nThe post Thai cyber police raid Chiang Mai exchange shop tied to 2.7 million USDT wallet appeared first on…",
+        "url": "https://cryptobriefing.com/thai-police-raid-chiang-mai-usdt-exchange/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/22003550/library-thai-cyber-police-raid-chiang-mai-exchange-shop-tied-to--800x450.jpg",
+        "publishedAt": "2026-11-22T05:35:58Z",
+        "content": "Authorities say a currency exchange front converted online scam proceeds into stablecoins while its alleged mastermind fled the countryA foreign currency exchange shop in Chiang Mai looked like an or… [+3501 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDT",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "泰国网络警察突袭与USDT钱包相关的交易所",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注泰国的加密监管动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "id": "news_07504921ca8f",
+      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+      "content": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.",
+      "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Ezra Reguerra",
+      "published_at": "2026-11-22T07:24:05Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ezra Reguerra",
+        "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+        "description": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.",
+        "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8127PW0MX9AKGQ6Y4GQ51JX/hand-laptop-coin.png",
+        "publishedAt": "2026-11-22T07:24:05Z",
+        "content": "South Korean crypto exchanges Upbit and Bithumb suspended deposits and withdrawals of CYBER after the project reported suspicious activity involving its cross-chain bridge.\r\nOn Sunday, Bithumb announ… [+1208 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "韩国交易所因桥接漏洞暂停CYBER转账。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注交易所安全动态，评估潜在影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_ad916af33f33",
+      "title": "Tokyo tax officials audit 91 crypto holders, uncover $24.5 million in unreported income",
+      "content": "Japan's enhanced crypto tax enforcement signals a global trend towards stricter compliance, urging investors to maintain transparent records.\nThe post Tokyo tax officials audit 91 crypto holders, uncover $24.5 million in unreported income appeared first on Cr…",
+      "url": "https://cryptobriefing.com/tokyo-tax-audit-91-crypto-holders/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-11-22T06:36:17Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Tokyo tax officials audit 91 crypto holders, uncover $24.5 million in unreported income",
+        "description": "Japan's enhanced crypto tax enforcement signals a global trend towards stricter compliance, urging investors to maintain transparent records.\nThe post Tokyo tax officials audit 91 crypto holders, uncover $24.5 million in unreported income appeared first on Cr…",
+        "url": "https://cryptobriefing.com/tokyo-tax-audit-91-crypto-holders/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/22013608/library-tokyo-tax-officials-audit-91-crypto-holders-uncover-24-5-800x450.jpg",
+        "publishedAt": "2026-11-22T06:36:17Z",
+        "content": "The Tokyo Regional Taxation Bureau used large-scale transaction data to flag crypto users and assessed $7.5 million in additional taxesJapan’s tax collectors have been reading the blockchain, and the… [+3003 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "东京税务官员审计加密货币持有者，发现未报告收入。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化对业务的影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_ca4d1ee2f965",
+      "title": "Russia’s Communist Party proposes adding seized crypto to national reserves",
+      "content": "Incorporating seized crypto into national reserves could diversify assets but raises concerns about volatility and regulatory challenges.\nThe post Russia’s Communist Party proposes adding seized crypto to national reserves appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/russia-communist-party-seized-crypto-reserves/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-11-22T03:35:13Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Russia’s Communist Party proposes adding seized crypto to national reserves",
+        "description": "Incorporating seized crypto into national reserves could diversify assets but raises concerns about volatility and regulatory challenges.\nThe post Russia’s Communist Party proposes adding seized crypto to national reserves appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/russia-communist-party-seized-crypto-reserves/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/21223505/library-russia-s-communist-party-proposes-adding-seized-crypto-t-800x450.jpg",
+        "publishedAt": "2026-11-22T03:35:13Z",
+        "content": "KPRF lawmakers asked the Bank of Russia to hold court-confiscated digital assets alongside gold and foreign currencyRussia’s Communist Party has a new idea for the country’s piggy bank: fill part of … [+2972 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "俄罗斯共产党提议将没收的加密货币纳入国家储备。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注俄罗斯的加密货币政策变化。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_30ce0bd47927",
+      "title": "This Under-the-Radar Crypto Stock Could Surprise Everyone",
+      "content": "If you only look at a stock chart for Securitize (NYSE: SECZ), you might miss the bigger picture.\nYes, Securitize is down 47% since it went public in July. But there's a fast-expanding financial trend that could significantly move the dial for Securitize in t…",
+      "url": "https://biztoc.com/x/6862c0276234c089",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-22T02:33:01Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": null,
+        "title": "This Under-the-Radar Crypto Stock Could Surprise Everyone",
+        "description": "If you only look at a stock chart for Securitize (NYSE: SECZ), you might miss the bigger picture.\nYes, Securitize is down 47% since it went public in July. But there's a fast-expanding financial trend that could significantly move the dial for Securitize in t…",
+        "url": "https://biztoc.com/x/6862c0276234c089",
+        "urlToImage": "https://cdn.biztoc.com/6862c0276234c089_s.webp",
+        "publishedAt": "2026-11-22T02:33:01Z",
+        "content": "If you only look at a stock chart for Securitize (NYSE: SECZ), you might miss the bigger picture.Yes, Securitize is down 47% since it went public in July. But there's a fast-expanding financial trend… [+148 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.6,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "该加密股票可能会引起关注。",
+      "business_relevance": 0.5,
+      "relevance_reason": "一般加密货币新闻",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_c21712bba893",
+      "title": "Kraken flags disruption in Cyber-Optimism funding gateway, deposits may be delayed",
+      "content": "Kraken's recurring gateway disruptions highlight the challenges of maintaining complex crypto infrastructure, impacting user trust and market agility.\nThe post Kraken flags disruption in Cyber-Optimism funding gateway, deposits may be delayed appeared first o…",
+      "url": "https://cryptobriefing.com/kraken-cyber-optimism-funding-gateway-disruption/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-11-22T04:57:14Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Kraken flags disruption in Cyber-Optimism funding gateway, deposits may be delayed",
+        "description": "Kraken's recurring gateway disruptions highlight the challenges of maintaining complex crypto infrastructure, impacting user trust and market agility.\nThe post Kraken flags disruption in Cyber-Optimism funding gateway, deposits may be delayed appeared first o…",
+        "url": "https://cryptobriefing.com/kraken-cyber-optimism-funding-gateway-disruption/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/21235707/library-kraken-flags-disruption-in-cyber-optimism-funding-gatewa-800x450.jpg",
+        "publishedAt": "2026-11-22T04:57:14Z",
+        "content": "The exchange says CYBER deposits on the Optimism network could be slowed while other funding methods remain unaffectedKraken has identified a disruption in its funding gateway for Cyber (CYBER) on th… [+3235 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Kraken"
+      ],
+      "importance_score": 6,
+      "ai_summary": "Kraken的资金通道出现问题，可能影响存款延迟。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到交易所动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，评估潜在影响。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_db59380228a7",
+      "title": "XRP Ledger Users Fall 60% From 250K to 92K as XRP Rebounds",
+      "content": "XRP Ledger Users Fall 60% XRP as daily activity drops from 250,000 to 92,000, while XRP rebounds 4.5% after breaking below $0.90.\nThe post XRP Ledger Users Fall 60% From 250K to 92K as XRP Rebounds appeared first on Bitcoin Foundation.",
+      "url": "https://bitcoinfoundation.org/news/altcoins/xrp-ledger-users-fall-60-from-250k-to-92k-as-xrp-rebounds/",
+      "source": "Bitcoinfoundation.org",
+      "source_type": "news",
+      "author": "Eddie Muller",
+      "published_at": "2026-11-22T09:27:47Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Bitcoinfoundation.org"
+        },
+        "author": "Eddie Muller",
+        "title": "XRP Ledger Users Fall 60% From 250K to 92K as XRP Rebounds",
+        "description": "XRP Ledger Users Fall 60% XRP as daily activity drops from 250,000 to 92,000, while XRP rebounds 4.5% after breaking below $0.90.\nThe post XRP Ledger Users Fall 60% From 250K to 92K as XRP Rebounds appeared first on Bitcoin Foundation.",
+        "url": "https://bitcoinfoundation.org/news/altcoins/xrp-ledger-users-fall-60-from-250k-to-92k-as-xrp-rebounds/",
+        "urlToImage": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/xrp-ledger-users-fall-60-from-250k-to-92k-as-xrp-rebounds.webp",
+        "publishedAt": "2026-11-22T09:27:47Z",
+        "content": "XRP$0.9254 Ledger users fall 60% on November 22, dropping from 250,000 to barely 92,000, according to U.Todays report citing XRPScan. The decline hit as XRP trading pressure mounted during a broader … [+10173 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "XRP Ledger 用户数量大幅下降，反映市场动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币用户动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注用户流失对市场的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_f643f8f76ab7",
+      "title": "BlackRock, State Street Say Tokenization Won't Kill ETFs, But Could Draw Crypto Holders Who Avoid Banks",
+      "content": "BlackRock's Elise Terry said on Saturday that tokenized ETFs could reach crypto holders who keep their assets in wallets and avoid big banks.\n- State Street's Anna Paglia said the case for tokenized ETFs depends on a clear use case, like the one behind the fi…",
+      "url": "https://biztoc.com/x/206cfda7fc669906",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-22T09:22:05Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": null,
+        "title": "BlackRock, State Street Say Tokenization Won't Kill ETFs, But Could Draw Crypto Holders Who Avoid Banks",
+        "description": "BlackRock's Elise Terry said on Saturday that tokenized ETFs could reach crypto holders who keep their assets in wallets and avoid big banks.\n- State Street's Anna Paglia said the case for tokenized ETFs depends on a clear use case, like the one behind the fi…",
+        "url": "https://biztoc.com/x/206cfda7fc669906",
+        "urlToImage": "https://cdn.biztoc.com/206cfda7fc669906_s.webp",
+        "publishedAt": "2026-11-22T09:22:05Z",
+        "content": "BlackRock's Elise Terry said on Saturday that tokenized ETFs could reach crypto holders who keep their assets in wallets and avoid big banks.- State Street's Anna Paglia said the case for tokenized E… [+149 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "BlackRock",
+        "State Street"
+      ],
+      "importance_score": 7,
+      "ai_summary": "黑石和道富认为代币化不会取代ETF，但可能吸引加密持有者。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密持有者",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注代币化对市场的潜在影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_9fc78d991051",
+      "title": "Anthropic IPO Buzz Builds as Crypto Bettors Raise the Stakes on ANT Valuation",
+      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nCryptocurrency bettors are pricing in a higher chance that Anthropic will close its first trading day at a market capitalization of up to $1.5 trillion.\nAnoth…",
+      "url": "https://biztoc.com/x/dbae3b7a4e5be507",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-22T06:05:07Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": null,
+        "title": "Anthropic IPO Buzz Builds as Crypto Bettors Raise the Stakes on ANT Valuation",
+        "description": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nCryptocurrency bettors are pricing in a higher chance that Anthropic will close its first trading day at a market capitalization of up to $1.5 trillion.\nAnoth…",
+        "url": "https://biztoc.com/x/dbae3b7a4e5be507",
+        "urlToImage": "https://cdn.biztoc.com/dbae3b7a4e5be507_s.webp",
+        "publishedAt": "2026-11-22T06:05:07Z",
+        "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.Cryptocurrency bettors are pricing in a higher chance that Anthropic will close its first trading d… [+139 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Anthropic IPO引发加密市场关注。",
+      "business_relevance": 0.5,
+      "relevance_reason": "一般加密货币新闻",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_603d9d9d9826",
+      "title": "Circle Internet Group (CRCL) Is Named In Abu Dhabi Crypto Freeze Order",
+      "content": "Circle Internet Group (NYSE:CRCL) has been named in an Abu Dhabi Global Market Courts order tied to Binance's asset recovery effort.\n- The court directive relates to crypto tokens linked to Binance's October 2029 wallet hack and alleged theft of digital asset…",
+      "url": "https://biztoc.com/x/65d26bd47677eda7",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-22T09:06:51Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": null,
+        "title": "Circle Internet Group (CRCL) Is Named In Abu Dhabi Crypto Freeze Order",
+        "description": "Circle Internet Group (NYSE:CRCL) has been named in an Abu Dhabi Global Market Courts order tied to Binance's asset recovery effort.\n- The court directive relates to crypto tokens linked to Binance's October 2029 wallet hack and alleged theft of digital asset…",
+        "url": "https://biztoc.com/x/65d26bd47677eda7",
+        "urlToImage": "https://cdn.biztoc.com/65d26bd47677eda7_s.webp",
+        "publishedAt": "2026-11-22T09:06:51Z",
+        "content": "Circle Internet Group (NYSE:CRCL) has been named in an Abu Dhabi Global Market Courts order tied to Binance's asset recovery effort.- The court directive relates to crypto tokens linked to Binance's … [+145 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Circle Internet Group"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Circle被阿布扎比冻结资产，影响行业监管动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "竞争格局"
+      ],
+      "industry_action": "关注监管变化对市场的影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_4cec8d8dd074",
+      "title": "The European revolt may be coming to the UK",
+      "content": "There is enough justified anger among the British youth to spark a wave of mass protests.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk",
+      "source": "Al Jazeera English",
+      "source_type": "news",
+      "author": "Feyzi Ismail",
+      "published_at": "2026-11-22T06:59:59Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": "Feyzi Ismail",
+        "title": "The European revolt may be coming to the UK",
+        "description": "There is enough justified anger among the British youth to spark a wave of mass protests.",
+        "url": "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-20T171218Z_1260501633_RC2SROAB0I43_RTRMADP_3_EUROPE-PROTEST-BRITAIN-1795330611.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-11-22T06:59:59Z",
+        "content": "The protests engulfing Europe represent a new level of popular mobilisation quite unlike any historical precedent. In France, Spain, Italy, Serbia, Germany and other countries across the continent, m… [+6594 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "英国可能面临加密货币监管变动。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注英国监管动态，评估影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_25111078c53f",
+      "title": "Merz putting Ukraine before Germany – MP",
+      "content": "The AfD’s Markus Frohnmaier accused Merz of prioritizing Ukraine funding while neglecting the German economy Read Full Article at RT.com",
+      "url": "https://rt-english.com/news/649210-merz-putting-ukraine-before-germany/",
+      "source": "Rt-english.com",
+      "source_type": "news",
+      "author": "RT",
+      "published_at": "2026-11-22T08:56:30Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Rt-english.com"
+        },
+        "author": "RT",
+        "title": "Merz putting Ukraine before Germany – MP",
+        "description": "The AfD’s Markus Frohnmaier accused Merz of prioritizing Ukraine funding while neglecting the German economy Read Full Article at RT.com",
+        "url": "https://rt-english.com/news/649210-merz-putting-ukraine-before-germany/",
+        "urlToImage": "https://mf.b37mrtl.ru/files/2026.11/article/6b02ab502030277dad1564d7.jpg",
+        "publishedAt": "2026-11-22T08:56:30Z",
+        "content": "Chancellor Friedrich Merz has apparently lost touch with reality, as he urges German companies to invest in Ukraine while neglecting economic troubles at home, Alternative for Germany (AfD) lawmaker … [+2957 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_f29722a40268",
+      "title": "Pump.fun ends external wallet login, and Mark Karpelès is not a fan",
+      "content": "The shift to email and social logins on Pump.fun raises security concerns, sparking debate over self-custody versus third-party reliance.\nThe post Pump.fun ends external wallet login, and Mark Karpelès is not a fan appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/pump-fun-ends-external-wallet-login/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "John Chen",
+      "published_at": "2026-11-22T08:34:24Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "John Chen",
+        "title": "Pump.fun ends external wallet login, and Mark Karpelès is not a fan",
+        "description": "The shift to email and social logins on Pump.fun raises security concerns, sparking debate over self-custody versus third-party reliance.\nThe post Pump.fun ends external wallet login, and Mark Karpelès is not a fan appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/pump-fun-ends-external-wallet-login/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/22033417/library-pump-fun-ends-external-wallet-login-and-mark-karpel-s-is-800x450.jpg",
+        "publishedAt": "2026-11-22T08:34:24Z",
+        "content": "The Solana token platform is moving to email and social sign-ins, and asking some users to enter private keys to keep their accountsPump.fun, the Solana platform where people create and trade tokens,… [+3167 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "Pump.fun 结束外部钱包登录，引发讨论。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态，评估影响",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_534f2474f0a3",
+      "title": "Rigging the Game: How China Undermined Western Manufacturing and Helped Hollow Out American Industry",
+      "content": "A bipartisan House Select Committee report argues that China built a state-directed system to dominate strategic manufacturing through subsidies, concentrated capital, technology acquisition, and coordinated policy. Case studies covering biomanufacturing, aer…",
+      "url": "http://chinaselectcommittee.house.gov/media/reports/rigging-the-game-how-china-undermined-western-manufacturing-and-helped-hollow-out-american-industry",
+      "source": "House.gov",
+      "source_type": "news",
+      "author": "November 22",
+      "published_at": "2026-11-22T00:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "House.gov"
+        },
+        "author": "November 22",
+        "title": "Rigging the Game: How China Undermined Western Manufacturing and Helped Hollow Out American Industry",
+        "description": "A bipartisan House Select Committee report argues that China built a state-directed system to dominate strategic manufacturing through subsidies, concentrated capital, technology acquisition, and coordinated policy. Case studies covering biomanufacturing, aer…",
+        "url": "http://chinaselectcommittee.house.gov/media/reports/rigging-the-game-how-china-undermined-western-manufacturing-and-helped-hollow-out-american-industry",
+        "urlToImage": "https://chinaselectcommittee.house.gov/profiles/evo/assets/images/Seal_of_the_United_States_House_of_Representatives.png",
+        "publishedAt": "2026-11-22T00:00:00Z",
+        "content": "Today, Chairman John Moolenaar (R-MI) and Ranking Member Ro Khanna (D-CA) of the House Select Committee on China released Rigging the Game: How China Undermined Western Manufacturing and Helped Hollo… [+1838 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_20beb957e25a",
+      "title": "Mugu or not mugu: The livewire pledge",
+      "content": "A column examines Tinubu’s 2022 ‘by all means necessary’ electricity promise, his presidential spending and the APC’s broken manifesto pledges ahead of 202\n\nRead More: https://punchng.com/mugu-or-not-mugu-the-livewire-pledge/",
+      "url": "https://punchng.com/mugu-or-not-mugu-the-livewire-pledge/",
+      "source": "The Punch",
+      "source_type": "news",
+      "author": "Sonala Olumhense",
+      "published_at": "2026-11-22T00:06:21Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Punch"
+        },
+        "author": "Sonala Olumhense",
+        "title": "Mugu or not mugu: The livewire pledge",
+        "description": "A column examines Tinubu’s 2022 ‘by all means necessary’ electricity promise, his presidential spending and the APC’s broken manifesto pledges ahead of 202\n\nRead More: https://punchng.com/mugu-or-not-mugu-the-livewire-pledge/",
+        "url": "https://punchng.com/mugu-or-not-mugu-the-livewire-pledge/",
+        "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/04/09175133/Sonala-Olumhense.jpg",
+        "publishedAt": "2026-11-22T00:06:21Z",
+        "content": "Suddenly, the Nigerian government is defending electricity: as suppliedor notto the Nigerian people.\r\nBecause it is another election season, featuring a ballot box noose developed by the ruling party… [+6919 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "文章讨论了加密货币监管的动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化，调整业务策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_84bc2192b9dd",
+      "title": "fidetype added to PyPI",
+      "content": "An open trust layer for neural text entry: calibrated, abstaining, hallucination-aware BCI text decoding.",
+      "url": "https://pypi.org/project/fidetype/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-22T04:00:53Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "fidetype added to PyPI",
+        "description": "An open trust layer for neural text entry: calibrated, abstaining, hallucination-aware BCI text decoding.",
+        "url": "https://pypi.org/project/fidetype/",
+        "urlToImage": null,
+        "publishedAt": "2026-11-22T04:00:53Z",
+        "content": "Fidetype is an open research project toward a brain-computer interface (BCI) that reads language from any body signal, teaches itself from daily use, and provably never puts words in the user's mouth… [+14389 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series C",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "fidetype 被添加到 PyPI，涉及区块链基础设施的动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_cc72c52d02dd",
+      "title": "Exploring new frontiers, confronting old gaps",
+      "content": "The deepest parts of the ocean, the frozen expanses of Antarctica and the vastness of space may seem like unrelated frontiers.",
+      "url": "https://timesofindia.indiatimes.com/science/exploring-new-frontiers-confronting-old-gaps/articleshow/136066718.cms",
+      "source": "The Times of India",
+      "source_type": "news",
+      "author": "Chethan Kumar",
+      "published_at": "2026-11-22T03:39:51Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Chethan Kumar",
+        "title": "Exploring new frontiers, confronting old gaps",
+        "description": "The deepest parts of the ocean, the frozen expanses of Antarctica and the vastness of space may seem like unrelated frontiers.",
+        "url": "https://timesofindia.indiatimes.com/science/exploring-new-frontiers-confronting-old-gaps/articleshow/136066718.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136066737/136066737.jpg",
+        "publishedAt": "2026-11-22T03:39:51Z",
+        "content": "The deepest parts of the ocean, the frozen expanses of Antarctica and the vastness of space may seem like unrelated frontiers. Yet, for countries seeking to expand their scientific and technological … [+9097 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding funding round",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "探讨加密货币监管与市场动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化，调整策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_f84b43c22d8f",
+      "title": "ORN Ventures gears up for global travel business push with Rs 10,000 cr investment",
+      "content": "ORN Ventures intends to invest over Rs 10,000 crore globally to enhance travel infrastructure and operations. The company aims to deepen its presence in international markets while scaling its direct operator-to-consumer platform. Investments will focus on bu…",
+      "url": "https://m.economictimes.com/industry/services/travel/orn-ventures-gears-up-for-global-travel-business-push-with-rs-10000-cr-investment/articleshow/136069305.cms",
+      "source": "Economictimes.com",
+      "source_type": "news",
+      "author": "PTI",
+      "published_at": "2026-11-22T07:11:05Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Economictimes.com"
+        },
+        "author": "PTI",
+        "title": "ORN Ventures gears up for global travel business push with Rs 10,000 cr investment",
+        "description": "ORN Ventures intends to invest over Rs 10,000 crore globally to enhance travel infrastructure and operations. The company aims to deepen its presence in international markets while scaling its direct operator-to-consumer platform. Investments will focus on bu…",
+        "url": "https://m.economictimes.com/industry/services/travel/orn-ventures-gears-up-for-global-travel-business-push-with-rs-10000-cr-investment/articleshow/136069305.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-136069421,resizemode-4,width-1200,height-900,imgsize-176842,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-11-22T07:11:05Z",
+        "content": "New Delhi: Tech-driven travel firm ORN Ventures plans to invest upwards of Rs 10,000 crore globally over the next five years to expand its travel infrastructure, strengthen its distribution network a… [+1749 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding funding round",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "ORN Ventures计划在全球旅行业务投资巨额资金。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及投资与市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注旅行行业的投资动态与潜在机会。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_bddf88953b4a",
+      "title": "Backs DTCC Tokenization Service, Is The 28% Undervalued View Enough?",
+      "content": "Marex Group (NasdaqGS:MRX) has moved deeper into tokenized finance after joining Talos and Broadridge in a collaboration that backs DTCC's new Tokenization Service for institutional trading and collateral management.\nMarex Group's move deeper into tokenized f…",
+      "url": "https://biztoc.com/x/26136d2ab4743dc3",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-22T01:47:27Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": null,
+        "title": "Backs DTCC Tokenization Service, Is The 28% Undervalued View Enough?",
+        "description": "Marex Group (NasdaqGS:MRX) has moved deeper into tokenized finance after joining Talos and Broadridge in a collaboration that backs DTCC's new Tokenization Service for institutional trading and collateral management.\nMarex Group's move deeper into tokenized f…",
+        "url": "https://biztoc.com/x/26136d2ab4743dc3",
+        "urlToImage": "https://cdn.biztoc.com/26136d2ab4743dc3_s.webp",
+        "publishedAt": "2026-11-22T01:47:27Z",
+        "content": "Marex Group (NasdaqGS:MRX) has moved deeper into tokenized finance after joining Talos and Broadridge in a collaboration that backs DTCC's new Tokenization Service for institutional trading and colla… [+148 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "DTCC"
+      ],
+      "importance_score": 7,
+      "ai_summary": "DTCC推出代币化服务，可能影响行业动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到代币化服务",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注代币化技术对市场的潜在影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts",
+      "description": "Risk-averse investors are moving further away from crypto products as they expect the another interest rate hike in December, analysts said.",
+      "url": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-11-23T05:47:21",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "风险规避投资者远离加密产品。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密产品流出",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注市场动态，调整策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
+      "description": "Chainflip offered the attacker a 10% bounty to return the remainder of the $12 million in stolen BTC, ETH, and stablecoins by Monday.",
+      "url": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-11-22T18:58:57",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Chainflip因被盗事件损失1200万美元。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币被盗",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全性提升和防范措施。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "From Royal Mints to Digital Code: How Stablecoins Are Rewriting Money - FinanceX Magazine",
+      "description": "From Royal Mints to Digital Code: How Stablecoins Are Rewriting Money&nbsp;&nbsp;FinanceX Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaHlkLWNrWlZtVFQ2WTBIZG5pVDJIMkNIS1JhVVR3MFF0b0ZSMXBwNkFBNkNUR1RBMHpUNURSb05EQVZxN21qbFNRMGNpVG0xTVZRdnVXV2hKRXFrc2x6ODl4NHBvcW5YaEVoX1hIWDdpZlpuQWx6d3RTcVQ5NDU2TnZSNTJhTE5qV2NzYlJuOWxYX2w3U0tIbjhfTzF2VkZ6bTZESkR0LXdvZw?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-11-23T08:04:36",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "稳定币正在重塑货币体系",
+      "business_relevance": 0.8,
+      "relevance_reason": "涉及稳定币的市场趋势",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币的监管动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Asian stablecoin market grows as Eastern Europe shrinks - CoinGeek",
+      "description": "Asian stablecoin market grows as Eastern Europe shrinks&nbsp;&nbsp;CoinGeek",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcEg1cVlfZEJiT3cyazJDWEVhcVFTTFBrUVNDV0JJV19hRlIyX3NaNmJ4WFRVcllxNV9uZGhFV3B5WHBWYUFmMlNVNGsyclBWWmRlZmJvYzN4djdETUs5V2l0SVBPZ2NaVnBodmZvY0FSYTB6OVh1NHlPU2JWWGFldThzOA?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-11-23T06:00:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "亚洲稳定币市场增长，东欧市场萎缩。",
+      "business_relevance": 0.8,
+      "relevance_reason": "提到稳定币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注亚洲市场动态，调整策略。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "OCBC pilots cross-border stablecoin payments with StraitsX - Crypto Briefing",
+      "description": "OCBC pilots cross-border stablecoin payments with StraitsX&nbsp;&nbsp;Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhc0RFY2pwZE1PcTEzTERaeTlmUWgzbkNnRUNCX2JZWFhpNVBsRDBURUpSdVZXWnI4YXhYT01LeVpKblpmaWY2LXBWVWhZUUNBUHFldmtLZjYzNzhTVnhTbTYyTTYteFo0SXNPZGJPZGpzR2gyalE?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-11-23T09:03:36",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "OCBC",
+        "StraitsX"
+      ],
+      "importance_score": 8,
+      "ai_summary": "OCBC与StraitsX试点跨境稳定币支付。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到跨境稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注跨境支付的技术进展和市场动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "StraitsX, OCBC Start Stablecoin Cross-Border B2B Payments Pilot Linked to Bank Accounts - bloomingbit",
+      "description": "StraitsX, OCBC Start Stablecoin Cross-Border B2B Payments Pilot Linked to Bank Accounts&nbsp;&nbsp;bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wMlZoS0tKNm5YeHphMEdIQm4tOTJJYW1QLThKWHVFTmtzU2dUQXhLV2xOa21VemlfS3RKWTZQdTVxVkdPTU4tWFFpV1pPQzE5Y3JQNg?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-11-23T07:35:36",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "StraitsX",
+        "OCBC"
+      ],
+      "importance_score": 8,
+      "ai_summary": "StraitsX与OCBC启动稳定币跨境支付试点。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币跨境支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币支付技术的进展",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "StraitsX and OCBC Pilot Stablecoin-Based Cross-Border B2B Payments - Fintech Singapore",
+      "description": "StraitsX and OCBC Pilot Stablecoin-Based Cross-Border B2B Payments&nbsp;&nbsp;Fintech Singapore",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMHF4eTI3UVpJVHRmOURicTJ5VjZRSnBHUkRFbDhDRUFpSzZoSDJYSzhfeHRfc3F0TVRWaWZNb0l5U056Tjh1OEo4YVFERVN0Uy1UMlNqR1RRbFVoaTBJaXBkZDdBU0V6SmFXclZMczd2UmQ0OVUzeG1NRGVveHh5MDhKRGsxOWxTdjhoVVJ3?oc=5",
+      "source": "Google News (stablecoin B2B)",
+      "source_category": "google_news",
+      "published_at": "2026-11-23T04:27:59",
+      "data_type": "rss",
+      "search_keyword": "stablecoin B2B",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "StraitsX",
+        "OCBC"
+      ],
+      "importance_score": 8,
+      "ai_summary": "StraitsX与OCBC试点稳定币跨境支付项目。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币跨境支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币支付技术的发展动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "EPAA Launches Tokenised Money Heat Map to Navigate Asia-Pacific Crypto Regulations - FF News",
+      "description": "EPAA Launches Tokenised Money Heat Map to Navigate Asia-Pacific Crypto Regulations&nbsp;&nbsp;FF News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWHd4cTdCTEV5T3RaVm5BTjNVbkhKcG5wT3E0Z3M2bWNSbHh2RnRKUHhqNnJ4NlJOV3NFR2RkU0xDeGQxRmlmQlA4a1F4SGZ3cnE5dU1uaHlnek40ZWE5aDBMZG9KblpzUG5qV0ptYXNqY2l3VkVOSDh1Rm5randlMzRXcWJ1TEVkQjZXaDNEZDlsY0kzazNjLTVSWW51UVprN20tUjJ0Y1JMSTlNc2oxMWRKQQ?oc=5",
+      "source": "Google News (cross-border stablecoin)",
+      "source_category": "google_news",
+      "published_at": "2026-11-23T08:16:12",
+      "data_type": "rss",
+      "search_keyword": "cross-border stablecoin",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "EPAA推出加密监管热图以指导市场动态。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注亚太地区的监管变化。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "M-DAQ Taps Circle to Bring Stablecoins Into Cross-Border Payments - Fintech Singapore",
+      "description": "M-DAQ Taps Circle to Bring Stablecoins Into Cross-Border Payments&nbsp;&nbsp;Fintech Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEcVpCWmNsNE1qZEdra1ptc0ZtX0VzNXhhWlZ4b01XUDk3ZGFkNUFIV2w2MFRhcHUzQ2dmZTRkN2FScjlLVTdYU2Q2amVLR3lwY1p1MXpXemVJTTBHd3hBSENCM2lFRzlO?oc=5",
+      "source": "Google News (cross-border stablecoin)",
+      "source_category": "google_news",
+      "published_at": "2026-11-23T08:34:03",
+      "data_type": "rss",
+      "search_keyword": "cross-border stablecoin",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "M-DAQ",
+        "Circle"
+      ],
+      "importance_score": 8,
+      "ai_summary": "M-DAQ与Circle合作推动稳定币跨境支付。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及跨境支付与稳定币",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注稳定币在跨境支付中的应用趋势。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "OCBC, stablecoin firm StraitsX pilot cross-border payments - Tech in Asia",
+      "description": "OCBC, stablecoin firm StraitsX pilot cross-border payments&nbsp;&nbsp;Tech in Asia",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaDNwWWVNT2hZVzJzVXFhSzlKYThvb3JhUUdZbVNZMnFuSEwtZXF1SzBETWh5bXh2RWFCbEVrZlBNNlZDSWs3VzZPc1RoYlVFbEJsZ2dNQmozeC01ODdUeDhhSnRYWHdhckkxVnZEUDJlbXk0V05wdW1IZ04tUjlHLWFrdURDdzRqa2xsZ0NaY1BhQQ?oc=5",
+      "source": "Google News (cross-border stablecoin)",
+      "source_category": "google_news",
+      "published_at": "2026-11-23T04:25:00",
+      "data_type": "rss",
+      "search_keyword": "cross-border stablecoin",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "OCBC",
+        "StraitsX"
+      ],
+      "importance_score": 7,
+      "ai_summary": "OCBC与StraitsX试点跨境支付项目。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到跨境支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注跨境支付技术进展。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Curve Founder Says Onchain FX Will Scale From Stablecoin Swaps, Not Bank Desks - BigGo Finance",
+      "description": "Curve Founder Says Onchain FX Will Scale From Stablecoin Swaps, Not Bank Desks&nbsp;&nbsp;BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GM3pFTkhHcXc3ekR6eHpLREpaUkJzNnJRcHZON0pURTN1RmpnVGc1clM1VGZ4VnpzVUFnS3VTRnJYbE1kNVh5enA2bUY1bm4xR2JEZzBlR2lkXzNWc1ByWXVQWjFveDBXRkVEVVM4eXQ0QUxNaVE?oc=5",
+      "source": "Google News (cross-border stablecoin)",
+      "source_category": "google_news",
+      "published_at": "2026-11-23T03:35:00",
+      "data_type": "rss",
+      "search_keyword": "cross-border stablecoin",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Curve创始人认为链上外汇将从稳定币交换中扩展。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币交换",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币交换的发展动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Senators want state-licensed firms to keep issuing stablecoins after Jan. 18 - CryptoSlate",
+      "description": "Senators want state-licensed firms to keep issuing stablecoins after Jan. 18&nbsp;&nbsp;CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdlVmdjFvSEFuZGMwODFId1c1U1FaaFhvZHk4NG9jTnpuUk9HczBwQ183NGpLQ2NMMWxmUXJoalV4VjdueHF1aUlQX1RpX1pIWk52SHVzbkZ3b3l3R2JqbHltUDlhUWJiTmFvOURUcHo5Nmo4M280T1c1NHdka1VHdzN5SkIyT3JTVlJsaXlkQzEwLXk1V3QyNC13aFFncmRkSUE?oc=5",
+      "source": "Google News (stablecoin license)",
+      "source_category": "google_news",
+      "published_at": "2026-11-22T22:05:49",
+      "data_type": "rss",
+      "search_keyword": "stablecoin license",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "参议员希望州许可公司继续发行稳定币。",
+      "business_relevance": 0.8,
+      "relevance_reason": "涉及稳定币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注稳定币监管政策变化。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Hong Kong Introduces Bill for Licensing Crypto Custodians and Advisors - ForkLog",
+      "description": "Hong Kong Introduces Bill for Licensing Crypto Custodians and Advisors&nbsp;&nbsp;ForkLog",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ3pBOHZIWm1PeU5LejF3ZmhRZFRNZXVKRFFRNkhrUmZlZmloQnlKV29rUGxxLXR5bERRQ29hN01XZTVnMThncndmVFhOcHFDVXNTc0ZpbnRvWThKemozT0Z5TjZVRDdOQUwtandVOGdia1NPb1EwQ0RxRUJMVmVfemZBVW9YVndtRlBBWHlNc2lIUTV3bDdCS0JB?oc=5",
+      "source": "Google News (stablecoin license)",
+      "source_category": "google_news",
+      "published_at": "2026-11-23T07:10:51",
+      "data_type": "rss",
+      "search_keyword": "stablecoin license",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "香港推出加密托管和顾问的监管法案。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及加密托管监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注香港监管动态，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Stablecoin Regulation Gets Real: HSBC's Tokenized Fund Move - OneSafe",
+      "description": "Stablecoin Regulation Gets Real: HSBC's Tokenized Fund Move&nbsp;&nbsp;OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGFSNEVET01yankxMUthSXlqQUp1M3NjUHNZVFk3dDRwVjhhRFFIRE9uUmJaRUxlV0FQUmRCZ09oeGpZMXJPR282N3FzWkhyTWJIUlB3QmQ2eXBSV2FwYmpNLWZiSVNfTmJkY2RhTTRIcFJCTGxsWGZOSTlZeGxWZDdmTDZwS0YzazJMSElR?oc=5",
+      "source": "Google News (stablecoin regulation Hong Kong)",
+      "source_category": "google_news",
+      "published_at": "2026-11-23T01:30:04",
+      "data_type": "rss",
+      "search_keyword": "stablecoin regulation Hong Kong",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "HSBC"
+      ],
+      "importance_score": 7,
+      "ai_summary": "HSBC在稳定币监管方面的举措引发关注。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到稳定币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注稳定币监管动态，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "DBS partners with Circle to expand institutional access to USDC stablecoin across Asia - internationalfinance.com",
+      "description": "DBS partners with Circle to expand institutional access to USDC stablecoin across Asia&nbsp;&nbsp;internationalfinance.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWmdqUmRGcTdWcUVDeDU5SFp0NUs0VXk2dzdvMmV1QlcwVnY4UmZWNFlmWDZTOEdaNFRjOVU3LUxpMDRKWVFybnBUSWhRVnpicGtySUVhVlZTcy1FUWstWjdZbWtEYVp0dEc4UHpPVjc4aVFraVc4T2hkVVRnTVFsVnpPc3paSXNmZ2JMaHdGRnAxRGdVTEtuc1Y3cWltamVCQlE0eGxUejVXLUV0Yktia2FJWjVDTlE3c2d0TUdNcDJQX1RKVGNPZQ?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-11-23T05:00:40",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "DBS",
+        "Circle"
+      ],
+      "importance_score": 8,
+      "ai_summary": "DBS与Circle合作推动USDC在亚洲的机构接入。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币USDC",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注USDC在亚洲市场的影响力变化。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Kukon Signs MOU With Singapore’s Triple-A on Stablecoin Payments, Settlement Cooperation - bloomingbit",
+      "description": "Kukon Signs MOU With Singapore’s Triple-A on Stablecoin Payments, Settlement Cooperation&nbsp;&nbsp;bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HcldnV3hVY2RPUDREb2Y1MFpnd3lnVUtDczJsQ1lSQ0J2Vnd6ekMtUFhCQVBTei0wOTR6ZHlRYlg3TVFiQnVISnoyS3BrZlZIeTltXw?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-11-23T08:11:46",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Kukon",
+        "Triple-A"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Kukon与Triple-A签署稳定币支付合作备忘录。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付合作",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币支付市场动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "COOCON Ties Up With Singapore's Triple-A to Link Won Rails to Stablecoin Payments - BigGo Finance",
+      "description": "COOCON Ties Up With Singapore's Triple-A to Link Won Rails to Stablecoin Payments&nbsp;&nbsp;BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TZXlxc0dhQTh2NmkyeWFFQ2U0UzZFZmxxOVlqS1lVMkd1SGE5RjdCalpRM2Z4bzZaUnZtWl9lYVRPdkpBazBKckNwSmFTYkVOSTd6RlhRMWFUNExVVWRfRTl1TkFRUFZIaDdncWJjVVhNN2J1c1E?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-11-23T01:55:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "COOCON",
+        "Triple-A"
+      ],
+      "importance_score": 8,
+      "ai_summary": "COOCON与Triple-A合作推动稳定币支付",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币支付市场动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "COOCON and Triple-A agree to cooperate on stablecoin payments - Chosunbiz",
+      "description": "COOCON and Triple-A agree to cooperate on stablecoin payments&nbsp;&nbsp;Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV1lhc3JXOTdMT0h1SzF0WG51cnRRdWxMNmRZRXQzSUhzTHpfaEw1Ml9remFEWUoyaU0wcHBxMHRkZGdBLWFwbU40c2ViZkdJdnJJRU1zRi10bVNYR0lBZUVuR1dta0hOMERDVjF4YnhUS1RzMUZFQllwNmFJeXFucdIBlAFBVV95cUxQOEVFR04yWExqMnVNUlpsWEdDOGd0RkRrVDlYWU5OVkNLTWZFcjhCQnNfTmNlRU5EV2ZpWFhLdHJsT2JRWHd5QWJNSnNIMVpCQ0NRZDAyTGF5MHlNbDRiWEZERkhiaU80WDFRbHdTaWdUQkdELS1TYjgtY1NJOGRyZlpNRDZja1FVWmhHdUUwZ2NWdmZt?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-11-23T01:28:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "COOCON",
+        "Triple-A"
+      ],
+      "importance_score": 8,
+      "ai_summary": "COOCON与Triple-A达成稳定币支付合作协议。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付合作",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币支付市场动态",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    }
+  ],
+  "company": [],
+  "funding": [
+    {
+      "id": "news_f84b43c22d8f",
+      "title": "ORN Ventures gears up for global travel business push with Rs 10,000 cr investment",
+      "content": "ORN Ventures intends to invest over Rs 10,000 crore globally to enhance travel infrastructure and operations. The company aims to deepen its presence in international markets while scaling its direct operator-to-consumer platform. Investments will focus on bu…",
+      "url": "https://m.economictimes.com/industry/services/travel/orn-ventures-gears-up-for-global-travel-business-push-with-rs-10000-cr-investment/articleshow/136069305.cms",
+      "source": "Economictimes.com",
+      "source_type": "news",
+      "author": "PTI",
+      "published_at": "2026-11-22T07:11:05Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Economictimes.com"
+        },
+        "author": "PTI",
+        "title": "ORN Ventures gears up for global travel business push with Rs 10,000 cr investment",
+        "description": "ORN Ventures intends to invest over Rs 10,000 crore globally to enhance travel infrastructure and operations. The company aims to deepen its presence in international markets while scaling its direct operator-to-consumer platform. Investments will focus on bu…",
+        "url": "https://m.economictimes.com/industry/services/travel/orn-ventures-gears-up-for-global-travel-business-push-with-rs-10000-cr-investment/articleshow/136069305.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-136069421,resizemode-4,width-1200,height-900,imgsize-176842,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-11-22T07:11:05Z",
+        "content": "New Delhi: Tech-driven travel firm ORN Ventures plans to invest upwards of Rs 10,000 crore globally over the next five years to expand its travel infrastructure, strengthen its distribution network a… [+1749 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding funding round",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "ORN Ventures计划在全球旅行业务投资巨额资金。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及投资与市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注旅行行业的投资动态与潜在机会。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    }
+  ]
+}
