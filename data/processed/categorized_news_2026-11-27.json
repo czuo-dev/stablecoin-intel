@@ -1,0 +1,2163 @@
+{
+  "policy": [
+    {
+      "id": "news_f5bbd8651cc2",
+      "title": "Crypto host who once promoted a $50 billion memecoin vision now tells traders to get out",
+      "content": "Ansem urged users to withdraw after the trading app said account takeovers exposed wallets users had imported.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+      "url": "https://cryptoslate.com/crypto-host-who-once-promoted-a-50-billion-memecoin-vision-now-tells-traders-to-get-out/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam Akiba Wright",
+      "published_at": "2026-11-26T03:20:59Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam Akiba Wright",
+        "title": "Crypto host who once promoted a $50 billion memecoin vision now tells traders to get out",
+        "description": "Ansem urged users to withdraw after the trading app said account takeovers exposed wallets users had imported.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+        "url": "https://cryptoslate.com/crypto-host-who-once-promoted-a-50-billion-memecoin-vision-now-tells-traders-to-get-out/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/11/bullpen-podcast-exit-960x720.webp",
+        "publishedAt": "2026-11-26T03:20:59Z",
+        "content": "Jonah, co-host of the 1000x podcast, wrote on Nov. 24 to “get out while you still can” after crypto trader Ansem said his wallet had been hacked.\r\nJonah predicted that staying in crypto would carry a… [+4256 chars]",
+        "priority_weight": 1.5,
+        "search_keyword": "BitGo",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "加密市场动态影响交易者情绪",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场变化，调整策略",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_9df0e8923c83",
+      "title": "Sky proposes emergency vote on $25M transfer amid liquidity stress",
+      "content": "Sky has proposed an emergency governance vote to expedite a $25 million USDS transfer for debt repayment amid ongoing liquidity stress affecting stUSDS withdrawals.",
+      "url": "https://cointelegraph.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Ezra Reguerra",
+      "published_at": "2026-11-26T05:29:26Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ezra Reguerra",
+        "title": "Sky proposes emergency vote on $25M transfer amid liquidity stress",
+        "description": "Sky has proposed an emergency governance vote to expedite a $25 million USDS transfer for debt repayment amid ongoing liquidity stress affecting stUSDS withdrawals.",
+        "url": "https://cointelegraph.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8B3KH98GJMD1SZMNW2EZ40Z/coinlocked-1280x853.webp",
+        "publishedAt": "2026-11-26T05:29:26Z",
+        "content": "Decentralized finance (DeFi) protocol Sky has proposed an emergency governance vote to expedite the transfer to 25 million USDS to the Sky Frontier Foundation to pay down debt amid a liquidity crunch… [+1301 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "Sky提议进行紧急投票以应对流动性危机。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及流动性压力",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注流动性问题对市场的影响。",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "id": "news_bbbac32fbe65",
+      "title": "BlackRock Opens Tokenized HKD Money Market Fund to Hong Kong Investors",
+      "content": "BlackRock's first Asia-Pacific tokenized money market fund is open in Hong Kong, with a HK$10 tokenized class and $100 million in seeded assets.\nThe post BlackRock Opens Tokenized HKD Money Market Fund to Hong Kong Investors appeared first on ValueWalk.",
+      "url": "https://www.valuewalk.com/blackrock-tokenized-hkd-money-market-fund-hong-kong/",
+      "source": "ValueWalk",
+      "source_type": "news",
+      "author": "ValueWalk Team",
+      "published_at": "2026-11-26T09:09:57Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "ValueWalk"
+        },
+        "author": "ValueWalk Team",
+        "title": "BlackRock Opens Tokenized HKD Money Market Fund to Hong Kong Investors",
+        "description": "BlackRock's first Asia-Pacific tokenized money market fund is open in Hong Kong, with a HK$10 tokenized class and $100 million in seeded assets.\nThe post BlackRock Opens Tokenized HKD Money Market Fund to Hong Kong Investors appeared first on ValueWalk.",
+        "url": "https://www.valuewalk.com/blackrock-tokenized-hkd-money-market-fund-hong-kong/",
+        "urlToImage": "https://www.valuewalk.com/wp-content/uploads/2026/11/senseserp-1795684177.jpg",
+        "publishedAt": "2026-11-26T09:09:57Z",
+        "content": "BlackRock's first Asia-Pacific tokenized money market fund is open in Hong Kong, with a HK$10 tokenized class and $100 million in seeded assets.BlackRocks first tokenized money market fund in Asia-Pa… [+2506 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "黑石在香港推出代币化货币市场基金。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到香港市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注香港市场的投资动态",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_23612c00d966",
+      "title": "South Korea wants banks to own more than 50% of domestic stablecoin issuers",
+      "content": "Fintechs could hold the largest individual stake, and reserve managers could repay holders directly if an issuer fails.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+      "url": "https://cryptoslate.com/south-korea-wants-banks-to-own-more-than-50-of-domestic-stablecoin-issuers/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam Akiba Wright",
+      "published_at": "2026-11-26T05:50:38Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam Akiba Wright",
+        "title": "South Korea wants banks to own more than 50% of domestic stablecoin issuers",
+        "description": "Fintechs could hold the largest individual stake, and reserve managers could repay holders directly if an issuer fails.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+        "url": "https://cryptoslate.com/south-korea-wants-banks-to-own-more-than-50-of-domestic-stablecoin-issuers/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/11/korea-stablecoin-bank-majority-960x720.webp",
+        "publishedAt": "2026-11-26T05:50:38Z",
+        "content": "South Koreas financial regulator proposed limiting initial domestic stablecoin issuance to licensed groups in which banks collectively own more than 50%.\r\nUnder the plan, a fintech or technology comp… [+3590 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "韩国希望银行持有超过50%的稳定币发行商股份。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及稳定币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注稳定币监管动态，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_d9f3bed8c6f1",
+      "title": "SBI brings Japanese stocks to Solana but investors face a five-day wait to cash out",
+      "content": "HashKey Earn offers eligible investors access to a Japanese equity strategy through JX, with USDC redemptions expected on T+5 under the issuer’s dealing calendar.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch ne…",
+      "url": "https://cryptoslate.com/sbi-brings-japanese-stocks-to-solana-but-investors-face-a-five-day-wait-to-cash-out/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam Akiba Wright",
+      "published_at": "2026-11-26T04:30:59Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam Akiba Wright",
+        "title": "SBI brings Japanese stocks to Solana but investors face a five-day wait to cash out",
+        "description": "HashKey Earn offers eligible investors access to a Japanese equity strategy through JX, with USDC redemptions expected on T+5 under the issuer’s dealing calendar.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch ne…",
+        "url": "https://cryptoslate.com/sbi-brings-japanese-stocks-to-solana-but-investors-face-a-five-day-wait-to-cash-out/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/11/sbi-solana-settlement-hourglass-960x720.webp",
+        "publishedAt": "2026-11-26T04:30:59Z",
+        "content": "SBI Solana Global began full-scale operations on Nov. 25, with plans to bring Japanese financial assets to more markets.\r\nEligible professional investors can use USDC to buy exposure to a Japanese di… [+4733 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "SBI将日本股票引入Solana，影响市场动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密货币市场动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注Solana生态系统的变化",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_3f75d357bb9e",
+      "title": "Ukraine Passes Crypto Bill 271-8, Sets July 2027 Start",
+      "content": "Ukraine’s parliament passed a crypto regulation and tax bill with 271 votes, setting a July 2027 start and a 23% tax on individual crypto profits.\nThe post Ukraine Passes Crypto Bill 271-8, Sets July 2027 Start appeared first on Bitcoin Foundation.",
+      "url": "https://bitcoinfoundation.org/news/blockchain-news/ukraine-passes-crypto-bill-271-8-sets-july-2027-start/",
+      "source": "Bitcoinfoundation.org",
+      "source_type": "news",
+      "author": "Eddie Muller",
+      "published_at": "2026-11-26T07:01:27Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Bitcoinfoundation.org"
+        },
+        "author": "Eddie Muller",
+        "title": "Ukraine Passes Crypto Bill 271-8, Sets July 2027 Start",
+        "description": "Ukraine’s parliament passed a crypto regulation and tax bill with 271 votes, setting a July 2027 start and a 23% tax on individual crypto profits.\nThe post Ukraine Passes Crypto Bill 271-8, Sets July 2027 Start appeared first on Bitcoin Foundation.",
+        "url": "https://bitcoinfoundation.org/news/blockchain-news/ukraine-passes-crypto-bill-271-8-sets-july-2027-start/",
+        "urlToImage": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/ukraine-passes-crypto-bill-271-8-sets-july-2027-start.webp",
+        "publishedAt": "2026-11-26T07:01:27Z",
+        "content": "Ukraines parliament approved the Ukraine crypto regulation and tax bill on November 25, 2026, with 271 votes in favor, setting a July 1, 2027 start date for the framework. President Volodymyr Zelensk… [+4219 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "乌克兰通过加密货币法案，影响行业发展。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注乌克兰的加密政策变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_4a73444d7dbd",
+      "title": "feraterra-sdk added to PyPI",
+      "content": "FeraTerra / Arena Exchange official zero-dependency Python REST/WS, 64-byte HFT binary wire, ArenaITCH L3, CCXT adapter, 24-tool MCP gateway, and EVM Clearinghouse client SDK.",
+      "url": "https://pypi.org/project/feraterra-sdk/",
+      "source": "Pypi.org",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-26T03:30:31Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Pypi.org"
+        },
+        "author": null,
+        "title": "feraterra-sdk added to PyPI",
+        "description": "FeraTerra / Arena Exchange official zero-dependency Python REST/WS, 64-byte HFT binary wire, ArenaITCH L3, CCXT adapter, 24-tool MCP gateway, and EVM Clearinghouse client SDK.",
+        "url": "https://pypi.org/project/feraterra-sdk/",
+        "urlToImage": null,
+        "publishedAt": "2026-11-26T03:30:31Z",
+        "content": "Zero-dependency client connectors and 24-tool MCP gateway for trading on Arena Exchange (feraterra.app) a 100% headless computational venue with 0 bps maker fees (maker rebates on segmented venues), … [+6700 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "USDC",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "feraterra-sdk 被添加到 PyPI，涉及区块链基础设施。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到区块链基础设施",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_51d948a56fb1",
+      "title": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
+      "content": "US Senators Elizabeth Warren and Chris Van Hollen, among others, have taken aim at two recent SEC efforts to ease regulatory requirements for the crypto industry.",
+      "url": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Felix Ng",
+      "published_at": "2026-11-26T04:24:45Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Felix Ng",
+        "title": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
+        "description": "US Senators Elizabeth Warren and Chris Van Hollen, among others, have taken aim at two recent SEC efforts to ease regulatory requirements for the crypto industry.",
+        "url": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AYBSWPYBQEZSFKNS3QMFEP/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-sec-1280x853.webp",
+        "publishedAt": "2026-11-26T04:24:45Z",
+        "content": "US Senators Elizabeth Warren and Chris Van Hollen have urged the US Securities and Exchange Commission to drop a proposal that would allow eligible crypto projects to raise funds from US investors wi… [+4159 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "参议院民主党敦促SEC取消加密监管豁免。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_c70ef7c7d89b",
+      "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+      "content": "North Korea-linked hackers used DeFi protocols to launder stolen Binance funds, while US prosecutors moved to recover more than $1.1 billion in crypto.",
+      "url": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Ezra Reguerra",
+      "published_at": "2026-11-26T05:53:08Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ezra Reguerra",
+        "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+        "description": "North Korea-linked hackers used DeFi protocols to launder stolen Binance funds, while US prosecutors moved to recover more than $1.1 billion in crypto.",
+        "url": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8B66VX8B7TPTQ4GVF2CXSJF/blockchainweekuk-fca-1-1280x853.webp",
+        "publishedAt": "2026-11-26T05:53:08Z",
+        "content": "The United Kingdoms financial regulator is reportedly planning to push ahead with tighter restrictions on decentralized finance (DeFi), citing money laundering risks highlighted by the $6.3 billion B… [+1209 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "英国监管机构计划收紧DeFi规则。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管政策变化对业务的影响。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_52b2acfd349c",
+      "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
+      "content": "Computer scientist Scott Aaronson says AI labs are likely sitting on undisclosed cryptographic breakthroughs.",
+      "url": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Felix Ng",
+      "published_at": "2026-11-26T01:33:20Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Felix Ng",
+        "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
+        "description": "Computer scientist Scott Aaronson says AI labs are likely sitting on undisclosed cryptographic breakthroughs.",
+        "url": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AQMMS0BSMYA1QTZ20HG364/hi-aicpac-1280x853.webp",
+        "publishedAt": "2026-11-26T01:33:20Z",
+        "content": "Theoretical computer scientist Scott Aaronson says leading AI laboratories are likely sitting on undisclosed breakthroughs in cryptography.\r\nIn a blog post on Wednesday, Aaronson, a former OpenAI res… [+2743 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "AI实验室可能有重大发现影响密码学领域。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到密码学技术",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展"
+      ],
+      "industry_action": "",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_ed6ccf802440",
+      "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
+      "content": "US spot Bitcoin ETFs recorded $5.39 billion in net outflows in November through Wednesday, while Morgan Stanley’s fund drew $114.1 million, per Farside Investors.",
+      "url": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november",
+      "source": "Cointelegraph",
+      "source_type": "news",
+      "author": "Cointelegraph by Ezra Reguerra",
+      "published_at": "2026-11-26T09:42:34Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Cointelegraph by Ezra Reguerra",
+        "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
+        "description": "US spot Bitcoin ETFs recorded $5.39 billion in net outflows in November through Wednesday, while Morgan Stanley’s fund drew $114.1 million, per Farside Investors.",
+        "url": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november",
+        "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25BCMVHPH5H5NSCSEW4N3JQ/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf-1-1280x853.webp",
+        "publishedAt": "2026-11-26T09:42:34Z",
+        "content": "US spot Bitcoin exchange-traded funds (ETFs) collectively recorded $5.39 billion in net outflows in November after adding $453 million to the red column on Wednesday but Morgan Stanleys fund has been… [+1343 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "high"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "比特币ETF流出超过50亿美元，影响市场动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "比特币ETF流出影响市场",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注市场动态变化，调整策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_80a5b03ab5ad",
+      "title": "Franklin Crypto Index ETF to add HYPE token around Dec. 1",
+      "content": "The ETF's diversification signals a shift towards broader crypto acceptance, potentially boosting institutional confidence and market dynamics.\nThe post Franklin Crypto Index ETF to add HYPE token around Dec. 1 appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/franklin-crypto-index-etf-to-add-hype-token-around-dec-1/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-11-26T09:20:13Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Franklin Crypto Index ETF to add HYPE token around Dec. 1",
+        "description": "The ETF's diversification signals a shift towards broader crypto acceptance, potentially boosting institutional confidence and market dynamics.\nThe post Franklin Crypto Index ETF to add HYPE token around Dec. 1 appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/franklin-crypto-index-etf-to-add-hype-token-around-dec-1/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/26042010/cb-image-GTvU8jmA-800x450.jpg",
+        "publishedAt": "2026-11-26T09:20:13Z",
+        "content": "Franklin Crypto Trust has announced its plan to add the Hyperliquid HYPE token to its Franklin Crypto Index ETF, according to a recent SEC filing. The inclusion is set for around December 1, expandin… [+1297 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Franklin Crypto Index ETF 将添加 HYPE 代币。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币ETF动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注加密货币ETF的发展动态。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_2c2282b19ce8",
+      "title": "Switzerland approves 57 jurisdictions for crypto data exchange from 2028",
+      "content": "The Swiss Federal Council cleared 57 potential partners for cryptoasset tax-information exchanges beginning in 2028.",
+      "url": "https://biztoc.com/x/78831b89f65fab5b",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-26T09:50:26Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": null,
+        "title": "Switzerland approves 57 jurisdictions for crypto data exchange from 2028",
+        "description": "The Swiss Federal Council cleared 57 potential partners for cryptoasset tax-information exchanges beginning in 2028.",
+        "url": "https://biztoc.com/x/78831b89f65fab5b",
+        "urlToImage": "https://cdn.biztoc.com/78831b89f65fab5b_s.webp",
+        "publishedAt": "2026-11-26T09:50:26Z",
+        "content": "The Swiss Federal Council cleared 57 potential partners for cryptoasset tax-information exchanges beginning in 2028.\r\nThis story appeared on theblock.co, 2026-11-26 09:40:41.",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "瑞士批准加密数据交换的监管政策",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注未来的监管变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_d3565bd8377b",
+      "title": "UK plans strict rules for crypto DeFi sector",
+      "content": "FCA points to Binance heist and ‘lack of consumer protections’ as reasons for tighter regulation of decentralised finance than in US and EU",
+      "url": "https://biztoc.com/x/d57d34dbcaa0173f",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-26T06:33:22Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": null,
+        "title": "UK plans strict rules for crypto DeFi sector",
+        "description": "FCA points to Binance heist and ‘lack of consumer protections’ as reasons for tighter regulation of decentralised finance than in US and EU",
+        "url": "https://biztoc.com/x/d57d34dbcaa0173f",
+        "urlToImage": "https://biztoc.com/cdn/996/og.png",
+        "publishedAt": "2026-11-26T06:33:22Z",
+        "content": "FCA points to Binance heist and lack of consumer protections as reasons for tighter regulation of decentralised finance than in US and EU\r\nThis story appeared on ft.com, 2026-11-26 05:00:19.",
+        "priority_weight": 0.5,
+        "search_keyword": "crypto regulation",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "英国计划对加密DeFi领域实施严格监管。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注监管动态，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_49e6c8a8d029",
+      "title": "CBN-NNPC partnership raises hopes for improved forex liquidity",
+      "content": "The CBN-NNPC partnership aims to improve oil revenue management and dollar inflows, but production, debt and transparency concerns could limit its impact.\n\nRead More: https://punchng.com/cbn-nnpc-partnership-raises-hopes-for-improved-forex-liquidity/",
+      "url": "https://punchng.com/cbn-nnpc-partnership-raises-hopes-for-improved-forex-liquidity/",
+      "source": "The Punch",
+      "source_type": "news",
+      "author": "Sami Tunji",
+      "published_at": "2026-11-26T00:35:04Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Punch"
+        },
+        "author": "Sami Tunji",
+        "title": "CBN-NNPC partnership raises hopes for improved forex liquidity",
+        "description": "The CBN-NNPC partnership aims to improve oil revenue management and dollar inflows, but production, debt and transparency concerns could limit its impact.\n\nRead More: https://punchng.com/cbn-nnpc-partnership-raises-hopes-for-improved-forex-liquidity/",
+        "url": "https://punchng.com/cbn-nnpc-partnership-raises-hopes-for-improved-forex-liquidity/",
+        "urlToImage": "https://punchng.com/wp-content/uploads/2026/06/The-Governor-of-the-Central-Bank-of-Nigeria-Mr-Olayemi-Cardoso-1200x630.webp",
+        "publishedAt": "2026-11-26T00:35:04Z",
+        "content": "Nigerias new CBN-NNPC partnership seeks to improve petroleum revenue management, boost dollar inflows and strengthen the naira. However, production challenges, debt obligations and transparency conce… [+15190 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "CBN与NNPC的合作有助于外汇流动性提升。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及外汇流动性",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注外汇流动性对稳定币的潜在影响",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_4fa85fd2d69c",
+      "title": "1964 Triumph TR4 Project at No Reserve",
+      "content": "This 1964 Triumph TR4 is a non-running project that was reportedly off the road for 10 years until the selling dealer's 2026 acquisition. Finished in green with a black soft top over black leather, the car's drivetrain features a 2,138cc inline-four linked to…",
+      "url": "https://bringatrailer.com/listing/1964-triumph-tr4-67/",
+      "source": "Bringatrailer.com",
+      "source_type": "news",
+      "author": "QuintinMotorCompany",
+      "published_at": "2026-11-26T00:00:22Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Bringatrailer.com"
+        },
+        "author": "QuintinMotorCompany",
+        "title": "1964 Triumph TR4 Project at No Reserve",
+        "description": "This 1964 Triumph TR4 is a non-running project that was reportedly off the road for 10 years until the selling dealer's 2026 acquisition. Finished in green with a black soft top over black leather, the car's drivetrain features a 2,138cc inline-four linked to…",
+        "url": "https://bringatrailer.com/listing/1964-triumph-tr4-67/",
+        "urlToImage": "https://bringatrailer.com/wp-content/uploads/2026/11/IMG_9712-scaled-copy-2026-11-24-uhm-94742651a9068f3a4fc59900ba21ccc6.jpg",
+        "publishedAt": "2026-11-26T00:00:22Z",
+        "content": "This 1964 Triumph TR4 is a non-running project that was reportedly off the road for 10 years until the selling dealer’s 2026 acquisition. Finished in green with a black soft top over black leather, t… [+1746 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_f1f36212f663",
+      "title": "APC institute, Jagaban group to train 2m Nigerians",
+      "content": "The APC’s Progressive Institute and Jagaban Support Group unveil a skills acquisition programme to train two million Nigerian youths and women virtually.\n\nRead More: https://punchng.com/apc-institute-jagaban-group-to-train-2m-nigerians/",
+      "url": "https://punchng.com/apc-institute-jagaban-group-to-train-2m-nigerians/",
+      "source": "The Punch",
+      "source_type": "news",
+      "author": "Abdulrahman Zakariyau",
+      "published_at": "2026-11-26T01:06:35Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Punch"
+        },
+        "author": "Abdulrahman Zakariyau",
+        "title": "APC institute, Jagaban group to train 2m Nigerians",
+        "description": "The APC’s Progressive Institute and Jagaban Support Group unveil a skills acquisition programme to train two million Nigerian youths and women virtually.\n\nRead More: https://punchng.com/apc-institute-jagaban-group-to-train-2m-nigerians/",
+        "url": "https://punchng.com/apc-institute-jagaban-group-to-train-2m-nigerians/",
+        "urlToImage": "https://punchng.com/wp-content/uploads/2026/08/APC-Logo_1786125482.webp",
+        "publishedAt": "2026-11-26T01:06:35Z",
+        "content": "The Progressive Institute, the think tank of the All Progressives Congress, in collaboration with the Jagaban Support Group, has unveiled a skills acquisition programme targeting two million Nigerian… [+5234 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_90e40d33f705",
+      "title": "Microdrama Revenues Hit $20B, But Profits Outside China Still Weak – MPA Report",
+      "content": "The global microdrama business is booming, but outside of China, where ByteDance rules the roost, profits haven’t yet caught with revenues. That’s according to a Media Partners Asia (MPA) report, which reveals revenues on a global basis are estimated to rise …",
+      "url": "https://deadline.com/2026/11/microdrama-revenues-boom-profits-outside-china-weak-report-1237233205/",
+      "source": "Deadline",
+      "source_type": "news",
+      "author": "Jesse Whittock",
+      "published_at": "2026-11-26T03:00:00Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Deadline"
+        },
+        "author": "Jesse Whittock",
+        "title": "Microdrama Revenues Hit $20B, But Profits Outside China Still Weak – MPA Report",
+        "description": "The global microdrama business is booming, but outside of China, where ByteDance rules the roost, profits haven’t yet caught with revenues. That’s according to a Media Partners Asia (MPA) report, which reveals revenues on a global basis are estimated to rise …",
+        "url": "https://deadline.com/2026/11/microdrama-revenues-boom-profits-outside-china-weak-report-1237233205/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2025/04/Reelshort.jpg",
+        "publishedAt": "2026-11-26T03:00:00Z",
+        "content": "The global microdrama business is booming, but outside of China, where ByteDance rules the roost, profits haven’t yet caught with revenues.\r\nThat’s according to a Media Partners Asia (MPA) report, wh… [+4811 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "merger",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Microdrama收入增长，但利润疲软。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到市场趋势",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势"
+      ],
+      "industry_action": "关注市场动态，调整策略。",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_e3481ce50fe4",
+      "title": "Room to grow: acquisitions and Europe’s next tech champions [Promoted Content]",
+      "content": "Europe struggles to scale its start-ups into global tech leaders. Drawing on new BRG research, the authors argue that, as the Commission finalises its merger guidelines, case-by-case assessment should weigh acquisitions’ risks against their role in helping Eu…",
+      "url": "https://biztoc.com/x/4339e91e8d1c28f3",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-26T06:33:16Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": null,
+        "title": "Room to grow: acquisitions and Europe’s next tech champions [Promoted Content]",
+        "description": "Europe struggles to scale its start-ups into global tech leaders. Drawing on new BRG research, the authors argue that, as the Commission finalises its merger guidelines, case-by-case assessment should weigh acquisitions’ risks against their role in helping Eu…",
+        "url": "https://biztoc.com/x/4339e91e8d1c28f3",
+        "urlToImage": "https://biztoc.com/cdn/996/og.png",
+        "publishedAt": "2026-11-26T06:33:16Z",
+        "content": "Europe struggles to scale its start-ups into global tech leaders. Drawing on new BRG research, the authors argue that, as the Commission finalises its merger guidelines, case-by-case assessment shoul… [+141 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "merger",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "欧洲科技公司有增长空间。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及欧洲科技发展",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注欧洲市场动态，调整策略。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_ad39cdb92727",
+      "title": "how sound, fungi, and material experimentation shape thomas feriero’s music project",
+      "content": "composer thomas feriero discusses the three experimental systems behind 'will you still love me when i’m a system in the ground?', a collaboration that turns musical erosion, biological growth, and material transformation into a shared creative process.\nThe p…",
+      "url": "https://www.designboom.com/art/sound-fungi-material-experimentation-thomas-feriero-music-project-challenging-conditions-hidden-mountain-alea-work-interview/",
+      "source": "Designboom",
+      "source_type": "news",
+      "author": "thomai tsimpou I designboom",
+      "published_at": "2026-11-26T08:45:41Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Designboom"
+        },
+        "author": "thomai tsimpou I designboom",
+        "title": "how sound, fungi, and material experimentation shape thomas feriero’s music project",
+        "description": "composer thomas feriero discusses the three experimental systems behind 'will you still love me when i’m a system in the ground?', a collaboration that turns musical erosion, biological growth, and material transformation into a shared creative process.\nThe p…",
+        "url": "https://www.designboom.com/art/sound-fungi-material-experimentation-thomas-feriero-music-project-challenging-conditions-hidden-mountain-alea-work-interview/",
+        "urlToImage": "https://www.designboom.com/twitterimages/uploads/2026/11/sound-fungi-material-experimentation-thomas-feriero-music-project-challenging-conditions-hidden-mountain-alea-work-interview-designboom-1200.jpg",
+        "publishedAt": "2026-11-26T08:45:41Z",
+        "content": "thomas feriero on how music and mycelium grow and transform\r\nSometimes its only once the original sound starts to break down that you can hear something new taking shape,says Thomas Feriero, describi… [+10289 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "Series A",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_5033822112c9",
+      "title": "ElevenLabs in early talks for funding at $33 billion valuation",
+      "content": "The company plans to kick off the efforts in the first three months of 2027, the people said, asking not to be identified as the information isn’t public. Discussions are preliminary, though some investors are pushing for the process to start sooner, they sai…",
+      "url": "https://m.economictimes.com/tech/artificial-intelligence/elevenlabs-in-early-talks-for-funding-at-33-billion-valuation/articleshow/136177198.cms",
+      "source": "Economictimes.com",
+      "source_type": "news",
+      "author": "Bloomberg",
+      "published_at": "2026-11-26T03:20:36Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Economictimes.com"
+        },
+        "author": "Bloomberg",
+        "title": "ElevenLabs in early talks for funding at $33 billion valuation",
+        "description": "The company plans to kick off the efforts in the first three months of 2027, the people said, asking not to be identified as the information isn’t public. Discussions are preliminary, though some investors are pushing for the process to start sooner, they sai…",
+        "url": "https://m.economictimes.com/tech/artificial-intelligence/elevenlabs-in-early-talks-for-funding-at-33-billion-valuation/articleshow/136177198.cms",
+        "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-749307,resizemode-75,msid-136177198/tech/artificial-intelligence/elevenlabs-in-early-talks-for-funding-at-33-billion-valuation.jpg",
+        "publishedAt": "2026-11-26T03:20:36Z",
+        "content": "ElevenLabs, a company building artificial intelligence voice models and agents, is in early discussions for a funding round at a target valuation of $33 billion, according to people familiar with the… [+2053 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "funding funding round",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [
+        "ElevenLabs"
+      ],
+      "importance_score": 6,
+      "ai_summary": "ElevenLabs正在进行融资谈判，估值达到330亿美元。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到融资事件",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "投资机会"
+      ],
+      "industry_action": "关注融资动态，评估市场影响。",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_331b826a50c0",
+      "title": "Nvidia’s China link revealed? Investigation claims two US-based firms with Chinese owners are buying most advanced chips",
+      "content": "Nvidia is selling its most cutting-edge chips to at least two companies that are US-based, but are actually controlled by Chinese-owned firms, a CBS News investigation found.",
+      "url": "https://www.livemint.com/companies/news/nvidias-china-link-revealed-investigation-claims-two-us-based-firms-with-chinese-owners-are-buying-most-advanced-chips-11795655636492.html",
+      "source": "Livemint",
+      "source_type": "news",
+      "author": "Livemint",
+      "published_at": "2026-11-26T01:24:59Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Livemint",
+        "title": "Nvidia’s China link revealed? Investigation claims two US-based firms with Chinese owners are buying most advanced chips",
+        "description": "Nvidia is selling its most cutting-edge chips to at least two companies that are US-based, but are actually controlled by Chinese-owned firms, a CBS News investigation found.",
+        "url": "https://www.livemint.com/companies/news/nvidias-china-link-revealed-investigation-claims-two-us-based-firms-with-chinese-owners-are-buying-most-advanced-chips-11795655636492.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2026/11/26/1600x900/logo/NVIDIA-CEO-CONGRESS-1_1795656144364_dtA3_1795656158469_hflH_031a4b35-d53e-4256-b19a-0178d46403ba_QMaN.JPG",
+        "publishedAt": "2026-11-26T01:24:59Z",
+        "content": "An investigation by CBS News found that Nvidia is selling some of its most advanced artificial intelligence (AI) chips to at least two US-based companies that are actually controlled by Chinese-owned… [+9679 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "raises strategic investment",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "id": "news_49437dc1015d",
+      "title": "WealthBridge gets rating upgrade, three ISO certification",
+      "content": "WealthBridge Asset Management’s rating rose from BBB+(IM) to A-(IM) by DataPro, and it secured three ISO certifications covering security and continuity.\n\nRead More: https://punchng.com/wealthbridge-gets-rating-upgrade-three-iso-certification/",
+      "url": "https://punchng.com/wealthbridge-gets-rating-upgrade-three-iso-certification/",
+      "source": "The Punch",
+      "source_type": "news",
+      "author": "Justice Okamgba",
+      "published_at": "2026-11-26T00:06:06Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Punch"
+        },
+        "author": "Justice Okamgba",
+        "title": "WealthBridge gets rating upgrade, three ISO certification",
+        "description": "WealthBridge Asset Management’s rating rose from BBB+(IM) to A-(IM) by DataPro, and it secured three ISO certifications covering security and continuity.\n\nRead More: https://punchng.com/wealthbridge-gets-rating-upgrade-three-iso-certification/",
+        "url": "https://punchng.com/wealthbridge-gets-rating-upgrade-three-iso-certification/",
+        "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/11/26010340/logo-main_1795651420.webp",
+        "publishedAt": "2026-11-26T00:06:06Z",
+        "content": "WealthBridge Asset Management Limited has secured an upgrade of its Investment Manager Rating from BBB+(IM) to A-(IM), with a stable outlook, from DataPro Limited, while obtaining three international… [+3671 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "acquisition strategic investment",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "WealthBridge获得评级升级和ISO认证，影响行业发展。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到ISO认证与监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注ISO认证对行业标准的影响",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_63b604a46619",
+      "title": "Not in God’s Name: Why Palestine’s Liberation Struggle is not a Religious War",
+      "content": "Behind Israel stands a vast apparatus of religious fundamentalists, particularly in the US, who reinforce this worldview",
+      "url": "https://www.juancole.com/2026/11/palestines-liberation-religious.html",
+      "source": "Juancole.com",
+      "source_type": "news",
+      "author": "Ramzy Baroud",
+      "published_at": "2026-11-26T05:06:54Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Juancole.com"
+        },
+        "author": "Ramzy Baroud",
+        "title": "Not in God’s Name: Why Palestine’s Liberation Struggle is not a Religious War",
+        "description": "Behind Israel stands a vast apparatus of religious fundamentalists, particularly in the US, who reinforce this worldview",
+        "url": "https://www.juancole.com/2026/11/palestines-liberation-religious.html",
+        "urlToImage": "https://www.juancole.com/images/2026/11/ash-hayes-qQ_3Se2Vy20-unsplash.jpg",
+        "publishedAt": "2026-11-26T05:06:54Z",
+        "content": "( Middle East Monitor ) – A Palestinian Christian priest, Father Issa Thaljieh, was denied a US visa in November, for seemingly no other reason than the fact that he is Palestinian.\r\n“I believe the r… [+7113 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "id": "news_e6a5f866e74f",
+      "title": "Hedge funds are no longer just for the rich. They’re coming for everyday investors",
+      "content": "For decades, hedge funds were the preserve of billionaires, pension funds and deep-pocketed institutional investors. Now, the industry is increasingly courting a new pool of capital: everyday investors.\nThe shift, dubbed by some as the \"retailization\" of hedg…",
+      "url": "https://biztoc.com/x/1a4d6192f7510825",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-26T01:14:35Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": null,
+        "title": "Hedge funds are no longer just for the rich. They’re coming for everyday investors",
+        "description": "For decades, hedge funds were the preserve of billionaires, pension funds and deep-pocketed institutional investors. Now, the industry is increasingly courting a new pool of capital: everyday investors.\nThe shift, dubbed by some as the \"retailization\" of hedg…",
+        "url": "https://biztoc.com/x/1a4d6192f7510825",
+        "urlToImage": "https://cdn.biztoc.com/1a4d6192f7510825_s.webp",
+        "publishedAt": "2026-11-26T01:14:35Z",
+        "content": "For decades, hedge funds were the preserve of billionaires, pension funds and deep-pocketed institutional investors. Now, the industry is increasingly courting a new pool of capital: everyday investo… [+142 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.7,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "对普通投资者的对冲基金影响显著。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到对普通投资者的影响",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注对普通投资者的市场影响",
+      "industry_subcategory": "funding_mna",
+      "industry_subcategory_name": "融资并购"
+    },
+    {
+      "id": "news_bdb3dc572bb4",
+      "title": "Mock accreditation: Ballot papers won’t bear party names – INEC",
+      "content": "The Independent National Electoral Commission says no names of registered political parties will appear on the ballot papers to be used during Saturday’s nationwide mock accreditation exercise.\n\nRead More: https://punchng.com/mock-accreditation-ballot-papers-…",
+      "url": "https://punchng.com/mock-accreditation-ballot-papers-wont-bear-party-names-inec/",
+      "source": "The Punch",
+      "source_type": "news",
+      "author": "Tosin Oyediran",
+      "published_at": "2026-11-26T06:20:41Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "The Punch"
+        },
+        "author": "Tosin Oyediran",
+        "title": "Mock accreditation: Ballot papers won’t bear party names – INEC",
+        "description": "The Independent National Electoral Commission says no names of registered political parties will appear on the ballot papers to be used during Saturday’s nationwide mock accreditation exercise.\n\nRead More: https://punchng.com/mock-accreditation-ballot-papers-…",
+        "url": "https://punchng.com/mock-accreditation-ballot-papers-wont-bear-party-names-inec/",
+        "urlToImage": "https://punchng.com/wp-content/uploads/2026/06/INEC.webp",
+        "publishedAt": "2026-11-26T06:20:41Z",
+        "content": "The Independent National Electoral Commission says no names of registered political parties will appear on the ballot papers to be used during Saturdays nationwide mock accreditation exercise.\r\nINEC … [+3925 chars]",
+        "priority_weight": 0.5,
+        "search_keyword": "institutional audit",
+        "source_quality": "medium"
+      },
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.5,
+      "mentioned_companies": [],
+      "importance_score": 5,
+      "ai_summary": "",
+      "business_relevance": 1.0,
+      "relevance_reason": "",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": "",
+      "industry_subcategory": "other",
+      "industry_subcategory_name": "其他"
+    },
+    {
+      "title": "China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation",
+      "description": "The decision comes after the group met in May in Uzbekistan and identified cross-border digital payments as a new area of cooperation.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-11-27T04:18:40",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "中国、日本、韩国和东盟将成立数字支付工作组。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及跨境数字支付",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注数字支付监管政策的变化",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "JPMorgan flags bitcoin ‘capitulation,’ Democrats push back on SEC’s crypto plans, and more",
+      "description": "In today's newsletter, JPMorgan flags bitcoin 'capitulation' as Strategy's NAV multiple sinks; Democrats step up opposition to SEC's crypto plans; and more.",
+      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-11-27T02:20:00",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "JPMorgan指出比特币市场的变化，涉及监管动态。",
+      "business_relevance": 0.5,
+      "relevance_reason": "提到加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注SEC的加密监管动态",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Tokenized Anthropic Holders Doubled in 3 Days",
+      "description": "The Cash Leg Moves Onchain An onchain trade requires both the tokenized asset itself and an onchain payment that clears it. Most of this year’s progress has been focused on the asset. Last week bank money started to move onchain too. Last Tuesday, Fed Governor Christopher Waller said that central bank money needs to stay […]",
+      "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-26-tokenized-anthropic-holders-doubled-in-3-days-446013",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-11-26T17:32:00",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "链上支付和资产动态引发关注。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到链上支付动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注链上支付技术进展。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "‘The time to prepare for a cryptographic breakthrough is before it happens’: Zcash team urges faster deprecation of legacy shielded pool",
+      "description": "Zakura wants Zcash to disable Sapling deposits over speculative concerns about AI-assisted mathematical breakthroughs.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-26-the-time-to-prepare-for-a-cryptographic-breakthrough-is-before-it-happens-zcash-team-urges-faster-deprecation-of-legacy-shielded-pool-447000",
+      "source": "The Block",
+      "source_category": "media",
+      "published_at": "2026-11-26T13:22:47",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "Zcash团队呼吁加快淘汰旧版隐私池以应对技术突破。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及加密技术发展",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "技术发展",
+        "竞争格局"
+      ],
+      "industry_action": "关注隐私技术的进展和影响",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
+      "description": "Self-custody means holding your own crypto instead of trusting an exchange. Here's how it works, the wallets involved and the risks.",
+      "url": "https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-11-26T21:01:03",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [],
+      "importance_score": 6,
+      "ai_summary": "自我托管加密货币的风险与方法探讨。",
+      "business_relevance": 0.5,
+      "relevance_reason": "涉及自我托管概念",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "medium",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注自我托管对市场的潜在影响",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    },
+    {
+      "title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
+      "description": "Sepblac can now suspend crypto, bank and payment accounts for up to five working days, with courts deciding on any extension.",
+      "url": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-11-26T16:43:02",
+      "data_type": "rss",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "西班牙金融情报单位可冻结加密账户。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密货币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注西班牙的监管动态，评估影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "ARACORE Signs MOU with U.S.-Based Utila to Explore Stablecoin Payment, Settlement Technology and Business Collaboration - The Detroit News",
+      "description": "ARACORE Signs MOU with U.S.-Based Utila to Explore Stablecoin Payment, Settlement Technology and Business Collaboration&nbsp;&nbsp;The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQVlIaXpvWVpQbXl5bkt5aExURVdNdno0TTYxa0tCZ2JNdWcwOEtsUWUwcHZ6TUJhRnUtUzJ1LTZFV3ZWblpuZVllYjl6NmJuMlZsbE9xVmliNEFTb256YlJPQXVQTll2SzBpbU45Skp5MFVoSDV3Y0dxWXRlRm43eUNpU2l4eW83cW9rUDlyakNLVzdpc0pteVRnUXpPVTVJWnFPemVvXzB6MEZBY3hVTXljTjVCOUpTMXM0U0ZUUFl3RHhsdTlEWHNYeHQzZHJzaldjVmZLTERySUhETDdhY2xiWEFpTUlhbGVvNHRDWE9RaFhITU9td3k3SXp4cWoya0Rn?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-11-27T06:07:02",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "ARACORE",
+        "Utila"
+      ],
+      "importance_score": 8,
+      "ai_summary": "ARACORE与Utila签署谅解备忘录，探索稳定币支付技术。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付技术",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币支付技术的进展",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "StraitsX and OCBC pilot stablecoin B2B payments into bank accounts - The Paypers",
+      "description": "StraitsX and OCBC pilot stablecoin B2B payments into bank accounts&nbsp;&nbsp;The Paypers",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZnE3VFBtY2J4Z3NUNnRwRTE2QW1mV0hNTGpReExZX25pbUlIY3JBc1g5YlFST09KRGhWVkZqR2pma1RBeExzTFhIY3g0Nm5keWxOTF9oUlQ5Qm5MeHY1NUVwdDJpek5FaXE4cmJzdFFpWGFscjJpcVlFcnBKdC1YZTc5Y2xSRG02cEFhaExvQktDcWNlRERTRndQZFJNbnVmVWhkaUhUall2ZmVzTnhhZzdNUGpXQQ?oc=5",
+      "source": "Google News (stablecoin B2B)",
+      "source_category": "google_news",
+      "published_at": "2026-11-26T11:32:28",
+      "data_type": "rss",
+      "search_keyword": "stablecoin B2B",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "StraitsX",
+        "OCBC"
+      ],
+      "importance_score": 8,
+      "ai_summary": "StraitsX与OCBC试点稳定币B2B支付业务。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付业务",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币支付的市场动态。",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "ARACORE and Utila Partner to Revolutionize Institutional Stablecoin Settlement - FF News",
+      "description": "ARACORE and Utila Partner to Revolutionize Institutional Stablecoin Settlement&nbsp;&nbsp;FF News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjdNbEtZUWNGV3NoQl93TUZIc056TWcwcEM0Wm9LSjVUSk84WDlFNHRManlNc0xiMEx6UmQyeUVNTWxjemF2UmpZWWRoY21QNVZZOTU0ZkRsNUVhdGxPZmMtSGVRVXM4bHJsWkJ5TEZIdzJEeXBnZUxNeUpOcUYtb0xacHhzXzQyT2UzWWtvT3Z5T1cxclZOdmVaZkJ1a0w1?oc=5",
+      "source": "Google News (cross-border stablecoin)",
+      "source_category": "google_news",
+      "published_at": "2026-11-27T07:18:32",
+      "data_type": "rss",
+      "search_keyword": "cross-border stablecoin",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "ARACORE",
+        "Utila"
+      ],
+      "importance_score": 8,
+      "ai_summary": "ARACORE与Utila合作推进机构稳定币结算。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币结算",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "市场趋势",
+        "技术发展"
+      ],
+      "industry_action": "关注稳定币结算技术进展",
+      "industry_subcategory": "stablecoin_payments",
+      "industry_subcategory_name": "稳定币支付"
+    },
+    {
+      "title": "Kenyan regulators ask crypto companies to apply for licenses - Mariblock",
+      "description": "Kenyan regulators ask crypto companies to apply for licenses&nbsp;&nbsp;Mariblock",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeFppR2RXb0RxRVUyYWlvbmwzNDk5UlMzUVYxMFNiTUlBY242bGxfaElYMHR0X1NuTFlud3Rvcy00VnhzSjk4XzlNVF8tRkZIRGtIRFE1bFVvWUZLazgyVWJLVWthcFZqZVdPZHJSb2NJYS1iMFl5R2phcVhqZUY4Sl82cm94MmZERmJzNW54ZE9QMFJpc2Z4Wm9R?oc=5",
+      "source": "Google News (stablecoin license)",
+      "source_category": "google_news",
+      "published_at": "2026-11-26T12:44:50",
+      "data_type": "rss",
+      "search_keyword": "stablecoin license",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 7,
+      "ai_summary": "肯尼亚监管机构要求加密公司申请许可证。",
+      "business_relevance": 0.7,
+      "relevance_reason": "加密货币监管动态",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注肯尼亚的监管政策变化，评估影响。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Stablecoin Regulation by Country: 2026 Tracker - OneSafe",
+      "description": "Stablecoin Regulation by Country: 2026 Tracker&nbsp;&nbsp;OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zZGtyamwzSkFHNW5nblNhSDBkM1RIREo0clhFY0ttY1h2YXJsSUtkeGdmdXRZajZ3QzZhVzZZcGNDamlwdkxMZWRJRWI2NVN6ZWVpSkF0SS15RF9ZY3pmOTJIbDkzakstVC1zN3pFVlJXVWRlQWlta2lpSERRQQ?oc=5",
+      "source": "Google News (stablecoin regulation Hong Kong)",
+      "source_category": "google_news",
+      "published_at": "2026-11-26T15:54:41",
+      "data_type": "rss",
+      "search_keyword": "stablecoin regulation Hong Kong",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [],
+      "importance_score": 8,
+      "ai_summary": "各国对稳定币的监管动态跟踪。",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币监管",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势"
+      ],
+      "industry_action": "关注各国监管政策变化，调整合规策略。",
+      "industry_subcategory": "regulation_licensing",
+      "industry_subcategory_name": "监管牌照"
+    },
+    {
+      "title": "Standard Chartered Crypto Breach Raises Institutional Security Fears - BeInCrypto",
+      "description": "Standard Chartered Crypto Breach Raises Institutional Security Fears&nbsp;&nbsp;BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FWHROZGpSb3RtMFkxbV9rSHY4b1pFajYwN3ZIX3dYd3Yta0swVGpKc0pieGVXUlBva0h2U2NHUU53YjFrREhPdWhSYjNOd1lSQWN2YnNESjBUamZWNGlZaUJOblBqd21pNTA1Ukp0aVQtaS16Y0NN?oc=5",
+      "source": "Google News (crypto custody institution)",
+      "source_category": "google_news",
+      "published_at": "2026-11-26T23:04:34",
+      "data_type": "rss",
+      "search_keyword": "crypto custody institution",
+      "business_category": "industry",
+      "business_category_cn": "行业进展",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Standard Chartered"
+      ],
+      "importance_score": 7,
+      "ai_summary": "标准 Chartered 的加密安全漏洞引发机构担忧。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密安全问题",
+      "threat_level": "",
+      "impact_areas": [],
+      "suggested_action": "",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "high",
+      "impact_type": [
+        "监管影响",
+        "市场趋势",
+        "竞争格局"
+      ],
+      "industry_action": "关注安全合规政策的变化",
+      "industry_subcategory": "custody_mpc_risk",
+      "industry_subcategory_name": "托管与风险"
+    }
+  ],
+  "company": [
+    {
+      "id": "news_0ca8bc4e2e7b",
+      "title": "HSBC sees more than 100,000 users of its stablecoin in first month since launch",
+      "content": "More than 100,000 people used HSBC RedCoin, the stablecoin issued by Hong Kong’s biggest lender, in the first month following its launch, indicating retail customers in the city were interested in digital assets, HSBC said in a statement issued on Thursday.\n“…",
+      "url": "https://biztoc.com/x/9f46fca846989c57",
+      "source": "Biztoc.com",
+      "source_type": "news",
+      "author": null,
+      "published_at": "2026-11-26T03:01:17Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": null,
+        "title": "HSBC sees more than 100,000 users of its stablecoin in first month since launch",
+        "description": "More than 100,000 people used HSBC RedCoin, the stablecoin issued by Hong Kong’s biggest lender, in the first month following its launch, indicating retail customers in the city were interested in digital assets, HSBC said in a statement issued on Thursday.\n“…",
+        "url": "https://biztoc.com/x/9f46fca846989c57",
+        "urlToImage": "https://cdn.biztoc.com/9f46fca846989c57_s.webp",
+        "publishedAt": "2026-11-26T03:01:17Z",
+        "content": "More than 100,000 people used HSBC RedCoin, the stablecoin issued by Hong Kongs biggest lender, in the first month following its launch, indicating retail customers in the city were interested in dig… [+138 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "HSBC"
+      ],
+      "importance_score": 8,
+      "ai_summary": "汇丰银行稳定币在首月吸引超10万用户。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币用户增长",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "客户争夺",
+        "市场定价"
+      ],
+      "suggested_action": "关注汇丰稳定币的市场表现，调整策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "id": "news_9937efd7102b",
+      "title": "Tether’s USD₮ goes live on D3 through a new USD vault",
+      "content": "The integration of USD on D3 enhances user engagement by offering yield opportunities, potentially increasing platform retention and capital flow.\nThe post Tether’s USD₮ goes live on D3 through a new USD vault appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/tether-usdt-live-d3-usd-vault/",
+      "source": "Crypto Briefing",
+      "source_type": "news",
+      "author": "Estefano Gomez",
+      "published_at": "2026-11-26T10:04:10Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "Crypto Briefing"
+        },
+        "author": "Estefano Gomez",
+        "title": "Tether’s USD₮ goes live on D3 through a new USD vault",
+        "description": "The integration of USD on D3 enhances user engagement by offering yield opportunities, potentially increasing platform retention and capital flow.\nThe post Tether’s USD₮ goes live on D3 through a new USD vault appeared first on Crypto Briefing.",
+        "url": "https://cryptobriefing.com/tether-usdt-live-d3-usd-vault/",
+        "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/26050400/library-tether-s-usd-goes-live-on-d3-through-a-new-usd-vault-800x450.jpg",
+        "publishedAt": "2026-11-26T10:04:10Z",
+        "content": "The DomainFi platform adds a yield vault for Tether's stablecoin, powered by Sentora's Earn OS and Upshift infrastructureTether’s stablecoin, USD, is now available on D3, a platform that turns intern… [+2367 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Tether"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Tether推出新的USD₮存储方案，影响稳定币市场。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币USD₮",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "市场定价",
+        "品牌影响"
+      ],
+      "suggested_action": "关注Tether动态，调整市场策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "id": "news_4039d4aeace6",
+      "title": "Tether commits $14.5 million to a fintech that uses rival Circle’s USDC for Visa settlement",
+      "content": "Lemon’s April Visa rollout named USDC for card settlement, showing how two stablecoins can play different roles in the same payment app.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in yo…",
+      "url": "https://cryptoslate.com/tether-lemon-deal-backs-a-wallet-that-turns-bank-dollars-into-usdt/",
+      "source": "CryptoSlate",
+      "source_type": "news",
+      "author": "Liam Akiba Wright",
+      "published_at": "2026-11-26T09:50:42Z",
+      "categories": [
+        "general"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "mentioned_coins": [],
+      "quality_score": 50,
+      "engagement": 0,
+      "raw_data": {
+        "source": {
+          "id": null,
+          "name": "CryptoSlate"
+        },
+        "author": "Liam Akiba Wright",
+        "title": "Tether commits $14.5 million to a fintech that uses rival Circle’s USDC for Visa settlement",
+        "description": "Lemon’s April Visa rollout named USDC for card settlement, showing how two stablecoins can play different roles in the same payment app.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in yo…",
+        "url": "https://cryptoslate.com/tether-lemon-deal-backs-a-wallet-that-turns-bank-dollars-into-usdt/",
+        "urlToImage": "https://cryptoslate.com/wp-content/uploads/2026/11/tether-lemon-settlement-switch-960x720.webp",
+        "publishedAt": "2026-11-26T09:50:42Z",
+        "content": "Tether announced the investment in Argentinian fintech Lemon on Nov. 25 and said it aimed to expand the use of USDT and its tokenized gold, XAUT, in Latin America.\r\nCEO Paolo Ardoino said people in t… [+4197 chars]",
+        "priority_weight": 1.0,
+        "search_keyword": "stablecoin",
+        "source_quality": "medium"
+      },
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Tether",
+        "Circle"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Tether投资于使用竞争对手USDC的金融科技公司。",
+      "business_relevance": 0.7,
+      "relevance_reason": "提到竞争对手Circle的USDC",
+      "threat_level": "medium",
+      "impact_areas": [
+        "产品竞争",
+        "市场定价"
+      ],
+      "suggested_action": "关注USDC的市场动态，评估竞争策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
+      "description": "The crypto custodian said an unauthorized party accessed some client and staff names and emails, but found no unauthorized transactions.",
+      "url": "https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details",
+      "source": "Decrypt",
+      "source_category": "media",
+      "published_at": "2026-11-26T13:13:19",
+      "data_type": "rss",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Standard Chartered",
+        "Zodia Custody"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Standard Chartered 的 Zodia Custody 遭遇黑客攻击，客户信息被泄露。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及加密托管安全问题",
+      "threat_level": "medium",
+      "impact_areas": [
+        "品牌影响",
+        "合规优势"
+      ],
+      "suggested_action": "加强安全措施，提升客户信任。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "title": "Visa and NBX plan stablecoin-linked payment card - Yahoo Finance",
+      "description": "Visa and NBX plan stablecoin-linked payment card&nbsp;&nbsp;Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNWtYYm1MNXJOR1ZENmp0UlM4RzVzbXpfcDRxajljbEVSVERnZVNpbEFVdmlFeU1DUFdFRi1icVEtSmNoc3hSN0oyWXpaekFmWnVXck9YYjJFMVZYZlpFeENmRkRFNFpFUWJwVUFGcGZZbnA0cEIzWDRoelY2dGxjMS1EMA?oc=5",
+      "source": "Google News (stablecoin payment)",
+      "source_category": "google_news",
+      "published_at": "2026-11-27T06:45:00",
+      "data_type": "rss",
+      "search_keyword": "stablecoin payment",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Visa",
+        "NBX"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Visa与NBX计划推出稳定币支付卡，影响支付行业。",
+      "business_relevance": 0.9,
+      "relevance_reason": "提到稳定币支付卡",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "市场定价"
+      ],
+      "suggested_action": "关注Visa和NBX的市场动向，调整产品策略。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "title": "Standard Chartered-backed Zodia Custody hit by client data breach - Crypto News",
+      "description": "Standard Chartered-backed Zodia Custody hit by client data breach&nbsp;&nbsp;Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlVZcnUyY1dIUjZuMXp4T2ZNRmhRM1Rmdnp0akhCanBueS1CWVF0a2xYRDBmV2c0WVdRajM5ZmRad3doRHdzb1ZMOUpQN0otd3YxMlRCdXZTTVpmZklzcU5CQzdQOENQSmFPZkdGQklmYVNSYkh0M2NoWGQ0NzFuZHRtNUdFZDlDSWQ2OGZCMA?oc=5",
+      "source": "Google News (crypto custody institution)",
+      "source_category": "google_news",
+      "published_at": "2026-11-26T11:00:27",
+      "data_type": "rss",
+      "search_keyword": "crypto custody institution",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.8,
+      "mentioned_companies": [
+        "Zodia Custody"
+      ],
+      "importance_score": 7,
+      "ai_summary": "Zodia Custody遭遇客户数据泄露事件。",
+      "business_relevance": 0.7,
+      "relevance_reason": "涉及托管业务数据泄露",
+      "threat_level": "medium",
+      "impact_areas": [
+        "品牌影响",
+        "客户争夺"
+      ],
+      "suggested_action": "关注数据安全，提升客户信任。",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    },
+    {
+      "title": "Visa Launches Experimental AI Agent Wallet with Stablecoin Payments - KuCoin",
+      "description": "Visa Launches Experimental AI Agent Wallet with Stablecoin Payments&nbsp;&nbsp;KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2F0bzdhMzFTbm1FcnJ2ZnFLYkUtUjJtMkk2YzhyUklWN2ZVa3RldkwtXzBrMkN3ZEdEOXZhUHh6MHRpUzh2b2c2WHdCSlZRRWZKOHMzZkhnX2JiR29BYkFsRjhTT3R0RUhPLUExbHlDaWNzclBjOW1Ud0hfZUdZVmd3RmxOTUZxNHVCc0JUb0FuR3poN2ZmUzhIV25jcHpjTTBv?oc=5",
+      "source": "Google News (stablecoin settlement)",
+      "source_category": "google_news",
+      "published_at": "2026-11-27T07:42:09",
+      "data_type": "rss",
+      "search_keyword": "stablecoin settlement",
+      "business_category": "competitors",
+      "business_category_cn": "竞争对手",
+      "ai_confidence": 0.9,
+      "mentioned_companies": [
+        "Visa"
+      ],
+      "importance_score": 8,
+      "ai_summary": "Visa推出了支持稳定币支付的AI钱包",
+      "business_relevance": 0.9,
+      "relevance_reason": "涉及稳定币支付",
+      "threat_level": "high",
+      "impact_areas": [
+        "产品竞争",
+        "市场定价"
+      ],
+      "suggested_action": "关注Visa的产品动态，评估市场影响",
+      "opportunity_level": "",
+      "opportunity_type": [],
+      "client_action": "",
+      "relevance_level": "",
+      "impact_type": [],
+      "industry_action": ""
+    }
+  ],
+  "funding": []
+}
